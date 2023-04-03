@@ -13,6 +13,7 @@ enum ResponseCodeEnum: int
     case UNAUTHORIZED = 7;
     case UNAUTHENTICATED = 8;
     case INVALID_CONTENT = 9;
+    case INVALID_CREDENTIALS = 10;
 
     public function getStatusCode(): int
     {
@@ -20,6 +21,7 @@ enum ResponseCodeEnum: int
             self::OK => 200,
             self::TOKEN_MISMATCH,
             self::CLIENT_ERROR => 400,
+            self::INVALID_CREDENTIALS,
             self::UNAUTHENTICATED => 401,
             self::UNAUTHORIZED => 403,
             self::NOT_FOUND => 404,

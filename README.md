@@ -13,6 +13,9 @@ $ sail composer install
 # setup application key
 $ sail art key:generate
 
+# setup JWT key
+$ sail art jwt:secret
+
 # publish telescope assets
 $ sail art telescope:publish
 
