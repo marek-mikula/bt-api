@@ -19,3 +19,10 @@ $ sail art telescope:publish
 # install migrations
 $ sail art migrate
 ```
+
+## Commands
+
+```bash
+# format code
+$ sail composer format
+```
