@@ -17,7 +17,7 @@ class LoginRequest extends GuestRequest
             'password' => [
                 'required',
                 'string',
-            ]
+            ],
         ];
     }
 

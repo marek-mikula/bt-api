@@ -2,6 +2,7 @@
 
 namespace App\Models;
 
+use App\Casts\EncryptCast;
 use Carbon\Carbon;
 use Database\Factories\UserFactory;
 use Illuminate\Database\Eloquent\Casts\Attribute;
@@ -16,8 +17,10 @@ use Tymon\JWTAuth\Contracts\JWTSubject;
  * @property string $firstname
  * @property string $lastname
  * @property string $email
- * @property Carbon|null $email_verified_at
  * @property string $password
+ * @property string $public_key
+ * @property string $secret_key
+ * @property Carbon|null $email_verified_at
  * @property Carbon $created_at
  * @property Carbon $updated_at
  */
@@ -30,15 +33,21 @@ class User extends Authenticatable implements JWTSubject
         'firstname',
         'lastname',
         'email',
-        'email_verified_at',
         'password',
+        'public_key',
+        'secret_key',
+        'email_verified_at',
     ];
 
     protected $hidden = [
         'password',
+        'public_key',
+        'secret_key',
     ];
 
     protected $casts = [
+        'public_key' => EncryptCast::class,
+        'secret_key' => EncryptCast::class,
         'email_verified_at' => 'datetime',
     ];
 
