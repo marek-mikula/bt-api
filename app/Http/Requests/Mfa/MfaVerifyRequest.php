@@ -23,7 +23,7 @@ class MfaVerifyRequest extends GuestRequest
 
     public function getCode(): string
     {
-        return Str::upper((string) $this->input('code'));
+        return Str::lower((string) $this->input('code'));
     }
 
     /**

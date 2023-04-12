@@ -11,6 +11,7 @@ use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\BelongsTo;
 use Illuminate\Database\Query\Builder;
 use Illuminate\Support\Facades\Crypt;
+use Illuminate\Support\Str;
 
 /**
  * @property-read int $id
@@ -65,6 +66,11 @@ class MfaToken extends Model
         'valid_until' => 'datetime',
         'invalidated_at' => 'datetime',
     ];
+
+    public function code(): Attribute
+    {
+        return Attribute::set(static fn (string $value): string => Str::lower($value));
+    }
 
     public function secretToken(): Attribute
     {

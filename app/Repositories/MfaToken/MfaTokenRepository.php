@@ -23,8 +23,7 @@ class MfaTokenRepository implements MfaTokenRepositoryInterface
         $token->type = $type;
         $token->data = $data;
         $token->valid_until = Carbon::now()->addMinutes($validMinutes);
-
-        $token->code = Str::upper(Str::random(6));
+        $token->code = Str::random(6);
 
         $token->save();
 
