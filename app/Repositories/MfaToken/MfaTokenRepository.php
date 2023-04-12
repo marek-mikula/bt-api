@@ -54,4 +54,13 @@ class MfaTokenRepository implements MfaTokenRepositoryInterface
 
         return $mfaToken;
     }
+
+    public function invalidate(MfaToken $mfaToken): MfaToken
+    {
+        $mfaToken->invalidated = true;
+        $mfaToken->invalidated_at = Carbon::now();
+        $mfaToken->save();
+
+        return $mfaToken;
+    }
 }

@@ -13,4 +13,6 @@ interface MfaTokenRepositoryInterface
     public function invalidatePreviousOfType(User $user, MfaTokenTypeEnum $type): void;
 
     public function findValid(string $token, MfaTokenTypeEnum $type): ?MfaToken;
+
+    public function invalidate(MfaToken $mfaToken): MfaToken;
 }

@@ -26,7 +26,7 @@ class AppServiceProvider extends ServiceProvider
         }
 
         $this->app->singleton(Parser::class, function (): Parser {
-            return new Parser(request()->headers->all());
+            return new Parser(getallheaders());
         });
 
         foreach ($this->services as $service) {
