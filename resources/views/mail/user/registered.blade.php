@@ -1,0 +1,26 @@
+@php
+
+/**
+ * @var \App\Models\User $user
+ * @var string $url
+ * @var string $code
+ */
+
+@endphp
+
+<x-mail::message>
+Dear {{ $user->full_name }},
+
+Thank you for registering with our web application! To complete the registration process, we need to confirm your email address.
+
+Please follow the link bellow and use the following code to confirm your email address: **{{ $code }}**
+
+<x-mail::button :url="$url">
+Confirm email address
+</x-mail::button>
+
+If you did not initiate this registration or do not recognize this email, please disregard this message.
+
+Thank you,<br>
+{{ config('app.name') }}
+</x-mail::message>

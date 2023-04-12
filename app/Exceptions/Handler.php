@@ -136,6 +136,15 @@ class Handler extends ExceptionHandler
             );
         }
 
+        // common http exception
+        if ($e instanceof HttpException) {
+            return $this->sendJsonResponse(
+                data: $e->getData(),
+                code: $e->getResponseCode(),
+                message: $e->getMessage()
+            );
+        }
+
         $data = [];
 
         if ($isDebug) {

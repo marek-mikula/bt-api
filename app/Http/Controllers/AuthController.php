@@ -8,30 +8,42 @@ use App\Http\Requests\Auth\RegisterRequest;
 use App\Http\Requests\AuthRequest;
 use App\Http\Resources\UserResource;
 use App\Models\User;
+use App\Services\AuthService;
 use Illuminate\Http\JsonResponse;
 use Tymon\JWTAuth\JWTGuard;
 
 class AuthController extends Controller
 {
-    private readonly JWTGuard $guard;
-
-    public function __construct()
-    {
-        /** @var JWTGuard $jwtGuard */
-        $jwtGuard = auth('api');
-
-        $this->guard = $jwtGuard;
+    public function __construct(
+        private readonly AuthService $service
+    ) {
     }
+
+    public function register(RegisterRequest $request): JsonResponse
+    {
+        $mfaToken = $this->service->register($request->toDTO());
+
+        return $this->sendMfa($mfaToken);
+    }
+
+
+
+
+
+
+
 
     public function login(LoginRequest $request): JsonResponse
     {
         $credentials = $request->getCredentials();
 
-        if (! $token = $this->guard->attempt($credentials)) {
+        $tokenPair = $this->service->loginWithCredentials($credentials);
+
+        if (! $tokenPair) {
             return $this->sendError(code: ResponseCodeEnum::INVALID_CREDENTIALS, message: 'Invalid credentials.');
         }
 
-        return $this->sendToken($token);
+        return $this->sendTokenPair($tokenPair);
     }
 
     public function me(AuthRequest $request): JsonResponse
@@ -46,20 +58,22 @@ class AuthController extends Controller
 
     public function logout(AuthRequest $request): JsonResponse
     {
-        $this->guard->logout();
+        /** @var JWTGuard $jwtGuard */
+        $jwtGuard = auth('api');
+
+        $jwtGuard->logout();
 
         return $this->sendSuccess(message: 'Logged out.');
     }
 
     public function refresh(AuthRequest $request): JsonResponse
     {
-        return $this->sendToken($this->guard->refresh());
-    }
+        $token = $this->service->refresh($request);
 
-    public function register(RegisterRequest $request): JsonResponse
-    {
-        return $this->sendSuccess([
-            'data' => $request->all(),
-        ]);
+        if (! $token) {
+            return $this->sendError(code: ResponseCodeEnum::REFRESH_TOKEN_EXPIRED, message: 'Refresh token expired or invalidated.');
+        }
+
+        return $this->sendToken($token);
     }
 }

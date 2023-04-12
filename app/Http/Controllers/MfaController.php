@@ -1,0 +1,50 @@
+<?php
+
+namespace App\Http\Controllers;
+
+use App\Enums\ResponseCodeEnum;
+use App\Http\Requests\Mfa\MfaVerifyRequest;
+use App\Repositories\User\UserRepositoryInterface;
+use App\Services\AuthService;
+use Illuminate\Http\JsonResponse;
+
+class MfaController extends Controller
+{
+    public function __construct(
+        private readonly UserRepositoryInterface $userRepository,
+        private readonly AuthService $authService,
+    ) {
+    }
+
+    public function verifyEmail(MfaVerifyRequest $request): JsonResponse
+    {
+        $token = $request->getToken();
+        $code = $request->getCode();
+
+        if ($code !== $token->code) {
+            return $this->sendError(code: ResponseCodeEnum::INVALID_MFA_CODE, message: 'Invalid code.');
+        }
+
+        $user = $token->loadMissing('user')->user;
+
+        $this->userRepository->verifyEmail($user);
+
+        $tokenPair = $this->authService->login($user);
+
+        return $this->sendTokenPair($tokenPair);
+    }
+
+    public function verifyDevice(MfaVerifyRequest $request): JsonResponse
+    {
+        $token = $request->getToken();
+        $code = $request->getCode();
+
+        if ($code !== $token->code) {
+            return $this->sendError(code: ResponseCodeEnum::INVALID_MFA_CODE, message: 'Invalid code.');
+        }
+
+        $user = $token->loadMissing('user')->user;
+
+        // login user
+    }
+}

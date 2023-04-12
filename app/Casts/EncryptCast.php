@@ -13,7 +13,7 @@ class EncryptCast implements CastsAttributes
      */
     public function get(Model $model, string $key, mixed $value, array $attributes): ?string
     {
-        return ! empty($value) ? Crypt::decrypt($value) : null;
+        return ! empty($value) ? Crypt::decryptString($value) : null;
     }
 
     /**
@@ -21,6 +21,6 @@ class EncryptCast implements CastsAttributes
      */
     public function set(Model $model, string $key, mixed $value, array $attributes): ?string
     {
-        return ! empty($value) ? Crypt::encrypt($value) : null;
+        return ! empty($value) ? Crypt::encryptString($value) : null;
     }
 }
