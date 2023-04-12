@@ -21,7 +21,8 @@ class UserRegisteredMail extends BaseMail
     public function envelope(): Envelope
     {
         return new Envelope(
-            subject: 'User Registered',
+            to: $this->user->email,
+            subject: 'User Registered'
         );
     }
 

@@ -40,7 +40,6 @@ class MfaToken extends Model
     protected $attributes = [
         'invalidated' => false,
         'invalidated_at' => null,
-        'data' => [],
     ];
 
     protected $fillable = [
