@@ -17,7 +17,7 @@ class MfaVerifyRequest extends GuestRequest
                 'required',
                 'string',
                 'size:6',
-            ]
+            ],
         ];
     }
 

@@ -3,6 +3,7 @@
 namespace App\Repositories\RefreshToken;
 
 use App\Models\RefreshToken;
+use App\Models\User;
 use Illuminate\Database\Eloquent\ModelNotFoundException;
 
 class RefreshTokenRepository implements RefreshTokenRepositoryInterface
@@ -34,5 +35,13 @@ class RefreshTokenRepository implements RefreshTokenRepositoryInterface
         }
 
         return $refreshToken;
+    }
+
+    public function deviceExists(User $user, string $device): bool
+    {
+        return RefreshToken::query()
+            ->where('user_id', '=', $user->id)
+            ->where('device', '=', $device)
+            ->exists();
     }
 }

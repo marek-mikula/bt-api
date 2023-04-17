@@ -7,6 +7,7 @@ use App\Http\Requests\Auth\LoginRequest;
 use App\Http\Requests\Auth\RegisterRequest;
 use App\Http\Requests\AuthRequest;
 use App\Http\Resources\UserResource;
+use App\Models\MfaToken;
 use App\Models\User;
 use App\Services\AuthService;
 use Illuminate\Http\JsonResponse;
@@ -26,25 +27,29 @@ class AuthController extends Controller
         return $this->sendMfa($mfaToken);
     }
 
-
-
-
-
-
-
-
     public function login(LoginRequest $request): JsonResponse
     {
         $credentials = $request->getCredentials();
 
-        $tokenPair = $this->service->loginWithCredentials($credentials);
+        $tokenPairOfMfaToken = $this->service->loginWithCredentials($credentials);
 
-        if (! $tokenPair) {
+        if (! $tokenPairOfMfaToken) {
             return $this->sendError(code: ResponseCodeEnum::INVALID_CREDENTIALS, message: 'Invalid credentials.');
         }
 
-        return $this->sendTokenPair($tokenPair);
+        // user needs to verify device
+        if ($tokenPairOfMfaToken instanceof MfaToken) {
+            return $this->sendMfa($tokenPairOfMfaToken);
+        }
+
+        return $this->sendTokenPair($tokenPairOfMfaToken);
     }
+
+
+
+
+
+
 
     public function me(AuthRequest $request): JsonResponse
     {

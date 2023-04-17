@@ -2,6 +2,7 @@
 
 namespace App\Services;
 
+use App\Actions\Auth\CreateDeviceIdentifierAction;
 use App\Actions\Auth\CreateRefreshTokenAction;
 use App\DTOs\Auth\RegisterRequestDTO;
 use App\DTOs\Auth\TokenPair;
@@ -9,6 +10,8 @@ use App\Enums\MfaTokenTypeEnum;
 use App\Models\MfaToken;
 use App\Models\User;
 use App\Notifications\User\UserRegisteredNotification;
+use App\Notifications\User\UserVerifyDeviceNotification;
+use App\Notifications\User\UserVerifyEmailNotification;
 use App\Repositories\MfaToken\MfaTokenRepositoryInterface;
 use App\Repositories\RefreshToken\RefreshTokenRepositoryInterface;
 use App\Repositories\User\UserRepositoryInterface;
@@ -50,22 +53,10 @@ class AuthService
         return $mfa;
     }
 
-    public function login(User $user): TokenPair
-    {
-        /** @var JWTGuard $guard */
-        $guard = auth('api');
-
-        $accessToken = $guard->login($user);
-
-        $refreshToken = CreateRefreshTokenAction::create($user);
-
-        return TokenPair::from([
-            'accessToken' => $accessToken,
-            'refreshToken' => $refreshToken->refresh_token,
-        ]);
-    }
-
-    public function loginWithCredentials(array $credentials): ?TokenPair
+    /**
+     * Logs in user via credentials
+     */
+    public function loginWithCredentials(array $credentials): TokenPair|MfaToken|null
     {
         /** @var JWTGuard $guard */
         $guard = auth('api');
@@ -79,13 +70,59 @@ class AuthService
         /** @var User $user */
         $user = $guard->user();
 
+        // user hasn't verified his email yet
+        // -> ask for verification via email
+        if (! $user->email_verified_at) {
+            $mfa = $this->mfaTokenRepository->create($user, MfaTokenTypeEnum::VERIFY_EMAIL);
+
+            $user->notify(new UserVerifyEmailNotification($mfa));
+
+            return $mfa;
+        }
+
+        $device = CreateDeviceIdentifierAction::create();
+
+        // user logged in for the first time with current device
+        // -> ask for verification via email
+        if (! $this->refreshTokenRepository->deviceExists($user, $device)) {
+            $mfa = $this->mfaTokenRepository->create($user, MfaTokenTypeEnum::VERIFY_DEVICE, [
+                'device' => $device,
+            ]);
+
+            $user->notify(new UserVerifyDeviceNotification($mfa));
+
+            return $mfa;
+        }
+
         $refreshToken = CreateRefreshTokenAction::create($user);
 
         return TokenPair::from([
             'accessToken' => $accessToken,
-            'refreshToken' => $refreshToken->token,
+            'refreshToken' => $refreshToken->refresh_token,
         ]);
     }
+
+    /**
+     * Logs in user via model
+     */
+    public function login(User $user, ?string $device = null): TokenPair
+    {
+        /** @var JWTGuard $guard */
+        $guard = auth('api');
+
+        $accessToken = $guard->login($user);
+
+        $refreshToken = CreateRefreshTokenAction::create($user, $device);
+
+        return TokenPair::from([
+            'accessToken' => $accessToken,
+            'refreshToken' => $refreshToken->refresh_token,
+        ]);
+    }
+
+
+
+
 
     public function refresh(Request $request): ?string
     {

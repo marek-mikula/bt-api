@@ -27,6 +27,7 @@ use Illuminate\Support\Str;
  * @property Carbon $created_at
  * @property Carbon $updated_at
  * @property-read User $user
+ *
  * @method static MfaTokenQuery query()
  */
 class MfaToken extends Model

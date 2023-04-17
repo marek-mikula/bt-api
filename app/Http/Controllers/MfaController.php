@@ -48,7 +48,16 @@ class MfaController extends Controller
         }
 
         $user = $token->loadMissing('user')->user;
+        $device = $token->data['device'];
 
-        // login user
+        if (empty($device)) {
+            return $this->sendServerError(message: 'Missing device identifier in token data.');
+        }
+
+        $this->mfaTokenRepository->invalidate($token);
+
+        $tokenPair = $this->authService->login($user, $device);
+
+        return $this->sendTokenPair($tokenPair);
     }
 }
