@@ -4,10 +4,17 @@ namespace App\Repositories\RefreshToken;
 
 use App\Models\RefreshToken;
 use App\Models\User;
+use Carbon\Carbon;
+use Illuminate\Config\Repository;
 use Illuminate\Database\Eloquent\ModelNotFoundException;
 
 class RefreshTokenRepository implements RefreshTokenRepositoryInterface
 {
+    public function __construct(
+        private readonly Repository $configRepository
+    ) {
+    }
+
     public function create(array $data): RefreshToken
     {
         /** @var RefreshToken $refreshToken */
@@ -43,5 +50,15 @@ class RefreshTokenRepository implements RefreshTokenRepositoryInterface
             ->where('user_id', '=', $user->id)
             ->where('device', '=', $device)
             ->exists();
+    }
+
+    public function prolong(RefreshToken $token): RefreshToken
+    {
+        $ttl = (int) $this->configRepository->get('jwt.refresh_ttl');
+
+        $token->valid_until = Carbon::now()->addMinutes($ttl);
+        $token->save();
+
+        return $token;
     }
 }

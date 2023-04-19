@@ -94,7 +94,7 @@ class AuthService
             return $mfa;
         }
 
-        $refreshToken = CreateRefreshTokenAction::create($user);
+        $refreshToken = CreateRefreshTokenAction::create($user, $device);
 
         return TokenPair::from([
             'accessToken' => $accessToken,
@@ -133,6 +133,9 @@ class AuthService
         if ($refreshToken->invalidated || $refreshToken->valid_until->isPast()) {
             return null;
         }
+
+        // prolong the validity of the refresh token with every use
+        $this->refreshTokenRepository->prolong($refreshToken);
 
         /** @var JWTGuard $guard */
         $guard = auth('api');

@@ -14,4 +14,6 @@ interface RefreshTokenRepositoryInterface
     public function findOrFail(string $token): RefreshToken;
 
     public function deviceExists(User $user, string $device): bool;
+
+    public function prolong(RefreshToken $token): RefreshToken;
 }
