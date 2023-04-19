@@ -8,6 +8,7 @@ use App\Models\User;
 use Illuminate\Mail\Mailables\Attachment;
 use Illuminate\Mail\Mailables\Content;
 use Illuminate\Mail\Mailables\Envelope;
+use Illuminate\Support\Arr;
 
 class UserVerifyDeviceMail extends BaseMail
 {
@@ -42,6 +43,7 @@ class UserVerifyDeviceMail extends BaseMail
                 'user' => $this->user,
                 'url' => $url,
                 'code' => $this->mfaToken->code,
+                'device' => Arr::get($this->mfaToken->data, 'device', ''),
             ]
         );
     }

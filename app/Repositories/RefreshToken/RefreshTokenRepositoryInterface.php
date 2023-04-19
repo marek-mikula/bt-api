@@ -16,4 +16,6 @@ interface RefreshTokenRepositoryInterface
     public function deviceExists(User $user, string $device): bool;
 
     public function prolong(RefreshToken $token): RefreshToken;
+
+    public function deleteByDevice(User $user, string $device): void;
 }

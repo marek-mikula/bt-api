@@ -8,6 +8,7 @@ use App\Repositories\MfaToken\MfaTokenRepositoryInterface;
 use App\Repositories\User\UserRepositoryInterface;
 use App\Services\AuthService;
 use Illuminate\Http\JsonResponse;
+use Illuminate\Support\Arr;
 
 class MfaController extends Controller
 {
@@ -47,12 +48,13 @@ class MfaController extends Controller
             return $this->sendError(code: ResponseCodeEnum::INVALID_MFA_CODE, message: 'Invalid code.');
         }
 
-        $user = $token->loadMissing('user')->user;
-        $device = $token->data['device'];
+        $device = Arr::get($token->data, 'device');
 
         if (empty($device)) {
             return $this->sendServerError(message: 'Missing device identifier in token data.');
         }
+
+        $user = $token->loadMissing('user')->user;
 
         $this->mfaTokenRepository->invalidate($token);
 

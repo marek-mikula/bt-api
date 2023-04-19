@@ -20,7 +20,7 @@ Verification Code: **{{ $code }}**
 To verify your email address, please use the link below.
 
 <x-mail::button :url="$url">
-Verify new device
+Verify email address
 </x-mail::button>
 
 If you did not initiate this login or believe that your account may be compromised, please contact us immediately.
@@ -29,4 +29,10 @@ Thank you for your cooperation in keeping your account secure.
 
 Best regards,<br>
 {{ config('app.name') }}
+
+<hr>
+
+<small class="break-all">
+    If the button link does not work. Use this link instead <a href="{{ $url }}">{{ $url }}</a>
+</small>
 </x-mail::message>

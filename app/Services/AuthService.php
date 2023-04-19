@@ -94,6 +94,10 @@ class AuthService
             return $mfa;
         }
 
+        // delete old refresh tokens for the same device,
+        // so they won't duplicate
+        $this->refreshTokenRepository->deleteByDevice($user, $device);
+
         $refreshToken = CreateRefreshTokenAction::create($user, $device);
 
         return TokenPair::from([

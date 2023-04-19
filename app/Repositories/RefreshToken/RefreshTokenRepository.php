@@ -61,4 +61,12 @@ class RefreshTokenRepository implements RefreshTokenRepositoryInterface
 
         return $token;
     }
+
+    public function deleteByDevice(User $user, string $device): void
+    {
+        RefreshToken::query()
+            ->where('user_id', '=', $user->id)
+            ->where('device', '=', $device)
+            ->delete();
+    }
 }

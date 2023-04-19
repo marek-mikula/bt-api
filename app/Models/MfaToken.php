@@ -5,6 +5,7 @@ namespace App\Models;
 use App\Enums\MfaTokenTypeEnum;
 use App\Query\MfaTokenQuery;
 use Carbon\Carbon;
+use Database\Factories\MfaTokenFactory;
 use Illuminate\Database\Eloquent\Casts\Attribute;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
@@ -90,5 +91,10 @@ class MfaToken extends Model
     public function newEloquentBuilder($query): MfaTokenQuery
     {
         return new MfaTokenQuery($query);
+    }
+
+    protected static function newFactory(): MfaTokenFactory
+    {
+        return new MfaTokenFactory();
     }
 }
