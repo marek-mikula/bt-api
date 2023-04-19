@@ -76,7 +76,7 @@ class AuthController extends Controller
         $token = $this->service->refresh($request);
 
         if (! $token) {
-            return $this->sendError(code: ResponseCodeEnum::REFRESH_TOKEN_EXPIRED, message: 'Refresh token expired or invalidated.');
+            return $this->sendError(code: ResponseCodeEnum::INVALID_REFRESH_TOKEN, message: 'Invalid refresh token.');
         }
 
         return $this->sendToken($token);
