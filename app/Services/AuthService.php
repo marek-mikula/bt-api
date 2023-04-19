@@ -124,10 +124,10 @@ class AuthService
         ]);
     }
 
-
-
-
-
+    /**
+     * Refreshes the token and prolongs its validity
+     * if valid.
+     */
     public function refresh(Request $request): ?string
     {
         $refreshToken = $request->cookie('refreshToken');

@@ -45,12 +45,6 @@ class AuthController extends Controller
         return $this->sendTokenPair($tokenPairOfMfaToken);
     }
 
-
-
-
-
-
-
     public function me(AuthRequest $request): JsonResponse
     {
         /** @var User $user */
