@@ -35,7 +35,7 @@ class CreateRefreshTokenAction
         $data = [
             'user_id' => $user->id,
             'refresh_token' => CreateUuidTokenAction::create(RefreshToken::class, 'refresh_token'),
-            'device' => $device ?? $this->parser->toString(),
+            'device' => $device ?? CreateDeviceIdentifierAction::create(),
             'valid_until' => $validUntil,
         ];
 

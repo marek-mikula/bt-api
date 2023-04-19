@@ -20,14 +20,19 @@ trait RespondsAsJson
         return $this->sendJsonResponse($data, $code, $message);
     }
 
+    protected function sendServerError(array $data = [], ResponseCodeEnum $code = ResponseCodeEnum::SERVER_ERROR, string $message = 'Server error.'): JsonResponse
+    {
+        return $this->sendJsonResponse($data, $code, $message);
+    }
+
     protected function sendMfa(MfaToken $mfaToken): JsonResponse
     {
         return $this->sendSuccess([
             'token' => [
-                'type' => 'MFA',
+                'type' => $mfaToken->type->value,
                 'token' => $mfaToken->secret_token,
                 'validUntil' => $mfaToken->valid_until->toIso8601String(),
-            ]
+            ],
         ], ResponseCodeEnum::MFA_TOKEN);
     }
 
@@ -44,7 +49,7 @@ trait RespondsAsJson
                 'accessToken' => $tokenPair->accessToken,
                 'refreshToken' => $tokenPair->refreshToken,
                 'expiresIn' => $expiresIn,
-            ]
+            ],
         ], ResponseCodeEnum::TOKEN_PAIR);
     }
 
@@ -60,7 +65,7 @@ trait RespondsAsJson
                 'type' => 'Bearer',
                 'accessToken' => $token,
                 'expiresIn' => $expiresIn,
-            ]
+            ],
         ], ResponseCodeEnum::ACCESS_TOKEN);
     }
 

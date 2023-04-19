@@ -23,4 +23,10 @@ If you did not initiate this registration or do not recognize this email, please
 
 Thank you,<br>
 {{ config('app.name') }}
+
+<hr>
+
+<small class="break-all">
+    If the button link does not work. Use this link instead <a href="{{ $url }}">{{ $url }}</a>
+</small>
 </x-mail::message>

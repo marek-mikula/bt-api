@@ -14,7 +14,7 @@ enum ResponseCodeEnum: int
     case UNAUTHENTICATED = 8;
     case INVALID_CONTENT = 9;
     case INVALID_CREDENTIALS = 10;
-    case REFRESH_TOKEN_EXPIRED = 11;
+    case INVALID_REFRESH_TOKEN = 11;
     case MFA_TOKEN = 12;
     case INVALID_OR_MISSING_MFA_TOKEN = 13;
     case INVALID_MFA_CODE = 14;
@@ -31,7 +31,7 @@ enum ResponseCodeEnum: int
             self::INVALID_MFA_CODE,
             self::TOKEN_MISMATCH,
             self::CLIENT_ERROR => 400,
-            self::REFRESH_TOKEN_EXPIRED,
+            self::INVALID_REFRESH_TOKEN,
             self::INVALID_CREDENTIALS,
             self::UNAUTHENTICATED => 401,
             self::INVALID_OR_MISSING_MFA_TOKEN,
