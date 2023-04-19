@@ -24,7 +24,9 @@ class TelescopeServiceProvider extends ServiceProvider
         ]);
 
         Telescope::hideResponseParameters([
-            'data.accessToken',
+            'data.token.accessToken',
+            'data.token.refreshToken',
+            'data.token.token',
         ]);
     }
 
