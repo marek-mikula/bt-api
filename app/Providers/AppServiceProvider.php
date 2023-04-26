@@ -5,6 +5,7 @@ namespace App\Providers;
 use App\Enums\EnvEnum;
 use App\Services\AuthService;
 use App\Services\Mfa\MfaTokenResolver;
+use App\Services\PasswordResetService;
 use Illuminate\Support\ServiceProvider;
 use WhichBrowser\Parser;
 
@@ -16,6 +17,7 @@ class AppServiceProvider extends ServiceProvider
     private array $services = [
         AuthService::class,
         MfaTokenResolver::class,
+        PasswordResetService::class,
     ];
 
     public function register(): void
