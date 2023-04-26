@@ -22,4 +22,22 @@ class UserRepository implements UserRepositoryInterface
 
         return $user;
     }
+
+    public function findByEmail(string $email): ?User
+    {
+        /** @var User|null $user */
+        $user = User::query()
+            ->where('email', '=', $email)
+            ->first();
+
+        return $user;
+    }
+
+    public function changePassword(User $user, string $password): User
+    {
+        $user->password = $password;
+        $user->save();
+
+        return $user;
+    }
 }

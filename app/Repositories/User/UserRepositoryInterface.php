@@ -9,4 +9,8 @@ interface UserRepositoryInterface
     public function create(array $data): User;
 
     public function verifyEmail(User $user): User;
+
+    public function findByEmail(string $email): ?User;
+
+    public function changePassword(User $user, string $password): User;
 }
