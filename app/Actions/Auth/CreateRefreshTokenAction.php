@@ -21,14 +21,16 @@ class CreateRefreshTokenAction
     ) {
     }
 
-    public static function create(User $user, ?string $device = null): RefreshToken
+    public static function create(User $user, ?string $device = null, bool $rememberMe = false): RefreshToken
     {
-        return self::run($user, $device);
+        return self::run($user, $device, $rememberMe);
     }
 
-    private function handle(User $user, ?string $device): RefreshToken
+    private function handle(User $user, ?string $device, bool $rememberMe): RefreshToken
     {
-        $ttl = (int) $this->configRepository->get('jwt.refresh_ttl');
+        $ttl = $rememberMe
+            ? (int) $this->configRepository->get('jwt.remember_refresh_ttl')
+            : (int) $this->configRepository->get('jwt.refresh_ttl');
 
         $validUntil = Carbon::now()->addMinutes($ttl);
 

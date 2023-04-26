@@ -31,7 +31,7 @@ class AuthController extends Controller
     {
         $credentials = $request->getCredentials();
 
-        $tokenPairOfMfaToken = $this->service->loginWithCredentials($credentials);
+        $tokenPairOfMfaToken = $this->service->loginWithCredentials($credentials, $request->rememberMe());
 
         if (! $tokenPairOfMfaToken) {
             return $this->sendError(code: ResponseCodeEnum::INVALID_CREDENTIALS, message: 'Invalid credentials.');
