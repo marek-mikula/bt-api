@@ -56,7 +56,7 @@ class AuthService
     /**
      * Logs in user via credentials
      */
-    public function loginWithCredentials(array $credentials): TokenPair|MfaToken|null
+    public function loginWithCredentials(array $credentials, bool $rememberMe = false): TokenPair|MfaToken|null
     {
         /** @var JWTGuard $guard */
         $guard = auth('api');
@@ -98,7 +98,7 @@ class AuthService
         // so they won't duplicate
         $this->refreshTokenRepository->deleteByDevice($user, $device);
 
-        $refreshToken = CreateRefreshTokenAction::create($user, $device);
+        $refreshToken = CreateRefreshTokenAction::create($user, $device, $rememberMe);
 
         return TokenPair::from([
             'accessToken' => $accessToken,

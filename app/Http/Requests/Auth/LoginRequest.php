@@ -18,6 +18,10 @@ class LoginRequest extends GuestRequest
                 'required',
                 'string',
             ],
+            'rememberMe' => [
+                'required',
+                'boolean',
+            ],
         ];
     }
 
@@ -27,5 +31,10 @@ class LoginRequest extends GuestRequest
             'email' => (string) $this->input('email'),
             'password' => (string) $this->input('password'),
         ];
+    }
+
+    public function rememberMe(): bool
+    {
+        return $this->boolean('rememberMe');
     }
 }
