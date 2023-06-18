@@ -13,4 +13,6 @@ interface UserRepositoryInterface
     public function findByEmail(string $email): ?User;
 
     public function changePassword(User $user, string $password): User;
+
+    public function finishQuiz(User $user): User;
 }

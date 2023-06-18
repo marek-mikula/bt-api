@@ -24,7 +24,9 @@ use Tymon\JWTAuth\Contracts\JWTSubject;
  * @property string $password
  * @property string $public_key
  * @property string $secret_key
+ * @property-read boolean $quiz_taken
  * @property Carbon|null $email_verified_at
+ * @property Carbon|null $quiz_finished_at
  * @property Carbon $created_at
  * @property Carbon $updated_at
  * @property-read Collection<RefreshToken> $refreshTokens
@@ -47,6 +49,7 @@ class User extends Authenticatable implements JWTSubject
         'public_key',
         'secret_key',
         'email_verified_at',
+        'quiz_finished_at',
     ];
 
     protected $hidden = [
@@ -74,6 +77,11 @@ class User extends Authenticatable implements JWTSubject
             $this->firstname,
             $this->lastname,
         ])->filter()->implode(' '));
+    }
+
+    protected function quizTaken(): Attribute
+    {
+        return Attribute::get(fn (): bool => ! empty($this->quiz_finished_at));
     }
 
     public function refreshTokens(): HasMany

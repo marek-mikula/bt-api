@@ -18,6 +18,8 @@ class UserResource extends JsonResource
             'firstname' => $this->resource->firstname,
             'lastname' => $this->resource->lastname,
             'email' => $this->resource->email,
+            'quizTaken' => $this->resource->quiz_taken,
+            'quizFinishedAt' => $this->resource->quiz_finished_at?->toIso8601String(),
             'createdAt' => $this->resource->created_at->toIso8601String(),
             'updatedAt' => $this->resource->updated_at->toIso8601String(),
         ];
