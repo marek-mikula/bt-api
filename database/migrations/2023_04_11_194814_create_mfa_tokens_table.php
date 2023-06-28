@@ -15,7 +15,6 @@ return new class extends Migration
             $table->string('code', 6);
             $table->tinyInteger('type');
             $table->json('data');
-            $table->boolean('invalidated')->default(false);
             $table->timestamp('valid_until');
             $table->timestamp('invalidated_at')->nullable();
             $table->timestamps();

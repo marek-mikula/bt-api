@@ -13,7 +13,6 @@ return new class extends Migration
             $table->foreignId('user_id');
             $table->uuid('refresh_token')->unique();
             $table->string('device');
-            $table->boolean('invalidated')->default(false);
             $table->timestamp('valid_until');
             $table->timestamp('invalidated_at')->nullable();
             $table->timestamps();

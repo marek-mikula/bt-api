@@ -29,7 +29,7 @@ class MfaController extends Controller
         $code = $request->getCode();
 
         if ($code !== $token->code) {
-            return $this->sendError(code: ResponseCodeEnum::INVALID_MFA_CODE, message: 'Invalid code.');
+            return $this->sendError(code: ResponseCodeEnum::MFA_INVALID_CODE, message: 'Invalid code.');
         }
 
         $user = $token->loadMissing('user')->user;
@@ -49,7 +49,7 @@ class MfaController extends Controller
         $code = $request->getCode();
 
         if ($code !== $token->code) {
-            return $this->sendError(code: ResponseCodeEnum::INVALID_MFA_CODE, message: 'Invalid code.');
+            return $this->sendError(code: ResponseCodeEnum::MFA_INVALID_CODE, message: 'Invalid code.');
         }
 
         $device = Arr::get($token->data, 'device');
@@ -73,7 +73,7 @@ class MfaController extends Controller
         $code = $request->getCode();
 
         if ($code !== $token->code) {
-            return $this->sendError(code: ResponseCodeEnum::INVALID_MFA_CODE, message: 'Invalid code.');
+            return $this->sendError(code: ResponseCodeEnum::MFA_INVALID_CODE, message: 'Invalid code.');
         }
 
         $user = $token->loadMissing('user')->user;

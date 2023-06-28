@@ -22,7 +22,8 @@ use Illuminate\Support\Str;
  * @property string $code 6 chars long secret code
  * @property MfaTokenTypeEnum $type
  * @property array<string,mixed> $data
- * @property bool $invalidated
+ * @property-read bool $invalidated
+ * @property-read bool $is_expired
  * @property Carbon $valid_until
  * @property Carbon|null $invalidated_at
  * @property Carbon $created_at
@@ -40,7 +41,6 @@ class MfaToken extends Model
     protected $primaryKey = 'id';
 
     protected $attributes = [
-        'invalidated' => false,
         'invalidated_at' => null,
     ];
 
@@ -50,7 +50,6 @@ class MfaToken extends Model
         'code',
         'type',
         'data',
-        'invalidated',
         'valid_until',
         'invalidated_at',
     ];
@@ -63,10 +62,21 @@ class MfaToken extends Model
     protected $casts = [
         'type' => MfaTokenTypeEnum::class,
         'data' => 'array',
-        'invalidated' => 'boolean',
         'valid_until' => 'datetime',
         'invalidated_at' => 'datetime',
     ];
+
+    public function isExpired(): Attribute
+    {
+        return Attribute::get(function (): bool {
+            return $this->invalidated || $this->valid_until->lte(Carbon::now());
+        });
+    }
+
+    public function invalidated(): Attribute
+    {
+        return Attribute::get(fn (): string => ! empty($this->invalidated_at));
+    }
 
     public function code(): Attribute
     {

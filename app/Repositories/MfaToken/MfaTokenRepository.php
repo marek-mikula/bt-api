@@ -35,11 +35,22 @@ class MfaTokenRepository implements MfaTokenRepositoryInterface
         MfaToken::query()
             ->where('user_id', '=', $user->id)
             ->where('type', '=', $type->value)
-            ->where('invalidated', '=', false)
+            ->whereNull('invalidated_at')
             ->update([
-                'invalidated' => true,
                 'invalidated_at' => Carbon::now(),
             ]);
+    }
+
+    public function find(string $token, MfaTokenTypeEnum $type): ?MfaToken
+    {
+        /** @var MfaToken|null $mfaToken */
+        $mfaToken = MfaToken::query()
+            ->where('type', '=', $type->value)
+            ->where('token', '=', $token)
+            ->with('user')
+            ->first();
+
+        return $mfaToken;
     }
 
     public function findValid(string $token, MfaTokenTypeEnum $type): ?MfaToken
@@ -57,7 +68,6 @@ class MfaTokenRepository implements MfaTokenRepositoryInterface
 
     public function invalidate(MfaToken $mfaToken): MfaToken
     {
-        $mfaToken->invalidated = true;
         $mfaToken->invalidated_at = Carbon::now();
         $mfaToken->save();
 
