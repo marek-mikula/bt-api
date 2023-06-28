@@ -3,6 +3,7 @@
 namespace App\Exceptions;
 
 use App\Enums\ResponseCodeEnum;
+use App\Exceptions\Mfa\MfaTokenException;
 use App\Http\Controllers\Traits\RespondsAsJson;
 use Illuminate\Auth\Access\AuthorizationException;
 use Illuminate\Auth\AuthenticationException;
@@ -35,7 +36,7 @@ class Handler extends ExceptionHandler
      * @var array<int, class-string<Throwable>>
      */
     protected $dontReport = [
-        //
+        MfaTokenException::class,
     ];
 
     /**

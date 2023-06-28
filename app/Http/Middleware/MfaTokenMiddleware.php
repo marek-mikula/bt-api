@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Http\Middleware\Mfa;
+namespace App\Http\Middleware;
 
 use App\Enums\MfaTokenTypeEnum;
 use App\Exceptions\Mfa\MfaTokenException;

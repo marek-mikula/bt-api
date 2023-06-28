@@ -4,7 +4,7 @@ use App\Enums\MfaTokenTypeEnum;
 use App\Http\Controllers\AuthController;
 use App\Http\Controllers\MfaController;
 use App\Http\Controllers\PasswordResetController;
-use App\Http\Middleware\Mfa\MfaTokenMiddleware;
+use App\Http\Middleware\MfaTokenMiddleware;
 use Illuminate\Support\Facades\Route;
 
 /*
