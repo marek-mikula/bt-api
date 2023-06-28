@@ -2,7 +2,7 @@
 
 namespace App\Http\Requests\Auth;
 
-use App\DTOs\Auth\RegisterRequestDTO;
+use App\Data\Auth\RegisterRequestDTO;
 use App\Http\Requests\GuestRequest;
 use App\Models\User;
 use Illuminate\Validation\Rules\Password;

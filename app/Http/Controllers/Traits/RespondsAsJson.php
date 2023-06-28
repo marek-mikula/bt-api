@@ -2,7 +2,7 @@
 
 namespace App\Http\Controllers\Traits;
 
-use App\DTOs\Auth\TokenPair;
+use App\Data\Auth\TokenPair;
 use App\Enums\ResponseCodeEnum;
 use App\Models\MfaToken;
 use Illuminate\Http\JsonResponse;

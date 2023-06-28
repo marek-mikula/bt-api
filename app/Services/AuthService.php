@@ -4,8 +4,8 @@ namespace App\Services;
 
 use App\Actions\Auth\CreateDeviceIdentifierAction;
 use App\Actions\Auth\CreateRefreshTokenAction;
-use App\DTOs\Auth\RegisterRequestDTO;
-use App\DTOs\Auth\TokenPair;
+use App\Data\Auth\RegisterRequestDTO;
+use App\Data\Auth\TokenPair;
 use App\Enums\MfaTokenTypeEnum;
 use App\Models\MfaToken;
 use App\Models\User;

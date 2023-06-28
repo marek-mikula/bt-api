@@ -1,6 +1,6 @@
 <?php
 
-namespace App\DTOs\Casts;
+namespace App\Data\Casts;
 
 use Carbon\Carbon;
 use Spatie\LaravelData\Casts\Cast;

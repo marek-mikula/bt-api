@@ -1,8 +1,8 @@
 <?php
 
-namespace App\DTOs\Auth;
+namespace App\Data\Auth;
 
-use App\DTOs\Casts\CarbonCast;
+use App\Data\Casts\CarbonCast;
 use Carbon\Carbon;
 use Spatie\LaravelData\Attributes\WithCast;
 use Spatie\LaravelData\Data;
