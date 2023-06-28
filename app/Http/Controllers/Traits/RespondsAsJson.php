@@ -20,11 +20,6 @@ trait RespondsAsJson
         return $this->sendJsonResponse($data, $code, $message);
     }
 
-    protected function sendServerError(array $data = [], ResponseCodeEnum $code = ResponseCodeEnum::SERVER_ERROR, string $message = 'Server error.'): JsonResponse
-    {
-        return $this->sendJsonResponse($data, $code, $message);
-    }
-
     protected function sendMfa(MfaToken $mfaToken): JsonResponse
     {
         return $this->sendSuccess([

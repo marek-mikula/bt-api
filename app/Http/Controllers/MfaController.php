@@ -9,6 +9,7 @@ use App\Repositories\MfaToken\MfaTokenRepositoryInterface;
 use App\Repositories\User\UserRepositoryInterface;
 use App\Services\AuthService;
 use App\Services\PasswordResetService;
+use Exception;
 use Illuminate\Http\JsonResponse;
 use Illuminate\Support\Arr;
 
@@ -54,7 +55,7 @@ class MfaController extends Controller
         $device = Arr::get($token->data, 'device');
 
         if (empty($device)) {
-            return $this->sendServerError(message: 'Missing device identifier in token data.');
+            throw new Exception('Missing device identifier in token data.');
         }
 
         $user = $token->loadMissing('user')->user;
