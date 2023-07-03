@@ -23,6 +23,7 @@ enum ResponseCodeEnum: int
     case MFA_INVALID_CODE = 17;
     case TOKEN_PAIR = 18;
     case ACCESS_TOKEN = 19;
+    case QUIZ_TAKEN = 20;
 
     public function getStatusCode(): int
     {
@@ -44,6 +45,7 @@ enum ResponseCodeEnum: int
             self::UNAUTHENTICATED => 401,
 
             // 403
+            self::QUIZ_TAKEN,
             self::MFA_MISSING_TOKEN,
             self::MFA_CORRUPTED_TOKEN,
             self::MFA_INVALID_TOKEN,
