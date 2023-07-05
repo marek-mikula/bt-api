@@ -2,7 +2,7 @@
 
 namespace App\Http\Controllers\Traits;
 
-use App\Data\Auth\TokenPair;
+use App\Data\Auth\TokenPairData;
 use App\Enums\ResponseCodeEnum;
 use App\Models\MfaToken;
 use Illuminate\Http\JsonResponse;
@@ -31,7 +31,7 @@ trait RespondsAsJson
         ], ResponseCodeEnum::MFA_TOKEN);
     }
 
-    protected function sendTokenPair(TokenPair $tokenPair): JsonResponse
+    protected function sendTokenPair(TokenPairData $tokenPair): JsonResponse
     {
         /** @var JWTGuard $guard */
         $guard = auth('api');

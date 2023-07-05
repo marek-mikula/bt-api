@@ -4,7 +4,7 @@ namespace App\Http\Requests\Mfa;
 
 use Illuminate\Validation\Rules\Password;
 
-class ResetPasswordRequest extends MfaVerifyRequest
+class ResetPasswordRequest extends VerifyRequest
 {
     public function rules(): array
     {

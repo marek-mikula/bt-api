@@ -1,13 +1,13 @@
 <?php
 
-namespace App\Data\Auth;
+namespace App\Http\Requests\Auth;
 
 use App\Data\Casts\CarbonCast;
 use Carbon\Carbon;
 use Spatie\LaravelData\Attributes\WithCast;
 use Spatie\LaravelData\Data;
 
-class RegisterRequestDTO extends Data
+class RegisterRequestData extends Data
 {
     public function __construct(
         public readonly string $firstname,

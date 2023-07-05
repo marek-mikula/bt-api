@@ -2,7 +2,7 @@
 
 namespace App\Http\Middleware;
 
-use App\Exceptions\QuizException;
+use App\Exceptions\QuizTakenException;
 use App\Models\User;
 use Closure;
 use Exception;
@@ -13,7 +13,7 @@ class QuizMiddleware
 {
     /**
      * @throws Exception
-     * @throws QuizException
+     * @throws QuizTakenException
      */
     public function handle(Request $request, Closure $next): Response
     {
@@ -25,7 +25,7 @@ class QuizMiddleware
         $user = $request->user('api');
 
         if ($user->quiz_taken) {
-            throw new QuizException();
+            throw new QuizTakenException();
         }
 
         return $next($request);

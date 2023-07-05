@@ -60,4 +60,7 @@ Route::group(['prefix' => '/password-reset', 'as' => 'password-reset.'], functio
 Route::group(['prefix' => '/quiz', 'as' => 'quiz.', 'middleware' => ['auth:api', 'quiz']], function (): void {
     Route::get('/questions', [QuizController::class, 'questions'])
         ->name('questions');
+
+    Route::post('/finish', [QuizController::class, 'finish'])
+        ->name('finish');
 });

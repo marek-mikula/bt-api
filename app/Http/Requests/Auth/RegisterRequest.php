@@ -2,7 +2,6 @@
 
 namespace App\Http\Requests\Auth;
 
-use App\Data\Auth\RegisterRequestDTO;
 use App\Http\Requests\GuestRequest;
 use App\Models\User;
 use Illuminate\Validation\Rules\Password;
@@ -61,9 +60,9 @@ class RegisterRequest extends GuestRequest
         ];
     }
 
-    public function toDTO(): RegisterRequestDTO
+    public function toData(): RegisterRequestData
     {
-        return RegisterRequestDTO::from([
+        return RegisterRequestData::from([
             'firstname' => (string) $this->input('firstname'),
             'lastname' => (string) $this->input('lastname'),
             'email' => (string) $this->input('email'),

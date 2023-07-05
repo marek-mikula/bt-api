@@ -4,10 +4,10 @@ namespace App\Data\Quiz;
 
 use Spatie\LaravelData\Data;
 
-class QuizQuestion extends Data
+class QuizQuestionData extends Data
 {
     /**
-     * @param QuizAnswer[] $answers
+     * @param QuizAnswerData[] $answers
      */
     public function __construct(
         public readonly int $id,

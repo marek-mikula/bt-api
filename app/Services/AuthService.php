@@ -4,8 +4,8 @@ namespace App\Services;
 
 use App\Actions\Auth\CreateDeviceIdentifierAction;
 use App\Actions\Auth\CreateRefreshTokenAction;
-use App\Data\Auth\RegisterRequestDTO;
-use App\Data\Auth\TokenPair;
+use App\Http\Requests\Auth\RegisterRequestData;
+use App\Data\Auth\TokenPairData;
 use App\Enums\MfaTokenTypeEnum;
 use App\Models\MfaToken;
 use App\Models\User;
@@ -32,7 +32,7 @@ class AuthService
      * generates new MFA token, so he can verify his email
      * address.
      */
-    public function register(RegisterRequestDTO $dto): MfaToken
+    public function register(RegisterRequestData $dto): MfaToken
     {
         $data = [
             'firstname' => $dto->firstname,
@@ -56,7 +56,7 @@ class AuthService
     /**
      * Logs in user via credentials
      */
-    public function loginWithCredentials(array $credentials, bool $rememberMe = false): TokenPair|MfaToken|null
+    public function loginWithCredentials(array $credentials, bool $rememberMe = false): TokenPairData|MfaToken|null
     {
         /** @var JWTGuard $guard */
         $guard = auth('api');
@@ -100,7 +100,7 @@ class AuthService
 
         $refreshToken = CreateRefreshTokenAction::create($user, $device, $rememberMe);
 
-        return TokenPair::from([
+        return TokenPairData::from([
             'accessToken' => $accessToken,
             'refreshToken' => $refreshToken->refresh_token,
         ]);
@@ -109,7 +109,7 @@ class AuthService
     /**
      * Logs in user via model
      */
-    public function login(User $user, ?string $device = null): TokenPair
+    public function login(User $user, ?string $device = null): TokenPairData
     {
         /** @var JWTGuard $guard */
         $guard = auth('api');
@@ -118,7 +118,7 @@ class AuthService
 
         $refreshToken = CreateRefreshTokenAction::create($user, $device);
 
-        return TokenPair::from([
+        return TokenPairData::from([
             'accessToken' => $accessToken,
             'refreshToken' => $refreshToken->refresh_token,
         ]);

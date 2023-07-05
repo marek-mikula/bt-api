@@ -22,16 +22,19 @@ class AuthController extends Controller
 
     public function register(RegisterRequest $request): JsonResponse
     {
-        $mfaToken = $this->service->register($request->toDTO());
+        $mfaToken = $this->service->register($request->toData());
 
         return $this->sendMfa($mfaToken);
     }
 
     public function login(LoginRequest $request): JsonResponse
     {
-        $credentials = $request->getCredentials();
+        $data = $request->toData();
 
-        $tokenPairOfMfaToken = $this->service->loginWithCredentials($credentials, $request->rememberMe());
+        $tokenPairOfMfaToken = $this->service->loginWithCredentials([
+            'email' => $data->email,
+            'password' => $data->password,
+        ], $data->rememberMe);
 
         if (! $tokenPairOfMfaToken) {
             return $this->sendError(code: ResponseCodeEnum::INVALID_CREDENTIALS, message: 'Invalid credentials.');

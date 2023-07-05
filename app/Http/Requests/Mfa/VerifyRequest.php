@@ -8,7 +8,7 @@ use App\Services\Mfa\MfaTokenResolver;
 use Exception;
 use Illuminate\Support\Str;
 
-class MfaVerifyRequest extends GuestRequest
+class VerifyRequest extends GuestRequest
 {
     public function rules(): array
     {

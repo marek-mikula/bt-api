@@ -4,7 +4,7 @@ namespace App\Exceptions;
 
 use App\Enums\ResponseCodeEnum;
 
-class QuizException extends HttpException
+class QuizTakenException extends HttpException
 {
     public function __construct()
     {

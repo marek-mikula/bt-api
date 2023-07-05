@@ -3,7 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Enums\ResponseCodeEnum;
-use App\Http\Requests\Mfa\MfaVerifyRequest;
+use App\Http\Requests\Mfa\VerifyRequest;
 use App\Http\Requests\Mfa\ResetPasswordRequest;
 use App\Repositories\MfaToken\MfaTokenRepositoryInterface;
 use App\Repositories\User\UserRepositoryInterface;
@@ -23,7 +23,7 @@ class MfaController extends Controller
     ) {
     }
 
-    public function verifyEmail(MfaVerifyRequest $request): JsonResponse
+    public function verifyEmail(VerifyRequest $request): JsonResponse
     {
         $token = $request->getToken();
         $code = $request->getCode();
@@ -43,7 +43,7 @@ class MfaController extends Controller
         return $this->sendTokenPair($tokenPair);
     }
 
-    public function verifyDevice(MfaVerifyRequest $request): JsonResponse
+    public function verifyDevice(VerifyRequest $request): JsonResponse
     {
         $token = $request->getToken();
         $code = $request->getCode();
