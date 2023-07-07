@@ -3,8 +3,8 @@
 namespace App\Http\Controllers;
 
 use App\Enums\ResponseCodeEnum;
-use App\Http\Requests\Mfa\VerifyRequest;
 use App\Http\Requests\Mfa\ResetPasswordRequest;
+use App\Http\Requests\Mfa\VerifyRequest;
 use App\Repositories\MfaToken\MfaTokenRepositoryInterface;
 use App\Repositories\User\UserRepositoryInterface;
 use App\Services\AuthService;

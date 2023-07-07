@@ -50,7 +50,7 @@ class RefreshToken extends Model
 
     public function invalidated(): Attribute
     {
-        return Attribute::get(fn (): bool => !empty($this->invalidated_at));
+        return Attribute::get(fn (): bool => ! empty($this->invalidated_at));
     }
 
     public function user(): BelongsTo

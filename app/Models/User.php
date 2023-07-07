@@ -25,7 +25,7 @@ use Tymon\JWTAuth\Contracts\JWTSubject;
  * @property string $password
  * @property string $public_key
  * @property string $secret_key
- * @property-read boolean $quiz_taken
+ * @property-read bool $quiz_taken
  * @property Carbon|null $email_verified_at
  * @property Carbon|null $quiz_finished_at
  * @property Carbon $created_at

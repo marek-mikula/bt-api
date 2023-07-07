@@ -20,7 +20,7 @@ class FinishRequest extends AuthRequest
             'answers.*.answer' => [
                 'required',
                 'integer',
-            ]
+            ],
         ];
     }
 

@@ -11,7 +11,7 @@ return [
                 2 => 'Central bank-issued currency',
                 3 => 'Digital or virtual currency secured by cryptography', //
                 4 => 'Physical coins or banknotes',
-            ]
+            ],
         ],
         2 => [
             'text' => 'What is the underlying technology behind cryptocurrencies?',
@@ -21,7 +21,7 @@ return [
                 2 => 'Artificial intelligence',
                 3 => 'Cloud computing',
                 4 => 'Quantum computing',
-            ]
+            ],
         ],
         3 => [
             'text' => 'What is the purpose of a blockchain in the context of cryptocurrencies?',
@@ -31,7 +31,7 @@ return [
                 2 => 'Privacy and anonymity',
                 3 => 'Digital wallet security',
                 4 => 'Fixed interest rates',
-            ]
+            ],
         ],
         4 => [
             'text' => 'What is the purpose of a blockchain explorer?',
@@ -41,7 +41,7 @@ return [
                 2 => 'Track and view transactions on the blockchain', //
                 3 => 'Create and execute smart contracts',
                 4 => 'Exchange cryptocurrencies',
-            ]
+            ],
         ],
         5 => [
             'text' => 'What is the process of verifying and adding transactions to the blockchain called?',
@@ -51,7 +51,7 @@ return [
                 2 => 'Trading',
                 3 => 'Staking',
                 4 => 'Investing',
-            ]
+            ],
         ],
         6 => [
             'text' => 'What is the process called when a cryptocurrency splits into two separate cryptocurrencies?',
@@ -61,7 +61,7 @@ return [
                 2 => 'Soft split',
                 3 => 'Hard fork', //
                 4 => 'Hard split',
-            ]
+            ],
         ],
         7 => [
             'text' => 'What is the concept of "decentralization" in the context of cryptocurrencies?',
@@ -71,7 +71,7 @@ return [
                 2 => 'Wide adoption of cryptocurrencies',
                 3 => 'Stablecoin pegged to a fiat currency',
                 4 => 'Fixed interest rates',
-            ]
+            ],
         ],
         8 => [
             'text' => 'What is the primary purpose of a private key in cryptocurrency transactions?',
@@ -81,7 +81,7 @@ return [
                 2 => 'Secure storage of cryptocurrencies',
                 3 => 'Digital signature and transaction authorization', //
                 4 => 'Access to public blockchain records',
-            ]
+            ],
         ],
         9 => [
             'text' => 'What is a public key in the context of cryptocurrency transactions?',
@@ -91,7 +91,7 @@ return [
                 2 => 'A private key for encryption',
                 3 => 'A digital signature for verification',
                 4 => 'A unique identifier for a specific cryptocurrency',
-            ]
+            ],
         ],
         10 => [
             'text' => 'What is a cryptocurrency wallet?',
@@ -101,7 +101,7 @@ return [
                 2 => 'A platform to buy and sell cryptocurrencies',
                 3 => 'A digital storage for holding and managing cryptocurrencies', //
                 4 => 'An exchange for converting cryptocurrencies',
-            ]
+            ],
         ],
         11 => [
             'text' => 'What is the purpose of a consensus algorithm in a blockchain network?',
@@ -111,7 +111,7 @@ return [
                 2 => 'Ensure the stability of cryptocurrency prices',
                 3 => 'Reach agreement on the state of the blockchain', //
                 4 => 'Protect wallets from unauthorized access',
-            ]
+            ],
         ],
         12 => [
             'text' => 'What is the term used to describe the smallest unit of a Bitcoin?',
@@ -121,7 +121,7 @@ return [
                 2 => 'Nakamoto',
                 3 => 'Satoshi', //
                 4 => 'Coin',
-            ]
+            ],
         ],
         13 => [
             'text' => 'What is the term used to describe the process of converting traditional currency into cryptocurrency?',
@@ -131,7 +131,7 @@ return [
                 2 => 'Trading',
                 3 => 'Staking',
                 4 => 'Fiat-to-crypto exchange', //
-            ]
+            ],
         ],
         14 => [
             'text' => 'Which cryptocurrency is often referred to as the "silver to Bitcoin\'s gold"?',
@@ -141,7 +141,7 @@ return [
                 2 => 'Ripple',
                 3 => 'Litecoin', //
                 4 => 'Cardano',
-            ]
+            ],
         ],
         15 => [
             'text' => 'What does the term "HODL" mean in the context of cryptocurrencies?',
@@ -151,7 +151,7 @@ return [
                 2 => 'Hold On for Dear Life', //
                 3 => 'Hyperactive Order Limit',
                 4 => 'High-Level Digital Licensing',
-            ]
+            ],
         ],
         16 => [
             'text' => 'What is a "whitepaper" in the cryptocurrency world?',
@@ -161,7 +161,7 @@ return [
                 2 => 'A platform for buying and selling cryptocurrencies',
                 3 => 'An online community for cryptocurrency enthusiasts',
                 4 => 'A hardware device for securely storing cryptocurrencies',
-            ]
+            ],
         ],
         17 => [
             'text' => 'What is the maximum supply of Bitcoin?',
@@ -171,7 +171,7 @@ return [
                 2 => '50 million',
                 3 => '100 million',
                 4 => '21 million', //
-            ]
+            ],
         ],
         18 => [
             'text' => 'What does the term "FUD" mean in the context of crypto trading?',
@@ -181,7 +181,7 @@ return [
                 2 => 'Fast and Unyielding Decline',
                 3 => 'Fully Updated Data',
                 4 => 'Financial Utility Dynamics',
-            ]
+            ],
         ],
         19 => [
             'text' => 'What is the largest and most well-known cryptocurrency by market capitalization?',
@@ -191,7 +191,7 @@ return [
                 2 => 'Litecoin (LTC)',
                 3 => 'Bitcoin (BTC)', //
                 4 => 'Ethereum (ETH)',
-            ]
+            ],
         ],
         20 => [
             'text' => 'Which blockchain platform is known for its ability to execute complex, programmable smart contracts?',
@@ -201,7 +201,7 @@ return [
                 2 => 'Cardano (ADA)',
                 3 => 'Polkadot (DOT)',
                 4 => 'Stellar (XLM)',
-            ]
+            ],
         ],
         21 => [
             'text' => 'What is the term used to describe a digital representation of a physical asset on a blockchain?',
@@ -211,7 +211,7 @@ return [
                 2 => 'Tokenized asset', //
                 3 => 'Non-fungible token (NFT)',
                 4 => 'Smart contract',
-            ]
+            ],
         ],
         22 => [
             'text' => 'What is the purpose of a decentralized exchange (DEX)?',
@@ -221,7 +221,7 @@ return [
                 2 => 'Issue new cryptocurrencies through Initial Exchange Offerings (IEOs)',
                 3 => 'Provide custody services for cryptocurrencies',
                 4 => 'Ensure compliance with regulatory requirements',
-            ]
+            ],
         ],
         23 => [
             'text' => 'What is the function of a cryptocurrency exchange?',
@@ -231,7 +231,7 @@ return [
                 2 => 'Generate new cryptocurrencies through mining',
                 3 => 'Provide storage solutions for cryptocurrencies',
                 4 => 'Ensure regulatory compliance in the cryptocurrency market',
-            ]
+            ],
         ],
         24 => [
             'text' => 'What is the term used to describe the sudden and significant decrease in the value of a cryptocurrency?',
@@ -241,7 +241,7 @@ return [
                 2 => 'Crash', //
                 3 => 'Dump',
                 4 => 'Pump',
-            ]
+            ],
         ],
         25 => [
             'text' => 'What is the difference between a public key and a wallet address in cryptocurrency transactions?',
@@ -251,7 +251,7 @@ return [
                 2 => 'Public key encrypts transaction data, while the wallet address receives funds',
                 3 => 'Wallet address encrypts transaction data, while the public key receives funds',
                 4 => 'Public key is used for identification, while the wallet address is used for encryption',
-            ]
+            ],
         ],
         26 => [
             'text' => 'What is the term for an investor who holds a large amount of a specific cryptocurrency?',
@@ -261,7 +261,7 @@ return [
                 2 => 'Elephant',
                 3 => 'Whale', //
                 4 => 'Bull',
-            ]
+            ],
         ],
         27 => [
             'text' => 'Which term refers to the practice of keeping cryptocurrencies offline for enhanced security?',
@@ -271,7 +271,7 @@ return [
                 2 => 'Cold pocket',
                 3 => 'Cold storage', //
                 4 => 'Hot storage',
-            ]
+            ],
         ],
         28 => [
             'text' => 'What is the process called when a new cryptocurrency is introduced to the market and offered for public purchase?',
@@ -281,7 +281,7 @@ return [
                 2 => 'Initial Coin Offering (ICO)', //
                 3 => 'Initial Coin Buy (ICB)',
                 4 => 'Initial Market Enter (IME)',
-            ]
+            ],
         ],
         29 => [
             'text' => 'What is the term for a digital currency that is pegged to the value of a traditional fiat currency, such as the US dollar?',
@@ -291,7 +291,7 @@ return [
                 2 => 'Fiat-backed cryptocurrency',
                 3 => 'Digital collectible',
                 4 => 'NFT',
-            ]
+            ],
         ],
         30 => [
             'text' => 'Which of the following is an example of a stablecoin pegged to the value of the US Dollar?',
@@ -313,7 +313,7 @@ return [
                 2 => 'To limit potential losses by automatically selling a cryptocurrency at a specific price', //
                 3 => 'To transfer cryptocurrency between different wallets',
                 4 => 'To participate in initial coin offerings (ICOs)',
-            ]
+            ],
         ],
         32 => [
             'text' => 'Which of the following is a significant risk associated with crypto investing?',
@@ -323,7 +323,7 @@ return [
                 2 => 'Volatility', //
                 3 => 'Security features',
                 4 => 'Market liquidity',
-            ]
+            ],
         ],
         33 => [
             'text' => 'What is the potential risk of investing in an Initial Coin Offering (ICO)?',
@@ -333,7 +333,7 @@ return [
                 2 => 'Lack of regulation and investor protection', //
                 3 => 'Low liquidity',
                 4 => 'Fixed interest rates',
-            ]
+            ],
         ],
         34 => [
             'text' => 'What does the term "whale manipulation" refer to in the context of crypto investing?',
@@ -343,7 +343,7 @@ return [
                 2 => 'Unpredictable price movements',
                 3 => 'Wallet security vulnerabilities',
                 4 => 'Peer-to-peer transaction fees',
-            ]
+            ],
         ],
         35 => [
             'text' => 'Which of the following is a risk associated with keeping cryptocurrencies in online exchanges?',
@@ -353,7 +353,7 @@ return [
                 2 => 'Inflationary pressures',
                 3 => 'Regulatory restrictions',
                 4 => 'Tax implications',
-            ]
+            ],
         ],
         36 => [
             'text' => 'What is the risk of investing in lesser-known or new cryptocurrencies?',
@@ -363,7 +363,7 @@ return [
                 2 => 'Lower transaction fees',
                 3 => 'Stable price movements',
                 4 => 'Strong institutional backing',
-            ]
+            ],
         ],
         37 => [
             'text' => 'What is the risk associated with relying solely on social media influencers for investment advice in the crypto space?',
@@ -373,7 +373,7 @@ return [
                 2 => 'Misleading or biased recommendations', //
                 3 => 'Higher liquidity',
                 4 => 'Diverse investment opportunities',
-            ]
+            ],
         ],
         38 => [
             'text' => 'What is the risk of losing access to your cryptocurrency wallet\'s private keys?',
@@ -383,7 +383,7 @@ return [
                 2 => 'Permanent loss of funds', //
                 3 => 'Regulatory restrictions',
                 4 => 'Fixed interest rates',
-            ]
+            ],
         ],
         39 => [
             'text' => 'What is the risk of investing more than you can afford to lose in cryptocurrencies?',
@@ -393,7 +393,7 @@ return [
                 2 => 'Tax implications',
                 3 => 'Financial loss and hardship', //
                 4 => 'Market liquidity',
-            ]
+            ],
         ],
         40 => [
             'text' => 'What is the potential benefit of a diversified investment portfolio?',
@@ -403,7 +403,7 @@ return [
                 2 => 'Tax implications',
                 3 => 'Higher transaction fees',
                 4 => 'Market liquidity',
-            ]
+            ],
         ],
         41 => [
             'text' => 'Which risk is associated with the irreversible nature of cryptocurrency transactions?',
@@ -413,7 +413,7 @@ return [
                 2 => 'High transaction fees',
                 3 => 'Wallet security vulnerabilities',
                 4 => 'Regulatory compliance',
-            ]
+            ],
         ],
         42 => [
             'text' => 'Which risk is associated with relying solely on online exchanges for storing cryptocurrencies?',
@@ -423,7 +423,7 @@ return [
                 2 => 'Cybersecurity and hacking risks', //
                 3 => 'Regulatory compliance',
                 4 => 'Fixed interest rates',
-            ]
+            ],
         ],
-    ]
+    ],
 ];

@@ -7,7 +7,7 @@ use Spatie\LaravelData\Data;
 class QuizQuestionData extends Data
 {
     /**
-     * @param QuizAnswerData[] $answers
+     * @param  QuizAnswerData[]  $answers
      */
     public function __construct(
         public readonly int $id,

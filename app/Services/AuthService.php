@@ -4,9 +4,9 @@ namespace App\Services;
 
 use App\Actions\Auth\CreateDeviceIdentifierAction;
 use App\Actions\Auth\CreateRefreshTokenAction;
-use App\Http\Requests\Auth\RegisterRequestData;
 use App\Data\Auth\TokenPairData;
 use App\Enums\MfaTokenTypeEnum;
+use App\Http\Requests\Auth\RegisterRequestData;
 use App\Models\MfaToken;
 use App\Models\User;
 use App\Notifications\User\UserRegisteredNotification;

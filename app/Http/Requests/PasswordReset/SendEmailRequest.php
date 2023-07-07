@@ -13,7 +13,7 @@ class SendEmailRequest extends GuestRequest
                 'required',
                 'string',
                 'email',
-            ]
+            ],
         ];
     }
 
