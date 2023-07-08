@@ -11,7 +11,6 @@ class MfaTokenQuery extends Builder
     {
         return $this->where(function (MfaTokenQuery $query): void {
             $query
-                ->where('invalidated', '=', false)
                 ->where('valid_until', '>', Carbon::now()->toDateTimeString())
                 ->whereNull('invalidated_at');
         });

@@ -6,6 +6,7 @@ use App\Enums\EnvEnum;
 use App\Services\AuthService;
 use App\Services\Mfa\MfaTokenResolver;
 use App\Services\PasswordResetService;
+use App\Services\QuizService;
 use Illuminate\Support\ServiceProvider;
 use WhichBrowser\Parser;
 
@@ -18,6 +19,7 @@ class AppServiceProvider extends ServiceProvider
         AuthService::class,
         MfaTokenResolver::class,
         PasswordResetService::class,
+        QuizService::class,
     ];
 
     public function register(): void

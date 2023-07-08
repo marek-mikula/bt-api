@@ -1,9 +1,12 @@
 <?php
 
-namespace App\Http\Middleware\Mfa;
+namespace App\Http\Middleware;
 
 use App\Enums\MfaTokenTypeEnum;
-use App\Exceptions\Mfa\MfaTokenException;
+use App\Exceptions\Mfa\MfaCorruptedTokenException;
+use App\Exceptions\Mfa\MfaExpiredTokenException;
+use App\Exceptions\Mfa\MfaInvalidTokenException;
+use App\Exceptions\Mfa\MfaMissingTokenException;
 use App\Repositories\MfaToken\MfaTokenRepositoryInterface;
 use App\Services\Mfa\MfaTokenResolver;
 use Closure;
@@ -21,7 +24,10 @@ class MfaTokenMiddleware
     }
 
     /**
-     * @throws MfaTokenException
+     * @throws MfaMissingTokenException
+     * @throws MfaCorruptedTokenException
+     * @throws MfaInvalidTokenException
+     * @throws MfaExpiredTokenException
      */
     public function handle(Request $request, Closure $next, int $type, string $name = 'token'): Response
     {
@@ -30,19 +36,23 @@ class MfaTokenMiddleware
         $type = MfaTokenTypeEnum::from($type);
 
         if (empty($token)) {
-            throw new MfaTokenException($type);
+            throw new MfaMissingTokenException($type);
         }
 
         try {
             $token = Crypt::decryptString($token);
         } catch (DecryptException) {
-            throw new MfaTokenException($type);
+            throw new MfaCorruptedTokenException($type);
         }
 
-        $token = $this->mfaTokenRepository->findValid($token, $type);
+        $token = $this->mfaTokenRepository->find($token, $type);
 
         if (! $token) {
-            throw new MfaTokenException($type);
+            throw new MfaInvalidTokenException($type);
+        }
+
+        if ($token->is_expired) {
+            throw new MfaExpiredTokenException($type);
         }
 
         // set token model to the resolver, so we don't have to

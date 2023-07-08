@@ -42,6 +42,7 @@ class UserResetPasswordMail extends BaseMail
                 'user' => $this->user,
                 'url' => $url,
                 'code' => $this->mfaToken->code,
+                'validity' => $this->mfaToken->formatValidUntil(),
             ]
         );
     }

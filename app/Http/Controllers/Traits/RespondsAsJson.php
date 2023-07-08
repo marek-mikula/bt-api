@@ -2,7 +2,7 @@
 
 namespace App\Http\Controllers\Traits;
 
-use App\DTOs\Auth\TokenPair;
+use App\Data\Auth\TokenPairData;
 use App\Enums\ResponseCodeEnum;
 use App\Models\MfaToken;
 use Illuminate\Http\JsonResponse;
@@ -20,11 +20,6 @@ trait RespondsAsJson
         return $this->sendJsonResponse($data, $code, $message);
     }
 
-    protected function sendServerError(array $data = [], ResponseCodeEnum $code = ResponseCodeEnum::SERVER_ERROR, string $message = 'Server error.'): JsonResponse
-    {
-        return $this->sendJsonResponse($data, $code, $message);
-    }
-
     protected function sendMfa(MfaToken $mfaToken): JsonResponse
     {
         return $this->sendSuccess([
@@ -36,7 +31,7 @@ trait RespondsAsJson
         ], ResponseCodeEnum::MFA_TOKEN);
     }
 
-    protected function sendTokenPair(TokenPair $tokenPair): JsonResponse
+    protected function sendTokenPair(TokenPairData $tokenPair): JsonResponse
     {
         /** @var JWTGuard $guard */
         $guard = auth('api');

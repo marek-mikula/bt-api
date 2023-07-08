@@ -4,7 +4,8 @@ use App\Enums\MfaTokenTypeEnum;
 use App\Http\Controllers\AuthController;
 use App\Http\Controllers\MfaController;
 use App\Http\Controllers\PasswordResetController;
-use App\Http\Middleware\Mfa\MfaTokenMiddleware;
+use App\Http\Controllers\QuizController;
+use App\Http\Middleware\MfaTokenMiddleware;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -54,4 +55,12 @@ Route::group(['prefix' => '/mfa', 'as' => 'mfa.'], function (): void {
 Route::group(['prefix' => '/password-reset', 'as' => 'password-reset.'], function (): void {
     Route::post('/send-email', [PasswordResetController::class, 'sendEmail'])
         ->name('send-email');
+});
+
+Route::group(['prefix' => '/quiz', 'as' => 'quiz.', 'middleware' => ['auth:api', 'quiz']], function (): void {
+    Route::get('/questions', [QuizController::class, 'questions'])
+        ->name('questions');
+
+    Route::post('/finish', [QuizController::class, 'finish'])
+        ->name('finish');
 });

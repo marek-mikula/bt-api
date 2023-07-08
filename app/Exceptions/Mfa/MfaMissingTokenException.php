@@ -6,11 +6,11 @@ use App\Enums\MfaTokenTypeEnum;
 use App\Enums\ResponseCodeEnum;
 use App\Exceptions\HttpException;
 
-class MfaTokenException extends HttpException
+class MfaMissingTokenException extends HttpException
 {
     public function __construct(public readonly MfaTokenTypeEnum $type)
     {
-        parent::__construct(ResponseCodeEnum::INVALID_OR_MISSING_MFA_TOKEN, 'Invalid or missing MFA token.');
+        parent::__construct(ResponseCodeEnum::MFA_MISSING_TOKEN, 'Missing MFA token.');
     }
 
     public function getData(): array

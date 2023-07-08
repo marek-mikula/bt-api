@@ -40,4 +40,12 @@ class UserRepository implements UserRepositoryInterface
 
         return $user;
     }
+
+    public function finishQuiz(User $user): User
+    {
+        $user->quiz_finished_at = Carbon::now();
+        $user->save();
+
+        return $user;
+    }
 }

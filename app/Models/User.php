@@ -10,6 +10,7 @@ use Illuminate\Database\Eloquent\Casts\Attribute;
 use Illuminate\Database\Eloquent\Collection;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Relations\HasMany;
+use Illuminate\Database\Eloquent\Relations\HasOne;
 use Illuminate\Foundation\Auth\User as Authenticatable;
 use Illuminate\Notifications\Notifiable;
 use Illuminate\Support\Facades\Hash;
@@ -24,11 +25,14 @@ use Tymon\JWTAuth\Contracts\JWTSubject;
  * @property string $password
  * @property string $public_key
  * @property string $secret_key
+ * @property-read bool $quiz_taken
  * @property Carbon|null $email_verified_at
+ * @property Carbon|null $quiz_finished_at
  * @property Carbon $created_at
  * @property Carbon $updated_at
  * @property-read Collection<RefreshToken> $refreshTokens
  * @property-read Collection<MfaToken> $mfaTokens
+ * @property-read QuizResult|null $quizResult
  */
 class User extends Authenticatable implements JWTSubject
 {
@@ -47,6 +51,7 @@ class User extends Authenticatable implements JWTSubject
         'public_key',
         'secret_key',
         'email_verified_at',
+        'quiz_finished_at',
     ];
 
     protected $hidden = [
@@ -61,6 +66,7 @@ class User extends Authenticatable implements JWTSubject
         'mfa_token_type' => MfaTokenTypeEnum::class,
         'mfa_token_until' => 'datetime',
         'email_verified_at' => 'datetime',
+        'quiz_finished_at' => 'datetime',
     ];
 
     protected function password(): Attribute
@@ -76,6 +82,11 @@ class User extends Authenticatable implements JWTSubject
         ])->filter()->implode(' '));
     }
 
+    protected function quizTaken(): Attribute
+    {
+        return Attribute::get(fn (): bool => ! empty($this->quiz_finished_at));
+    }
+
     public function refreshTokens(): HasMany
     {
         return $this->hasMany(RefreshToken::class, 'user_id', 'id');
@@ -84,6 +95,11 @@ class User extends Authenticatable implements JWTSubject
     public function mfaTokens(): HasMany
     {
         return $this->hasMany(MfaToken::class, 'user_id', 'id');
+    }
+
+    public function quizResult(): HasOne
+    {
+        return $this->hasOne(QuizResult::class, 'user_id', 'id');
     }
 
     public function getJWTIdentifier(): int

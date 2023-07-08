@@ -25,16 +25,12 @@ class LoginRequest extends GuestRequest
         ];
     }
 
-    public function getCredentials(): array
+    public function toData(): LoginRequestData
     {
-        return [
+        return LoginRequestData::from([
             'email' => (string) $this->input('email'),
             'password' => (string) $this->input('password'),
-        ];
-    }
-
-    public function rememberMe(): bool
-    {
-        return $this->boolean('rememberMe');
+            'rememberMe' => $this->boolean('rememberMe'),
+        ]);
     }
 }

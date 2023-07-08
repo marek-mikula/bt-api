@@ -4,6 +4,7 @@
  * @var \App\Models\User $user
  * @var string $url
  * @var string $code
+ * @var string $validity
  */
 
 @endphp
@@ -18,6 +19,8 @@ Reset password
 </x-mail::button>
 
 When you click on the link, you'll be taken to a page where you can enter the following secret code: **{{ $code }}**
+
+The link is valid until **{{ $validity }}**.
 
 Once you've entered the secret code, you'll be able to reset your password and access your account.
 

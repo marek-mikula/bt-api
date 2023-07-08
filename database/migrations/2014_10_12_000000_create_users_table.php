@@ -17,6 +17,7 @@ return new class extends Migration
             $table->text('public_key');
             $table->text('secret_key');
             $table->timestamp('email_verified_at')->nullable();
+            $table->timestamp('quiz_finished_at')->nullable();
             $table->timestamps();
         });
     }
