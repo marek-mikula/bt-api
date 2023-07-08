@@ -4,6 +4,7 @@ namespace App\Services;
 
 use App\Data\Quiz\QuizAnswerData;
 use App\Data\Quiz\QuizQuestionData;
+use App\Http\Requests\Quiz\FinishRequestAnswerData;
 use App\Http\Requests\Quiz\FinishRequestData;
 use App\Models\User;
 use App\Repositories\QuizResult\QuizResultRepositoryInterface;
@@ -490,11 +491,40 @@ class QuizService
     {
         $this->userRepository->finishQuiz($user);
 
+        [$correct, $wrong] = $this->countAnswers($data->answers);
+
         $data = [
             'user_id' => $user->id,
             'results' => $data->answers->toArray(),
+            'correct' => $correct,
+            'wrong' => $wrong,
         ];
 
         $this->quizResultRepository->create($data);
+    }
+
+    /**
+     * @param Collection<FinishRequestAnswerData> $answers
+     * @return array
+     */
+    public function countAnswers(Collection $answers): array
+    {
+        $correct = 0;
+        $wrong = 0;
+
+        $questions = $this->getQuestions();
+
+        $answers->each(function (FinishRequestAnswerData $answer) use (&$correct, &$wrong, $questions): void {
+            /** @var QuizQuestionData|null $question */
+            $question = $questions->first(fn (QuizQuestionData $question): bool => $question->id === $answer->id);
+
+            if (! $question) {
+                return;
+            }
+
+            $question->getCorrectAnswer()->id === $answer->answer ? $correct++ : $wrong++;
+        });
+
+        return [$correct, $wrong];
     }
 }

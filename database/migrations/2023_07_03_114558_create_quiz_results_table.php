@@ -12,6 +12,8 @@ return new class extends Migration
             $table->id();
             $table->foreignId('user_id');
             $table->text('results');
+            $table->smallInteger('correct');
+            $table->smallInteger('wrong');
             $table->timestamps();
 
             $table->foreign('user_id')

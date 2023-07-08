@@ -17,6 +17,8 @@ class QuizController extends Controller
     {
         $questions = $this->service->getQuestions();
 
+        $questions = $questions->take(2);
+
         return $this->sendSuccess([
             'questions' => $questions->toArray(),
         ]);

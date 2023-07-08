@@ -2,6 +2,7 @@
 
 namespace App\Data\Quiz;
 
+use Illuminate\Support\Arr;
 use Spatie\LaravelData\Data;
 
 class QuizQuestionData extends Data
@@ -15,5 +16,10 @@ class QuizQuestionData extends Data
         public readonly string $hint,
         public readonly array $answers,
     ) {
+    }
+
+    public function getCorrectAnswer(): QuizAnswerData
+    {
+        return Arr::first($this->answers, fn (QuizAnswerData $answer): bool => $answer->correct);
     }
 }

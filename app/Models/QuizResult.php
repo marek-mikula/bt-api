@@ -11,6 +11,8 @@ use Illuminate\Database\Eloquent\Relations\BelongsTo;
  * @property-read int $id
  * @property int $user_id
  * @property array $results
+ * @property int $correct
+ * @property int $wrong
  * @property Carbon $created_at
  * @property Carbon $updated_at
  * @property-read User $user
@@ -26,6 +28,8 @@ class QuizResult extends Model
     protected $fillable = [
         'user_id',
         'results',
+        'correct',
+        'wrong',
     ];
 
     protected $casts = [

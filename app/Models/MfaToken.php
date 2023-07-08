@@ -3,6 +3,7 @@
 namespace App\Models;
 
 use App\Enums\MfaTokenTypeEnum;
+use App\Formatters\MfaTokenFormatter;
 use App\Query\MfaTokenQuery;
 use Carbon\Carbon;
 use Database\Factories\MfaTokenFactory;
@@ -35,6 +36,7 @@ use Illuminate\Support\Str;
 class MfaToken extends Model
 {
     use HasFactory;
+    use MfaTokenFormatter;
 
     protected $table = 'mfa_tokens';
 

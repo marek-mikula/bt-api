@@ -4,6 +4,7 @@
  * @var \App\Models\User $user
  * @var string $url
  * @var string $code
+ * @var string $validity
  */
 
 @endphp
@@ -22,6 +23,8 @@ To verify your email address, please use the link below.
 <x-mail::button :url="$url">
 Verify email address
 </x-mail::button>
+
+The link is valid until **{{ $validity }}**.
 
 If you did not initiate this login or believe that your account may be compromised, please contact us immediately.
 

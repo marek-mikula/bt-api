@@ -44,6 +44,7 @@ class UserVerifyDeviceMail extends BaseMail
                 'url' => $url,
                 'code' => $this->mfaToken->code,
                 'device' => Arr::get($this->mfaToken->data, 'device', ''),
+                'validity' => $this->mfaToken->formatValidUntil(),
             ]
         );
     }
