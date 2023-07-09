@@ -12,6 +12,7 @@
         "laravel/telescope": "^4.14",
         "laravel/tinker": "^2.8",
         "lorisleiva/laravel-actions": "^2.5",
+        "rappasoft/laravel-authentication-log": "^3.0",
         "spatie/laravel-data": "^3.4"
     },
     "require-dev": {

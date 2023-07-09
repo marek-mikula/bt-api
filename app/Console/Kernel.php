@@ -11,6 +11,9 @@ class Kernel extends ConsoleKernel
     {
         // remove telescope entries older than a week
         $schedule->command('telescope:prune --hours=168')->daily();
+
+        // remove old login logs
+        $schedule->command('authentication-log:purge')->monthly();
     }
 
     protected function commands(): void

@@ -14,6 +14,7 @@ use Illuminate\Database\Eloquent\Relations\HasOne;
 use Illuminate\Foundation\Auth\User as Authenticatable;
 use Illuminate\Notifications\Notifiable;
 use Illuminate\Support\Facades\Hash;
+use Rappasoft\LaravelAuthenticationLog\Traits\AuthenticationLoggable;
 
 /**
  * @property-read int $id
@@ -37,6 +38,7 @@ class User extends Authenticatable
 {
     use HasFactory;
     use Notifiable;
+    use AuthenticationLoggable; // auth logs
 
     protected $table = 'users';
 
