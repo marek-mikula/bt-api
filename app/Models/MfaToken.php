@@ -22,7 +22,6 @@ use Illuminate\Support\Str;
  * @property-read string $secret_token
  * @property string $code 6 chars long secret code
  * @property MfaTokenTypeEnum $type
- * @property array<string,mixed> $data
  * @property-read bool $invalidated
  * @property-read bool $is_expired
  * @property Carbon $valid_until
@@ -51,7 +50,6 @@ class MfaToken extends Model
         'token',
         'code',
         'type',
-        'data',
         'valid_until',
         'invalidated_at',
     ];
@@ -63,7 +61,6 @@ class MfaToken extends Model
 
     protected $casts = [
         'type' => MfaTokenTypeEnum::class,
-        'data' => 'array',
         'valid_until' => 'datetime',
         'invalidated_at' => 'datetime',
     ];

@@ -14,23 +14,19 @@ enum ResponseCodeEnum: int
     case UNAUTHENTICATED = 8;
     case INVALID_CONTENT = 9;
     case INVALID_CREDENTIALS = 10;
-    case INVALID_REFRESH_TOKEN = 11;
-    case MFA_TOKEN = 12;
-    case MFA_MISSING_TOKEN = 13;
-    case MFA_CORRUPTED_TOKEN = 14;
-    case MFA_INVALID_TOKEN = 15;
-    case MFA_EXPIRED_TOKEN = 16;
-    case MFA_INVALID_CODE = 17;
-    case TOKEN_PAIR = 18;
-    case ACCESS_TOKEN = 19;
-    case QUIZ_TAKEN = 20;
+    case MFA_TOKEN = 11;
+    case MFA_MISSING_TOKEN = 12;
+    case MFA_CORRUPTED_TOKEN = 13;
+    case MFA_INVALID_TOKEN = 14;
+    case MFA_EXPIRED_TOKEN = 15;
+    case MFA_INVALID_CODE = 16;
+    case QUIZ_TAKEN = 17;
+    case TOO_MANY_ATTEMPTS = 18;
 
     public function getStatusCode(): int
     {
         return match ($this) {
             // 200
-            self::TOKEN_PAIR,
-            self::ACCESS_TOKEN,
             self::MFA_TOKEN,
             self::OK => 200,
 
@@ -40,7 +36,6 @@ enum ResponseCodeEnum: int
             self::CLIENT_ERROR => 400,
 
             // 401
-            self::INVALID_REFRESH_TOKEN,
             self::INVALID_CREDENTIALS,
             self::UNAUTHENTICATED => 401,
 
@@ -60,6 +55,9 @@ enum ResponseCodeEnum: int
 
             // 422
             self::INVALID_CONTENT => 422,
+
+            // 429
+            self::TOO_MANY_ATTEMPTS => 429,
 
             // 500
             self::SERVER_ERROR => 500,

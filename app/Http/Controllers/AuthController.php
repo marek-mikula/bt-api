@@ -11,7 +11,8 @@ use App\Models\MfaToken;
 use App\Models\User;
 use App\Services\AuthService;
 use Illuminate\Http\JsonResponse;
-use Tymon\JWTAuth\JWTGuard;
+use Illuminate\Http\RedirectResponse;
+use Laravel\Sanctum\Http\Controllers\CsrfCookieController;
 
 class AuthController extends Controller
 {
@@ -27,25 +28,33 @@ class AuthController extends Controller
         return $this->sendMfa($mfaToken);
     }
 
+    public function csrfCookie(): RedirectResponse
+    {
+        return redirect()->action([CsrfCookieController::class, 'show']);
+    }
+
     public function login(LoginRequest $request): JsonResponse
     {
         $data = $request->toData();
 
-        $tokenPairOfMfaToken = $this->service->loginWithCredentials([
+        $mfaTokenOrUser = $this->service->loginWithCredentials([
             'email' => $data->email,
             'password' => $data->password,
         ], $data->rememberMe);
 
-        if (! $tokenPairOfMfaToken) {
+        // invalid credentials
+        if (! $mfaTokenOrUser) {
             return $this->sendError(code: ResponseCodeEnum::INVALID_CREDENTIALS, message: 'Invalid credentials.');
         }
 
-        // user needs to verify device
-        if ($tokenPairOfMfaToken instanceof MfaToken) {
-            return $this->sendMfa($tokenPairOfMfaToken);
+        // user needs to verify email
+        if ($mfaTokenOrUser instanceof MfaToken) {
+            return $this->sendMfa($mfaTokenOrUser);
         }
 
-        return $this->sendTokenPair($tokenPairOfMfaToken);
+        return $this->sendSuccess([
+            'user' => new UserResource($mfaTokenOrUser),
+        ]);
     }
 
     public function me(AuthRequest $request): JsonResponse
@@ -60,22 +69,8 @@ class AuthController extends Controller
 
     public function logout(AuthRequest $request): JsonResponse
     {
-        /** @var JWTGuard $jwtGuard */
-        $jwtGuard = auth('api');
-
-        $jwtGuard->logout();
+        auth('api')->logout();
 
         return $this->sendSuccess(message: 'Logged out.');
-    }
-
-    public function refresh(AuthRequest $request): JsonResponse
-    {
-        $token = $this->service->refresh($request);
-
-        if (! $token) {
-            return $this->sendError(code: ResponseCodeEnum::INVALID_REFRESH_TOKEN, message: 'Invalid refresh token.');
-        }
-
-        return $this->sendToken($token);
     }
 }

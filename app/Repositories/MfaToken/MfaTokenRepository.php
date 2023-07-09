@@ -11,7 +11,7 @@ use Illuminate\Support\Str;
 
 class MfaTokenRepository implements MfaTokenRepositoryInterface
 {
-    public function create(User $user, MfaTokenTypeEnum $type, array $data = [], int $validMinutes = 60): MfaToken
+    public function create(User $user, MfaTokenTypeEnum $type, int $validMinutes = 60): MfaToken
     {
         // when creating new token, invalidate the previous
         // ones, so they become invalid
@@ -21,7 +21,6 @@ class MfaTokenRepository implements MfaTokenRepositoryInterface
         $token->user_id = $user->id;
         $token->token = CreateUuidTokenAction::create(MfaToken::class);
         $token->type = $type;
-        $token->data = $data;
         $token->valid_until = Carbon::now()->addMinutes($validMinutes);
         $token->code = Str::random(6);
 

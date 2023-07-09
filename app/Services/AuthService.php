@@ -2,28 +2,22 @@
 
 namespace App\Services;
 
-use App\Actions\Auth\CreateDeviceIdentifierAction;
-use App\Actions\Auth\CreateRefreshTokenAction;
-use App\Data\Auth\TokenPairData;
 use App\Enums\MfaTokenTypeEnum;
 use App\Http\Requests\Auth\RegisterRequestData;
 use App\Models\MfaToken;
 use App\Models\User;
 use App\Notifications\User\UserRegisteredNotification;
-use App\Notifications\User\UserVerifyDeviceNotification;
 use App\Notifications\User\UserVerifyEmailNotification;
 use App\Repositories\MfaToken\MfaTokenRepositoryInterface;
-use App\Repositories\RefreshToken\RefreshTokenRepositoryInterface;
 use App\Repositories\User\UserRepositoryInterface;
-use Illuminate\Http\Request;
-use Tymon\JWTAuth\JWTGuard;
+use Illuminate\Contracts\Hashing\Hasher;
 
 class AuthService
 {
     public function __construct(
-        private readonly RefreshTokenRepositoryInterface $refreshTokenRepository,
         private readonly MfaTokenRepositoryInterface $mfaTokenRepository,
         private readonly UserRepositoryInterface $userRepository,
+        private readonly Hasher $hasher,
     ) {
     }
 
@@ -56,22 +50,21 @@ class AuthService
     /**
      * Logs in user via credentials
      */
-    public function loginWithCredentials(array $credentials, bool $rememberMe = false): TokenPairData|MfaToken|null
+    public function loginWithCredentials(array $credentials, bool $rememberMe = false): MfaToken|User|null
     {
-        /** @var JWTGuard $guard */
-        $guard = auth('api');
+        $user = $this->userRepository->findByEmail($credentials['email']);
 
-        $accessToken = $guard->attempt($credentials);
-
-        if (! $accessToken) {
+        // check if user exists
+        if (! $user) {
             return null;
         }
 
-        /** @var User $user */
-        $user = $guard->user();
+        // check if user's password matches
+        if (! $this->hasher->check($credentials['password'], $user->password)) {
+            return null;
+        }
 
-        // user hasn't verified his email yet
-        // -> ask for verification via email
+        // user needs to verify his email
         if (! $user->email_verified_at) {
             $mfa = $this->mfaTokenRepository->create($user, MfaTokenTypeEnum::VERIFY_EMAIL);
 
@@ -80,70 +73,16 @@ class AuthService
             return $mfa;
         }
 
-        $device = CreateDeviceIdentifierAction::create();
+        $this->loginWithModel($user, $rememberMe);
 
-        // user logged in for the first time with current device
-        // -> ask for verification via email
-        if (! $this->refreshTokenRepository->deviceExists($user, $device)) {
-            $mfa = $this->mfaTokenRepository->create($user, MfaTokenTypeEnum::VERIFY_DEVICE, [
-                'device' => $device,
-            ]);
-
-            $user->notify(new UserVerifyDeviceNotification($mfa));
-
-            return $mfa;
-        }
-
-        // delete old refresh tokens for the same device,
-        // so they won't duplicate
-        $this->refreshTokenRepository->deleteByDevice($user, $device);
-
-        $refreshToken = CreateRefreshTokenAction::create($user, $device, $rememberMe);
-
-        return TokenPairData::from([
-            'accessToken' => $accessToken,
-            'refreshToken' => $refreshToken->refresh_token,
-        ]);
+        return $user;
     }
 
     /**
      * Logs in user via model
      */
-    public function login(User $user, ?string $device = null): TokenPairData
+    public function loginWithModel(User $user, bool $rememberMe = false): void
     {
-        /** @var JWTGuard $guard */
-        $guard = auth('api');
-
-        $accessToken = $guard->login($user);
-
-        $refreshToken = CreateRefreshTokenAction::create($user, $device);
-
-        return TokenPairData::from([
-            'accessToken' => $accessToken,
-            'refreshToken' => $refreshToken->refresh_token,
-        ]);
-    }
-
-    /**
-     * Refreshes the token and prolongs its validity
-     * if valid.
-     */
-    public function refresh(Request $request): ?string
-    {
-        $refreshToken = $request->cookie('refreshToken');
-
-        $refreshToken = $this->refreshTokenRepository->findOrFail($refreshToken);
-
-        if ($refreshToken->invalidated || $refreshToken->valid_until->isPast()) {
-            return null;
-        }
-
-        // prolong the validity of the refresh token with every use
-        $this->refreshTokenRepository->prolong($refreshToken);
-
-        /** @var JWTGuard $guard */
-        $guard = auth('api');
-
-        return $guard->refresh();
+        auth('api')->login($user, $rememberMe);
     }
 }

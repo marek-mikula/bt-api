@@ -14,7 +14,6 @@ return new class extends Migration
             $table->uuid('token')->unique();
             $table->string('code', 6);
             $table->tinyInteger('type');
-            $table->json('data');
             $table->timestamp('valid_until');
             $table->timestamp('invalidated_at')->nullable();
             $table->timestamps();
