@@ -24,6 +24,7 @@ enum ResponseCodeEnum: int
     case TOKEN_PAIR = 18;
     case ACCESS_TOKEN = 19;
     case QUIZ_TAKEN = 20;
+    case TOO_MANY_ATTEMPTS = 21;
 
     public function getStatusCode(): int
     {
@@ -60,6 +61,9 @@ enum ResponseCodeEnum: int
 
             // 422
             self::INVALID_CONTENT => 422,
+
+            // 429
+            self::TOO_MANY_ATTEMPTS => 429,
 
             // 500
             self::SERVER_ERROR => 500,

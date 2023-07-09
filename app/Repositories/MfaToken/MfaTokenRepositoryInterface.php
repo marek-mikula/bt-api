@@ -8,7 +8,7 @@ use App\Models\User;
 
 interface MfaTokenRepositoryInterface
 {
-    public function create(User $user, MfaTokenTypeEnum $type, array $data = [], int $validMinutes = 60): MfaToken;
+    public function create(User $user, MfaTokenTypeEnum $type, int $validMinutes = 60): MfaToken;
 
     public function invalidatePreviousOfType(User $user, MfaTokenTypeEnum $type): void;
 

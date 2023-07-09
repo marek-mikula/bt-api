@@ -6,8 +6,6 @@ use App\Repositories\MfaToken\MfaTokenRepository;
 use App\Repositories\MfaToken\MfaTokenRepositoryInterface;
 use App\Repositories\QuizResult\QuizResultRepository;
 use App\Repositories\QuizResult\QuizResultRepositoryInterface;
-use App\Repositories\RefreshToken\RefreshTokenRepository;
-use App\Repositories\RefreshToken\RefreshTokenRepositoryInterface;
 use App\Repositories\User\UserRepository;
 use App\Repositories\User\UserRepositoryInterface;
 use Illuminate\Contracts\Support\DeferrableProvider;
@@ -20,7 +18,6 @@ class RepositoryServiceProvider extends ServiceProvider implements DeferrablePro
      */
     private array $repositories = [
         UserRepositoryInterface::class => UserRepository::class,
-        RefreshTokenRepositoryInterface::class => RefreshTokenRepository::class,
         MfaTokenRepositoryInterface::class => MfaTokenRepository::class,
         QuizResultRepositoryInterface::class => QuizResultRepository::class,
     ];

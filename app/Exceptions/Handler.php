@@ -14,6 +14,7 @@ use Illuminate\Validation\ValidationException;
 use Symfony\Component\HttpFoundation\Response;
 use Symfony\Component\HttpKernel\Exception\MethodNotAllowedHttpException;
 use Symfony\Component\HttpKernel\Exception\NotFoundHttpException;
+use Symfony\Component\HttpKernel\Exception\TooManyRequestsHttpException;
 use Throwable;
 
 class Handler extends ExceptionHandler
@@ -133,6 +134,14 @@ class Handler extends ExceptionHandler
                 ],
                 code: ResponseCodeEnum::INVALID_CONTENT,
                 message: 'Invalid data.'
+            );
+        }
+
+        if ($e instanceof TooManyRequestsHttpException) {
+            return $this->sendJsonResponse(
+                data: [],
+                code: ResponseCodeEnum::TOO_MANY_ATTEMPTS,
+                message: 'Too many attempts.'
             );
         }
 

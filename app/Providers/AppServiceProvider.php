@@ -8,7 +8,7 @@ use App\Services\Mfa\MfaTokenResolver;
 use App\Services\PasswordResetService;
 use App\Services\QuizService;
 use Illuminate\Support\ServiceProvider;
-use WhichBrowser\Parser;
+use Laravel\Sanctum\Sanctum;
 
 class AppServiceProvider extends ServiceProvider
 {
@@ -24,14 +24,12 @@ class AppServiceProvider extends ServiceProvider
 
     public function register(): void
     {
+        Sanctum::ignoreMigrations(); // ignore personal tokens migration
+
         // register telescope service provider for non-prod only
         if (! $this->app->environment(EnvEnum::PRODUCTION->value)) {
             $this->app->register(TelescopeServiceProvider::class);
         }
-
-        $this->app->singleton(Parser::class, function (): Parser {
-            return new Parser(getallheaders());
-        });
 
         foreach ($this->services as $service) {
             $this->app->singleton($service);
