@@ -16,6 +16,9 @@ Setup `SESSION_DOMAIN` env value to the domain of the frontend and backend appli
 Setup `SANCTUM_STATEFUL_DOMAINS` env value to the frontend application domain, port included. For instance `localhost:3000`.
 
 ```bash
+# start laravel sail (Docker)
+$ sail up
+
 # install dependencies
 $ sail composer install
 

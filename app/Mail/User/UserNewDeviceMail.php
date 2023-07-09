@@ -42,7 +42,7 @@ class UserNewDeviceMail extends BaseMail
                 'time' => $this->formatDatetime($time),
                 'ipAddress' => $this->log->getAttribute('ip_address'),
                 'browser' => $this->log->getAttribute('user_agent'),
-//                'location' => $this->log->getAttribute('location'), we are not using geoip
+                //                'location' => $this->log->getAttribute('location'), we are not using geoip
             ]
         );
     }

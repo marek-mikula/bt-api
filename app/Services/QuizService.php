@@ -504,8 +504,7 @@ class QuizService
     }
 
     /**
-     * @param Collection<FinishRequestAnswerData> $answers
-     * @return array
+     * @param  Collection<FinishRequestAnswerData>  $answers
      */
     public function countAnswers(Collection $answers): array
     {
