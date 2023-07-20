@@ -11,6 +11,10 @@ return [
                 'line1' => 'You have successfully verified your email address. You can now proceed to the application.',
             ],
         ],
+        'database' => [
+            'title' => 'Email address verified',
+            'body' => 'Your email address was successfully verified.'
+        ],
     ],
     NotificationTypeEnum::NEW_DEVICE->value => [
         'mail' => [
@@ -23,6 +27,10 @@ return [
                 'line2' => 'If you recognize this activity, no further action is required. However, if you didn\'t initiate this login or suspect unauthorized access, please take immediate action and change your account password.',
             ],
         ],
+        'database' => [
+            'title' => 'Login from new device',
+            'body' => 'There was a new activity detected in your profile from IP address :ipAddress with browser :browser at :time.'
+        ],
     ],
     NotificationTypeEnum::PASSWORD_CHANGED->value => [
         'mail' => [
@@ -32,6 +40,10 @@ return [
                 'line2' => 'If you changed your password recently, then you can safely ignore this email.',
                 'line3' => 'However, if you did not make this change, or you believe that someone else may have accessed your account, please contact us immediately.',
             ],
+        ],
+        'database' => [
+            'title' => 'Password changed',
+            'body' => 'Your password has been successfully changed.'
         ],
     ],
     NotificationTypeEnum::REGISTERED->value => [

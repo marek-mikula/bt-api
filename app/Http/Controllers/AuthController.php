@@ -25,7 +25,7 @@ class AuthController extends Controller
     {
         $mfaToken = $this->service->register($request->toData());
 
-        return $this->sendMfa($mfaToken);
+        return $this->sendMfaToken($mfaToken);
     }
 
     public function csrfCookie(): RedirectResponse
@@ -49,7 +49,7 @@ class AuthController extends Controller
 
         // user needs to verify email
         if ($mfaTokenOrUser instanceof MfaToken) {
-            return $this->sendMfa($mfaTokenOrUser);
+            return $this->sendMfaToken($mfaTokenOrUser);
         }
 
         return $this->sendSuccess([
@@ -67,7 +67,7 @@ class AuthController extends Controller
         ]);
     }
 
-    public function logout(AuthRequest $request): JsonResponse
+    public function logout(): JsonResponse
     {
         auth('api')->logout();
 

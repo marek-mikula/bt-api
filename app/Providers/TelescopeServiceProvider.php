@@ -23,11 +23,7 @@ class TelescopeServiceProvider extends ServiceProvider
             'secretKey',
         ]);
 
-        Telescope::hideResponseParameters([
-            'data.token.accessToken',
-            'data.token.refreshToken',
-            'data.token.token',
-        ]);
+        Telescope::hideResponseParameters([]);
     }
 
     public function boot(): void

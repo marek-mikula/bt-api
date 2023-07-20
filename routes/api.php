@@ -5,6 +5,7 @@ use App\Http\Controllers\AuthController;
 use App\Http\Controllers\MfaController;
 use App\Http\Controllers\PasswordResetController;
 use App\Http\Controllers\QuizController;
+use App\Http\Controllers\UserController;
 use App\Http\Middleware\MfaTokenMiddleware;
 use Illuminate\Support\Facades\Route;
 
@@ -59,4 +60,9 @@ Route::group(['prefix' => '/quiz', 'as' => 'quiz.', 'middleware' => ['auth:sanct
 
     Route::post('/finish', [QuizController::class, 'finish'])
         ->name('finish');
+});
+
+Route::group(['prefix' => '/user', 'as' => 'user.', 'middleware' => ['auth:sanctum']], function (): void {
+    Route::get('/unread-notifications', [UserController::class, 'unreadNotifications'])
+        ->name('unread-notifications');
 });

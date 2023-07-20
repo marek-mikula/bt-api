@@ -14,8 +14,11 @@ trait Notifiable
 {
     use BaseNotifiable;
 
+    /**
+     * @see static::$notifications
+     */
     public function notifications(): MorphMany
     {
-        return $this->morphMany(Notification::class, 'notifiable')->latest();
+        return $this->morphMany(Notification::class, 'notifiable');
     }
 }

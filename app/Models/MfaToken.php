@@ -66,28 +66,43 @@ class MfaToken extends Model
         'invalidated_at' => 'datetime',
     ];
 
-    public function isExpired(): Attribute
+    /**
+     * @see MfaToken::$is_expired
+     */
+    protected function isExpired(): Attribute
     {
         return Attribute::get(function (): bool {
             return $this->invalidated || $this->valid_until->lte(Carbon::now());
         });
     }
 
-    public function invalidated(): Attribute
+    /**
+     * @see MfaToken::$invalidated
+     */
+    protected function invalidated(): Attribute
     {
         return Attribute::get(fn (): string => ! empty($this->invalidated_at));
     }
 
-    public function code(): Attribute
+    /**
+     * @see MfaToken::$code
+     */
+    protected function code(): Attribute
     {
         return Attribute::set(static fn (string $value): string => Str::lower($value));
     }
 
-    public function secretToken(): Attribute
+    /**
+     * @see MfaToken::$secret_token
+     */
+    protected function secretToken(): Attribute
     {
         return Attribute::get(fn (): string => Crypt::encryptString($this->token));
     }
 
+    /**
+     * @see MfaToken::$user
+     */
     public function user(): BelongsTo
     {
         return $this->belongsTo(User::class, 'user_id', 'id');
@@ -103,6 +118,9 @@ class MfaToken extends Model
         return new MfaTokenQuery($query);
     }
 
+    /**
+     * @see MfaToken::factory()
+     */
     protected static function newFactory(): MfaTokenFactory
     {
         return new MfaTokenFactory();

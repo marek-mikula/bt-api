@@ -74,11 +74,17 @@ class User extends Authenticatable
         'quiz_finished_at' => 'datetime',
     ];
 
+    /**
+     * @see User::$password
+     */
     protected function password(): Attribute
     {
         return Attribute::set(static fn (string $value): string => Hash::make($value));
     }
 
+    /**
+     * @see User::$full_name
+     */
     protected function fullName(): Attribute
     {
         return Attribute::get(fn (): string => collect([
@@ -87,21 +93,33 @@ class User extends Authenticatable
         ])->filter()->implode(' '));
     }
 
+    /**
+     * @see User::$quiz_taken
+     */
     protected function quizTaken(): Attribute
     {
         return Attribute::get(fn (): bool => ! empty($this->quiz_finished_at));
     }
 
+    /**
+     * @see User::$mfa_tokens
+     */
     public function mfaTokens(): HasMany
     {
         return $this->hasMany(MfaToken::class, 'user_id', 'id');
     }
 
+    /**
+     * @see User::$quizResult
+     */
     public function quizResult(): HasOne
     {
         return $this->hasOne(QuizResult::class, 'user_id', 'id');
     }
 
+    /**
+     * @see User::factory()
+     */
     protected static function newFactory(): UserFactory
     {
         return new UserFactory();

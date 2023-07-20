@@ -36,6 +36,9 @@ class QuizResult extends Model
         'results' => 'array',
     ];
 
+    /**
+     * @see QuizResult::$user
+     */
     public function user(): BelongsTo
     {
         return $this->belongsTo(User::class, 'user_id', 'id');
