@@ -11,4 +11,10 @@ class BaseMail extends Mailable implements ShouldQueue
 {
     use Queueable;
     use SerializesModels;
+
+    public function __construct()
+    {
+        // set correct locale for mail
+        $this->locale(config('app.locale'));
+    }
 }

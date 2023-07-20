@@ -7,7 +7,7 @@
  * @var string $validity
  */
 
-$type = \App\Enums\NotificationTypeEnum::REGISTERED;
+$type = \App\Enums\NotificationTypeEnum::RESET_PASSWORD;
 
 @endphp
 
@@ -16,15 +16,17 @@ $type = \App\Enums\NotificationTypeEnum::REGISTERED;
 
 {{ __n($type, 'mail', 'body.line1') }}
 
-{{ __n($type, 'mail', 'body.line2', ['code' => $code]) }}
-
 <x-mail::button :url="$url">
     {{ __n($type, 'mail', 'body.action1') }}
 </x-mail::button>
 
+{{ __n($type, 'mail', 'body.line2', ['code' => $code]) }}
+
 {{ __n($type, 'mail', 'body.line3', ['validity' => $validity]) }}
 
 {{ __n($type, 'mail', 'body.line4') }}
+
+{{ __n($type, 'mail', 'body.line5') }}
 
 {{ __('common.notifications.regards') }},<br>
 {{ config('app.name') }}

@@ -2,16 +2,19 @@
 
 namespace App\Notifications\User;
 
-use App\Mail\User\UserNewDeviceMail;
+use App\Formatters\DateTimeFormatter;
+use App\Mail\User\NewDeviceMail;
 use App\Models\User;
 use App\Notifications\BaseNotification;
 use Rappasoft\LaravelAuthenticationLog\Models\AuthenticationLog;
 
-class UserNewDeviceNotification extends BaseNotification
+class NewDeviceNotification extends BaseNotification
 {
+    use DateTimeFormatter;
+
     public function __construct(private readonly AuthenticationLog $authenticationLog)
     {
-        //
+        parent::__construct();
     }
 
     public function via(User $notifiable): array
@@ -21,8 +24,8 @@ class UserNewDeviceNotification extends BaseNotification
         ];
     }
 
-    public function toMail(User $notifiable): UserNewDeviceMail
+    public function toMail(User $notifiable): NewDeviceMail
     {
-        return new UserNewDeviceMail($notifiable, $this->authenticationLog);
+        return new NewDeviceMail($notifiable, $this->authenticationLog);
     }
 }

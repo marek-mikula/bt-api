@@ -2,16 +2,16 @@
 
 namespace App\Notifications\User;
 
-use App\Mail\User\UserRegisteredMail;
+use App\Mail\User\ResetPasswordMail;
 use App\Models\MfaToken;
 use App\Models\User;
 use App\Notifications\BaseNotification;
 
-class UserRegisteredNotification extends BaseNotification
+class ResetPasswordNotification extends BaseNotification
 {
     public function __construct(private readonly MfaToken $mfaToken)
     {
-        //
+        parent::__construct();
     }
 
     public function via(User $notifiable): array
@@ -21,8 +21,8 @@ class UserRegisteredNotification extends BaseNotification
         ];
     }
 
-    public function toMail(User $notifiable): UserRegisteredMail
+    public function toMail(User $notifiable): ResetPasswordMail
     {
-        return new UserRegisteredMail($notifiable, $this->mfaToken);
+        return new ResetPasswordMail($notifiable, $this->mfaToken);
     }
 }

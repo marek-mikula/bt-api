@@ -31,6 +31,7 @@ use Illuminate\Support\Str;
  * @property-read User $user
  *
  * @method static MfaTokenQuery query()
+ * @method static MfaTokenFactory factory($count = null, $state = [])
  */
 class MfaToken extends Model
 {

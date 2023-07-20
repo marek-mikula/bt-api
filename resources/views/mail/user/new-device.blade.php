@@ -7,19 +7,21 @@
  * @var string $browser
  */
 
+$type = \App\Enums\NotificationTypeEnum::NEW_DEVICE;
+
 @endphp
 
 <x-mail::message>
-Dear {{ $user->full_name }},
+{{ __('common.notifications.salutation', ['name' => $user->full_name]) }},
 
-We noticed a recent login to your account from a new device. Here are the details:
+{{ __n($type, 'mail', 'body.line1') }}
 
-Time: **{{ $time }}**<br>
-IP Address: **{{ $ipAddress }}**<br>
-Browser: **{{ $browser }}**
+{{ __n($type, 'mail', 'body.list1', ['time' => $time]) }}<br>
+{{ __n($type, 'mail', 'body.list2', ['ipAddress' => $ipAddress]) }}<br>
+{{ __n($type, 'mail', 'body.list3', ['browser' => $browser]) }}
 
-If you recognize this activity, no further action is required. However, if you didn't initiate this login or suspect unauthorized access, please take immediate action and change your account password.
+{{ __n($type, 'mail', 'body.line2') }}
 
-Best regards,<br>
+{{ __('common.notifications.regards') }},<br>
 {{ config('app.name') }}
 </x-mail::message>

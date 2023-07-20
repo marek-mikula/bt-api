@@ -1,6 +1,6 @@
 <?php
 
-use App\Notifications\User\UserNewDeviceNotification;
+use App\Notifications\User\NewDeviceNotification;
 use Illuminate\Auth\Events\Failed;
 use Illuminate\Auth\Events\Login;
 use Illuminate\Auth\Events\Logout;
@@ -32,7 +32,7 @@ return [
             'location' => false,
 
             // The Notification class to send
-            'template' => UserNewDeviceNotification::class,
+            'template' => NewDeviceNotification::class,
         ],
         'failed-login' => [
             // Send the FailedLogin notification

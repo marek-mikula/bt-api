@@ -7,35 +7,33 @@
  * @var string $validity
  */
 
+$type = \App\Enums\NotificationTypeEnum::VERIFY_EMAIL;
+
 @endphp
 
 <x-mail::message>
-Dear {{ $user->full_name }},
+{{ __('common.notifications.salutation', ['name' => $user->full_name]) }},
 
-We require you to verify your email address in order to complete the login process. This is a security measure that ensures only you have access to your account.
+{{ __n($type, 'mail', 'body.line1') }}
 
-Please use the following code to complete the verification process:
-
-Verification Code: **{{ $code }}**
-
-To verify your email address, please use the link below.
+{{ __n($type, 'mail', 'body.line2', ['code' => $code]) }}
 
 <x-mail::button :url="$url">
-Verify email address
+    {{ __n($type, 'mail', 'body.action1') }}
 </x-mail::button>
 
-The link is valid until **{{ $validity }}**.
+{{ __n($type, 'mail', 'body.line3', ['validity' => $validity]) }}
 
-If you did not initiate this login or believe that your account may be compromised, please contact us immediately.
+{{ __n($type, 'mail', 'body.line4') }}
 
-Thank you for your cooperation in keeping your account secure.
+{{ __n($type, 'mail', 'body.line5') }}
 
-Best regards,<br>
+{{ __('common.notifications.regards') }},<br>
 {{ config('app.name') }}
 
 <hr>
 
 <small class="break-all">
-    If the button link does not work. Use this link instead <a href="{{ $url }}">{{ $url }}</a>
+    {{ __('common.notifications.link', ['link' => $url]) }}
 </small>
 </x-mail::message>

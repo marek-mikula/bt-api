@@ -4,6 +4,7 @@ namespace App\Models;
 
 use App\Casts\EncryptCast;
 use App\Enums\MfaTokenTypeEnum;
+use App\Models\Traits\Notifiable;
 use Carbon\Carbon;
 use Database\Factories\UserFactory;
 use Illuminate\Database\Eloquent\Casts\Attribute;
@@ -12,7 +13,6 @@ use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Relations\HasMany;
 use Illuminate\Database\Eloquent\Relations\HasOne;
 use Illuminate\Foundation\Auth\User as Authenticatable;
-use Illuminate\Notifications\Notifiable;
 use Illuminate\Support\Facades\Hash;
 use Rappasoft\LaravelAuthenticationLog\Traits\AuthenticationLoggable;
 
@@ -33,12 +33,14 @@ use Rappasoft\LaravelAuthenticationLog\Traits\AuthenticationLoggable;
  * @property Carbon $updated_at
  * @property-read Collection<MfaToken> $mfaTokens
  * @property-read QuizResult|null $quizResult
+ *
+ * @method static UserFactory factory($count = null, $state = [])
  */
 class User extends Authenticatable
 {
     use HasFactory;
     use Notifiable;
-    use AuthenticationLoggable; // auth logs
+    use AuthenticationLoggable;
 
     protected $table = 'users';
 
