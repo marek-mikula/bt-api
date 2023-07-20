@@ -29,11 +29,8 @@ class VerifyEmailMail extends BaseMail
 
     public function content(): Content
     {
-        $frontEndUrl = config('app.frontend_url');
-
         // create URL address to frontend app
-        $url = vsprintf('%s/mfa/verify-email?token=%s', [
-            $frontEndUrl,
+        $url = frontend_link('mfa/verify-email?token=%', [
             $this->mfaToken->secret_token,
         ]);
 

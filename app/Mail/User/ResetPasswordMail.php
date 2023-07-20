@@ -29,11 +29,8 @@ class ResetPasswordMail extends BaseMail
 
     public function content(): Content
     {
-        $frontEndUrl = config('app.frontend_url');
-
         // create URL address to frontend app
-        $url = vsprintf('%s/mfa/password-reset?token=%s', [
-            $frontEndUrl,
+        $url = frontend_link('mfa/password-reset?token=%s', [
             $this->mfaToken->secret_token,
         ]);
 
