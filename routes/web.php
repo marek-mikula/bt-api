@@ -14,10 +14,5 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    /** @var \App\Models\User $user */
-    $user = \App\Models\User::query()->first();
-
-    dd($user->mfaTokens);
-
     return view('welcome');
 });
