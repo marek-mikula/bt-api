@@ -9,17 +9,18 @@ use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Notifications\DatabaseNotification;
 use Illuminate\Support\Arr;
+use Illuminate\Support\Str;
 
 /**
  * @property-read string $id uuid string ID
  * @property class-string<BaseNotification> $type
  * @property class-string<Model> $notifiable
  * @property array $data
- * @property-read string $_title
- * @property-read string $_body
- * @property-read string $_type
- * @property-read string $_domain
- * @property-read array $_data
+ * @property-read string $data_title
+ * @property-read string $data_body
+ * @property-read string $data_type
+ * @property-read string $data_domain
+ * @property-read array $data_input
  * @property Carbon|null $read_at
  * @property Carbon $created_at
  * @property Carbon $updated_at
@@ -29,42 +30,42 @@ class Notification extends DatabaseNotification
     use HasFactory;
 
     /**
-     * @see Notification::$_title
+     * @see Notification::$data_title
      */
-    protected function _title(): Attribute
+    protected function dataTitle(): Attribute
     {
         return Attribute::get(fn (): string => (string) Arr::get($this->data, 'title'));
     }
 
     /**
-     * @see Notification::$_body
+     * @see Notification::$data_body
      */
-    protected function _body(): Attribute
+    protected function dataBody(): Attribute
     {
         return Attribute::get(fn (): string => (string) Arr::get($this->data, 'body'));
     }
 
     /**
-     * @see Notification::$_type
+     * @see Notification::$data_type
      */
-    protected function _type(): Attribute
+    protected function dataType(): Attribute
     {
-        return Attribute::get(fn (): string => (string) Arr::get($this->data, 'type'));
+        return Attribute::get(fn (): string => Str::after((string) Arr::get($this->data, 'type'), '@'));
     }
 
     /**
-     * @see Notification::$_domain
+     * @see Notification::$data_domain
      */
-    protected function _domain(): Attribute
+    protected function dataDomain(): Attribute
     {
-        return Attribute::get(fn (): string => (string) Arr::get($this->data, 'domain'));
+        return Attribute::get(fn (): string => Str::before((string) Arr::get($this->data, 'type'), '@'));
     }
 
     /**
-     * @see Notification::$_input
+     * @see Notification::$data_input
      */
-    protected function _input(): Attribute
+    protected function dataInput(): Attribute
     {
-        return Attribute::get(fn (): string => Arr::get($this->data, 'input', []));
+        return Attribute::get(fn (): array => Arr::get($this->data, 'input', []));
     }
 }

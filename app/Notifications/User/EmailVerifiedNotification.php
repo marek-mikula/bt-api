@@ -2,7 +2,6 @@
 
 namespace App\Notifications\User;
 
-use App\Enums\NotificationDomainEnum;
 use App\Enums\NotificationTypeEnum;
 use App\Mail\User\EmailVerifiedMail;
 use App\Models\User;
@@ -29,7 +28,6 @@ class EmailVerifiedNotification extends BaseNotification
 
         return [
             'type' => $type->value,
-            'domain' => NotificationDomainEnum::PROFILE->value,
             'title' => __n($type, 'database', 'title'),
             'body' => __n($type, 'database', 'body'),
         ];

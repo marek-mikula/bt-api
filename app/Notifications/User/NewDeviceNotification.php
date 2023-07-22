@@ -2,7 +2,6 @@
 
 namespace App\Notifications\User;
 
-use App\Enums\NotificationDomainEnum;
 use App\Enums\NotificationTypeEnum;
 use App\Formatters\DateTimeFormatter;
 use App\Mail\User\NewDeviceMail;
@@ -24,6 +23,7 @@ class NewDeviceNotification extends BaseNotification
     {
         return [
             'mail',
+            'database',
         ];
     }
 
@@ -41,14 +41,13 @@ class NewDeviceNotification extends BaseNotification
 
         return [
             'type' => $type->value,
-            'domain' => NotificationDomainEnum::PROFILE->value,
             'title' => __n($type, 'database', 'title'),
             'body' => __n($type, 'database', 'body', [
                 'ipAddress' => $this->authenticationLog->getAttribute('ip_address'),
                 'browser' => $this->authenticationLog->getAttribute('user_agent'),
                 'time' => $this->formatDatetime($time),
             ]),
-            'data' => [
+            'input' => [
                 'ipAddress' => $this->authenticationLog->getAttribute('ip_address'),
                 'browser' => $this->authenticationLog->getAttribute('user_agent'),
                 'time' => $time->toIso8601String(),
