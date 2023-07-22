@@ -13,7 +13,7 @@ return [
         ],
         'database' => [
             'title' => 'Email address verified',
-            'body' => 'Your email address was successfully verified.'
+            'body' => 'Your email address was successfully verified.',
         ],
     ],
     NotificationTypeEnum::NEW_DEVICE->value => [
@@ -29,7 +29,7 @@ return [
         ],
         'database' => [
             'title' => 'Login from new device',
-            'body' => 'There was a new activity detected in your profile from IP address :ipAddress with browser :browser at :time.'
+            'body' => 'There was a new activity detected in your profile from IP address :ipAddress with browser :browser at :time.',
         ],
     ],
     NotificationTypeEnum::PASSWORD_CHANGED->value => [
@@ -43,7 +43,7 @@ return [
         ],
         'database' => [
             'title' => 'Password changed',
-            'body' => 'Your password has been successfully changed.'
+            'body' => 'Your password has been successfully changed.',
         ],
     ],
     NotificationTypeEnum::REGISTERED->value => [
