@@ -48,11 +48,4 @@ class UserRepository implements UserRepositoryInterface
 
         return $user;
     }
-
-    public function unreadNotificationsCount(User $user): int
-    {
-        return $user->notifications()
-            ->whereNull('read_at')
-            ->count();
-    }
 }

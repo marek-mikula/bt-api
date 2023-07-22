@@ -21,6 +21,8 @@ use Illuminate\Support\Str;
  * @property-read string $data_type
  * @property-read string $data_domain
  * @property-read array $data_input
+ * @property-read bool $is_unread
+ * @property-read bool $is_read
  * @property Carbon|null $read_at
  * @property Carbon $created_at
  * @property Carbon $updated_at
@@ -67,5 +69,21 @@ class Notification extends DatabaseNotification
     protected function dataInput(): Attribute
     {
         return Attribute::get(fn (): array => Arr::get($this->data, 'input', []));
+    }
+
+    /**
+     * @see Notification::$is_unread
+     */
+    protected function isUnread(): Attribute
+    {
+        return Attribute::get(fn (): bool => ! $this->read_at);
+    }
+
+    /**
+     * @see Notification::$is_read
+     */
+    protected function isRead(): Attribute
+    {
+        return Attribute::get(fn (): bool => ! $this->is_unread);
     }
 }
