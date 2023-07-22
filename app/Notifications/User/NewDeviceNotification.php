@@ -2,6 +2,7 @@
 
 namespace App\Notifications\User;
 
+use App\Data\Notification\DatabaseNotification;
 use App\Enums\NotificationTypeEnum;
 use App\Formatters\DateTimeFormatter;
 use App\Mail\User\NewDeviceMail;
@@ -34,24 +35,21 @@ class NewDeviceNotification extends BaseNotification
 
     public function toDatabase(User $notifiable): array
     {
-        $type = NotificationTypeEnum::NEW_DEVICE;
-
         /** @var Carbon $time */
         $time = $this->authenticationLog->getAttribute('login_at');
 
-        return [
-            'type' => $type->value,
-            'title' => __n($type, 'database', 'title'),
-            'body' => __n($type, 'database', 'body', [
+        return DatabaseNotification::create(NotificationTypeEnum::NEW_DEVICE)
+            ->title('title')
+            ->body('body', [
                 'ipAddress' => $this->authenticationLog->getAttribute('ip_address'),
                 'browser' => $this->authenticationLog->getAttribute('user_agent'),
                 'time' => $this->formatDatetime($time),
-            ]),
-            'input' => [
+            ])
+            ->input([
                 'ipAddress' => $this->authenticationLog->getAttribute('ip_address'),
                 'browser' => $this->authenticationLog->getAttribute('user_agent'),
                 'time' => $time->toIso8601String(),
-            ]
-        ];
+            ])
+            ->toArray();
     }
 }

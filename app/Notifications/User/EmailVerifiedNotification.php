@@ -2,6 +2,7 @@
 
 namespace App\Notifications\User;
 
+use App\Data\Notification\DatabaseNotification;
 use App\Enums\NotificationTypeEnum;
 use App\Mail\User\EmailVerifiedMail;
 use App\Models\User;
@@ -24,12 +25,9 @@ class EmailVerifiedNotification extends BaseNotification
 
     public function toDatabase(User $notifiable): array
     {
-        $type = NotificationTypeEnum::EMAIL_VERIFIED;
-
-        return [
-            'type' => $type->value,
-            'title' => __n($type, 'database', 'title'),
-            'body' => __n($type, 'database', 'body'),
-        ];
+        return DatabaseNotification::create(NotificationTypeEnum::EMAIL_VERIFIED)
+            ->title('title')
+            ->body('body')
+            ->toArray();
     }
 }
