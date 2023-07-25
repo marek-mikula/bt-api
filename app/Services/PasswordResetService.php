@@ -4,8 +4,8 @@ namespace App\Services;
 
 use App\Enums\MfaTokenTypeEnum;
 use App\Models\User;
-use App\Notifications\User\UserPasswordChangedNotification;
-use App\Notifications\User\UserResetPasswordNotification;
+use App\Notifications\User\PasswordChangedNotification;
+use App\Notifications\User\ResetPasswordNotification;
 use App\Repositories\MfaToken\MfaTokenRepositoryInterface;
 use App\Repositories\User\UserRepositoryInterface;
 
@@ -27,13 +27,13 @@ class PasswordResetService
 
         $mfaToken = $this->mfaTokenRepository->create($user, MfaTokenTypeEnum::RESET_PASSWORD);
 
-        $user->notify(new UserResetPasswordNotification($mfaToken));
+        $user->notify(new ResetPasswordNotification($mfaToken));
     }
 
     public function resetPassword(User $user, string $password): void
     {
         $user = $this->userRepository->changePassword($user, $password);
 
-        $user->notify(new UserPasswordChangedNotification());
+        $user->notify(new PasswordChangedNotification());
     }
 }

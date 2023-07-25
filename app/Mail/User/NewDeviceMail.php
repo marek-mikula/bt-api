@@ -2,6 +2,7 @@
 
 namespace App\Mail\User;
 
+use App\Enums\NotificationTypeEnum;
 use App\Formatters\DateTimeFormatter;
 use App\Mail\BaseMail;
 use App\Models\User;
@@ -11,7 +12,7 @@ use Illuminate\Mail\Mailables\Content;
 use Illuminate\Mail\Mailables\Envelope;
 use Rappasoft\LaravelAuthenticationLog\Models\AuthenticationLog;
 
-class UserNewDeviceMail extends BaseMail
+class NewDeviceMail extends BaseMail
 {
     use DateTimeFormatter;
 
@@ -19,14 +20,14 @@ class UserNewDeviceMail extends BaseMail
         private readonly User $user,
         private readonly AuthenticationLog $log
     ) {
-        //
+        parent::__construct();
     }
 
     public function envelope(): Envelope
     {
         return new Envelope(
             to: $this->user->email,
-            subject: 'Login from new device'
+            subject: __n(NotificationTypeEnum::NEW_DEVICE, 'mail', 'subject')
         );
     }
 

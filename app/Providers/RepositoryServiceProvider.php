@@ -4,6 +4,8 @@ namespace App\Providers;
 
 use App\Repositories\MfaToken\MfaTokenRepository;
 use App\Repositories\MfaToken\MfaTokenRepositoryInterface;
+use App\Repositories\Notification\NotificationRepository;
+use App\Repositories\Notification\NotificationRepositoryInterface;
 use App\Repositories\QuizResult\QuizResultRepository;
 use App\Repositories\QuizResult\QuizResultRepositoryInterface;
 use App\Repositories\User\UserRepository;
@@ -20,6 +22,7 @@ class RepositoryServiceProvider extends ServiceProvider implements DeferrablePro
         UserRepositoryInterface::class => UserRepository::class,
         MfaTokenRepositoryInterface::class => MfaTokenRepository::class,
         QuizResultRepositoryInterface::class => QuizResultRepository::class,
+        NotificationRepositoryInterface::class => NotificationRepository::class,
     ];
 
     public function register(): void

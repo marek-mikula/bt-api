@@ -2,53 +2,41 @@
 
 namespace App\Mail\User;
 
+use App\Enums\NotificationTypeEnum;
 use App\Mail\BaseMail;
-use App\Models\MfaToken;
 use App\Models\User;
 use Illuminate\Mail\Mailables\Attachment;
 use Illuminate\Mail\Mailables\Content;
 use Illuminate\Mail\Mailables\Envelope;
 
-class UserResetPasswordMail extends BaseMail
+class EmailVerifiedMail extends BaseMail
 {
     public function __construct(
         private readonly User $user,
-        private readonly MfaToken $mfaToken,
     ) {
-        //
+        parent::__construct();
     }
 
     public function envelope(): Envelope
     {
         return new Envelope(
             to: $this->user->email,
-            subject: 'Password reset request'
+            subject: __n(NotificationTypeEnum::EMAIL_VERIFIED, 'mail', 'subject')
         );
     }
 
     public function content(): Content
     {
-        $frontEndUrl = config('app.frontend_url');
-
-        // create URL address to frontend app
-        $url = vsprintf('%s/mfa/password-reset?token=%s', [
-            $frontEndUrl,
-            $this->mfaToken->secret_token,
-        ]);
-
         return new Content(
-            markdown: 'mail.user.password-reset',
+            markdown: 'mail.user.email-verified',
             with: [
                 'user' => $this->user,
-                'url' => $url,
-                'code' => $this->mfaToken->code,
-                'validity' => $this->mfaToken->formatValidUntil(),
             ]
         );
     }
 
     /**
-     * @return list<Attachment>
+     * @return Attachment[]
      */
     public function attachments(): array
     {

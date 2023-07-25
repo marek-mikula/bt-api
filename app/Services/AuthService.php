@@ -6,8 +6,8 @@ use App\Enums\MfaTokenTypeEnum;
 use App\Http\Requests\Auth\RegisterRequestData;
 use App\Models\MfaToken;
 use App\Models\User;
-use App\Notifications\User\UserRegisteredNotification;
-use App\Notifications\User\UserVerifyEmailNotification;
+use App\Notifications\User\RegisteredNotification;
+use App\Notifications\User\VerifyEmailNotification;
 use App\Repositories\MfaToken\MfaTokenRepositoryInterface;
 use App\Repositories\User\UserRepositoryInterface;
 use Illuminate\Contracts\Hashing\Hasher;
@@ -42,7 +42,7 @@ class AuthService
         $mfa = $this->mfaTokenRepository->create($user, MfaTokenTypeEnum::VERIFY_EMAIL);
 
         // notify user
-        $user->notify(new UserRegisteredNotification($mfa));
+        $user->notify(new RegisteredNotification($mfa));
 
         return $mfa;
     }
@@ -68,7 +68,7 @@ class AuthService
         if (! $user->email_verified_at) {
             $mfa = $this->mfaTokenRepository->create($user, MfaTokenTypeEnum::VERIFY_EMAIL);
 
-            $user->notify(new UserVerifyEmailNotification($mfa));
+            $user->notify(new VerifyEmailNotification($mfa));
 
             return $mfa;
         }

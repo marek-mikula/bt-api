@@ -3,6 +3,7 @@
 namespace App\Http\Controllers\Traits;
 
 use App\Enums\ResponseCodeEnum;
+use App\Http\Resources\MfaTokenResource;
 use App\Models\MfaToken;
 use Illuminate\Http\JsonResponse;
 
@@ -18,14 +19,10 @@ trait RespondsAsJson
         return $this->sendJsonResponse($data, $code, $message);
     }
 
-    protected function sendMfa(MfaToken $mfaToken): JsonResponse
+    protected function sendMfaToken(MfaToken $mfaToken): JsonResponse
     {
         return $this->sendSuccess([
-            'token' => [
-                'type' => $mfaToken->type->value,
-                'token' => $mfaToken->secret_token,
-                'validUntil' => $mfaToken->valid_until->toIso8601String(),
-            ],
+            'token' => new MfaTokenResource($mfaToken),
         ], ResponseCodeEnum::MFA_TOKEN);
     }
 

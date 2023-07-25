@@ -5,6 +5,7 @@ namespace App\Http\Controllers;
 use App\Enums\ResponseCodeEnum;
 use App\Http\Requests\Mfa\ResetPasswordRequest;
 use App\Http\Requests\Mfa\VerifyRequest;
+use App\Notifications\User\EmailVerifiedNotification;
 use App\Repositories\MfaToken\MfaTokenRepositoryInterface;
 use App\Repositories\User\UserRepositoryInterface;
 use App\Services\PasswordResetService;
@@ -33,6 +34,9 @@ class MfaController extends Controller
         $this->userRepository->verifyEmail($user);
 
         $this->mfaTokenRepository->invalidate($token);
+
+        // notify user
+        $user->notify(new EmailVerifiedNotification());
 
         return $this->sendSuccess();
     }
