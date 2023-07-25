@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use App\Http\Requests\AuthRequest;
 use App\Http\Requests\UserNotification\MarkAsReadRequest;
+use App\Http\Resources\NotificationPaginatedResourceCollection;
 use App\Http\Resources\NotificationResource;
 use App\Models\User;
 use App\Repositories\Notification\NotificationRepositoryInterface;
@@ -23,11 +24,10 @@ class UserNotificationController extends Controller
 
         $notifications = $user->notifications()
             ->latest()
-            ->limit(20)
-            ->get();
+            ->paginate(10);
 
         return $this->sendSuccess([
-            'notifications' => NotificationResource::collection($notifications),
+            'notifications' => new NotificationPaginatedResourceCollection($notifications),
         ]);
     }
 
