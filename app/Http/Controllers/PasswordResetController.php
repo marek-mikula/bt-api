@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\Enums\ResponseCodeEnum;
 use App\Http\Requests\PasswordReset\SendEmailRequest;
 use App\Services\PasswordResetService;
 use Illuminate\Http\JsonResponse;
@@ -19,6 +20,6 @@ class PasswordResetController extends Controller
         // send success every time even though the user
         // does not exist, so the user cannot farm email
         // addresses in the system
-        return $this->sendSuccess();
+        return $this->sendJsonResponse(code: ResponseCodeEnum::OK);
     }
 }

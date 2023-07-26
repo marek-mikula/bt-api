@@ -2,26 +2,26 @@
 
 namespace App\Enums;
 
-enum ResponseCodeEnum: int
+enum ResponseCodeEnum
 {
-    case OK = 1; // common success
-    case CLIENT_ERROR = 2; // common client error
-    case SERVER_ERROR = 3; // common server error
-    case METHOD_NOT_ALLOWED = 4;
-    case TOKEN_MISMATCH = 5;
-    case NOT_FOUND = 6;
-    case UNAUTHORIZED = 7;
-    case UNAUTHENTICATED = 8;
-    case INVALID_CONTENT = 9;
-    case INVALID_CREDENTIALS = 10;
-    case MFA_TOKEN = 11;
-    case MFA_MISSING_TOKEN = 12;
-    case MFA_CORRUPTED_TOKEN = 13;
-    case MFA_INVALID_TOKEN = 14;
-    case MFA_EXPIRED_TOKEN = 15;
-    case MFA_INVALID_CODE = 16;
-    case QUIZ_TAKEN = 17;
-    case TOO_MANY_ATTEMPTS = 18;
+    case OK; // common success
+    case CLIENT_ERROR; // common client error
+    case SERVER_ERROR; // common server error
+    case METHOD_NOT_ALLOWED;
+    case TOKEN_MISMATCH;
+    case NOT_FOUND;
+    case UNAUTHORIZED;
+    case UNAUTHENTICATED;
+    case INVALID_CONTENT;
+    case INVALID_CREDENTIALS;
+    case MFA_TOKEN;
+    case MFA_MISSING_TOKEN;
+    case MFA_CORRUPTED_TOKEN;
+    case MFA_INVALID_TOKEN;
+    case MFA_EXPIRED_TOKEN;
+    case MFA_INVALID_CODE;
+    case QUIZ_TAKEN;
+    case TOO_MANY_ATTEMPTS;
 
     public function getStatusCode(): int
     {

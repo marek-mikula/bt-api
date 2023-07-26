@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\Enums\ResponseCodeEnum;
 use App\Http\Requests\Quiz\FinishRequest;
 use App\Models\User;
 use App\Services\QuizService;
@@ -17,7 +18,7 @@ class QuizController extends Controller
     {
         $questions = $this->service->getQuestions();
 
-        return $this->sendSuccess([
+        return $this->sendJsonResponse(code: ResponseCodeEnum::OK, data: [
             'questions' => $questions->toArray(),
         ]);
     }
@@ -29,6 +30,6 @@ class QuizController extends Controller
 
         $this->service->finish($user, $request->toData());
 
-        return $this->sendSuccess();
+        return $this->sendJsonResponse(code: ResponseCodeEnum::OK);
     }
 }

@@ -2,7 +2,8 @@
 
 namespace App\Http\Middleware;
 
-use App\Exceptions\QuizTakenException;
+use App\Enums\ResponseCodeEnum;
+use App\Exceptions\HttpException;
 use App\Models\User;
 use Closure;
 use Exception;
@@ -13,7 +14,7 @@ class QuizMiddleware
 {
     /**
      * @throws Exception
-     * @throws QuizTakenException
+     * @throws HttpException
      */
     public function handle(Request $request, Closure $next): Response
     {
@@ -25,7 +26,7 @@ class QuizMiddleware
         $user = $request->user('api');
 
         if ($user->quiz_taken) {
-            throw new QuizTakenException();
+            throw new HttpException(responseCode: ResponseCodeEnum::QUIZ_TAKEN);
         }
 
         return $next($request);
