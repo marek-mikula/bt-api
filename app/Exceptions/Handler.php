@@ -37,7 +37,7 @@ class Handler extends ExceptionHandler
      * @var array<int, class-string<Throwable>>
      */
     protected $dontReport = [
-        HttpException::class,
+        //
     ];
 
     /**
@@ -145,11 +145,11 @@ class Handler extends ExceptionHandler
         }
 
         $data = [
-            'message' => 'Oops. Something went wrong, try again later.',
+            'reason' => 'Oops. Something went wrong, try again later.',
         ];
 
         if ($isDebug) {
-            $data['message'] = $e->getMessage();
+            $data['reason'] = $e->getMessage();
             $data['trace'] = collect($e->getTrace())
                 ->map(static fn (array $trace): string => vsprintf('%s:%s (@%s)', [
                     $trace['file'] ?? $trace['class'] ?? '',
