@@ -15,7 +15,7 @@ abstract class BaseNotification extends Notification implements ShouldQueue
     public function __construct()
     {
         // set correct locale for notifications
-        $this->locale(config('app.locale'));
+        $this->locale(app()->getLocale());
     }
 
     public function backoff(): array

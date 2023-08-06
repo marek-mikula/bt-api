@@ -15,6 +15,6 @@ class BaseMail extends Mailable implements ShouldQueue
     public function __construct()
     {
         // set correct locale for mail
-        $this->locale(config('app.locale'));
+        $this->locale(app()->getLocale());
     }
 }

@@ -38,7 +38,7 @@ class MfaTokenMiddleware
             $token = Crypt::decryptString($token);
         } catch (DecryptException) {
             throw new HttpException(responseCode: ResponseCodeEnum::MFA_CORRUPTED_TOKEN, data: [
-                'type' => $type->value
+                'type' => $type->value,
             ]);
         }
 
@@ -46,13 +46,13 @@ class MfaTokenMiddleware
 
         if (! $token) {
             throw new HttpException(responseCode: ResponseCodeEnum::MFA_INVALID_TOKEN, data: [
-                'type' => $type->value
+                'type' => $type->value,
             ]);
         }
 
         if ($token->is_expired) {
             throw new HttpException(responseCode: ResponseCodeEnum::MFA_EXPIRED_TOKEN, data: [
-                'type' => $type->value
+                'type' => $type->value,
             ]);
         }
 
