@@ -20,12 +20,17 @@ class UserNotificationController extends Controller
 
     public function index(AuthRequest $request): JsonResponse
     {
+        $page = $request->integer('page', 1);
+
         /** @var User $user */
         $user = $request->user('api');
 
         $notifications = $user->notifications()
             ->latest()
-            ->paginate(10);
+            ->paginate(
+                perPage: 10,
+                page: $page
+            );
 
         return $this->sendJsonResponse(code: ResponseCodeEnum::OK, data: [
             'notifications' => new NotificationPaginatedResourceCollection($notifications),
