@@ -4,12 +4,12 @@ namespace App\Providers;
 
 use App\Enums\EnvEnum;
 use Illuminate\Support\ServiceProvider;
+use Spatie\Health\Checks\Checks\DatabaseCheck;
 use Spatie\Health\Checks\Checks\DebugModeCheck;
 use Spatie\Health\Checks\Checks\QueueCheck;
 use Spatie\Health\Checks\Checks\ScheduleCheck;
-use Spatie\Health\Facades\Health;
 use Spatie\Health\Checks\Checks\UsedDiskSpaceCheck;
-use Spatie\Health\Checks\Checks\DatabaseCheck;
+use Spatie\Health\Facades\Health;
 
 class HealthCheckServiceProvider extends ServiceProvider
 {
