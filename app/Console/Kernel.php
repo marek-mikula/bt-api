@@ -4,6 +4,8 @@ namespace App\Console;
 
 use Illuminate\Console\Scheduling\Schedule;
 use Illuminate\Foundation\Console\Kernel as ConsoleKernel;
+use Spatie\Health\Commands\RunHealthChecksCommand;
+use Spatie\Health\Models\HealthCheckResultHistoryItem;
 
 class Kernel extends ConsoleKernel
 {
@@ -14,8 +16,18 @@ class Kernel extends ConsoleKernel
             '--hours' => 168,
         ])->daily();
 
+        // remove history items of check
+        $schedule->command('model:prune', [
+            '--model' => [
+                HealthCheckResultHistoryItem::class,
+            ],
+        ])->daily();
+
         // remove old login logs
         $schedule->command('authentication-log:purge')->monthly();
+
+        // check health of the application
+        $schedule->command(RunHealthChecksCommand::class)->everyMinute();
     }
 
     protected function commands(): void
