@@ -31,4 +31,17 @@ return [
         'region' => env('AWS_DEFAULT_REGION', 'us-east-1'),
     ],
 
+    'binance' => [
+        'url' => env('BINANCE_URL'),
+        'testnet' => [
+            'enabled' => env('BINANCE_TESTNET_ENABLED', false),
+            'url' => env('BINANCE_TESTNET_URL', ''),
+        ]
+    ],
+
+    'coinmarketcap' => [
+        'url' => env('COINMARKETCAP_URL'),
+        'key' => env('COINMARKETCAP_KEY')
+    ]
+
 ];
