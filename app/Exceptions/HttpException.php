@@ -7,9 +7,15 @@ use Symfony\Component\HttpKernel\Exception\HttpException as BaseHttpException;
 
 class HttpException extends BaseHttpException
 {
-    public function __construct(private readonly ResponseCodeEnum $responseCode, string $message)
-    {
-        parent::__construct($this->responseCode->getStatusCode(), $message);
+    public function __construct(
+        private readonly ResponseCodeEnum $responseCode,
+        private readonly array $data = [],
+        array $headers = []
+    ) {
+        parent::__construct(
+            statusCode: $this->responseCode->getStatusCode(),
+            headers: $headers
+        );
     }
 
     public function getResponseCode(): ResponseCodeEnum
@@ -19,6 +25,6 @@ class HttpException extends BaseHttpException
 
     public function getData(): array
     {
-        return [];
+        return $this->data;
     }
 }

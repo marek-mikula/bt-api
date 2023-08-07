@@ -3,10 +3,8 @@
 namespace App\Http\Middleware;
 
 use App\Enums\MfaTokenTypeEnum;
-use App\Exceptions\Mfa\MfaCorruptedTokenException;
-use App\Exceptions\Mfa\MfaExpiredTokenException;
-use App\Exceptions\Mfa\MfaInvalidTokenException;
-use App\Exceptions\Mfa\MfaMissingTokenException;
+use App\Enums\ResponseCodeEnum;
+use App\Exceptions\HttpException;
 use App\Repositories\MfaToken\MfaTokenRepositoryInterface;
 use App\Services\Mfa\MfaTokenResolver;
 use Closure;
@@ -24,10 +22,7 @@ class MfaTokenMiddleware
     }
 
     /**
-     * @throws MfaMissingTokenException
-     * @throws MfaCorruptedTokenException
-     * @throws MfaInvalidTokenException
-     * @throws MfaExpiredTokenException
+     * @throws HttpException
      */
     public function handle(Request $request, Closure $next, int $type, string $name = 'token'): Response
     {
@@ -36,23 +31,29 @@ class MfaTokenMiddleware
         $type = MfaTokenTypeEnum::from($type);
 
         if (empty($token)) {
-            throw new MfaMissingTokenException($type);
+            throw new HttpException(responseCode: ResponseCodeEnum::MFA_MISSING_TOKEN);
         }
 
         try {
             $token = Crypt::decryptString($token);
         } catch (DecryptException) {
-            throw new MfaCorruptedTokenException($type);
+            throw new HttpException(responseCode: ResponseCodeEnum::MFA_CORRUPTED_TOKEN, data: [
+                'type' => $type->value,
+            ]);
         }
 
         $token = $this->mfaTokenRepository->find($token, $type);
 
         if (! $token) {
-            throw new MfaInvalidTokenException($type);
+            throw new HttpException(responseCode: ResponseCodeEnum::MFA_INVALID_TOKEN, data: [
+                'type' => $type->value,
+            ]);
         }
 
         if ($token->is_expired) {
-            throw new MfaExpiredTokenException($type);
+            throw new HttpException(responseCode: ResponseCodeEnum::MFA_EXPIRED_TOKEN, data: [
+                'type' => $type->value,
+            ]);
         }
 
         // set token model to the resolver, so we don't have to

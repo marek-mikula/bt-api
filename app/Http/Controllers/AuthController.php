@@ -44,7 +44,7 @@ class AuthController extends Controller
 
         // invalid credentials
         if (! $mfaTokenOrUser) {
-            return $this->sendError(code: ResponseCodeEnum::INVALID_CREDENTIALS, message: 'Invalid credentials.');
+            return $this->sendJsonResponse(code: ResponseCodeEnum::INVALID_CREDENTIALS);
         }
 
         // user needs to verify email
@@ -52,7 +52,7 @@ class AuthController extends Controller
             return $this->sendMfaToken($mfaTokenOrUser);
         }
 
-        return $this->sendSuccess([
+        return $this->sendJsonResponse(code: ResponseCodeEnum::OK, data: [
             'user' => new UserResource($mfaTokenOrUser),
         ]);
     }
@@ -62,7 +62,7 @@ class AuthController extends Controller
         /** @var User $user */
         $user = $request->user('api');
 
-        return $this->sendSuccess([
+        return $this->sendJsonResponse(code: ResponseCodeEnum::OK, data: [
             'user' => UserResource::make($user),
         ]);
     }
@@ -71,6 +71,6 @@ class AuthController extends Controller
     {
         auth('api')->logout();
 
-        return $this->sendSuccess(message: 'Logged out.');
+        return $this->sendJsonResponse(code: ResponseCodeEnum::OK);
     }
 }

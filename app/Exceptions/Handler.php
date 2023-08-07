@@ -12,6 +12,7 @@ use Illuminate\Http\Request;
 use Illuminate\Session\TokenMismatchException;
 use Illuminate\Validation\ValidationException;
 use Symfony\Component\HttpFoundation\Response;
+use Symfony\Component\HttpKernel\Exception\HttpException as BaseHttpException;
 use Symfony\Component\HttpKernel\Exception\MethodNotAllowedHttpException;
 use Symfony\Component\HttpKernel\Exception\NotFoundHttpException;
 use Symfony\Component\HttpKernel\Exception\TooManyRequestsHttpException;
@@ -36,7 +37,7 @@ class Handler extends ExceptionHandler
      * @var array<int, class-string<Throwable>>
      */
     protected $dontReport = [
-        HttpException::class,
+        //
     ];
 
     /**
@@ -78,86 +79,78 @@ class Handler extends ExceptionHandler
 
         if ($e instanceof TokenMismatchException) {
             return $this->sendJsonResponse(
-                data: [],
-                code: ResponseCodeEnum::TOKEN_MISMATCH,
-                message: 'CSRF token mismatch.'
+                code: ResponseCodeEnum::TOKEN_MISMATCH
             );
         }
 
         if ($e instanceof MethodNotAllowedHttpException) {
             return $this->sendJsonResponse(
-                data: [],
                 code: ResponseCodeEnum::METHOD_NOT_ALLOWED,
-                message: 'The specified method for the request is invalid.'
+                headers: $e->getHeaders()
             );
         }
 
         if ($e instanceof NotFoundHttpException) {
             return $this->sendJsonResponse(
-                data: [],
                 code: ResponseCodeEnum::NOT_FOUND,
-                message: 'The specified URL cannot be found.'
+                headers: $e->getHeaders()
             );
         }
 
         if ($e instanceof ModelNotFoundException) {
             return $this->sendJsonResponse(
-                data: [
+                code: ResponseCodeEnum::NOT_FOUND,
+                data: $isDebug ? [
                     'model' => $e->getModel(),
                     'ids' => $e->getIds(),
-                ],
-                code: ResponseCodeEnum::NOT_FOUND,
-                message: 'Model not found.'
+                ] : []
             );
         }
 
         if ($e instanceof AuthenticationException) {
             return $this->sendJsonResponse(
-                data: [],
-                code: ResponseCodeEnum::UNAUTHENTICATED,
-                message: 'Unauthenticated.'
+                code: ResponseCodeEnum::UNAUTHENTICATED
             );
         }
 
         if ($e instanceof AuthorizationException) {
             return $this->sendJsonResponse(
-                data: [],
-                code: ResponseCodeEnum::UNAUTHORIZED,
-                message: 'Unauthorized.'
+                code: ResponseCodeEnum::UNAUTHORIZED
             );
         }
 
         if ($e instanceof ValidationException) {
             return $this->sendJsonResponse(
+                code: ResponseCodeEnum::INVALID_CONTENT,
                 data: [
                     'errors' => $e->errors(),
-                ],
-                code: ResponseCodeEnum::INVALID_CONTENT,
-                message: 'Invalid data.'
+                ]
             );
         }
 
         if ($e instanceof TooManyRequestsHttpException) {
             return $this->sendJsonResponse(
-                data: [],
                 code: ResponseCodeEnum::TOO_MANY_ATTEMPTS,
-                message: 'Too many attempts.'
+                headers: $e->getHeaders()
             );
         }
 
         // common http exception
         if ($e instanceof HttpException) {
             return $this->sendJsonResponse(
-                data: $e->getData(),
                 code: $e->getResponseCode(),
-                message: $e->getMessage()
+                data: $e->getData(),
+                headers: $e->getHeaders()
             );
         }
 
-        $data = [];
+        $data = [
+            'reason' => 'Oops. Something went wrong, try again later.',
+        ];
 
         if ($isDebug) {
-            $data = collect($e->getTrace())
+            $data['reason'] = $e->getMessage();
+            $data['trace'] = collect($e->getTrace())
                 ->map(static fn (array $trace): string => vsprintf('%s:%s (@%s)', [
                     $trace['file'] ?? $trace['class'] ?? '',
                     $trace['line'] ?? '',
@@ -166,10 +159,19 @@ class Handler extends ExceptionHandler
                 ->toArray();
         }
 
+        // base http exception from Symphony
+        if ($e instanceof BaseHttpException) {
+            return $this->sendJsonResponse(
+                code: ResponseCodeEnum::SERVER_ERROR,
+                data: $data,
+                headers: $e->getHeaders()
+            );
+        }
+
+        // common server error
         return $this->sendJsonResponse(
-            data: $data,
             code: ResponseCodeEnum::SERVER_ERROR,
-            message: $isDebug ? $e->getMessage() : 'Oops. Something went wrong, try again later.'
+            data: $data
         );
     }
 }

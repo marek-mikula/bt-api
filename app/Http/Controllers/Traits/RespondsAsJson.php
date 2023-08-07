@@ -9,29 +9,18 @@ use Illuminate\Http\JsonResponse;
 
 trait RespondsAsJson
 {
-    protected function sendSuccess(array $data = [], ResponseCodeEnum $code = ResponseCodeEnum::OK, string $message = 'Success.'): JsonResponse
+    protected function sendJsonResponse(ResponseCodeEnum $code, array $data = [], array $headers = []): JsonResponse
     {
-        return $this->sendJsonResponse($data, $code, $message);
-    }
-
-    protected function sendError(array $data = [], ResponseCodeEnum $code = ResponseCodeEnum::CLIENT_ERROR, string $message = 'Error.'): JsonResponse
-    {
-        return $this->sendJsonResponse($data, $code, $message);
+        return response()->json([
+            'code' => $code->name,
+            'data' => $data,
+        ], $code->getStatusCode(), $headers);
     }
 
     protected function sendMfaToken(MfaToken $mfaToken): JsonResponse
     {
-        return $this->sendSuccess([
+        return $this->sendJsonResponse(code: ResponseCodeEnum::MFA_TOKEN, data: [
             'token' => new MfaTokenResource($mfaToken),
-        ], ResponseCodeEnum::MFA_TOKEN);
-    }
-
-    protected function sendJsonResponse(array $data, ResponseCodeEnum $code, string $message): JsonResponse
-    {
-        return response()->json([
-            'message' => $message,
-            'code' => $code->value,
-            'data' => $data,
-        ], $code->getStatusCode());
+        ]);
     }
 }

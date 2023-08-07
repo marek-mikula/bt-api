@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\Enums\ResponseCodeEnum;
 use App\Http\Requests\AuthRequest;
 use App\Http\Requests\UserNotification\MarkAsReadRequest;
 use App\Http\Resources\NotificationPaginatedResourceCollection;
@@ -19,14 +20,19 @@ class UserNotificationController extends Controller
 
     public function index(AuthRequest $request): JsonResponse
     {
+        $page = $request->integer('page', 1);
+
         /** @var User $user */
         $user = $request->user('api');
 
         $notifications = $user->notifications()
             ->latest()
-            ->paginate(10);
+            ->paginate(
+                perPage: 10,
+                page: $page
+            );
 
-        return $this->sendSuccess([
+        return $this->sendJsonResponse(code: ResponseCodeEnum::OK, data: [
             'notifications' => new NotificationPaginatedResourceCollection($notifications),
         ]);
     }
@@ -38,7 +44,7 @@ class UserNotificationController extends Controller
 
         $count = $this->notificationRepository->getUnreadNotificationsCount($user);
 
-        return $this->sendSuccess([
+        return $this->sendJsonResponse(code: ResponseCodeEnum::OK, data: [
             'count' => $count,
         ]);
     }
@@ -51,12 +57,12 @@ class UserNotificationController extends Controller
         if ($request->shouldMarkAll()) {
             $this->notificationRepository->markAllAsRead($user);
 
-            return $this->sendSuccess();
+            return $this->sendJsonResponse(code: ResponseCodeEnum::OK);
         }
 
         $notification = $this->notificationRepository->markAsRead($request->getNotification());
 
-        return $this->sendSuccess([
+        return $this->sendJsonResponse(code: ResponseCodeEnum::OK, data: [
             'notification' => new NotificationResource($notification),
         ]);
     }

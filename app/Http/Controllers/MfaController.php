@@ -26,7 +26,7 @@ class MfaController extends Controller
         $code = $request->getCode();
 
         if ($code !== $token->code) {
-            return $this->sendError(code: ResponseCodeEnum::MFA_INVALID_CODE, message: 'Invalid code.');
+            return $this->sendJsonResponse(code: ResponseCodeEnum::MFA_INVALID_CODE);
         }
 
         $user = $token->loadMissing('user')->user;
@@ -38,7 +38,7 @@ class MfaController extends Controller
         // notify user
         $user->notify(new EmailVerifiedNotification());
 
-        return $this->sendSuccess();
+        return $this->sendJsonResponse(code: ResponseCodeEnum::OK);
     }
 
     public function resetPassword(ResetPasswordRequest $request): JsonResponse
@@ -47,7 +47,7 @@ class MfaController extends Controller
         $code = $request->getCode();
 
         if ($code !== $token->code) {
-            return $this->sendError(code: ResponseCodeEnum::MFA_INVALID_CODE, message: 'Invalid code.');
+            return $this->sendJsonResponse(code: ResponseCodeEnum::MFA_INVALID_CODE);
         }
 
         $user = $token->loadMissing('user')->user;
@@ -56,6 +56,6 @@ class MfaController extends Controller
 
         $this->passwordResetService->resetPassword($user, $request->password());
 
-        return $this->sendSuccess();
+        return $this->sendJsonResponse(code: ResponseCodeEnum::OK);
     }
 }

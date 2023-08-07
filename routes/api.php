@@ -8,6 +8,7 @@ use App\Http\Controllers\QuizController;
 use App\Http\Controllers\UserNotificationController;
 use App\Http\Middleware\MfaTokenMiddleware;
 use Illuminate\Support\Facades\Route;
+use Laravel\Sanctum\Http\Controllers\CsrfCookieController;
 
 /*
 |--------------------------------------------------------------------------
@@ -24,7 +25,7 @@ Route::group(['prefix' => '/auth', 'as' => 'auth.'], function (): void {
     Route::post('/register', [AuthController::class, 'register'])
         ->name('register');
 
-    Route::get('/csrf-cookie', [AuthController::class, 'csrfCookie'])
+    Route::get('/csrf-cookie', [CsrfCookieController::class, 'show'])
         ->name('csrf-cookie');
 
     Route::post('/login', [AuthController::class, 'login'])
