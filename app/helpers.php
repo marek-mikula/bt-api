@@ -1,6 +1,8 @@
 <?php
 
 use App\Enums\NotificationTypeEnum;
+use Illuminate\Http\Client\Response;
+use GuzzleHttp\Psr7\Response as GuzzleResponse;
 use Illuminate\Support\Str;
 
 if (! function_exists('__n')) {
@@ -33,5 +35,34 @@ if (! function_exists('frontend_link')) {
         }
 
         return vsprintf("%s/{$uri}", array_merge([$frontEndUrl], $params));
+    }
+}
+
+if (! function_exists('response_from_client')) {
+    /**
+     * Manually builds response which is returned by HTTP client. Useful
+     * for client mocks.
+     */
+    function response_from_client(int $status = 200, array|string $data = [], array $headers = []): Response
+    {
+        return new Response(
+            new GuzzleResponse(
+                status: $status,
+                headers: $headers,
+                body: is_array($data) ? (string) json_encode($data) : $data
+            )
+        );
+    }
+}
+
+if (! function_exists('domain_path')) {
+    /**
+     * Gets path for specific domain
+     */
+    function domain_path(string $domain, string $path): string
+    {
+        $path = Str::startsWith($path, '/') ? Str::after($path, '/') : $path;
+
+        return base_path(empty($path) ? "src/Domain/{$domain}" : "src/Domain/{$domain}/{$path}");
     }
 }

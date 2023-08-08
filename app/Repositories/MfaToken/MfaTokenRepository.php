@@ -19,7 +19,7 @@ class MfaTokenRepository implements MfaTokenRepositoryInterface
 
         $token = new MfaToken();
         $token->user_id = $user->id;
-        $token->token = CreateUuidTokenAction::create(MfaToken::class);
+        $token->token = CreateUuidTokenAction::create(for: MfaToken::class);
         $token->type = $type;
         $token->valid_until = Carbon::now()->addMinutes($validMinutes);
         $token->code = Str::random(6);
