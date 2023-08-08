@@ -36,12 +36,12 @@ return [
         'testnet' => [
             'enabled' => env('BINANCE_TESTNET_ENABLED', false),
             'url' => env('BINANCE_TESTNET_URL', ''),
-        ]
+        ],
     ],
 
     'coinmarketcap' => [
         'url' => env('COINMARKETCAP_URL'),
-        'key' => env('COINMARKETCAP_KEY')
-    ]
+        'key' => env('COINMARKETCAP_KEY'),
+    ],
 
 ];

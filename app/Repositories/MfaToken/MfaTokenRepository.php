@@ -2,11 +2,11 @@
 
 namespace App\Repositories\MfaToken;
 
-use App\Actions\Auth\CreateUuidTokenAction;
-use App\Enums\MfaTokenTypeEnum;
+use App\Actions\CreateUuidTokenAction;
 use App\Models\MfaToken;
 use App\Models\User;
 use Carbon\Carbon;
+use Domain\Auth\Enums\MfaTokenTypeEnum;
 use Illuminate\Support\Str;
 
 class MfaTokenRepository implements MfaTokenRepositoryInterface

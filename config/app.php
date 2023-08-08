@@ -197,7 +197,7 @@ return [
         App\Providers\EventServiceProvider::class,
         App\Providers\RouteServiceProvider::class,
         App\Providers\HealthCheckServiceProvider::class,
-        App\Providers\BinanceApiServiceProvider::class,
+        App\Providers\DomainServiceProvider::class,
 
         /*
          * Custom Service Providers

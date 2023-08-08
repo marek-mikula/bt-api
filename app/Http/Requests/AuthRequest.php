@@ -2,17 +2,18 @@
 
 namespace App\Http\Requests;
 
+use App\Models\User;
 use Illuminate\Foundation\Http\FormRequest;
 
 class AuthRequest extends FormRequest
 {
-    public function authorize(): bool
+    public function user($guard = null): User
     {
-        return auth('api')->check();
-    }
+        return once(function () use ($guard): User {
+            /** @var User $user */
+            $user = parent::user($guard);
 
-    public function rules(): array
-    {
-        return [];
+            return $user;
+        });
     }
 }

@@ -2,10 +2,10 @@
 
 namespace Database\Factories;
 
-use App\Enums\MfaTokenTypeEnum;
 use App\Models\MfaToken;
 use App\Models\User;
 use Carbon\Carbon;
+use Domain\Auth\Enums\MfaTokenTypeEnum;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Illuminate\Support\Str;
 

@@ -22,6 +22,7 @@ enum ResponseCodeEnum
     case MFA_INVALID_CODE;
     case QUIZ_TAKEN;
     case TOO_MANY_ATTEMPTS;
+    case GUEST_ONLY;
 
     public function getStatusCode(): int
     {
@@ -45,6 +46,7 @@ enum ResponseCodeEnum
             self::MFA_CORRUPTED_TOKEN,
             self::MFA_INVALID_TOKEN,
             self::MFA_EXPIRED_TOKEN,
+            self::GUEST_ONLY,
             self::UNAUTHORIZED => 403,
 
             // 404

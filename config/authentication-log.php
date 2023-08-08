@@ -1,6 +1,6 @@
 <?php
 
-use App\Notifications\User\NewDeviceNotification;
+use Domain\Auth\Notifications\NewDeviceNotification;
 use Illuminate\Auth\Events\Failed;
 use Illuminate\Auth\Events\Login;
 use Illuminate\Auth\Events\Logout;
