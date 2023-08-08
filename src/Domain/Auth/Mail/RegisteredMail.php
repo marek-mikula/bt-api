@@ -35,7 +35,7 @@ class RegisteredMail extends BaseMail
         ]);
 
         return new Content(
-            markdown: 'mail.user.registered',
+            markdown: 'auth::mail.registered',
             with: [
                 'user' => $this->user,
                 'url' => $url,

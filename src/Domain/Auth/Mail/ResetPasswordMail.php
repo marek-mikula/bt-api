@@ -35,7 +35,7 @@ class ResetPasswordMail extends BaseMail
         ]);
 
         return new Content(
-            markdown: 'mail.user.reset-password',
+            markdown: 'auth::mail.reset-password',
             with: [
                 'user' => $this->user,
                 'url' => $url,

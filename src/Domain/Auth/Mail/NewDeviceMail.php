@@ -37,7 +37,7 @@ class NewDeviceMail extends BaseMail
         $time = $this->log->getAttribute('login_at');
 
         return new Content(
-            markdown: 'mail.user.new-device',
+            markdown: 'auth::mail.new-device',
             with: [
                 'user' => $this->user,
                 'time' => $this->formatDatetime($time),

@@ -12,6 +12,6 @@ Route::group(['middleware' => ['auth:sanctum']], static function (): void {
             ->name('unread');
 
         Route::post('/mark-as-read', [UserNotificationController::class, 'markAsRead'])
-            ->name('mark-as-read');
+            ->name('mark_as_read');
     });
 });

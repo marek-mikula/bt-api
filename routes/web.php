@@ -19,6 +19,8 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/health', HealthCheckResultsController::class);
+Route::get('/health', HealthCheckResultsController::class)
+    ->name('health');
 
-Route::get('/health-json', HealthCheckJsonResultsController::class);
+Route::get('/health-json', HealthCheckJsonResultsController::class)
+    ->name('health_json');

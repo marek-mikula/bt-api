@@ -28,7 +28,7 @@ class PasswordChangedMail extends BaseMail
     public function content(): Content
     {
         return new Content(
-            markdown: 'mail.user.password-changed',
+            markdown: 'auth::mail.password-changed',
             with: [
                 'user' => $this->user,
             ]

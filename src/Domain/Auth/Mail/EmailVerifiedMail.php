@@ -28,7 +28,7 @@ class EmailVerifiedMail extends BaseMail
     public function content(): Content
     {
         return new Content(
-            markdown: 'mail.user.email-verified',
+            markdown: 'auth::mail.email-verified',
             with: [
                 'user' => $this->user,
             ]

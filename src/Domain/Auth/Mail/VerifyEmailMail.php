@@ -35,7 +35,7 @@ class VerifyEmailMail extends BaseMail
         ]);
 
         return new Content(
-            markdown: 'mail.user.verify-email',
+            markdown: 'auth::mail.verify-email',
             with: [
                 'user' => $this->user,
                 'url' => $url,
