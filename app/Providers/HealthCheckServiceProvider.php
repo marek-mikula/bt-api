@@ -3,7 +3,7 @@
 namespace App\Providers;
 
 use App\Enums\EnvEnum;
-use App\Health\Checks\CoinmarketcapCheck;
+use Domain\Coinmarketcap\Checks\CoinmarketcapCheck;
 use Illuminate\Support\ServiceProvider;
 use Spatie\Health\Checks\Checks\DatabaseCheck;
 use Spatie\Health\Checks\Checks\DebugModeCheck;

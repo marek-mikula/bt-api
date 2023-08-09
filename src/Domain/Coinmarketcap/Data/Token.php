@@ -13,6 +13,7 @@ class Token extends Data
         public readonly string $slug,
         public readonly string $quoteCurrency,
         public readonly float $quotePrice,
+        public readonly string $iconUrl,
     ) {
     }
 }

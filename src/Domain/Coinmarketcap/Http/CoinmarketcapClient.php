@@ -7,7 +7,9 @@ use Domain\Coinmarketcap\Http\Concerns\CoinmarketcapClientInterface;
 use Illuminate\Contracts\Config\Repository;
 use Illuminate\Http\Client\PendingRequest;
 use Illuminate\Http\Client\Response;
+use Illuminate\Support\Arr;
 use Illuminate\Support\Facades\Http;
+use InvalidArgumentException;
 
 class CoinmarketcapClient implements CoinmarketcapClientInterface
 {
@@ -36,11 +38,22 @@ class CoinmarketcapClient implements CoinmarketcapClientInterface
         return $response;
     }
 
-    public function coinMetadata(int $id): Response
+    public function coinMetadata(int|array $id): Response
     {
+        $id = collect(Arr::wrap($id));
+
+        if ($id->isEmpty()) {
+            throw new InvalidArgumentException('Cannot get metadata for no tokens.');
+        }
+
+        // check number of tokens, so we don't waste our credits
+        if ($id->count() > 100) {
+            throw new InvalidArgumentException('Cannot get metadata for that number of tokens. Number must be <= 100.');
+        }
+
         $response = $this->request()
             ->get('/v2/cryptocurrency/info', [
-                'id' => $id,
+                'id' => $id->implode(','),
             ]);
 
         if (! $response->successful()) {

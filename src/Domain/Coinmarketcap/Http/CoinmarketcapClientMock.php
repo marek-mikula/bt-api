@@ -15,18 +15,33 @@ class CoinmarketcapClientMock implements CoinmarketcapClientInterface
         return response_from_client(data: $this->mockData('latest-by-cap.json'));
     }
 
-    public function coinMetadata(int $id): Response
+    public function coinMetadata(int|array $id): Response
     {
+        $id = collect(Arr::wrap($id));
+
+        if ($id->isEmpty()) {
+            throw new InvalidArgumentException('Cannot get metadata for no cryptocurrency.');
+        }
+
+        if ($id->count() > 100) {
+            throw new InvalidArgumentException('Cannot get metadata for that number of tokens. Number must be <= 100.');
+        }
+
         $data = $this->mockData('coin-metadata.json');
 
         // get only specific coin based on given ID
         // from the whole list from json file
         $data['data'] = Arr::where($data['data'], static function (array $coin) use ($id): bool {
-            return $coin['id'] === $id;
+            return $id->contains((int) $coin['id']);
         });
 
-        if (empty($data['data'])) {
-            throw new InvalidArgumentException("Unknown ID [{$id}] given. No moc data found.");
+        // check that every ID has been retrieved from json mock file
+        if (count($data['data']) !== $id->count()) {
+            $invalidIds = $id
+                ->diff(collect($data['data'])->pluck('id'))
+                ->implode(', ');
+
+            throw new InvalidArgumentException("Unknown ID/IDs [{$invalidIds}] given. No mock data found.");
         }
 
         return response_from_client(data: $data);

@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Health\Checks;
+namespace Domain\Coinmarketcap\Checks;
 
 use Domain\Coinmarketcap\Exceptions\CoinmarketcapRequestException;
 use Domain\Coinmarketcap\Http\Concerns\CoinmarketcapClientInterface;

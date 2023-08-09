@@ -16,12 +16,12 @@ interface CoinmarketcapClientInterface
     public function latestByCap(): Response;
 
     /**
-     * Returns metadata of a cryptocurrency based
-     * on ID from Coinmarketcap
+     * Returns metadata of a cryptocurrency/ies based
+     * on ID/IDs from Coinmarketcap
      *
      * @throws CoinmarketcapRequestException
      */
-    public function coinMetadata(int $id): Response;
+    public function coinMetadata(int|array $id): Response;
 
     /**
      * Returns information about the latest global
