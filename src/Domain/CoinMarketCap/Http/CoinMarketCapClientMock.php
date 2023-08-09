@@ -32,6 +32,16 @@ class CoinMarketCapClientMock implements CoinMarketCapClientInterface
         return response_from_client(data: $data);
     }
 
+    public function latestGlobalMetrics(): Response
+    {
+        return response_from_client(data: $this->mockData('latest-global-metrics.json'));
+    }
+
+    public function keyInfo(): Response
+    {
+        return response_from_client(data: $this->mockData('key-info.json'));
+    }
+
     private function mockData(string $path): array
     {
         $path = Str::startsWith($path, '/') ? Str::after($path, '/') : $path;
@@ -40,6 +50,6 @@ class CoinMarketCapClientMock implements CoinMarketCapClientInterface
             filename: domain_path('CoinMarketCap', "Resources/mocks/{$path}")
         );
 
-        return json_decode($json, associative: true);
+        return json_decode(json: $json, associative: true);
     }
 }

@@ -50,6 +50,32 @@ class CoinMarketCapClient implements CoinMarketCapClientInterface
         return $response;
     }
 
+    public function latestGlobalMetrics(): Response
+    {
+        $response = $this->request()
+            ->get('/v1/global-metrics/quotes/latest', [
+                'convert' => 'USD',
+            ]);
+
+        if (! $response->successful()) {
+            throw new CoinMarketCapRequestException($response);
+        }
+
+        return $response;
+    }
+
+    public function keyInfo(): Response
+    {
+        $response = $this->request()
+            ->get('/v1/key/info');
+
+        if (! $response->successful()) {
+            throw new CoinMarketCapRequestException($response);
+        }
+
+        return $response;
+    }
+
     private function request(): PendingRequest
     {
         $baseUrl = $this->config->get('services.coinmarketcap.url');
