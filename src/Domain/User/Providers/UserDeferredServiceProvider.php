@@ -1,23 +1,16 @@
 <?php
 
-namespace Domain\Quiz\Providers;
+namespace Domain\User\Providers;
 
-use Domain\Auth\Services\AuthService;
-use Domain\Auth\Services\MfaTokenResolver;
-use Domain\Auth\Services\PasswordResetService;
 use Illuminate\Contracts\Support\DeferrableProvider;
 use Illuminate\Support\ServiceProvider;
 
-class QuizDeferrableServiceProvider extends ServiceProvider implements DeferrableProvider
+class UserDeferredServiceProvider extends ServiceProvider implements DeferrableProvider
 {
     /**
      * @var list<class-string>
      */
-    private array $services = [
-        AuthService::class,
-        MfaTokenResolver::class,
-        PasswordResetService::class,
-    ];
+    private array $services = [];
 
     public function register(): void
     {
@@ -33,7 +26,7 @@ class QuizDeferrableServiceProvider extends ServiceProvider implements Deferrabl
     {
         return array_merge(
             [],
-            $this->services,
+            $this->services
         );
     }
 }

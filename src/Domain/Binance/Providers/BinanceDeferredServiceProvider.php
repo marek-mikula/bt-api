@@ -1,22 +1,26 @@
 <?php
 
-namespace Domain\Auth\Providers;
+namespace Domain\Binance\Providers;
 
-use Domain\Auth\Services\AuthService;
-use Domain\Auth\Services\MfaTokenResolver;
-use Domain\Auth\Services\PasswordResetService;
+use Domain\Binance\Http\BinanceClient;
+use Domain\Binance\Http\Endpoints\WalletEndpoints;
+use Domain\Binance\Services\Authenticator;
 use Illuminate\Contracts\Support\DeferrableProvider;
 use Illuminate\Support\ServiceProvider;
 
-class AuthDeferrableServiceProvider extends ServiceProvider implements DeferrableProvider
+class BinanceDeferredServiceProvider extends ServiceProvider implements DeferrableProvider
 {
     /**
      * @var list<class-string>
      */
     private array $services = [
-        AuthService::class,
-        MfaTokenResolver::class,
-        PasswordResetService::class,
+        BinanceClient::class,
+
+        // endpoints
+        WalletEndpoints::class,
+
+        // services
+        Authenticator::class,
     ];
 
     public function register(): void
@@ -33,7 +37,7 @@ class AuthDeferrableServiceProvider extends ServiceProvider implements Deferrabl
     {
         return array_merge(
             [],
-            $this->services
+            $this->services,
         );
     }
 }

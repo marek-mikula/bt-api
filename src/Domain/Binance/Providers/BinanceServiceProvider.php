@@ -8,7 +8,7 @@ class BinanceServiceProvider extends ServiceProvider
 {
     public function register(): void
     {
-        $this->app->register(BinanceDeferrableServiceProvider::class);
+        $this->app->registerDeferredProvider(BinanceDeferredServiceProvider::class);
     }
 
     public function boot(): void

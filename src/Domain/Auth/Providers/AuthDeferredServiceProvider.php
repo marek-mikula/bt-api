@@ -1,16 +1,23 @@
 <?php
 
-namespace Domain\User\Providers;
+namespace Domain\Auth\Providers;
 
+use Domain\Auth\Services\AuthService;
+use Domain\Auth\Services\MfaTokenResolver;
+use Domain\Auth\Services\PasswordResetService;
 use Illuminate\Contracts\Support\DeferrableProvider;
 use Illuminate\Support\ServiceProvider;
 
-class UserDeferrableServiceProvider extends ServiceProvider implements DeferrableProvider
+class AuthDeferredServiceProvider extends ServiceProvider implements DeferrableProvider
 {
     /**
      * @var list<class-string>
      */
-    private array $services = [];
+    private array $services = [
+        AuthService::class,
+        MfaTokenResolver::class,
+        PasswordResetService::class,
+    ];
 
     public function register(): void
     {

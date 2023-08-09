@@ -8,7 +8,7 @@ class AuthServiceProvider extends ServiceProvider
 {
     public function register(): void
     {
-        $this->app->register(AuthDeferrableServiceProvider::class);
+        $this->app->registerDeferredProvider(AuthDeferredServiceProvider::class);
         $this->app->register(AuthRouteServiceProvider::class);
     }
 

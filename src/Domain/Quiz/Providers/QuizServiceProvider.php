@@ -8,7 +8,7 @@ class QuizServiceProvider extends ServiceProvider
 {
     public function register(): void
     {
-        $this->app->register(QuizDeferrableServiceProvider::class);
+        $this->app->registerDeferredProvider(QuizDeferredServiceProvider::class);
         $this->app->register(QuizRouteServiceProvider::class);
     }
 

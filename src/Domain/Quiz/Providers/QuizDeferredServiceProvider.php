@@ -1,26 +1,22 @@
 <?php
 
-namespace Domain\Binance\Providers;
+namespace Domain\Quiz\Providers;
 
-use Domain\Binance\Http\BinanceClient;
-use Domain\Binance\Http\Endpoints\WalletEndpoints;
-use Domain\Binance\Services\Authenticator;
+use Domain\Auth\Services\AuthService;
+use Domain\Auth\Services\MfaTokenResolver;
+use Domain\Auth\Services\PasswordResetService;
 use Illuminate\Contracts\Support\DeferrableProvider;
 use Illuminate\Support\ServiceProvider;
 
-class BinanceDeferrableServiceProvider extends ServiceProvider implements DeferrableProvider
+class QuizDeferredServiceProvider extends ServiceProvider implements DeferrableProvider
 {
     /**
      * @var list<class-string>
      */
     private array $services = [
-        BinanceClient::class,
-
-        // endpoints
-        WalletEndpoints::class,
-
-        // services
-        Authenticator::class,
+        AuthService::class,
+        MfaTokenResolver::class,
+        PasswordResetService::class,
     ];
 
     public function register(): void

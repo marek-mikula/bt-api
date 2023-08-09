@@ -8,7 +8,7 @@ use Domain\CoinMarketCap\Http\Concerns\CoinMarketCapClientInterface;
 use Illuminate\Contracts\Support\DeferrableProvider;
 use Illuminate\Support\ServiceProvider;
 
-class CoinMarketCapDeferrableServiceProvider extends ServiceProvider implements DeferrableProvider
+class CoinMarketCapDeferredServiceProvider extends ServiceProvider implements DeferrableProvider
 {
     public function register(): void
     {
@@ -25,7 +25,9 @@ class CoinMarketCapDeferrableServiceProvider extends ServiceProvider implements 
     public function provides(): array
     {
         return array_merge(
-            [],
+            [
+                CoinMarketCapClientInterface::class,
+            ],
         );
     }
 }

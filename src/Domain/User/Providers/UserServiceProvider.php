@@ -8,7 +8,7 @@ class UserServiceProvider extends ServiceProvider
 {
     public function register(): void
     {
-        $this->app->register(UserDeferrableServiceProvider::class);
+        $this->app->registerDeferredProvider(UserDeferredServiceProvider::class);
         $this->app->register(UserRouteServiceProvider::class);
     }
 
