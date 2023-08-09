@@ -16,6 +16,11 @@ use Spatie\Health\Http\Controllers\HealthCheckResultsController;
 */
 
 Route::get('/', function () {
+    /** @var \Domain\CoinMarketCap\Http\Concerns\CoinMarketCapClientInterface $client */
+    $client = app(\Domain\CoinMarketCap\Http\Concerns\CoinMarketCapClientInterface::class);
+
+    dd($client->coinMetadata(2)->json());
+
     return view('welcome');
 });
 

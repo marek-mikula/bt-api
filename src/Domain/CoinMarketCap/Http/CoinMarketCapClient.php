@@ -8,7 +8,6 @@ use Illuminate\Contracts\Config\Repository;
 use Illuminate\Http\Client\PendingRequest;
 use Illuminate\Http\Client\Response;
 use Illuminate\Support\Facades\Http;
-use Illuminate\Support\Str;
 
 class CoinMarketCapClient implements CoinMarketCapClientInterface
 {
@@ -20,13 +19,28 @@ class CoinMarketCapClient implements CoinMarketCapClientInterface
     public function latestByCap(): Response
     {
         $response = $this->request()
-            ->get('/cryptocurrency/listings/latest', [
+            ->get('/v1/cryptocurrency/listings/latest', [
                 'start' => 1,
-                'limit' => 10,
+                'limit' => 100, // 100 rows = 1 credit
                 'sort' => 'market_cap',
                 'sort_dir' => 'desc',
                 'cryptocurrency_type' => 'all',
                 'tag' => 'all',
+                'convert' => 'USD',
+            ]);
+
+        if (! $response->successful()) {
+            throw new CoinMarketCapRequestException($response);
+        }
+
+        return $response;
+    }
+
+    public function coinMetadata(int $id): Response
+    {
+        $response = $this->request()
+            ->get('/v2/cryptocurrency/info', [
+                'id' => $id,
             ]);
 
         if (! $response->successful()) {
@@ -38,16 +52,9 @@ class CoinMarketCapClient implements CoinMarketCapClientInterface
 
     private function request(): PendingRequest
     {
-        $version = $this->config->get('services.coinmarketcap.version');
-        $url = $this->config->get('services.coinmarketcap.url');
+        $baseUrl = $this->config->get('services.coinmarketcap.url');
 
-        if (Str::endsWith($url, '/')) {
-            $url = Str::beforeLast($url, '/');
-        }
-
-        $url = "{$url}/{$version}";
-
-        return Http::baseUrl($url)
+        return Http::baseUrl($baseUrl)
             ->withHeaders([
                 'X-CMC_PRO_API_KEY' => $this->config->get('services.coinmarketcap.key'),
                 'Accept-Encoding' => 'deflate, gzip'

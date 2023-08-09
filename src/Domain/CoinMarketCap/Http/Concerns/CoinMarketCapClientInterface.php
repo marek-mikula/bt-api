@@ -11,4 +11,10 @@ interface CoinMarketCapClientInterface
      * @throws CoinMarketCapRequestException
      */
     public function latestByCap(): Response;
+
+    /**
+     * @param int $id CoinMarketCap ID
+     * @throws CoinMarketCapRequestException
+     */
+    public function coinMetadata(int $id): Response;
 }

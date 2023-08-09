@@ -42,7 +42,6 @@ return [
     'coinmarketcap' => [
         'mock' => env('COINMARKETCAP_MOCK', false),
         'url' => env('COINMARKETCAP_URL'),
-        'version' => env('COINMARKETCAP_VERSION'),
         'key' => env('COINMARKETCAP_KEY'),
     ],
 
