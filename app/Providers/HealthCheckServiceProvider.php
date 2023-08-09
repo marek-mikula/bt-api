@@ -3,6 +3,7 @@
 namespace App\Providers;
 
 use App\Enums\EnvEnum;
+use App\Health\Checks\CoinMarketCapCheck;
 use Illuminate\Support\ServiceProvider;
 use Spatie\Health\Checks\Checks\DatabaseCheck;
 use Spatie\Health\Checks\Checks\DebugModeCheck;
@@ -15,7 +16,11 @@ class HealthCheckServiceProvider extends ServiceProvider
 {
     public function register(): void
     {
-        // debug mode is expected to be true except production environment
+        //
+    }
+
+    public function boot(): void
+    {
         $expectedDebugMode = ! $this->app->environment(EnvEnum::PRODUCTION->value);
 
         Health::checks([
@@ -24,11 +29,7 @@ class HealthCheckServiceProvider extends ServiceProvider
             DatabaseCheck::new(),
             ScheduleCheck::new(),
             QueueCheck::new(),
+            CoinMarketCapCheck::new(),
         ]);
-    }
-
-    public function boot(): void
-    {
-        //
     }
 }
