@@ -1,11 +1,11 @@
 <?php
 
-namespace Domain\CoinMarketCap\Exceptions;
+namespace Domain\Coinmarketcap\Exceptions;
 
 use Exception;
 use Illuminate\Http\Client\Response;
 
-class CoinMarketCapRequestException extends Exception
+class CoinmarketcapRequestException extends Exception
 {
     public function __construct(
         public readonly Response $response,

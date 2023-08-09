@@ -13,6 +13,6 @@ class BinanceServiceProvider extends ServiceProvider
 
     public function boot(): void
     {
-        //
+        $this->mergeConfigFrom(__DIR__ . '/../Configs/binance.php', 'binance');
     }
 }

@@ -1,14 +1,14 @@
 <?php
 
-namespace Domain\CoinMarketCap\Http;
+namespace Domain\Coinmarketcap\Http;
 
-use Domain\CoinMarketCap\Http\Concerns\CoinMarketCapClientInterface;
+use Domain\Coinmarketcap\Http\Concerns\CoinmarketcapClientInterface;
 use Illuminate\Http\Client\Response;
 use Illuminate\Support\Arr;
 use Illuminate\Support\Str;
 use InvalidArgumentException;
 
-class CoinMarketCapClientMock implements CoinMarketCapClientInterface
+class CoinmarketcapClientMock implements CoinmarketcapClientInterface
 {
     public function latestByCap(): Response
     {
@@ -47,7 +47,7 @@ class CoinMarketCapClientMock implements CoinMarketCapClientInterface
         $path = Str::startsWith($path, '/') ? Str::after($path, '/') : $path;
 
         $json = file_get_contents(
-            filename: domain_path('CoinMarketCap', "Resources/mocks/{$path}")
+            filename: domain_path('Coinmarketcap', "Resources/mocks/{$path}")
         );
 
         return json_decode(json: $json, associative: true);

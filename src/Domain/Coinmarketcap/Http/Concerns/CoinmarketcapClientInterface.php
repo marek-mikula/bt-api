@@ -1,25 +1,25 @@
 <?php
 
-namespace Domain\CoinMarketCap\Http\Concerns;
+namespace Domain\Coinmarketcap\Http\Concerns;
 
-use Domain\CoinMarketCap\Exceptions\CoinMarketCapRequestException;
+use Domain\Coinmarketcap\Exceptions\CoinmarketcapRequestException;
 use Illuminate\Http\Client\Response;
 
-interface CoinMarketCapClientInterface
+interface CoinmarketcapClientInterface
 {
     /**
      * Returns list of top 100 cryptocurrencies
      * by market cap
      *
-     * @throws CoinMarketCapRequestException
+     * @throws CoinmarketcapRequestException
      */
     public function latestByCap(): Response;
 
     /**
      * Returns metadata of a cryptocurrency based
-     * on ID from CoinMarketCap
+     * on ID from Coinmarketcap
      *
-     * @throws CoinMarketCapRequestException
+     * @throws CoinmarketcapRequestException
      */
     public function coinMetadata(int $id): Response;
 
@@ -27,7 +27,7 @@ interface CoinMarketCapClientInterface
      * Returns information about the latest global
      * metrics
      *
-     * @throws CoinMarketCapRequestException
+     * @throws CoinmarketcapRequestException
      */
     public function latestGlobalMetrics(): Response;
 
@@ -35,7 +35,7 @@ interface CoinMarketCapClientInterface
      * Returns information about the key, which is used
      * to authenticate the requests
      *
-     * @throws CoinMarketCapRequestException
+     * @throws CoinmarketcapRequestException
      */
     public function keyInfo(): Response;
 }

@@ -2,17 +2,17 @@
 
 namespace App\Health\Checks;
 
-use Domain\CoinMarketCap\Exceptions\CoinMarketCapRequestException;
-use Domain\CoinMarketCap\Http\Concerns\CoinMarketCapClientInterface;
+use Domain\Coinmarketcap\Exceptions\CoinmarketcapRequestException;
+use Domain\Coinmarketcap\Http\Concerns\CoinmarketcapClientInterface;
 use Spatie\Health\Checks\Check;
 use Spatie\Health\Checks\Result;
 
-class CoinMarketCapCheck extends Check
+class CoinmarketcapCheck extends Check
 {
     protected ?string $name = 'Coinmarketcap.com';
 
     public function __construct(
-        private readonly CoinMarketCapClientInterface $client,
+        private readonly CoinmarketcapClientInterface $client,
     ) {
         parent::__construct();
     }
@@ -23,7 +23,7 @@ class CoinMarketCapCheck extends Check
 
         try {
             $this->client->keyInfo();
-        } catch (CoinMarketCapRequestException $e) {
+        } catch (CoinmarketcapRequestException $e) {
             return $result
                 ->failed('Down')
                 ->meta([

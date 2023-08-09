@@ -1,15 +1,15 @@
 <?php
 
-namespace Domain\CoinMarketCap\Http;
+namespace Domain\Coinmarketcap\Http;
 
-use Domain\CoinMarketCap\Exceptions\CoinMarketCapRequestException;
-use Domain\CoinMarketCap\Http\Concerns\CoinMarketCapClientInterface;
+use Domain\Coinmarketcap\Exceptions\CoinmarketcapRequestException;
+use Domain\Coinmarketcap\Http\Concerns\CoinmarketcapClientInterface;
 use Illuminate\Contracts\Config\Repository;
 use Illuminate\Http\Client\PendingRequest;
 use Illuminate\Http\Client\Response;
 use Illuminate\Support\Facades\Http;
 
-class CoinMarketCapClient implements CoinMarketCapClientInterface
+class CoinmarketcapClient implements CoinmarketcapClientInterface
 {
     public function __construct(
         private readonly Repository $config
@@ -30,7 +30,7 @@ class CoinMarketCapClient implements CoinMarketCapClientInterface
             ]);
 
         if (! $response->successful()) {
-            throw new CoinMarketCapRequestException($response);
+            throw new CoinmarketcapRequestException($response);
         }
 
         return $response;
@@ -44,7 +44,7 @@ class CoinMarketCapClient implements CoinMarketCapClientInterface
             ]);
 
         if (! $response->successful()) {
-            throw new CoinMarketCapRequestException($response);
+            throw new CoinmarketcapRequestException($response);
         }
 
         return $response;
@@ -58,7 +58,7 @@ class CoinMarketCapClient implements CoinMarketCapClientInterface
             ]);
 
         if (! $response->successful()) {
-            throw new CoinMarketCapRequestException($response);
+            throw new CoinmarketcapRequestException($response);
         }
 
         return $response;
@@ -70,7 +70,7 @@ class CoinMarketCapClient implements CoinMarketCapClientInterface
             ->get('/v1/key/info');
 
         if (! $response->successful()) {
-            throw new CoinMarketCapRequestException($response);
+            throw new CoinmarketcapRequestException($response);
         }
 
         return $response;
@@ -78,11 +78,11 @@ class CoinMarketCapClient implements CoinMarketCapClientInterface
 
     private function request(): PendingRequest
     {
-        $baseUrl = $this->config->get('services.coinmarketcap.url');
+        $baseUrl = (string) $this->config->get('coinmarketcap.url');
 
         return Http::baseUrl($baseUrl)
             ->withHeaders([
-                'X-CMC_PRO_API_KEY' => $this->config->get('services.coinmarketcap.key'),
+                'X-CMC_PRO_API_KEY' => (string) $this->config->get('coinmarketcap.key'),
                 'Accept-Encoding' => 'deflate, gzip'
             ])
             ->acceptJson();

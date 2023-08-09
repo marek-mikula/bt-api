@@ -18,11 +18,11 @@ class Authenticator
         return $request;
     }
 
-    public function sign(User $user, array $params): array
+    public function sign(User $user, array $params, int $window = 5000): array
     {
         $params = array_merge($params, [
             'timestamp' => Carbon::now()->getTimestampMs(),
-            'recvWindow' => 5000,
+            'recvWindow' => $window,
         ]);
 
         $params['signature'] = hash_hmac('sha256', Arr::query($params), $user->secret_key);

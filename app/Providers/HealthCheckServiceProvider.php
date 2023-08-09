@@ -3,7 +3,7 @@
 namespace App\Providers;
 
 use App\Enums\EnvEnum;
-use App\Health\Checks\CoinMarketCapCheck;
+use App\Health\Checks\CoinmarketcapCheck;
 use Illuminate\Support\ServiceProvider;
 use Spatie\Health\Checks\Checks\DatabaseCheck;
 use Spatie\Health\Checks\Checks\DebugModeCheck;
@@ -29,7 +29,7 @@ class HealthCheckServiceProvider extends ServiceProvider
             DatabaseCheck::new(),
             ScheduleCheck::new(),
             QueueCheck::new(),
-            CoinMarketCapCheck::new(),
+            CoinmarketcapCheck::new(),
         ]);
     }
 }

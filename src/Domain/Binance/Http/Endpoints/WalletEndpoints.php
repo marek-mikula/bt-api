@@ -73,7 +73,7 @@ class WalletEndpoints
 
     private function request(): PendingRequest
     {
-        return Http::baseUrl($this->config->get('services.binance.url'));
+        return Http::baseUrl((string) $this->config->get('binance.url'));
     }
 
     private function authRequest(User $user): PendingRequest
