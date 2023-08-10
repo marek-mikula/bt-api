@@ -19,7 +19,7 @@ class CoinmarketcapService
      *
      * @return Collection<Token>
      */
-    public function getCryptocurrenciesByCap(int $num = 10): Collection
+    public function getCryptocurrenciesByMarketCap(int $num = 10): Collection
     {
         // get the biggest tokens by market cap
         $tokens = $this->client->latestByCap()
