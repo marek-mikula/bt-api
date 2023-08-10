@@ -3,7 +3,6 @@
 namespace Domain\Binance\Services;
 
 use App\Models\User;
-use Carbon\Carbon;
 use Illuminate\Http\Client\PendingRequest;
 use Illuminate\Support\Arr;
 
@@ -21,7 +20,7 @@ class Authenticator
     public function sign(User $user, array $params, int $window = 5000): array
     {
         $params = array_merge($params, [
-            'timestamp' => Carbon::now()->getTimestampMs(),
+            'timestamp' => now()->getTimestampMs(),
             'recvWindow' => $window,
         ]);
 

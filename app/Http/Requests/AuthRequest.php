@@ -7,6 +7,11 @@ use Illuminate\Foundation\Http\FormRequest;
 
 class AuthRequest extends FormRequest
 {
+    public function rules(): array
+    {
+        return [];
+    }
+
     public function user($guard = null): User
     {
         return once(function () use ($guard): User {

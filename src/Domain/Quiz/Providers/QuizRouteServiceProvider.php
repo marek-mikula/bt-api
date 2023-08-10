@@ -8,11 +8,6 @@ use Illuminate\Support\Facades\Route;
 
 class QuizRouteServiceProvider extends RouteServiceProvider
 {
-    public function register(): void
-    {
-        //
-    }
-
     public function boot(): void
     {
         $this->routes(static function (): void {

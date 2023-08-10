@@ -72,7 +72,7 @@ class MfaToken extends Model
     protected function isExpired(): Attribute
     {
         return Attribute::get(function (): bool {
-            return $this->invalidated || $this->valid_until->lte(Carbon::now());
+            return $this->invalidated || $this->valid_until->lte(now());
         });
     }
 

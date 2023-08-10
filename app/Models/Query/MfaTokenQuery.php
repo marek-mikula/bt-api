@@ -2,7 +2,6 @@
 
 namespace App\Models\Query;
 
-use Carbon\Carbon;
 use Illuminate\Database\Eloquent\Builder;
 
 class MfaTokenQuery extends Builder
@@ -11,7 +10,7 @@ class MfaTokenQuery extends Builder
     {
         return $this->where(function (MfaTokenQuery $query): void {
             $query
-                ->where('valid_until', '>', Carbon::now()->toDateTimeString())
+                ->where('valid_until', '>', now()->toDateTimeString())
                 ->whereNull('invalidated_at');
         });
     }

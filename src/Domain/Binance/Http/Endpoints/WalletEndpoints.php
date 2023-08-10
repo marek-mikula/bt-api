@@ -3,7 +3,6 @@
 namespace Domain\Binance\Http\Endpoints;
 
 use App\Models\User;
-use Carbon\Carbon;
 use Domain\Binance\Exceptions\BinanceRequestException;
 use Domain\Binance\Services\Authenticator;
 use Illuminate\Contracts\Config\Repository;
@@ -58,7 +57,7 @@ class WalletEndpoints
     {
         $params = $this->authenticator->sign($user, [
             'type' => 'SPOT',
-            'startTime' => Carbon::now()->subDay()->startOfDay()->getTimestampMs(),
+            'startTime' => now()->subDay()->startOfDay()->getTimestampMs(),
         ]);
 
         $response = $this->authRequest($user)

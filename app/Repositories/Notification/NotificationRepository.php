@@ -3,7 +3,6 @@
 namespace App\Repositories\Notification;
 
 use App\Models\Notification;
-use Carbon\Carbon;
 
 class NotificationRepository implements NotificationRepositoryInterface
 {
@@ -29,13 +28,13 @@ class NotificationRepository implements NotificationRepositoryInterface
         $notifiable->notifications()
             ->whereNull('read_at')
             ->update([
-                'read_at' => Carbon::now(),
+                'read_at' => now(),
             ]);
     }
 
     public function markAsRead(Notification $notification): Notification
     {
-        $notification->read_at = Carbon::now();
+        $notification->read_at = now();
         $notification->save();
 
         return $notification;

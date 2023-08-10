@@ -7,11 +7,6 @@ use Illuminate\Support\Facades\Route;
 
 class UserRouteServiceProvider extends RouteServiceProvider
 {
-    public function register(): void
-    {
-        //
-    }
-
     public function boot(): void
     {
         $this->routes(static function (): void {
