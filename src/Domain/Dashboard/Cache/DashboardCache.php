@@ -18,7 +18,7 @@ class DashboardCache
             /** @var CoinmarketcapService $coinmarketcapService */
             $coinmarketcapService = app(CoinmarketcapService::class);
 
-            return $coinmarketcapService->getCryptocurrenciesByMarketCap();
+            return $coinmarketcapService->getCryptocurrenciesByMarketCap(5);
         });
     }
 }
