@@ -4,6 +4,7 @@ namespace Domain\Dashboard\Http\Controllers;
 
 use App\Enums\ResponseCodeEnum;
 use App\Http\Controllers\ApiController;
+use App\Http\Resources\DataResource;
 use App\Http\Resources\DataResourceCollection;
 use Domain\Dashboard\Cache\DashboardCache;
 use Illuminate\Http\JsonResponse;
@@ -19,8 +20,11 @@ class DashboardController extends ApiController
     {
         $topCrypto = $this->dashboardCache->getTopCryptocurrencies();
 
+        $marketMetrics = $this->dashboardCache->getMarketMetrics();
+
         return $this->sendJsonResponse(code: ResponseCodeEnum::OK, data: [
             'topCrypto' => new DataResourceCollection($topCrypto),
+            'marketMetrics' => new DataResource($marketMetrics),
         ]);
     }
 }
