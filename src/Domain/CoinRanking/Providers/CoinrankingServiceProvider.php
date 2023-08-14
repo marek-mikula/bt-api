@@ -10,7 +10,7 @@ class CoinrankingServiceProvider extends ServiceProvider
     {
         $this->app->registerDeferredProvider(CoinrankingDeferredServiceProvider::class);
 
-        $this->mergeConfigFrom(__DIR__ . '/../Configs/coinranking.php', 'coinranking');
+        $this->mergeConfigFrom(__DIR__.'/../Configs/coinranking.php', 'coinranking');
     }
 
     public function boot(): void

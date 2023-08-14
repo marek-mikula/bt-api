@@ -10,7 +10,7 @@ class BinanceServiceProvider extends ServiceProvider
     {
         $this->app->registerDeferredProvider(BinanceDeferredServiceProvider::class);
 
-        $this->mergeConfigFrom(__DIR__ . '/../Configs/binance.php', 'binance');
+        $this->mergeConfigFrom(__DIR__.'/../Configs/binance.php', 'binance');
     }
 
     public function boot(): void

@@ -2,11 +2,11 @@
 
 namespace App\Providers;
 
+use Domain\Auth\Providers\AuthServiceProvider;
 use Domain\Binance\Providers\BinanceServiceProvider;
 use Domain\Coinmarketcap\Providers\CoinmarketcapServiceProvider;
 use Domain\CoinRanking\Providers\CoinrankingServiceProvider;
 use Domain\Dashboard\Providers\DashboardServiceProvider;
-use Domain\Auth\Providers\AuthServiceProvider;
 use Domain\Quiz\Providers\QuizServiceProvider;
 use Domain\User\Providers\UserServiceProvider;
 use Illuminate\Support\ServiceProvider;

@@ -32,7 +32,7 @@ class CoinmarketcapService
             ->collect('data');
 
         // map objects to data objects
-        return $tokens->map(static function(array $token) use ($metadata): Token {
+        return $tokens->map(static function (array $token) use ($metadata): Token {
             $quoteCurrency = (string) collect($token['quote'])->keys()->first();
 
             $tokenMetadata = $metadata->get((int) $token['id'], '');

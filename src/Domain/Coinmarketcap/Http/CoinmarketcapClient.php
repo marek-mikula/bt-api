@@ -94,7 +94,7 @@ class CoinmarketcapClient implements CoinmarketcapClientInterface
         return Http::baseUrl((string) $this->config->get('coinmarketcap.url'))
             ->withHeaders([
                 'X-CMC_PRO_API_KEY' => (string) $this->config->get('coinmarketcap.key'),
-                'Accept-Encoding' => 'deflate, gzip'
+                'Accept-Encoding' => 'deflate, gzip',
             ])
             ->acceptJson();
     }

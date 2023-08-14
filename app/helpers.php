@@ -1,8 +1,8 @@
 <?php
 
 use App\Enums\NotificationTypeEnum;
-use Illuminate\Http\Client\Response;
 use GuzzleHttp\Psr7\Response as GuzzleResponse;
+use Illuminate\Http\Client\Response;
 use Illuminate\Support\Str;
 
 if (! function_exists('__n')) {

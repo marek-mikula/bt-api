@@ -10,7 +10,7 @@ class CoinmarketcapServiceProvider extends ServiceProvider
     {
         $this->app->registerDeferredProvider(CoinmarketcapDeferredServiceProvider::class);
 
-        $this->mergeConfigFrom(__DIR__ . '/../Configs/coinmarketcap.php', 'coinmarketcap');
+        $this->mergeConfigFrom(__DIR__.'/../Configs/coinmarketcap.php', 'coinmarketcap');
     }
 
     public function boot(): void
