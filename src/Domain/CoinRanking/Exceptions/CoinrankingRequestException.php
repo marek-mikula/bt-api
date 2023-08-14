@@ -1,16 +1,16 @@
 <?php
 
-namespace Domain\Coinmarketcap\Exceptions;
+namespace Domain\CoinRanking\Exceptions;
 
 use Exception;
 use Illuminate\Http\Client\Response;
 
-class CoinmarketcapRequestException extends Exception
+class CoinrankingRequestException extends Exception
 {
     public function __construct(
         public readonly Response $response,
     ) {
-        parent::__construct('Request to Coinmarketcap failed.');
+        parent::__construct('Request to Coinranking failed.');
     }
 
     public function context(): array

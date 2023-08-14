@@ -91,9 +91,7 @@ class CoinmarketcapClient implements CoinmarketcapClientInterface
 
     private function request(): PendingRequest
     {
-        $baseUrl = (string) $this->config->get('coinmarketcap.url');
-
-        return Http::baseUrl($baseUrl)
+        return Http::baseUrl((string) $this->config->get('coinmarketcap.url'))
             ->withHeaders([
                 'X-CMC_PRO_API_KEY' => (string) $this->config->get('coinmarketcap.key'),
                 'Accept-Encoding' => 'deflate, gzip'

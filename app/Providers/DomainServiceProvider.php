@@ -4,6 +4,7 @@ namespace App\Providers;
 
 use Domain\Binance\Providers\BinanceServiceProvider;
 use Domain\Coinmarketcap\Providers\CoinmarketcapServiceProvider;
+use Domain\CoinRanking\Providers\CoinrankingServiceProvider;
 use Domain\Dashboard\Providers\DashboardServiceProvider;
 use Domain\Auth\Providers\AuthServiceProvider;
 use Domain\Quiz\Providers\QuizServiceProvider;
@@ -20,6 +21,7 @@ class DomainServiceProvider extends ServiceProvider
         $this->app->register(QuizServiceProvider::class);
         $this->app->register(UserServiceProvider::class);
         $this->app->register(DashboardServiceProvider::class);
+        $this->app->register(CoinrankingServiceProvider::class);
     }
 
     public function boot(): void
