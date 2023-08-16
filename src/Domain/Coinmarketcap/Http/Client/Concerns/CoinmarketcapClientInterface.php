@@ -26,8 +26,6 @@ interface CoinmarketcapClientInterface
     public function latestGlobalMetrics(): Response;
 
     /**
-     *
-     *
      * @throws CoinmarketcapRequestException
      */
     public function keyInfo(): Response;

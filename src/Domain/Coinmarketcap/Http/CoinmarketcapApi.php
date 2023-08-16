@@ -19,6 +19,7 @@ class CoinmarketcapApi
      * Returns list of top cryptocurrencies
      * by market cap
      *
+     * @throws InvalidArgumentException
      * @throws CoinmarketcapRequestException
      */
     public function latestByCap(int $page = 1, int $perPage = 100): Response
@@ -42,6 +43,7 @@ class CoinmarketcapApi
      * Returns metadata of a cryptocurrencies based
      * on IDs from Coinmarketcap
      *
+     * @throws InvalidArgumentException
      * @throws CoinmarketcapRequestException
      */
     public function coinMetadata(int|array $id): Response
