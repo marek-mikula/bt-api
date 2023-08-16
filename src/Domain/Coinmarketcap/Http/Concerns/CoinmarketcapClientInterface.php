@@ -8,12 +8,12 @@ use Illuminate\Http\Client\Response;
 interface CoinmarketcapClientInterface
 {
     /**
-     * Returns list of top 100 cryptocurrencies
+     * Returns list of top cryptocurrencies
      * by market cap
      *
      * @throws CoinmarketcapRequestException
      */
-    public function latestByCap(): Response;
+    public function latestByCap(int $page = 1, int $perPage = 100): Response;
 
     /**
      * Returns metadata of a cryptocurrency/ies based

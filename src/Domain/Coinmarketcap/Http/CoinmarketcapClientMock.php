@@ -10,9 +10,46 @@ use InvalidArgumentException;
 
 class CoinmarketcapClientMock implements CoinmarketcapClientInterface
 {
-    public function latestByCap(): Response
+    public function latestByCap(int $page = 1, int $perPage = 100): Response
     {
-        return response_from_client(data: $this->mockData('latest-by-cap.json'));
+        if ($page < 1) {
+            throw new InvalidArgumentException('Parameter $page must be greater or equal to 1.');
+        }
+
+        if (($perPage % 5) !== 0) {
+            throw new InvalidArgumentException('Parameter $perPage must be a multiple of 5');
+        }
+
+        if ($perPage > 200) {
+            throw new InvalidArgumentException('Parameter $perPage must be less or equal to 200');
+        }
+
+        // transform the $page and $perPage parameters
+        // to numbers which match with the numbers in
+        // the names of the mock files, so we can
+        // grab the correct mock file
+
+        $from = round_down_to_nearest_multiple(($page - 1) * $perPage, multiple: 1_000) + 1;
+        $to = round_up_to_nearest_multiple($page * $perPage, multiple: 1_000);
+
+        $mockFilePath = $to > 10_000 ? 'latest-by-cap/empty.json' : "latest-by-cap/{$from}_{$to}.json";
+
+        // normalize the page to the current file
+
+        $page = $page - (($from - 1) / $perPage);
+
+        // retrieve the data as array from the json mock file
+
+        $data = $this->mockData($mockFilePath);
+
+        // take only the correct portion of the file
+        // which should be on the current page
+
+        $data['data'] = collect($data['data'])
+            ->splice(($page - 1) * $perPage, $perPage)
+            ->all();
+
+        return response_from_client(data: $data);
     }
 
     public function coinMetadata(int|array $id): Response

@@ -23,9 +23,8 @@ class DashboardService
     public function getCryptocurrenciesByMarketCap(int $num = 10): Collection
     {
         // get the biggest tokens by market cap
-        $tokens = $this->client->latestByCap()
-            ->collect('data')
-            ->take($num);
+        $tokens = $this->client->latestByCap(perPage: $num)
+            ->collect('data');
 
         // get metadata for each token
         $metadata = $this->client->coinMetadata($tokens->pluck('id')->toArray())

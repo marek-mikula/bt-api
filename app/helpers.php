@@ -66,3 +66,23 @@ if (! function_exists('domain_path')) {
         return base_path(empty($path) ? "src/Domain/{$domain}" : "src/Domain/{$domain}/{$path}");
     }
 }
+
+if (! function_exists('round_up_to_nearest_multiple')) {
+    /**
+     * Rounds up $n to the nearest multiple of $multiple
+     */
+    function round_up_to_nearest_multiple(int $n, int $multiple): int
+    {
+        return (int) ($multiple * ceil($n / $multiple));
+    }
+}
+
+if (! function_exists('round_down_to_nearest_multiple')) {
+    /**
+     * Rounds down $n to the nearest multiple of $multiple
+     */
+    function round_down_to_nearest_multiple(int $n, int $multiple): int
+    {
+        return (int) ($multiple * floor($n / $multiple));
+    }
+}

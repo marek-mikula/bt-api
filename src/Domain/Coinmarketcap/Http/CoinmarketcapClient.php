@@ -18,12 +18,24 @@ class CoinmarketcapClient implements CoinmarketcapClientInterface
     ) {
     }
 
-    public function latestByCap(): Response
+    public function latestByCap(int $page = 1, int $perPage = 100): Response
     {
+        if ($page < 1) {
+            throw new InvalidArgumentException('Parameter $page must be greater or equal to 1.');
+        }
+
+        if (($perPage % 5) !== 0) {
+            throw new InvalidArgumentException('Parameter $perPage must be a multiple of 5');
+        }
+
+        if ($perPage > 200) {
+            throw new InvalidArgumentException('Parameter $perPage must be less or equal to 200');
+        }
+
         $response = $this->request()
             ->get('/v1/cryptocurrency/listings/latest', [
-                'start' => 1,
-                'limit' => 100, // 100 rows = 1 credit
+                'start' => (($page - 1) * $perPage) + 1,
+                'limit' => $perPage, // 200 rows = 1 credit
                 'sort' => 'market_cap',
                 'sort_dir' => 'desc',
                 'cryptocurrency_type' => 'all',
