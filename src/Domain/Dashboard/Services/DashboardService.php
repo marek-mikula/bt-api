@@ -2,7 +2,7 @@
 
 namespace Domain\Dashboard\Services;
 
-use Domain\Coinmarketcap\Http\Concerns\CoinmarketcapClientInterface;
+use Domain\Coinmarketcap\Http\CoinmarketcapApi;
 use Domain\Dashboard\Data\DashboardMarketMetrics;
 use Domain\Dashboard\Data\DashboardToken;
 use Illuminate\Support\Collection;
@@ -10,7 +10,7 @@ use Illuminate\Support\Collection;
 class DashboardService
 {
     public function __construct(
-        private readonly CoinmarketcapClientInterface $client,
+        private readonly CoinmarketcapApi $coinmarketcapApi,
     ) {
     }
 
@@ -23,11 +23,11 @@ class DashboardService
     public function getCryptocurrenciesByMarketCap(int $num = 10): Collection
     {
         // get the biggest tokens by market cap
-        $tokens = $this->client->latestByCap(perPage: $num)
+        $tokens = $this->coinmarketcapApi->latestByCap(perPage: $num)
             ->collect('data');
 
         // get metadata for each token
-        $metadata = $this->client->coinMetadata($tokens->pluck('id')->toArray())
+        $metadata = $this->coinmarketcapApi->coinMetadata($tokens->pluck('id')->toArray())
             ->collect('data');
 
         // map objects to data objects
@@ -53,7 +53,7 @@ class DashboardService
      */
     public function getLatestMarketMetrics(): DashboardMarketMetrics
     {
-        $data = $this->client->latestGlobalMetrics()
+        $data = $this->coinmarketcapApi->latestGlobalMetrics()
             ->json('data');
 
         $quoteCurrency = (string) collect($data['quote'])->keys()->first();

@@ -2,9 +2,10 @@
 
 namespace Domain\Coinmarketcap\Providers;
 
-use Domain\Coinmarketcap\Http\CoinmarketcapClient;
-use Domain\Coinmarketcap\Http\CoinmarketcapClientMock;
-use Domain\Coinmarketcap\Http\Concerns\CoinmarketcapClientInterface;
+use Domain\Coinmarketcap\Http\Client\CoinmarketcapClient;
+use Domain\Coinmarketcap\Http\Client\CoinmarketcapClientMock;
+use Domain\Coinmarketcap\Http\Client\Concerns\CoinmarketcapClientInterface;
+use Domain\Coinmarketcap\Http\CoinmarketcapApi;
 use Illuminate\Contracts\Support\DeferrableProvider;
 use Illuminate\Support\ServiceProvider;
 
@@ -13,7 +14,9 @@ class CoinmarketcapDeferredServiceProvider extends ServiceProvider implements De
     /**
      * @var list<class-string>
      */
-    private array $services = [];
+    private array $services = [
+        CoinmarketcapApi::class,
+    ];
 
     public function register(): void
     {

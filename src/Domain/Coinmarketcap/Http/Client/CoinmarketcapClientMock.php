@@ -1,29 +1,17 @@
 <?php
 
-namespace Domain\Coinmarketcap\Http;
+namespace Domain\Coinmarketcap\Http\Client;
 
-use Domain\Coinmarketcap\Http\Concerns\CoinmarketcapClientInterface;
+use Domain\Coinmarketcap\Http\Client\Concerns\CoinmarketcapClientInterface;
 use Illuminate\Http\Client\Response;
 use Illuminate\Support\Arr;
+use Illuminate\Support\Collection;
 use Illuminate\Support\Str;
-use InvalidArgumentException;
 
 class CoinmarketcapClientMock implements CoinmarketcapClientInterface
 {
     public function latestByCap(int $page = 1, int $perPage = 100): Response
     {
-        if ($page < 1) {
-            throw new InvalidArgumentException('Parameter $page must be greater or equal to 1.');
-        }
-
-        if (($perPage % 5) !== 0) {
-            throw new InvalidArgumentException('Parameter $perPage must be a multiple of 5');
-        }
-
-        if ($perPage > 200) {
-            throw new InvalidArgumentException('Parameter $perPage must be less or equal to 200');
-        }
-
         // transform the $page and $perPage parameters
         // to numbers which match with the numbers in
         // the names of the mock files, so we can
@@ -52,22 +40,11 @@ class CoinmarketcapClientMock implements CoinmarketcapClientInterface
         return response_from_client(data: $data);
     }
 
-    public function coinMetadata(int|array $id): Response
+    public function coinMetadata(Collection $ids): Response
     {
-        $id = collect(Arr::wrap($id));
+        // cast collection to array
 
-        if ($id->isEmpty()) {
-            throw new InvalidArgumentException('Cannot get metadata for no tokens.');
-        }
-
-        if ($id->count() > 200) {
-            throw new InvalidArgumentException('Cannot get metadata for that number of tokens. Number must be <= 200.');
-        }
-
-        // cast collection to array and make sure the
-        // items are integers
-
-        $id = $id->map('intval')->all();
+        $ids = $ids->all();
 
         // firstly retrieve the map od IDs, so we know
         // in which file each ID lays
@@ -78,8 +55,8 @@ class CoinmarketcapClientMock implements CoinmarketcapClientInterface
         // those files where we need to look for the metadata
         // for each given currency ID
 
-        foreach ($map as $file => $ids) {
-            $map[$file] = array_intersect($ids, $id);
+        foreach ($map as $file => $fileIds) {
+            $map[$file] = array_intersect($fileIds, $ids);
 
             // unset file because there are no metadata we need to look for
             if (empty($map[$file])) {
@@ -92,14 +69,14 @@ class CoinmarketcapClientMock implements CoinmarketcapClientInterface
 
         $responseData = $this->mockData('coin-metadata/empty.json');
 
-        foreach ($map as $file => $ids) {
+        foreach ($map as $file => $fileIds) {
             // retrieve data from current file
             $data = $this->mockData("coin-metadata/{$file}")['data'];
 
             // filter only those items we are looking for
             // based on given IDs in current file
-            $data = Arr::where($data, function (array $item) use ($ids): bool {
-                return in_array($item['id'], $ids);
+            $data = Arr::where($data, function (array $item) use ($fileIds): bool {
+                return in_array($item['id'], $fileIds);
             });
 
             // concat arrays, use addition, array should be having

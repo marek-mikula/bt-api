@@ -3,7 +3,7 @@
 namespace Domain\Coinmarketcap\Checks;
 
 use Domain\Coinmarketcap\Exceptions\CoinmarketcapRequestException;
-use Domain\Coinmarketcap\Http\Concerns\CoinmarketcapClientInterface;
+use Domain\Coinmarketcap\Http\CoinmarketcapApi;
 use Spatie\Health\Checks\Check;
 use Spatie\Health\Checks\Result;
 
@@ -12,7 +12,7 @@ class CoinmarketcapCheck extends Check
     protected ?string $name = 'Coinmarketcap.com';
 
     public function __construct(
-        private readonly CoinmarketcapClientInterface $client,
+        private readonly CoinmarketcapApi $coinmarketcapApi,
     ) {
         parent::__construct();
     }
@@ -22,7 +22,7 @@ class CoinmarketcapCheck extends Check
         $result = Result::make();
 
         try {
-            $this->client->keyInfo();
+            $this->coinmarketcapApi->keyInfo();
         } catch (CoinmarketcapRequestException $e) {
             return $result
                 ->failed('Down')
