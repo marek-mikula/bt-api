@@ -1,8 +1,8 @@
 <?php
 
-namespace Domain\CoinRanking\Http;
+namespace Domain\Coinranking\Http;
 
-use Domain\CoinRanking\Http\Concerns\CoinrankingClientInterface;
+use Domain\Coinranking\Http\Concerns\CoinrankingClientInterface;
 use Illuminate\Http\Client\Response;
 use Illuminate\Support\Arr;
 use Illuminate\Support\Str;

@@ -2,34 +2,34 @@
 
 namespace Domain\Dashboard\Cache;
 
-use Domain\Coinmarketcap\Data\MarketMetrics;
-use Domain\Coinmarketcap\Data\Token;
-use Domain\Coinmarketcap\Services\CoinmarketcapService;
+use Domain\Dashboard\Data\DashboardMarketMetrics;
+use Domain\Dashboard\Data\DashboardToken;
+use Domain\Dashboard\Services\DashboardService;
 use Illuminate\Support\Collection;
 use Illuminate\Support\Facades\Cache;
 
 class DashboardCache
 {
     /**
-     * @return Collection<Token>
+     * @return Collection<DashboardToken>
      */
     public function getTopCryptocurrencies(): Collection
     {
         return Cache::remember('dashboard:top-crypto', now()->endOfDay(), static function (): Collection {
-            /** @var CoinmarketcapService $coinmarketcapService */
-            $coinmarketcapService = app(CoinmarketcapService::class);
+            /** @var DashboardService $dashboardService */
+            $dashboardService = app(DashboardService::class);
 
-            return $coinmarketcapService->getCryptocurrenciesByMarketCap(5);
+            return $dashboardService->getCryptocurrenciesByMarketCap(5);
         });
     }
 
-    public function getMarketMetrics(): MarketMetrics
+    public function getMarketMetrics(): DashboardMarketMetrics
     {
-        return Cache::remember('dashboard:market-metrics', now()->endOfDay(), static function (): MarketMetrics {
-            /** @var CoinmarketcapService $coinmarketcapService */
-            $coinmarketcapService = app(CoinmarketcapService::class);
+        return Cache::remember('dashboard:market-metrics', now()->endOfDay(), static function (): DashboardMarketMetrics {
+            /** @var DashboardService $dashboardService */
+            $dashboardService = app(DashboardService::class);
 
-            return $coinmarketcapService->getLatestMarketMetrics();
+            return $dashboardService->getLatestMarketMetrics();
         });
     }
 }

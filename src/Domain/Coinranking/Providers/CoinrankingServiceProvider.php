@@ -1,6 +1,6 @@
 <?php
 
-namespace Domain\CoinRanking\Providers;
+namespace Domain\Coinranking\Providers;
 
 use Illuminate\Support\ServiceProvider;
 

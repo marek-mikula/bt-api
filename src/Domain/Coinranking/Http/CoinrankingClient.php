@@ -1,9 +1,9 @@
 <?php
 
-namespace Domain\CoinRanking\Http;
+namespace Domain\Coinranking\Http;
 
-use Domain\CoinRanking\Exceptions\CoinrankingRequestException;
-use Domain\CoinRanking\Http\Concerns\CoinrankingClientInterface;
+use Domain\Coinranking\Exceptions\CoinrankingRequestException;
+use Domain\Coinranking\Http\Concerns\CoinrankingClientInterface;
 use Illuminate\Contracts\Config\Repository;
 use Illuminate\Http\Client\PendingRequest;
 use Illuminate\Http\Client\Response;

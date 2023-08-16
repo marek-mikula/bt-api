@@ -1,13 +1,13 @@
 <?php
 
-namespace Domain\Coinmarketcap\Services;
+namespace Domain\Dashboard\Services;
 
-use Domain\Coinmarketcap\Data\MarketMetrics;
-use Domain\Coinmarketcap\Data\Token;
 use Domain\Coinmarketcap\Http\Concerns\CoinmarketcapClientInterface;
+use Domain\Dashboard\Data\DashboardMarketMetrics;
+use Domain\Dashboard\Data\DashboardToken;
 use Illuminate\Support\Collection;
 
-class CoinmarketcapService
+class DashboardService
 {
     public function __construct(
         private readonly CoinmarketcapClientInterface $client,
@@ -18,7 +18,7 @@ class CoinmarketcapService
      * Returns basic info about the biggest cryptocurrencies by market
      * cap with icon URL
      *
-     * @return Collection<Token>
+     * @return Collection<DashboardToken>
      */
     public function getCryptocurrenciesByMarketCap(int $num = 10): Collection
     {
@@ -32,12 +32,12 @@ class CoinmarketcapService
             ->collect('data');
 
         // map objects to data objects
-        return $tokens->map(static function (array $token) use ($metadata): Token {
+        return $tokens->map(static function (array $token) use ($metadata): DashboardToken {
             $quoteCurrency = (string) collect($token['quote'])->keys()->first();
 
             $tokenMetadata = $metadata->get((int) $token['id'], '');
 
-            return Token::from([
+            return DashboardToken::from([
                 'id' => (int) $token['id'],
                 'name' => (string) $token['name'],
                 'symbol' => (string) $token['symbol'],
@@ -52,14 +52,14 @@ class CoinmarketcapService
     /**
      * Returns latest market global metrics
      */
-    public function getLatestMarketMetrics(): MarketMetrics
+    public function getLatestMarketMetrics(): DashboardMarketMetrics
     {
         $data = $this->client->latestGlobalMetrics()
             ->json('data');
 
         $quoteCurrency = (string) collect($data['quote'])->keys()->first();
 
-        return MarketMetrics::from([
+        return DashboardMarketMetrics::from([
             'ethDominance' => floatval($data['eth_dominance']),
             'ethDominanceYesterday' => floatval($data['eth_dominance_yesterday']),
             'ethDominancePercentageChange' => floatval($data['eth_dominance_24h_percentage_change']),

@@ -1,21 +1,16 @@
 <?php
 
-namespace Domain\Dashboard\Providers;
+namespace Domain\Search\Providers;
 
-use Domain\Dashboard\Cache\DashboardCache;
-use Domain\Dashboard\Services\DashboardService;
 use Illuminate\Contracts\Support\DeferrableProvider;
 use Illuminate\Support\ServiceProvider;
 
-class DashboardDeferredServiceProvider extends ServiceProvider implements DeferrableProvider
+class SearchDeferredServiceProvider extends ServiceProvider implements DeferrableProvider
 {
     /**
      * @var list<class-string>
      */
-    private array $services = [
-        DashboardCache::class,
-        DashboardService::class,
-    ];
+    private array $services = [];
 
     public function register(): void
     {

@@ -1,10 +1,10 @@
 <?php
 
-namespace Domain\Coinmarketcap\Data;
+namespace Domain\Dashboard\Data;
 
 use Spatie\LaravelData\Data;
 
-class Token extends Data
+class DashboardToken extends Data
 {
     public function __construct(
         public readonly int $id,

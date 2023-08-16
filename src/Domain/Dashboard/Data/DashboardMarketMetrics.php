@@ -1,10 +1,10 @@
 <?php
 
-namespace Domain\Coinmarketcap\Data;
+namespace Domain\Dashboard\Data;
 
 use Spatie\LaravelData\Data;
 
-class MarketMetrics extends Data
+class DashboardMarketMetrics extends Data
 {
     public function __construct(
         public readonly float $ethDominance,

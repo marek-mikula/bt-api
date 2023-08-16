@@ -1,6 +1,6 @@
 <?php
 
-namespace Domain\CoinRanking\Exceptions;
+namespace Domain\Coinranking\Exceptions;
 
 use Exception;
 use Illuminate\Http\Client\Response;

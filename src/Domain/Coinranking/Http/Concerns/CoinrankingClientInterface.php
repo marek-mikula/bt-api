@@ -1,8 +1,8 @@
 <?php
 
-namespace Domain\CoinRanking\Http\Concerns;
+namespace Domain\Coinranking\Http\Concerns;
 
-use Domain\CoinRanking\Exceptions\CoinrankingRequestException;
+use Domain\Coinranking\Exceptions\CoinrankingRequestException;
 use Illuminate\Http\Client\Response;
 
 interface CoinrankingClientInterface
