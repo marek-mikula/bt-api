@@ -3,6 +3,7 @@
 namespace Domain\Binance\Http\Endpoints;
 
 use App\Models\User;
+use Domain\Binance\Data\KeyPairData;
 use Domain\Binance\Exceptions\BinanceRequestException;
 use Domain\Binance\Services\Authenticator;
 use Illuminate\Contracts\Config\Repository;
@@ -21,7 +22,7 @@ class WalletEndpoints
     /**
      * @throws BinanceRequestException
      */
-    public function status(): Response
+    public function systemStatus(): Response
     {
         $response = $this->request()
             ->get('/sapi/v1/system/status');
@@ -36,11 +37,28 @@ class WalletEndpoints
     /**
      * @throws BinanceRequestException
      */
-    public function allCoins(User $user): Response
+    public function accountStatus(User|KeyPairData $via): Response
     {
-        $params = $this->authenticator->sign($user, []);
+        $params = $this->authenticator->sign($via, []);
 
-        $response = $this->authRequest($user)
+        $response = $this->authRequest($via)
+            ->get('/sapi/v1/account/status', $params);
+
+        if ($response->failed()) {
+            throw new BinanceRequestException($response);
+        }
+
+        return $response;
+    }
+
+    /**
+     * @throws BinanceRequestException
+     */
+    public function allCoins(User|KeyPairData $via): Response
+    {
+        $params = $this->authenticator->sign($via, []);
+
+        $response = $this->authRequest($via)
             ->get('/sapi/v1/capital/config/getall', $params);
 
         if ($response->failed()) {
@@ -53,14 +71,14 @@ class WalletEndpoints
     /**
      * @throws BinanceRequestException
      */
-    public function accountSnapshot(User $user): Response
+    public function accountSnapshot(User|KeyPairData $via): Response
     {
-        $params = $this->authenticator->sign($user, [
+        $params = $this->authenticator->sign($via, [
             'type' => 'SPOT',
             'startTime' => now()->subDay()->startOfDay()->getTimestampMs(),
         ]);
 
-        $response = $this->authRequest($user)
+        $response = $this->authRequest($via)
             ->get('/sapi/v1/accountSnapshot', $params);
 
         if ($response->failed()) {
@@ -75,8 +93,8 @@ class WalletEndpoints
         return Http::baseUrl((string) $this->config->get('binance.url'));
     }
 
-    private function authRequest(User $user): PendingRequest
+    private function authRequest(User|KeyPairData $via): PendingRequest
     {
-        return $this->authenticator->authenticate($user, $this->request());
+        return $this->authenticator->authenticate($via, $this->request());
     }
 }

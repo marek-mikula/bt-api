@@ -3,6 +3,7 @@
 namespace Domain\Auth\Http\Requests;
 
 use App\Models\User;
+use Domain\Auth\Validation\ValidateBinanceKeyPair;
 use Illuminate\Foundation\Http\FormRequest;
 use Illuminate\Validation\Rules\Password;
 use Illuminate\Validation\Rules\Unique;
@@ -57,6 +58,13 @@ class RegisterRequest extends FormRequest
                 'required',
                 'string',
             ],
+        ];
+    }
+
+    public function after(): array
+    {
+        return [
+            app(ValidateBinanceKeyPair::class),
         ];
     }
 

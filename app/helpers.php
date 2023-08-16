@@ -15,7 +15,7 @@ if (! function_exists('__n')) {
         string $channel,
         string $key,
         array $replace = [],
-        ?string $locale = null
+        string $locale = null
     ): array|null|string {
         return __("notifications.{$type->value}.{$channel}.{$key}", $replace, $locale);
     }

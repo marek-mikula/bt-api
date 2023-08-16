@@ -3,6 +3,7 @@
 namespace Domain\Auth\Providers;
 
 use Domain\Auth\Services\AuthService;
+use Domain\Auth\Services\KeyValidator;
 use Domain\Auth\Services\MfaTokenResolver;
 use Domain\Auth\Services\PasswordResetService;
 use Illuminate\Contracts\Support\DeferrableProvider;
@@ -17,6 +18,7 @@ class AuthDeferredServiceProvider extends ServiceProvider implements DeferrableP
         AuthService::class,
         MfaTokenResolver::class,
         PasswordResetService::class,
+        KeyValidator::class,
     ];
 
     public function register(): void
