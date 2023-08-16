@@ -1,0 +1,21 @@
+includes:
+    - ./vendor/nunomaduro/larastan/extension.neon
+
+parameters:
+
+    paths:
+        - app/
+        - bootstrap/
+        - config/
+        - database/
+        - lang/
+        - routes/
+        - src/
+        - tests/
+
+    excludePaths:
+        - bootstrap/cache/*
+        - src/Domain/*/Resources/* # ignore all resources in src folder
+
+    # Level 9 is the highest level
+    level: 5

@@ -20,7 +20,9 @@ class EmailVerifiedMail extends BaseMail
     public function envelope(): Envelope
     {
         return new Envelope(
-            to: $this->user->email,
+            to: [
+                $this->user->email
+            ],
             subject: __n(NotificationTypeEnum::EMAIL_VERIFIED, 'mail', 'subject')
         );
     }
