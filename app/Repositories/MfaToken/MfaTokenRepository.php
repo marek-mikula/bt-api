@@ -2,11 +2,10 @@
 
 namespace App\Repositories\MfaToken;
 
-use App\Actions\Auth\CreateUuidTokenAction;
-use App\Enums\MfaTokenTypeEnum;
+use App\Actions\CreateUuidTokenAction;
 use App\Models\MfaToken;
 use App\Models\User;
-use Carbon\Carbon;
+use Domain\Auth\Enums\MfaTokenTypeEnum;
 use Illuminate\Support\Str;
 
 class MfaTokenRepository implements MfaTokenRepositoryInterface
@@ -19,9 +18,9 @@ class MfaTokenRepository implements MfaTokenRepositoryInterface
 
         $token = new MfaToken();
         $token->user_id = $user->id;
-        $token->token = CreateUuidTokenAction::create(MfaToken::class);
+        $token->token = CreateUuidTokenAction::create(for: MfaToken::class);
         $token->type = $type;
-        $token->valid_until = Carbon::now()->addMinutes($validMinutes);
+        $token->valid_until = now()->addMinutes($validMinutes);
         $token->code = Str::random(6);
 
         $token->save();
@@ -36,7 +35,7 @@ class MfaTokenRepository implements MfaTokenRepositoryInterface
             ->where('type', '=', $type->value)
             ->whereNull('invalidated_at')
             ->update([
-                'invalidated_at' => Carbon::now(),
+                'invalidated_at' => now(),
             ]);
     }
 
@@ -67,7 +66,7 @@ class MfaTokenRepository implements MfaTokenRepositoryInterface
 
     public function invalidate(MfaToken $mfaToken): MfaToken
     {
-        $mfaToken->invalidated_at = Carbon::now();
+        $mfaToken->invalidated_at = now();
         $mfaToken->save();
 
         return $mfaToken;

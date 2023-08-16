@@ -2,9 +2,9 @@
 
 namespace App\Repositories\MfaToken;
 
-use App\Enums\MfaTokenTypeEnum;
 use App\Models\MfaToken;
 use App\Models\User;
+use Domain\Auth\Enums\MfaTokenTypeEnum;
 
 interface MfaTokenRepositoryInterface
 {

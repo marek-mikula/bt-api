@@ -1,0 +1,524 @@
+{
+    "btc": {
+        "status": "success",
+        "data": {
+            "coins": [
+                {
+                    "uuid": "Qwsogvtv82FCd",
+                    "iconUrl": "https://cdn.coinranking.com/bOabBYkcX/bitcoin_btc.svg",
+                    "name": "Bitcoin",
+                    "symbol": "BTC",
+                    "price": "29343.87728345017"
+                },
+                {
+                    "uuid": "x4WXHge-vvFY",
+                    "iconUrl": "https://cdn.coinranking.com/o3-8cvCHu/wbtc[1].svg",
+                    "name": "Wrapped BTC",
+                    "symbol": "WBTC",
+                    "price": "29348.024759797892"
+                },
+                {
+                    "uuid": "h0XuVJXY",
+                    "iconUrl": "https://cdn.coinranking.com/0Ss-HT19O/btcv.svg",
+                    "name": "Bitcoin Vault",
+                    "symbol": "BTCV",
+                    "price": "6.975061593947544"
+                },
+                {
+                    "uuid": "bS_59f03V",
+                    "iconUrl": "https://cdn.coinranking.com/mR6e9rFPH/btsssss.png",
+                    "name": "Bitcoin Standard Hashrate Token",
+                    "symbol": "BTCST",
+                    "price": "0.3413623877056554"
+                },
+                {
+                    "uuid": "sFRQRYxj4XZ",
+                    "iconUrl": "https://cdn.coinranking.com/82djZtfJ8/photo_2021-05-11_22.png",
+                    "name": "BTC 2x Flexible Leverage Index",
+                    "symbol": "BTC2XFLI",
+                    "price": "7.611315993098025"
+                },
+                {
+                    "uuid": "kuQwD9IfXO3NM",
+                    "iconUrl": "https://cdn.coinranking.com/ryHgZD__-/trst.svg",
+                    "name": "Trustcoin btc",
+                    "symbol": "TRST",
+                    "price": "0.01667021104190252"
+                },
+                {
+                    "uuid": "h-3RuRkxHtpby",
+                    "iconUrl": "https://cdn.coinranking.com/XejvJsgah/btcz.png",
+                    "name": "BitcoinZ",
+                    "symbol": "BTCZ",
+                    "price": "0.000089000228144229"
+                },
+                {
+                    "uuid": "POyE2dKzaJjHe",
+                    "iconUrl": "https://cdn.coinranking.com/X_Gf1tnUt/btcp.svg",
+                    "name": "Bitcoin Private",
+                    "symbol": "BTCP",
+                    "price": "0.03882193394642034"
+                }
+            ],
+            "exchanges": [
+                {
+                    "uuid": "337ZWGygG",
+                    "iconUrl": "https://cdn.coinranking.com/N2iVODQap/btcex.png",
+                    "name": "BTCEX",
+                    "recommended": false
+                },
+                {
+                    "uuid": "WuZx40XcSms",
+                    "iconUrl": "https://cdn.coinranking.com/EuB2BwcGd/btcalpha.svg",
+                    "name": "BTCAlpha",
+                    "recommended": false
+                },
+                {
+                    "uuid": "BT5Shdx9aM",
+                    "iconUrl": "https://cdn.coinranking.com/GhvYoBzhy/btcturk.svg",
+                    "name": "BTCTurk",
+                    "recommended": false
+                }
+            ],
+            "markets": [
+                {
+                    "uuid": "MP77r-vKf4",
+                    "baseSymbol": "BTC",
+                    "quoteSymbol": "USDT",
+                    "baseUuid": "Qwsogvtv82FCd",
+                    "quoteUuid": "HIVsRcGKkPFtW",
+                    "exchangeIconUrl": "https://cdn.coinranking.com/mDTK5qrmq/binance.svg",
+                    "exchangeName": "Binance",
+                    "exchangeUuid": "-zdvbieRdZ",
+                    "recommended": true
+                },
+                {
+                    "uuid": "omsIWa1l1g",
+                    "baseSymbol": "BTC",
+                    "quoteSymbol": "USDT",
+                    "baseUuid": "Qwsogvtv82FCd",
+                    "quoteUuid": "HIVsRcGKkPFtW",
+                    "exchangeIconUrl": "https://cdn.coinranking.com/0KoAUbthl/bitmart.svg",
+                    "exchangeName": "BitMart",
+                    "exchangeUuid": "X8P0C7SXai",
+                    "recommended": true
+                },
+                {
+                    "uuid": "HLkbQtxEKr",
+                    "baseSymbol": "BTC",
+                    "quoteSymbol": "USDT",
+                    "baseUuid": "Qwsogvtv82FCd",
+                    "quoteUuid": "HIVsRcGKkPFtW",
+                    "exchangeIconUrl": "https://cdn.coinranking.com/oXtSB9uNs/digi.png",
+                    "exchangeName": "DigiFinex",
+                    "exchangeUuid": "znlSM6AO_V",
+                    "recommended": true
+                }
+            ]
+        }
+    },
+    "eth": {
+        "status": "success",
+        "data": {
+            "coins": [
+                {
+                    "uuid": "razxDUgYGNAdQ",
+                    "iconUrl": "https://cdn.coinranking.com/rk4RKHOuW/eth.svg",
+                    "name": "Ethereum",
+                    "symbol": "ETH",
+                    "price": "1843.7420301774914"
+                },
+                {
+                    "uuid": "Mtfb0obXVh59u",
+                    "iconUrl": "https://cdn.coinranking.com/KIviQyZlt/weth.svg",
+                    "name": "Wrapped Ether",
+                    "symbol": "WETH",
+                    "price": "1844.138322100283"
+                },
+                {
+                    "uuid": "hnfQfsYfeIGUQ",
+                    "iconUrl": "https://cdn.coinranking.com/rJfyor__W/etc.svg",
+                    "name": "Ethereum Classic",
+                    "symbol": "ETC",
+                    "price": "17.515590007629932"
+                },
+                {
+                    "uuid": "QJZRUGyNI",
+                    "iconUrl": "https://cdn.coinranking.com/IcRuLlzFZ/15060.png",
+                    "name": "Rocket Pool ETH",
+                    "symbol": "RETH",
+                    "price": "2002.7449701285864"
+                },
+                {
+                    "uuid": "SLcGT3CwT",
+                    "iconUrl": "https://cdn.coinranking.com/aUQr3CkJU/ENS.png",
+                    "name": "Ethereum Name Service",
+                    "symbol": "ENS",
+                    "price": "8.982759219635655"
+                },
+                {
+                    "uuid": "FXMTsn0Qp",
+                    "iconUrl": "https://cdn.coinranking.com/_QuemX1JJ/21296.png",
+                    "name": "EthereumPoW",
+                    "symbol": "ETHW",
+                    "price": "1.7034581922359409"
+                },
+                {
+                    "uuid": "Jjp7zDT2s",
+                    "iconUrl": "https://cdn.coinranking.com/h_qOJ7MYh/8615.png",
+                    "name": "Ethernity Chain",
+                    "symbol": "ERN",
+                    "price": "1.5793024192520497"
+                },
+                {
+                    "uuid": "VINVMYf0u",
+                    "iconUrl": "https://cdn.coinranking.com/UJ-dQdgYY/8085.png",
+                    "name": "Lido Staked Ether",
+                    "symbol": "stETH",
+                    "price": "1840.3551750611607"
+                }
+            ],
+            "exchanges": [],
+            "markets": [
+                {
+                    "uuid": "JkEjr5Yjxk",
+                    "baseSymbol": "ETH",
+                    "quoteSymbol": "USDT",
+                    "baseUuid": "razxDUgYGNAdQ",
+                    "quoteUuid": "HIVsRcGKkPFtW",
+                    "exchangeIconUrl": "https://cdn.coinranking.com/mDTK5qrmq/binance.svg",
+                    "exchangeName": "Binance",
+                    "exchangeUuid": "-zdvbieRdZ",
+                    "recommended": true
+                },
+                {
+                    "uuid": "6EOGJLw2r",
+                    "baseSymbol": "ETH",
+                    "quoteSymbol": "USDT",
+                    "baseUuid": "razxDUgYGNAdQ",
+                    "quoteUuid": "HIVsRcGKkPFtW",
+                    "exchangeIconUrl": "https://cdn.coinranking.com/oXtSB9uNs/digi.png",
+                    "exchangeName": "DigiFinex",
+                    "exchangeUuid": "znlSM6AO_V",
+                    "recommended": true
+                },
+                {
+                    "uuid": "lMklAFtLrr",
+                    "baseSymbol": "ETH",
+                    "quoteSymbol": "USDT",
+                    "baseUuid": "razxDUgYGNAdQ",
+                    "quoteUuid": "HIVsRcGKkPFtW",
+                    "exchangeIconUrl": "https://cdn.coinranking.com/0KoAUbthl/bitmart.svg",
+                    "exchangeName": "BitMart",
+                    "exchangeUuid": "X8P0C7SXai",
+                    "recommended": true
+                }
+            ]
+        }
+    },
+    "doge": {
+        "status": "success",
+        "data": {
+            "coins": [
+                {
+                    "uuid": "a91GCGd_u96cF",
+                    "iconUrl": "https://cdn.coinranking.com/H1arXIuOZ/doge.svg",
+                    "name": "Dogecoin",
+                    "symbol": "DOGE",
+                    "price": "0.07474957692914047"
+                },
+                {
+                    "uuid": "JY1_q2c0g",
+                    "iconUrl": "https://cdn.coinranking.com/1X2BCCJdV/Baby_Doge.png",
+                    "name": "Baby Doge Coin",
+                    "symbol": "BABYDOGE",
+                    "price": "1.184724869e-9"
+                },
+                {
+                    "uuid": "Ac13iS3os",
+                    "iconUrl": "https://cdn.coinranking.com/VHc5KxjKj/dogelon-mars.png",
+                    "name": "Dogelon Mars",
+                    "symbol": "ELON",
+                    "price": "1.44641562604e-7"
+                },
+                {
+                    "uuid": "5pkoaIZEl",
+                    "iconUrl": "https://cdn.coinranking.com/UTKbIWCwW/Leash.png",
+                    "name": "DOGE KILLER",
+                    "symbol": "LEASH",
+                    "price": "575.2891613093506"
+                },
+                {
+                    "uuid": "2FZG3zvi1",
+                    "iconUrl": "https://cdn.coinranking.com/evsvj9Qzi/WBCMqI0t_400x400.PNG",
+                    "name": "AI Doge",
+                    "symbol": "AIDOGE",
+                    "price": "8.771469e-11"
+                },
+                {
+                    "uuid": "a1WeLYQn9t",
+                    "iconUrl": "https://cdn.coinranking.com/1rkv_HAy3wL/dogechain.png",
+                    "name": "Dogechain",
+                    "symbol": "DC",
+                    "price": "0.000653268846531837"
+                },
+                {
+                    "uuid": "yYODDfgZO",
+                    "iconUrl": "https://cdn.coinranking.com/klnNmRZxm/11557.png",
+                    "name": "The Doge NFT",
+                    "symbol": "DOG",
+                    "price": "0.00072461548066799"
+                },
+                {
+                    "uuid": "ynQ6QOOoK_B",
+                    "iconUrl": "https://cdn.coinranking.com/uO2CGWVYWQH/feisty-doge-nft.png",
+                    "name": "Feisty Doge NFT",
+                    "symbol": "NFD",
+                    "price": "0.000021670885356635"
+                }
+            ],
+            "exchanges": [],
+            "markets": [
+                {
+                    "uuid": "u9InlBy_ng_",
+                    "baseSymbol": "DOGE",
+                    "quoteSymbol": "USDT",
+                    "baseUuid": "a91GCGd_u96cF",
+                    "quoteUuid": "HIVsRcGKkPFtW",
+                    "exchangeIconUrl": "https://cdn.coinranking.com/mDTK5qrmq/binance.svg",
+                    "exchangeName": "Binance",
+                    "exchangeUuid": "-zdvbieRdZ",
+                    "recommended": true
+                },
+                {
+                    "uuid": "uWdieJ4zsdt",
+                    "baseSymbol": "DOGE",
+                    "quoteSymbol": "USDT",
+                    "baseUuid": "a91GCGd_u96cF",
+                    "quoteUuid": "HIVsRcGKkPFtW",
+                    "exchangeIconUrl": "https://cdn.coinranking.com/Pxa6IlFXJ/c9-_7fD0_400x400.png",
+                    "exchangeName": "Poloniex",
+                    "exchangeUuid": "I0AFppISB",
+                    "recommended": true
+                },
+                {
+                    "uuid": "NFs9jlrejZ",
+                    "baseSymbol": "DOGE",
+                    "quoteSymbol": "USDT",
+                    "baseUuid": "a91GCGd_u96cF",
+                    "quoteUuid": "HIVsRcGKkPFtW",
+                    "exchangeIconUrl": "https://cdn.coinranking.com/ryFpQe0c7/ht.svg",
+                    "exchangeName": "Huobi Global",
+                    "exchangeUuid": "xRvYoPjeQ",
+                    "recommended": true
+                }
+            ]
+        }
+    },
+    "ltc": {
+        "status": "success",
+        "data": {
+            "coins": [
+                {
+                    "uuid": "D7B1x_ks7WhV5",
+                    "iconUrl": "https://cdn.coinranking.com/BUvPxmc9o/ltcnew.svg",
+                    "name": "Litecoin",
+                    "symbol": "LTC",
+                    "price": "81.9045066082655"
+                },
+                {
+                    "uuid": "YGZdZSKtq",
+                    "iconUrl": "https://cdn.coinranking.com/JUEzMo3IU/LrysCc5Q_400x400.png",
+                    "name": "Binance-Peg Litecoin",
+                    "symbol": "LTC",
+                    "price": "81.92013373785866"
+                },
+                {
+                    "uuid": "9-Fg3W4gU",
+                    "iconUrl": "https://cdn.coinranking.com/rQdUpJdc3/rlPCBeWM_400x400.PNG",
+                    "name": "LITE LTC",
+                    "symbol": "LITE",
+                    "price": "0.009303419554123523"
+                },
+                {
+                    "uuid": "a9jo4Apiz",
+                    "iconUrl": "https://cdn.coinranking.com/6eWUrMZIi/gj8DeZes_400x400.png",
+                    "name": "LTC 2.0",
+                    "symbol": "LTC 2.0",
+                    "price": "1.53946e-13"
+                },
+                {
+                    "uuid": "BbYujaroo-koz",
+                    "iconUrl": "https://cdn.coinranking.com/ilXIywUcWt/litecoin-cash.svg",
+                    "name": "Litecoin Cash",
+                    "symbol": "LTCH",
+                    "price": null
+                },
+                {
+                    "uuid": "M7oSnepswEb3",
+                    "iconUrl": "https://cdn.coinranking.com/L7VOtrKmt/litecoin-classic.svg",
+                    "name": "LiteCoin Classic",
+                    "symbol": "LTCC",
+                    "price": null
+                },
+                {
+                    "uuid": "r5ZolwBacAiPi",
+                    "iconUrl": "https://cdn.coinranking.com/EP6Mx4ih8Ak/litecoindark.svg",
+                    "name": "LitecoinDark",
+                    "symbol": "LTCD",
+                    "price": null
+                },
+                {
+                    "uuid": "H3FMUj6D8Y8y2",
+                    "iconUrl": "https://cdn.coinranking.com/UgTCzbAz8C/litecoinx.svg",
+                    "name": "LitecoinX",
+                    "symbol": "LTCX",
+                    "price": null
+                }
+            ],
+            "exchanges": [],
+            "markets": [
+                {
+                    "uuid": "m10cBWbI6l",
+                    "baseSymbol": "LTC",
+                    "quoteSymbol": "USDT",
+                    "baseUuid": "D7B1x_ks7WhV5",
+                    "quoteUuid": "HIVsRcGKkPFtW",
+                    "exchangeIconUrl": "https://cdn.coinranking.com/mDTK5qrmq/binance.svg",
+                    "exchangeName": "Binance",
+                    "exchangeUuid": "-zdvbieRdZ",
+                    "recommended": true
+                },
+                {
+                    "uuid": "-ePj9hMU84V",
+                    "baseSymbol": "LTC",
+                    "quoteSymbol": "USDT",
+                    "baseUuid": "D7B1x_ks7WhV5",
+                    "quoteUuid": "HIVsRcGKkPFtW",
+                    "exchangeIconUrl": "https://cdn.coinranking.com/Pxa6IlFXJ/c9-_7fD0_400x400.png",
+                    "exchangeName": "Poloniex",
+                    "exchangeUuid": "I0AFppISB",
+                    "recommended": true
+                },
+                {
+                    "uuid": "XwgMgXAtvGa",
+                    "baseSymbol": "LTC",
+                    "quoteSymbol": "USDT",
+                    "baseUuid": "D7B1x_ks7WhV5",
+                    "quoteUuid": "HIVsRcGKkPFtW",
+                    "exchangeIconUrl": "https://cdn.coinranking.com/xcZdYtX6E/okx.png",
+                    "exchangeName": "OKX",
+                    "exchangeUuid": "hUlMcwWZp_",
+                    "recommended": true
+                }
+            ]
+        }
+    },
+    "atom": {
+        "status": "success",
+        "data": {
+            "coins": [
+                {
+                    "uuid": "Knsels4_Ol-Ny",
+                    "iconUrl": "https://cdn.coinranking.com/HJzHboruM/atom.svg",
+                    "name": "Cosmos",
+                    "symbol": "ATOM",
+                    "price": "8.423117402716336"
+                },
+                {
+                    "uuid": "jrxTIZusXvnoX",
+                    "iconUrl": "https://cdn.coinranking.com/jW4I7S4eb/bitcoin-atom.png",
+                    "name": "Bitcoin Atom",
+                    "symbol": "BCA",
+                    "price": "8.420454868009601"
+                },
+                {
+                    "uuid": "v7DPOOegyn",
+                    "iconUrl": "https://cdn.coinranking.com/8KiwXDarwLm/pstake-staked-atom.png",
+                    "name": "pSTAKE Staked ATOM",
+                    "symbol": "STKATOM",
+                    "price": "9.371995381586855"
+                },
+                {
+                    "uuid": "SP06SD0nn",
+                    "iconUrl": "https://cdn.coinranking.com/uO9VL7Wrg2/stride-staked-atom.png",
+                    "name": "Stride Staked Atom",
+                    "symbol": "STATOM",
+                    "price": "9.988285977874515"
+                },
+                {
+                    "uuid": "uRBw2dQXYciec",
+                    "iconUrl": "https://cdn.coinranking.com/jnT9MoHt6f_/atomic-coin.svg",
+                    "name": "Atomic Coin",
+                    "symbol": "ATOM",
+                    "price": null
+                },
+                {
+                    "uuid": "XwwgprvsDv1p",
+                    "iconUrl": "https://cdn.coinranking.com/TWmJ6Vbx3/3667.png",
+                    "name": "Atomic Wallet Token",
+                    "symbol": "AWC",
+                    "price": null
+                },
+                {
+                    "uuid": "62S9nhvjj3m8",
+                    "iconUrl": "https://cdn.coinranking.com/cxshF4zyI/atmant.svg",
+                    "name": "Atmant",
+                    "symbol": "ATOMBOMB",
+                    "price": null
+                },
+                {
+                    "uuid": "ZIm8UQ9pE",
+                    "iconUrl": "https://cdn.coinranking.com/7LvsnaZby/atom.svg",
+                    "name": "Atom",
+                    "symbol": "ATOMX",
+                    "price": null
+                }
+            ],
+            "exchanges": [],
+            "markets": [
+                {
+                    "uuid": "yjpQkemYH52",
+                    "baseSymbol": "ATOM",
+                    "quoteSymbol": "USDT",
+                    "baseUuid": "Knsels4_Ol-Ny",
+                    "quoteUuid": "HIVsRcGKkPFtW",
+                    "exchangeIconUrl": "https://cdn.coinranking.com/Pxa6IlFXJ/c9-_7fD0_400x400.png",
+                    "exchangeName": "Poloniex",
+                    "exchangeUuid": "I0AFppISB",
+                    "recommended": true
+                },
+                {
+                    "uuid": "j-FJlAyMQd",
+                    "baseSymbol": "ATOM",
+                    "quoteSymbol": "USDT",
+                    "baseUuid": "Knsels4_Ol-Ny",
+                    "quoteUuid": "HIVsRcGKkPFtW",
+                    "exchangeIconUrl": "https://cdn.coinranking.com/mDTK5qrmq/binance.svg",
+                    "exchangeName": "Binance",
+                    "exchangeUuid": "-zdvbieRdZ",
+                    "recommended": true
+                },
+                {
+                    "uuid": "UZBJ3Y1c2",
+                    "baseSymbol": "ATOM",
+                    "quoteSymbol": "USDT",
+                    "baseUuid": "Knsels4_Ol-Ny",
+                    "quoteUuid": "HIVsRcGKkPFtW",
+                    "exchangeIconUrl": "https://cdn.coinranking.com/ryFpQe0c7/ht.svg",
+                    "exchangeName": "Huobi Global",
+                    "exchangeUuid": "xRvYoPjeQ",
+                    "recommended": true
+                }
+            ]
+        }
+    },
+    "empty": {
+        "status": "success",
+        "data": {
+            "coins": [],
+            "exchanges": [],
+            "markets": []
+        }
+    }
+}

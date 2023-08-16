@@ -2,11 +2,11 @@
 
 namespace App\Models;
 
-use App\Enums\MfaTokenTypeEnum;
-use App\Formatters\MfaTokenFormatter;
-use App\Query\MfaTokenQuery;
+use App\Models\Formatters\MfaTokenFormatter;
+use App\Models\Query\MfaTokenQuery;
 use Carbon\Carbon;
 use Database\Factories\MfaTokenFactory;
+use Domain\Auth\Enums\MfaTokenTypeEnum;
 use Illuminate\Database\Eloquent\Casts\Attribute;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
@@ -72,7 +72,7 @@ class MfaToken extends Model
     protected function isExpired(): Attribute
     {
         return Attribute::get(function (): bool {
-            return $this->invalidated || $this->valid_until->lte(Carbon::now());
+            return $this->invalidated || $this->valid_until->lte(now());
         });
     }
 

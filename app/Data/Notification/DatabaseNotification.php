@@ -24,14 +24,14 @@ class DatabaseNotification extends Data
         return new self(type: $type);
     }
 
-    public function title(string $key, array $replace = [], ?string $locale = null): self
+    public function title(string $key, array $replace = [], string $locale = null): self
     {
         $this->title = __n($this->type, 'database', $key, $replace, $locale);
 
         return $this;
     }
 
-    public function body(string $key, array $replace = [], ?string $locale = null): self
+    public function body(string $key, array $replace = [], string $locale = null): self
     {
         $this->body = __n($this->type, 'database', $key, $replace, $locale);
 

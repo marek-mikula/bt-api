@@ -3,7 +3,6 @@
 namespace App\Repositories\User;
 
 use App\Models\User;
-use Carbon\Carbon;
 
 class UserRepository implements UserRepositoryInterface
 {
@@ -17,7 +16,7 @@ class UserRepository implements UserRepositoryInterface
 
     public function verifyEmail(User $user): User
     {
-        $user->email_verified_at = Carbon::now();
+        $user->email_verified_at = now();
         $user->save();
 
         return $user;
@@ -43,7 +42,7 @@ class UserRepository implements UserRepositoryInterface
 
     public function finishQuiz(User $user): User
     {
-        $user->quiz_finished_at = Carbon::now();
+        $user->quiz_finished_at = now();
         $user->save();
 
         return $user;

@@ -3,10 +3,10 @@
 namespace App\Models;
 
 use App\Casts\EncryptCast;
-use App\Enums\MfaTokenTypeEnum;
 use App\Models\Traits\Notifiable;
 use Carbon\Carbon;
 use Database\Factories\UserFactory;
+use Domain\Auth\Enums\MfaTokenTypeEnum;
 use Illuminate\Database\Eloquent\Casts\Attribute;
 use Illuminate\Database\Eloquent\Collection;
 use Illuminate\Database\Eloquent\Factories\HasFactory;

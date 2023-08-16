@@ -26,17 +26,17 @@ class UserFactory extends Factory
         ];
     }
 
-    public function quizTaken(?Carbon $at = null): self
+    public function quizTaken(Carbon $at = null): self
     {
         return $this->state([
-            'quiz_finished_at' => $at ?? Carbon::now(),
+            'quiz_finished_at' => $at ?? now(),
         ]);
     }
 
-    public function emailVerified(?Carbon $at = null): self
+    public function emailVerified(Carbon $at = null): self
     {
         return $this->state([
-            'email_verified_at' => $at ?? Carbon::now(),
+            'email_verified_at' => $at ?? now(),
         ]);
     }
 }

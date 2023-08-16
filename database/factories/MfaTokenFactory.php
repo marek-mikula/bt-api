@@ -2,10 +2,9 @@
 
 namespace Database\Factories;
 
-use App\Enums\MfaTokenTypeEnum;
 use App\Models\MfaToken;
 use App\Models\User;
-use Carbon\Carbon;
+use Domain\Auth\Enums\MfaTokenTypeEnum;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Illuminate\Support\Str;
 
@@ -22,7 +21,7 @@ class MfaTokenFactory extends Factory
             'code' => Str::lower(Str::random(6)),
             'type' => $this->faker->randomElement(MfaTokenTypeEnum::cases())->value,
             'data' => [],
-            'valid_until' => Carbon::now()->addDay(),
+            'valid_until' => now()->addDay(),
         ];
     }
 }

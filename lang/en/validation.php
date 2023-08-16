@@ -163,8 +163,11 @@ return [
     */
 
     'custom' => [
-        'attribute-name' => [
-            'rule-name' => 'custom-message',
+        'publicKey' => [
+            'validity' => 'The :attribute is not a valid Binance public key.',
+        ],
+        'secretKey' => [
+            'validity' => 'The :attribute is not a valid Binance secret key.',
         ],
     ],
 

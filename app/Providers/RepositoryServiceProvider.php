@@ -32,11 +32,6 @@ class RepositoryServiceProvider extends ServiceProvider implements DeferrablePro
         }
     }
 
-    public function boot(): void
-    {
-        //
-    }
-
     public function provides(): array
     {
         return array_keys($this->repositories);
