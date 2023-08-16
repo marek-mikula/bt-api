@@ -32,7 +32,7 @@ class MarkAsReadRequest extends AuthRequest
         }
 
         // set notification to request, so we don't have
-        // to query it again in the controlled
+        // to query it again in the controller
         $this->notification = $notification;
 
         return true;
