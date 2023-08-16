@@ -59,8 +59,9 @@ class CoinmarketcapClient implements CoinmarketcapClientInterface
         }
 
         // check number of tokens, so we don't waste our credits
-        if ($id->count() > 100) {
-            throw new InvalidArgumentException('Cannot get metadata for that number of tokens. Number must be <= 100.');
+        // 100 tokens = 1 credit
+        if ($id->count() > 200) {
+            throw new InvalidArgumentException('Cannot get metadata for that number of tokens. Number must be <= 200.');
         }
 
         $response = $this->request()

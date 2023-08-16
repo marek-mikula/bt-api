@@ -57,31 +57,58 @@ class CoinmarketcapClientMock implements CoinmarketcapClientInterface
         $id = collect(Arr::wrap($id));
 
         if ($id->isEmpty()) {
-            throw new InvalidArgumentException('Cannot get metadata for no cryptocurrency.');
+            throw new InvalidArgumentException('Cannot get metadata for no tokens.');
         }
 
-        if ($id->count() > 100) {
-            throw new InvalidArgumentException('Cannot get metadata for that number of tokens. Number must be <= 100.');
+        if ($id->count() > 200) {
+            throw new InvalidArgumentException('Cannot get metadata for that number of tokens. Number must be <= 200.');
         }
 
-        $data = $this->mockData('coin-metadata.json');
+        // cast collection to array and make sure the
+        // items are integers
 
-        // get only specific coin based on given ID
-        // from the whole list from json file
-        $data['data'] = Arr::where($data['data'], static function (array $coin) use ($id): bool {
-            return $id->contains((int) $coin['id']);
-        });
+        $id = $id->map('intval')->all();
 
-        // check that every ID has been retrieved from json mock file
-        if (count($data['data']) !== $id->count()) {
-            $invalidIds = $id
-                ->diff(collect($data['data'])->pluck('id'))
-                ->implode(', ');
+        // firstly retrieve the map od IDs, so we know
+        // in which file each ID lays
 
-            throw new InvalidArgumentException("Unknown ID/IDs [{$invalidIds}] given. No mock data found.");
+        $map = $this->mockData('coin-metadata/map.json');
+
+        // search through the map of IDs and keep only
+        // those files where we need to look for the metadata
+        // for each given currency ID
+
+        foreach ($map as $file => $ids) {
+            $map[$file] = array_intersect($ids, $id);
+
+            // unset file because there are no metadata we need to look for
+            if (empty($map[$file])) {
+                unset($map[$file]);
+            }
         }
 
-        return response_from_client(data: $data);
+        // load empty response data JSON
+        // => we will fill it with data from each file we need to look through
+
+        $responseData = $this->mockData('coin-metadata/empty.json');
+
+        foreach ($map as $file => $ids) {
+            // retrieve data from current file
+            $data = $this->mockData("coin-metadata/{$file}")['data'];
+
+            // filter only those items we are looking for
+            // based on given IDs in current file
+            $data = Arr::where($data, function (array $item) use ($ids): bool {
+                return in_array($item['id'], $ids);
+            });
+
+            // concat arrays, use addition, array should be having
+            // different and unique keys
+
+            $responseData['data'] += $data;
+        }
+
+        return response_from_client(data: $responseData);
     }
 
     public function latestGlobalMetrics(): Response
