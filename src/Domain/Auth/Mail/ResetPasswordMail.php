@@ -23,7 +23,7 @@ class ResetPasswordMail extends BaseMail
     {
         return new Envelope(
             to: [
-                $this->user->email
+                $this->user->email,
             ],
             subject: __n(NotificationTypeEnum::RESET_PASSWORD, 'mail', 'subject')
         );

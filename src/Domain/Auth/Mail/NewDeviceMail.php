@@ -27,7 +27,7 @@ class NewDeviceMail extends BaseMail
     {
         return new Envelope(
             to: [
-                $this->user->email
+                $this->user->email,
             ],
             subject: __n(NotificationTypeEnum::NEW_DEVICE, 'mail', 'subject')
         );

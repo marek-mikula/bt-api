@@ -23,7 +23,7 @@ class RegisteredMail extends BaseMail
     {
         return new Envelope(
             to: [
-                $this->user->email
+                $this->user->email,
             ],
             subject: __n(NotificationTypeEnum::REGISTERED, 'mail', 'subject')
         );

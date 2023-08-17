@@ -23,7 +23,7 @@ class VerifyEmailMail extends BaseMail
     {
         return new Envelope(
             to: [
-                $this->user->email
+                $this->user->email,
             ],
             subject: __n(NotificationTypeEnum::VERIFY_EMAIL, 'mail', 'subject')
         );

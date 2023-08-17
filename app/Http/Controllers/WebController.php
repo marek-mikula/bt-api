@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use Domain\Coinranking\Http\CoinrankingApi;
 use Illuminate\Contracts\View\View;
 
 class WebController extends Controller
@@ -13,6 +14,9 @@ class WebController extends Controller
 
     public function test(): void
     {
-        //
+        /** @var CoinrankingApi $api */
+        $api = app(CoinrankingApi::class);
+
+        dd($api->search('btc')->json());
     }
 }

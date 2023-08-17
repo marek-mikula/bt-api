@@ -21,7 +21,7 @@ class PasswordChangedMail extends BaseMail
     {
         return new Envelope(
             to: [
-                $this->user->email
+                $this->user->email,
             ],
             subject: __n(NotificationTypeEnum::PASSWORD_CHANGED, 'mail', 'subject')
         );
