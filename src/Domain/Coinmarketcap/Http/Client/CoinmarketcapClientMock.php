@@ -88,6 +88,20 @@ class CoinmarketcapClientMock implements CoinmarketcapClientInterface
         return response_from_client(data: $responseData);
     }
 
+    public function coinMetadataByTicker(Collection $tickers): Response
+    {
+        $map = $this->mockData('map-symbol-to-id.json');
+
+        // map tickers/symbols to collection of IDs
+        // map only those that exists
+
+        $ids = $tickers
+            ->filter(static fn (string $ticker): bool => array_key_exists($ticker, $map))
+            ->map(static fn (string $ticker): int => $map[$ticker]);
+
+        return $this->coinMetadata($ids);
+    }
+
     public function latestGlobalMetrics(): Response
     {
         return response_from_client(data: $this->mockData('latest-global-metrics.json'));

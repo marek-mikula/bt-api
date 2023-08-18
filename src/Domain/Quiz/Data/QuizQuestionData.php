@@ -20,6 +20,6 @@ class QuizQuestionData extends Data
 
     public function getCorrectAnswer(): QuizAnswerData
     {
-        return Arr::first($this->answers, fn (QuizAnswerData $answer): bool => $answer->correct);
+        return Arr::first($this->answers, static fn (QuizAnswerData $answer): bool => $answer->correct);
     }
 }

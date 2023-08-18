@@ -515,7 +515,7 @@ class QuizService
 
         $answers->each(function (FinishRequestAnswerData $answer) use (&$correct, &$wrong, $questions): void {
             /** @var QuizQuestionData|null $question */
-            $question = $questions->first(fn (QuizQuestionData $question): bool => $question->id === $answer->id);
+            $question = $questions->first(static fn (QuizQuestionData $question): bool => $question->id === $answer->id);
 
             if (! $question) {
                 return;

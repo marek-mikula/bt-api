@@ -28,7 +28,7 @@ class FinishRequest extends AuthRequest
     {
         return FinishRequestData::from([
             'answers' => $this->collect('answers')
-                ->map(fn (array $answer): FinishRequestAnswerData => FinishRequestAnswerData::from([
+                ->map(static fn (array $answer): FinishRequestAnswerData => FinishRequestAnswerData::from([
                     'id' => (int) $answer['id'],
                     'answer' => (int) $answer['answer'],
                 ])),

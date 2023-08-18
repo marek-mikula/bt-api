@@ -21,6 +21,13 @@ interface CoinmarketcapClientInterface
     public function coinMetadata(Collection $ids): Response;
 
     /**
+     * @param  Collection<string>  $tickers
+     *
+     * @throws CoinmarketcapRequestException
+     */
+    public function coinMetadataByTicker(Collection $tickers): Response;
+
+    /**
      * @throws CoinmarketcapRequestException
      */
     public function latestGlobalMetrics(): Response;

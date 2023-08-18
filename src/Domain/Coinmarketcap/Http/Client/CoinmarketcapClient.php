@@ -51,6 +51,20 @@ class CoinmarketcapClient implements CoinmarketcapClientInterface
         return $response;
     }
 
+    public function coinMetadataByTicker(Collection $tickers): Response
+    {
+        $response = $this->request()
+            ->get('/v2/cryptocurrency/info', [
+                'symbol' => $tickers->implode(','),
+            ]);
+
+        if (! $response->successful()) {
+            throw new CoinmarketcapRequestException($response);
+        }
+
+        return $response;
+    }
+
     public function latestGlobalMetrics(): Response
     {
         $response = $this->request()
