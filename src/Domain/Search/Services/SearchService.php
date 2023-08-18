@@ -23,6 +23,12 @@ class SearchService
         $coins = $this->coinrankingApi->search($query)
             ->collect('data.coins');
 
+        // no search results found
+
+        if ($coins->isEmpty()) {
+            return collect();
+        }
+
         $symbols = $coins->pluck('symbol')->all();
 
         $metadata = $this->coinmarketcapApi->coinMetadataByTicker($symbols)
