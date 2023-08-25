@@ -59,15 +59,15 @@ class DashboardService
         $quoteCurrency = (string) collect($data['quote'])->keys()->first();
 
         return DashboardMarketMetrics::from([
-            'ethDominance' => floatval($data['eth_dominance']),
-            'ethDominanceYesterday' => floatval($data['eth_dominance_yesterday']),
-            'ethDominancePercentageChange' => floatval($data['eth_dominance_24h_percentage_change']),
-            'btcDominance' => floatval($data['btc_dominance']),
-            'btcDominanceYesterday' => floatval($data['btc_dominance_yesterday']),
-            'btcDominancePercentageChange' => floatval($data['btc_dominance_24h_percentage_change']),
+            'ethDominance' => floatval($data['eth_dominance']) / 100,
+            'ethDominanceYesterday' => floatval($data['eth_dominance_yesterday']) / 100,
+            'ethDominancePercentageChange' => floatval($data['eth_dominance_24h_percentage_change']) / 100,
+            'btcDominance' => floatval($data['btc_dominance']) / 100,
+            'btcDominanceYesterday' => floatval($data['btc_dominance_yesterday']) / 100,
+            'btcDominancePercentageChange' => floatval($data['btc_dominance_24h_percentage_change']) / 100,
             'totalMarketCap' => floatval($data['quote'][$quoteCurrency]['total_market_cap']),
             'totalMarketCapYesterday' => floatval($data['quote'][$quoteCurrency]['total_market_cap_yesterday']),
-            'totalMarketCapPercentageChange' => floatval($data['quote'][$quoteCurrency]['total_market_cap_yesterday_percentage_change']),
+            'totalMarketCapPercentageChange' => floatval($data['quote'][$quoteCurrency]['total_market_cap_yesterday_percentage_change']) / 100,
             'totalMarketCapCurrency' => $quoteCurrency,
         ]);
     }

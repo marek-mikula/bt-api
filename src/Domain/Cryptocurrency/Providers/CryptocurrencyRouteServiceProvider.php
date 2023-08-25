@@ -11,7 +11,7 @@ class CryptocurrencyRouteServiceProvider extends RouteServiceProvider
     {
         $this->routes(static function (): void {
             Route::middleware('api')
-                ->prefix('/api/cryptocurrency')
+                ->prefix('/api/cryptocurrencies')
                 ->as('api.cryptocurrency.')
                 ->group(__DIR__.'/../Routes/cryptocurrency.php');
         });

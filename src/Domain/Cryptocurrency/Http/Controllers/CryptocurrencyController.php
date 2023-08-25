@@ -20,10 +20,19 @@ class CryptocurrencyController extends ApiController
     {
         $page = $request->integer('page', 1);
 
-        $data = $this->service->getDataForIndex(page: $page);
+        $perPage = $request->integer('perPage', 100);
+
+        $data = $this->service->getDataForIndex(page: $page, perPage: $perPage);
 
         return $this->sendJsonResponse(code: ResponseCodeEnum::OK, data: [
-            'cryptocurrencies' => new DataResourceCollection($data),
+            'cryptocurrencies' => [
+                'data' => new DataResourceCollection($data),
+                'meta' => [
+                    'page' => $page,
+                    'perPage' => $perPage,
+                    'end' => $data->count() < $perPage,
+                ]
+            ],
         ]);
     }
 }
