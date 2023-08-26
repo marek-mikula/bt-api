@@ -11,6 +11,7 @@ use Domain\Auth\Http\Requests\LoginRequest;
 use Domain\Auth\Http\Requests\RegisterRequest;
 use Domain\Auth\Services\AuthService;
 use Illuminate\Http\JsonResponse;
+use Illuminate\Http\Request;
 
 class AuthController extends ApiController
 {
@@ -59,9 +60,13 @@ class AuthController extends ApiController
         ]);
     }
 
-    public function logout(): JsonResponse
+    public function logout(AuthRequest $request): JsonResponse
     {
         auth('api')->logout();
+
+        $request->session()->invalidate();
+
+        $request->session()->regenerateToken();
 
         return $this->sendJsonResponse(code: ResponseCodeEnum::OK);
     }
