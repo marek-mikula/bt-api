@@ -11,7 +11,6 @@ use Domain\Auth\Http\Requests\LoginRequest;
 use Domain\Auth\Http\Requests\RegisterRequest;
 use Domain\Auth\Services\AuthService;
 use Illuminate\Http\JsonResponse;
-use Illuminate\Http\Request;
 
 class AuthController extends ApiController
 {

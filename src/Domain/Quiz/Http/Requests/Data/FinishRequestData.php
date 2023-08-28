@@ -1,6 +1,6 @@
 <?php
 
-namespace Domain\Quiz\Http\Requests;
+namespace Domain\Quiz\Http\Requests\Data;
 
 use Illuminate\Support\Collection;
 use Spatie\LaravelData\Data;

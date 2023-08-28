@@ -20,6 +20,7 @@ use Rappasoft\LaravelAuthenticationLog\Traits\AuthenticationLoggable;
  * @property-read int $id
  * @property string $firstname
  * @property string $lastname
+ * @property Carbon $birth_date
  * @property-read string $full_name
  * @property string $email
  * @property string $password
@@ -49,6 +50,7 @@ class User extends Authenticatable
     protected $fillable = [
         'firstname',
         'lastname',
+        'birth_date',
         'email',
         'password',
         'public_key',
@@ -66,6 +68,7 @@ class User extends Authenticatable
     ];
 
     protected $casts = [
+        'birth_date' => 'date',
         'public_key' => EncryptCast::class,
         'secret_key' => EncryptCast::class,
         'mfa_token_type' => MfaTokenTypeEnum::class,

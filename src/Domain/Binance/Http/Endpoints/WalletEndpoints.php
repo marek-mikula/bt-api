@@ -5,7 +5,7 @@ namespace Domain\Binance\Http\Endpoints;
 use App\Models\User;
 use Domain\Binance\Data\KeyPairData;
 use Domain\Binance\Exceptions\BinanceRequestException;
-use Domain\Binance\Services\Authenticator;
+use Domain\Binance\Services\BinanceAuthenticator;
 use Illuminate\Contracts\Config\Repository;
 use Illuminate\Http\Client\PendingRequest;
 use Illuminate\Http\Client\Response;
@@ -14,7 +14,7 @@ use Illuminate\Support\Facades\Http;
 class WalletEndpoints
 {
     public function __construct(
-        private readonly Authenticator $authenticator,
+        private readonly BinanceAuthenticator $authenticator,
         private readonly Repository $config,
     ) {
     }

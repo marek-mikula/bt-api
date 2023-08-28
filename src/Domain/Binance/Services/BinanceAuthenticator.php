@@ -7,7 +7,7 @@ use Domain\Binance\Data\KeyPairData;
 use Illuminate\Http\Client\PendingRequest;
 use Illuminate\Support\Arr;
 
-class Authenticator
+class BinanceAuthenticator
 {
     public function authenticate(User|KeyPairData $via, PendingRequest $request): PendingRequest
     {

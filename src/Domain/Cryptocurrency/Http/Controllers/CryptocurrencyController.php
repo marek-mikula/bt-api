@@ -31,7 +31,7 @@ class CryptocurrencyController extends ApiController
                     'page' => $page,
                     'perPage' => $perPage,
                     'end' => $data->count() < $perPage,
-                ]
+                ],
             ],
         ]);
     }

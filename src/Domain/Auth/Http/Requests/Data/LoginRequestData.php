@@ -1,6 +1,6 @@
 <?php
 
-namespace Domain\Auth\Http\Requests;
+namespace Domain\Auth\Http\Requests\Data;
 
 use Spatie\LaravelData\Data;
 

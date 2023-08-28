@@ -3,6 +3,8 @@
 namespace Domain\Quiz\Http\Requests;
 
 use App\Http\Requests\AuthRequest;
+use Domain\Quiz\Http\Requests\Data\FinishRequestAnswerData;
+use Domain\Quiz\Http\Requests\Data\FinishRequestData;
 
 class FinishRequest extends AuthRequest
 {

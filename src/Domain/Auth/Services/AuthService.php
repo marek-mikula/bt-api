@@ -7,7 +7,7 @@ use App\Models\User;
 use App\Repositories\MfaToken\MfaTokenRepositoryInterface;
 use App\Repositories\User\UserRepositoryInterface;
 use Domain\Auth\Enums\MfaTokenTypeEnum;
-use Domain\Auth\Http\Requests\RegisterRequestData;
+use Domain\Auth\Http\Requests\Data\RegisterRequestData;
 use Domain\Auth\Notifications\RegisteredNotification;
 use Domain\Auth\Notifications\VerifyEmailNotification;
 use Illuminate\Contracts\Hashing\Hasher;
@@ -31,6 +31,7 @@ class AuthService
         $data = [
             'firstname' => $dto->firstname,
             'lastname' => $dto->lastname,
+            'birth_date' => $dto->birthDate->toDateTimeString(),
             'email' => $dto->email,
             'password' => $dto->password,
             'public_key' => $dto->publicKey,

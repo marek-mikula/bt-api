@@ -21,6 +21,9 @@ class TelescopeServiceProvider extends ServiceProvider
             'passwordConfirm',
             'publicKey',
             'secretKey',
+            'oldPassword',
+            'newPassword',
+            'newPasswordConfirm',
         ]);
 
         Telescope::hideResponseParameters([]);

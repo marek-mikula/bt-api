@@ -7,8 +7,8 @@ use App\Repositories\QuizResult\QuizResultRepositoryInterface;
 use App\Repositories\User\UserRepositoryInterface;
 use Domain\Quiz\Data\QuizAnswerData;
 use Domain\Quiz\Data\QuizQuestionData;
-use Domain\Quiz\Http\Requests\FinishRequestAnswerData;
-use Domain\Quiz\Http\Requests\FinishRequestData;
+use Domain\Quiz\Http\Requests\Data\FinishRequestAnswerData;
+use Domain\Quiz\Http\Requests\Data\FinishRequestData;
 use Illuminate\Support\Collection;
 
 class QuizService

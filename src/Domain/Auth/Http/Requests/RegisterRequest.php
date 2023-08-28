@@ -3,6 +3,7 @@
 namespace Domain\Auth\Http\Requests;
 
 use App\Models\User;
+use Domain\Auth\Http\Requests\Data\RegisterRequestData;
 use Domain\Auth\Validation\ValidateBinanceKeyPair;
 use Illuminate\Foundation\Http\FormRequest;
 use Illuminate\Validation\Rules\Password;

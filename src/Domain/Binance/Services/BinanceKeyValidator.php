@@ -1,13 +1,13 @@
 <?php
 
-namespace Domain\Auth\Services;
+namespace Domain\Binance\Services;
 
 use Domain\Binance\Data\KeyPairData;
 use Domain\Binance\Exceptions\BinanceRequestException;
 use Domain\Binance\Http\BinanceClient;
 use Illuminate\Contracts\Cache\Repository;
 
-class KeyValidator
+class BinanceKeyValidator
 {
     public function __construct(
         private readonly Repository $cache,
@@ -29,16 +29,14 @@ class KeyValidator
         $keyPair = new KeyPairData($publicKey, $secretKey);
 
         try {
-            $response = $this->binanceClient->wallet->accountStatus($keyPair);
+            return $this->binanceClient->wallet->accountStatus($keyPair)->ok();
         } catch (BinanceRequestException) {
             return false;
         }
-
-        return $response->ok();
     }
 
     private function getKey(string $publicKey, string $secretKey): string
     {
-        return md5("{$publicKey}.{$secretKey}");
+        return md5("{$publicKey}-{$secretKey}");
     }
 }
