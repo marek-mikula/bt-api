@@ -15,7 +15,7 @@ class CreateUuidTokenAction
      */
     public static function create(string $for, string $field = 'token'): string
     {
-        return self::run($for, $field);
+        return self::make()->handle($for, $field);
     }
 
     /**

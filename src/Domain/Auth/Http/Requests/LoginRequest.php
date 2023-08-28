@@ -2,6 +2,7 @@
 
 namespace Domain\Auth\Http\Requests;
 
+use Domain\Auth\Http\Requests\Data\LoginRequestData;
 use Illuminate\Foundation\Http\FormRequest;
 
 class LoginRequest extends FormRequest

@@ -158,7 +158,7 @@ class Handler extends ExceptionHandler
                     $trace['line'] ?? '',
                     $trace['function'],
                 ]))
-                ->toArray();
+                ->all();
         }
 
         // base http exception from Symphony

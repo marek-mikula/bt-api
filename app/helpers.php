@@ -16,7 +16,7 @@ if (! function_exists('__n')) {
         string $key,
         array $replace = [],
         string $locale = null
-    ): array|null|string {
+    ): array|string {
         return __("notifications.{$type->value}.{$channel}.{$key}", $replace, $locale);
     }
 }
@@ -64,5 +64,25 @@ if (! function_exists('domain_path')) {
         $path = Str::startsWith($path, '/') ? Str::after($path, '/') : $path;
 
         return base_path(empty($path) ? "src/Domain/{$domain}" : "src/Domain/{$domain}/{$path}");
+    }
+}
+
+if (! function_exists('round_up_to_nearest_multiple')) {
+    /**
+     * Rounds up $n to the nearest multiple of $multiple
+     */
+    function round_up_to_nearest_multiple(int $n, int $multiple): int
+    {
+        return (int) ($multiple * ceil($n / $multiple));
+    }
+}
+
+if (! function_exists('round_down_to_nearest_multiple')) {
+    /**
+     * Rounds down $n to the nearest multiple of $multiple
+     */
+    function round_down_to_nearest_multiple(int $n, int $multiple): int
+    {
+        return (int) ($multiple * floor($n / $multiple));
     }
 }

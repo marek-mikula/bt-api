@@ -26,7 +26,9 @@ class NewDeviceMail extends BaseMail
     public function envelope(): Envelope
     {
         return new Envelope(
-            to: $this->user->email,
+            to: [
+                $this->user->email,
+            ],
             subject: __n(NotificationTypeEnum::NEW_DEVICE, 'mail', 'subject')
         );
     }

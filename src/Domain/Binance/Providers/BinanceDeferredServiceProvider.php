@@ -4,7 +4,8 @@ namespace Domain\Binance\Providers;
 
 use Domain\Binance\Http\BinanceClient;
 use Domain\Binance\Http\Endpoints\WalletEndpoints;
-use Domain\Binance\Services\Authenticator;
+use Domain\Binance\Services\BinanceAuthenticator;
+use Domain\Binance\Services\BinanceKeyValidator;
 use Illuminate\Contracts\Support\DeferrableProvider;
 use Illuminate\Support\ServiceProvider;
 
@@ -14,13 +15,15 @@ class BinanceDeferredServiceProvider extends ServiceProvider implements Deferrab
      * @var list<class-string>
      */
     private array $services = [
+        // client
         BinanceClient::class,
 
         // endpoints
         WalletEndpoints::class,
 
         // services
-        Authenticator::class,
+        BinanceAuthenticator::class,
+        BinanceKeyValidator::class,
     ];
 
     public function register(): void

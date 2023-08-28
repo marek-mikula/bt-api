@@ -2,14 +2,14 @@
 
 namespace Domain\Auth\Validation;
 
-use Domain\Auth\Services\KeyValidator;
+use Domain\Binance\Services\BinanceKeyValidator;
 use Illuminate\Support\Arr;
 use Illuminate\Validation\Validator;
 
 class ValidateBinanceKeyPair
 {
     public function __construct(
-        private readonly KeyValidator $keyValidator,
+        private readonly BinanceKeyValidator $keyValidator,
     ) {
     }
 
@@ -18,6 +18,11 @@ class ValidateBinanceKeyPair
         [$publicKey, $secretKey] = $this->retrieveKeyPair($validator->getData());
 
         if (empty($publicKey) || empty($secretKey)) {
+            return;
+        }
+
+        // do not call API when debug mode is enabled
+        if (app()->hasDebugModeEnabled()) {
             return;
         }
 

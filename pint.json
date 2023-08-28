@@ -4,6 +4,10 @@
         "vendor",
         "bootstrap/cache",
         "storage",
-        "public"
+        "public",
+        "resources",
+        "stubs",
+        "src/Domain/Coinmarketcap/Resources",
+        "src/Domain/Coinranking/Resources"
     ]
 }

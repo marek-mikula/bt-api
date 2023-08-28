@@ -59,9 +59,13 @@ class AuthController extends ApiController
         ]);
     }
 
-    public function logout(): JsonResponse
+    public function logout(AuthRequest $request): JsonResponse
     {
         auth('api')->logout();
+
+        $request->session()->invalidate();
+
+        $request->session()->regenerateToken();
 
         return $this->sendJsonResponse(code: ResponseCodeEnum::OK);
     }

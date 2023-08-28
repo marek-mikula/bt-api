@@ -2,7 +2,7 @@
 
 namespace Domain\Dashboard\Services;
 
-use Domain\Coinmarketcap\Http\Concerns\CoinmarketcapClientInterface;
+use Domain\Coinmarketcap\Http\CoinmarketcapApi;
 use Domain\Dashboard\Data\DashboardMarketMetrics;
 use Domain\Dashboard\Data\DashboardToken;
 use Illuminate\Support\Collection;
@@ -10,7 +10,7 @@ use Illuminate\Support\Collection;
 class DashboardService
 {
     public function __construct(
-        private readonly CoinmarketcapClientInterface $client,
+        private readonly CoinmarketcapApi $coinmarketcapApi,
     ) {
     }
 
@@ -23,12 +23,11 @@ class DashboardService
     public function getCryptocurrenciesByMarketCap(int $num = 10): Collection
     {
         // get the biggest tokens by market cap
-        $tokens = $this->client->latestByCap()
-            ->collect('data')
-            ->take($num);
+        $tokens = $this->coinmarketcapApi->latestByCap(perPage: $num)
+            ->collect('data');
 
         // get metadata for each token
-        $metadata = $this->client->coinMetadata($tokens->pluck('id')->toArray())
+        $metadata = $this->coinmarketcapApi->coinMetadata($tokens->pluck('id')->toArray())
             ->collect('data');
 
         // map objects to data objects
@@ -54,21 +53,21 @@ class DashboardService
      */
     public function getLatestMarketMetrics(): DashboardMarketMetrics
     {
-        $data = $this->client->latestGlobalMetrics()
+        $data = $this->coinmarketcapApi->latestGlobalMetrics()
             ->json('data');
 
         $quoteCurrency = (string) collect($data['quote'])->keys()->first();
 
         return DashboardMarketMetrics::from([
-            'ethDominance' => floatval($data['eth_dominance']),
-            'ethDominanceYesterday' => floatval($data['eth_dominance_yesterday']),
-            'ethDominancePercentageChange' => floatval($data['eth_dominance_24h_percentage_change']),
-            'btcDominance' => floatval($data['btc_dominance']),
-            'btcDominanceYesterday' => floatval($data['btc_dominance_yesterday']),
-            'btcDominancePercentageChange' => floatval($data['btc_dominance_24h_percentage_change']),
+            'ethDominance' => floatval($data['eth_dominance']) / 100,
+            'ethDominanceYesterday' => floatval($data['eth_dominance_yesterday']) / 100,
+            'ethDominancePercentageChange' => floatval($data['eth_dominance_24h_percentage_change']) / 100,
+            'btcDominance' => floatval($data['btc_dominance']) / 100,
+            'btcDominanceYesterday' => floatval($data['btc_dominance_yesterday']) / 100,
+            'btcDominancePercentageChange' => floatval($data['btc_dominance_24h_percentage_change']) / 100,
             'totalMarketCap' => floatval($data['quote'][$quoteCurrency]['total_market_cap']),
             'totalMarketCapYesterday' => floatval($data['quote'][$quoteCurrency]['total_market_cap_yesterday']),
-            'totalMarketCapPercentageChange' => floatval($data['quote'][$quoteCurrency]['total_market_cap_yesterday_percentage_change']),
+            'totalMarketCapPercentageChange' => floatval($data['quote'][$quoteCurrency]['total_market_cap_yesterday_percentage_change']) / 100,
             'totalMarketCapCurrency' => $quoteCurrency,
         ]);
     }

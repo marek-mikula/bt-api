@@ -81,7 +81,7 @@ class MfaToken extends Model
      */
     protected function invalidated(): Attribute
     {
-        return Attribute::get(fn (): string => ! empty($this->invalidated_at));
+        return Attribute::get(fn (): bool => ! empty($this->invalidated_at));
     }
 
     /**

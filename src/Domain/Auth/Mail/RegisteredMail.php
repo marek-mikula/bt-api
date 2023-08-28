@@ -22,7 +22,9 @@ class RegisteredMail extends BaseMail
     public function envelope(): Envelope
     {
         return new Envelope(
-            to: $this->user->email,
+            to: [
+                $this->user->email,
+            ],
             subject: __n(NotificationTypeEnum::REGISTERED, 'mail', 'subject')
         );
     }
@@ -46,7 +48,7 @@ class RegisteredMail extends BaseMail
     }
 
     /**
-     * @return Attachment
+     * @return Attachment[]
      */
     public function attachments(): array
     {

@@ -3,6 +3,8 @@
 namespace Domain\Quiz\Http\Requests;
 
 use App\Http\Requests\AuthRequest;
+use Domain\Quiz\Http\Requests\Data\FinishRequestAnswerData;
+use Domain\Quiz\Http\Requests\Data\FinishRequestData;
 
 class FinishRequest extends AuthRequest
 {
@@ -28,7 +30,7 @@ class FinishRequest extends AuthRequest
     {
         return FinishRequestData::from([
             'answers' => $this->collect('answers')
-                ->map(fn (array $answer): FinishRequestAnswerData => FinishRequestAnswerData::from([
+                ->map(static fn (array $answer): FinishRequestAnswerData => FinishRequestAnswerData::from([
                     'id' => (int) $answer['id'],
                     'answer' => (int) $answer['answer'],
                 ])),

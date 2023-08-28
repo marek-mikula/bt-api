@@ -17,6 +17,7 @@ class UserResource extends JsonResource
             'id' => $this->resource->id,
             'firstname' => $this->resource->firstname,
             'lastname' => $this->resource->lastname,
+            'birthDate' => $this->resource->birth_date->toDateString(),
             'fullName' => $this->resource->full_name,
             'email' => $this->resource->email,
             'quizTaken' => $this->resource->quiz_taken,

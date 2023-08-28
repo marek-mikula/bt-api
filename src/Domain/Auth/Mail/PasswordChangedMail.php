@@ -20,7 +20,9 @@ class PasswordChangedMail extends BaseMail
     public function envelope(): Envelope
     {
         return new Envelope(
-            to: $this->user->email,
+            to: [
+                $this->user->email,
+            ],
             subject: __n(NotificationTypeEnum::PASSWORD_CHANGED, 'mail', 'subject')
         );
     }
@@ -36,7 +38,7 @@ class PasswordChangedMail extends BaseMail
     }
 
     /**
-     * @return Attachment
+     * @return Attachment[]
      */
     public function attachments(): array
     {

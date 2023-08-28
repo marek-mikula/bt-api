@@ -14,6 +14,13 @@ class UserRepository implements UserRepositoryInterface
         return $user;
     }
 
+    public function update(User $user, array $data): User
+    {
+        $user->fill($data)->save();
+
+        return $user;
+    }
+
     public function verifyEmail(User $user): User
     {
         $user->email_verified_at = now();

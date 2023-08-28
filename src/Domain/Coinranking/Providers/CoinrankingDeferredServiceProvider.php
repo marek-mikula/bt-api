@@ -2,9 +2,10 @@
 
 namespace Domain\Coinranking\Providers;
 
-use Domain\Coinranking\Http\CoinrankingClient;
-use Domain\Coinranking\Http\CoinrankingClientMock;
-use Domain\Coinranking\Http\Concerns\CoinrankingClientInterface;
+use Domain\Coinranking\Http\Client\CoinrankingClient;
+use Domain\Coinranking\Http\Client\CoinrankingClientMock;
+use Domain\Coinranking\Http\Client\Concerns\CoinrankingClientInterface;
+use Domain\Coinranking\Http\CoinrankingApi;
 use Illuminate\Contracts\Support\DeferrableProvider;
 use Illuminate\Support\ServiceProvider;
 
@@ -14,7 +15,7 @@ class CoinrankingDeferredServiceProvider extends ServiceProvider implements Defe
      * @var list<class-string>
      */
     private array $services = [
-
+        CoinrankingApi::class,
     ];
 
     public function register(): void

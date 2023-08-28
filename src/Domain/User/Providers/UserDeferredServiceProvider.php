@@ -2,6 +2,7 @@
 
 namespace Domain\User\Providers;
 
+use Domain\User\Services\UserAccountSettingsService;
 use Illuminate\Contracts\Support\DeferrableProvider;
 use Illuminate\Support\ServiceProvider;
 
@@ -10,7 +11,9 @@ class UserDeferredServiceProvider extends ServiceProvider implements DeferrableP
     /**
      * @var list<class-string>
      */
-    private array $services = [];
+    private array $services = [
+        UserAccountSettingsService::class,
+    ];
 
     public function register(): void
     {

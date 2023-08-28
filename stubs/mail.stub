@@ -29,7 +29,7 @@ class {{ class }} extends BaseMail
     }
 
     /**
-     * @return list<Attachment>
+     * @return Attachment[]
      */
     public function attachments(): array
     {
