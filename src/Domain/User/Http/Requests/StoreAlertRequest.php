@@ -24,7 +24,7 @@ class StoreAlertRequest extends AuthRequest
                 'required',
                 'string',
                 'max:500',
-            ]
+            ],
         ];
     }
 

@@ -29,13 +29,13 @@ class AddSecurityHeaders
             // - styles
             // - images
             // - etc...
-//            'Content-Security-Policy' => implode('; ', [
-//                "default-src 'none'",
-//                "img-src 'self'",
-//                "style-src 'self' 'unsafe-inline' fonts.bunny.net",
-//                "font-src 'self' fonts.bunny.net",
-//                "script-src 'self' 'unsafe-inline'",
-//            ]),
+            //            'Content-Security-Policy' => implode('; ', [
+            //                "default-src 'none'",
+            //                "img-src 'self'",
+            //                "style-src 'self' 'unsafe-inline' fonts.bunny.net",
+            //                "font-src 'self' fonts.bunny.net",
+            //                "script-src 'self' 'unsafe-inline'",
+            //            ]),
 
             // Use strictly HTTPS to access the API
             //

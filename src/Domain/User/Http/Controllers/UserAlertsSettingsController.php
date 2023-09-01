@@ -41,7 +41,7 @@ class UserAlertsSettingsController extends ApiController
     public function delete(Alert $alert): JsonResponse
     {
         return $this->sendJsonResponse(code: ResponseCodeEnum::OK, data: [
-            'state' => $alert->delete()
+            'state' => $alert->delete(),
         ]);
     }
 }
