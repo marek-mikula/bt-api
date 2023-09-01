@@ -23,7 +23,7 @@ return [
      * object from simple types.
      */
     'casts' => [
-        DateTimeInterface::class => Spatie\LaravelData\Casts\DateTimeInterfaceCast::class,
+        DateTimeInterface::class => App\Data\Casts\DateTimeInterfaceCast::class,
         BackedEnum::class => Spatie\LaravelData\Casts\EnumCast::class,
     ],
 

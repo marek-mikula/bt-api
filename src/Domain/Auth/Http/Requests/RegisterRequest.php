@@ -3,6 +3,7 @@
 namespace Domain\Auth\Http\Requests;
 
 use App\Models\User;
+use App\Rules\AgeRule;
 use Domain\Auth\Http\Requests\Data\RegisterRequestData;
 use Domain\Auth\Validation\ValidateBinanceKeyPair;
 use Illuminate\Foundation\Http\FormRequest;
@@ -35,7 +36,7 @@ class RegisterRequest extends FormRequest
                 'required',
                 'string',
                 'date',
-                'before:today',
+                new AgeRule(18),
             ],
             'password' => [
                 'required',

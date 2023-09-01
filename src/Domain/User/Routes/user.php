@@ -1,8 +1,8 @@
 <?php
 
 use Domain\User\Http\Controllers\UserAccountSettingsController;
+use Domain\User\Http\Controllers\UserAlertsSettingsController;
 use Domain\User\Http\Controllers\UserNotificationController;
-use Domain\User\Http\Controllers\UserSettingsController;
 use Illuminate\Support\Facades\Route;
 
 Route::group(['middleware' => ['auth:sanctum']], static function (): void {
@@ -29,10 +29,16 @@ Route::group(['middleware' => ['auth:sanctum']], static function (): void {
                 ->name('save_keys');
         });
 
-        Route::post('/save-notifications', [UserSettingsController::class, 'saveNotifications'])
-            ->name('save_notifications');
+        Route::group(['prefix' => '/alerts', 'as' => 'alerts.'], static function (): void {
+            Route::get('/', [UserAlertsSettingsController::class, 'index'])
+                ->name('index');
 
-        Route::post('/save-limits', [UserSettingsController::class, 'saveLimits'])
-            ->name('save_limits');
+            Route::post('/', [UserAlertsSettingsController::class, 'store'])
+                ->name('store');
+
+            Route::delete('/{alert}', [UserAlertsSettingsController::class, 'delete'])
+                ->whereNumber('alert')
+                ->name('delete');
+        });
     });
 });
