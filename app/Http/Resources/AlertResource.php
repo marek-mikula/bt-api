@@ -16,6 +16,7 @@ class AlertResource extends JsonResource
         return [
             'id' => $this->resource->id,
             'userId' => $this->resource->user_id,
+            'title' => $this->resource->title,
             'content' => $this->resource->content,
             'date' => $this->resource->date_at->format('Y-m-d'),
             'time' => $this->resource->time_at?->format('H:i'),

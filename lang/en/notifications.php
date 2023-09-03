@@ -88,7 +88,7 @@ return [
     // alerts
     NotificationTypeEnum::ALERT->value => [
         'database' => [
-            'title' => 'Alert',
+            'title' => ':title',
             'body' => ':content',
         ],
     ],

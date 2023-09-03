@@ -10,6 +10,7 @@ use Spatie\LaravelData\Data;
 class StoreAlertRequestData extends Data
 {
     public function __construct(
+        public readonly string $title,
         #[WithCast(
             DateTimeInterfaceCast::class,
             format: 'Y-m-d',
@@ -23,7 +24,7 @@ class StoreAlertRequestData extends Data
             nullable: true
         )]
         public readonly ?Carbon $time,
-        public readonly string $content,
+        public readonly ?string $content,
     ) {
     }
 }

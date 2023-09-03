@@ -18,6 +18,7 @@ class UserAlertsSettingsService
     {
         return $this->alertRepository->create([
             'user_id' => $user->id,
+            'title' => $data->title,
             'content' => $data->content,
             'date_at' => $data->date->format('Y-m-d'),
             'time_at' => $data->time?->setSeconds(0)?->format('H:i'),

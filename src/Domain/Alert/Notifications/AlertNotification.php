@@ -28,10 +28,14 @@ class AlertNotification extends BaseNotification
     public function toDatabase(User $notifiable): array
     {
         return DatabaseNotification::create(NotificationTypeEnum::ALERT)
-            ->title('title')
-            ->body('body', [
-                'content' => $this->alert->content,
+            ->title('title', [
+                'title' => $this->alert->title,
             ])
+            ->when(! empty($this->alert->content), function (DatabaseNotification $notification): void {
+                $notification->body('body', [
+                    'content' => $this->alert->content,
+                ]);
+            })
             ->input([
                 'alertId' => $this->alert->id,
             ])

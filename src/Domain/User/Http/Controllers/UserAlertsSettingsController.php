@@ -4,6 +4,7 @@ namespace Domain\User\Http\Controllers;
 
 use App\Enums\ResponseCodeEnum;
 use App\Http\Controllers\ApiController;
+use App\Http\Requests\AuthRequest;
 use App\Http\Resources\AlertResource;
 use App\Http\Resources\AlertResourceCollection;
 use App\Models\Alert;
@@ -20,9 +21,11 @@ class UserAlertsSettingsController extends ApiController
     ) {
     }
 
-    public function index(): JsonResponse
+    public function index(AuthRequest $request): JsonResponse
     {
-        $alerts = $this->alertRepository->index();
+        $activeOnly = (bool) $request->get('activeOnly', false);
+
+        $alerts = $this->alertRepository->index($activeOnly);
 
         return $this->sendJsonResponse(code: ResponseCodeEnum::OK, data: [
             'alerts' => new AlertResourceCollection($alerts),

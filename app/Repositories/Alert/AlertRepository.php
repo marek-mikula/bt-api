@@ -4,16 +4,20 @@ namespace App\Repositories\Alert;
 
 use App\Models\Alert;
 use App\Models\User;
+use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Support\Collection;
 
 class AlertRepository implements AlertRepositoryInterface
 {
-    public function index(): Collection
+    public function index(bool $activeOnly = false): Collection
     {
         return Alert::query()
             ->orderBy('notified_at')
             ->orderBy('date_at')
             ->orderBy('time_at')
+            ->when($activeOnly, function (Builder $query): void {
+                $query->whereNull('notified_at');
+            })
             ->get();
     }
 

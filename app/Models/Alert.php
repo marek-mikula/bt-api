@@ -11,7 +11,8 @@ use Illuminate\Database\Eloquent\Relations\BelongsTo;
 /**
  * @property-read int $id
  * @property int $user_id
- * @property string $content
+ * @property string $title
+ * @property string|null $content
  * @property Carbon $date_at
  * @property Carbon|null $time_at
  * @property Carbon|null $notified_at
@@ -32,6 +33,7 @@ class Alert extends Model
 
     protected $fillable = [
         'user_id',
+        'title',
         'content',
         'date_at',
         'time_at',

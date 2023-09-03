@@ -11,7 +11,7 @@ interface AlertRepositoryInterface
     /**
      * @return Collection<Alert>
      */
-    public function index(): Collection;
+    public function index(bool $activeOnly = false): Collection;
 
     public function create(array $data): Alert;
 

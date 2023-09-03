@@ -11,7 +11,8 @@ return new class extends Migration
         Schema::create('alerts', function (Blueprint $table) {
             $table->id();
             $table->foreignId('user_id');
-            $table->mediumText('content');
+            $table->string('title');
+            $table->mediumText('content')->nullable();
             $table->date('date_at');
             $table->time('time_at')->nullable();
             $table->timestamp('notified_at')->nullable();

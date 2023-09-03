@@ -11,6 +11,11 @@ class StoreAlertRequest extends AuthRequest
     public function rules(): array
     {
         return [
+            'title' => [
+                'required',
+                'string',
+                'max:255',
+            ],
             'date' => [
                 'required',
                 'string',
@@ -22,7 +27,7 @@ class StoreAlertRequest extends AuthRequest
                 'date_format:H:i',
             ],
             'content' => [
-                'required',
+                'nullable',
                 'string',
                 'max:500',
             ],
@@ -39,9 +44,10 @@ class StoreAlertRequest extends AuthRequest
     public function toData(): StoreAlertRequestData
     {
         return StoreAlertRequestData::from([
+            'title' => (string) $this->input('title'),
             'date' => (string) $this->input('date'),
             'time' => $this->has('time') ? (string) $this->input('time') : null,
-            'content' => (string) $this->input('content'),
+            'content' => $this->has('content') ? (string) $this->input('content') : null,
         ]);
     }
 }
