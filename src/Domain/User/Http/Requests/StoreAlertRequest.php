@@ -4,6 +4,7 @@ namespace Domain\User\Http\Requests;
 
 use App\Http\Requests\AuthRequest;
 use Domain\User\Http\Requests\Data\StoreAlertRequestData;
+use Domain\User\Validation\ValidateAlertDatetime;
 
 class StoreAlertRequest extends AuthRequest
 {
@@ -25,6 +26,13 @@ class StoreAlertRequest extends AuthRequest
                 'string',
                 'max:500',
             ],
+        ];
+    }
+
+    public function after(): array
+    {
+        return [
+            app(ValidateAlertDatetime::class),
         ];
     }
 

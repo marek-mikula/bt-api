@@ -20,7 +20,7 @@ class UserAlertsSettingsService
             'user_id' => $user->id,
             'content' => $data->content,
             'date_at' => $data->date->format('Y-m-d'),
-            'time_at' => $data->time?->format('H:i'),
+            'time_at' => $data->time?->setSeconds(0)?->format('H:i'),
         ]);
     }
 }

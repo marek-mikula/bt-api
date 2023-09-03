@@ -3,6 +3,7 @@
 namespace Domain\User\Http\Requests;
 
 use App\Http\Requests\AuthRequest;
+use App\Rules\AgeRule;
 use Domain\User\Http\Requests\Data\SaveAccountPersonalRequestData;
 
 class SaveAccountPersonalRequest extends AuthRequest
@@ -23,8 +24,8 @@ class SaveAccountPersonalRequest extends AuthRequest
             'birthDate' => [
                 'required',
                 'string',
-                'date',
-                'before:today',
+                'date_format:Y-m-d',
+                new AgeRule(18),
             ],
         ];
     }

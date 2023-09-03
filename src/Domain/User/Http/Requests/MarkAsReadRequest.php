@@ -61,7 +61,7 @@ class MarkAsReadRequest extends AuthRequest
 
     public function getUuid(): ?string
     {
-        return $this->shouldMarkAll() ? null : $this->string('uuid');
+        return $this->shouldMarkAll() ? null : (string) $this->input('uuid');
     }
 
     public function getNotification(): Notification

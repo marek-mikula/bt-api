@@ -3,7 +3,6 @@
 namespace App\Rules;
 
 use Carbon\Carbon;
-use Carbon\Exceptions\InvalidFormatException;
 use Closure;
 use Illuminate\Contracts\Validation\ValidationRule;
 
@@ -19,13 +18,9 @@ class AgeRule implements ValidationRule
             return;
         }
 
-        try {
-            $value = Carbon::make($value)->startOfDay();
-        } catch (InvalidFormatException) {
-            return;
-        }
+        $value = Carbon::createFromFormat('Y-m-d', $value)->startOfDay();
 
-        $passes = Carbon::now()
+        $passes = now()
             ->startOfDay()
             ->subYears($this->age)
             ->gte($value);

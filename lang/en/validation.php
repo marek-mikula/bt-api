@@ -165,10 +165,16 @@ return [
 
     'custom' => [
         'publicKey' => [
-            'validity' => 'The :attribute is not a valid Binance public key.',
+            'binance_key_validity' => 'The :attribute is not a valid Binance public key.',
         ],
         'secretKey' => [
-            'validity' => 'The :attribute is not a valid Binance secret key.',
+            'binance_key_validity' => 'The :attribute is not a valid Binance secret key.',
+        ],
+        'date' => [
+            'alert_validity' => 'Alert validity must be in the future.',
+        ],
+        'time' => [
+            'alert_validity' => 'Alert validity must be in the future.',
         ],
     ],
 

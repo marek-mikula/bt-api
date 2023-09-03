@@ -35,7 +35,7 @@ class RegisterRequest extends FormRequest
             'birthDate' => [
                 'required',
                 'string',
-                'date',
+                'date_format:Y-m-d',
                 new AgeRule(18),
             ],
             'password' => [

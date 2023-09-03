@@ -15,6 +15,7 @@ return new class extends Migration
             $table->date('date_at');
             $table->time('time_at')->nullable();
             $table->timestamp('notified_at')->nullable();
+            $table->timestamp('queued_at')->nullable();
             $table->timestamps();
 
             $table->foreign('user_id')
