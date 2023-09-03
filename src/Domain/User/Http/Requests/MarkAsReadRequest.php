@@ -4,6 +4,7 @@ namespace Domain\User\Http\Requests;
 
 use App\Http\Requests\AuthRequest;
 use App\Models\Notification;
+use App\Models\User;
 use App\Repositories\Notification\NotificationRepositoryInterface;
 use LogicException;
 
@@ -56,7 +57,7 @@ class MarkAsReadRequest extends AuthRequest
      */
     public function shouldMarkAll(): bool
     {
-        return ! $this->has('uuid');
+        return ! $this->filled('uuid');
     }
 
     public function getUuid(): ?string

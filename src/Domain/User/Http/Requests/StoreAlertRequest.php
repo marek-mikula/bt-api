@@ -46,8 +46,8 @@ class StoreAlertRequest extends AuthRequest
         return StoreAlertRequestData::from([
             'title' => (string) $this->input('title'),
             'date' => (string) $this->input('date'),
-            'time' => $this->has('time') ? (string) $this->input('time') : null,
-            'content' => $this->has('content') ? (string) $this->input('content') : null,
+            'time' => $this->filled('time') ? (string) $this->input('time') : null,
+            'content' => $this->filled('content') ? (string) $this->input('content') : null,
         ]);
     }
 }

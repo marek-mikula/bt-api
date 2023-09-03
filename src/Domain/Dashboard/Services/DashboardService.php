@@ -27,7 +27,7 @@ class DashboardService
             ->collect('data');
 
         // get metadata for each token
-        $metadata = $this->coinmarketcapApi->coinMetadata($tokens->pluck('id')->toArray())
+        $metadata = $this->coinmarketcapApi->coinMetadata($tokens->pluck('id')->all())
             ->collect('data');
 
         // map objects to data objects

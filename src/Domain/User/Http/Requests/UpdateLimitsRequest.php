@@ -37,7 +37,7 @@ class UpdateLimitsRequest extends AuthRequest
             'cryptocurrency.min' => [
                 'nullable',
                 'integer',
-                'let:cryptocurrency.max',
+                'lte:cryptocurrency.max',
             ],
             'cryptocurrency.max' => [
                 'nullable',
@@ -58,6 +58,7 @@ class UpdateLimitsRequest extends AuthRequest
             ],
             'marketCap.micro' => [
                 'required_if:marketCap.microEnabled,1',
+                'nullable',
                 'integer',
                 'between:0,100',
             ],
@@ -67,6 +68,7 @@ class UpdateLimitsRequest extends AuthRequest
             ],
             'marketCap.small' => [
                 'required_if:marketCap.smallEnabled,1',
+                'nullable',
                 'integer',
                 'between:0,100',
             ],
@@ -76,6 +78,7 @@ class UpdateLimitsRequest extends AuthRequest
             ],
             'marketCap.mid' => [
                 'required_if:marketCap.midEnabled,1',
+                'nullable',
                 'integer',
                 'between:0,100',
             ],
@@ -85,6 +88,7 @@ class UpdateLimitsRequest extends AuthRequest
             ],
             'marketCap.large' => [
                 'required_if:marketCap.largeEnabled,1',
+                'nullable',
                 'integer',
                 'between:0,100',
             ],
@@ -94,6 +98,7 @@ class UpdateLimitsRequest extends AuthRequest
             ],
             'marketCap.mega' => [
                 'required_if:marketCap.megaEnabled,1',
+                'nullable',
                 'integer',
                 'between:0,100',
             ],
@@ -110,25 +115,25 @@ class UpdateLimitsRequest extends AuthRequest
     public function toData(): UpdateLimitsRequestData
     {
         return UpdateLimitsRequestData::from([
-            'tradeEnabled' => $this->boolean('tradeEnabled'),
-            'tradeDaily' => $this->integer('tradeDaily', null),
-            'tradeWeekly' => $this->integer('tradeWeekly', null),
-            'tradeMonthly' => $this->integer('tradeMonthly', null),
-            'cryptocurrencyEnabled' => $this->boolean('cryptocurrencyEnabled'),
-            'cryptocurrencyMin' => $this->integer('cryptocurrencyMin', null),
-            'cryptocurrencyMax' => $this->integer('cryptocurrencyMax', null),
-            'marketCapEnabled' => $this->boolean('marketCapEnabled'),
-            'marketCapMargin' => $this->integer('marketCapMargin', null),
-            'marketCapMicroEnabled' => $this->boolean('marketCapMicroEnabled'),
-            'marketCapMicro' => $this->integer('marketCapMicro', null),
-            'marketCapSmallEnabled' => $this->boolean('marketCapSmallEnabled'),
-            'marketCapSmall' => $this->integer('marketCapSmall', null),
-            'marketCapMidEnabled' => $this->boolean('marketCapMidEnabled'),
-            'marketCapMid' => $this->integer('marketCapMid', null),
-            'marketCapLargeEnabled' => $this->boolean('marketCapLargeEnabled'),
-            'marketCapLarge' => $this->integer('marketCapLarge', null),
-            'marketCapMegaEnabled' => $this->boolean('marketCapMegaEnabled'),
-            'marketCapMega' => $this->integer('marketCapMega', null),
+            'tradeEnabled' => $this->boolean('trade.enabled'),
+            'tradeDaily' => $this->filled('trade.daily') ? (int) $this->input('trade.daily') : null,
+            'tradeWeekly' => $this->filled('trade.weekly') ? (int) $this->input('trade.weekly') : null,
+            'tradeMonthly' => $this->filled('trade.monthly') ? (int) $this->input('trade.monthly') : null,
+            'cryptocurrencyEnabled' => $this->boolean('cryptocurrency.enabled'),
+            'cryptocurrencyMin' => $this->filled('cryptocurrency.min') ? (int) $this->input('cryptocurrency.min') : null,
+            'cryptocurrencyMax' => $this->filled('cryptocurrency.max') ? (int) $this->input('cryptocurrency.max') : null,
+            'marketCapEnabled' => $this->boolean('marketCap.enabled'),
+            'marketCapMargin' => $this->filled('marketCap.margin') ? (int) $this->input('marketCap.margin') : null,
+            'marketCapMicroEnabled' => $this->boolean('marketCap.microEnabled'),
+            'marketCapMicro' => $this->filled('marketCap.micro') ? (int) $this->input('marketCap.micro') : null,
+            'marketCapSmallEnabled' => $this->boolean('marketCap.smallEnabled'),
+            'marketCapSmall' => $this->filled('marketCap.small') ? (int) $this->input('marketCap.small') : null,
+            'marketCapMidEnabled' => $this->boolean('marketCap.midEnabled'),
+            'marketCapMid' => $this->filled('marketCap.mid') ? (int) $this->input('marketCap.mid') : null,
+            'marketCapLargeEnabled' => $this->boolean('marketCap.largeEnabled'),
+            'marketCapLarge' => $this->filled('marketCap.large') ? (int) $this->input('marketCap.large') : null,
+            'marketCapMegaEnabled' => $this->boolean('marketCap.megaEnabled'),
+            'marketCapMega' => $this->filled('marketCap.mega') ? (int) $this->input('marketCap.mega') : null,
         ]);
     }
 }

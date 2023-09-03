@@ -6,11 +6,14 @@ use App\Models\MfaToken;
 use App\Models\User;
 use App\Notifications\BaseNotification;
 use Domain\Auth\Mail\VerifyEmailMail;
+use Illuminate\Queue\Attributes\WithoutRelations;
 
 class VerifyEmailNotification extends BaseNotification
 {
-    public function __construct(private readonly MfaToken $mfaToken)
-    {
+    public function __construct(
+        #[WithoutRelations]
+        private readonly MfaToken $mfaToken
+    ) {
         parent::__construct();
     }
 

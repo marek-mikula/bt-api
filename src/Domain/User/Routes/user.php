@@ -2,6 +2,7 @@
 
 use Domain\User\Http\Controllers\UserAccountSettingsController;
 use Domain\User\Http\Controllers\UserAlertsSettingsController;
+use Domain\User\Http\Controllers\UserLimitsSettingsController;
 use Domain\User\Http\Controllers\UserNotificationController;
 use Illuminate\Support\Facades\Route;
 
@@ -39,6 +40,11 @@ Route::group(['middleware' => ['auth:sanctum']], static function (): void {
             Route::delete('/{alert}', [UserAlertsSettingsController::class, 'delete'])
                 ->whereNumber('alert')
                 ->name('delete');
+        });
+
+        Route::group(['prefix' => '/limits', 'as' => 'limits.'], static function (): void {
+            Route::patch('/', [UserLimitsSettingsController::class, 'update'])
+                ->name('update');
         });
     });
 });

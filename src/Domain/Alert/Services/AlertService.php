@@ -30,7 +30,8 @@ class AlertService
             return;
         }
 
-        $ids = $query->pluck('id')->toArray();
+        /** @var non-empty-list<int> $ids */
+        $ids = $query->pluck('id')->all();
 
         // mark alerts as queued
         Alert::query()

@@ -42,6 +42,9 @@ class Alert extends Model
     ];
 
     protected $casts = [
+        'user_id' => 'integer',
+        'title' => 'string',
+        'content' => 'string',
         'date_at' => 'datetime:Y-m-d',
         'time_at' => 'datetime:H:i',
         'notified_at' => 'datetime:Y-m-d H:i:s',

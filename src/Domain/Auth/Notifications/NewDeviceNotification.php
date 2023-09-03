@@ -9,14 +9,17 @@ use App\Models\User;
 use App\Notifications\BaseNotification;
 use Carbon\Carbon;
 use Domain\Auth\Mail\NewDeviceMail;
+use Illuminate\Queue\Attributes\WithoutRelations;
 use Rappasoft\LaravelAuthenticationLog\Models\AuthenticationLog;
 
 class NewDeviceNotification extends BaseNotification
 {
     use DateTimeFormatter;
 
-    public function __construct(private readonly AuthenticationLog $authenticationLog)
-    {
+    public function __construct(
+        #[WithoutRelations]
+        private readonly AuthenticationLog $authenticationLog
+    ) {
         parent::__construct();
     }
 

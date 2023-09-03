@@ -6,11 +6,14 @@ use App\Models\MfaToken;
 use App\Models\User;
 use App\Notifications\BaseNotification;
 use Domain\Auth\Mail\ResetPasswordMail;
+use Illuminate\Queue\Attributes\WithoutRelations;
 
 class ResetPasswordNotification extends BaseNotification
 {
-    public function __construct(private readonly MfaToken $mfaToken)
-    {
+    public function __construct(
+        #[WithoutRelations]
+        private readonly MfaToken $mfaToken
+    ) {
         parent::__construct();
     }
 
