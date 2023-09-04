@@ -25,6 +25,8 @@ class StoreAlertRequestData extends Data
         )]
         public readonly ?Carbon $time,
         public readonly ?string $content,
+        public readonly bool $asMail,
+        public readonly bool $asNotification,
     ) {
     }
 }

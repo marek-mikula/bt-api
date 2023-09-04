@@ -11,6 +11,8 @@ use Illuminate\Database\Eloquent\Relations\BelongsTo;
 /**
  * @property-read int $id
  * @property int $user_id
+ * @property bool $as_mail
+ * @property bool $as_notification
  * @property string $title
  * @property string|null $content
  * @property Carbon $date_at
@@ -33,6 +35,8 @@ class Alert extends Model
 
     protected $fillable = [
         'user_id',
+        'as_mail',
+        'as_notification',
         'title',
         'content',
         'date_at',
@@ -41,8 +45,15 @@ class Alert extends Model
         'queued_at',
     ];
 
+    protected $attributes = [
+        'as_mail' => false,
+        'as_notification' => false,
+    ];
+
     protected $casts = [
         'user_id' => 'integer',
+        'as_mail' => 'boolean',
+        'as_notification' => 'boolean',
         'title' => 'string',
         'content' => 'string',
         'date_at' => 'datetime:Y-m-d',

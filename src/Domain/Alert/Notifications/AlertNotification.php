@@ -7,6 +7,7 @@ use App\Enums\NotificationTypeEnum;
 use App\Models\Alert;
 use App\Models\User;
 use App\Notifications\BaseNotification;
+use Domain\Alert\Mail\AlertMail;
 use Illuminate\Queue\Attributes\WithoutRelations;
 
 class AlertNotification extends BaseNotification
@@ -20,9 +21,22 @@ class AlertNotification extends BaseNotification
 
     public function via(User $notifiable): array
     {
-        return [
-            'database',
-        ];
+        $channels = [];
+
+        if ($this->alert->as_mail) {
+            $channels[] = 'mail';
+        }
+
+        if ($this->alert->as_notification) {
+            $channels[] = 'database';
+        }
+
+        return $channels;
+    }
+
+    public function toMail(User $notifiable): AlertMail
+    {
+        return new AlertMail($notifiable, $this->alert);
     }
 
     public function toDatabase(User $notifiable): array

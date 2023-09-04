@@ -11,6 +11,8 @@ return new class extends Migration
         Schema::create('alerts', function (Blueprint $table) {
             $table->id();
             $table->foreignId('user_id');
+            $table->boolean('as_mail')->default(false);
+            $table->boolean('as_notification')->default(false);
             $table->string('title');
             $table->mediumText('content')->nullable();
             $table->date('date_at');
