@@ -4,6 +4,8 @@ namespace Domain\User\Http\Controllers;
 
 use App\Enums\ResponseCodeEnum;
 use App\Http\Controllers\ApiController;
+use App\Http\Requests\AuthRequest;
+use App\Http\Resources\LimitsResource;
 use Domain\User\Http\Requests\UpdateLimitsRequest;
 use Domain\User\Services\UserLimitsSettingsService;
 use Illuminate\Http\JsonResponse;
@@ -15,9 +17,13 @@ class UserLimitsSettingsController extends ApiController
     ) {
     }
 
-    public function show(): JsonResponse
+    public function show(AuthRequest $request): JsonResponse
     {
-        return $this->sendJsonResponse(code: ResponseCodeEnum::OK);
+        $limits = $this->service->show($request->user('api'));
+
+        return $this->sendJsonResponse(code: ResponseCodeEnum::OK, data: [
+            'limits' => new LimitsResource($limits),
+        ]);
     }
 
     public function update(UpdateLimitsRequest $request): JsonResponse

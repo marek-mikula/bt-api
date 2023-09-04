@@ -43,6 +43,9 @@ Route::group(['middleware' => ['auth:sanctum']], static function (): void {
         });
 
         Route::group(['prefix' => '/limits', 'as' => 'limits.'], static function (): void {
+            Route::get('/', [UserLimitsSettingsController::class, 'show'])
+                ->name('show');
+
             Route::patch('/', [UserLimitsSettingsController::class, 'update'])
                 ->name('update');
         });
