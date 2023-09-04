@@ -10,6 +10,7 @@ use Carbon\Carbon;
 use Illuminate\Mail\Mailables\Attachment;
 use Illuminate\Mail\Mailables\Content;
 use Illuminate\Mail\Mailables\Envelope;
+use Illuminate\Queue\Attributes\WithoutRelations;
 use Rappasoft\LaravelAuthenticationLog\Models\AuthenticationLog;
 
 class NewDeviceMail extends BaseMail
@@ -17,7 +18,9 @@ class NewDeviceMail extends BaseMail
     use DateTimeFormatter;
 
     public function __construct(
+        #[WithoutRelations]
         private readonly User $user,
+        #[WithoutRelations]
         private readonly AuthenticationLog $log
     ) {
         parent::__construct();

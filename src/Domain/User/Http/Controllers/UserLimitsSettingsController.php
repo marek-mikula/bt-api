@@ -26,7 +26,7 @@ class UserLimitsSettingsController extends ApiController
             'lock' => [
                 'enabled' => $limits->canBeUpdated(),
                 'resetAt' => $limits->getResetTime()->toIso8601String(),
-            ]
+            ],
         ]);
     }
 
@@ -41,7 +41,7 @@ class UserLimitsSettingsController extends ApiController
             'lock' => [
                 'enabled' => $limits->canBeUpdated(),
                 'resetAt' => $limits->getResetTime()->toIso8601String(),
-            ]
+            ],
         ]);
     }
 }

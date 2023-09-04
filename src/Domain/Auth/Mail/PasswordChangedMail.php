@@ -8,10 +8,12 @@ use App\Models\User;
 use Illuminate\Mail\Mailables\Attachment;
 use Illuminate\Mail\Mailables\Content;
 use Illuminate\Mail\Mailables\Envelope;
+use Illuminate\Queue\Attributes\WithoutRelations;
 
 class PasswordChangedMail extends BaseMail
 {
     public function __construct(
+        #[WithoutRelations]
         private readonly User $user,
     ) {
         parent::__construct();

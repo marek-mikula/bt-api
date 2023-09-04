@@ -87,6 +87,12 @@ return [
 
     // alerts
     NotificationTypeEnum::ALERT->value => [
+        'mail' => [
+            'subject' => 'Alert - :title',
+            'body' => [
+                'line1' => 'We would like to inform you that your requested alert ":title" just got triggered.',
+            ],
+        ],
         'database' => [
             'title' => ':title',
             'body' => ':content',

@@ -16,6 +16,8 @@ class AlertResource extends JsonResource
         return [
             'id' => $this->resource->id,
             'userId' => $this->resource->user_id,
+            'asMail' => $this->resource->as_mail,
+            'asNotification' => $this->resource->as_notification,
             'title' => $this->resource->title,
             'content' => $this->resource->content,
             'date' => $this->resource->date_at->format('Y-m-d'),

@@ -18,6 +18,8 @@ class UserAlertsSettingsService
     {
         return $this->alertRepository->create([
             'user_id' => $user->id,
+            'as_mail' => $data->asMail,
+            'as_notification' => $data->asNotification,
             'title' => $data->title,
             'content' => $data->content,
             'date_at' => $data->date->format('Y-m-d'),

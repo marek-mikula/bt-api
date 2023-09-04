@@ -1,23 +1,23 @@
 <?php
 
-namespace Domain\Auth\Mail;
+namespace Domain\Alert\Mail;
 
 use App\Enums\NotificationTypeEnum;
 use App\Mail\BaseMail;
-use App\Models\MfaToken;
+use App\Models\Alert;
 use App\Models\User;
 use Illuminate\Mail\Mailables\Attachment;
 use Illuminate\Mail\Mailables\Content;
 use Illuminate\Mail\Mailables\Envelope;
 use Illuminate\Queue\Attributes\WithoutRelations;
 
-class ResetPasswordMail extends BaseMail
+class AlertMail extends BaseMail
 {
     public function __construct(
         #[WithoutRelations]
         private readonly User $user,
         #[WithoutRelations]
-        private readonly MfaToken $mfaToken,
+        private readonly Alert $alert,
     ) {
         parent::__construct();
     }
@@ -28,24 +28,19 @@ class ResetPasswordMail extends BaseMail
             to: [
                 $this->user->email,
             ],
-            subject: __n(NotificationTypeEnum::RESET_PASSWORD, 'mail', 'subject')
+            subject: __n(NotificationTypeEnum::ALERT, 'mail', 'subject', [
+                'title' => $this->alert->title,
+            ])
         );
     }
 
     public function content(): Content
     {
-        // create URL address to frontend app
-        $url = frontend_link('mfa/password-reset?token=%s', [
-            $this->mfaToken->secret_token,
-        ]);
-
         return new Content(
-            markdown: 'auth::mail.reset-password',
+            markdown: 'alert::mail.alert',
             with: [
                 'user' => $this->user,
-                'url' => $url,
-                'code' => $this->mfaToken->code,
-                'validity' => $this->mfaToken->formatValidUntil(),
+                'alert' => $this->alert,
             ]
         );
     }

@@ -9,11 +9,14 @@ use App\Models\User;
 use Illuminate\Mail\Mailables\Attachment;
 use Illuminate\Mail\Mailables\Content;
 use Illuminate\Mail\Mailables\Envelope;
+use Illuminate\Queue\Attributes\WithoutRelations;
 
 class VerifyEmailMail extends BaseMail
 {
     public function __construct(
+        #[WithoutRelations]
         private readonly User $user,
+        #[WithoutRelations]
         private readonly MfaToken $mfaToken,
     ) {
         parent::__construct();

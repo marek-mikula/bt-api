@@ -4,6 +4,7 @@ namespace Domain\User\Http\Requests;
 
 use App\Http\Requests\AuthRequest;
 use Domain\User\Http\Requests\Data\StoreAlertRequestData;
+use Domain\User\Validation\ValidateAlertChannels;
 use Domain\User\Validation\ValidateAlertDatetime;
 
 class StoreAlertRequest extends AuthRequest
@@ -31,6 +32,14 @@ class StoreAlertRequest extends AuthRequest
                 'string',
                 'max:500',
             ],
+            'asMail' => [
+                'required',
+                'boolean',
+            ],
+            'asNotification' => [
+                'required',
+                'boolean',
+            ],
         ];
     }
 
@@ -38,6 +47,7 @@ class StoreAlertRequest extends AuthRequest
     {
         return [
             app(ValidateAlertDatetime::class),
+            app(ValidateAlertChannels::class),
         ];
     }
 
@@ -48,6 +58,8 @@ class StoreAlertRequest extends AuthRequest
             'date' => (string) $this->input('date'),
             'time' => $this->filled('time') ? (string) $this->input('time') : null,
             'content' => $this->filled('content') ? (string) $this->input('content') : null,
+            'asMail' => $this->boolean('asMail'),
+            'asNotification' => $this->boolean('asNotification'),
         ]);
     }
 }

@@ -176,6 +176,12 @@ return [
         'time' => [
             'alert_validity' => 'Alert validity must be in the future.',
         ],
+        'asMail' => [
+            'alert_channel' => 'At least one channel must be allowed.',
+        ],
+        'asNotification' => [
+            'alert_channel' => 'At least one channel must be allowed.',
+        ],
     ],
 
     /*

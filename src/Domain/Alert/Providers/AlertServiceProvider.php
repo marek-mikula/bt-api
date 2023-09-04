@@ -19,6 +19,8 @@ class AlertServiceProvider extends ServiceProvider
             $this->bootCommands();
             $this->bootSchedule();
         }
+
+        $this->loadViewsFrom(__DIR__.'/../Resources/views', 'alert');
     }
 
     private function bootCommands(): void
