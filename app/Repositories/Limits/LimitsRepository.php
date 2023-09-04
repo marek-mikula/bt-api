@@ -18,6 +18,12 @@ class LimitsRepository implements LimitsRepositoryInterface
     {
         $limits->fill($data)->save();
 
+        // if model has not been modified by
+        // data => just update the timestamps
+        if (! $limits->isDirty()) {
+            $limits->touch();
+        }
+
         return $limits;
     }
 }

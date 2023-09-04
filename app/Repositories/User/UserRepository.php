@@ -18,6 +18,12 @@ class UserRepository implements UserRepositoryInterface
     {
         $user->fill($data)->save();
 
+        // if model has not been modified by
+        // data => just update the timestamps
+        if (! $user->isDirty()) {
+            $user->touch();
+        }
+
         return $user;
     }
 

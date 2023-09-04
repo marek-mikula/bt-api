@@ -23,6 +23,10 @@ class UserLimitsSettingsController extends ApiController
 
         return $this->sendJsonResponse(code: ResponseCodeEnum::OK, data: [
             'limits' => new LimitsResource($limits),
+            'lock' => [
+                'enabled' => $limits->canBeUpdated(),
+                'resetAt' => $limits->getResetTime()->toIso8601String(),
+            ]
         ]);
     }
 
@@ -30,8 +34,14 @@ class UserLimitsSettingsController extends ApiController
     {
         $user = $request->user('api');
 
-        $this->service->update($user, $request->toData());
+        $limits = $this->service->update($user, $request->toData());
 
-        return $this->sendJsonResponse(code: ResponseCodeEnum::OK);
+        return $this->sendJsonResponse(code: ResponseCodeEnum::OK, data: [
+            'limits' => new LimitsResource($limits),
+            'lock' => [
+                'enabled' => $limits->canBeUpdated(),
+                'resetAt' => $limits->getResetTime()->toIso8601String(),
+            ]
+        ]);
     }
 }
