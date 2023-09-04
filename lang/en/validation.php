@@ -182,6 +182,23 @@ return [
         'asNotification' => [
             'alert_channel' => 'At least one channel must be allowed.',
         ],
+        'marketCap' => [
+            'micro' => [
+                'limits_market_cap_value' => 'The total number of percentage must be max. 100%.',
+            ],
+            'small' => [
+                'limits_market_cap_value' => 'The total number of percentage must be max. 100%.',
+            ],
+            'mid' => [
+                'limits_market_cap_value' => 'The total number of percentage must be max. 100%.',
+            ],
+            'large' => [
+                'limits_market_cap_value' => 'The total number of percentage must be max. 100%.',
+            ],
+            'mega' => [
+                'limits_market_cap_value' => 'The total number of percentage must be max. 100%.',
+            ],
+        ],
     ],
 
     /*

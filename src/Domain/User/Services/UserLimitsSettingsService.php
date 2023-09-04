@@ -42,7 +42,7 @@ class UserLimitsSettingsService
         }
 
         // limits can be updated only once in couple days
-        if (! $limits->wasRecentlyCreated && ! $limits->canBeUpdated()) {
+        if (! $limits->canBeUpdated()) {
             throw new HttpException(responseCode: ResponseCodeEnum::LIMITS_LOCKED, data: [
                 'resetAt' => $limits->getResetTime()->toIso8601String(),
             ]);

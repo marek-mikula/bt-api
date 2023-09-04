@@ -100,7 +100,9 @@ class Limits extends Model
 
     public function canBeUpdated(): bool
     {
-        return $this->getResetTime()->isPast();
+        // if created_at and updated_at equals, the
+        // models has just been created
+        return $this->created_at->eq($this->updated_at) || $this->getResetTime()->isPast();
     }
 
     public function getResetTime(): Carbon

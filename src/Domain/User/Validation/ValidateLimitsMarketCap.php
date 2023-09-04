@@ -23,8 +23,11 @@ class ValidateLimitsMarketCap
             return;
         }
 
-        // todo
-        $validator->addFailure('publicKey', 'validity');
+        $validator->addFailure('marketCap.micro', 'limits_market_cap_value');
+        $validator->addFailure('marketCap.small', 'limits_market_cap_value');
+        $validator->addFailure('marketCap.mid', 'limits_market_cap_value');
+        $validator->addFailure('marketCap.large', 'limits_market_cap_value');
+        $validator->addFailure('marketCap.mega', 'limits_market_cap_value');
     }
 
     private function getTotalValue(array $data): int

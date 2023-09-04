@@ -5,6 +5,7 @@ namespace Domain\User\Http\Requests;
 use App\Http\Requests\AuthRequest;
 use Domain\User\Http\Requests\Data\UpdateLimitsRequestData;
 use Domain\User\Validation\ValidateLimitsMarketCap;
+use Illuminate\Validation\Rule;
 
 class UpdateLimitsRequest extends AuthRequest
 {
@@ -37,7 +38,10 @@ class UpdateLimitsRequest extends AuthRequest
             'cryptocurrency.min' => [
                 'nullable',
                 'integer',
-                'lte:cryptocurrency.max',
+                Rule::when(
+                    $this->filled('cryptocurrency.min') && $this->filled('cryptocurrency.max'),
+                    'lte:cryptocurrency.max'
+                ),
             ],
             'cryptocurrency.max' => [
                 'nullable',
