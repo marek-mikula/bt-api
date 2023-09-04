@@ -33,7 +33,10 @@ class QuizResult extends Model
     ];
 
     protected $casts = [
+        'user_id' => 'integer',
         'results' => 'array',
+        'correct' => 'integer',
+        'wrong' => 'integer',
     ];
 
     /**

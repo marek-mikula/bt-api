@@ -6,7 +6,6 @@ use App\Casts\EncryptCast;
 use App\Models\Traits\Notifiable;
 use Carbon\Carbon;
 use Database\Factories\UserFactory;
-use Domain\Auth\Enums\MfaTokenTypeEnum;
 use Illuminate\Database\Eloquent\Casts\Attribute;
 use Illuminate\Database\Eloquent\Collection;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
@@ -34,6 +33,7 @@ use Rappasoft\LaravelAuthenticationLog\Traits\AuthenticationLoggable;
  * @property Carbon $updated_at
  * @property-read Collection<MfaToken> $mfaTokens
  * @property-read QuizResult|null $quizResult
+ * @property-read Limits $limits
  *
  * @method static UserFactory factory($count = null, $state = [])
  */
@@ -68,13 +68,16 @@ class User extends Authenticatable
     ];
 
     protected $casts = [
-        'birth_date' => 'date',
+        'firstname' => 'string',
+        'lastname' => 'string',
+        'birth_date' => 'datetime:Y-m-d',
+        'email' => 'string',
+        'password' => 'string',
         'public_key' => EncryptCast::class,
         'secret_key' => EncryptCast::class,
-        'mfa_token_type' => MfaTokenTypeEnum::class,
-        'mfa_token_until' => 'datetime',
-        'email_verified_at' => 'datetime',
-        'quiz_finished_at' => 'datetime',
+        'remember_token' => 'string',
+        'email_verified_at' => 'datetime:Y-m-d H:i:s',
+        'quiz_finished_at' => 'datetime:Y-m-d H:i:s',
     ];
 
     /**
@@ -118,6 +121,14 @@ class User extends Authenticatable
     public function quizResult(): HasOne
     {
         return $this->hasOne(QuizResult::class, 'user_id', 'id');
+    }
+
+    /**
+     * @see User::$limits
+     */
+    public function limits(): HasOne
+    {
+        return $this->hasOne(Limits::class, 'user_id', 'id');
     }
 
     /**

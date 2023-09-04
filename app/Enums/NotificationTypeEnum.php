@@ -11,4 +11,7 @@ enum NotificationTypeEnum: string
     case REGISTERED = 'user@registered';
     case RESET_PASSWORD = 'user@reset-password';
     case VERIFY_EMAIL = 'user@verify-email';
+
+    // alerts
+    case ALERT = 'alert@alert';
 }

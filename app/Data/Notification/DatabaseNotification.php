@@ -10,7 +10,7 @@ class DatabaseNotification extends Data
 {
     public string $title = '';
 
-    public string $body = '';
+    public ?string $body = null;
 
     public array $input = [];
 
@@ -45,10 +45,29 @@ class DatabaseNotification extends Data
         return $this;
     }
 
+    public function when(bool $bool, callable $callback): self
+    {
+        if ($bool) {
+            $callback($this);
+        }
+
+        return $this;
+    }
+
     public function toArray(): array
     {
-        if (empty($this->title) || empty($this->body)) {
-            throw new InvalidArgumentException('Cannot save notification with empty title or body.');
+        if (empty($this->title)) {
+            throw new InvalidArgumentException('Cannot save notification with empty title.');
+        }
+
+        // do not include empty body to final array data
+        if (empty($this->body)) {
+            $this->except('body');
+        }
+
+        // do not include empty input to final array data
+        if (empty($this->input)) {
+            $this->except('input');
         }
 
         return parent::toArray();

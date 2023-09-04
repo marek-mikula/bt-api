@@ -17,7 +17,7 @@ use Illuminate\Support\Str;
  * @property class-string<Model> $notifiable
  * @property array $data
  * @property-read string $data_title
- * @property-read string $data_body
+ * @property-read string|null $data_body
  * @property-read string $data_type
  * @property-read string $data_domain
  * @property-read array $data_input
@@ -44,7 +44,7 @@ class Notification extends DatabaseNotification
      */
     protected function dataBody(): Attribute
     {
-        return Attribute::get(fn (): string => (string) Arr::get($this->data, 'body'));
+        return Attribute::get(fn (): ?string => Arr::has($this->data, 'body') ? (string) Arr::get($this->data, 'body') : null);
     }
 
     /**

@@ -32,8 +32,8 @@ class ValidateBinanceKeyPair
             return;
         }
 
-        $validator->addFailure('publicKey', 'validity');
-        $validator->addFailure('secretKey', 'validity');
+        $validator->addFailure('publicKey', 'binance_key_validity');
+        $validator->addFailure('secretKey', 'binance_key_validity');
     }
 
     private function retrieveKeyPair(array $data): array

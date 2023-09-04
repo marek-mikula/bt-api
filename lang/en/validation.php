@@ -150,6 +150,7 @@ return [
     'url' => 'The :attribute field must be a valid URL.',
     'ulid' => 'The :attribute field must be a valid ULID.',
     'uuid' => 'The :attribute field must be a valid UUID.',
+    'age' => 'You must be :age years old.',
 
     /*
     |--------------------------------------------------------------------------
@@ -164,10 +165,16 @@ return [
 
     'custom' => [
         'publicKey' => [
-            'validity' => 'The :attribute is not a valid Binance public key.',
+            'binance_key_validity' => 'The :attribute is not a valid Binance public key.',
         ],
         'secretKey' => [
-            'validity' => 'The :attribute is not a valid Binance secret key.',
+            'binance_key_validity' => 'The :attribute is not a valid Binance secret key.',
+        ],
+        'date' => [
+            'alert_validity' => 'Alert validity must be in the future.',
+        ],
+        'time' => [
+            'alert_validity' => 'Alert validity must be in the future.',
         ],
     ],
 

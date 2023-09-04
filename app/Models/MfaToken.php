@@ -42,10 +42,6 @@ class MfaToken extends Model
 
     protected $primaryKey = 'id';
 
-    protected $attributes = [
-        'invalidated_at' => null,
-    ];
-
     protected $fillable = [
         'user_id',
         'token',
@@ -61,6 +57,9 @@ class MfaToken extends Model
     ];
 
     protected $casts = [
+        'user_id' => 'integer',
+        'token' => 'string',
+        'code' => 'string',
         'type' => MfaTokenTypeEnum::class,
         'valid_until' => 'datetime',
         'invalidated_at' => 'datetime',

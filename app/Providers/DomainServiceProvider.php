@@ -2,6 +2,7 @@
 
 namespace App\Providers;
 
+use Domain\Alert\Providers\AlertServiceProvider;
 use Domain\Auth\Providers\AuthServiceProvider;
 use Domain\Binance\Providers\BinanceServiceProvider;
 use Domain\Coinmarketcap\Providers\CoinmarketcapServiceProvider;
@@ -26,6 +27,7 @@ class DomainServiceProvider extends ServiceProvider
         $this->app->register(CoinrankingServiceProvider::class);
         $this->app->register(SearchServiceProvider::class);
         $this->app->register(CryptocurrencyServiceProvider::class);
+        $this->app->register(AlertServiceProvider::class);
     }
 
     public function boot(): void
