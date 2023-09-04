@@ -24,11 +24,13 @@ class LimitsResource extends JsonResource
             ],
             'cryptocurrency' => [
                 'enabled' => $this->resource->cryptocurrency_enabled,
+                'period' => $this->resource->cryptocurrency_period?->value,
                 'min' => $this->resource->cryptocurrency_min,
                 'max' => $this->resource->cryptocurrency_max,
             ],
             'marketCap' => [
                 'enabled' => $this->resource->market_cap_enabled,
+                'period' => $this->resource->market_cap_period?->value,
                 'margin' => $this->resource->market_cap_margin,
                 'micro' => [
                     'enabled' => $this->resource->market_cap_micro_enabled,

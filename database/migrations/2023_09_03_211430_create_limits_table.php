@@ -18,10 +18,12 @@ return new class extends Migration
             $table->integer('trade_monthly')->nullable();
 
             $table->boolean('cryptocurrency_enabled')->default(false);
+            $table->string('cryptocurrency_period')->nullable();
             $table->integer('cryptocurrency_min')->nullable();
             $table->integer('cryptocurrency_max')->nullable();
 
             $table->boolean('market_cap_enabled')->default(false);
+            $table->string('market_cap_period')->nullable();
             $table->unsignedTinyInteger('market_cap_margin')->nullable();
             $table->boolean('market_cap_micro_enabled')->default(false);
             $table->unsignedTinyInteger('market_cap_micro')->nullable();

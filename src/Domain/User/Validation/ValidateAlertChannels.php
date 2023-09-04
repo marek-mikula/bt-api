@@ -7,6 +7,10 @@ use Illuminate\Validation\Validator;
 
 class ValidateAlertChannels
 {
+    /**
+     * Validates that user selected at leas one notification
+     * channel for the alert.
+     */
     public function __invoke(Validator $validator): void
     {
         $data = $validator->getData();

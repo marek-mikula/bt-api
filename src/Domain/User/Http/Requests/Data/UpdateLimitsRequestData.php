@@ -2,6 +2,9 @@
 
 namespace Domain\User\Http\Requests\Data;
 
+use App\Data\Casts\EnumCast;
+use Domain\User\Enums\LimitsNotificationPeriodEnum;
+use Spatie\LaravelData\Attributes\WithCast;
 use Spatie\LaravelData\Data;
 
 class UpdateLimitsRequestData extends Data
@@ -12,9 +15,19 @@ class UpdateLimitsRequestData extends Data
         public readonly ?int $tradeWeekly,
         public readonly ?int $tradeMonthly,
         public readonly bool $cryptocurrencyEnabled,
+        #[WithCast(
+            EnumCast::class,
+            type: LimitsNotificationPeriodEnum::class
+        )]
+        public readonly ?LimitsNotificationPeriodEnum $cryptocurrencyPeriod,
         public readonly ?int $cryptocurrencyMin,
         public readonly ?int $cryptocurrencyMax,
         public readonly bool $marketCapEnabled,
+        #[WithCast(
+            EnumCast::class,
+            type: LimitsNotificationPeriodEnum::class
+        )]
+        public readonly ?LimitsNotificationPeriodEnum $marketCapPeriod,
         public readonly ?int $marketCapMargin,
         public readonly bool $marketCapMicroEnabled,
         public readonly ?int $marketCapMicro,

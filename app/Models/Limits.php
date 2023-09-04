@@ -3,6 +3,7 @@
 namespace App\Models;
 
 use Carbon\Carbon;
+use Domain\User\Enums\LimitsNotificationPeriodEnum;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\BelongsTo;
@@ -15,9 +16,11 @@ use Illuminate\Database\Eloquent\Relations\BelongsTo;
  * @property int|null $trade_weekly
  * @property int|null $trade_monthly
  * @property bool $cryptocurrency_enabled
+ * @property LimitsNotificationPeriodEnum|null $cryptocurrency_period
  * @property int|null $cryptocurrency_min
  * @property int|null $cryptocurrency_max
  * @property bool $market_cap_enabled
+ * @property LimitsNotificationPeriodEnum|null $market_cap_period
  * @property int|null $market_cap_margin
  * @property bool $market_cap_micro_enabled
  * @property int|null $market_cap_micro
@@ -48,9 +51,11 @@ class Limits extends Model
         'trade_weekly',
         'trade_monthly',
         'cryptocurrency_enabled',
+        'cryptocurrency_period',
         'cryptocurrency_min',
         'cryptocurrency_max',
         'market_cap_enabled',
+        'market_cap_period',
         'market_cap_margin',
         'market_cap_micro_enabled',
         'market_cap_micro',
@@ -82,9 +87,11 @@ class Limits extends Model
         'trade_weekly' => 'integer',
         'trade_monthly' => 'integer',
         'cryptocurrency_enabled' => 'boolean',
+        'cryptocurrency_period' => LimitsNotificationPeriodEnum::class,
         'cryptocurrency_min' => 'integer',
         'cryptocurrency_max' => 'integer',
         'market_cap_enabled' => 'boolean',
+        'market_cap_period' => LimitsNotificationPeriodEnum::class,
         'market_cap_margin' => 'integer',
         'market_cap_micro_enabled' => 'boolean',
         'market_cap_micro' => 'integer',

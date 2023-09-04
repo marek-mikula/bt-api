@@ -182,7 +182,20 @@ return [
         'asNotification' => [
             'alert_channel' => 'At least one channel must be allowed.',
         ],
+        'trade' => [
+            'enabled' => [
+                'limits_section_filled' => 'Please fill at least one of the values or disable this section.',
+            ],
+        ],
+        'cryptocurrency' => [
+            'enabled' => [
+                'limits_section_filled' => 'Please fill at least one of the values or disable this section.',
+            ],
+        ],
         'marketCap' => [
+            'enabled' => [
+                'limits_section_filled' => 'Please fill at least one of the values or disable this section.',
+            ],
             'micro' => [
                 'limits_market_cap_value' => 'The total number of percentage must be max. 100%.',
             ],
