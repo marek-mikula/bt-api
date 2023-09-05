@@ -2,13 +2,13 @@
 
 namespace Domain\Binance\Exceptions;
 
+use Domain\Binance\Http\BinanceResponse;
 use Exception;
-use Illuminate\Http\Client\Response;
 
 class BinanceRequestException extends Exception
 {
     public function __construct(
-        public readonly Response $response,
+        public readonly BinanceResponse $response,
     ) {
         $code = $this->response->json('code');
         $msg = $this->response->json('msg');

@@ -4,11 +4,11 @@ namespace Domain\Binance\Http\Client;
 
 use Domain\Binance\Data\KeyPairData;
 use Domain\Binance\Exceptions\BinanceRequestException;
+use Domain\Binance\Http\BinanceResponse;
 use Domain\Binance\Http\Client\Concerns\WalletClientInterface;
 use Domain\Binance\Services\BinanceAuthenticator;
 use Illuminate\Contracts\Config\Repository;
 use Illuminate\Http\Client\PendingRequest;
-use Illuminate\Http\Client\Response;
 use Illuminate\Support\Facades\Http;
 
 class WalletClient implements WalletClientInterface
@@ -19,19 +19,19 @@ class WalletClient implements WalletClientInterface
     ) {
     }
 
-    public function systemStatus(): Response
+    public function systemStatus(): BinanceResponse
     {
         $response = $this->request()
             ->get('/sapi/v1/system/status');
 
         if ($response->failed()) {
-            throw new BinanceRequestException($response);
+            throw new BinanceRequestException(new BinanceResponse($response));
         }
 
-        return $response;
+        return new BinanceResponse($response);
     }
 
-    public function accountStatus(KeyPairData $keyPair): Response
+    public function accountStatus(KeyPairData $keyPair): BinanceResponse
     {
         $params = $this->authenticator->sign($keyPair, []);
 
@@ -39,13 +39,13 @@ class WalletClient implements WalletClientInterface
             ->get('/sapi/v1/account/status', $params);
 
         if ($response->failed()) {
-            throw new BinanceRequestException($response);
+            throw new BinanceRequestException(new BinanceResponse($response));
         }
 
-        return $response;
+        return new BinanceResponse($response);
     }
 
-    public function accountSnapshot(KeyPairData $keyPair): Response
+    public function accountSnapshot(KeyPairData $keyPair): BinanceResponse
     {
         $params = $this->authenticator->sign($keyPair, [
             'type' => 'SPOT',
@@ -56,13 +56,13 @@ class WalletClient implements WalletClientInterface
             ->get('/sapi/v1/accountSnapshot', $params);
 
         if ($response->failed()) {
-            throw new BinanceRequestException($response);
+            throw new BinanceRequestException(new BinanceResponse($response));
         }
 
-        return $response;
+        return new BinanceResponse($response);
     }
 
-    public function assets(KeyPairData $keyPair): Response
+    public function assets(KeyPairData $keyPair): BinanceResponse
     {
         $params = $this->authenticator->sign($keyPair, [
             'needBtcValuation' => '1',
@@ -72,10 +72,10 @@ class WalletClient implements WalletClientInterface
             ->get('/sapi/v1/asset/getUserAsset', $params);
 
         if ($response->failed()) {
-            throw new BinanceRequestException($response);
+            throw new BinanceRequestException(new BinanceResponse($response));
         }
 
-        return $response;
+        return new BinanceResponse($response);
     }
 
     private function request(): PendingRequest

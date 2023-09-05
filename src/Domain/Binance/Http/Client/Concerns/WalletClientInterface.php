@@ -4,27 +4,27 @@ namespace Domain\Binance\Http\Client\Concerns;
 
 use Domain\Binance\Data\KeyPairData;
 use Domain\Binance\Exceptions\BinanceRequestException;
-use Illuminate\Http\Client\Response;
+use Domain\Binance\Http\BinanceResponse;
 
 interface WalletClientInterface
 {
     /**
      * @throws BinanceRequestException
      */
-    public function systemStatus(): Response;
+    public function systemStatus(): BinanceResponse;
 
     /**
      * @throws BinanceRequestException
      */
-    public function accountStatus(KeyPairData $keyPair): Response;
+    public function accountStatus(KeyPairData $keyPair): BinanceResponse;
 
     /**
      * @throws BinanceRequestException
      */
-    public function accountSnapshot(KeyPairData $keyPair): Response;
+    public function accountSnapshot(KeyPairData $keyPair): BinanceResponse;
 
     /**
      * @throws BinanceRequestException
      */
-    public function assets(KeyPairData $keyPair): Response;
+    public function assets(KeyPairData $keyPair): BinanceResponse;
 }

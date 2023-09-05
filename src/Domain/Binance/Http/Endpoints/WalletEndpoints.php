@@ -6,9 +6,9 @@ use Domain\Binance\Data\KeyPairData;
 use Domain\Binance\Enums\BinanceEndpointEnum;
 use Domain\Binance\Exceptions\BinanceLimitException;
 use Domain\Binance\Exceptions\BinanceRequestException;
+use Domain\Binance\Http\BinanceResponse;
 use Domain\Binance\Http\Client\Concerns\WalletClientInterface;
 use Domain\Binance\Services\BinanceLimiter;
-use Illuminate\Http\Client\Response;
 
 class WalletEndpoints implements WalletClientInterface
 {
@@ -22,7 +22,7 @@ class WalletEndpoints implements WalletClientInterface
      * @throws BinanceLimitException
      * @throws BinanceRequestException
      */
-    public function systemStatus(): Response
+    public function systemStatus(): BinanceResponse
     {
         return $this->limiter->limit(BinanceEndpointEnum::W_SYSTEM_STATUS, [$this->walletClient, 'systemStatus'], null);
     }
@@ -31,7 +31,7 @@ class WalletEndpoints implements WalletClientInterface
      * @throws BinanceLimitException
      * @throws BinanceRequestException
      */
-    public function accountStatus(KeyPairData $keyPair): Response
+    public function accountStatus(KeyPairData $keyPair): BinanceResponse
     {
         return $this->limiter->limit(BinanceEndpointEnum::W_ACCOUNT_STATUS, [$this->walletClient, 'accountStatus'], $keyPair);
     }
@@ -40,7 +40,7 @@ class WalletEndpoints implements WalletClientInterface
      * @throws BinanceLimitException
      * @throws BinanceRequestException
      */
-    public function accountSnapshot(KeyPairData $keyPair): Response
+    public function accountSnapshot(KeyPairData $keyPair): BinanceResponse
     {
         return $this->limiter->limit(BinanceEndpointEnum::W_ACCOUNT_SNAPSHOT, [$this->walletClient, 'accountSnapshot'], $keyPair);
     }
@@ -49,7 +49,7 @@ class WalletEndpoints implements WalletClientInterface
      * @throws BinanceLimitException
      * @throws BinanceRequestException
      */
-    public function assets(KeyPairData $keyPair): Response
+    public function assets(KeyPairData $keyPair): BinanceResponse
     {
         return $this->limiter->limit(BinanceEndpointEnum::W_ASSETS, [$this->walletClient, 'assets'], $keyPair);
     }

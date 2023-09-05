@@ -3,13 +3,16 @@
 namespace Domain\Binance\Services;
 
 use Domain\Binance\Data\KeyPairData;
+use Domain\Binance\Data\LimitBanData;
 use Domain\Binance\Data\LimitCacheData;
 use Domain\Binance\Data\LimitData;
 use Domain\Binance\Enums\BinanceEndpointEnum;
+use Domain\Binance\Enums\BinanceErrorEnum;
 use Domain\Binance\Enums\BinanceLimitTypeEnum;
+use Domain\Binance\Exceptions\BinanceBanException;
 use Domain\Binance\Exceptions\BinanceLimitException;
 use Domain\Binance\Exceptions\BinanceRequestException;
-use Illuminate\Http\Client\Response;
+use Domain\Binance\Http\BinanceResponse;
 use Illuminate\Support\Facades\Cache;
 use InvalidArgumentException;
 
@@ -26,9 +29,12 @@ class BinanceLimiter
     /**
      * @throws BinanceLimitException
      * @throws BinanceRequestException
+     * @throws BinanceBanException
      */
-    public function limit(BinanceEndpointEnum $endpoint, callable $request, ?KeyPairData $keyPair, ...$args): Response
+    public function limit(BinanceEndpointEnum $endpoint, callable $request, ?KeyPairData $keyPair, ...$args): BinanceResponse
     {
+        $this->checkBan($endpoint, $keyPair);
+
         $processData = [];
 
         // before the request, check if we would
@@ -49,8 +55,25 @@ class BinanceLimiter
             $args = [$keyPair, ...$args];
         }
 
-        /** @var Response $response */
-        $response = $request(...$args);
+        try {
+            /** @var BinanceResponse $response */
+            $response = $request(...$args);
+        } catch (BinanceRequestException $e) {
+            // interfere TOO_MANY_REQUESTS response
+            // and save ban if any, so we don't
+            // spam API
+
+            // we probably got banned?
+            // maybe the limiter on our side
+            // broke down => handle the ban
+            // response and block EP calling
+
+            if ($e->response->isError(BinanceErrorEnum::TOO_MANY_REQUESTS)) {
+                $this->storeBan($e->response, $endpoint, $keyPair);
+            }
+
+            throw $e; // rethrow the exception so it can propagate to our handler
+        }
 
         foreach ($processData as $key => [$limit, $data]) {
             $this->increment($key, $limit, $data);
@@ -71,7 +94,7 @@ class BinanceLimiter
         $cacheTimeInMs = ($data->timestampMs + $limit->getPeriodInMs()) - $this->timestampMs;
 
         // save object to cache
-        Cache::put($key, $data, now()->addMilliseconds($cacheTimeInMs));
+        Cache::tags(['binance', 'binance-limiter'])->put($key, $data, now()->addMilliseconds($cacheTimeInMs));
     }
 
     /**
@@ -80,7 +103,7 @@ class BinanceLimiter
     private function check(string $key, BinanceEndpointEnum $endpoint, LimitData $limit): ?LimitCacheData
     {
         /** @var LimitCacheData|null $data */
-        $data = Cache::get($key);
+        $data = Cache::tags(['binance', 'binance-limiter'])->get($key);
 
         if ($data === null) {
             return null;
@@ -105,6 +128,50 @@ class BinanceLimiter
         }
 
         return $data;
+    }
+
+    private function storeBan(BinanceResponse $response, BinanceEndpointEnum $endpoint, ?KeyPairData $keyPair): void
+    {
+        // 418 = IP ban
+        $cacheKey = $response->status() === 418 ? $this->getIpBanCacheKey($endpoint) : $this->getBanCacheKey($endpoint, $keyPair);
+
+        $waitSeconds = (int) ($response->header('Retry-After') ?? 1); // 1s as default, missing header?
+
+        $value = new LimitBanData($this->timestampMs, $waitSeconds * 1000);
+
+        Cache::tags(['binance', 'binance-limiter'])->put($cacheKey, $value, now()->addSeconds($waitSeconds));
+    }
+
+    /**
+     * @throws BinanceBanException
+     */
+    private function checkBan(BinanceEndpointEnum $endpoint, ?KeyPairData $keyPair): void
+    {
+        /** @var LimitBanData|null $ipBan */
+        $ipBan = Cache::tags(['binance', 'binance-limiter'])->get($this->getIpBanCacheKey($endpoint));
+
+        if ($ipBan !== null) {
+            throw new BinanceBanException($endpoint, $ipBan);
+        }
+
+        /** @var LimitBanData|null $ban */
+        $ban = Cache::tags(['binance', 'binance-limiter'])->get($this->getBanCacheKey($endpoint, $keyPair));
+
+        if ($ban !== null) {
+            throw new BinanceBanException($endpoint, $ban);
+        }
+    }
+
+    private function getIpBanCacheKey(BinanceEndpointEnum $endpoint): string
+    {
+        return "ban-{$endpoint->value}";
+    }
+
+    private function getBanCacheKey(BinanceEndpointEnum $endpoint, ?KeyPairData $keyPair): string
+    {
+        $id = $keyPair === null ? 'ip' : md5("{$keyPair->publicKey}-{$keyPair->secretKey}");
+
+        return "ban-{$id}-{$endpoint->value}";
     }
 
     private function getCacheKey(BinanceEndpointEnum $endpoint, LimitData $limit, ?KeyPairData $keyPair): string

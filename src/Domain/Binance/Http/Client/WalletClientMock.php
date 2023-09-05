@@ -3,30 +3,38 @@
 namespace Domain\Binance\Http\Client;
 
 use Domain\Binance\Data\KeyPairData;
+use Domain\Binance\Http\BinanceResponse;
 use Domain\Binance\Http\Client\Concerns\WalletClientInterface;
-use Illuminate\Http\Client\Response;
 use Illuminate\Support\Str;
 
 class WalletClientMock implements WalletClientInterface
 {
-    public function systemStatus(): Response
+    public function systemStatus(): BinanceResponse
     {
-        return response_from_client(data: $this->mockData('system-status.json'));
+        $response = response_from_client(data: $this->mockData('system-status.json'));
+
+        return new BinanceResponse($response);
     }
 
-    public function accountStatus(KeyPairData $keyPair): Response
+    public function accountStatus(KeyPairData $keyPair): BinanceResponse
     {
-        return response_from_client(data: $this->mockData('account-status.json'));
+        $response = response_from_client(data: $this->mockData('account-status.json'));
+
+        return new BinanceResponse($response);
     }
 
-    public function accountSnapshot(KeyPairData $keyPair): Response
+    public function accountSnapshot(KeyPairData $keyPair): BinanceResponse
     {
-        return response_from_client(data: $this->mockData('account-snapshot.json'));
+        $response = response_from_client(data: $this->mockData('account-snapshot.json'));
+
+        return new BinanceResponse($response);
     }
 
-    public function assets(KeyPairData $keyPair): Response
+    public function assets(KeyPairData $keyPair): BinanceResponse
     {
-        return response_from_client(data: $this->mockData('assets.json'));
+        $response = response_from_client(data: $this->mockData('assets.json'));
+
+        return new BinanceResponse($response);
     }
 
     private function mockData(string $path): array
