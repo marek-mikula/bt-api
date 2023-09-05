@@ -1,0 +1,25 @@
+{
+    "code": 200,
+    "msg": "",
+    "snapshotVos": [
+        {
+            "type": "spot",
+            "updateTime": 1693871999000,
+            "data": {
+                "totalAssetOfBtc": "0.00061507",
+                "balances": [
+                    {
+                        "asset": "EUR",
+                        "free": "14.73",
+                        "locked": "0"
+                    },
+                    {
+                        "asset": "HOOK",
+                        "free": "0.0082185",
+                        "locked": "0"
+                    }
+                ]
+            }
+        }
+    ]
+}
