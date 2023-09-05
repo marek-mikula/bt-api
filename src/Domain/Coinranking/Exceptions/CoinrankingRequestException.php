@@ -17,7 +17,7 @@ class CoinrankingRequestException extends Exception
     {
         return [
             'status' => $this->response->status(),
-            'body' => $this->response->body(),
+            'body' => $this->response->json(),
         ];
     }
 }

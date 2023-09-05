@@ -2,99 +2,55 @@
 
 namespace Domain\Binance\Http\Endpoints;
 
-use App\Models\User;
 use Domain\Binance\Data\KeyPairData;
+use Domain\Binance\Enums\BinanceEndpointEnum;
+use Domain\Binance\Exceptions\BinanceLimitException;
 use Domain\Binance\Exceptions\BinanceRequestException;
-use Domain\Binance\Services\BinanceAuthenticator;
-use Illuminate\Contracts\Config\Repository;
-use Illuminate\Http\Client\PendingRequest;
+use Domain\Binance\Http\Client\Concerns\WalletClientInterface;
+use Domain\Binance\Services\BinanceLimiter;
 use Illuminate\Http\Client\Response;
-use Illuminate\Support\Facades\Http;
 
-class WalletEndpoints
+class WalletEndpoints implements WalletClientInterface
 {
     public function __construct(
-        private readonly BinanceAuthenticator $authenticator,
-        private readonly Repository $config,
+        private readonly BinanceLimiter $limiter,
+        private readonly WalletClientInterface $walletClient,
     ) {
     }
 
     /**
+     * @throws BinanceLimitException
      * @throws BinanceRequestException
      */
     public function systemStatus(): Response
     {
-        $response = $this->request()
-            ->get('/sapi/v1/system/status');
-
-        if ($response->failed()) {
-            throw new BinanceRequestException($response);
-        }
-
-        return $response;
+        return $this->limiter->limit(BinanceEndpointEnum::W_SYSTEM_STATUS, [$this->walletClient, 'systemStatus'], null);
     }
 
     /**
+     * @throws BinanceLimitException
      * @throws BinanceRequestException
      */
-    public function accountStatus(User|KeyPairData $via): Response
+    public function accountStatus(KeyPairData $keyPair): Response
     {
-        $params = $this->authenticator->sign($via, []);
-
-        $response = $this->authRequest($via)
-            ->get('/sapi/v1/account/status', $params);
-
-        if ($response->failed()) {
-            throw new BinanceRequestException($response);
-        }
-
-        return $response;
+        return $this->limiter->limit(BinanceEndpointEnum::W_ACCOUNT_STATUS, [$this->walletClient, 'accountStatus'], $keyPair);
     }
 
     /**
+     * @throws BinanceLimitException
      * @throws BinanceRequestException
      */
-    public function allCoins(User|KeyPairData $via): Response
+    public function accountSnapshot(KeyPairData $keyPair): Response
     {
-        $params = $this->authenticator->sign($via, []);
-
-        $response = $this->authRequest($via)
-            ->get('/sapi/v1/capital/config/getall', $params);
-
-        if ($response->failed()) {
-            throw new BinanceRequestException($response);
-        }
-
-        return $response;
+        return $this->limiter->limit(BinanceEndpointEnum::W_ACCOUNT_SNAPSHOT, [$this->walletClient, 'accountSnapshot'], $keyPair);
     }
 
     /**
+     * @throws BinanceLimitException
      * @throws BinanceRequestException
      */
-    public function accountSnapshot(User|KeyPairData $via): Response
+    public function assets(KeyPairData $keyPair): Response
     {
-        $params = $this->authenticator->sign($via, [
-            'type' => 'SPOT',
-            'startTime' => now()->subDay()->startOfDay()->getTimestampMs(),
-        ]);
-
-        $response = $this->authRequest($via)
-            ->get('/sapi/v1/accountSnapshot', $params);
-
-        if ($response->failed()) {
-            throw new BinanceRequestException($response);
-        }
-
-        return $response;
-    }
-
-    private function request(): PendingRequest
-    {
-        return Http::baseUrl((string) $this->config->get('binance.url'));
-    }
-
-    private function authRequest(User|KeyPairData $via): PendingRequest
-    {
-        return $this->authenticator->authenticate($via, $this->request());
+        return $this->limiter->limit(BinanceEndpointEnum::W_ASSETS, [$this->walletClient, 'assets'], $keyPair);
     }
 }

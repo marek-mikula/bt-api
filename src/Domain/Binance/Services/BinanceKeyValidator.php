@@ -4,14 +4,14 @@ namespace Domain\Binance\Services;
 
 use Domain\Binance\Data\KeyPairData;
 use Domain\Binance\Exceptions\BinanceRequestException;
-use Domain\Binance\Http\BinanceClient;
+use Domain\Binance\Http\BinanceApi;
 use Illuminate\Contracts\Cache\Repository;
 
 class BinanceKeyValidator
 {
     public function __construct(
         private readonly Repository $cache,
-        private readonly BinanceClient $binanceClient,
+        private readonly BinanceApi $binanceApi,
     ) {
     }
 
@@ -26,10 +26,10 @@ class BinanceKeyValidator
 
     private function isValid(string $publicKey, string $secretKey): bool
     {
-        $keyPair = new KeyPairData($publicKey, $secretKey);
+        $keyPair = KeyPairData::fromRaw($publicKey, $secretKey);
 
         try {
-            return $this->binanceClient->wallet->accountStatus($keyPair)->ok();
+            return $this->binanceApi->wallet->accountStatus($keyPair)->ok();
         } catch (BinanceRequestException) {
             return false;
         }

@@ -3,6 +3,7 @@
 namespace App\Providers;
 
 use App\Enums\EnvEnum;
+use Domain\Binance\Checks\BinanceWalletCheck;
 use Domain\Coinmarketcap\Checks\CoinmarketcapCheck;
 use Illuminate\Support\ServiceProvider;
 use Spatie\Health\Checks\Checks\DatabaseCheck;
@@ -30,6 +31,7 @@ class HealthCheckServiceProvider extends ServiceProvider
             ScheduleCheck::new(),
             QueueCheck::new(),
             CoinmarketcapCheck::new(),
+            BinanceWalletCheck::new(),
         ]);
     }
 }
