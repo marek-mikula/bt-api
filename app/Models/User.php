@@ -58,6 +58,7 @@ class User extends Authenticatable
         'public_key',
         'secret_key',
         'remember_token',
+        'assets_synced_at',
         'email_verified_at',
         'quiz_finished_at',
     ];
@@ -78,6 +79,7 @@ class User extends Authenticatable
         'public_key' => EncryptCast::class,
         'secret_key' => EncryptCast::class,
         'remember_token' => 'string',
+        'assets_synced_at' => 'datetime:Y-m-d H:i:s',
         'email_verified_at' => 'datetime:Y-m-d H:i:s',
         'quiz_finished_at' => 'datetime:Y-m-d H:i:s',
     ];

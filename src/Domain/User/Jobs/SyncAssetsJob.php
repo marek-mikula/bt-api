@@ -2,6 +2,7 @@
 
 namespace Domain\User\Jobs;
 
+use App\Enums\QueueEnum;
 use App\Jobs\BaseJob;
 use App\Models\User;
 use Domain\Binance\Data\KeyPairData;
@@ -17,7 +18,7 @@ class SyncAssetsJob extends BaseJob
         #[WithoutRelations]
         private readonly User $user,
     ) {
-        //
+        $this->onQueue(QueueEnum::ASSETS->value);
     }
 
     public function middleware(): array
@@ -55,5 +56,8 @@ class SyncAssetsJob extends BaseJob
                 'value' => floatval($asset['free']),
             ]);
         }
+
+        // update timestamp
+        $this->user->touch('assets_synced_at');
     }
 }

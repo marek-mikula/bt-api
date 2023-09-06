@@ -2,6 +2,7 @@
 
 namespace Domain\Alert\Jobs;
 
+use App\Enums\QueueEnum;
 use App\Jobs\BaseJob;
 use App\Models\Alert;
 use Domain\Alert\Notifications\AlertNotification;
@@ -14,7 +15,7 @@ class ProcessAlertsJob extends BaseJob
     public function __construct(
         private readonly array $alertIds
     ) {
-        //
+        $this->onQueue(QueueEnum::ALERTS->value);
     }
 
     public function handle(): void
