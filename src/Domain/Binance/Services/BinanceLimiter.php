@@ -33,6 +33,10 @@ class BinanceLimiter
      */
     public function limit(BinanceEndpointEnum $endpoint, callable $request, ?KeyPairData $keyPair, ...$args): BinanceResponse
     {
+        // firstly, check if we haven't got banned
+        // in the past, so we don't spam the API
+        // more, which would result in longer ban :/
+
         $this->checkBan($endpoint, $keyPair);
 
         $processData = [];
@@ -43,10 +47,10 @@ class BinanceLimiter
 
         foreach ($endpoint->getLimits() as $limit) {
             // obtain cache key
-            $key = $this->getCacheKey($endpoint, $limit, $keyPair);
+            $key = $this->getLimitCacheKey($endpoint, $limit, $keyPair);
 
             // save data to array for further process
-            $processData[$key] = [$limit, $this->check($key, $endpoint, $limit)];
+            $processData[$key] = [$limit, $this->checkLimit($key, $endpoint, $limit)];
         }
 
         // if keyPair is set, push it to the beginning
@@ -101,7 +105,7 @@ class BinanceLimiter
     /**
      * @throws BinanceLimitException
      */
-    private function check(string $key, BinanceEndpointEnum $endpoint, LimitData $limit): ?LimitCacheData
+    private function checkLimit(string $key, BinanceEndpointEnum $endpoint, LimitData $limit): ?LimitCacheData
     {
         /** @var LimitCacheData|null $data */
         $data = Cache::tags(['binance', 'binance-limiter'])->get($key);
@@ -180,7 +184,7 @@ class BinanceLimiter
         return "ban-{$id}-{$endpoint->value}";
     }
 
-    private function getCacheKey(BinanceEndpointEnum $endpoint, LimitData $limit, ?KeyPairData $keyPair): string
+    private function getLimitCacheKey(BinanceEndpointEnum $endpoint, LimitData $limit, ?KeyPairData $keyPair): string
     {
         // UID limits are tied to users profile, so we need keyPair to
         // uniquely identify the user calling the API
