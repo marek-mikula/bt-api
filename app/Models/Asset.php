@@ -11,7 +11,7 @@ use Illuminate\Database\Eloquent\Relations\BelongsTo;
  * @property-read int $id
  * @property int $user_id
  * @property string $currency
- * @property float $value
+ * @property float $balance
  * @property Carbon $created_at
  * @property Carbon $updated_at
  * @property-read User $user
@@ -27,13 +27,13 @@ class Asset extends Model
     protected $fillable = [
         'user_id',
         'currency',
-        'value',
+        'balance',
     ];
 
     protected $casts = [
         'user_id' => 'integer',
         'currency' => 'string',
-        'value' => 'float',
+        'balance' => 'float',
     ];
 
     /**

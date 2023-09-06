@@ -4,6 +4,8 @@ namespace App\Providers;
 
 use App\Repositories\Alert\AlertRepository;
 use App\Repositories\Alert\AlertRepositoryInterface;
+use App\Repositories\Asset\AssetRepository;
+use App\Repositories\Asset\AssetRepositoryInterface;
 use App\Repositories\Limits\LimitsRepository;
 use App\Repositories\Limits\LimitsRepositoryInterface;
 use App\Repositories\MfaToken\MfaTokenRepository;
@@ -29,6 +31,7 @@ class RepositoryServiceProvider extends ServiceProvider implements DeferrablePro
         NotificationRepositoryInterface::class => NotificationRepository::class,
         AlertRepositoryInterface::class => AlertRepository::class,
         LimitsRepositoryInterface::class => LimitsRepository::class,
+        AssetRepositoryInterface::class => AssetRepository::class,
     ];
 
     public function register(): void

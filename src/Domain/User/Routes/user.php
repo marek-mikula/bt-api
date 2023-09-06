@@ -2,6 +2,7 @@
 
 use Domain\User\Http\Controllers\UserAccountSettingsController;
 use Domain\User\Http\Controllers\UserAlertsSettingsController;
+use Domain\User\Http\Controllers\UserAssetsController;
 use Domain\User\Http\Controllers\UserLimitsSettingsController;
 use Domain\User\Http\Controllers\UserNotificationController;
 use Illuminate\Support\Facades\Route;
@@ -16,6 +17,11 @@ Route::group(['middleware' => ['auth:sanctum']], static function (): void {
 
         Route::post('/mark-as-read', [UserNotificationController::class, 'markAsRead'])
             ->name('mark_as_read');
+    });
+
+    Route::group(['prefix' => '/assets', 'as' => 'assets.'], static function (): void {
+        Route::get('/', [UserAssetsController::class, 'index'])
+            ->name('index');
     });
 
     Route::group(['prefix' => '/settings', 'as' => 'settings.'], static function (): void {
