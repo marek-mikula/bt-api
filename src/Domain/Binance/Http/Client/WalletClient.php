@@ -65,7 +65,7 @@ class WalletClient implements WalletClientInterface
     public function assets(KeyPairData $keyPair): BinanceResponse
     {
         $params = $this->authenticator->sign($keyPair, [
-            'needBtcValuation' => '1',
+            'needBtcValuation' => '1', // does not work :(
         ]);
 
         $response = $this->authRequest($keyPair)
