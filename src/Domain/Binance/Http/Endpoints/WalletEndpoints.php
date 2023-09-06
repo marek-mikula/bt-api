@@ -4,6 +4,7 @@ namespace Domain\Binance\Http\Endpoints;
 
 use Domain\Binance\Data\KeyPairData;
 use Domain\Binance\Enums\BinanceEndpointEnum;
+use Domain\Binance\Exceptions\BinanceBanException;
 use Domain\Binance\Exceptions\BinanceLimitException;
 use Domain\Binance\Exceptions\BinanceRequestException;
 use Domain\Binance\Http\BinanceResponse;
@@ -20,6 +21,7 @@ class WalletEndpoints implements WalletClientInterface
 
     /**
      * @throws BinanceLimitException
+     * @throws BinanceBanException
      * @throws BinanceRequestException
      */
     public function systemStatus(): BinanceResponse
@@ -29,6 +31,7 @@ class WalletEndpoints implements WalletClientInterface
 
     /**
      * @throws BinanceLimitException
+     * @throws BinanceBanException
      * @throws BinanceRequestException
      */
     public function accountStatus(KeyPairData $keyPair): BinanceResponse
@@ -38,6 +41,7 @@ class WalletEndpoints implements WalletClientInterface
 
     /**
      * @throws BinanceLimitException
+     * @throws BinanceBanException
      * @throws BinanceRequestException
      */
     public function accountSnapshot(KeyPairData $keyPair): BinanceResponse
@@ -47,6 +51,7 @@ class WalletEndpoints implements WalletClientInterface
 
     /**
      * @throws BinanceLimitException
+     * @throws BinanceBanException
      * @throws BinanceRequestException
      */
     public function assets(KeyPairData $keyPair): BinanceResponse

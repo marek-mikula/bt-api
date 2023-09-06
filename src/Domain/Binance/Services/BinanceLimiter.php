@@ -66,7 +66,8 @@ class BinanceLimiter
             // we probably got banned?
             // maybe the limiter on our side
             // broke down => handle the ban
-            // response and block EP calling
+            // response, block EP calling and
+            // throw the ban exception
 
             if ($e->response->isError(BinanceErrorEnum::TOO_MANY_REQUESTS)) {
                 $this->storeBan($e->response, $endpoint, $keyPair);
@@ -130,6 +131,9 @@ class BinanceLimiter
         return $data;
     }
 
+    /**
+     * @throws BinanceBanException
+     */
     private function storeBan(BinanceResponse $response, BinanceEndpointEnum $endpoint, ?KeyPairData $keyPair): void
     {
         // 418 = IP ban
@@ -140,6 +144,8 @@ class BinanceLimiter
         $value = new LimitBanData($this->timestampMs, $waitSeconds * 1000);
 
         Cache::tags(['binance', 'binance-limiter'])->put($cacheKey, $value, now()->addSeconds($waitSeconds));
+
+        throw new BinanceBanException($endpoint, $value);
     }
 
     /**

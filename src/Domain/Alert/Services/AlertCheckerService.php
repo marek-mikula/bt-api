@@ -6,9 +6,9 @@ use App\Models\Alert;
 use Domain\Alert\Jobs\ProcessAlertsJob;
 use Illuminate\Database\Eloquent\Builder;
 
-class AlertService
+class AlertCheckerService
 {
-    public function checkAlerts(): void
+    public function check(): void
     {
         $date = now()->format('Y-m-d');
 
@@ -18,7 +18,7 @@ class AlertService
 
         $query = Alert::query()
             ->where('date_at', '=', $date)
-            ->where(function (Builder $query) use ($time): void {
+            ->where(static function (Builder $query) use ($time): void {
                 $query->whereNull('time_at')
                     ->orWhere('time_at', '<=', $time);
             })

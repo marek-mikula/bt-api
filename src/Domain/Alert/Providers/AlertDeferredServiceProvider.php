@@ -2,7 +2,7 @@
 
 namespace Domain\Alert\Providers;
 
-use Domain\Alert\Services\AlertService;
+use Domain\Alert\Services\AlertCheckerService;
 use Illuminate\Contracts\Support\DeferrableProvider;
 use Illuminate\Support\ServiceProvider;
 
@@ -12,7 +12,7 @@ class AlertDeferredServiceProvider extends ServiceProvider implements Deferrable
      * @var list<class-string>
      */
     private array $services = [
-        AlertService::class,
+        AlertCheckerService::class,
     ];
 
     public function register(): void

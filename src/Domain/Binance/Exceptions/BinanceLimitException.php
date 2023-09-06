@@ -9,9 +9,9 @@ use Exception;
 class BinanceLimitException extends Exception
 {
     public function __construct(
-        private readonly BinanceEndpointEnum $endpoint,
-        private readonly LimitData $limit,
-        private readonly int $waitMs,
+        public readonly BinanceEndpointEnum $endpoint,
+        public readonly LimitData $limit,
+        public readonly int $waitMs,
     ) {
         parent::__construct(message: vsprintf('Binance limit %s/%s%s for EP %s (w: %s) exceeded. Please wait %s ms.', [
             $this->limit->value,
