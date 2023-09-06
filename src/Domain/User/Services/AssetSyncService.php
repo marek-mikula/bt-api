@@ -21,11 +21,7 @@ class AssetSyncService
         // new registrations, because their assets gets
         // processed asap
         //
-        // now we need to count the correct size of batches
-        // to process all users in 1 week but in spread, so
-        // we don't spam queue
-        //
-        // make the max number of batch a 200, so we don't span
+        // make the max number of batch a 200, so we don't spam
         // the queue that much
         //
         // we will run this code every 15 minutes
