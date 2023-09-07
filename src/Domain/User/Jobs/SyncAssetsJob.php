@@ -9,6 +9,7 @@ use Domain\Binance\Data\KeyPairData;
 use Domain\Binance\Exceptions\BinanceBanException;
 use Domain\Binance\Exceptions\BinanceLimitException;
 use Domain\Binance\Http\BinanceApi;
+use Domain\User\Notifications\AssetsSyncedNotification;
 use Illuminate\Queue\Attributes\WithoutRelations;
 use Illuminate\Queue\Middleware\WithoutOverlapping;
 
@@ -59,5 +60,8 @@ class SyncAssetsJob extends BaseJob
 
         // update timestamp
         $this->user->touch('assets_synced_at');
+
+        // send notification
+        $this->user->notify(new AssetsSyncedNotification());
     }
 }

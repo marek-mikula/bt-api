@@ -84,6 +84,11 @@ return [
             ],
         ],
     ],
+    NotificationTypeEnum::ASSETS_SYNCED->value => [
+        'database' => [
+            'title' => 'Your assets have been successfully synchronized with Binance.',
+        ],
+    ],
 
     // alerts
     NotificationTypeEnum::ALERT->value => [
