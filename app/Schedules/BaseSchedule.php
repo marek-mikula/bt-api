@@ -16,7 +16,7 @@ class BaseSchedule
      * Proxies the schedule call via callback, so
      * it won't get called immediately.
      */
-    public static function proxy(mixed ...$args): callable
+    public static function proxyCall(mixed ...$args): callable
     {
         return function () use ($args): void {
             static::call(...$args);

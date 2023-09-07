@@ -1,14 +1,15 @@
 <?php
 
-namespace Domain\Alert\Services;
+namespace Domain\Alert\Schedules;
 
 use App\Models\Alert;
+use App\Schedules\BaseSchedule;
 use Domain\Alert\Jobs\ProcessAlertsJob;
 use Illuminate\Database\Eloquent\Builder;
 
-class AlertCheckerService
+class CheckAlertsSchedule extends BaseSchedule
 {
-    public function check(): void
+    public function __invoke(): void
     {
         $date = now()->format('Y-m-d');
 

@@ -1,15 +1,16 @@
 <?php
 
-namespace Domain\User\Services;
+namespace Domain\User\Schedules;
 
 use App\Models\User;
+use App\Schedules\BaseSchedule;
 use Carbon\Carbon;
 use Domain\User\Jobs\SyncAssetsJob;
 use Illuminate\Support\Collection;
 
-class AssetSyncService
+class SyncAssetsSchedule extends BaseSchedule
 {
-    public function sync(): void
+    public function __invoke(): void
     {
         // max. we can do 2,400 requests / min to Binance
         // because of the limiter, so we have to respect
