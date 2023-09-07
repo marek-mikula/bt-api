@@ -12,17 +12,9 @@ enum BinanceEndpointEnum: string
     case W_ACCOUNT_SNAPSHOT = 'w@account-snapshot';
     case W_ASSETS = 'w@assets';
 
-    public function getWeight(): int
-    {
-        return once(function (): int {
-            return match ($this) {
-                self::W_SYSTEM_STATUS,
-                self::W_ACCOUNT_STATUS => 1,
-                self::W_ACCOUNT_SNAPSHOT => 2400,
-                self::W_ASSETS => 5,
-            };
-        });
-    }
+    // market data endpoints
+    case MD_TICKER_PRICE = 'md@ticker-price';
+    case MD_AVG_PRICE = 'md@avg-price';
 
     /**
      * @return LimitData[]
@@ -42,6 +34,15 @@ enum BinanceEndpointEnum: string
                         period: BinanceLimitPeriodEnum::MINUTE,
                         type: BinanceLimitTypeEnum::IP,
                         value: 12_000
+                    ),
+                ],
+                self::MD_AVG_PRICE,
+                self::MD_TICKER_PRICE => [
+                    new LimitData(
+                        period: BinanceLimitPeriodEnum::MINUTE,
+                        type: BinanceLimitTypeEnum::IP,
+                        value: 6_000,
+                        shared: true
                     ),
                 ]
             };

@@ -31,7 +31,7 @@ class BinanceLimiter
      * @throws BinanceRequestException
      * @throws BinanceBanException
      */
-    public function limit(BinanceEndpointEnum $endpoint, callable $request, ?KeyPairData $keyPair, ...$args): BinanceResponse
+    public function limit(int $weight, BinanceEndpointEnum $endpoint, callable $request, ?KeyPairData $keyPair, ...$args): BinanceResponse
     {
         // firstly, check if we haven't got banned
         // in the past, so we don't spam the API
@@ -50,7 +50,7 @@ class BinanceLimiter
             $key = $this->getLimitCacheKey($endpoint, $limit, $keyPair);
 
             // save data to array for further process
-            $processData[$key] = [$limit, $this->checkLimit($key, $endpoint, $limit)];
+            $processData[$key] = [$limit, $this->checkLimit($weight, $key, $endpoint, $limit)];
         }
 
         // if keyPair is set, push it to the beginning
@@ -105,7 +105,7 @@ class BinanceLimiter
     /**
      * @throws BinanceLimitException
      */
-    private function checkLimit(string $key, BinanceEndpointEnum $endpoint, LimitData $limit): ?LimitCacheData
+    private function checkLimit(int $weight, string $key, BinanceEndpointEnum $endpoint, LimitData $limit): ?LimitCacheData
     {
         /** @var LimitCacheData|null $data */
         $data = Cache::tags(['binance', 'binance-limiter'])->get($key);
@@ -124,11 +124,12 @@ class BinanceLimiter
         // we would exceed the max number of tries if we would
         // call the endpoint one more time
         // => throw exception
-        if ((($data->tries + 1) * $endpoint->getWeight()) > $limit->value) {
+        if ((($data->tries + 1) * $weight) > $limit->value) {
             throw new BinanceLimitException(
                 endpoint: $endpoint,
                 limit: $limit,
                 waitMs: ($data->timestampMs + $limit->getPeriodInMs()) - $this->timestampMs,
+                weight: $weight,
             );
         }
 
@@ -194,6 +195,12 @@ class BinanceLimiter
 
         $id = $limit->type === BinanceLimitTypeEnum::IP ? 'ip' : md5("{$keyPair->publicKey}-{$keyPair->secretKey}");
 
-        return "{$id}-{$endpoint->value}-{$limit->per}-{$limit->period->value}";
+        // shared limits are not endpoint specific
+
+        if ($limit->shared) {
+            return "limit-{$id}-{$limit->per}-{$limit->period->value}";
+        }
+
+        return "limit-{$id}-{$endpoint->value}-{$limit->per}-{$limit->period->value}";
     }
 }

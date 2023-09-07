@@ -42,7 +42,7 @@ class WalletClientMock implements WalletClientInterface
         $path = Str::startsWith($path, '/') ? Str::after($path, '/') : $path;
 
         $json = file_get_contents(
-            filename: domain_path('Binance', "Resources/mocks/{$path}")
+            filename: domain_path('Binance', "Resources/mocks/wallet/{$path}")
         );
 
         return json_decode(json: $json, associative: true);
