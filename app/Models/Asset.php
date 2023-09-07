@@ -29,6 +29,7 @@ class Asset extends Model
         'user_id',
         'currency',
         'balance',
+        'is_fiat',
     ];
 
     protected $attributes = [

@@ -2,6 +2,7 @@
 
 namespace Domain\User\Providers;
 
+use Domain\User\Console\Commands\SyncAssetsCommand;
 use Domain\User\Schedules\SyncAssetsSchedule;
 use Illuminate\Console\Scheduling\Schedule;
 use Illuminate\Support\ServiceProvider;
@@ -17,8 +18,16 @@ class UserServiceProvider extends ServiceProvider
     public function boot(): void
     {
         if ($this->app->runningInConsole()) {
+            $this->bootCommands();
             $this->bootSchedule();
         }
+    }
+
+    private function bootCommands(): void
+    {
+        $this->commands([
+            SyncAssetsCommand::class,
+        ]);
     }
 
     private function bootSchedule(): void
