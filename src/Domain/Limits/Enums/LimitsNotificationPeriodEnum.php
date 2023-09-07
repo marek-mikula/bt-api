@@ -1,6 +1,6 @@
 <?php
 
-namespace Domain\User\Enums;
+namespace Domain\Limits\Enums;
 
 enum LimitsNotificationPeriodEnum: string
 {

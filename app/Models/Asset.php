@@ -12,6 +12,7 @@ use Illuminate\Database\Eloquent\Relations\BelongsTo;
  * @property int $user_id
  * @property string $currency
  * @property float $balance
+ * @property bool $is_fiat
  * @property Carbon $created_at
  * @property Carbon $updated_at
  * @property-read User $user
@@ -30,10 +31,15 @@ class Asset extends Model
         'balance',
     ];
 
+    protected $attributes = [
+        'is_fiat' => false,
+    ];
+
     protected $casts = [
         'user_id' => 'integer',
         'currency' => 'string',
         'balance' => 'float',
+        'is_fiat' => 'boolean',
     ];
 
     /**

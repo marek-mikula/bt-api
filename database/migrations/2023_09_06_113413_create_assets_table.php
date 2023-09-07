@@ -12,7 +12,8 @@ return new class extends Migration
             $table->id();
             $table->foreignId('user_id');
             $table->string('currency');
-            $table->double('value');
+            $table->double('balance');
+            $table->boolean('is_fiat')->default(false);
             $table->timestamps();
 
             $table->foreign('user_id')

@@ -6,6 +6,7 @@ use App\Models\Alert;
 use App\Schedules\BaseSchedule;
 use Domain\Alert\Jobs\ProcessAlertsJob;
 use Illuminate\Database\Eloquent\Builder;
+use Illuminate\Support\Collection;
 
 class CheckAlertsSchedule extends BaseSchedule
 {
@@ -31,17 +32,19 @@ class CheckAlertsSchedule extends BaseSchedule
             return;
         }
 
-        /** @var non-empty-list<int> $ids */
-        $ids = $query->pluck('id')->all();
+        $query
+            ->pluck('id')
+            ->chunk(50)
+            ->each(function (Collection $chunk): void {
+                // mark alerts as queued
+                Alert::query()
+                    ->whereIn('id', $chunk->all())
+                    ->update([
+                        'queued_at' => now(),
+                    ]);
 
-        // mark alerts as queued
-        Alert::query()
-            ->whereIn('id', $ids)
-            ->update([
-                'queued_at' => now(),
-            ]);
-
-        // dispatch job
-        ProcessAlertsJob::dispatch($ids);
+                // dispatch job for each chunk
+                ProcessAlertsJob::dispatch($chunk->all());
+            });
     }
 }

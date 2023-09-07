@@ -9,6 +9,7 @@ use Domain\Binance\Data\KeyPairData;
 use Domain\Binance\Exceptions\BinanceBanException;
 use Domain\Binance\Exceptions\BinanceLimitException;
 use Domain\Binance\Http\BinanceApi;
+use Domain\OpenExchangeRates\Cache\OpenExchangeRatesCache;
 use Domain\User\Notifications\AssetsSyncedNotification;
 use Illuminate\Queue\Attributes\WithoutRelations;
 use Illuminate\Queue\Middleware\WithoutOverlapping;
@@ -27,8 +28,10 @@ class SyncAssetsJob extends BaseJob
         return [(new WithoutOverlapping($this->user->id))->releaseAfter(5)];
     }
 
-    public function handle(BinanceApi $binanceApi): void
-    {
+    public function handle(
+        BinanceApi $binanceApi,
+        OpenExchangeRatesCache $openExchangeRatesCache,
+    ): void {
         try {
             $response = $binanceApi->wallet->assets(KeyPairData::fromUser($this->user));
         } catch (BinanceBanException $e) {
@@ -50,11 +53,14 @@ class SyncAssetsJob extends BaseJob
             ->whereNotIn('currency', $tickers->all())
             ->delete();
 
+        $fiatCurrencies = $openExchangeRatesCache->getListOfFiatCurrencies();
+
         foreach ($assets as $asset) {
             $this->user->assets()->updateOrCreate([
                 'currency' => (string) $asset['asset'],
             ], [
                 'balance' => floatval($asset['free']),
+                'is_fiat' => $fiatCurrencies->contains((string) $asset['asset']),
             ]);
         }
 

@@ -15,4 +15,8 @@ enum NotificationTypeEnum: string
 
     // alert domain
     case ALERT = 'alert@alert';
+
+    // limits domain
+    case CRYPTOCURRENCY_MIN = 'limits@cryptocurrency-min';
+    case CRYPTOCURRENCY_MAX = 'limits@cryptocurrency-max';
 }

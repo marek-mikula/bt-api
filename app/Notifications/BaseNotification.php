@@ -2,6 +2,7 @@
 
 namespace App\Notifications;
 
+use App\Enums\QueueEnum;
 use Illuminate\Bus\Queueable;
 use Illuminate\Contracts\Queue\ShouldQueue;
 use Illuminate\Notifications\Notification;
@@ -16,6 +17,9 @@ class BaseNotification extends Notification implements ShouldQueue
     {
         // set correct locale for notifications
         $this->locale(app()->getLocale());
+
+        // set default queue for notifications
+        $this->onQueue(QueueEnum::NOTIFICATIONS->value);
     }
 
     public function backoff(): array

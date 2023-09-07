@@ -31,7 +31,7 @@ class ProcessAlertsJob extends BaseJob
             ->whereNull('notified_at')
             ->each(static function (Alert $alert) {
                 $alert->user->notify(new AlertNotification($alert));
-            }, 50);
+            }, 10);
 
         Alert::query()
             ->whereIn('id', $this->alertIds)

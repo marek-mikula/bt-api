@@ -3,7 +3,7 @@
 namespace Domain\User\Http\Requests\Data;
 
 use App\Data\Casts\EnumCast;
-use Domain\User\Enums\LimitsNotificationPeriodEnum;
+use Domain\Limits\Enums\LimitsNotificationPeriodEnum;
 use Spatie\LaravelData\Attributes\WithCast;
 use Spatie\LaravelData\Data;
 
