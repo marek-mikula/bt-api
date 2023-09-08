@@ -2,8 +2,8 @@
 
 namespace Domain\Binance\Services;
 
+use Domain\Binance\Data\BanCacheData;
 use Domain\Binance\Data\KeyPairData;
-use Domain\Binance\Data\LimitBanData;
 use Domain\Binance\Data\LimitCacheData;
 use Domain\Binance\Data\LimitData;
 use Domain\Binance\Enums\BinanceEndpointEnum;
@@ -13,6 +13,7 @@ use Domain\Binance\Exceptions\BinanceBanException;
 use Domain\Binance\Exceptions\BinanceLimitException;
 use Domain\Binance\Exceptions\BinanceRequestException;
 use Domain\Binance\Http\BinanceResponse;
+use Illuminate\Contracts\Config\Repository;
 use Illuminate\Support\Facades\Cache;
 use InvalidArgumentException;
 
@@ -20,8 +21,9 @@ class BinanceLimiter
 {
     private readonly int $timestampMs;
 
-    public function __construct()
-    {
+    public function __construct(
+        private readonly Repository $config,
+    ) {
         // save the timestamp in ms for further process
         $this->timestampMs = now()->getTimestampMs();
     }
@@ -33,6 +35,22 @@ class BinanceLimiter
      */
     public function limit(int $weight, BinanceEndpointEnum $endpoint, callable $request, ?KeyPairData $keyPair, ...$args): BinanceResponse
     {
+        // if keyPair is set, push it to the beginning
+        // of the arguments array
+        if (! empty($keyPair)) {
+            $args = [$keyPair, ...$args];
+        }
+
+        // check if limiter is enabled, if so
+        // return response immediately
+
+        if (! $this->config->get('binance.limiter')) {
+            /** @var BinanceResponse $response */
+            $response = $request(...$args);
+
+            return $response;
+        }
+
         // firstly, check if we haven't got banned
         // in the past, so we don't spam the API
         // more, which would result in longer ban :/
@@ -51,12 +69,6 @@ class BinanceLimiter
 
             // save data to array for further process
             $processData[$key] = [$limit, $this->checkLimit($weight, $key, $endpoint, $limit)];
-        }
-
-        // if keyPair is set, push it to the beginning
-        // of the arguments array
-        if (! empty($keyPair)) {
-            $args = [$keyPair, ...$args];
         }
 
         try {
@@ -81,19 +93,19 @@ class BinanceLimiter
         }
 
         foreach ($processData as $key => [$limit, $data]) {
-            $this->increment($key, $limit, $data);
+            $this->increment($key, $weight, $limit, $data);
         }
 
         return $response;
     }
 
-    private function increment(string $key, LimitData $limit, ?LimitCacheData $data): void
+    private function increment(string $key, int $weight, LimitData $limit, ?LimitCacheData $data): void
     {
         // create cache object if not created yet
         $data = $data === null ? LimitCacheData::from(['timestampMs' => $this->timestampMs]) : $data;
 
-        // increment the value
-        $data->tries += 1;
+        // increment the weight
+        $data->weightUsed += $weight;
 
         // count for how much ms should be the cache stored
         $cacheTimeInMs = ($data->timestampMs + $limit->getPeriodInMs()) - $this->timestampMs;
@@ -121,15 +133,16 @@ class BinanceLimiter
             return null;
         }
 
-        // we would exceed the max number of tries if we would
+        // we would exceed the max number of weight if we would
         // call the endpoint one more time
         // => throw exception
-        if ((($data->tries + 1) * $weight) > $limit->value) {
+        if (($data->weightUsed + $weight) > $limit->value) {
             throw new BinanceLimitException(
                 endpoint: $endpoint,
                 limit: $limit,
                 waitMs: ($data->timestampMs + $limit->getPeriodInMs()) - $this->timestampMs,
                 weight: $weight,
+                weightUsed: $data->weightUsed,
             );
         }
 
@@ -146,7 +159,7 @@ class BinanceLimiter
 
         $waitSeconds = (int) ($response->header('Retry-After') ?? 1); // 1s as default, missing header?
 
-        $value = new LimitBanData($this->timestampMs, $waitSeconds * 1000);
+        $value = new BanCacheData($this->timestampMs, $waitSeconds * 1000);
 
         Cache::tags(['binance', 'binance-limiter'])->put($cacheKey, $value, now()->addSeconds($waitSeconds));
 
@@ -158,14 +171,14 @@ class BinanceLimiter
      */
     private function checkBan(BinanceEndpointEnum $endpoint, ?KeyPairData $keyPair): void
     {
-        /** @var LimitBanData|null $ipBan */
+        /** @var BanCacheData|null $ipBan */
         $ipBan = Cache::tags(['binance', 'binance-limiter'])->get($this->getIpBanCacheKey($endpoint));
 
         if ($ipBan !== null) {
             throw new BinanceBanException($endpoint, $ipBan);
         }
 
-        /** @var LimitBanData|null $ban */
+        /** @var BanCacheData|null $ban */
         $ban = Cache::tags(['binance', 'binance-limiter'])->get($this->getBanCacheKey($endpoint, $keyPair));
 
         if ($ban !== null) {
@@ -175,14 +188,19 @@ class BinanceLimiter
 
     private function getIpBanCacheKey(BinanceEndpointEnum $endpoint): string
     {
-        return "ban-{$endpoint->value}";
+        return vsprintf('binance-ban:%s', [
+            $endpoint->value,
+        ]);
     }
 
     private function getBanCacheKey(BinanceEndpointEnum $endpoint, ?KeyPairData $keyPair): string
     {
         $id = $keyPair === null ? 'ip' : md5("{$keyPair->publicKey}-{$keyPair->secretKey}");
 
-        return "ban-{$id}-{$endpoint->value}";
+        return vsprintf('binance-ban:%s-%s', [
+            $id,
+            $endpoint->value,
+        ]);
     }
 
     private function getLimitCacheKey(BinanceEndpointEnum $endpoint, LimitData $limit, ?KeyPairData $keyPair): string
@@ -195,12 +213,23 @@ class BinanceLimiter
 
         $id = $limit->type === BinanceLimitTypeEnum::IP ? 'ip' : md5("{$keyPair->publicKey}-{$keyPair->secretKey}");
 
-        // shared limits are not endpoint specific
+        // ! shared limits are not endpoint specific
+        // => do not include endpoint name in the
+        //    cache key string
 
         if ($limit->shared) {
-            return "limit-{$id}-{$limit->per}-{$limit->period->value}";
+            return vsprintf('binance-limit:%s-%s-%s', [
+                $id,
+                $limit->per,
+                $limit->period->value,
+            ]);
         }
 
-        return "limit-{$id}-{$endpoint->value}-{$limit->per}-{$limit->period->value}";
+        return vsprintf('binance-limit:%s-%s-%s-%s', [
+            $id,
+            $endpoint->value,
+            $limit->per,
+            $limit->period->value,
+        ]);
     }
 }

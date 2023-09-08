@@ -21,16 +21,42 @@ interface CoinmarketcapClientInterface
     public function coinMetadata(Collection $ids): Response;
 
     /**
-     * @param  Collection<string>  $tickers
+     * @param  Collection<string>  $symbols
      *
      * @throws CoinmarketcapRequestException
      */
-    public function coinMetadataByTicker(Collection $tickers): Response;
+    public function coinMetadataBySymbol(Collection $symbols): Response;
 
     /**
      * @throws CoinmarketcapRequestException
      */
     public function latestGlobalMetrics(): Response;
+
+    /**
+     * @param  Collection<int>  $ids
+     *
+     * @throws CoinmarketcapRequestException
+     */
+    public function quotesLatest(Collection $ids): Response;
+
+    /**
+     * @param  Collection<string>  $symbols
+     *
+     * @throws CoinmarketcapRequestException
+     */
+    public function quotesLatestBySymbol(Collection $symbols): Response;
+
+    /**
+     * @param  Collection<string>|null  $symbols
+     *
+     * @throws CoinmarketcapRequestException
+     */
+    public function map(int $page = 1, int $perPage = 100, Collection $symbols = null): Response;
+
+    /**
+     * @throws CoinmarketcapRequestException
+     */
+    public function fiatMap(int $page = 1, int $perPage = 100): Response;
 
     /**
      * @throws CoinmarketcapRequestException

@@ -13,6 +13,7 @@
 
 return [
     'mock' => env('BINANCE_MOCK', false),
+    'limiter' => env('BINANCE_LIMITER', true),
     'url' => env('BINANCE_URL'),
     'testnet' => [
         'enabled' => env('BINANCE_TESTNET_ENABLED', false),

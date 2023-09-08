@@ -31,7 +31,7 @@ class SearchService
 
         $symbols = $coins->pluck('symbol')->all();
 
-        $metadata = $this->coinmarketcapApi->coinMetadataByTicker($symbols)
+        $metadata = $this->coinmarketcapApi->coinMetadataBySymbol($symbols)
             ->collect('data')
             ->keyBy('symbol');
 

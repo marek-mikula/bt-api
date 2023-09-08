@@ -4,7 +4,7 @@ namespace Domain\Binance\Data;
 
 use Spatie\LaravelData\Data;
 
-class LimitBanData extends Data
+class BanCacheData extends Data
 {
     public function __construct(
         public readonly int $timestampMs,
