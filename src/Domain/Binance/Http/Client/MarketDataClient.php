@@ -61,6 +61,19 @@ class MarketDataClient implements MarketDataClientInterface
         return new BinanceResponse($response);
     }
 
+    public function exchangeInfo(KeyPairData $keyPair): BinanceResponse
+    {
+        $response = $this->request()->get('/api/v3/exchangeInfo', [
+            'permissions' => 'SPOT', // get only spot assets
+        ]);
+
+        if ($response->failed()) {
+            throw new BinanceRequestException(new BinanceResponse($response));
+        }
+
+        return new BinanceResponse($response);
+    }
+
     private function request(): PendingRequest
     {
         return Http::baseUrl((string) $this->config->get('binance.url'));

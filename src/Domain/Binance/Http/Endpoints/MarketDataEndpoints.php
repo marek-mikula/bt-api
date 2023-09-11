@@ -48,4 +48,14 @@ class MarketDataEndpoints
     {
         return $this->limiter->limit(2, BinanceEndpointEnum::MD_AVG_PRICE, [$this->marketDataClient, 'avgPrice'], $keyPair, $ticker);
     }
+
+    /**
+     * @throws BinanceLimitException
+     * @throws BinanceBanException
+     * @throws BinanceRequestException
+     */
+    public function exchangeInfo(KeyPairData $keyPair): BinanceResponse
+    {
+        return $this->limiter->limit(2, BinanceEndpointEnum::MD_EXCHANGE_INFO, [$this->marketDataClient, 'exchangeInfo'], $keyPair);
+    }
 }

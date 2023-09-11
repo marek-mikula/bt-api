@@ -10,12 +10,12 @@ use Illuminate\Database\Eloquent\Relations\BelongsTo;
 /**
  * @property-read int $id
  * @property int $user_id
- * @property string $currency
+ * @property int $currency_id
  * @property float $balance
- * @property bool $is_fiat
  * @property Carbon $created_at
  * @property Carbon $updated_at
  * @property-read User $user
+ * @property-read Currency $currency
  */
 class Asset extends Model
 {
@@ -27,20 +27,14 @@ class Asset extends Model
 
     protected $fillable = [
         'user_id',
-        'currency',
+        'currency_id',
         'balance',
-        'is_fiat',
-    ];
-
-    protected $attributes = [
-        'is_fiat' => false,
     ];
 
     protected $casts = [
         'user_id' => 'integer',
-        'currency' => 'string',
+        'currency_id' => 'integer',
         'balance' => 'float',
-        'is_fiat' => 'boolean',
     ];
 
     /**
@@ -49,5 +43,13 @@ class Asset extends Model
     public function user(): BelongsTo
     {
         return $this->belongsTo(User::class, 'user_id', 'id');
+    }
+
+    /**
+     * @see Asset::$currency
+     */
+    public function currency(): BelongsTo
+    {
+        return $this->belongsTo(Currency::class, 'currency_id', 'id');
     }
 }

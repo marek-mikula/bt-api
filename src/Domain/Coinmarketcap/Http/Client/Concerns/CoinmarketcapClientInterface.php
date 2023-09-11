@@ -56,7 +56,7 @@ interface CoinmarketcapClientInterface
     /**
      * @throws CoinmarketcapRequestException
      */
-    public function fiatMap(int $page = 1, int $perPage = 100): Response;
+    public function mapFiat(int $page = 1, int $perPage = 100): Response;
 
     /**
      * @throws CoinmarketcapRequestException

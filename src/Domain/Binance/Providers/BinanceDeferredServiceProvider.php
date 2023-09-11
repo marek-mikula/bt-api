@@ -4,12 +4,16 @@ namespace Domain\Binance\Providers;
 
 use Domain\Binance\Http\BinanceApi;
 use Domain\Binance\Http\Client\Concerns\MarketDataClientInterface;
+use Domain\Binance\Http\Client\Concerns\SpotClientInterface;
 use Domain\Binance\Http\Client\Concerns\WalletClientInterface;
 use Domain\Binance\Http\Client\MarketDataClient;
 use Domain\Binance\Http\Client\MarketDataClientMock;
+use Domain\Binance\Http\Client\SpotClient;
+use Domain\Binance\Http\Client\SpotClientMock;
 use Domain\Binance\Http\Client\WalletClient;
 use Domain\Binance\Http\Client\WalletClientMock;
 use Domain\Binance\Http\Endpoints\MarketDataEndpoints;
+use Domain\Binance\Http\Endpoints\SpotEndpoints;
 use Domain\Binance\Http\Endpoints\WalletEndpoints;
 use Domain\Binance\Services\BinanceAuthenticator;
 use Domain\Binance\Services\BinanceKeyValidator;
@@ -29,6 +33,7 @@ class BinanceDeferredServiceProvider extends ServiceProvider implements Deferrab
         // endpoints
         WalletEndpoints::class,
         MarketDataEndpoints::class,
+        SpotEndpoints::class,
 
         // services
         BinanceAuthenticator::class,
@@ -48,6 +53,12 @@ class BinanceDeferredServiceProvider extends ServiceProvider implements Deferrab
             return config('binance.mock')
                 ? app(MarketDataClientMock::class)
                 : app(MarketDataClient::class);
+        });
+
+        $this->app->singleton(SpotClientInterface::class, static function () {
+            return config('binance.mock')
+                ? app(SpotClientMock::class)
+                : app(SpotClient::class);
         });
 
         foreach ($this->services as $service) {

@@ -22,4 +22,6 @@ interface MarketDataClientInterface
      * @throws BinanceRequestException
      */
     public function avgPrice(KeyPairData $keyPair, string $ticker): BinanceResponse;
+
+    public function exchangeInfo(KeyPairData $keyPair): BinanceResponse;
 }

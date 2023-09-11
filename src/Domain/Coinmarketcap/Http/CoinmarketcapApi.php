@@ -58,8 +58,8 @@ class CoinmarketcapApi
 
         // check number of IDs, so we don't waste our credits
         // 100 tokens = 1 credit
-        if ($id->count() > 100) {
-            throw new InvalidArgumentException('Cannot get metadata for that number of tokens. Number must be <= 100.');
+        if ($id->count() > 5000) {
+            throw new InvalidArgumentException('Cannot get metadata for that number of tokens. Number must be <= 5000.');
         }
 
         return $this->client->coinMetadata($id);
@@ -82,8 +82,8 @@ class CoinmarketcapApi
 
         // check number of tickers, so we don't waste our credits
         // 100 tokens = 1 credit
-        if ($symbol->count() > 100) {
-            throw new InvalidArgumentException('Cannot get metadata for that number of tokens. Number must be <= 100.');
+        if ($symbol->count() > 5000) {
+            throw new InvalidArgumentException('Cannot get metadata for that number of tokens. Number must be <= 5000.');
         }
 
         return $this->client->coinMetadataBySymbol($symbol);
@@ -173,7 +173,7 @@ class CoinmarketcapApi
      *
      * @throws CoinmarketcapRequestException
      */
-    public function fiatMap(int $page = 1, int $perPage = 100): Response
+    public function mapFiat(int $page = 1, int $perPage = 100): Response
     {
         if ($page < 1) {
             throw new InvalidArgumentException('Parameter $page must be greater or equal to 1.');
@@ -187,7 +187,7 @@ class CoinmarketcapApi
             throw new InvalidArgumentException('Parameter $perPage must be less or equal to 5000');
         }
 
-        return $this->client->fiatMap($page, $perPage);
+        return $this->client->mapFiat($page, $perPage);
     }
 
     /**

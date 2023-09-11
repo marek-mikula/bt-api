@@ -24,4 +24,11 @@ class MarketDataClientMock implements MarketDataClientInterface
 
         return new BinanceResponse($response);
     }
+
+    public function exchangeInfo(KeyPairData $keyPair): BinanceResponse
+    {
+        $response = response_from_client(data: $this->mockData('Binance', 'market-data/exchange-info.json'));
+
+        return new BinanceResponse($response);
+    }
 }

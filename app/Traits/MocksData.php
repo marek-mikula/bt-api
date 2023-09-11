@@ -20,7 +20,7 @@ trait MocksData
      * @param  string  $fileData the name patter for file path, which will be used
      * with vsprintf, for instance example/%s_%s.json
      * @param  string  $fileEmpty the name of the empty file with empty data array
-     * @param string $pathToData the path to obtain data from the JSON array
+     * @param  string  $pathToData the path to obtain data from the JSON array
      */
     private function mockPagination(
         string $domain,

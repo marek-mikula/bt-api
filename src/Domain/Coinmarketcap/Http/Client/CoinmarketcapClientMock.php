@@ -21,7 +21,7 @@ class CoinmarketcapClientMock implements CoinmarketcapClientInterface
             fileStep: 1_000,
             fileMax: 10_000,
             fileData: 'latest-by-cap/%s_%s.json',
-            fileEmpty: 'latest-by-cap/empty.json'
+            fileEmpty: 'empty.json'
         );
 
         return response_from_client(data: $data);
@@ -36,7 +36,7 @@ class CoinmarketcapClientMock implements CoinmarketcapClientInterface
         // firstly retrieve the map od IDs, so we know
         // in which file each ID lays
 
-        $map = $this->mockData('Coinmarketcap', 'coin-metadata/map.json');
+        $map = $this->mockData('Coinmarketcap', 'metadata/map.json');
 
         // search through the map of IDs and keep only
         // those files where we need to look for the metadata
@@ -54,11 +54,11 @@ class CoinmarketcapClientMock implements CoinmarketcapClientInterface
         // load empty response data JSON
         // => we will fill it with data from each file we need to look through
 
-        $responseData = $this->mockData('Coinmarketcap', 'coin-metadata/empty.json');
+        $responseData = $this->mockData('Coinmarketcap', 'empty.json');
 
         foreach ($map as $file => $fileIds) {
             // retrieve data from current file
-            $data = $this->mockData('Coinmarketcap', "coin-metadata/{$file}")['data'];
+            $data = $this->mockData('Coinmarketcap', "metadata/{$file}")['data'];
 
             // filter only those items we are looking for
             // based on given IDs in current file
@@ -117,39 +117,56 @@ class CoinmarketcapClientMock implements CoinmarketcapClientInterface
         // => ignore pagination and look only for these
         //    symbols
 
-        if ($symbols && $symbols->count() > 0) {
-            // load empty json
-            $data = $this->mockData('Coinmarketcap', 'map/empty.json');
+        if ($symbols?->count() > 0) {
+            // cast collection to array
 
-            // refresh the page param
-            $page = 1;
+            $symbols = $symbols->all();
 
-            // search for those symbols until the
-            // response is empty, or we have found
-            // all the symbols
-            do {
-                $responseData = $this->map($page)->collect('data');
+            // firstly retrieve the map od symbols, so we know
+            // in which file each symbol lays
 
-                // merge in only those items which
-                // are contained in given symbols
-                // collection
-                $data['data'] = array_merge(
-                    $data['data'],
-                    $responseData->filter(function (array $item) use ($symbols): bool {
-                        return $symbols->contains($item['symbol']);
-                    })->all(),
+            $map = $this->mockData('Coinmarketcap', 'map/map.json');
+
+            // search through the map of symbols and keep only
+            // those files where we need to look for the map
+            // object for each given symbol
+
+            foreach ($map as $file => $fileSymbols) {
+                $map[$file] = array_intersect($fileSymbols, $symbols);
+
+                // unset file because there are no metadata we need to look for
+                if (empty($map[$file])) {
+                    unset($map[$file]);
+                }
+            }
+
+            // load empty response data JSON
+            // => we will fill it with data from each file we need to look through
+
+            $responseData = $this->mockData('Coinmarketcap', 'empty.json');
+
+            foreach ($map as $file => $fileSymbols) {
+                // retrieve data from current file
+                $data = $this->mockData('Coinmarketcap', "map/{$file}")['data'];
+
+                // filter only those items we are looking for
+                // based on given symbols in current file
+                $data = Arr::where($data, function (array $item) use ($fileSymbols): bool {
+                    return in_array($item['symbol'], $fileSymbols);
+                });
+
+                // merge arrays
+
+                $responseData['data'] = array_merge(
+                    array_values($responseData['data']),
+                    array_values($data)
                 );
-
-                $page++;
-            } while (
-                count($data['data']) !== $symbols->count() &&
-                $responseData->count() > 0
-            );
+            }
 
             // remove indexes to be sure
-            $data['data'] = array_values($data['data']);
+            $responseData['data'] = array_values($responseData['data']);
 
-            return response_from_client(data: $data);
+            return response_from_client(data: $responseData);
         }
 
         $data = $this->mockPagination(
@@ -157,15 +174,15 @@ class CoinmarketcapClientMock implements CoinmarketcapClientInterface
             page: $page,
             perPage: $perPage,
             fileStep: 5_000,
-            fileMax: 10_000,
+            fileMax: 25_000,
             fileData: 'map/%s_%s.json',
-            fileEmpty: 'map/empty.json'
+            fileEmpty: 'empty.json'
         );
 
         return response_from_client(data: $data);
     }
 
-    public function fiatMap(int $page = 1, int $perPage = 100): Response
+    public function mapFiat(int $page = 1, int $perPage = 100): Response
     {
         $data = $this->mockPagination(
             domain: 'Coinmarketcap',
@@ -174,7 +191,7 @@ class CoinmarketcapClientMock implements CoinmarketcapClientInterface
             fileStep: 5_000,
             fileMax: 5_000,
             fileData: 'fiat-map/%s_%s.json',
-            fileEmpty: 'fiat-map/empty.json'
+            fileEmpty: 'empty.json'
         );
 
         return response_from_client(data: $data);

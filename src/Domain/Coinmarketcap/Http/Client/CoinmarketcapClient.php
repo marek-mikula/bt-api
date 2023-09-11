@@ -9,6 +9,7 @@ use Illuminate\Http\Client\PendingRequest;
 use Illuminate\Http\Client\Response;
 use Illuminate\Support\Collection;
 use Illuminate\Support\Facades\Http;
+use Illuminate\Support\Str;
 
 class CoinmarketcapClient implements CoinmarketcapClientInterface
 {
@@ -42,6 +43,16 @@ class CoinmarketcapClient implements CoinmarketcapClientInterface
         $response = $this->request()
             ->get('/v2/cryptocurrency/info', [
                 'id' => $ids->implode(','),
+                'aux' => implode(',', [
+                    'urls',
+                    'logo',
+                    'description',
+                    //                    'tags',
+                    //                    'platform',
+                    'date_added',
+                    //                    'notice',
+                    'status',
+                ]),
             ]);
 
         if (! $response->successful()) {
@@ -56,6 +67,16 @@ class CoinmarketcapClient implements CoinmarketcapClientInterface
         $response = $this->request()
             ->get('/v2/cryptocurrency/info', [
                 'symbol' => $symbols->implode(','),
+                'aux' => implode(',', [
+                    'urls',
+                    'logo',
+                    'description',
+                    //                    'tags',
+                    //                    'platform',
+                    'date_added',
+                    //                    'notice',
+                    'status',
+                ]),
             ]);
 
         if (! $response->successful()) {
@@ -110,7 +131,7 @@ class CoinmarketcapClient implements CoinmarketcapClientInterface
     public function map(int $page = 1, int $perPage = 100, Collection $symbols = null): Response
     {
         $params = [
-            'listing_status' => 'active',
+            'listing_status' => 'active,untracked',
             'start' => (($page - 1) * $perPage) + 1,
             'limit' => $perPage,
             'sort' => 'id',
@@ -119,7 +140,7 @@ class CoinmarketcapClient implements CoinmarketcapClientInterface
                 //                    'first_historical_data',
                 //                    'last_historical_data',
                 //                    'is_active',
-                //                    'status',
+                'status',
             ]),
         ];
 
@@ -131,13 +152,28 @@ class CoinmarketcapClient implements CoinmarketcapClientInterface
             ->get('/v1/cryptocurrency/map', $params);
 
         if (! $response->successful()) {
+            // some symbols are invalid
+            // => extract their names and
+            // retry the request without them
+            if ($symbols !== null && $response->status() === 400 && Str::contains($response->json('status.error_message'), 'Invalid values for "symbol"')) {
+                $invalidSymbols = Str::of($response->json('status.error_message'))
+                    ->afterLast(':')
+                    ->remove('"')
+                    ->trim()
+                    ->explode(',');
+
+                $symbols = $symbols->diff($invalidSymbols);
+
+                return $this->map($page, $perPage, $symbols);
+            }
+
             throw new CoinmarketcapRequestException($response);
         }
 
         return $response;
     }
 
-    public function fiatMap(int $page = 1, int $perPage = 100): Response
+    public function mapFiat(int $page = 1, int $perPage = 100): Response
     {
         $response = $this->request()
             ->get('/v1/fiat/map', [

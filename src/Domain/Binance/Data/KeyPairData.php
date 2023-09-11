@@ -28,4 +28,12 @@ class KeyPairData extends Data
             'secretKey' => $secretKey,
         ]);
     }
+
+    public static function admin(): self
+    {
+        return self::from([
+            'publicKey' => (string) config('binance.keys.public'),
+            'secretKey' => (string) config('binance.keys.secret'),
+        ]);
+    }
 }

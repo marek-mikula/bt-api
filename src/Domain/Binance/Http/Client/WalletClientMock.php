@@ -38,4 +38,11 @@ class WalletClientMock implements WalletClientInterface
 
         return new BinanceResponse($response);
     }
+
+    public function allCoins(KeyPairData $keyPair): BinanceResponse
+    {
+        $response = response_from_client(data: $this->mockData('Binance', 'wallet/all-coins.json'));
+
+        return new BinanceResponse($response);
+    }
 }
