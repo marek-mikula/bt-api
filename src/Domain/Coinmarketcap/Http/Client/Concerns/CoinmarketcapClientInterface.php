@@ -33,20 +33,6 @@ interface CoinmarketcapClientInterface
     public function latestGlobalMetrics(): Response;
 
     /**
-     * @param  Collection<int>  $ids
-     *
-     * @throws CoinmarketcapRequestException
-     */
-    public function quotesLatest(Collection $ids): Response;
-
-    /**
-     * @param  Collection<string>  $symbols
-     *
-     * @throws CoinmarketcapRequestException
-     */
-    public function quotesLatestBySymbol(Collection $symbols): Response;
-
-    /**
      * @param  Collection<string>|null  $symbols
      *
      * @throws CoinmarketcapRequestException

@@ -100,34 +100,6 @@ class CoinmarketcapClient implements CoinmarketcapClientInterface
         return $response;
     }
 
-    public function quotesLatest(Collection $ids): Response
-    {
-        $response = $this->request()
-            ->get('/v2/cryptocurrency/quotes/latest', [
-                'id' => $ids->implode(','),
-            ]);
-
-        if (! $response->successful()) {
-            throw new CoinmarketcapRequestException($response);
-        }
-
-        return $response;
-    }
-
-    public function quotesLatestBySymbol(Collection $symbols): Response
-    {
-        $response = $this->request()
-            ->get('/v2/cryptocurrency/quotes/latest', [
-                'symbol' => $symbols->implode(','),
-            ]);
-
-        if (! $response->successful()) {
-            throw new CoinmarketcapRequestException($response);
-        }
-
-        return $response;
-    }
-
     public function map(int $page = 1, int $perPage = 100, Collection $symbols = null): Response
     {
         $params = [

@@ -93,24 +93,6 @@ class CoinmarketcapClientMock implements CoinmarketcapClientInterface
         return response_from_client(data: $this->mockData('Coinmarketcap', 'latest-global-metrics.json'));
     }
 
-    public function quotesLatest(Collection $ids): Response
-    {
-        return response_from_client();
-    }
-
-    public function quotesLatestBySymbol(Collection $symbols): Response
-    {
-        // map symbols to collection of Coinmarketcap IDs
-
-        $ids = $this->map(symbols: $symbols)
-            ->collect('data')
-            ->pluck('id')
-            ->map('intval')
-            ->all();
-
-        return $this->quotesLatest($ids);
-    }
-
     public function map(int $page = 1, int $perPage = 100, Collection $symbols = null): Response
     {
         // we are searching for specific symbols
@@ -190,7 +172,7 @@ class CoinmarketcapClientMock implements CoinmarketcapClientInterface
             perPage: $perPage,
             fileStep: 5_000,
             fileMax: 5_000,
-            fileData: 'fiat-map/%s_%s.json',
+            fileData: 'map-fiat/%s_%s.json',
             fileEmpty: 'empty.json'
         );
 

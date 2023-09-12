@@ -101,50 +101,6 @@ class CoinmarketcapApi
     }
 
     /**
-     * Returns the latest quotes for given cryptocurrency IDs
-     *
-     * @throws CoinmarketcapRequestException
-     */
-    public function quotesLatest(int|array $id): Response
-    {
-        $id = collect(Arr::wrap($id))->map('intval');
-
-        if ($id->isEmpty()) {
-            throw new InvalidArgumentException('Cannot get quotes for no tokens.');
-        }
-
-        // check number of IDs, so we don't waste our credits
-        // 100 tokens = 1 credit
-        if ($id->count() > 100) {
-            throw new InvalidArgumentException('Cannot get quotes for that number of tokens. Number must be <= 100.');
-        }
-
-        return $this->client->quotesLatest($id);
-    }
-
-    /**
-     * Returns the latest quotes for given cryptocurrency tickers
-     *
-     * @throws CoinmarketcapRequestException
-     */
-    public function quotesLatestBySymbol(string|array $symbol): Response
-    {
-        $symbol = collect(Arr::wrap($symbol))->map([Str::class, 'upper']);
-
-        if ($symbol->isEmpty()) {
-            throw new InvalidArgumentException('Cannot get quotes for no tokens.');
-        }
-
-        // check number of tickers, so we don't waste our credits
-        // 100 tokens = 1 credit
-        if ($symbol->count() > 100) {
-            throw new InvalidArgumentException('Cannot get quotes for that number of tokens. Number must be <= 100.');
-        }
-
-        return $this->client->quotesLatestBySymbol($symbol);
-    }
-
-    /**
      * Returns the paginated map for symbols and IDs, if a collection
      * of symbols is passed, the pagination is ignored, and we only look
      * for those symbols
