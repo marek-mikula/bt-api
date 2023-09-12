@@ -19,49 +19,7 @@ class MarketDataClient implements MarketDataClientInterface
     ) {
     }
 
-    public function tickerPrice(KeyPairData $keyPair, array|string $ticker): BinanceResponse
-    {
-        $params = [];
-
-        if (is_string($ticker)) {
-            $params['symbol'] = $ticker;
-        } elseif (! empty($ticker)) {
-            // wrap tickers with double quotes and
-            // implode it to one string
-            $params['symbols'] = collect($ticker)
-                ->map(static fn (string $ticker): string => '"'.$ticker.'"')
-                ->implode(',');
-
-            // append and prepend square brackets to
-            // the string
-            $params['symbols'] = "[{$params['symbols']}]";
-        }
-
-        $response = $this->authRequest($keyPair)
-            ->get('/api/v3/ticker/price', $params);
-
-        if ($response->failed()) {
-            throw new BinanceRequestException(new BinanceResponse($response));
-        }
-
-        return new BinanceResponse($response);
-    }
-
-    public function avgPrice(KeyPairData $keyPair, string $ticker): BinanceResponse
-    {
-        $response = $this->authRequest($keyPair)
-            ->get('/api/v3/ticker/price', [
-                'symbol' => $ticker,
-            ]);
-
-        if ($response->failed()) {
-            throw new BinanceRequestException(new BinanceResponse($response));
-        }
-
-        return new BinanceResponse($response);
-    }
-
-    public function exchangeInfo(KeyPairData $keyPair): BinanceResponse
+    public function exchangeInfo(): BinanceResponse
     {
         $response = $this->request()->get('/api/v3/exchangeInfo', [
             'permissions' => 'SPOT', // get only spot assets

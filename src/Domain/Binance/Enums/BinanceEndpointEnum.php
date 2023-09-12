@@ -14,8 +14,6 @@ enum BinanceEndpointEnum: string
     case W_ALL_COINS = 'w@all-coins';
 
     // market data endpoints
-    case MD_TICKER_PRICE = 'md@ticker-price';
-    case MD_AVG_PRICE = 'md@avg-price';
     case MD_EXCHANGE_INFO = 'md@exchange-info';
 
     // spot endpoints
@@ -43,9 +41,7 @@ enum BinanceEndpointEnum: string
                     ),
                 ],
                 self::S_ACCOUNT,
-                self::MD_EXCHANGE_INFO,
-                self::MD_AVG_PRICE,
-                self::MD_TICKER_PRICE => [
+                self::MD_EXCHANGE_INFO  => [
                     new LimitData(
                         period: BinanceLimitPeriodEnum::MINUTE,
                         type: BinanceLimitTypeEnum::IP,

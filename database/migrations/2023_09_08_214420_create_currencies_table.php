@@ -10,6 +10,7 @@ return new class extends Migration
     {
         Schema::create('currencies', function (Blueprint $table) {
             $table->id();
+            $table->string('state');
             $table->string('symbol');
             $table->string('name');
             $table->boolean('is_fiat')->default(false);

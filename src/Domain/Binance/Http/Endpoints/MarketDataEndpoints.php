@@ -2,7 +2,6 @@
 
 namespace Domain\Binance\Http\Endpoints;
 
-use Domain\Binance\Data\KeyPairData;
 use Domain\Binance\Enums\BinanceEndpointEnum;
 use Domain\Binance\Exceptions\BinanceBanException;
 use Domain\Binance\Exceptions\BinanceLimitException;
@@ -24,38 +23,8 @@ class MarketDataEndpoints
      * @throws BinanceBanException
      * @throws BinanceRequestException
      */
-    public function tickerPrice(KeyPairData $keyPair, array|string|null $ticker): BinanceResponse
+    public function exchangeInfo(): BinanceResponse
     {
-        $ticker = collect(empty($ticker) ? [] : (is_string($ticker) ? [$ticker] : $ticker));
-
-        if ($ticker->count() === 0 || $ticker->count() > 1) {
-            $weight = 4;
-            $ticker = $ticker->all();
-        } else {
-            $weight = 2;
-            $ticker = (string) $ticker->first();
-        }
-
-        return $this->limiter->limit($weight, BinanceEndpointEnum::MD_TICKER_PRICE, [$this->marketDataClient, 'tickerPrice'], $keyPair, $ticker);
-    }
-
-    /**
-     * @throws BinanceLimitException
-     * @throws BinanceBanException
-     * @throws BinanceRequestException
-     */
-    public function avgPrice(KeyPairData $keyPair, string $ticker): BinanceResponse
-    {
-        return $this->limiter->limit(2, BinanceEndpointEnum::MD_AVG_PRICE, [$this->marketDataClient, 'avgPrice'], $keyPair, $ticker);
-    }
-
-    /**
-     * @throws BinanceLimitException
-     * @throws BinanceBanException
-     * @throws BinanceRequestException
-     */
-    public function exchangeInfo(KeyPairData $keyPair): BinanceResponse
-    {
-        return $this->limiter->limit(2, BinanceEndpointEnum::MD_EXCHANGE_INFO, [$this->marketDataClient, 'exchangeInfo'], $keyPair);
+        return $this->limiter->limit(2, BinanceEndpointEnum::MD_EXCHANGE_INFO, [$this->marketDataClient, 'exchangeInfo'], null);
     }
 }

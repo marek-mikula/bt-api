@@ -66,7 +66,7 @@ class SyncAssetsJob extends BaseJob
             $this->user->assets()->updateOrCreate([
                 'currency_id' => $currency->id,
             ], [
-                'balance' => floatval($asset['free'])
+                'balance' => floatval($asset['free']),
             ]);
         }
 

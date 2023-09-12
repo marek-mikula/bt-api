@@ -28,10 +28,10 @@ class CheckCryptoLimitJob extends BaseJob
 
         User::query()
             ->with('limits')
+            ->withCount('assets')
             ->whereHas('limits', function (Builder $query): void {
                 $query->whereIn('id', $this->limitIds);
             })
-            ->withCount('assets')
             ->each(function (User $user): void {
                 $this->check($user);
             }, 10);

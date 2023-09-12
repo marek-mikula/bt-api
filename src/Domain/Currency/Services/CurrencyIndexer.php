@@ -2,6 +2,7 @@
 
 namespace Domain\Currency\Services;
 
+use App\Enums\CurrencyStateEnum;
 use App\Models\Currency;
 use Domain\Binance\Data\KeyPairData;
 use Domain\Binance\Http\BinanceApi;
@@ -80,7 +81,7 @@ class CurrencyIndexer
      * @return Collection<int> inserted or updated IDs
      * of currency models
      */
-    public function indexFiat(Collection $fiats): Collection
+    private function indexFiat(Collection $fiats): Collection
     {
         $result = collect();
 
@@ -127,6 +128,7 @@ class CurrencyIndexer
             $model = Currency::query()->updateOrCreate([
                 'symbol' => $fiat->symbol,
             ], [
+                'state' => empty($meta) ? CurrencyStateEnum::LISTED : CurrencyStateEnum::SUPPORTED,
                 'symbol' => $fiat->symbol,
                 'name' => $meta['name'] ?? $fiat->name, // try to use coinmarketcap name
                 'is_fiat' => 1,
@@ -147,7 +149,7 @@ class CurrencyIndexer
      * @return Collection<int> inserted or updated IDs
      * of currency models
      */
-    public function indexCrypto(Collection $cryptos): Collection
+    private function indexCrypto(Collection $cryptos): Collection
     {
         $result = collect();
 
@@ -196,6 +198,7 @@ class CurrencyIndexer
             $model = Currency::query()->updateOrCreate([
                 'symbol' => $crypto->symbol,
             ], [
+                'state' => empty($meta) ? CurrencyStateEnum::LISTED : CurrencyStateEnum::SUPPORTED,
                 'symbol' => $crypto->symbol,
                 'name' => $crypto->name,
                 'is_fiat' => 0,
