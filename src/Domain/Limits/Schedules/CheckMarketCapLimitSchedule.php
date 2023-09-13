@@ -2,17 +2,26 @@
 
 namespace Domain\Limits\Schedules;
 
+use App\Enums\CurrencyStateEnum;
+use App\Enums\QueueEnum;
+use App\Models\Currency;
 use App\Models\Limits;
 use App\Schedules\BaseSchedule;
+use Domain\Coinmarketcap\Http\CoinmarketcapApi;
+use Domain\Limits\Data\LimitQuoteData;
 use Domain\Limits\Enums\LimitsNotificationPeriodEnum;
 use Domain\Limits\Jobs\CheckMarketCapLimitJob;
 use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Support\Collection;
+use Illuminate\Support\Facades\Bus;
+use Illuminate\Support\Facades\Cache;
 
 class CheckMarketCapLimitSchedule extends BaseSchedule
 {
-    public function __invoke(LimitsNotificationPeriodEnum $period): void
-    {
+    public function __invoke(
+        LimitsNotificationPeriodEnum $period,
+        CoinmarketcapApi $coinmarketcapApi,
+    ): void {
         $query = Limits::query()
             ->where('market_cap_enabled', '=', 1)
             ->where('market_cap_period', '=', $period->value)
@@ -46,12 +55,57 @@ class CheckMarketCapLimitSchedule extends BaseSchedule
             return;
         }
 
-        $query
-            ->pluck('id')
-            ->chunk(50)
-            ->each(function (Collection $chunk): void {
-                // dispatch job for each chunk
-                CheckMarketCapLimitJob::dispatch($chunk->all());
+        // first fetch all the ids
+        // we will need the quotes for
+
+        $ids = Currency::query()
+            ->where('state', '=', CurrencyStateEnum::SUPPORTED->value)
+            ->whereHas('assets', function (Builder $q) use ($query): void {
+                $q->whereIn('user_id', $query->clone()->select('user_id'));
+            })
+            ->pluck('coinmarketcap_id');
+
+        // now fetch all the needed
+        // quotes from coinmarketcap
+        // and transform the result
+        // into data object
+
+        $quotes = $coinmarketcapApi->quotes($ids->all())
+            ->collect('data')
+            ->map(function (array $item): LimitQuoteData {
+                $currency = (string) collect($item['quote'])->keys()->first();
+
+                return LimitQuoteData::from([
+                    'currency' => $currency,
+                    'price' => floatval($item['quote'][$currency]['price']),
+                    'marketCap' => floatval($item['quote'][$currency]['market_cap']),
+                ]);
             });
+
+        // save the collection of quotes to cache
+
+        Cache::tags(['limits', 'limits-quotes'])->put('limits:quotes', $quotes);
+
+        // pluck the limit IDs, chunk the
+        // collection and transform it to
+        // array of jobs
+
+        $batch = $query
+            ->pluck('id')
+            ->chunk(100)
+            ->map(static function (Collection $chunk) use (&$batch): CheckMarketCapLimitJob {
+                return new CheckMarketCapLimitJob($chunk->all());
+            })
+            ->all();
+
+        // dispatch all the jobs as a batch
+
+        Bus::batch($batch)
+            ->name('Check market cap limits')
+            ->onQueue(QueueEnum::LIMITS->value)
+            ->then(static function (): void {
+                Cache::tags(['limits', 'limits-quotes'])->delete('limits:quotes');
+            })
+            ->dispatch();
     }
 }

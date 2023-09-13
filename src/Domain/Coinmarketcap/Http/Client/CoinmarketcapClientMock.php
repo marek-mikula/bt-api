@@ -116,7 +116,7 @@ class CoinmarketcapClientMock implements CoinmarketcapClientInterface
             foreach ($map as $file => $fileSymbols) {
                 $map[$file] = array_intersect($fileSymbols, $symbols);
 
-                // unset file because there are no metadata we need to look for
+                // unset file because there are no map data we need to look for
                 if (empty($map[$file])) {
                     unset($map[$file]);
                 }
@@ -177,6 +177,53 @@ class CoinmarketcapClientMock implements CoinmarketcapClientInterface
         );
 
         return response_from_client(data: $data);
+    }
+
+    public function quotes(Collection $ids): Response
+    {
+        // cast collection to array
+
+        $ids = $ids->all();
+
+        // firstly retrieve the map od ids, so we know
+        // in which file each id lays
+
+        $map = $this->mockData('Coinmarketcap', 'quotes/map.json');
+
+        // search through the map of ids and keep only
+        // those files where we need to look for the map
+        // object for each given id
+
+        foreach ($map as $file => $fileIds) {
+            $map[$file] = array_intersect($fileIds, $ids);
+
+            // unset file because there are no quotes we need to look for
+            if (empty($map[$file])) {
+                unset($map[$file]);
+            }
+        }
+
+        // load empty response data JSON
+        // => we will fill it with data from each file we need to look through
+
+        $responseData = $this->mockData('Coinmarketcap', 'empty.json');
+
+        foreach ($map as $file => $fileIds) {
+            // retrieve data from current file
+            $data = $this->mockData('Coinmarketcap', "quotes/{$file}")['data'];
+
+            // filter only those items we are looking for
+            // based on given ids in current file
+            $data = Arr::where($data, function (array $item) use ($fileIds): bool {
+                return in_array($item['id'], $fileIds);
+            });
+
+            // merge arrays
+
+            $responseData['data'] += $data;
+        }
+
+        return response_from_client(data: $responseData);
     }
 
     public function keyInfo(): Response

@@ -45,6 +45,13 @@ interface CoinmarketcapClientInterface
     public function mapFiat(int $page = 1, int $perPage = 100): Response;
 
     /**
+     * @param  Collection<int>  $ids
+     *
+     * @throws CoinmarketcapRequestException
+     */
+    public function quotes(Collection $ids): Response;
+
+    /**
      * @throws CoinmarketcapRequestException
      */
     public function keyInfo(): Response;

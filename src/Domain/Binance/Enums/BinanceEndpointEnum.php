@@ -41,7 +41,7 @@ enum BinanceEndpointEnum: string
                     ),
                 ],
                 self::S_ACCOUNT,
-                self::MD_EXCHANGE_INFO  => [
+                self::MD_EXCHANGE_INFO => [
                     new LimitData(
                         period: BinanceLimitPeriodEnum::MINUTE,
                         type: BinanceLimitTypeEnum::IP,

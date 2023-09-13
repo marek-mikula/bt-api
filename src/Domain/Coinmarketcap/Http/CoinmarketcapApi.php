@@ -147,6 +147,30 @@ class CoinmarketcapApi
     }
 
     /**
+     * Returns quotes of a cryptocurrencies based
+     * on IDs from Coinmarketcap
+     *
+     * @throws InvalidArgumentException
+     * @throws CoinmarketcapRequestException
+     */
+    public function quotes(int|array $id): Response
+    {
+        $id = collect(Arr::wrap($id))->map('intval');
+
+        if ($id->isEmpty()) {
+            throw new InvalidArgumentException('Cannot get quotes for no tokens.');
+        }
+
+        // check number of IDs, so we don't waste our credits
+        // 100 tokens = 1 credit
+        if ($id->count() > 5000) {
+            throw new InvalidArgumentException('Cannot get quotes for that number of tokens. Number must be <= 5000.');
+        }
+
+        return $this->client->quotes($id);
+    }
+
+    /**
      * Returns information about the key, which is used
      * to authenticate the requests
      *

@@ -6,6 +6,8 @@ use App\Enums\CurrencyStateEnum;
 use Carbon\Carbon;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
+use Illuminate\Database\Eloquent\Relations\HasMany;
+use Illuminate\Support\Collection;
 
 /**
  * @property-read int $id
@@ -17,6 +19,7 @@ use Illuminate\Database\Eloquent\Model;
  * @property array $meta
  * @property Carbon $created_at
  * @property Carbon $updated_at
+ * @property-read Collection<Asset> $assets
  */
 class Currency extends Model
 {
@@ -47,4 +50,12 @@ class Currency extends Model
         'coinmarketcap_id' => 'integer',
         'meta' => 'array',
     ];
+
+    /**
+     * @see Currency::$assets
+     */
+    public function assets(): HasMany
+    {
+        return $this->hasMany(Asset::class, 'currency_id', 'id');
+    }
 }
