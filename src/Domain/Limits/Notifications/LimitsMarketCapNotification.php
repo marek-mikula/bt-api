@@ -12,7 +12,6 @@ class LimitsMarketCapNotification extends BaseNotification
 {
     public function __construct(
         private readonly MarketCapCategoryEnum $category,
-        private readonly float $value,
         private readonly float $percentage,
         private readonly int $limitFrom,
         private readonly int $limitTo,
@@ -31,7 +30,12 @@ class LimitsMarketCapNotification extends BaseNotification
     {
         return DatabaseNotification::create(NotificationTypeEnum::MARKET_CAP)
             ->title('title')
-            ->body('body')
+            ->body('body', [
+                'from' => $this->limitFrom,
+                'to' => $this->limitTo,
+                'category' => $this->category->getTranslatedValue(),
+                'by' => $this->percentage,
+            ])
             ->toArray();
     }
 }

@@ -10,6 +10,11 @@ enum MarketCapCategoryEnum: string
     case LARGE = 'large';
     case MEGA = 'mega';
 
+    public function getTranslatedValue(): string
+    {
+        return __("limits.market_cap.category.{$this->value}");
+    }
+
     // micro: < 250m $
     // small: >= 250m $ and < 2b $
     // mid: >= 2b $ and < 10b $

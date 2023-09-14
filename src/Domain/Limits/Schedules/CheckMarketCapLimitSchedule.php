@@ -88,6 +88,7 @@ class CheckMarketCapLimitSchedule extends BaseSchedule
 
         $ids = Currency::query()
             ->where('state', '=', CurrencyStateEnum::SUPPORTED->value)
+            ->where('is_fiat', '=', 0)
             ->whereHas('assets', function (Builder $q) use ($limitQuery): void {
                 $q->whereIn('user_id', $limitQuery->clone()->select('user_id'));
             })
@@ -117,7 +118,7 @@ class CheckMarketCapLimitSchedule extends BaseSchedule
 
         Cache::tags([
             'limits',
-            'limits-quotes'
+            'limits-quotes',
         ])->put('limits:quotes', $quotes, now()->endOfDay());
     }
 }

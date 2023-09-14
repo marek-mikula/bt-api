@@ -8,11 +8,12 @@ use App\Models\User;
 use Domain\Limits\Data\LimitQuoteData;
 use Domain\Limits\Enums\MarketCapCategoryEnum;
 use Domain\Limits\Notifications\LimitsMarketCapNotification;
+use Exception;
 use Illuminate\Bus\Batchable;
 use Illuminate\Database\Eloquent\Builder;
+use Illuminate\Database\Eloquent\Relations\HasMany;
 use Illuminate\Support\Collection;
 use Illuminate\Support\Facades\Cache;
-use InvalidArgumentException;
 
 class CheckMarketCapLimitJob extends BaseJob
 {
@@ -36,17 +37,23 @@ class CheckMarketCapLimitJob extends BaseJob
         /** @var Collection<LimitQuoteData>|null $quotes */
         $quotes = Cache::tags([
             'limits',
-            'limits-quotes'
+            'limits-quotes',
         ])->get('limits:quotes');
 
         if (! $quotes) {
-            throw new InvalidArgumentException('Missing cached quotes!');
+            throw new Exception('Missing cached quotes!');
         }
 
         User::query()
             ->with([
                 'limits',
-                'assets',
+                'assets' => function (HasMany $query): void {
+                    // take only fiat currency
+                    $query->whereHas('currency', function (Builder $query): void {
+                        $query->where('is_fiat', '=', 0);
+                    });
+                },
+                'assets.currency',
             ])
             ->whereHas('limits', function (Builder $query): void {
                 $query->whereIn('id', $this->limitIds);
@@ -57,7 +64,7 @@ class CheckMarketCapLimitJob extends BaseJob
     }
 
     /**
-     * @param Collection<LimitQuoteData> $quotes
+     * @param  Collection<LimitQuoteData>  $quotes
      */
     private function check(Collection $quotes, User $user): void
     {
@@ -76,8 +83,21 @@ class CheckMarketCapLimitJob extends BaseJob
         // user's wallet
 
         foreach ($user->loadMissing('assets')->assets as $asset) {
-            /** @var LimitQuoteData $quote */
-            $quote = $quotes->get($asset->currency_id);
+            $currency = $asset->loadMissing('currency')->currency;
+
+            // check if is fiat just to be sure
+
+            if ($currency->is_fiat) {
+                continue;
+            }
+
+            /** @var LimitQuoteData|null $quote */
+            $quote = $quotes->get($currency->coinmarketcap_id);
+
+            if (! $quote) {
+                throw new Exception("Missing cached quotes for currency {$currency->symbol}.");
+            }
+
             $percentages[$quote->getMarketCapCategory()->value] += ($asset->balance * $quote->price);
         }
 
@@ -109,7 +129,6 @@ class CheckMarketCapLimitJob extends BaseJob
             if ($percentage < $between[0] || $percentage > $between[1]) {
                 $user->notify(new LimitsMarketCapNotification(
                     category: MarketCapCategoryEnum::from($category),
-                    value: $value,
                     percentage: $percentage,
                     limitFrom: $between[0],
                     limitTo: $between[1],

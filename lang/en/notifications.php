@@ -110,14 +110,20 @@ return [
 
     NotificationTypeEnum::CRYPTOCURRENCY_MIN->value => [
         'database' => [
-            'title' => 'Your min cryptocurrency limit has been exceeded!',
-            'body' => 'Your set min cryptocurrency limit of :limit has been exceeded by :by. Consider buying some new assets to bring the value back into the set range of your limits.',
+            'title' => 'Your min. cryptocurrency limit has been exceeded!',
+            'body' => 'Your set min. cryptocurrency limit of :limit has been exceeded by :by. Consider buying some new assets to bring the value back into the set range of your limits.',
         ],
     ],
     NotificationTypeEnum::CRYPTOCURRENCY_MAX->value => [
         'database' => [
-            'title' => 'Your max cryptocurrency limit has been exceeded!',
-            'body' => 'Your set max cryptocurrency limit of :limit has been exceeded by :by. Consider selling some of your assets to bring the value back into the set range of your limits.',
+            'title' => 'Your max. cryptocurrency limit has been exceeded!',
+            'body' => 'Your set max. cryptocurrency limit of :limit has been exceeded by :by. Consider selling some of your assets to bring the value back into the set range of your limits.',
+        ],
+    ],
+    NotificationTypeEnum::MARKET_CAP->value => [
+        'database' => [
+            'title' => 'Your market cap limit has been exceeded!',
+            'body' => 'Your set range between :from % and :to % for :category has been exceeded by :by %. Consider selling or buying some assets from this category to bring the value back into the set range of your limits.',
         ],
     ],
 ];
