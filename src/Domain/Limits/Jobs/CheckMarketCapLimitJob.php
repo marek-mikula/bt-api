@@ -12,6 +12,7 @@ use Illuminate\Bus\Batchable;
 use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Support\Collection;
 use Illuminate\Support\Facades\Cache;
+use InvalidArgumentException;
 
 class CheckMarketCapLimitJob extends BaseJob
 {
@@ -32,6 +33,16 @@ class CheckMarketCapLimitJob extends BaseJob
             return;
         }
 
+        /** @var Collection<LimitQuoteData>|null $quotes */
+        $quotes = Cache::tags([
+            'limits',
+            'limits-quotes'
+        ])->get('limits:quotes');
+
+        if (! $quotes) {
+            throw new InvalidArgumentException('Missing cached quotes!');
+        }
+
         User::query()
             ->with([
                 'limits',
@@ -40,16 +51,16 @@ class CheckMarketCapLimitJob extends BaseJob
             ->whereHas('limits', function (Builder $query): void {
                 $query->whereIn('id', $this->limitIds);
             })
-            ->each(function (User $user): void {
-                $this->check($user);
+            ->each(function (User $user) use ($quotes): void {
+                $this->check($quotes, $user);
             }, 50);
     }
 
-    private function check(User $user): void
+    /**
+     * @param Collection<LimitQuoteData> $quotes
+     */
+    private function check(Collection $quotes, User $user): void
     {
-        /** @var Collection<LimitQuoteData> $quotes */
-        $quotes = Cache::tags(['limits', 'limits-quotes'])->get('limits:quotes');
-
         $limits = $user->loadMissing('limits')->limits;
 
         $percentages = [

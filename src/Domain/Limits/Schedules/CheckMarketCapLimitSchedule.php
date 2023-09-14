@@ -55,13 +55,41 @@ class CheckMarketCapLimitSchedule extends BaseSchedule
             return;
         }
 
+        // load the quotes to cache if needed
+
+        if (! Cache::tags(['limits', 'limits-quotes'])->has('limits:quotes')) {
+            $this->loadQuotes($query, $coinmarketcapApi);
+        }
+
+        // pluck the limit IDs, chunk the
+        // collection and transform it to
+        // array of jobs
+
+        $batch = $query
+            ->pluck('id')
+            ->chunk(100)
+            ->map(static function (Collection $chunk) use (&$batch): CheckMarketCapLimitJob {
+                return new CheckMarketCapLimitJob($chunk->all());
+            })
+            ->all();
+
+        // dispatch all the jobs as a batch
+
+        Bus::batch($batch)
+            ->name('Check market cap limits')
+            ->onQueue(QueueEnum::LIMITS->value)
+            ->dispatch();
+    }
+
+    private function loadQuotes(Builder $limitQuery, CoinmarketcapApi $coinmarketcapApi): void
+    {
         // first fetch all the ids
         // we will need the quotes for
 
         $ids = Currency::query()
             ->where('state', '=', CurrencyStateEnum::SUPPORTED->value)
-            ->whereHas('assets', function (Builder $q) use ($query): void {
-                $q->whereIn('user_id', $query->clone()->select('user_id'));
+            ->whereHas('assets', function (Builder $q) use ($limitQuery): void {
+                $q->whereIn('user_id', $limitQuery->clone()->select('user_id'));
             })
             ->pluck('coinmarketcap_id');
 
@@ -83,29 +111,13 @@ class CheckMarketCapLimitSchedule extends BaseSchedule
             });
 
         // save the collection of quotes to cache
+        // till the end of the day so each schedule
+        // for limits (daily/weekly/monthly) can use
+        // it
 
-        Cache::tags(['limits', 'limits-quotes'])->put('limits:quotes', $quotes);
-
-        // pluck the limit IDs, chunk the
-        // collection and transform it to
-        // array of jobs
-
-        $batch = $query
-            ->pluck('id')
-            ->chunk(100)
-            ->map(static function (Collection $chunk) use (&$batch): CheckMarketCapLimitJob {
-                return new CheckMarketCapLimitJob($chunk->all());
-            })
-            ->all();
-
-        // dispatch all the jobs as a batch
-
-        Bus::batch($batch)
-            ->name('Check market cap limits')
-            ->onQueue(QueueEnum::LIMITS->value)
-            ->then(static function (): void {
-                Cache::tags(['limits', 'limits-quotes'])->delete('limits:quotes');
-            })
-            ->dispatch();
+        Cache::tags([
+            'limits',
+            'limits-quotes'
+        ])->put('limits:quotes', $quotes, now()->endOfDay());
     }
 }

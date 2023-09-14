@@ -43,13 +43,17 @@ class LimitsServiceProvider extends ServiceProvider
                 LimitsNotificationPeriodEnum::DAILY
             ))->dailyAt('00:00');
 
+            // add 1 hour to each schedule incrementally,
+            // so the calculation of quotes happens only
+            // once, and we prevent concurrency
+
             $schedule->call(CheckMarketCapLimitSchedule::proxyCall(
                 LimitsNotificationPeriodEnum::WEEKLY
-            ))->weeklyOn(1, '00:00'); // 1 = monday
+            ))->weeklyOn(1, '01:00'); // 1 = monday
 
             $schedule->call(CheckMarketCapLimitSchedule::proxyCall(
                 LimitsNotificationPeriodEnum::MONTHLY
-            ))->monthlyOn(1, '00:00'); // 1 = first day of month
+            ))->monthlyOn(1, '02:00'); // 1 = first day of month
         });
     }
 }
