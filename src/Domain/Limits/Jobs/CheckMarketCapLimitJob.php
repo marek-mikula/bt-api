@@ -3,22 +3,19 @@
 namespace Domain\Limits\Jobs;
 
 use App\Enums\QueueEnum;
-use App\Jobs\BaseJob;
+use App\Jobs\BaseBatchJob;
 use App\Models\User;
 use Domain\Limits\Data\LimitQuoteData;
 use Domain\Limits\Enums\MarketCapCategoryEnum;
 use Domain\Limits\Notifications\LimitsMarketCapNotification;
 use Exception;
-use Illuminate\Bus\Batchable;
 use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Database\Eloquent\Relations\HasMany;
 use Illuminate\Support\Collection;
 use Illuminate\Support\Facades\Cache;
 
-class CheckMarketCapLimitJob extends BaseJob
+class CheckMarketCapLimitJob extends BaseBatchJob
 {
-    use Batchable;
-
     /**
      * @param  non-empty-list<int>  $limitIds
      */
