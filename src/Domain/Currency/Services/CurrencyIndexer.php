@@ -2,7 +2,6 @@
 
 namespace Domain\Currency\Services;
 
-use App\Enums\CurrencyStateEnum;
 use App\Models\Currency;
 use Domain\Binance\Data\KeyPairData;
 use Domain\Binance\Http\BinanceApi;
@@ -124,16 +123,21 @@ class CurrencyIndexer
                 });
             }
 
+            // fiat does not exist in Coinmarketcap
+            // => skip, we do not support this!
+            if (! $meta) {
+                continue;
+            }
+
             /** @var Currency $model */
             $model = Currency::query()->updateOrCreate([
                 'symbol' => $fiat->symbol,
             ], [
-                'state' => empty($meta) ? CurrencyStateEnum::LISTED : CurrencyStateEnum::SUPPORTED,
                 'symbol' => $fiat->symbol,
-                'name' => $meta['name'] ?? $fiat->name, // try to use coinmarketcap name
+                'name' => (string) $meta['name'],
                 'is_fiat' => 1,
-                'coinmarketcap_id' => $meta['id'] ?? null,
-                'meta' => empty($meta) ? [] : Arr::only($meta, [
+                'coinmarketcap_id' => (int) $meta['id'],
+                'meta' => Arr::only($meta, [
                     'sign',
                 ]),
             ]);
@@ -194,16 +198,21 @@ class CurrencyIndexer
                 });
             }
 
+            // cryptocurrency does not exist in Coinmarketcap
+            // => skip, we do not support this!
+            if (! $meta) {
+                continue;
+            }
+
             /** @var Currency $model */
             $model = Currency::query()->updateOrCreate([
                 'symbol' => $crypto->symbol,
             ], [
-                'state' => empty($meta) ? CurrencyStateEnum::LISTED : CurrencyStateEnum::SUPPORTED,
                 'symbol' => $crypto->symbol,
                 'name' => $crypto->name,
                 'is_fiat' => 0,
-                'coinmarketcap_id' => $meta['id'] ?? null,
-                'meta' => empty($meta) ? [] : Arr::except($meta, [
+                'coinmarketcap_id' => (int) $meta['id'],
+                'meta' => Arr::except($meta, [
                     'id',
                     'name',
                     'symbol',

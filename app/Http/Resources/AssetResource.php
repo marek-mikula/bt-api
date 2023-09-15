@@ -15,7 +15,11 @@ class AssetResource extends JsonResource
     {
         return [
             'id' => $this->resource->id,
-            'currency' => $this->resource->currency,
+            'isSupported' => $this->resource->is_supported,
+            'currency' => $this->resource->relationLoaded('currency') && $this->resource->currency
+                ? new CurrencyResource($this->resource->currency)
+                : null,
+            'currencySymbol' => $this->resource->currency_symbol,
             'balance' => $this->resource->balance,
         ];
     }

@@ -4,6 +4,7 @@ namespace Domain\User\Jobs;
 
 use App\Enums\QueueEnum;
 use App\Jobs\BaseJob;
+use App\Models\Asset;
 use App\Models\Currency;
 use App\Models\User;
 use Domain\Binance\Data\KeyPairData;
@@ -52,28 +53,52 @@ class SyncAssetsJob extends BaseJob
                 return floatval($item['free']) > 0;
             });
 
+        // retrieve supported currencies for
+        // given assets
+
         /** @var Collection<Currency> $currencies */
         $currencies = Currency::query()
             ->whereIn('symbol', $assets->pluck('asset')->all())
             ->get();
 
-        foreach ($currencies as $currency) {
-            /** @var array $asset */
-            $asset = $assets->first(function (array $item) use ($currency): bool {
-                return $item['asset'] === $currency->symbol;
+        $processedIds = collect();
+
+        foreach ($assets as $asset) {
+            /** @var Currency|null $currency */
+            $currency = $currencies->first(function (Currency $currency) use ($asset): bool {
+                return $asset['asset'] === $currency->symbol;
             });
 
-            $this->user->assets()->updateOrCreate([
-                'currency_id' => $currency->id,
-            ], [
-                'balance' => floatval($asset['free']),
-            ]);
+            if ($currency) {
+                // supported currency
+
+                /** @var Asset $model */
+                $model = $this->user->assets()->updateOrCreate([
+                    'currency_id' => $currency->id,
+                ], [
+                    'balance' => floatval($asset['free']),
+                    'currency_symbol' => null,
+                ]);
+            } else {
+                // not supported currency,
+                // but we still stave it
+
+                /** @var Asset $model */
+                $model = $this->user->assets()->updateOrCreate([
+                    'currency_symbol' => (string) $asset['asset'],
+                ], [
+                    'balance' => floatval($asset['free']),
+                    'currency_id' => null,
+                ]);
+            }
+
+            $processedIds->push($model->id);
         }
 
         // delete old balances
 
         $this->user->assets()
-            ->whereNotIn('currency_id', $currencies->pluck('id')->all())
+            ->whereNotIn('id', $processedIds->all())
             ->delete();
 
         // update timestamp

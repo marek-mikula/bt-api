@@ -2,7 +2,6 @@
 
 namespace Domain\Limits\Schedules;
 
-use App\Enums\CurrencyStateEnum;
 use App\Enums\QueueEnum;
 use App\Models\Currency;
 use App\Models\Limits;
@@ -87,7 +86,6 @@ class CheckMarketCapLimitSchedule extends BaseSchedule
         // we will need the quotes for
 
         $ids = Currency::query()
-            ->where('state', '=', CurrencyStateEnum::SUPPORTED->value)
             ->where('is_fiat', '=', 0)
             ->whereHas('assets', function (Builder $q) use ($limitQuery): void {
                 $q->whereIn('user_id', $limitQuery->clone()->select('user_id'));

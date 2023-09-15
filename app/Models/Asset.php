@@ -3,6 +3,7 @@
 namespace App\Models;
 
 use Carbon\Carbon;
+use Illuminate\Database\Eloquent\Casts\Attribute;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\BelongsTo;
@@ -10,12 +11,15 @@ use Illuminate\Database\Eloquent\Relations\BelongsTo;
 /**
  * @property-read int $id
  * @property int $user_id
- * @property int $currency_id
+ * @property int|null $currency_id
+ * @property-read bool $is_supported If is not supported,
+ * the asset symbol will be saved in $currency_symbol
+ * @property string|null $currency_symbol
  * @property float $balance
  * @property Carbon $created_at
  * @property Carbon $updated_at
  * @property-read User $user
- * @property-read Currency $currency
+ * @property-read Currency|null $currency
  */
 class Asset extends Model
 {
@@ -28,14 +32,21 @@ class Asset extends Model
     protected $fillable = [
         'user_id',
         'currency_id',
+        'currency_symbol',
         'balance',
     ];
 
     protected $casts = [
         'user_id' => 'integer',
         'currency_id' => 'integer',
+        'currency_symbol' => 'string',
         'balance' => 'float',
     ];
+
+    public function isSupported(): Attribute
+    {
+        return Attribute::get(fn (): bool => ! empty($this->currency_id));
+    }
 
     /**
      * @see Asset::$user

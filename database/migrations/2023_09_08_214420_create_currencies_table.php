@@ -10,11 +10,10 @@ return new class extends Migration
     {
         Schema::create('currencies', function (Blueprint $table) {
             $table->id();
-            $table->string('state');
             $table->string('symbol');
             $table->string('name');
             $table->boolean('is_fiat')->default(false);
-            $table->unsignedBigInteger('coinmarketcap_id')->nullable();
+            $table->unsignedBigInteger('coinmarketcap_id');
             $table->json('meta');
             $table->timestamps();
         });
