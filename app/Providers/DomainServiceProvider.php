@@ -6,7 +6,6 @@ use Domain\Alert\Providers\AlertServiceProvider;
 use Domain\Auth\Providers\AuthServiceProvider;
 use Domain\Binance\Providers\BinanceServiceProvider;
 use Domain\Coinmarketcap\Providers\CoinmarketcapServiceProvider;
-use Domain\Coinranking\Providers\CoinrankingServiceProvider;
 use Domain\Cryptocurrency\Providers\CryptocurrencyServiceProvider;
 use Domain\Currency\Providers\CurrencyServiceProvider;
 use Domain\Dashboard\Providers\DashboardServiceProvider;
@@ -27,7 +26,6 @@ class DomainServiceProvider extends ServiceProvider
         $this->app->register(QuizServiceProvider::class);
         $this->app->register(UserServiceProvider::class);
         $this->app->register(DashboardServiceProvider::class);
-        $this->app->register(CoinrankingServiceProvider::class);
         $this->app->register(SearchServiceProvider::class);
         $this->app->register(CryptocurrencyServiceProvider::class);
         $this->app->register(AlertServiceProvider::class);
