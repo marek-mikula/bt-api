@@ -1,16 +1,16 @@
 <?php
 
-namespace Domain\Coinranking\Exceptions;
+namespace Domain\WhaleAlert\Exceptions;
 
 use Exception;
 use Illuminate\Http\Client\Response;
 
-class CoinrankingRequestException extends Exception
+class WhaleAlertRequestException extends Exception
 {
     public function __construct(
         public readonly Response $response,
     ) {
-        parent::__construct('Request to Coinranking failed.');
+        parent::__construct('Request to WhaleAlert failed.');
     }
 
     public function context(): array

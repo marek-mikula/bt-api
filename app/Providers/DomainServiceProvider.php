@@ -14,6 +14,7 @@ use Domain\Limits\Providers\LimitsServiceProvider;
 use Domain\Quiz\Providers\QuizServiceProvider;
 use Domain\Search\Providers\SearchServiceProvider;
 use Domain\User\Providers\UserServiceProvider;
+use Domain\WhaleAlert\Providers\WhaleAlertServiceProvider;
 use Illuminate\Support\ServiceProvider;
 
 class DomainServiceProvider extends ServiceProvider
@@ -32,6 +33,7 @@ class DomainServiceProvider extends ServiceProvider
         $this->app->register(AlertServiceProvider::class);
         $this->app->register(LimitsServiceProvider::class);
         $this->app->register(CurrencyServiceProvider::class);
+        $this->app->register(WhaleAlertServiceProvider::class);
     }
 
     public function boot(): void

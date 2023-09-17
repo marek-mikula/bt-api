@@ -17,6 +17,7 @@ class CoinmarketcapRequestException extends Exception
     {
         return [
             'status' => $this->response->status(),
+            'headers' => $this->response->headers(),
             'body' => $this->response->json(),
         ];
     }
