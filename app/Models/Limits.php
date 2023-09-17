@@ -3,7 +3,7 @@
 namespace App\Models;
 
 use Carbon\Carbon;
-use Domain\User\Enums\LimitsNotificationPeriodEnum;
+use Domain\Limits\Enums\LimitsNotificationPeriodEnum;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\BelongsTo;

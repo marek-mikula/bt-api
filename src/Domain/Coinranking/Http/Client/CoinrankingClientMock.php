@@ -2,15 +2,18 @@
 
 namespace Domain\Coinranking\Http\Client;
 
+use App\Traits\MocksData;
 use Domain\Coinranking\Http\Client\Concerns\CoinrankingClientInterface;
 use Illuminate\Http\Client\Response;
 use Illuminate\Support\Str;
 
 class CoinrankingClientMock implements CoinrankingClientInterface
 {
+    use MocksData;
+
     public function search(string $query): Response
     {
-        $data = $this->mockData('search.json');
+        $data = $this->mockData('Coinranking', 'search.json');
 
         $query = Str::lower($query);
 
@@ -51,16 +54,5 @@ class CoinrankingClientMock implements CoinrankingClientInterface
             ->all();
 
         return response_from_client(data: $responseData);
-    }
-
-    private function mockData(string $path): array
-    {
-        $path = Str::startsWith($path, '/') ? Str::after($path, '/') : $path;
-
-        $json = file_get_contents(
-            filename: domain_path('Coinranking', "Resources/mocks/{$path}")
-        );
-
-        return json_decode(json: $json, associative: true);
     }
 }

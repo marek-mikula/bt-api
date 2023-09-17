@@ -8,7 +8,9 @@ use Domain\Binance\Providers\BinanceServiceProvider;
 use Domain\Coinmarketcap\Providers\CoinmarketcapServiceProvider;
 use Domain\Coinranking\Providers\CoinrankingServiceProvider;
 use Domain\Cryptocurrency\Providers\CryptocurrencyServiceProvider;
+use Domain\Currency\Providers\CurrencyServiceProvider;
 use Domain\Dashboard\Providers\DashboardServiceProvider;
+use Domain\Limits\Providers\LimitsServiceProvider;
 use Domain\Quiz\Providers\QuizServiceProvider;
 use Domain\Search\Providers\SearchServiceProvider;
 use Domain\User\Providers\UserServiceProvider;
@@ -28,6 +30,8 @@ class DomainServiceProvider extends ServiceProvider
         $this->app->register(SearchServiceProvider::class);
         $this->app->register(CryptocurrencyServiceProvider::class);
         $this->app->register(AlertServiceProvider::class);
+        $this->app->register(LimitsServiceProvider::class);
+        $this->app->register(CurrencyServiceProvider::class);
     }
 
     public function boot(): void

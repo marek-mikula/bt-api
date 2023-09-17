@@ -8,7 +8,7 @@ class LimitCacheData extends Data
 {
     public function __construct(
         public int $timestampMs,
-        public int $tries = 0,
+        public int $weightUsed = 0,
     ) {
     }
 }

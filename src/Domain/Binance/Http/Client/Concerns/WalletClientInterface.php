@@ -27,4 +27,9 @@ interface WalletClientInterface
      * @throws BinanceRequestException
      */
     public function assets(KeyPairData $keyPair): BinanceResponse;
+
+    /**
+     * @throws BinanceRequestException
+     */
+    public function allCoins(KeyPairData $keyPair): BinanceResponse;
 }

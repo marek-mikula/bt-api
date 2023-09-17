@@ -36,6 +36,7 @@ use Rappasoft\LaravelAuthenticationLog\Traits\AuthenticationLoggable;
  * @property-read Collection<Asset> $assets
  * @property-read QuizResult|null $quizResult
  * @property-read Limits $limits
+ * @property-read int|null $assets_count ->withCount('assets')
  *
  * @method static UserFactory factory($count = null, $state = [])
  */

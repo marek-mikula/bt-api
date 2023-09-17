@@ -2,18 +2,32 @@
 
 namespace Domain\User\Console\Commands;
 
-use Domain\User\Services\AssetSyncService;
+use App\Models\User;
+use Domain\User\Jobs\SyncAssetsJob;
 use Illuminate\Console\Command;
 
 class SyncAssetsCommand extends Command
 {
-    protected $signature = 'assets:sync';
+    protected $signature = 'user:sync-assets {user}';
 
-    protected $description = 'Pushes jobs, which synchronize user\'s assets with Binance, into queue.';
+    protected $description = 'Synchronizes user\'s assets.';
 
-    public function handle(AssetSyncService $service): int
+    public function handle(): int
     {
-        $service->sync();
+        $userId = (int) $this->argument('user');
+
+        /** @var User|null $user */
+        $user = User::query()->find($userId);
+
+        if (! $user) {
+            $this->error("User with ID {$userId} does not exist.");
+
+            return 1;
+        }
+
+        SyncAssetsJob::dispatchSync($user);
+
+        $this->info('Assets synchronized!');
 
         return 0;
     }

@@ -13,6 +13,7 @@ class LimitData extends Data
         public readonly BinanceLimitTypeEnum $type,
         public readonly int $value,
         public readonly int $per = 1,
+        public readonly bool $shared = false,
     ) {
     }
 

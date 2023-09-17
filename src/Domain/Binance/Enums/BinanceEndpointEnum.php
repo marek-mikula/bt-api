@@ -11,18 +11,13 @@ enum BinanceEndpointEnum: string
     case W_ACCOUNT_STATUS = 'w@account-status';
     case W_ACCOUNT_SNAPSHOT = 'w@account-snapshot';
     case W_ASSETS = 'w@assets';
+    case W_ALL_COINS = 'w@all-coins';
 
-    public function getWeight(): int
-    {
-        return once(function (): int {
-            return match ($this) {
-                self::W_SYSTEM_STATUS,
-                self::W_ACCOUNT_STATUS => 1,
-                self::W_ACCOUNT_SNAPSHOT => 2400,
-                self::W_ASSETS => 5,
-            };
-        });
-    }
+    // market data endpoints
+    case MD_EXCHANGE_INFO = 'md@exchange-info';
+
+    // spot endpoints
+    case S_ACCOUNT = 's@account';
 
     /**
      * @return LimitData[]
@@ -37,11 +32,21 @@ enum BinanceEndpointEnum: string
                 self::W_SYSTEM_STATUS,
                 self::W_ACCOUNT_STATUS,
                 self::W_ACCOUNT_SNAPSHOT,
-                self::W_ASSETS => [
+                self::W_ASSETS,
+                self::W_ALL_COINS => [
                     new LimitData(
                         period: BinanceLimitPeriodEnum::MINUTE,
                         type: BinanceLimitTypeEnum::IP,
                         value: 12_000
+                    ),
+                ],
+                self::S_ACCOUNT,
+                self::MD_EXCHANGE_INFO => [
+                    new LimitData(
+                        period: BinanceLimitPeriodEnum::MINUTE,
+                        type: BinanceLimitTypeEnum::IP,
+                        value: 6_000,
+                        shared: true
                     ),
                 ]
             };

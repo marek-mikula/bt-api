@@ -11,7 +11,13 @@ enum NotificationTypeEnum: string
     case REGISTERED = 'user@registered';
     case RESET_PASSWORD = 'user@reset-password';
     case VERIFY_EMAIL = 'user@verify-email';
+    case ASSETS_SYNCED = 'user@assets-synced';
 
-    // alerts
+    // alert domain
     case ALERT = 'alert@alert';
+
+    // limits domain
+    case CRYPTOCURRENCY_MIN = 'limits@cryptocurrency-min';
+    case CRYPTOCURRENCY_MAX = 'limits@cryptocurrency-max';
+    case MARKET_CAP = 'limits@market-cap';
 }

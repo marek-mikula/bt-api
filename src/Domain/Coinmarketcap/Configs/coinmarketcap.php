@@ -13,6 +13,7 @@
 
 return [
     'mock' => env('COINMARKETCAP_MOCK', false),
+    'limiter' => env('COINMARKETCAP_LIMITER', true),
     'url' => env('COINMARKETCAP_URL'),
     'key' => env('COINMARKETCAP_KEY'),
 ];

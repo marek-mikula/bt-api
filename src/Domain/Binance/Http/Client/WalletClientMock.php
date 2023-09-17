@@ -2,49 +2,47 @@
 
 namespace Domain\Binance\Http\Client;
 
+use App\Traits\MocksData;
 use Domain\Binance\Data\KeyPairData;
 use Domain\Binance\Http\BinanceResponse;
 use Domain\Binance\Http\Client\Concerns\WalletClientInterface;
-use Illuminate\Support\Str;
 
 class WalletClientMock implements WalletClientInterface
 {
+    use MocksData;
+
     public function systemStatus(): BinanceResponse
     {
-        $response = response_from_client(data: $this->mockData('system-status.json'));
+        $response = response_from_client(data: $this->mockData('Binance', 'wallet/system-status.json'));
 
         return new BinanceResponse($response);
     }
 
     public function accountStatus(KeyPairData $keyPair): BinanceResponse
     {
-        $response = response_from_client(data: $this->mockData('account-status.json'));
+        $response = response_from_client(data: $this->mockData('Binance', 'wallet/account-status.json'));
 
         return new BinanceResponse($response);
     }
 
     public function accountSnapshot(KeyPairData $keyPair): BinanceResponse
     {
-        $response = response_from_client(data: $this->mockData('account-snapshot.json'));
+        $response = response_from_client(data: $this->mockData('Binance', 'wallet/account-snapshot.json'));
 
         return new BinanceResponse($response);
     }
 
     public function assets(KeyPairData $keyPair): BinanceResponse
     {
-        $response = response_from_client(data: $this->mockData('assets.json'));
+        $response = response_from_client(data: $this->mockData('Binance', 'wallet/assets.json'));
 
         return new BinanceResponse($response);
     }
 
-    private function mockData(string $path): array
+    public function allCoins(KeyPairData $keyPair): BinanceResponse
     {
-        $path = Str::startsWith($path, '/') ? Str::after($path, '/') : $path;
+        $response = response_from_client(data: $this->mockData('Binance', 'wallet/all-coins.json'));
 
-        $json = file_get_contents(
-            filename: domain_path('Binance', "Resources/mocks/{$path}")
-        );
-
-        return json_decode(json: $json, associative: true);
+        return new BinanceResponse($response);
     }
 }

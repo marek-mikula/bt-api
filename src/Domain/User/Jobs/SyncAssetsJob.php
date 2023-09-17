@@ -4,13 +4,17 @@ namespace Domain\User\Jobs;
 
 use App\Enums\QueueEnum;
 use App\Jobs\BaseJob;
+use App\Models\Asset;
+use App\Models\Currency;
 use App\Models\User;
 use Domain\Binance\Data\KeyPairData;
 use Domain\Binance\Exceptions\BinanceBanException;
 use Domain\Binance\Exceptions\BinanceLimitException;
 use Domain\Binance\Http\BinanceApi;
+use Domain\User\Notifications\AssetsSyncedNotification;
 use Illuminate\Queue\Attributes\WithoutRelations;
 use Illuminate\Queue\Middleware\WithoutOverlapping;
+use Illuminate\Support\Collection;
 
 class SyncAssetsJob extends BaseJob
 {
@@ -23,13 +27,15 @@ class SyncAssetsJob extends BaseJob
 
     public function middleware(): array
     {
-        return [(new WithoutOverlapping($this->user->id))->releaseAfter(5)];
+        return [
+            new WithoutOverlapping($this->user->id, 5),
+        ];
     }
 
     public function handle(BinanceApi $binanceApi): void
     {
         try {
-            $response = $binanceApi->wallet->assets(KeyPairData::fromUser($this->user));
+            $response = $binanceApi->spot->account(KeyPairData::fromUser($this->user));
         } catch (BinanceBanException $e) {
             $this->release(now()->addMilliseconds($e->ban->waitMs));
 
@@ -40,24 +46,67 @@ class SyncAssetsJob extends BaseJob
             return;
         }
 
-        $assets = $response->collect();
+        // filter only positive balances
 
-        $tickers = $assets->pluck('asset');
+        $assets = $response->collect('balances')
+            ->filter(function (array $item): bool {
+                return floatval($item['free']) > 0;
+            });
 
-        // delete old balances
-        $this->user->assets()
-            ->whereNotIn('currency', $tickers->all())
-            ->delete();
+        // retrieve supported currencies for
+        // given assets
+
+        /** @var Collection<Currency> $currencies */
+        $currencies = Currency::query()
+            ->whereIn('symbol', $assets->pluck('asset')->all())
+            ->get();
+
+        $processedIds = collect();
 
         foreach ($assets as $asset) {
-            $this->user->assets()->updateOrCreate([
-                'currency' => (string) $asset['asset'],
-            ], [
-                'balance' => floatval($asset['free']),
-            ]);
+            /** @var Currency|null $currency */
+            $currency = $currencies->first(function (Currency $currency) use ($asset): bool {
+                return $asset['asset'] === $currency->symbol;
+            });
+
+            if ($currency) {
+                // supported currency
+
+                /** @var Asset $model */
+                $model = $this->user->assets()->updateOrCreate([
+                    'currency_id' => $currency->id,
+                ], [
+                    'balance' => floatval($asset['free']),
+                    'currency_symbol' => null,
+                ]);
+            } else {
+                // not supported currency,
+                // but we still stave it
+
+                /** @var Asset $model */
+                $model = $this->user->assets()->updateOrCreate([
+                    'currency_symbol' => (string) $asset['asset'],
+                ], [
+                    'balance' => floatval($asset['free']),
+                    'currency_id' => null,
+                ]);
+            }
+
+            $processedIds->push($model->id);
         }
 
+        // delete old balances
+
+        $this->user->assets()
+            ->whereNotIn('id', $processedIds->all())
+            ->delete();
+
         // update timestamp
+
         $this->user->touch('assets_synced_at');
+
+        // send notification
+
+        $this->user->notify(new AssetsSyncedNotification());
     }
 }

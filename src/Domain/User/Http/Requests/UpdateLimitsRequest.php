@@ -3,7 +3,7 @@
 namespace Domain\User\Http\Requests;
 
 use App\Http\Requests\AuthRequest;
-use Domain\User\Enums\LimitsNotificationPeriodEnum;
+use Domain\Limits\Enums\LimitsNotificationPeriodEnum;
 use Domain\User\Http\Requests\Data\UpdateLimitsRequestData;
 use Domain\User\Validation\ValidateLimits;
 use Domain\User\Validation\ValidateLimitsMarketCap;

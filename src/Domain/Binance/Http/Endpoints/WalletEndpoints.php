@@ -11,7 +11,7 @@ use Domain\Binance\Http\BinanceResponse;
 use Domain\Binance\Http\Client\Concerns\WalletClientInterface;
 use Domain\Binance\Services\BinanceLimiter;
 
-class WalletEndpoints implements WalletClientInterface
+class WalletEndpoints
 {
     public function __construct(
         private readonly BinanceLimiter $limiter,
@@ -26,7 +26,7 @@ class WalletEndpoints implements WalletClientInterface
      */
     public function systemStatus(): BinanceResponse
     {
-        return $this->limiter->limit(BinanceEndpointEnum::W_SYSTEM_STATUS, [$this->walletClient, 'systemStatus'], null);
+        return $this->limiter->limit(1, BinanceEndpointEnum::W_SYSTEM_STATUS, [$this->walletClient, 'systemStatus'], null);
     }
 
     /**
@@ -36,7 +36,7 @@ class WalletEndpoints implements WalletClientInterface
      */
     public function accountStatus(KeyPairData $keyPair): BinanceResponse
     {
-        return $this->limiter->limit(BinanceEndpointEnum::W_ACCOUNT_STATUS, [$this->walletClient, 'accountStatus'], $keyPair);
+        return $this->limiter->limit(1, BinanceEndpointEnum::W_ACCOUNT_STATUS, [$this->walletClient, 'accountStatus'], $keyPair);
     }
 
     /**
@@ -46,7 +46,7 @@ class WalletEndpoints implements WalletClientInterface
      */
     public function accountSnapshot(KeyPairData $keyPair): BinanceResponse
     {
-        return $this->limiter->limit(BinanceEndpointEnum::W_ACCOUNT_SNAPSHOT, [$this->walletClient, 'accountSnapshot'], $keyPair);
+        return $this->limiter->limit(2400, BinanceEndpointEnum::W_ACCOUNT_SNAPSHOT, [$this->walletClient, 'accountSnapshot'], $keyPair);
     }
 
     /**
@@ -56,6 +56,16 @@ class WalletEndpoints implements WalletClientInterface
      */
     public function assets(KeyPairData $keyPair): BinanceResponse
     {
-        return $this->limiter->limit(BinanceEndpointEnum::W_ASSETS, [$this->walletClient, 'assets'], $keyPair);
+        return $this->limiter->limit(5, BinanceEndpointEnum::W_ASSETS, [$this->walletClient, 'assets'], $keyPair);
+    }
+
+    /**
+     * @throws BinanceLimitException
+     * @throws BinanceBanException
+     * @throws BinanceRequestException
+     */
+    public function allCoins(KeyPairData $keyPair): BinanceResponse
+    {
+        return $this->limiter->limit(10, BinanceEndpointEnum::W_ALL_COINS, [$this->walletClient, 'allCoins'], $keyPair);
     }
 }

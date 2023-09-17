@@ -15,7 +15,10 @@ class DashboardCache
      */
     public function getTopCryptocurrencies(): Collection
     {
-        return Cache::remember('dashboard:top-crypto', now()->endOfDay(), static function (): Collection {
+        return Cache::tags([
+            'dashboard',
+            'dashboard-top-crypto',
+        ])->remember('dashboard:top-crypto', now()->endOfDay(), static function (): Collection {
             /** @var DashboardService $dashboardService */
             $dashboardService = app(DashboardService::class);
 
@@ -25,7 +28,10 @@ class DashboardCache
 
     public function getMarketMetrics(): DashboardMarketMetrics
     {
-        return Cache::remember('dashboard:market-metrics', now()->endOfDay(), static function (): DashboardMarketMetrics {
+        return Cache::tags([
+            'dashboard',
+            'dashboard-market-metrics',
+        ])->remember('dashboard:market-metrics', now()->endOfDay(), static function (): DashboardMarketMetrics {
             /** @var DashboardService $dashboardService */
             $dashboardService = app(DashboardService::class);
 
