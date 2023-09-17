@@ -7,7 +7,7 @@ use App\Exceptions\HttpException;
 use App\Models\Limits;
 use App\Models\User;
 use App\Repositories\Limits\LimitsRepositoryInterface;
-use Domain\User\Http\Requests\Data\UpdateLimitsRequestData;
+use Domain\User\Http\Requests\Data\UpdateLimitsSettingsRequestData;
 
 class UserLimitsSettingsService
 {
@@ -30,7 +30,7 @@ class UserLimitsSettingsService
         return $limits;
     }
 
-    public function update(User $user, UpdateLimitsRequestData $data): Limits
+    public function update(User $user, UpdateLimitsSettingsRequestData $data): Limits
     {
         /** @var Limits|null $limits */
         $limits = $user->limits()->first();

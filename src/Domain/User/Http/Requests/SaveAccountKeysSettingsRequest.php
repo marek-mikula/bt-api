@@ -4,9 +4,9 @@ namespace Domain\User\Http\Requests;
 
 use App\Http\Requests\AuthRequest;
 use Domain\Auth\Validation\ValidateBinanceKeyPair;
-use Domain\User\Http\Requests\Data\SaveAccountKeysRequestData;
+use Domain\User\Http\Requests\Data\SaveAccountKeysSettingsRequestData;
 
-class SaveAccountKeysRequest extends AuthRequest
+class SaveAccountKeysSettingsRequest extends AuthRequest
 {
     public function rules(): array
     {
@@ -29,9 +29,9 @@ class SaveAccountKeysRequest extends AuthRequest
         ];
     }
 
-    public function toData(): SaveAccountKeysRequestData
+    public function toData(): SaveAccountKeysSettingsRequestData
     {
-        return SaveAccountKeysRequestData::from([
+        return SaveAccountKeysSettingsRequestData::from([
             'publicKey' => (string) $this->input('publicKey'),
             'secretKey' => (string) $this->input('secretKey'),
         ]);

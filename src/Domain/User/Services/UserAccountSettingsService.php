@@ -5,9 +5,9 @@ namespace Domain\User\Services;
 use App\Models\User;
 use App\Repositories\User\UserRepositoryInterface;
 use Domain\Auth\Notifications\PasswordChangedNotification;
-use Domain\User\Http\Requests\Data\SaveAccountKeysRequestData;
-use Domain\User\Http\Requests\Data\SaveAccountPasswordRequestData;
-use Domain\User\Http\Requests\Data\SaveAccountPersonalRequestData;
+use Domain\User\Http\Requests\Data\SaveAccountKeysSettingsRequestData;
+use Domain\User\Http\Requests\Data\SaveAccountPasswordSettingsRequestData;
+use Domain\User\Http\Requests\Data\SaveAccountPersonalSettingsRequestData;
 
 class UserAccountSettingsService
 {
@@ -16,7 +16,7 @@ class UserAccountSettingsService
     ) {
     }
 
-    public function savePersonal(User $user, SaveAccountPersonalRequestData $data): void
+    public function savePersonal(User $user, SaveAccountPersonalSettingsRequestData $data): void
     {
         $this->userRepository->update($user, [
             'firstname' => $data->firstname,
@@ -25,7 +25,7 @@ class UserAccountSettingsService
         ]);
     }
 
-    public function savePassword(User $user, SaveAccountPasswordRequestData $data): void
+    public function savePassword(User $user, SaveAccountPasswordSettingsRequestData $data): void
     {
         $user = $this->userRepository->changePassword($user, $data->newPassword);
 
@@ -33,7 +33,7 @@ class UserAccountSettingsService
         $user->notify(new PasswordChangedNotification());
     }
 
-    public function saveKeys(User $user, SaveAccountKeysRequestData $data): void
+    public function saveKeys(User $user, SaveAccountKeysSettingsRequestData $data): void
     {
         $this->userRepository->update($user, [
             'public_key' => $data->publicKey,

@@ -81,7 +81,8 @@ class SyncAssetsJob extends BaseJob
                 ]);
             } else {
                 // not supported currency,
-                // but we still stave it
+                // but we still save it
+                // for informational purpose
 
                 /** @var Asset $model */
                 $model = $this->user->assets()->updateOrCreate([

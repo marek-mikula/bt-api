@@ -7,7 +7,7 @@ use Domain\Limits\Enums\LimitsNotificationPeriodEnum;
 use Spatie\LaravelData\Attributes\WithCast;
 use Spatie\LaravelData\Data;
 
-class UpdateLimitsRequestData extends Data
+class UpdateLimitsSettingsRequestData extends Data
 {
     public function __construct(
         public readonly bool $tradeEnabled,

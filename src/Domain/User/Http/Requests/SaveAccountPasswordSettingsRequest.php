@@ -3,10 +3,10 @@
 namespace Domain\User\Http\Requests;
 
 use App\Http\Requests\AuthRequest;
-use Domain\User\Http\Requests\Data\SaveAccountPasswordRequestData;
+use Domain\User\Http\Requests\Data\SaveAccountPasswordSettingsRequestData;
 use Illuminate\Validation\Rules\Password;
 
-class SaveAccountPasswordRequest extends AuthRequest
+class SaveAccountPasswordSettingsRequest extends AuthRequest
 {
     public function rules(): array
     {
@@ -33,9 +33,9 @@ class SaveAccountPasswordRequest extends AuthRequest
         ];
     }
 
-    public function toData(): SaveAccountPasswordRequestData
+    public function toData(): SaveAccountPasswordSettingsRequestData
     {
-        return SaveAccountPasswordRequestData::from([
+        return SaveAccountPasswordSettingsRequestData::from([
             'newPassword' => (string) $this->input('newPassword'),
         ]);
     }

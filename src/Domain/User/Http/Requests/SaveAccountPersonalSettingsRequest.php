@@ -4,9 +4,9 @@ namespace Domain\User\Http\Requests;
 
 use App\Http\Requests\AuthRequest;
 use App\Rules\AgeRule;
-use Domain\User\Http\Requests\Data\SaveAccountPersonalRequestData;
+use Domain\User\Http\Requests\Data\SaveAccountPersonalSettingsRequestData;
 
-class SaveAccountPersonalRequest extends AuthRequest
+class SaveAccountPersonalSettingsRequest extends AuthRequest
 {
     public function rules(): array
     {
@@ -30,9 +30,9 @@ class SaveAccountPersonalRequest extends AuthRequest
         ];
     }
 
-    public function toData(): SaveAccountPersonalRequestData
+    public function toData(): SaveAccountPersonalSettingsRequestData
     {
-        return SaveAccountPersonalRequestData::from([
+        return SaveAccountPersonalSettingsRequestData::from([
             'firstname' => (string) $this->input('firstname'),
             'lastname' => (string) $this->input('lastname'),
             'birthDate' => (string) $this->input('birthDate'),

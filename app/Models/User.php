@@ -25,6 +25,7 @@ use Rappasoft\LaravelAuthenticationLog\Traits\AuthenticationLoggable;
  * @property string $password
  * @property string $public_key
  * @property string $secret_key
+ * @property bool $whale_notification_enabled
  * @property-read bool $quiz_taken
  * @property string|null $remember_token
  * @property Carbon|null $assets_synced_at
@@ -58,6 +59,7 @@ class User extends Authenticatable
         'password',
         'public_key',
         'secret_key',
+        'whale_notification_enabled',
         'remember_token',
         'assets_synced_at',
         'email_verified_at',
@@ -79,6 +81,7 @@ class User extends Authenticatable
         'password' => 'string',
         'public_key' => EncryptCast::class,
         'secret_key' => EncryptCast::class,
+        'whale_notification_enabled' => 'boolean',
         'remember_token' => 'string',
         'assets_synced_at' => 'datetime:Y-m-d H:i:s',
         'email_verified_at' => 'datetime:Y-m-d H:i:s',

@@ -7,7 +7,7 @@ use Carbon\Carbon;
 use Spatie\LaravelData\Attributes\WithCast;
 use Spatie\LaravelData\Data;
 
-class SaveAccountPersonalRequestData extends Data
+class SaveAccountPersonalSettingsRequestData extends Data
 {
     public function __construct(
         public readonly string $firstname,

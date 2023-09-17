@@ -4,7 +4,7 @@ namespace Domain\User\Http\Requests\Data;
 
 use Spatie\LaravelData\Data;
 
-class SaveAccountKeysRequestData extends Data
+class SaveAccountKeysSettingsRequestData extends Data
 {
     public function __construct(
         public readonly string $publicKey,

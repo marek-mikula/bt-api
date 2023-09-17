@@ -4,13 +4,13 @@ namespace Domain\User\Http\Requests;
 
 use App\Http\Requests\AuthRequest;
 use Domain\Limits\Enums\LimitsNotificationPeriodEnum;
-use Domain\User\Http\Requests\Data\UpdateLimitsRequestData;
+use Domain\User\Http\Requests\Data\UpdateLimitsSettingsRequestData;
 use Domain\User\Validation\ValidateLimits;
 use Domain\User\Validation\ValidateLimitsMarketCap;
 use Illuminate\Validation\Rule;
 use Illuminate\Validation\Rules\Enum;
 
-class UpdateLimitsRequest extends AuthRequest
+class UpdateLimitsSettingsRequest extends AuthRequest
 {
     public function rules(): array
     {
@@ -142,9 +142,9 @@ class UpdateLimitsRequest extends AuthRequest
         ];
     }
 
-    public function toData(): UpdateLimitsRequestData
+    public function toData(): UpdateLimitsSettingsRequestData
     {
-        return UpdateLimitsRequestData::from([
+        return UpdateLimitsSettingsRequestData::from([
             'tradeEnabled' => $this->boolean('trade.enabled'),
             'tradeDaily' => $this->filled('trade.daily') ? (int) $this->input('trade.daily') : null,
             'tradeWeekly' => $this->filled('trade.weekly') ? (int) $this->input('trade.weekly') : null,
