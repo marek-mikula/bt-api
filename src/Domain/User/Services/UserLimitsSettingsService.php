@@ -57,11 +57,13 @@ class UserLimitsSettingsService
 
             // cryptocurrency
             'cryptocurrency_enabled' => $data->cryptocurrencyEnabled,
+            'cryptocurrency_period' => $data->cryptocurrencyPeriod?->value,
             'cryptocurrency_min' => $data->cryptocurrencyEnabled ? $data->cryptocurrencyMin : null,
             'cryptocurrency_max' => $data->cryptocurrencyEnabled ? $data->cryptocurrencyMax : null,
 
             // market cap
             'market_cap_enabled' => $data->marketCapEnabled,
+            'market_cap_period' => $data->marketCapPeriod?->value,
             'market_cap_margin' => $data->marketCapEnabled ? $data->marketCapMargin : null,
 
             'market_cap_micro_enabled' => $data->marketCapEnabled && $data->marketCapMicroEnabled,

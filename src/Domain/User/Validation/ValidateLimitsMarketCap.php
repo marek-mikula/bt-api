@@ -7,6 +7,10 @@ use Illuminate\Validation\Validator;
 
 class ValidateLimitsMarketCap
 {
+    /**
+     * Validates that given market cap limitation values
+     * has max. 100% together.
+     */
     public function __invoke(Validator $validator): void
     {
         $data = $validator->getData();

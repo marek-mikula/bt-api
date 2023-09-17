@@ -32,8 +32,8 @@ class AlertServiceProvider extends ServiceProvider
 
     private function bootSchedule(): void
     {
-        $this->callAfterResolving(Schedule::class, function (Schedule $schedule) {
-            $schedule->command('alert:check')->everyMinute();
+        $this->callAfterResolving(Schedule::class, static function (Schedule $schedule): void {
+            $schedule->command(AlertCheckCommand::class)->everyMinute();
         });
     }
 }

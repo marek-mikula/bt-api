@@ -24,7 +24,7 @@ return [
      */
     'casts' => [
         DateTimeInterface::class => App\Data\Casts\DateTimeInterfaceCast::class,
-        BackedEnum::class => Spatie\LaravelData\Casts\EnumCast::class,
+        BackedEnum::class => App\Data\Casts\EnumCast::class,
     ],
 
     /*

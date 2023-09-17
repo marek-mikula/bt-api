@@ -2,7 +2,7 @@
 
 namespace Domain\Alert\Console\Commands;
 
-use Domain\Alert\Services\AlertService;
+use Domain\Alert\Services\AlertCheckerService;
 use Illuminate\Console\Command;
 
 class AlertCheckCommand extends Command
@@ -11,9 +11,9 @@ class AlertCheckCommand extends Command
 
     protected $description = 'Checks alerts of users and possibly pushes jobs to queue for notifications.';
 
-    public function handle(AlertService $service): int
+    public function handle(AlertCheckerService $service): int
     {
-        $service->checkAlerts();
+        $service->check();
 
         return 0;
     }

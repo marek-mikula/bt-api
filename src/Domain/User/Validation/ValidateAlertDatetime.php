@@ -8,6 +8,10 @@ use Illuminate\Validation\Validator;
 
 class ValidateAlertDatetime
 {
+    /**
+     * Validates that the user given date and possibly
+     * time is in the future.
+     */
     public function __invoke(Validator $validator): void
     {
         $data = $validator->getData();

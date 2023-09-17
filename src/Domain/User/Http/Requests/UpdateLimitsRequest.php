@@ -3,15 +3,19 @@
 namespace Domain\User\Http\Requests;
 
 use App\Http\Requests\AuthRequest;
+use Domain\User\Enums\LimitsNotificationPeriodEnum;
 use Domain\User\Http\Requests\Data\UpdateLimitsRequestData;
+use Domain\User\Validation\ValidateLimits;
 use Domain\User\Validation\ValidateLimitsMarketCap;
 use Illuminate\Validation\Rule;
+use Illuminate\Validation\Rules\Enum;
 
 class UpdateLimitsRequest extends AuthRequest
 {
     public function rules(): array
     {
         return [
+            // TRADE
             'trade.enabled' => [
                 'required',
                 'boolean',
@@ -19,90 +23,111 @@ class UpdateLimitsRequest extends AuthRequest
             'trade.daily' => [
                 'nullable',
                 'integer',
-                'lte:trade.weekly',
-                'lte:trade.monthly',
+                Rule::when($this->filled('trade.daily') && $this->filled('trade.weekly'), 'lte:trade.weekly'),
+                Rule::when($this->filled('trade.daily') && $this->filled('trade.monthly'), 'lte:trade.monthly'),
+                'min:0',
             ],
             'trade.weekly' => [
                 'nullable',
                 'integer',
-                'lte:trade.monthly',
+                Rule::when($this->filled('trade.weekly') && $this->filled('trade.monthly'), 'lte:trade.monthly'),
+                'min:0',
             ],
             'trade.monthly' => [
                 'nullable',
                 'integer',
+                'min:0',
             ],
+
+            // CRYPTOCURRENCY
             'cryptocurrency.enabled' => [
                 'required',
                 'boolean',
             ],
+            'cryptocurrency.period' => [
+                Rule::when($this->boolean('cryptocurrency.enabled'), 'required', 'nullable'),
+                'string',
+                new Enum(LimitsNotificationPeriodEnum::class),
+            ],
             'cryptocurrency.min' => [
                 'nullable',
                 'integer',
-                Rule::when(
-                    $this->filled('cryptocurrency.min') && $this->filled('cryptocurrency.max'),
-                    'lte:cryptocurrency.max'
-                ),
+                Rule::when($this->filled('cryptocurrency.min') && $this->filled('cryptocurrency.max'), 'lte:cryptocurrency.max'),
+                'min:0',
             ],
             'cryptocurrency.max' => [
                 'nullable',
                 'integer',
+                'min:0',
             ],
+
+            // MARKET CAP
             'marketCap.enabled' => [
                 'required',
                 'boolean',
             ],
+            'marketCap.period' => [
+                Rule::when($this->boolean('marketCap.enabled'), 'required', 'nullable'),
+                'string',
+                new Enum(LimitsNotificationPeriodEnum::class),
+            ],
             'marketCap.margin' => [
-                'nullable',
+                Rule::when($this->boolean('marketCap.enabled'), 'required', 'nullable'),
                 'integer',
                 'between:3,15',
             ],
+
+            // MARKET CAP OBJECT - micro
             'marketCap.microEnabled' => [
                 'required',
                 'boolean',
             ],
             'marketCap.micro' => [
-                'required_if:marketCap.microEnabled,1',
-                'nullable',
+                Rule::when($this->boolean('marketCap.enabled') && $this->boolean('marketCap.microEnabled'), 'required', 'nullable'),
                 'integer',
                 'between:0,100',
             ],
+
+            // MARKET CAP OBJECT - small
             'marketCap.smallEnabled' => [
                 'required',
                 'boolean',
             ],
             'marketCap.small' => [
-                'required_if:marketCap.smallEnabled,1',
-                'nullable',
+                Rule::when($this->boolean('marketCap.enabled') && $this->boolean('marketCap.smallEnabled'), 'required', 'nullable'),
                 'integer',
                 'between:0,100',
             ],
+
+            // MARKET CAP OBJECT - mid
             'marketCap.midEnabled' => [
                 'required',
                 'boolean',
             ],
             'marketCap.mid' => [
-                'required_if:marketCap.midEnabled,1',
-                'nullable',
+                Rule::when($this->boolean('marketCap.enabled') && $this->boolean('marketCap.midEnabled'), 'required', 'nullable'),
                 'integer',
                 'between:0,100',
             ],
+
+            // MARKET CAP OBJECT - large
             'marketCap.largeEnabled' => [
                 'required',
                 'boolean',
             ],
             'marketCap.large' => [
-                'required_if:marketCap.largeEnabled,1',
-                'nullable',
+                Rule::when($this->boolean('marketCap.enabled') && $this->boolean('marketCap.largeEnabled'), 'required', 'nullable'),
                 'integer',
                 'between:0,100',
             ],
+
+            // MARKET CAP OBJECT - mega
             'marketCap.megaEnabled' => [
                 'required',
                 'boolean',
             ],
             'marketCap.mega' => [
-                'required_if:marketCap.megaEnabled,1',
-                'nullable',
+                Rule::when($this->boolean('marketCap.enabled') && $this->boolean('marketCap.megaEnabled'), 'required', 'nullable'),
                 'integer',
                 'between:0,100',
             ],
@@ -112,6 +137,7 @@ class UpdateLimitsRequest extends AuthRequest
     public function after(): array
     {
         return [
+            app(ValidateLimits::class),
             app(ValidateLimitsMarketCap::class),
         ];
     }
@@ -124,9 +150,11 @@ class UpdateLimitsRequest extends AuthRequest
             'tradeWeekly' => $this->filled('trade.weekly') ? (int) $this->input('trade.weekly') : null,
             'tradeMonthly' => $this->filled('trade.monthly') ? (int) $this->input('trade.monthly') : null,
             'cryptocurrencyEnabled' => $this->boolean('cryptocurrency.enabled'),
+            'cryptocurrencyPeriod' => $this->filled('cryptocurrency.period') ? (string) $this->input('cryptocurrency.period') : null,
             'cryptocurrencyMin' => $this->filled('cryptocurrency.min') ? (int) $this->input('cryptocurrency.min') : null,
             'cryptocurrencyMax' => $this->filled('cryptocurrency.max') ? (int) $this->input('cryptocurrency.max') : null,
             'marketCapEnabled' => $this->boolean('marketCap.enabled'),
+            'marketCapPeriod' => $this->filled('marketCap.period') ? (string) $this->input('marketCap.period') : null,
             'marketCapMargin' => $this->filled('marketCap.margin') ? (int) $this->input('marketCap.margin') : null,
             'marketCapMicroEnabled' => $this->boolean('marketCap.microEnabled'),
             'marketCapMicro' => $this->filled('marketCap.micro') ? (int) $this->input('marketCap.micro') : null,

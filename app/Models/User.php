@@ -27,11 +27,13 @@ use Rappasoft\LaravelAuthenticationLog\Traits\AuthenticationLoggable;
  * @property string $secret_key
  * @property-read bool $quiz_taken
  * @property string|null $remember_token
+ * @property Carbon|null $assets_synced_at
  * @property Carbon|null $email_verified_at
  * @property Carbon|null $quiz_finished_at
  * @property Carbon $created_at
  * @property Carbon $updated_at
  * @property-read Collection<MfaToken> $mfaTokens
+ * @property-read Collection<Asset> $assets
  * @property-read QuizResult|null $quizResult
  * @property-read Limits $limits
  *
@@ -56,6 +58,7 @@ class User extends Authenticatable
         'public_key',
         'secret_key',
         'remember_token',
+        'assets_synced_at',
         'email_verified_at',
         'quiz_finished_at',
     ];
@@ -76,6 +79,7 @@ class User extends Authenticatable
         'public_key' => EncryptCast::class,
         'secret_key' => EncryptCast::class,
         'remember_token' => 'string',
+        'assets_synced_at' => 'datetime:Y-m-d H:i:s',
         'email_verified_at' => 'datetime:Y-m-d H:i:s',
         'quiz_finished_at' => 'datetime:Y-m-d H:i:s',
     ];
@@ -129,6 +133,14 @@ class User extends Authenticatable
     public function limits(): HasOne
     {
         return $this->hasOne(Limits::class, 'user_id', 'id');
+    }
+
+    /**
+     * @see User::$assets
+     */
+    public function assets(): HasMany
+    {
+        return $this->hasMany(Asset::class, 'user_id', 'id');
     }
 
     /**
