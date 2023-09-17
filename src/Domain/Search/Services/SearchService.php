@@ -19,15 +19,15 @@ class SearchService
     /**
      * @return Collection<SearchResult>
      */
-    public function search(string $query): Collection
+    public function search(string $q): Collection
     {
         $currencies = Currency::query()
             ->where('is_fiat', '=', 0)
-            ->where(function (Builder $q) use ($query): void {
-                $q
-                    ->where('name', 'like', "%{$query}%")
-                    ->orWhere('meta->description', 'like', "%{$query}%")
-                    ->orWhere('symbol', '=', $query);
+            ->where(function (Builder $query) use ($q): void {
+                $query
+                    ->where('name', 'like', "%{$q}%")
+                    ->orWhere('meta->description', 'like', "%{$q}%")
+                    ->orWhere('symbol', '=', $q);
             })
             ->get();
 
@@ -45,22 +45,25 @@ class SearchService
         $quotes = $this->coinmarketcapApi->quotes($ids->all())
             ->collect('data');
 
-        return $currencies->map(function (Currency $currency) use ($quotes): SearchResult {
-            /** @var array $quote */
-            $quote = $quotes->get($currency->coinmarketcap_id);
+        return $currencies
+            ->map(function (Currency $currency) use ($quotes): SearchResult {
+                /** @var array $quote */
+                $quote = $quotes->get($currency->coinmarketcap_id);
 
-            $quoteCurrency = (string) collect($quote['quote'])->keys()->first();
+                $quoteCurrency = (string) collect($quote['quote'])->keys()->first();
 
-            return SearchResult::from([
-                'id' => $currency->id,
-                'name' => $currency->name,
-                'symbol' => $currency->symbol,
-                'description' => (string) Arr::get($currency->meta, 'description'),
-                'logo' => (string) Arr::get($currency->meta, 'logo'),
-                'urls' => Arr::get($currency->meta, 'urls', []),
-                'price' => floatval($quote['quote'][$quoteCurrency]['price']),
-                'priceCurrency' => $quoteCurrency,
-            ]);
-        });
+                return SearchResult::from([
+                    'id' => $currency->id,
+                    'rank' => (int) $quote['cmc_rank'],
+                    'name' => $currency->name,
+                    'symbol' => $currency->symbol,
+                    'description' => (string) Arr::get($currency->meta, 'description'),
+                    'logo' => (string) Arr::get($currency->meta, 'logo'),
+                    'urls' => Arr::get($currency->meta, 'urls', []),
+                    'price' => floatval($quote['quote'][$quoteCurrency]['price']),
+                    'priceCurrency' => $quoteCurrency,
+                ]);
+            })
+            ->sortBy('rank');
     }
 }
