@@ -23,7 +23,7 @@ class UserResource extends JsonResource
             'notifications' => [
                 'whale' => [
                     'enabled' => $this->resource->whale_notification_enabled,
-                ]
+                ],
             ],
             'quizTaken' => $this->resource->quiz_taken,
             'quizFinishedAt' => $this->resource->quiz_finished_at?->toIso8601String(),

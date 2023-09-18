@@ -24,7 +24,7 @@ class LimitsServiceProvider extends ServiceProvider
 
     private function bootSchedule(): void
     {
-        $this->callAfterResolving(Schedule::class, function (Schedule $schedule) {
+        $this->callAfterResolving(Schedule::class, function (Schedule $schedule): void {
             // NUMBER OF CRYPTO LIMITS
             $schedule->call(CheckCryptoLimitSchedule::proxyCall(
                 LimitsNotificationPeriodEnum::DAILY

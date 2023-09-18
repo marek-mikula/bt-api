@@ -5,7 +5,6 @@ namespace Domain\WhaleAlert\Http\Client\Concerns;
 use Carbon\Carbon;
 use Domain\WhaleAlert\Exceptions\WhaleAlertRequestException;
 use Illuminate\Http\Client\Response;
-use Illuminate\Support\Collection;
 
 interface WhaleAlertClientInterface
 {
@@ -17,5 +16,5 @@ interface WhaleAlertClientInterface
     /**
      * @throws WhaleAlertRequestException
      */
-    public function transactions(Carbon $from, ?Carbon $to = null, ?int $min = null, ?Collection $currencies = null): Response;
+    public function transactions(Carbon $from, Carbon $to = null, int $min = null, string $currency = null): Response;
 }

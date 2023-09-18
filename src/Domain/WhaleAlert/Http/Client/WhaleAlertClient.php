@@ -7,7 +7,6 @@ use Domain\WhaleAlert\Exceptions\WhaleAlertRequestException;
 use Domain\WhaleAlert\Http\Client\Concerns\WhaleAlertClientInterface;
 use Illuminate\Http\Client\PendingRequest;
 use Illuminate\Http\Client\Response;
-use Illuminate\Support\Collection;
 use Illuminate\Support\Facades\Http;
 
 class WhaleAlertClient implements WhaleAlertClientInterface
@@ -24,7 +23,7 @@ class WhaleAlertClient implements WhaleAlertClientInterface
         return $response;
     }
 
-    public function transactions(Carbon $from, ?Carbon $to = null, ?int $min = null, ?Collection $currencies = null): Response
+    public function transactions(Carbon $from, Carbon $to = null, int $min = null, string $currency = null): Response
     {
         $params = [
             // starting timestamp
@@ -44,9 +43,9 @@ class WhaleAlertClient implements WhaleAlertClientInterface
             $params['min_value'] = $min;
         }
 
-        // only specific currencies
-        if ($currencies !== null) {
-            $params['currency'] = $currencies->implode(',');
+        // only specific currency
+        if (! empty($currency)) {
+            $params['currency'] = $currency;
         }
 
         $response = $this->request()

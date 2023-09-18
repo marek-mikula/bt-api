@@ -13,14 +13,14 @@ class UpdateNotificationsSettingsRequest extends AuthRequest
             'whale.enabled' => [
                 'required',
                 'boolean',
-            ]
+            ],
         ];
     }
 
     public function toData(): UpdateNotificationsSettingsRequestData
     {
         return UpdateNotificationsSettingsRequestData::from([
-            'whaleEnabled' => $this->boolean('whale.enabled')
+            'whaleEnabled' => $this->boolean('whale.enabled'),
         ]);
     }
 }

@@ -6,7 +6,6 @@ use Carbon\Carbon;
 use Domain\WhaleAlert\Exceptions\WhaleAlertRequestException;
 use Domain\WhaleAlert\Http\Client\Concerns\WhaleAlertClientInterface;
 use Illuminate\Http\Client\Response;
-use Illuminate\Support\Collection;
 use InvalidArgumentException;
 
 class WhaleAlertApi
@@ -29,14 +28,15 @@ class WhaleAlertApi
     /**
      * Retrieves the whale transactions
      *
-     * @param Carbon $from from timestamp
-     * @param Carbon|null $to to timestamp
-     * @param int|null $min min transaction value
-     * @param Collection<string>|null $currencies list of currencies to return
+     * @param  Carbon  $from from timestamp
+     * @param  Carbon|null  $to to timestamp
+     * @param  int|null  $min min transaction value
+     * @param  string|null  $currency specific cryptocurrency to return,
+     * all currencies are returned otherwise
      *
      * @throws WhaleAlertRequestException
      */
-    public function transactions(Carbon $from, ?Carbon $to = null, ?int $min = null, ?Collection $currencies = null): Response
+    public function transactions(Carbon $from, Carbon $to = null, int $min = null, string $currency = null): Response
     {
         if ($min < 500_000) {
             throw new InvalidArgumentException('Min. transaction value must be greater or equal than $500,000.');
@@ -50,11 +50,20 @@ class WhaleAlertApi
             throw new InvalidArgumentException('Timestamp to must be greater than timestamp from.');
         }
 
+        $supportedCurrencies = collect(config('whale-alert.supported_currencies'));
+
+        if (! empty($currency) && ! $supportedCurrencies->contains($currency)) {
+            throw new InvalidArgumentException(vsprintf('Unsupported currency "%s" passed. Supported currencies are %s.', [
+                $currency,
+                $supportedCurrencies->implode(', '),
+            ]));
+        }
+
         return $this->client->transactions(
             from: $from,
             to: $to,
             min: $min,
-            currencies: $currencies
+            currency: $currency
         );
     }
 }

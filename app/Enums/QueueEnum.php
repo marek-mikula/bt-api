@@ -8,4 +8,5 @@ enum QueueEnum: string
     case ASSETS = 'assets';
     case ALERTS = 'alerts';
     case LIMITS = 'limits';
+    case WHALE_ALERTS = 'whale-alerts';
 }

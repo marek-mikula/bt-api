@@ -126,4 +126,13 @@ return [
             'body' => 'Your set range between :from % and :to % for :category has been exceeded by :by %. Consider selling or buying some assets from this category to bring the value back into the set range of your limits.',
         ],
     ],
+
+    // WHALE ALERTS
+
+    NotificationTypeEnum::WHALE_ALERT->value => [
+        'database' => [
+            'title' => 'Whale alert on currency :currencySymbol!',
+            'body' => 'There have been total of :n transactions over $1,000,000 on currency :currency (:currencySymbol) with total value of :amount ($:amountUsd).',
+        ],
+    ],
 ];
