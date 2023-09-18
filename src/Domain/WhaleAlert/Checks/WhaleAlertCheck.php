@@ -1,18 +1,18 @@
 <?php
 
-namespace Domain\Coinmarketcap\Checks;
+namespace Domain\WhaleAlert\Checks;
 
-use Domain\Coinmarketcap\Exceptions\CoinmarketcapRequestException;
-use Domain\Coinmarketcap\Http\CoinmarketcapApi;
+use Domain\WhaleAlert\Exceptions\WhaleAlertRequestException;
+use Domain\WhaleAlert\Http\WhaleAlertApi;
 use Spatie\Health\Checks\Check;
 use Spatie\Health\Checks\Result;
 
-class CoinmarketcapCheck extends Check
+class WhaleAlertCheck extends Check
 {
-    protected ?string $name = 'Coinmarketcap.com';
+    protected ?string $name = 'Whale-alert.io';
 
     public function __construct(
-        private readonly CoinmarketcapApi $api,
+        private readonly WhaleAlertApi $api,
     ) {
         parent::__construct();
     }
@@ -22,8 +22,8 @@ class CoinmarketcapCheck extends Check
         $result = Result::make();
 
         try {
-            $this->api->keyInfo();
-        } catch (CoinmarketcapRequestException $e) {
+            $this->api->status();
+        } catch (WhaleAlertRequestException $e) {
             return $result
                 ->failed('Down')
                 ->meta([

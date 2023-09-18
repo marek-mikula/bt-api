@@ -12,7 +12,7 @@ class BinanceWalletCheck extends Check
     protected ?string $name = 'Binance.com - Wallet';
 
     public function __construct(
-        private readonly BinanceApi $binanceApi,
+        private readonly BinanceApi $api,
     ) {
         parent::__construct();
     }
@@ -22,7 +22,7 @@ class BinanceWalletCheck extends Check
         $result = Result::make();
 
         try {
-            $response = $this->binanceApi->wallet->systemStatus();
+            $response = $this->api->wallet->systemStatus();
         } catch (BinanceRequestException $e) {
             return $result
                 ->failed('Down')
