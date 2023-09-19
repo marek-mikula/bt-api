@@ -4,7 +4,6 @@ namespace Domain\Coinmarketcap\Http\Client;
 
 use Domain\Coinmarketcap\Exceptions\CoinmarketcapRequestException;
 use Domain\Coinmarketcap\Http\Client\Concerns\CoinmarketcapClientInterface;
-use Illuminate\Contracts\Config\Repository;
 use Illuminate\Http\Client\PendingRequest;
 use Illuminate\Http\Client\Response;
 use Illuminate\Support\Collection;
@@ -13,11 +12,6 @@ use Illuminate\Support\Str;
 
 class CoinmarketcapClient implements CoinmarketcapClientInterface
 {
-    public function __construct(
-        private readonly Repository $config
-    ) {
-    }
-
     public function latestByCap(int $page = 1, int $perPage = 100): Response
     {
         $response = $this->request()
@@ -190,7 +184,6 @@ class CoinmarketcapClient implements CoinmarketcapClientInterface
             ]);
 
         if (! $response->successful()) {
-            dd($response->json());
             throw new CoinmarketcapRequestException($response);
         }
 
@@ -211,9 +204,9 @@ class CoinmarketcapClient implements CoinmarketcapClientInterface
 
     private function request(): PendingRequest
     {
-        return Http::baseUrl((string) $this->config->get('coinmarketcap.url'))
+        return Http::baseUrl((string) config('coinmarketcap.url'))
             ->withHeaders([
-                'X-CMC_PRO_API_KEY' => (string) $this->config->get('coinmarketcap.key'),
+                'X-CMC_PRO_API_KEY' => (string) config('coinmarketcap.key'),
                 'Accept-Encoding' => 'deflate, gzip',
             ])
             ->acceptJson();

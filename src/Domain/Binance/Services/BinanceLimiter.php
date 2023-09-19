@@ -13,7 +13,6 @@ use Domain\Binance\Exceptions\BinanceBanException;
 use Domain\Binance\Exceptions\BinanceLimitException;
 use Domain\Binance\Exceptions\BinanceRequestException;
 use Domain\Binance\Http\BinanceResponse;
-use Illuminate\Contracts\Config\Repository;
 use Illuminate\Support\Facades\Cache;
 use InvalidArgumentException;
 
@@ -21,9 +20,8 @@ class BinanceLimiter
 {
     private readonly int $timestampMs;
 
-    public function __construct(
-        private readonly Repository $config,
-    ) {
+    public function __construct()
+    {
         // save the timestamp in ms for further process
         $this->timestampMs = now()->getTimestampMs();
     }
@@ -44,7 +42,7 @@ class BinanceLimiter
         // check if limiter is enabled, if so
         // return response immediately
 
-        if (! $this->config->get('binance.limiter')) {
+        if (! config('binance.limiter')) {
             /** @var BinanceResponse $response */
             $response = $request(...$args);
 

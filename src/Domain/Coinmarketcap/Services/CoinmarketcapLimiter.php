@@ -4,7 +4,6 @@ namespace Domain\Coinmarketcap\Services;
 
 use Domain\Coinmarketcap\Data\LimitCacheData;
 use Domain\Coinmarketcap\Exceptions\CoinmarketcapLimitException;
-use Illuminate\Contracts\Config\Repository;
 use Illuminate\Http\Client\Response;
 use Illuminate\Support\Facades\Cache;
 
@@ -14,9 +13,8 @@ class CoinmarketcapLimiter
 
     private readonly int $timestampMs;
 
-    public function __construct(
-        private readonly Repository $config,
-    ) {
+    public function __construct()
+    {
         // save the timestamp in ms for further process
         $this->timestampMs = now()->getTimestampMs();
     }
@@ -29,7 +27,7 @@ class CoinmarketcapLimiter
         // check if limiter is enabled, if so
         // return response immediately
 
-        if (! $this->config->get('coinmarketcap.limiter')) {
+        if (! config('coinmarketcap.limiter')) {
             /** @var Response $response */
             $response = $request(...$args);
 
@@ -65,7 +63,7 @@ class CoinmarketcapLimiter
         $cacheTimeInMs = ($data->timestampMs + $periodInMs) - $this->timestampMs;
 
         // save object to cache
-        Cache::tags(['coinmarketcap', 'coinmarketcap-limit'])->put($key, $data, now()->addMilliseconds($cacheTimeInMs));
+        Cache::tags(['coinmarketcap', 'coinmarketcap-limiter'])->put($key, $data, now()->addMilliseconds($cacheTimeInMs));
     }
 
     /**
@@ -74,10 +72,7 @@ class CoinmarketcapLimiter
     private function checkLimit(string $key): ?LimitCacheData
     {
         /** @var LimitCacheData|null $data */
-        $data = Cache::tags([
-            'coinmarketcap',
-            'coinmarketcap-limit',
-        ])->get($key);
+        $data = Cache::tags(['coinmarketcap', 'coinmarketcap-limiter'])->get($key);
 
         if ($data === null) {
             return null;

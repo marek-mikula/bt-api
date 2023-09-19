@@ -7,7 +7,6 @@ use Domain\Binance\Exceptions\BinanceRequestException;
 use Domain\Binance\Http\BinanceResponse;
 use Domain\Binance\Http\Client\Concerns\SpotClientInterface;
 use Domain\Binance\Services\BinanceAuthenticator;
-use Illuminate\Contracts\Config\Repository;
 use Illuminate\Http\Client\PendingRequest;
 use Illuminate\Support\Facades\Http;
 
@@ -15,7 +14,6 @@ class SpotClient implements SpotClientInterface
 {
     public function __construct(
         private readonly BinanceAuthenticator $authenticator,
-        private readonly Repository $config,
     ) {
     }
 
@@ -35,7 +33,7 @@ class SpotClient implements SpotClientInterface
 
     private function request(): PendingRequest
     {
-        return Http::baseUrl((string) $this->config->get('binance.url'));
+        return Http::baseUrl((string) config('binance.url'));
     }
 
     private function authRequest(KeyPairData $keyPair): PendingRequest

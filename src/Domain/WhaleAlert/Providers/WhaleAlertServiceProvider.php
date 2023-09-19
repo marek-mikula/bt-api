@@ -12,6 +12,7 @@ class WhaleAlertServiceProvider extends ServiceProvider
     public function register(): void
     {
         $this->app->registerDeferredProvider(WhaleAlertDeferredServiceProvider::class);
+        $this->app->register(WhaleAlertRouteServiceProvider::class);
 
         $this->mergeConfigFrom(__DIR__.'/../Configs/whale-alert.php', 'whale-alert');
     }

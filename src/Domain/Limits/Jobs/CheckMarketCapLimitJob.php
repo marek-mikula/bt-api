@@ -32,10 +32,7 @@ class CheckMarketCapLimitJob extends BaseBatchJob
         }
 
         /** @var Collection<LimitQuoteData>|null $quotes */
-        $quotes = Cache::tags([
-            'limits',
-            'limits-quotes',
-        ])->get('limits:quotes');
+        $quotes = Cache::tags(['limits', 'limits-quotes'])->get('limits:quotes');
 
         if (! $quotes) {
             throw new Exception('Missing cached quotes!');

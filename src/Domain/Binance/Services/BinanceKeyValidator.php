@@ -5,12 +5,11 @@ namespace Domain\Binance\Services;
 use Domain\Binance\Data\KeyPairData;
 use Domain\Binance\Exceptions\BinanceRequestException;
 use Domain\Binance\Http\BinanceApi;
-use Illuminate\Contracts\Cache\Repository;
+use Illuminate\Support\Facades\Cache;
 
 class BinanceKeyValidator
 {
     public function __construct(
-        private readonly Repository $cache,
         private readonly BinanceApi $binanceApi,
     ) {
     }
@@ -19,7 +18,7 @@ class BinanceKeyValidator
     {
         $cacheKey = $this->getKey($publicKey, $secretKey);
 
-        return (bool) $this->cache->remember($cacheKey, now()->addHour(), function () use ($publicKey, $secretKey): bool {
+        return (bool) Cache::tags(['binance', 'binance-key-validation'])->remember($cacheKey, now()->addHour(), function () use ($publicKey, $secretKey): bool {
             return $this->isValid($publicKey, $secretKey);
         });
     }

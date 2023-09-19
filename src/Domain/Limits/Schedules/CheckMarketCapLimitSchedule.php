@@ -114,9 +114,6 @@ class CheckMarketCapLimitSchedule extends BaseSchedule
         // for limits (daily/weekly/monthly) can use
         // it
 
-        Cache::tags([
-            'limits',
-            'limits-quotes',
-        ])->put('limits:quotes', $quotes, now()->endOfDay());
+        Cache::tags(['limits', 'limits-quotes'])->put('limits:quotes', $quotes, now()->endOfDay());
     }
 }
