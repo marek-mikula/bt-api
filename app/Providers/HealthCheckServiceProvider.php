@@ -2,10 +2,10 @@
 
 namespace App\Providers;
 
+use Apis\Binance\Checks\BinanceWalletCheck;
 use Apis\Coinmarketcap\Checks\CoinmarketcapCheck;
 use Apis\WhaleAlert\Checks\WhaleAlertCheck;
 use App\Enums\EnvEnum;
-use Domain\Binance\Checks\BinanceWalletCheck;
 use Illuminate\Support\ServiceProvider;
 use Spatie\Health\Checks\Checks\DatabaseCheck;
 use Spatie\Health\Checks\Checks\DebugModeCheck;
