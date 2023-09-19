@@ -1,6 +1,6 @@
 <?php
 
-namespace Domain\WhaleAlert\Exceptions;
+namespace Apis\WhaleAlert\Exceptions;
 
 use Exception;
 use Illuminate\Http\Client\Response;

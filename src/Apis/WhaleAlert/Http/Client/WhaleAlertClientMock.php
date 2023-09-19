@@ -1,10 +1,10 @@
 <?php
 
-namespace Domain\WhaleAlert\Http\Client;
+namespace Apis\WhaleAlert\Http\Client;
 
+use Apis\WhaleAlert\Http\Client\Concerns\WhaleAlertClientInterface;
 use App\Traits\MocksData;
 use Carbon\Carbon;
-use Domain\WhaleAlert\Http\Client\Concerns\WhaleAlertClientInterface;
 use Illuminate\Http\Client\Response;
 use Illuminate\Support\Str;
 

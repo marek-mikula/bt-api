@@ -2,11 +2,11 @@
 
 namespace Domain\WhaleAlert\Jobs;
 
+use Apis\WhaleAlert\Http\WhaleAlertApi;
 use App\Enums\QueueEnum;
 use App\Jobs\BaseJob;
 use App\Models\Currency;
 use App\Models\WhaleAlert;
-use Domain\WhaleAlert\Http\WhaleAlertApi;
 use Illuminate\Support\Str;
 
 class CheckWhaleAlertsJob extends BaseJob

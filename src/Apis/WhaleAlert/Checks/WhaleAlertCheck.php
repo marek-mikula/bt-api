@@ -1,9 +1,9 @@
 <?php
 
-namespace Domain\WhaleAlert\Checks;
+namespace Apis\WhaleAlert\Checks;
 
-use Domain\WhaleAlert\Exceptions\WhaleAlertRequestException;
-use Domain\WhaleAlert\Http\WhaleAlertApi;
+use Apis\WhaleAlert\Exceptions\WhaleAlertRequestException;
+use Apis\WhaleAlert\Http\WhaleAlertApi;
 use Spatie\Health\Checks\Check;
 use Spatie\Health\Checks\Result;
 

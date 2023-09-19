@@ -1,10 +1,10 @@
 <?php
 
-namespace Domain\WhaleAlert\Http;
+namespace Apis\WhaleAlert\Http;
 
+use Apis\WhaleAlert\Exceptions\WhaleAlertRequestException;
+use Apis\WhaleAlert\Http\Client\Concerns\WhaleAlertClientInterface;
 use Carbon\Carbon;
-use Domain\WhaleAlert\Exceptions\WhaleAlertRequestException;
-use Domain\WhaleAlert\Http\Client\Concerns\WhaleAlertClientInterface;
 use Illuminate\Http\Client\Response;
 use InvalidArgumentException;
 

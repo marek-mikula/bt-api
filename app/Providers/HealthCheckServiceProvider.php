@@ -3,9 +3,9 @@
 namespace App\Providers;
 
 use Apis\Coinmarketcap\Checks\CoinmarketcapCheck;
+use Apis\WhaleAlert\Checks\WhaleAlertCheck;
 use App\Enums\EnvEnum;
 use Domain\Binance\Checks\BinanceWalletCheck;
-use Domain\WhaleAlert\Checks\WhaleAlertCheck;
 use Illuminate\Support\ServiceProvider;
 use Spatie\Health\Checks\Checks\DatabaseCheck;
 use Spatie\Health\Checks\Checks\DebugModeCheck;
