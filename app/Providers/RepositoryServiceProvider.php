@@ -34,7 +34,7 @@ class RepositoryServiceProvider extends ServiceProvider implements DeferrablePro
         AlertRepositoryInterface::class => AlertRepository::class,
         LimitsRepositoryInterface::class => LimitsRepository::class,
         AssetRepositoryInterface::class => AssetRepository::class,
-        WhaleAlertRepositoryInterface::class => WhaleAlertRepository::class
+        WhaleAlertRepositoryInterface::class => WhaleAlertRepository::class,
     ];
 
     public function register(): void

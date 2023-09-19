@@ -23,7 +23,7 @@ class WhaleAlertController extends ApiController
         $whaleAlerts = $this->whaleAlertRepository->index($page);
 
         return $this->sendJsonResponse(ResponseCodeEnum::OK, data: [
-            'whaleAlerts' => new WhaleAlertPaginatedResourceCollection($whaleAlerts)
+            'whaleAlerts' => new WhaleAlertPaginatedResourceCollection($whaleAlerts),
         ]);
     }
 }
