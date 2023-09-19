@@ -1,8 +1,8 @@
 <?php
 
-namespace Domain\Coinmarketcap\Http\Client\Concerns;
+namespace Apis\Coinmarketcap\Http\Client\Concerns;
 
-use Domain\Coinmarketcap\Exceptions\CoinmarketcapRequestException;
+use Apis\Coinmarketcap\Exceptions\CoinmarketcapRequestException;
 use Illuminate\Http\Client\Response;
 use Illuminate\Support\Collection;
 

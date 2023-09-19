@@ -2,7 +2,7 @@
 
 namespace Domain\Dashboard\Services;
 
-use Domain\Coinmarketcap\Http\CoinmarketcapApi;
+use Apis\Coinmarketcap\Http\CoinmarketcapApi;
 use Domain\Dashboard\Data\DashboardMarketMetrics;
 use Domain\Dashboard\Data\DashboardToken;
 use Illuminate\Support\Collection;

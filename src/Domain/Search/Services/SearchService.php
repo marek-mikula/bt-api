@@ -2,8 +2,8 @@
 
 namespace Domain\Search\Services;
 
+use Apis\Coinmarketcap\Http\CoinmarketcapApi;
 use App\Models\Currency;
-use Domain\Coinmarketcap\Http\CoinmarketcapApi;
 use Domain\Search\Data\SearchResult;
 use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Support\Arr;

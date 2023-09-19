@@ -2,7 +2,7 @@
 
 namespace Domain\Cryptocurrency\Services;
 
-use Domain\Coinmarketcap\Http\CoinmarketcapApi;
+use Apis\Coinmarketcap\Http\CoinmarketcapApi;
 use Domain\Cryptocurrency\Data\Cryptocurrency;
 use Illuminate\Support\Arr;
 use Illuminate\Support\Collection;

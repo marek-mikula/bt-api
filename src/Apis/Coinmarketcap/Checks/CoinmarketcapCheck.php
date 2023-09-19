@@ -1,9 +1,9 @@
 <?php
 
-namespace Domain\Coinmarketcap\Checks;
+namespace Apis\Coinmarketcap\Checks;
 
-use Domain\Coinmarketcap\Exceptions\CoinmarketcapRequestException;
-use Domain\Coinmarketcap\Http\CoinmarketcapApi;
+use Apis\Coinmarketcap\Exceptions\CoinmarketcapRequestException;
+use Apis\Coinmarketcap\Http\CoinmarketcapApi;
 use Spatie\Health\Checks\Check;
 use Spatie\Health\Checks\Result;
 

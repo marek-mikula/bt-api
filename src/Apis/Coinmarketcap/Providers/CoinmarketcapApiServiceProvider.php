@@ -1,14 +1,14 @@
 <?php
 
-namespace Domain\Coinmarketcap\Providers;
+namespace Apis\Coinmarketcap\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
-class CoinmarketcapServiceProvider extends ServiceProvider
+class CoinmarketcapApiServiceProvider extends ServiceProvider
 {
     public function register(): void
     {
-        $this->app->registerDeferredProvider(CoinmarketcapDeferredServiceProvider::class);
+        $this->app->registerDeferredProvider(CoinmarketcapApiDeferredServiceProvider::class);
 
         $this->mergeConfigFrom(__DIR__.'/../Configs/coinmarketcap.php', 'coinmarketcap');
     }

@@ -1,9 +1,9 @@
 <?php
 
-namespace Domain\Coinmarketcap\Http\Client;
+namespace Apis\Coinmarketcap\Http\Client;
 
-use Domain\Coinmarketcap\Exceptions\CoinmarketcapRequestException;
-use Domain\Coinmarketcap\Http\Client\Concerns\CoinmarketcapClientInterface;
+use Apis\Coinmarketcap\Exceptions\CoinmarketcapRequestException;
+use Apis\Coinmarketcap\Http\Client\Concerns\CoinmarketcapClientInterface;
 use Illuminate\Http\Client\PendingRequest;
 use Illuminate\Http\Client\Response;
 use Illuminate\Support\Collection;

@@ -2,10 +2,10 @@
 
 namespace App\Providers;
 
+use Apis\Coinmarketcap\Providers\CoinmarketcapApiServiceProvider;
 use Domain\Alert\Providers\AlertServiceProvider;
 use Domain\Auth\Providers\AuthServiceProvider;
 use Domain\Binance\Providers\BinanceServiceProvider;
-use Domain\Coinmarketcap\Providers\CoinmarketcapServiceProvider;
 use Domain\Cryptocurrency\Providers\CryptocurrencyServiceProvider;
 use Domain\Currency\Providers\CurrencyServiceProvider;
 use Domain\Dashboard\Providers\DashboardServiceProvider;
@@ -21,7 +21,7 @@ class DomainServiceProvider extends ServiceProvider
     public function register(): void
     {
         $this->app->register(BinanceServiceProvider::class);
-        $this->app->register(CoinmarketcapServiceProvider::class);
+        $this->app->register(CoinmarketcapApiServiceProvider::class);
         $this->app->register(AuthServiceProvider::class);
         $this->app->register(QuizServiceProvider::class);
         $this->app->register(UserServiceProvider::class);

@@ -1,6 +1,6 @@
 <?php
 
-namespace Domain\Coinmarketcap\Exceptions;
+namespace Apis\Coinmarketcap\Exceptions;
 
 use Exception;
 

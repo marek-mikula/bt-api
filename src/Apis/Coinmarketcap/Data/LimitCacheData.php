@@ -1,6 +1,6 @@
 <?php
 
-namespace Domain\Coinmarketcap\Data;
+namespace Apis\Coinmarketcap\Data;
 
 use Spatie\LaravelData\Data;
 

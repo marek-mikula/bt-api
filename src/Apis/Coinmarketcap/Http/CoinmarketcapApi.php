@@ -1,9 +1,9 @@
 <?php
 
-namespace Domain\Coinmarketcap\Http;
+namespace Apis\Coinmarketcap\Http;
 
-use Domain\Coinmarketcap\Exceptions\CoinmarketcapRequestException;
-use Domain\Coinmarketcap\Http\Client\Concerns\CoinmarketcapClientInterface;
+use Apis\Coinmarketcap\Exceptions\CoinmarketcapRequestException;
+use Apis\Coinmarketcap\Http\Client\Concerns\CoinmarketcapClientInterface;
 use Illuminate\Http\Client\Response;
 use Illuminate\Support\Arr;
 use Illuminate\Support\Collection;

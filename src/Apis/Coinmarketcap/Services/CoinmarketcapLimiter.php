@@ -1,9 +1,9 @@
 <?php
 
-namespace Domain\Coinmarketcap\Services;
+namespace Apis\Coinmarketcap\Services;
 
-use Domain\Coinmarketcap\Data\LimitCacheData;
-use Domain\Coinmarketcap\Exceptions\CoinmarketcapLimitException;
+use Apis\Coinmarketcap\Data\LimitCacheData;
+use Apis\Coinmarketcap\Exceptions\CoinmarketcapLimitException;
 use Illuminate\Http\Client\Response;
 use Illuminate\Support\Facades\Cache;
 

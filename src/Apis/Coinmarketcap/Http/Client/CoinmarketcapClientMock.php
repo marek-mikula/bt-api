@@ -1,9 +1,9 @@
 <?php
 
-namespace Domain\Coinmarketcap\Http\Client;
+namespace Apis\Coinmarketcap\Http\Client;
 
+use Apis\Coinmarketcap\Http\Client\Concerns\CoinmarketcapClientInterface;
 use App\Traits\MocksData;
-use Domain\Coinmarketcap\Http\Client\Concerns\CoinmarketcapClientInterface;
 use Illuminate\Http\Client\Response;
 use Illuminate\Support\Arr;
 use Illuminate\Support\Collection;

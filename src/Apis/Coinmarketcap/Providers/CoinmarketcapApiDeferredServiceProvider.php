@@ -1,16 +1,16 @@
 <?php
 
-namespace Domain\Coinmarketcap\Providers;
+namespace Apis\Coinmarketcap\Providers;
 
-use Domain\Coinmarketcap\Http\Client\CoinmarketcapClient;
-use Domain\Coinmarketcap\Http\Client\CoinmarketcapClientMock;
-use Domain\Coinmarketcap\Http\Client\Concerns\CoinmarketcapClientInterface;
-use Domain\Coinmarketcap\Http\CoinmarketcapApi;
-use Domain\Coinmarketcap\Services\CoinmarketcapLimiter;
+use Apis\Coinmarketcap\Http\Client\CoinmarketcapClient;
+use Apis\Coinmarketcap\Http\Client\CoinmarketcapClientMock;
+use Apis\Coinmarketcap\Http\Client\Concerns\CoinmarketcapClientInterface;
+use Apis\Coinmarketcap\Http\CoinmarketcapApi;
+use Apis\Coinmarketcap\Services\CoinmarketcapLimiter;
 use Illuminate\Contracts\Support\DeferrableProvider;
 use Illuminate\Support\ServiceProvider;
 
-class CoinmarketcapDeferredServiceProvider extends ServiceProvider implements DeferrableProvider
+class CoinmarketcapApiDeferredServiceProvider extends ServiceProvider implements DeferrableProvider
 {
     /**
      * @var list<class-string>
