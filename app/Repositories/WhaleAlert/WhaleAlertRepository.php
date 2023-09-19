@@ -10,6 +10,7 @@ class WhaleAlertRepository implements WhaleAlertRepositoryInterface
     public function index(int $page, int $perPage = 50): LengthAwarePaginator
     {
         return WhaleAlert::query()
+            ->with('currency')
             ->latest('id')
             ->paginate(
                 perPage: $perPage,
