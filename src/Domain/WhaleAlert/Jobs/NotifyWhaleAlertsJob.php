@@ -3,7 +3,7 @@
 namespace Domain\WhaleAlert\Jobs;
 
 use App\Enums\QueueEnum;
-use App\Jobs\BaseJob;
+use App\Jobs\BaseBatchJob;
 use App\Models\Currency;
 use App\Models\User;
 use App\Models\WhaleAlert;
@@ -12,7 +12,7 @@ use Domain\WhaleAlert\Notifications\WhaleAlertNotification;
 use Illuminate\Support\Collection;
 use Illuminate\Support\Facades\DB;
 
-class NotifyWhaleAlertsJob extends BaseJob
+class NotifyWhaleAlertsJob extends BaseBatchJob
 {
     public function __construct()
     {

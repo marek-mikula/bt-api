@@ -20,12 +20,12 @@ class WhaleAlertResource extends JsonResource
             'currency' => new CurrencyResource($this->resource->currency),
             'hash' => $this->resource->hash,
             'amount' => $this->resource->amount,
-            'amount_usd' => $this->resource->amount_usd,
-            'sender_address' => $this->resource->sender_address,
-            'sender_name' => $this->resource->sender_name,
-            'receiver_address' => $this->resource->receiver_address,
-            'receiver_name' => $this->resource->receiver_name,
-            'notified_at' => $this->resource->notified_at?->toIso8601String(),
+            'amountUsd' => $this->resource->amount_usd,
+            'senderAddress' => $this->resource->sender_address,
+            'senderName' => $this->resource->sender_name,
+            'receiverAddress' => $this->resource->receiver_address,
+            'receiverName' => $this->resource->receiver_name,
+            'notifiedAt' => $this->resource->notified_at?->toIso8601String(),
         ];
     }
 }
