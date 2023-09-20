@@ -198,6 +198,7 @@ return [
         App\Providers\RouteServiceProvider::class,
         App\Providers\HealthCheckServiceProvider::class,
         App\Providers\DomainServiceProvider::class,
+        App\Providers\ApiServiceProvider::class,
 
         /*
          * Custom Service Providers

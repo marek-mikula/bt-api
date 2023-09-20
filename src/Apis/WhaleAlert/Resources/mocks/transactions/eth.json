@@ -1,0 +1,28 @@
+{
+    "result": "success",
+    "cursor": "7bf5e751-7bf5e751-650759ab",
+    "count": 1,
+    "transactions": [
+        {
+            "blockchain": "ethereum",
+            "symbol": "eth",
+            "id": "2079713105",
+            "transaction_type": "transfer",
+            "hash": "5a0aeee7a4396a91250ad498b7c0f6d1dcc1956f6fafb9a78f5c581551f39a38",
+            "from": {
+                "address": "e3792a9c235d434b702023b33f03c48c41631090",
+                "owner": "unknown",
+                "owner_type": "unknown"
+            },
+            "to": {
+                "address": "1a97bfb25a115031ee01439678f70b2d4171fe4f",
+                "owner": "unknown",
+                "owner_type": "unknown"
+            },
+            "timestamp": 1694980523,
+            "amount": 332.83746,
+            "amount_usd": 540729.06,
+            "transaction_count": 1
+        }
+    ]
+}

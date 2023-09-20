@@ -2,62 +2,68 @@
 
 namespace Domain\Search\Services;
 
-use Domain\Coinmarketcap\Http\CoinmarketcapApi;
-use Domain\Coinranking\Http\CoinrankingApi;
+use Apis\Coinmarketcap\Http\CoinmarketcapApi;
+use App\Models\Currency;
 use Domain\Search\Data\SearchResult;
+use Illuminate\Database\Eloquent\Builder;
+use Illuminate\Support\Arr;
 use Illuminate\Support\Collection;
 
 class SearchService
 {
     public function __construct(
         private readonly CoinmarketcapApi $coinmarketcapApi,
-        private readonly CoinrankingApi $coinrankingApi,
     ) {
     }
 
     /**
      * @return Collection<SearchResult>
      */
-    public function search(string $query): Collection
+    public function search(string $q): Collection
     {
-        $coins = $this->coinrankingApi->search($query)
-            ->collect('data.coins');
+        $currencies = Currency::query()
+            ->where('is_fiat', '=', 0)
+            ->where(function (Builder $query) use ($q): void {
+                $query
+                    ->where('name', 'like', "%{$q}%")
+                    ->orWhere('meta->description', 'like', "%{$q}%")
+                    ->orWhere('symbol', '=', $q);
+            })
+            ->get();
 
         // no search results found
 
-        if ($coins->isEmpty()) {
+        if ($currencies->isEmpty()) {
             return collect();
         }
 
-        $symbols = $coins->pluck('symbol')->all();
+        $ids = $currencies->pluck('coinmarketcap_id');
 
-        $metadata = $this->coinmarketcapApi->coinMetadataBySymbol($symbols)
-            ->collect('data')
-            ->keyBy('symbol');
+        // retrieve current quotes for found
+        // currencies
 
-        // we probably haven't found metadata for each
-        // of the coins returned from Coinranking API
-        // => remove those coins
+        $quotes = $this->coinmarketcapApi->quotes($ids->all())
+            ->collect('data');
 
-        if ($coins->count() !== $metadata->count()) {
-            $coins = $coins->filter(function (array $coin) use ($metadata): bool {
-                return $metadata->has($coin['symbol']);
-            });
-        }
+        return $currencies
+            ->map(function (Currency $currency) use ($quotes): SearchResult {
+                /** @var array $quote */
+                $quote = $quotes->get($currency->coinmarketcap_id);
 
-        return $coins->map(function (array $coin) use ($metadata): SearchResult {
-            $meta = $metadata->get($coin['symbol']);
+                $quoteCurrency = (string) collect($quote['quote'])->keys()->first();
 
-            return SearchResult::from([
-                'id' => (int) $meta['id'],
-                'name' => (string) $meta['name'],
-                'symbol' => (string) $meta['symbol'],
-                'description' => (string) $meta['description'],
-                'logo' => (string) $meta['logo'],
-                'urls' => $meta['urls'],
-                'price' => floatval($coin['price']),
-                'priceCurrency' => 'USD',
-            ]);
-        });
+                return SearchResult::from([
+                    'id' => $currency->id,
+                    'rank' => (int) $quote['cmc_rank'],
+                    'name' => $currency->name,
+                    'symbol' => $currency->symbol,
+                    'description' => (string) Arr::get($currency->meta, 'description'),
+                    'logo' => (string) Arr::get($currency->meta, 'logo'),
+                    'urls' => Arr::get($currency->meta, 'urls', []),
+                    'price' => floatval($quote['quote'][$quoteCurrency]['price']),
+                    'priceCurrency' => $quoteCurrency,
+                ]);
+            })
+            ->sortBy('rank');
     }
 }

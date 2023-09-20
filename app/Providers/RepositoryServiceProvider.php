@@ -16,6 +16,8 @@ use App\Repositories\QuizResult\QuizResultRepository;
 use App\Repositories\QuizResult\QuizResultRepositoryInterface;
 use App\Repositories\User\UserRepository;
 use App\Repositories\User\UserRepositoryInterface;
+use App\Repositories\WhaleAlert\WhaleAlertRepository;
+use App\Repositories\WhaleAlert\WhaleAlertRepositoryInterface;
 use Illuminate\Contracts\Support\DeferrableProvider;
 use Illuminate\Support\ServiceProvider;
 
@@ -32,6 +34,7 @@ class RepositoryServiceProvider extends ServiceProvider implements DeferrablePro
         AlertRepositoryInterface::class => AlertRepository::class,
         LimitsRepositoryInterface::class => LimitsRepository::class,
         AssetRepositoryInterface::class => AssetRepository::class,
+        WhaleAlertRepositoryInterface::class => WhaleAlertRepository::class,
     ];
 
     public function register(): void

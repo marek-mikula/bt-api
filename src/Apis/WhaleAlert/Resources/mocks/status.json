@@ -1,0 +1,294 @@
+{
+	"result": "success",
+	"blockchain_count": 15,
+	"blockchains": [
+		{
+			"name": "icon",
+			"symbols": [
+				"icx"
+			],
+			"status": "connected"
+		},
+		{
+			"name": "cosmos",
+			"symbols": [
+				"atom"
+			],
+			"status": "connected"
+		},
+		{
+			"name": "stellar",
+			"symbols": [
+				"xlm",
+				"mobi",
+				"repo",
+				"slt",
+				""
+			],
+			"status": "connected"
+		},
+		{
+			"name": "neo",
+			"symbols": [
+				"gas",
+				"neo"
+			],
+			"status": "connected"
+		},
+		{
+			"name": "ripple",
+			"symbols": [
+				"xrp",
+				""
+			],
+			"status": "connected"
+		},
+		{
+			"name": "liquid",
+			"symbols": [
+				"usdt"
+			],
+			"status": "connected"
+		},
+		{
+			"name": "unknown",
+			"symbols": [
+				""
+			],
+			"status": "connected"
+		},
+		{
+			"name": "ethereum",
+			"symbols": [
+				"appc",
+				"eurs",
+				"yfi",
+				"qkc",
+				"rsr",
+				"storj",
+				"cro",
+				"edr",
+				"nas",
+				"vest",
+				"ae",
+				"req",
+				"sand",
+				"loom",
+				"meta",
+				"r",
+				"busd",
+				"knc",
+				"link",
+				"eng",
+				"hot",
+				"ppt",
+				"bat",
+				"bnt",
+				"chz",
+				"iht",
+				"mco",
+				"pnk",
+				"ren",
+				"thr",
+				"tomo",
+				"ttc",
+				"edo",
+				"evx",
+				"osa",
+				"tusd",
+				"cmt",
+				"mana",
+				"ncash",
+				"qash",
+				"qnt",
+				"bnb",
+				"brd",
+				"cdai",
+				"veri",
+				"xin",
+				"ctxc",
+				"pax",
+				"trx",
+				"paxg",
+				"tel",
+				"kin",
+				"mxm",
+				"nexo",
+				"enj",
+				"ftt",
+				"iost",
+				"theta",
+				"tnb",
+				"bczero",
+				"cennz",
+				"ecoreal",
+				"sub",
+				"thx",
+				"abt",
+				"cel",
+				"ht",
+				"lend",
+				"trac",
+				"dgtx",
+				"gnt",
+				"hex",
+				"mft",
+				"nxm",
+				"san",
+				"brc",
+				"btc",
+				"elf",
+				"lrc",
+				"omg",
+				"tct",
+				"wax",
+				"aave",
+				"btm",
+				"dusk",
+				"poly",
+				"uni",
+				"aoa",
+				"grt",
+				"nec",
+				"eth",
+				"leo",
+				"inb",
+				"la",
+				"pay",
+				"powr",
+				"cnht",
+				"dcn",
+				"icn",
+				"okb",
+				"cosm",
+				"hedg",
+				"amp",
+				"dx",
+				"rhoc",
+				"dai",
+				"iotx",
+				"bzrx",
+				"cnd",
+				"credo",
+				"rep",
+				"salt",
+				"srn",
+				"gusd",
+				"icx",
+				"mgo",
+				"sxdt",
+				"wbtc",
+				"yfii",
+				"zrx",
+				"kan",
+				"matic",
+				"mda",
+				"qbit",
+				"rlc",
+				"shib",
+				"uma",
+				"aion",
+				"ampl",
+				"bix",
+				"nuls",
+				"skl",
+				"usdc",
+				"usdt",
+				"wic",
+				"dgd",
+				"drgn",
+				"ethos",
+				"xaut",
+				"fun",
+				"vibe",
+				"wtc",
+				"hpt",
+				"sxp",
+				"gvt",
+				"husd",
+				"man",
+				"ocn",
+				"sushi",
+				"agi",
+				"bhpc",
+				"cvc",
+				"mtl",
+				"storm",
+				"dac",
+				"dent",
+				"snx",
+				"susd",
+				"zil",
+				"ankr",
+				"bal",
+				"lky",
+				"mkr",
+				"npxs",
+				"snt",
+				"xyo",
+				"eurt",
+				"gnx",
+				"kcs"
+			],
+			"status": "connected"
+		},
+		{
+			"name": "steem",
+			"symbols": [
+				"steem"
+			],
+			"status": "connected"
+		},
+		{
+			"name": "hive",
+			"symbols": [
+				"hive",
+				""
+			],
+			"status": "connected"
+		},
+		{
+			"name": "tron",
+			"symbols": [
+				"bnb",
+				"trx",
+				"usdt",
+				"btt"
+			],
+			"status": "connected"
+		},
+		{
+			"name": "tezos",
+			"symbols": [
+				"amount",
+				"xtz"
+			],
+			"status": "connected"
+		},
+		{
+			"name": "bitcoin",
+			"symbols": [
+				"btc",
+				"usdt",
+				"eurt"
+			],
+			"status": "connected"
+		},
+		{
+			"name": "eos",
+			"symbols": [
+				"eos",
+				"leo",
+				"usdt"
+			],
+			"status": "connected"
+		},
+		{
+			"name": "binancechain",
+			"symbols": [
+				"bnb"
+			],
+			"status": "connected"
+		}
+	]
+}

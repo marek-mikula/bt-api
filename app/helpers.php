@@ -67,6 +67,18 @@ if (! function_exists('domain_path')) {
     }
 }
 
+if (! function_exists('api_path')) {
+    /**
+     * Gets path for specific API
+     */
+    function api_path(string $domain, string $path): string
+    {
+        $path = Str::startsWith($path, '/') ? Str::after($path, '/') : $path;
+
+        return base_path(empty($path) ? "src/Apis/{$domain}" : "src/Apis/{$domain}/{$path}");
+    }
+}
+
 if (! function_exists('round_up_to_nearest_multiple')) {
     /**
      * Rounds up $n to the nearest multiple of $multiple

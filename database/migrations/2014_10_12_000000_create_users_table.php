@@ -17,6 +17,7 @@ return new class extends Migration
             $table->string('password');
             $table->text('public_key');
             $table->text('secret_key');
+            $table->boolean('whale_notification_enabled')->default(false);
             $table->string('remember_token')->nullable();
             $table->timestamp('assets_synced_at')->nullable();
             $table->timestamp('email_verified_at')->nullable();

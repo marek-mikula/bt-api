@@ -2,7 +2,7 @@
 
 namespace Domain\Auth\Validation;
 
-use Domain\Binance\Services\BinanceKeyValidator;
+use Apis\Binance\Services\BinanceKeyValidator;
 use Illuminate\Support\Arr;
 use Illuminate\Validation\Validator;
 

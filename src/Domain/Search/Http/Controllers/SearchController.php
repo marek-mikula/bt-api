@@ -18,9 +18,9 @@ class SearchController extends ApiController
 
     public function search(AuthRequest $request): JsonResponse
     {
-        $query = $request->string('q', '');
+        $q = $request->string('q', '');
 
-        $results = $this->searchService->search($query);
+        $results = $this->searchService->search($q);
 
         return $this->sendJsonResponse(code: ResponseCodeEnum::OK, data: [
             'results' => new DataResourceCollection($results),

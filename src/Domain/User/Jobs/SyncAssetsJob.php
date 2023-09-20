@@ -2,15 +2,15 @@
 
 namespace Domain\User\Jobs;
 
+use Apis\Binance\Data\KeyPairData;
+use Apis\Binance\Exceptions\BinanceBanException;
+use Apis\Binance\Exceptions\BinanceLimitException;
+use Apis\Binance\Http\BinanceApi;
 use App\Enums\QueueEnum;
 use App\Jobs\BaseJob;
 use App\Models\Asset;
 use App\Models\Currency;
 use App\Models\User;
-use Domain\Binance\Data\KeyPairData;
-use Domain\Binance\Exceptions\BinanceBanException;
-use Domain\Binance\Exceptions\BinanceLimitException;
-use Domain\Binance\Http\BinanceApi;
 use Domain\User\Notifications\AssetsSyncedNotification;
 use Illuminate\Queue\Attributes\WithoutRelations;
 use Illuminate\Queue\Middleware\WithoutOverlapping;
@@ -81,7 +81,8 @@ class SyncAssetsJob extends BaseJob
                 ]);
             } else {
                 // not supported currency,
-                // but we still stave it
+                // but we still save it
+                // for informational purpose
 
                 /** @var Asset $model */
                 $model = $this->user->assets()->updateOrCreate([

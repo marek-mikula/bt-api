@@ -2,11 +2,11 @@
 
 namespace Domain\Limits\Schedules;
 
+use Apis\Coinmarketcap\Http\CoinmarketcapApi;
 use App\Enums\QueueEnum;
 use App\Models\Currency;
 use App\Models\Limits;
 use App\Schedules\BaseSchedule;
-use Domain\Coinmarketcap\Http\CoinmarketcapApi;
 use Domain\Limits\Data\LimitQuoteData;
 use Domain\Limits\Enums\LimitsNotificationPeriodEnum;
 use Domain\Limits\Jobs\CheckMarketCapLimitJob;
@@ -114,9 +114,6 @@ class CheckMarketCapLimitSchedule extends BaseSchedule
         // for limits (daily/weekly/monthly) can use
         // it
 
-        Cache::tags([
-            'limits',
-            'limits-quotes',
-        ])->put('limits:quotes', $quotes, now()->endOfDay());
+        Cache::tags(['limits', 'limits-quotes'])->put('limits:quotes', $quotes, now()->endOfDay());
     }
 }

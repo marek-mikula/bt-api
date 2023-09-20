@@ -138,7 +138,7 @@ trait MocksData
         $path = Str::startsWith($path, '/') ? Str::after($path, '/') : $path;
 
         $json = file_get_contents(
-            filename: domain_path($domain, "Resources/mocks/{$path}")
+            filename: api_path($domain, "Resources/mocks/{$path}")
         );
 
         return json_decode(json: $json, associative: true);

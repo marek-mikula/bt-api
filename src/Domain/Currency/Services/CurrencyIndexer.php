@@ -2,10 +2,10 @@
 
 namespace Domain\Currency\Services;
 
+use Apis\Binance\Data\KeyPairData;
+use Apis\Binance\Http\BinanceApi;
+use Apis\Coinmarketcap\Http\CoinmarketcapApi;
 use App\Models\Currency;
-use Domain\Binance\Data\KeyPairData;
-use Domain\Binance\Http\BinanceApi;
-use Domain\Coinmarketcap\Http\CoinmarketcapApi;
 use Domain\Currency\Data\BinanceCurrencyData;
 use Illuminate\Support\Arr;
 use Illuminate\Support\Collection;

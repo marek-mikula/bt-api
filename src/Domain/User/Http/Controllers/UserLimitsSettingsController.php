@@ -6,7 +6,7 @@ use App\Enums\ResponseCodeEnum;
 use App\Http\Controllers\ApiController;
 use App\Http\Requests\AuthRequest;
 use App\Http\Resources\LimitsResource;
-use Domain\User\Http\Requests\UpdateLimitsRequest;
+use Domain\User\Http\Requests\UpdateLimitsSettingsRequest;
 use Domain\User\Services\UserLimitsSettingsService;
 use Illuminate\Http\JsonResponse;
 
@@ -30,7 +30,7 @@ class UserLimitsSettingsController extends ApiController
         ]);
     }
 
-    public function update(UpdateLimitsRequest $request): JsonResponse
+    public function update(UpdateLimitsSettingsRequest $request): JsonResponse
     {
         $user = $request->user('api');
 

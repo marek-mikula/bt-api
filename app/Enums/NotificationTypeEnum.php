@@ -20,4 +20,7 @@ enum NotificationTypeEnum: string
     case CRYPTOCURRENCY_MIN = 'limits@cryptocurrency-min';
     case CRYPTOCURRENCY_MAX = 'limits@cryptocurrency-max';
     case MARKET_CAP = 'limits@market-cap';
+
+    // whale alert domain
+    case WHALE_ALERT = 'whaleAlert@alert';
 }
