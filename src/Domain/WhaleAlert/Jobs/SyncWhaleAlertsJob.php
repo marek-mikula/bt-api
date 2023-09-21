@@ -7,6 +7,7 @@ use App\Enums\QueueEnum;
 use App\Jobs\BaseBatchJob;
 use App\Models\Currency;
 use App\Models\WhaleAlert;
+use Carbon\Carbon;
 use Illuminate\Support\Arr;
 use Illuminate\Support\Collection;
 use Illuminate\Support\Str;
@@ -100,6 +101,8 @@ class SyncWhaleAlertsJob extends BaseBatchJob
 
         /** @var array $transaction */
         foreach ($transactions as $transaction) {
+            $timestamp = Carbon::createFromTimestamp((int) $transaction['timestamp']);
+
             WhaleAlert::query()->create([
                 'currency_id' => $model->id,
                 'hash' => (string) $transaction['hash'],
@@ -109,6 +112,7 @@ class SyncWhaleAlertsJob extends BaseBatchJob
                 'sender_name' => empty($transaction['from']['owner']) ? null : (string) $transaction['from']['owner'],
                 'receiver_address' => empty($transaction['to']['address']) ? null : (string) $transaction['to']['address'],
                 'receiver_name' => empty($transaction['to']['owner']) ? null : (string) $transaction['to']['owner'],
+                'transaction_at' => $timestamp,
             ]);
         }
     }

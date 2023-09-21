@@ -19,7 +19,7 @@ return new class extends Migration
             $table->string('receiver_address')->nullable();
             $table->string('receiver_name')->nullable();
             $table->timestamp('notified_at')->nullable();
-            $table->timestamps();
+            $table->timestamp('transaction_at');
 
             $table->foreign('currency_id')
                 ->references('id')
