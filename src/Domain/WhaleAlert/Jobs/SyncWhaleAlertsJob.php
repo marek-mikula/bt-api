@@ -21,7 +21,7 @@ class SyncWhaleAlertsJob extends BaseBatchJob
 
     public function handle(WhaleAlertApi $api): void
     {
-        $minValue = 1_000_000;
+        $minValue = (int) config('whale-alert.min_transaction_value');
 
         $seconds = (now()->minute * 60) + now()->second;
 
