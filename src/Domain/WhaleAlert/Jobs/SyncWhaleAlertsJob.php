@@ -7,6 +7,8 @@ use App\Enums\QueueEnum;
 use App\Jobs\BaseBatchJob;
 use App\Models\Currency;
 use App\Models\WhaleAlert;
+use Illuminate\Support\Arr;
+use Illuminate\Support\Collection;
 use Illuminate\Support\Str;
 
 class SyncWhaleAlertsJob extends BaseBatchJob
@@ -18,6 +20,8 @@ class SyncWhaleAlertsJob extends BaseBatchJob
 
     public function handle(WhaleAlertApi $api): void
     {
+        $minValue = 1_000_000;
+
         $seconds = (now()->minute * 60) + now()->second;
 
         // calculate the from and to timestamps
@@ -45,17 +49,44 @@ class SyncWhaleAlertsJob extends BaseBatchJob
         $response = $api->transactions(
             from: $from,
             to: $to,
-            min: 1_000_000,
+            min: $minValue,
             currency: $this->currency
         );
 
+        /** @var Collection<array> $transactions */
         $transactions = $response
             // collect transactions data
             // from response
             ->collect('transactions')
 
             // take only single transactions
-            ->filter(static fn (array $item): bool => ((int) $item['transaction_count']) === 1);
+            ->filter(static fn (array $transaction): bool => ((int) $transaction['transaction_count']) === 1)
+
+            // filter out transaction with less
+            // value, because the API does not
+            // work sometimes
+            ->filter(static fn (array $transaction): bool => ((int) $transaction['amount_usd']) >= $minValue)
+
+            // clear sender/receiver names and addresses
+            ->map(static function (array $transaction): array {
+                if (Arr::get($transaction, 'from.owner') === 'unknown') {
+                    Arr::set($transaction, 'from.owner', null);
+                }
+
+                if (Arr::get($transaction, 'from.address') === 'Multiple Addresses') {
+                    Arr::set($transaction, 'from.address', 'multiple');
+                }
+
+                if (Arr::get($transaction, 'to.owner') === 'unknown') {
+                    Arr::set($transaction, 'to.owner', null);
+                }
+
+                if (Arr::get($transaction, 'to.address') === 'Multiple Addresses') {
+                    Arr::set($transaction, 'to.address', 'multiple');
+                }
+
+                return $transaction;
+            });
 
         // no whale alerts
         if ($transactions->isEmpty()) {
