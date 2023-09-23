@@ -174,12 +174,18 @@ class CurrencyIndexer
         $metadata = $this->coinmarketcapApi->coinMetadata(id: $ids)
             ->collect('data');
 
+        // Retrieve quotes for each given ID
+
+        $quotes = $this->coinmarketcapApi->quotes(id: $ids)
+            ->collect('data');
+
         $duplicates = $metadata->pluck('symbol')->duplicates();
 
         foreach ($cryptos as $crypto) {
             $isDuplicated = $duplicates->contains($crypto->symbol);
 
             $meta = null;
+            $quote = null;
 
             // if the currently processed cryptocurrency
             // is duplicated in the map, use name and
@@ -198,9 +204,21 @@ class CurrencyIndexer
                 });
             }
 
+            if ($isDuplicated) {
+                $quote = $quotes->first(static function (array $item) use ($crypto): bool {
+                    return $item['symbol'] === $crypto->symbol && $item['name'] === $crypto->name;
+                });
+            }
+
+            if (! $quote) {
+                $quote = $quotes->first(static function (array $item) use ($crypto): bool {
+                    return $item['symbol'] === $crypto->symbol;
+                });
+            }
+
             // cryptocurrency does not exist in Coinmarketcap
             // => skip, we do not support this!
-            if (! $meta) {
+            if (! $meta || ! $quote) {
                 continue;
             }
 
@@ -212,6 +230,7 @@ class CurrencyIndexer
                 'name' => $crypto->name,
                 'is_fiat' => 0,
                 'coinmarketcap_id' => (int) $meta['id'],
+                'cmc_rank' => (int) $quote['cmc_rank'],
                 'meta' => Arr::except($meta, [
                     'id',
                     'name',

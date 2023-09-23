@@ -2,6 +2,7 @@
 
 namespace Domain\Currency\Providers;
 
+use Domain\Currency\Console\Commands\SyncCurrenciesCommand;
 use Domain\Currency\Schedules\SyncCurrenciesSchedule;
 use Illuminate\Console\Scheduling\Schedule;
 use Illuminate\Support\ServiceProvider;
@@ -17,7 +18,15 @@ class CurrencyServiceProvider extends ServiceProvider
     {
         if ($this->app->runningInConsole()) {
             $this->bootSchedule();
+            $this->bootCommands();
         }
+    }
+
+    private function bootCommands(): void
+    {
+        $this->commands([
+            SyncCurrenciesCommand::class,
+        ]);
     }
 
     private function bootSchedule(): void
