@@ -13,7 +13,6 @@ use App\Models\Currency;
 use App\Models\User;
 use Domain\User\Notifications\AssetsSyncedNotification;
 use Illuminate\Queue\Attributes\WithoutRelations;
-use Illuminate\Queue\Middleware\WithoutOverlapping;
 use Illuminate\Support\Collection;
 
 class SyncAssetsJob extends BaseJob
@@ -23,13 +22,6 @@ class SyncAssetsJob extends BaseJob
         private readonly User $user,
     ) {
         $this->onQueue(QueueEnum::ASSETS->value);
-    }
-
-    public function middleware(): array
-    {
-        return [
-            new WithoutOverlapping($this->user->id, 5),
-        ];
     }
 
     public function handle(BinanceApi $binanceApi): void

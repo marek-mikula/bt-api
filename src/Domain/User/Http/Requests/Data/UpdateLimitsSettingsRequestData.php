@@ -2,12 +2,12 @@
 
 namespace Domain\User\Http\Requests\Data;
 
+use App\Data\BaseData;
 use App\Data\Casts\EnumCast;
 use Domain\Limits\Enums\LimitsNotificationPeriodEnum;
 use Spatie\LaravelData\Attributes\WithCast;
-use Spatie\LaravelData\Data;
 
-class UpdateLimitsSettingsRequestData extends Data
+class UpdateLimitsSettingsRequestData extends BaseData
 {
     public function __construct(
         public readonly bool $tradeEnabled,

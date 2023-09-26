@@ -162,21 +162,20 @@ class CurrencyIndexer
 
         $symbols = $cryptos->pluck('symbol');
 
-        // Retrieve ID mappings to given symbols
+        // Retrieve mappings of given symbols
 
-        $ids = $this->coinmarketcapApi->map(symbols: $symbols)
+        /** @var Collection<array> $mappings */
+        $mappings = $this->coinmarketcapApi->map(symbols: $symbols)
             ->collect('data')
-            ->pluck('id')
-            ->all();
+            ->keyBy('id');
+
+        // Retrieve IDs of given symbols
+
+        $ids = $mappings->pluck('id')->all();
 
         // Retrieve metadata for each given ID
 
         $metadata = $this->coinmarketcapApi->coinMetadata(id: $ids)
-            ->collect('data');
-
-        // Retrieve quotes for each given ID
-
-        $quotes = $this->coinmarketcapApi->quotes(id: $ids)
             ->collect('data');
 
         $duplicates = $metadata->pluck('symbol')->duplicates();
@@ -185,7 +184,6 @@ class CurrencyIndexer
             $isDuplicated = $duplicates->contains($crypto->symbol);
 
             $meta = null;
-            $quote = null;
 
             // if the currently processed cryptocurrency
             // is duplicated in the map, use name and
@@ -204,23 +202,14 @@ class CurrencyIndexer
                 });
             }
 
-            if ($isDuplicated) {
-                $quote = $quotes->first(static function (array $item) use ($crypto): bool {
-                    return $item['symbol'] === $crypto->symbol && $item['name'] === $crypto->name;
-                });
-            }
-
-            if (! $quote) {
-                $quote = $quotes->first(static function (array $item) use ($crypto): bool {
-                    return $item['symbol'] === $crypto->symbol;
-                });
-            }
-
             // cryptocurrency does not exist in Coinmarketcap
             // => skip, we do not support this!
-            if (! $meta || ! $quote) {
+            if (! $meta) {
                 continue;
             }
+
+            /** @var array $mapping */
+            $mapping = $mappings->get((int) $meta['id']);
 
             /** @var Currency $model */
             $model = Currency::query()->updateOrCreate([
@@ -230,7 +219,7 @@ class CurrencyIndexer
                 'name' => $crypto->name,
                 'is_fiat' => 0,
                 'coinmarketcap_id' => (int) $meta['id'],
-                'cmc_rank' => (int) $quote['cmc_rank'],
+                'cmc_rank' => empty($mapping['rank']) ? 99_999 : (int) $mapping['rank'],
                 'meta' => Arr::except($meta, [
                     'id',
                     'name',

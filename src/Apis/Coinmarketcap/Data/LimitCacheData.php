@@ -2,9 +2,9 @@
 
 namespace Apis\Coinmarketcap\Data;
 
-use Spatie\LaravelData\Data;
+use App\Data\BaseData;
 
-class LimitCacheData extends Data
+class LimitCacheData extends BaseData
 {
     public function __construct(
         public int $timestampMs,

@@ -2,9 +2,9 @@
 
 namespace Domain\Currency\Data;
 
-use Spatie\LaravelData\Data;
+use App\Data\BaseData;
 
-class BinanceCurrencyData extends Data
+class BinanceCurrencyData extends BaseData
 {
     public function __construct(
         public readonly string $symbol,

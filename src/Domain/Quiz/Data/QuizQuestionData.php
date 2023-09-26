@@ -2,10 +2,10 @@
 
 namespace Domain\Quiz\Data;
 
+use App\Data\BaseData;
 use Illuminate\Support\Arr;
-use Spatie\LaravelData\Data;
 
-class QuizQuestionData extends Data
+class QuizQuestionData extends BaseData
 {
     /**
      * @param  QuizAnswerData[]  $answers

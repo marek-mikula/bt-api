@@ -2,9 +2,9 @@
 
 namespace Domain\User\Http\Requests\Data;
 
-use Spatie\LaravelData\Data;
+use App\Data\BaseData;
 
-class SaveAccountKeysSettingsRequestData extends Data
+class SaveAccountKeysSettingsRequestData extends BaseData
 {
     public function __construct(
         public readonly string $publicKey,

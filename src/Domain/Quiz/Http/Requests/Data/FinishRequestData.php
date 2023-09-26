@@ -2,10 +2,10 @@
 
 namespace Domain\Quiz\Http\Requests\Data;
 
+use App\Data\BaseData;
 use Illuminate\Support\Collection;
-use Spatie\LaravelData\Data;
 
-class FinishRequestData extends Data
+class FinishRequestData extends BaseData
 {
     /**
      * @param  Collection<FinishRequestAnswerData>  $answers

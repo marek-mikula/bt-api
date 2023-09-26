@@ -2,11 +2,11 @@
 
 namespace App\Data\Notification;
 
+use App\Data\BaseData;
 use App\Enums\NotificationTypeEnum;
 use InvalidArgumentException;
-use Spatie\LaravelData\Data;
 
-class DatabaseNotification extends Data
+class DatabaseNotification extends BaseData
 {
     public string $title = '';
 

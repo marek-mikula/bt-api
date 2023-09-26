@@ -2,9 +2,9 @@
 
 namespace Domain\Search\Data;
 
-use Spatie\LaravelData\Data;
+use App\Data\BaseData;
 
-class SearchResult extends Data
+class SearchResult extends BaseData
 {
     public function __construct(
         public readonly int $id,

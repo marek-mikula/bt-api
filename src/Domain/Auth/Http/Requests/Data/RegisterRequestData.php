@@ -2,12 +2,12 @@
 
 namespace Domain\Auth\Http\Requests\Data;
 
+use App\Data\BaseData;
 use App\Data\Casts\DateTimeInterfaceCast;
 use Carbon\Carbon;
 use Spatie\LaravelData\Attributes\WithCast;
-use Spatie\LaravelData\Data;
 
-class RegisterRequestData extends Data
+class RegisterRequestData extends BaseData
 {
     public function __construct(
         public readonly string $firstname,

@@ -2,9 +2,9 @@
 
 namespace Domain\Dashboard\Data;
 
-use Spatie\LaravelData\Data;
+use App\Data\BaseData;
 
-class DashboardMarketMetrics extends Data
+class DashboardMarketMetrics extends BaseData
 {
     public function __construct(
         public readonly float $ethDominance,

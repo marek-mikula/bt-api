@@ -2,9 +2,9 @@
 
 namespace Domain\User\Http\Requests\Data;
 
-use Spatie\LaravelData\Data;
+use App\Data\BaseData;
 
-class UpdateNotificationsSettingsRequestData extends Data
+class UpdateNotificationsSettingsRequestData extends BaseData
 {
     public function __construct(
         public readonly bool $whaleEnabled,

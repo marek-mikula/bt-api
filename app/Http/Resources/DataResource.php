@@ -2,17 +2,17 @@
 
 namespace App\Http\Resources;
 
+use App\Data\BaseData;
 use Illuminate\Http\Request;
 use Illuminate\Http\Resources\Json\JsonResource;
-use Spatie\LaravelData\Data;
 
 /**
- * @property Data $resource
+ * @property BaseData $resource
  */
 class DataResource extends JsonResource
 {
     public function toArray(Request $request): array
     {
-        return $this->resource->toArray();
+        return $this->resource->toResource();
     }
 }
