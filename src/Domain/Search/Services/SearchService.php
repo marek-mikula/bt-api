@@ -29,6 +29,7 @@ class SearchService
                     ->orWhere('meta->description', 'like', "%{$q}%")
                     ->orWhere('symbol', '=', $q);
             })
+            ->orderBy('cmc_rank')
             ->get();
 
         // no search results found
@@ -54,7 +55,7 @@ class SearchService
 
                 return SearchResult::from([
                     'id' => $currency->id,
-                    'rank' => (int) $quote['cmc_rank'],
+                    'rank' => $currency->cmc_rank,
                     'name' => $currency->name,
                     'symbol' => $currency->symbol,
                     'description' => (string) Arr::get($currency->meta, 'description'),
@@ -63,7 +64,6 @@ class SearchService
                     'price' => floatval($quote['quote'][$quoteCurrency]['price']),
                     'priceCurrency' => $quoteCurrency,
                 ]);
-            })
-            ->sortBy('rank');
+            });
     }
 }
