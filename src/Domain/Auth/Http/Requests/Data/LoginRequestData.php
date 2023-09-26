@@ -2,9 +2,9 @@
 
 namespace Domain\Auth\Http\Requests\Data;
 
-use Spatie\LaravelData\Data;
+use App\Data\BaseData;
 
-class LoginRequestData extends Data
+class LoginRequestData extends BaseData
 {
     public function __construct(
         public readonly string $email,

@@ -32,4 +32,16 @@ return [
         'xrp', // Ripple
         'bnb', // Binance coin
     ],
+
+    /*
+    |--------------------------------------------------------------------------
+    | Min. transaction value
+    |--------------------------------------------------------------------------
+    |
+    | The minimal value the transaction should have to be included
+    | in whale alert. The value is in USD.
+    |
+    */
+
+    'min_transaction_value' => 1_000_000,
 ];

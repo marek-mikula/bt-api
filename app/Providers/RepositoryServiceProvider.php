@@ -6,6 +6,8 @@ use App\Repositories\Alert\AlertRepository;
 use App\Repositories\Alert\AlertRepositoryInterface;
 use App\Repositories\Asset\AssetRepository;
 use App\Repositories\Asset\AssetRepositoryInterface;
+use App\Repositories\Cryptocurrency\CurrencyRepository;
+use App\Repositories\Cryptocurrency\CurrencyRepositoryInterface;
 use App\Repositories\Limits\LimitsRepository;
 use App\Repositories\Limits\LimitsRepositoryInterface;
 use App\Repositories\MfaToken\MfaTokenRepository;
@@ -35,6 +37,7 @@ class RepositoryServiceProvider extends ServiceProvider implements DeferrablePro
         LimitsRepositoryInterface::class => LimitsRepository::class,
         AssetRepositoryInterface::class => AssetRepository::class,
         WhaleAlertRepositoryInterface::class => WhaleAlertRepository::class,
+        CurrencyRepositoryInterface::class => CurrencyRepository::class,
     ];
 
     public function register(): void

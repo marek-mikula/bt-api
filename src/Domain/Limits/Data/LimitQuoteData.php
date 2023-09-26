@@ -2,10 +2,10 @@
 
 namespace Domain\Limits\Data;
 
+use App\Data\BaseData;
 use Domain\Limits\Enums\MarketCapCategoryEnum;
-use Spatie\LaravelData\Data;
 
-class LimitQuoteData extends Data
+class LimitQuoteData extends BaseData
 {
     public function __construct(
         public readonly string $currency,

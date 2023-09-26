@@ -26,6 +26,7 @@ class WhaleAlertResource extends JsonResource
             'receiverAddress' => $this->resource->receiver_address,
             'receiverName' => $this->resource->receiver_name,
             'notifiedAt' => $this->resource->notified_at?->toIso8601String(),
+            'transactionAt' => $this->resource->transaction_at->toIso8601String(),
         ];
     }
 }

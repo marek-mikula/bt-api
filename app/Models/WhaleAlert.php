@@ -18,13 +18,14 @@ use Illuminate\Database\Eloquent\Relations\BelongsTo;
  * @property string|null $receiver_address
  * @property string|null $receiver_name
  * @property Carbon|null $notified_at
- * @property Carbon $created_at
- * @property Carbon $updated_at
+ * @property Carbon $transaction_at
  * @property-read Currency $currency
  */
 class WhaleAlert extends Model
 {
     use HasFactory;
+
+    public $timestamps = false;
 
     protected $table = 'whale_alerts';
 
@@ -40,6 +41,7 @@ class WhaleAlert extends Model
         'receiver_address',
         'receiver_name',
         'notified_at',
+        'transaction_at',
     ];
 
     protected $casts = [
@@ -52,6 +54,7 @@ class WhaleAlert extends Model
         'receiver_address' => 'string',
         'receiver_name' => 'string',
         'notified_at' => 'datetime:Y-m-d H:i:s',
+        'transaction_at' => 'datetime:Y-m-d H:i:s',
     ];
 
     /**

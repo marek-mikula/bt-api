@@ -2,9 +2,9 @@
 
 namespace Apis\Binance\Data;
 
-use Spatie\LaravelData\Data;
+use App\Data\BaseData;
 
-class BanCacheData extends Data
+class BanCacheData extends BaseData
 {
     public function __construct(
         public readonly int $timestampMs,

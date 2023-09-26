@@ -2,10 +2,10 @@
 
 namespace Apis\Binance\Data;
 
+use App\Data\BaseData;
 use App\Models\User;
-use Spatie\LaravelData\Data;
 
-class KeyPairData extends Data
+class KeyPairData extends BaseData
 {
     public function __construct(
         public readonly string $publicKey,

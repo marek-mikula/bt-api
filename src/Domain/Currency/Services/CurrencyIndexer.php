@@ -162,12 +162,16 @@ class CurrencyIndexer
 
         $symbols = $cryptos->pluck('symbol');
 
-        // Retrieve ID mappings to given symbols
+        // Retrieve mappings of given symbols
 
-        $ids = $this->coinmarketcapApi->map(symbols: $symbols)
+        /** @var Collection<array> $mappings */
+        $mappings = $this->coinmarketcapApi->map(symbols: $symbols)
             ->collect('data')
-            ->pluck('id')
-            ->all();
+            ->keyBy('id');
+
+        // Retrieve IDs of given symbols
+
+        $ids = $mappings->pluck('id')->all();
 
         // Retrieve metadata for each given ID
 
@@ -204,6 +208,9 @@ class CurrencyIndexer
                 continue;
             }
 
+            /** @var array $mapping */
+            $mapping = $mappings->get((int) $meta['id']);
+
             /** @var Currency $model */
             $model = Currency::query()->updateOrCreate([
                 'symbol' => $crypto->symbol,
@@ -212,6 +219,7 @@ class CurrencyIndexer
                 'name' => $crypto->name,
                 'is_fiat' => 0,
                 'coinmarketcap_id' => (int) $meta['id'],
+                'cmc_rank' => empty($mapping['rank']) ? 99_999 : (int) $mapping['rank'],
                 'meta' => Arr::except($meta, [
                     'id',
                     'name',

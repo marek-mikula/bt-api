@@ -2,9 +2,9 @@
 
 namespace Domain\WhaleAlert\Data;
 
-use Spatie\LaravelData\Data;
+use App\Data\BaseData;
 
-class WhaleAlertGroupData extends Data
+class WhaleAlertGroupData extends BaseData
 {
     public function __construct(
         public readonly int $count,

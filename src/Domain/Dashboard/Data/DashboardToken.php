@@ -2,9 +2,9 @@
 
 namespace Domain\Dashboard\Data;
 
-use Spatie\LaravelData\Data;
+use App\Data\BaseData;
 
-class DashboardToken extends Data
+class DashboardToken extends BaseData
 {
     public function __construct(
         public readonly int $id,

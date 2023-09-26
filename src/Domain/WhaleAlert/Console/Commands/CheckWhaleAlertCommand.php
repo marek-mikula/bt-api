@@ -15,6 +15,8 @@ class CheckWhaleAlertCommand extends Command
     {
         CheckWhaleAlertsSchedule::call();
 
+        $this->info('Job to check whale alerts dispatched!');
+
         return 0;
     }
 }

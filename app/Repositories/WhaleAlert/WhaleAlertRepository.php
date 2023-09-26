@@ -11,7 +11,7 @@ class WhaleAlertRepository implements WhaleAlertRepositoryInterface
     {
         return WhaleAlert::query()
             ->with('currency')
-            ->latest('id')
+            ->latest('transaction_at')
             ->paginate(
                 perPage: $perPage,
                 page: $page

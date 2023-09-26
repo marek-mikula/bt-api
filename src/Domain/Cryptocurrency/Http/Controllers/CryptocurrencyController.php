@@ -4,7 +4,7 @@ namespace Domain\Cryptocurrency\Http\Controllers;
 
 use App\Enums\ResponseCodeEnum;
 use App\Http\Controllers\ApiController;
-use App\Http\Resources\DataResourceCollection;
+use App\Http\Resources\DataPaginatedResourceCollection;
 use Domain\Cryptocurrency\Services\CryptocurrencyService;
 use Illuminate\Http\JsonResponse;
 use Illuminate\Http\Request;
@@ -20,19 +20,10 @@ class CryptocurrencyController extends ApiController
     {
         $page = $request->integer('page', 1);
 
-        $perPage = $request->integer('perPage', 100);
-
-        $data = $this->service->getDataForIndex(page: $page, perPage: $perPage);
+        $data = $this->service->getDataForIndex(page: $page);
 
         return $this->sendJsonResponse(code: ResponseCodeEnum::OK, data: [
-            'cryptocurrencies' => [
-                'data' => new DataResourceCollection($data),
-                'meta' => [
-                    'page' => $page,
-                    'perPage' => $perPage,
-                    'end' => $data->count() < $perPage,
-                ],
-            ],
+            'cryptocurrencies' => new DataPaginatedResourceCollection($data),
         ]);
     }
 }

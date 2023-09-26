@@ -4,9 +4,9 @@ namespace Apis\Binance\Data;
 
 use Apis\Binance\Enums\BinanceLimitPeriodEnum;
 use Apis\Binance\Enums\BinanceLimitTypeEnum;
-use Spatie\LaravelData\Data;
+use App\Data\BaseData;
 
-class LimitData extends Data
+class LimitData extends BaseData
 {
     public function __construct(
         public readonly BinanceLimitPeriodEnum $period,
