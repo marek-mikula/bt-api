@@ -26,4 +26,11 @@ class CryptocurrencyController extends ApiController
             'cryptocurrencies' => new DataPaginatedResourceCollection($data),
         ]);
     }
+
+    public function show(): JsonResponse
+    {
+        return $this->sendJsonResponse(code: ResponseCodeEnum::OK, data: [
+            'cryptocurrencies' => []
+        ]);
+    }
 }
