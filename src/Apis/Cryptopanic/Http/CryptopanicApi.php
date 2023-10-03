@@ -31,8 +31,6 @@ class CryptopanicApi
             throw new InvalidArgumentException('Number of currencies cannot be higher than 50.');
         }
 
-        dd($currency?->all());
-
         return $this->client->latestNews($currency);
     }
 }
