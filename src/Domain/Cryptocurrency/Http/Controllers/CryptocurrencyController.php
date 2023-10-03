@@ -4,10 +4,12 @@ namespace Domain\Cryptocurrency\Http\Controllers;
 
 use App\Enums\ResponseCodeEnum;
 use App\Http\Controllers\ApiController;
+use App\Http\Requests\AuthRequest;
 use App\Http\Resources\DataPaginatedResourceCollection;
+use App\Http\Resources\DataResource;
+use App\Models\Currency;
 use Domain\Cryptocurrency\Services\CryptocurrencyService;
 use Illuminate\Http\JsonResponse;
-use Illuminate\Http\Request;
 
 class CryptocurrencyController extends ApiController
 {
@@ -16,7 +18,7 @@ class CryptocurrencyController extends ApiController
     ) {
     }
 
-    public function index(Request $request): JsonResponse
+    public function index(AuthRequest $request): JsonResponse
     {
         $page = $request->integer('page', 1);
 
@@ -27,10 +29,14 @@ class CryptocurrencyController extends ApiController
         ]);
     }
 
-    public function show(): JsonResponse
+    public function show(AuthRequest $request, Currency $cryptocurrency): JsonResponse
     {
+        $user = $request->user('api');
+
+        $data = $this->service->getDataForShow($user, $cryptocurrency);
+
         return $this->sendJsonResponse(code: ResponseCodeEnum::OK, data: [
-            'cryptocurrencies' => []
+            'cryptocurrency' => new DataResource($data),
         ]);
     }
 }

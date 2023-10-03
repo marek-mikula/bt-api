@@ -3,6 +3,7 @@
 namespace App\Models;
 
 use App\Casts\EncryptCast;
+use App\Models\Query\UserQuery;
 use App\Models\Traits\Notifiable;
 use Carbon\Carbon;
 use Database\Factories\UserFactory;
@@ -11,6 +12,7 @@ use Illuminate\Database\Eloquent\Collection;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Relations\HasMany;
 use Illuminate\Database\Eloquent\Relations\HasOne;
+use Illuminate\Database\Query\Builder;
 use Illuminate\Foundation\Auth\User as Authenticatable;
 use Illuminate\Support\Facades\Hash;
 use Rappasoft\LaravelAuthenticationLog\Traits\AuthenticationLoggable;
@@ -40,6 +42,7 @@ use Rappasoft\LaravelAuthenticationLog\Traits\AuthenticationLoggable;
  * @property-read int|null $assets_count ->withCount('assets')
  *
  * @method static UserFactory factory($count = null, $state = [])
+ * @method static UserQuery query()
  */
 class User extends Authenticatable
 {
@@ -153,5 +156,15 @@ class User extends Authenticatable
     protected static function newFactory(): UserFactory
     {
         return new UserFactory();
+    }
+
+    /**
+     * @param  Builder  $query
+     *
+     * @see User::query()
+     */
+    public function newEloquentBuilder($query): UserQuery
+    {
+        return new UserQuery($query);
     }
 }

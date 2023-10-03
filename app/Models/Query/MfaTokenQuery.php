@@ -2,10 +2,16 @@
 
 namespace App\Models\Query;
 
-use Illuminate\Database\Eloquent\Builder;
+use App\Models\MfaToken;
+use App\Models\Query\Traits\BelongsToUser;
 
-class MfaTokenQuery extends Builder
+/**
+ * @see MfaToken
+ */
+class MfaTokenQuery extends BaseQuery
 {
+    use BelongsToUser;
+
     public function valid(): MfaTokenQuery
     {
         return $this->where(function (MfaTokenQuery $query): void {

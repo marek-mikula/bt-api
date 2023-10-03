@@ -136,7 +136,7 @@ class CurrencyIndexer
                 'symbol' => $fiat->symbol,
                 'name' => (string) $meta['name'],
                 'is_fiat' => 1,
-                'coinmarketcap_id' => (int) $meta['id'],
+                'cmc_id' => (int) $meta['id'],
                 'meta' => Arr::only($meta, [
                     'sign',
                 ]),
@@ -218,7 +218,7 @@ class CurrencyIndexer
                 'symbol' => $crypto->symbol,
                 'name' => $crypto->name,
                 'is_fiat' => 0,
-                'coinmarketcap_id' => (int) $meta['id'],
+                'cmc_id' => (int) $meta['id'],
                 'cmc_rank' => empty($mapping['rank']) ? 99_999 : (int) $mapping['rank'],
                 'meta' => Arr::except($meta, [
                     'id',

@@ -31,7 +31,7 @@ class MfaTokenRepository implements MfaTokenRepositoryInterface
     public function invalidatePreviousOfType(User $user, MfaTokenTypeEnum $type): void
     {
         MfaToken::query()
-            ->where('user_id', '=', $user->id)
+            ->ofUser($user)
             ->where('type', '=', $type->value)
             ->whereNull('invalidated_at')
             ->update([

@@ -2,11 +2,13 @@
 
 namespace App\Models;
 
+use App\Models\Query\AlertQuery;
 use Carbon\Carbon;
 use Illuminate\Database\Eloquent\Casts\Attribute;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\BelongsTo;
+use Illuminate\Database\Query\Builder;
 
 /**
  * @property-read int $id
@@ -24,6 +26,8 @@ use Illuminate\Database\Eloquent\Relations\BelongsTo;
  * @property Carbon $created_at
  * @property Carbon $updated_at
  * @property-read User $user
+ *
+ * @method static AlertQuery query()
  */
 class Alert extends Model
 {
@@ -84,5 +88,15 @@ class Alert extends Model
     public function user(): BelongsTo
     {
         return $this->belongsTo(User::class, 'user_id', 'id');
+    }
+
+    /**
+     * @param  Builder  $query
+     *
+     * @see Alert::query()
+     */
+    public function newEloquentBuilder($query): AlertQuery
+    {
+        return new AlertQuery($query);
     }
 }

@@ -2,10 +2,12 @@
 
 namespace App\Models;
 
+use App\Models\Query\WhaleAlertQuery;
 use Carbon\Carbon;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\BelongsTo;
+use Illuminate\Database\Query\Builder;
 
 /**
  * @property-read int $id
@@ -20,6 +22,8 @@ use Illuminate\Database\Eloquent\Relations\BelongsTo;
  * @property Carbon|null $notified_at
  * @property Carbon $transaction_at
  * @property-read Currency $currency
+ *
+ * @method static WhaleAlertQuery query()
  */
 class WhaleAlert extends Model
 {
@@ -63,5 +67,15 @@ class WhaleAlert extends Model
     public function currency(): BelongsTo
     {
         return $this->belongsTo(Currency::class, 'currency_id', 'id');
+    }
+
+    /**
+     * @param  Builder  $query
+     *
+     * @see WhaleAlert::query()
+     */
+    public function newEloquentBuilder($query): WhaleAlertQuery
+    {
+        return new WhaleAlertQuery($query);
     }
 }

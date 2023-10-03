@@ -2,24 +2,27 @@
 
 namespace App\Models;
 
+use App\Models\Query\AssetQuery;
 use Carbon\Carbon;
 use Illuminate\Database\Eloquent\Casts\Attribute;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\BelongsTo;
+use Illuminate\Database\Query\Builder;
 
 /**
  * @property-read int $id
  * @property int $user_id
  * @property int|null $currency_id
- * @property-read bool $is_supported If is not supported,
- * the asset symbol will be saved in $currency_symbol
+ * @property-read bool $is_supported If is not supported, the asset symbol will be saved in $currency_symbol
  * @property string|null $currency_symbol
  * @property float $balance
  * @property Carbon $created_at
  * @property Carbon $updated_at
  * @property-read User $user
  * @property-read Currency|null $currency
+ *
+ * @method static AssetQuery query()
  */
 class Asset extends Model
 {
@@ -62,5 +65,15 @@ class Asset extends Model
     public function currency(): BelongsTo
     {
         return $this->belongsTo(Currency::class, 'currency_id', 'id');
+    }
+
+    /**
+     * @param  Builder  $query
+     *
+     * @see Asset::query()
+     */
+    public function newEloquentBuilder($query): AssetQuery
+    {
+        return new AssetQuery($query);
     }
 }

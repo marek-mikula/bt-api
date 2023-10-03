@@ -40,9 +40,7 @@ class AlertRepository implements AlertRepositoryInterface
     public function findOfUser(User $user, int $id): ?Alert
     {
         /** @var Alert|null $alert */
-        $alert = Alert::query()
-            ->where('user_id', '=', $user->id)
-            ->find($id);
+        $alert = Alert::query()->ofUser($user)->find($id);
 
         return $alert;
     }

@@ -2,10 +2,12 @@
 
 namespace App\Models;
 
+use App\Models\Query\QuizResultQuery;
 use Carbon\Carbon;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\BelongsTo;
+use Illuminate\Database\Query\Builder;
 
 /**
  * @property-read int $id
@@ -16,6 +18,8 @@ use Illuminate\Database\Eloquent\Relations\BelongsTo;
  * @property Carbon $created_at
  * @property Carbon $updated_at
  * @property-read User $user
+ *
+ * @method static QuizResultQuery query()
  */
 class QuizResult extends Model
 {
@@ -45,5 +49,15 @@ class QuizResult extends Model
     public function user(): BelongsTo
     {
         return $this->belongsTo(User::class, 'user_id', 'id');
+    }
+
+    /**
+     * @param  Builder  $query
+     *
+     * @see QuizResult::query()
+     */
+    public function newEloquentBuilder($query): QuizResultQuery
+    {
+        return new QuizResultQuery($query);
     }
 }

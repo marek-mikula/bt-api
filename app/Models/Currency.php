@@ -13,7 +13,7 @@ use Illuminate\Support\Collection;
  * @property string $symbol
  * @property string $name
  * @property bool $is_fiat
- * @property int $coinmarketcap_id
+ * @property int $cmc_id
  * @property int|null $cmc_rank
  * @property array $meta
  * @property Carbon $created_at
@@ -32,7 +32,7 @@ class Currency extends Model
         'symbol',
         'name',
         'is_fiat',
-        'coinmarketcap_id',
+        'cmc_id',
         'cmc_rank',
         'meta',
     ];
@@ -45,7 +45,7 @@ class Currency extends Model
         'symbol' => 'string',
         'name' => 'string',
         'is_fiat' => 'boolean',
-        'coinmarketcap_id' => 'integer',
+        'cmc_id' => 'integer',
         'cmc_rank' => 'integer',
         'meta' => 'array',
     ];

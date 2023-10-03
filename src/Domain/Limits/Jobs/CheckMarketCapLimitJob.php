@@ -86,7 +86,7 @@ class CheckMarketCapLimitJob extends BaseBatchJob
             }
 
             /** @var LimitQuoteData|null $quote */
-            $quote = $quotes->get($currency->coinmarketcap_id);
+            $quote = $quotes->get($currency->cmc_id);
 
             if (! $quote) {
                 throw new Exception("Missing cached quotes for currency {$currency->symbol}.");
