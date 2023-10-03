@@ -10,11 +10,6 @@ class CryptopanicRequestException extends Exception
     public function __construct(
         public readonly Response $response,
     ) {
-        dd([
-            'status' => $this->response->status(),
-            'headers' => $this->response->headers(),
-            'body' => $this->response->json(),
-        ]);
         parent::__construct('Request to Cryptopanic failed.');
     }
 
