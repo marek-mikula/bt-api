@@ -3,12 +3,14 @@
 namespace Domain\Cryptocurrency\Services;
 
 use Apis\Coinmarketcap\Http\CoinmarketcapApi;
+use Apis\Cryptopanic\Http\CryptopanicApi;
 use App\Models\Currency;
 use App\Models\User;
 use App\Repositories\Cryptocurrency\CurrencyRepositoryInterface;
 use App\Repositories\WhaleAlert\WhaleAlertRepositoryInterface;
 use Domain\Cryptocurrency\Data\CryptocurrencyListData;
 use Domain\Cryptocurrency\Data\CryptocurrencyShowData;
+use Domain\Cryptocurrency\Data\NewsData;
 use Exception;
 use Illuminate\Pagination\LengthAwarePaginator;
 use Illuminate\Support\Str;
@@ -19,6 +21,7 @@ class CryptocurrencyService
         private readonly WhaleAlertRepositoryInterface $whaleAlertRepository,
         private readonly CurrencyRepositoryInterface $currencyRepository,
         private readonly CoinmarketcapApi $coinmarketcapApi,
+        private readonly CryptopanicApi $cryptopanicApi,
     ) {
     }
 
@@ -73,8 +76,12 @@ class CryptocurrencyService
             });
     }
 
-    public function getDataForShow(User $user, Currency $cryptocurrency): CryptocurrencyShowData
-    {
+    public function getDataForShow(
+        User $user,
+        Currency $cryptocurrency,
+        int $whaleAlertsCount = 5,
+        int $newsCount = 5,
+    ): CryptocurrencyShowData {
         // retrieve current quotes for given currency
 
         $quote = $this->coinmarketcapApi->quotes($cryptocurrency->cmc_id)
@@ -88,10 +95,21 @@ class CryptocurrencyService
         $supportsWhaleAlerts = in_array(Str::lower($cryptocurrency->symbol), config('whale-alert.supported_currencies', []));
 
         $whaleAlerts = $supportsWhaleAlerts
-            ? $this->whaleAlertRepository->latest($user, count: 5, currency: $cryptocurrency)
+            ? $this->whaleAlertRepository->latest($user, count: $whaleAlertsCount, currency: $cryptocurrency)
             : null;
 
         $quoteCurrency = (string) collect($quote['quote'])->keys()->first();
+
+        $news = $this->cryptopanicApi->latestNews($cryptocurrency->symbol)
+            ->collect('results')
+            ->take($newsCount)
+            ->map(static fn (array $item): NewsData => NewsData::from([
+                'id' => (int) $item['id'],
+                'title' => (string) $item['title'],
+                'url' => (string) $item['url'],
+                'createdAt' => (string) $item['created_at'],
+                'publishedAt' => (string) $item['published_at'],
+            ]));
 
         return CryptocurrencyShowData::from([
             'currency' => $cryptocurrency,
@@ -112,6 +130,7 @@ class CryptocurrencyService
                 'volume24h' => floatval($quote['quote'][$quoteCurrency]['volume_24h']),
                 'volumeChange24h' => floatval($quote['quote'][$quoteCurrency]['volume_change_24h']) / 100,
             ],
+            'news' => $news,
             'whaleAlerts' => $whaleAlerts,
         ]);
     }
