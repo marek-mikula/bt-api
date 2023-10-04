@@ -1,0 +1,833 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=LINK&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "coingape.com",
+            "source": {
+                "title": "CoinGape",
+                "region": "en",
+                "domain": "coingape.com",
+                "path": null
+            },
+            "title": "Chainlink Party Ends As LINK Price Tanks 4%, Key Levels to Watch",
+            "published_at": "2023-10-03T05:41:25Z",
+            "slug": "Chainlink-Party-Ends-As-LINK-Price-Tanks-4-Key-Levels-to-Watch",
+            "currencies": [
+                {
+                    "code": "LINK",
+                    "title": "Chainlink",
+                    "slug": "chainlink",
+                    "url": "https:\/\/cryptopanic.com\/news\/chainlink\/"
+                }
+            ],
+            "id": 18943609,
+            "url": "https:\/\/cryptopanic.com\/news\/18943609\/Chainlink-Party-Ends-As-LINK-Price-Tanks-4-Key-Levels-to-Watch",
+            "created_at": "2023-10-03T05:41:25Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "Chainlink: This is why a correction is likely before LINK\u2019s next bull run",
+            "published_at": "2023-10-03T05:30:00Z",
+            "slug": "Chainlink-This-is-why-a-correction-is-likely-before-LINKs-next-bull-run",
+            "currencies": [
+                {
+                    "code": "LINK",
+                    "title": "Chainlink",
+                    "slug": "chainlink",
+                    "url": "https:\/\/cryptopanic.com\/news\/chainlink\/"
+                }
+            ],
+            "id": 18943585,
+            "url": "https:\/\/cryptopanic.com\/news\/18943585\/Chainlink-This-is-why-a-correction-is-likely-before-LINKs-next-bull-run",
+            "created_at": "2023-10-03T05:30:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Brace For Impact As $200 Million In Crypto Is Being Unlocked In October",
+            "published_at": "2023-10-02T23:00:02Z",
+            "slug": "Brace-For-Impact-As-200-Million-In-Crypto-Is-Being-Unlocked-In-October",
+            "currencies": [
+                {
+                    "code": "LINK",
+                    "title": "Chainlink",
+                    "slug": "chainlink",
+                    "url": "https:\/\/cryptopanic.com\/news\/chainlink\/"
+                },
+                {
+                    "code": "APT",
+                    "title": "Aptos",
+                    "slug": "aptos",
+                    "url": "https:\/\/cryptopanic.com\/news\/aptos\/"
+                },
+                {
+                    "code": "OP",
+                    "title": "Optimism",
+                    "slug": "optimism",
+                    "url": "https:\/\/cryptopanic.com\/news\/optimism\/"
+                },
+                {
+                    "code": "AXS",
+                    "title": "Axie Infinity",
+                    "slug": "axie-infinity",
+                    "url": "https:\/\/cryptopanic.com\/news\/axie-infinity\/"
+                },
+                {
+                    "code": "FLOW",
+                    "title": "Flow",
+                    "slug": "flow",
+                    "url": "https:\/\/cryptopanic.com\/news\/flow\/"
+                },
+                {
+                    "code": "SUI",
+                    "title": "Sui",
+                    "slug": "sui",
+                    "url": "https:\/\/cryptopanic.com\/news\/sui\/"
+                }
+            ],
+            "id": 18943274,
+            "url": "https:\/\/cryptopanic.com\/news\/18943274\/Brace-For-Impact-As-200-Million-In-Crypto-Is-Being-Unlocked-In-October",
+            "created_at": "2023-10-02T23:00:02Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Is Bitcoin\u2019s Bottom In Sight? Expert Analysis Says Yes",
+            "published_at": "2023-10-02T21:00:24Z",
+            "slug": "Is-Bitcoins-Bottom-In-Sight-Expert-Analysis-Says-Yes",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                },
+                {
+                    "code": "LINK",
+                    "title": "Chainlink",
+                    "slug": "chainlink",
+                    "url": "https:\/\/cryptopanic.com\/news\/chainlink\/"
+                }
+            ],
+            "id": 18943123,
+            "url": "https:\/\/cryptopanic.com\/news\/18943123\/Is-Bitcoins-Bottom-In-Sight-Expert-Analysis-Says-Yes",
+            "created_at": "2023-10-02T21:00:24Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Crypto Crisis Imminent, Warns Bloomberg\u2019s Mike McGlone, Despite Bitcoin\u2019s Surge To $28,000",
+            "published_at": "2023-10-02T20:00:00Z",
+            "slug": "Crypto-Crisis-Imminent-Warns-Bloombergs-Mike-McGlone-Despite-Bitcoins-Surge-To-28000",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "LINK",
+                    "title": "Chainlink",
+                    "slug": "chainlink",
+                    "url": "https:\/\/cryptopanic.com\/news\/chainlink\/"
+                },
+                {
+                    "code": "OP",
+                    "title": "Optimism",
+                    "slug": "optimism",
+                    "url": "https:\/\/cryptopanic.com\/news\/optimism\/"
+                }
+            ],
+            "id": 18943027,
+            "url": "https:\/\/cryptopanic.com\/news\/18943027\/Crypto-Crisis-Imminent-Warns-Bloombergs-Mike-McGlone-Despite-Bitcoins-Surge-To-28000",
+            "created_at": "2023-10-02T20:00:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "feeds2.benzinga.com",
+            "source": {
+                "title": "Benzinga",
+                "region": "en",
+                "domain": "feeds2.benzinga.com",
+                "path": null
+            },
+            "title": "Chainlink Falls More Than 4% In 24 hours",
+            "published_at": "2023-10-02T19:00:30Z",
+            "slug": "Chainlink-Falls-More-Than-4-In-24-hours",
+            "currencies": [
+                {
+                    "code": "LINK",
+                    "title": "Chainlink",
+                    "slug": "chainlink",
+                    "url": "https:\/\/cryptopanic.com\/news\/chainlink\/"
+                }
+            ],
+            "id": 18942974,
+            "url": "https:\/\/cryptopanic.com\/news\/18942974\/Chainlink-Falls-More-Than-4-In-24-hours",
+            "created_at": "2023-10-02T19:00:30Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "LINK spot demand weakens, but will this lead to a sizable pullback?",
+            "published_at": "2023-10-02T18:30:15Z",
+            "slug": "LINK-spot-demand-weakens-but-will-this-lead-to-a-sizable-pullback",
+            "currencies": [
+                {
+                    "code": "LINK",
+                    "title": "Chainlink",
+                    "slug": "chainlink",
+                    "url": "https:\/\/cryptopanic.com\/news\/chainlink\/"
+                }
+            ],
+            "id": 18942909,
+            "url": "https:\/\/cryptopanic.com\/news\/18942909\/LINK-spot-demand-weakens-but-will-this-lead-to-a-sizable-pullback",
+            "created_at": "2023-10-02T18:30:15Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "dailyhodl.com",
+            "source": {
+                "title": "The Daily Hodl",
+                "region": "en",
+                "domain": "dailyhodl.com",
+                "path": null
+            },
+            "title": "Sergey Nazarov Says Massive Meltdown of Banking System Could Lead to Fast Adoption of New Crypto Economy by 2030",
+            "published_at": "2023-10-02T18:05:28Z",
+            "slug": "Sergey-Nazarov-Says-Massive-Meltdown-of-Banking-System-Could-Lead-to-Fast-Adoption-of-New-Crypto-Economy-by-2030",
+            "currencies": [
+                {
+                    "code": "LINK",
+                    "title": "Chainlink",
+                    "slug": "chainlink",
+                    "url": "https:\/\/cryptopanic.com\/news\/chainlink\/"
+                }
+            ],
+            "id": 18942847,
+            "url": "https:\/\/cryptopanic.com\/news\/18942847\/Sergey-Nazarov-Says-Massive-Meltdown-of-Banking-System-Could-Lead-to-Fast-Adoption-of-New-Crypto-Economy-by-2030",
+            "created_at": "2023-10-02T18:05:28Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Bitcoin MPI Forms Death Cross, End of The Rally?",
+            "published_at": "2023-10-02T18:00:35Z",
+            "slug": "Bitcoin-MPI-Forms-Death-Cross-End-of-The-Rally",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "LINK",
+                    "title": "Chainlink",
+                    "slug": "chainlink",
+                    "url": "https:\/\/cryptopanic.com\/news\/chainlink\/"
+                },
+                {
+                    "code": "QNT",
+                    "title": "Quant",
+                    "slug": "quant-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/quant-network\/"
+                }
+            ],
+            "id": 18942813,
+            "url": "https:\/\/cryptopanic.com\/news\/18942813\/Bitcoin-MPI-Forms-Death-Cross-End-of-The-Rally",
+            "created_at": "2023-10-02T18:00:35Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "dailyhodl.com",
+            "source": {
+                "title": "The Daily Hodl",
+                "region": "en",
+                "domain": "dailyhodl.com",
+                "path": null
+            },
+            "title": "More Than $892,000,000 Lost in Exploits Involving Oracle Networks, According to New Binance Research",
+            "published_at": "2023-10-02T16:55:28Z",
+            "slug": "More-Than-892000000-Lost-in-Exploits-Involving-Oracle-Networks-According-to-New-Binance-Research",
+            "currencies": [
+                {
+                    "code": "LINK",
+                    "title": "Chainlink",
+                    "slug": "chainlink",
+                    "url": "https:\/\/cryptopanic.com\/news\/chainlink\/"
+                }
+            ],
+            "id": 18942688,
+            "url": "https:\/\/cryptopanic.com\/news\/18942688\/More-Than-892000000-Lost-in-Exploits-Involving-Oracle-Networks-According-to-New-Binance-Research",
+            "created_at": "2023-10-02T16:55:28Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "bitcoinist.com",
+            "source": {
+                "title": "Bitcoinist",
+                "region": "en",
+                "domain": "bitcoinist.com",
+                "path": null
+            },
+            "title": "Bitcoin And Crypto Forecast: The 3 Game-Changing Events To Watch This Week",
+            "published_at": "2023-10-02T15:00:58Z",
+            "slug": "Bitcoin-And-Crypto-Forecast-The-3-Game-Changing-Events-To-Watch-This-Week",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "LINK",
+                    "title": "Chainlink",
+                    "slug": "chainlink",
+                    "url": "https:\/\/cryptopanic.com\/news\/chainlink\/"
+                }
+            ],
+            "id": 18942375,
+            "url": "https:\/\/cryptopanic.com\/news\/18942375\/Bitcoin-And-Crypto-Forecast-The-3-Game-Changing-Events-To-Watch-This-Week",
+            "created_at": "2023-10-02T15:00:58Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Chainlink Signal That Preceded Crashes Of 34% Is Back",
+            "published_at": "2023-10-02T15:00:47Z",
+            "slug": "Chainlink-Signal-That-Preceded-Crashes-Of-34-Is-Back",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "LINK",
+                    "title": "Chainlink",
+                    "slug": "chainlink",
+                    "url": "https:\/\/cryptopanic.com\/news\/chainlink\/"
+                }
+            ],
+            "id": 18942354,
+            "url": "https:\/\/cryptopanic.com\/news\/18942354\/Chainlink-Signal-That-Preceded-Crashes-Of-34-Is-Back",
+            "created_at": "2023-10-02T15:00:47Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinedition.com",
+            "source": {
+                "title": "coinedition",
+                "region": "en",
+                "domain": "coinedition.com",
+                "path": null
+            },
+            "title": "LINK, ARB, and ATOM Are the Top Altcoins To Watch Out For: Analyst",
+            "published_at": "2023-10-02T14:39:28Z",
+            "slug": "LINK-ARB-and-ATOM-Are-the-Top-Altcoins-To-Watch-Out-For-Analyst",
+            "currencies": [
+                {
+                    "code": "LINK",
+                    "title": "Chainlink",
+                    "slug": "chainlink",
+                    "url": "https:\/\/cryptopanic.com\/news\/chainlink\/"
+                },
+                {
+                    "code": "ATOM",
+                    "title": "Cosmos Hub",
+                    "slug": "cosmos",
+                    "url": "https:\/\/cryptopanic.com\/news\/cosmos\/"
+                },
+                {
+                    "code": "ARB",
+                    "title": "Arbitrum",
+                    "slug": "arbitrum",
+                    "url": "https:\/\/cryptopanic.com\/news\/arbitrum\/"
+                }
+            ],
+            "id": 18942301,
+            "url": "https:\/\/cryptopanic.com\/news\/18942301\/LINK-ARB-and-ATOM-Are-the-Top-Altcoins-To-Watch-Out-For-Analyst",
+            "created_at": "2023-10-02T14:39:28Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coindesk.com",
+            "source": {
+                "title": "CoinDesk",
+                "region": "en",
+                "domain": "coindesk.com",
+                "path": null
+            },
+            "title": "Chainlink Unveils \u2018Data Streams\u2019 to Reduce Latency, Expands Decentralized Computing",
+            "published_at": "2023-10-02T14:00:00Z",
+            "slug": "Chainlink-Unveils-Data-Streams-to-Reduce-Latency-Expands-Decentralized-Computing",
+            "currencies": [
+                {
+                    "code": "LINK",
+                    "title": "Chainlink",
+                    "slug": "chainlink",
+                    "url": "https:\/\/cryptopanic.com\/news\/chainlink\/"
+                }
+            ],
+            "id": 18942248,
+            "url": "https:\/\/cryptopanic.com\/news\/18942248\/Chainlink-Unveils-Data-Streams-to-Reduce-Latency-Expands-Decentralized-Computing",
+            "created_at": "2023-10-02T14:00:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "zycrypto.com",
+            "source": {
+                "title": "ZyCrypto",
+                "region": "en",
+                "domain": "zycrypto.com",
+                "path": null
+            },
+            "title": "Chainlink Price Sees Heightened Surge as LINK Bulls Count on Network\u2019s Growth",
+            "published_at": "2023-10-02T12:12:40Z",
+            "slug": "Chainlink-Price-Sees-Heightened-Surge-as-LINK-Bulls-Count-on-Networks-Growth",
+            "currencies": [
+                {
+                    "code": "LINK",
+                    "title": "Chainlink",
+                    "slug": "chainlink",
+                    "url": "https:\/\/cryptopanic.com\/news\/chainlink\/"
+                }
+            ],
+            "id": 18941864,
+            "url": "https:\/\/cryptopanic.com\/news\/18941864\/Chainlink-Price-Sees-Heightened-Surge-as-LINK-Bulls-Count-on-Networks-Growth",
+            "created_at": "2023-10-02T12:12:40Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coindesk.com",
+            "source": {
+                "title": "CoinDesk",
+                "region": "en",
+                "domain": "coindesk.com",
+                "path": null
+            },
+            "title": "Protocol Village: Babylon Unveils Bitcoin Staking Protocol for Cosmos Ecosystem",
+            "published_at": "2023-10-02T11:41:44Z",
+            "slug": "Protocol-Village-Babylon-Unveils-Bitcoin-Staking-Protocol-for-Cosmos-Ecosystem",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "LINK",
+                    "title": "Chainlink",
+                    "slug": "chainlink",
+                    "url": "https:\/\/cryptopanic.com\/news\/chainlink\/"
+                }
+            ],
+            "id": 18941775,
+            "url": "https:\/\/cryptopanic.com\/news\/18941775\/Protocol-Village-Babylon-Unveils-Bitcoin-Staking-Protocol-for-Cosmos-Ecosystem",
+            "created_at": "2023-10-02T11:41:44Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptointelligence.co.uk",
+            "source": {
+                "title": "cryptointelligence",
+                "region": "en",
+                "domain": "cryptointelligence.co.uk",
+                "path": null
+            },
+            "title": "Space and Time Integrates Its Proof of SQL Verifier Into Chainlink Nodes",
+            "published_at": "2023-10-02T10:15:00Z",
+            "slug": "Space-and-Time-Integrates-Its-Proof-of-SQL-Verifier-Into-Chainlink-Nodes",
+            "currencies": [
+                {
+                    "code": "LINK",
+                    "title": "Chainlink",
+                    "slug": "chainlink",
+                    "url": "https:\/\/cryptopanic.com\/news\/chainlink\/"
+                }
+            ],
+            "id": 18941553,
+            "url": "https:\/\/cryptopanic.com\/news\/18941553\/Space-and-Time-Integrates-Its-Proof-of-SQL-Verifier-Into-Chainlink-Nodes",
+            "created_at": "2023-10-02T10:15:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptodaily.co.uk",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "CryptoDaily",
+                "region": "en",
+                "domain": "cryptodaily.co.uk",
+                "path": null
+            },
+            "title": "Space and Time\u2019s Verifiable Compute Layer Is Integrated into Core Chainlink Functions",
+            "published_at": "2023-10-02T09:37:15Z",
+            "slug": "Space-and-Times-Verifiable-Compute-Layer-Is-Integrated-into-Core-Chainlink-Functions",
+            "currencies": [
+                {
+                    "code": "LINK",
+                    "title": "Chainlink",
+                    "slug": "chainlink",
+                    "url": "https:\/\/cryptopanic.com\/news\/chainlink\/"
+                }
+            ],
+            "id": 18941448,
+            "url": "https:\/\/cryptopanic.com\/news\/18941448\/Space-and-Times-Verifiable-Compute-Layer-Is-Integrated-into-Core-Chainlink-Functions",
+            "created_at": "2023-10-02T09:37:15Z"
+        },
+        {
+            "kind": "news",
+            "domain": "dailyhodl.com",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "The Daily Hodl",
+                "region": "en",
+                "domain": "dailyhodl.com",
+                "path": null
+            },
+            "title": "Trader Calls Ethereum-Based Altcoin \u2018Most Obvious Play\u2019 Amid Bear Market, Predicts Rally for Bitcoin and ETH",
+            "published_at": "2023-10-02T00:00:15Z",
+            "slug": "Trader-Calls-Ethereum-Based-Altcoin-Most-Obvious-Play-Amid-Bear-Market-Predicts-Rally-for-Bitcoin-and-ETH",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "LINK",
+                    "title": "Chainlink",
+                    "slug": "chainlink",
+                    "url": "https:\/\/cryptopanic.com\/news\/chainlink\/"
+                }
+            ],
+            "id": 18940844,
+            "url": "https:\/\/cryptopanic.com\/news\/18940844\/Trader-Calls-Ethereum-Based-Altcoin-Most-Obvious-Play-Amid-Bear-Market-Predicts-Rally-for-Bitcoin-and-ETH",
+            "created_at": "2023-10-02T00:00:15Z"
+        },
+        {
+            "kind": "news",
+            "domain": "dailyhodl.com",
+            "votes": {
+                "negative": 0,
+                "positive": 7,
+                "important": 3,
+                "liked": 5,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 2,
+                "comments": 0
+            },
+            "source": {
+                "title": "The Daily Hodl",
+                "region": "en",
+                "domain": "dailyhodl.com",
+                "path": null
+            },
+            "title": "Chainlink Secures Partnership With $670,000,000,000 Bank, As Sergey Nazarov Says SWIFT Project Going \u2018Very Well\u2019",
+            "published_at": "2023-10-01T18:45:31Z",
+            "slug": "Chainlink-Secures-Partnership-With-670000000000-Bank-As-Sergey-Nazarov-Says-SWIFT-Project-Going-Very-Well",
+            "currencies": [
+                {
+                    "code": "LINK",
+                    "title": "Chainlink",
+                    "slug": "chainlink",
+                    "url": "https:\/\/cryptopanic.com\/news\/chainlink\/"
+                }
+            ],
+            "id": 18940572,
+            "url": "https:\/\/cryptopanic.com\/news\/18940572\/Chainlink-Secures-Partnership-With-670000000000-Bank-As-Sergey-Nazarov-Says-SWIFT-Project-Going-Very-Well",
+            "created_at": "2023-10-01T18:45:31Z"
+        }
+    ]
+}

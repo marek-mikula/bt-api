@@ -1,0 +1,935 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=DOGE&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "dailycoin.com",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 1,
+                "comments": 0
+            },
+            "source": {
+                "title": "Dailycoin",
+                "region": "en",
+                "domain": "dailycoin.com",
+                "path": null
+            },
+            "title": "Solana Dethrones DOGE, ADA, as SOL Price Nears Key Hurdle",
+            "published_at": "2023-10-03T12:05:00Z",
+            "slug": "Solana-Dethrones-DOGE-ADA-as-SOL-Price-Nears-Key-Hurdle",
+            "currencies": [
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "DOGE",
+                    "title": "Dogecoin",
+                    "slug": "dogecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/dogecoin\/"
+                }
+            ],
+            "id": 18944393,
+            "url": "https:\/\/cryptopanic.com\/news\/18944393\/Solana-Dethrones-DOGE-ADA-as-SOL-Price-Nears-Key-Hurdle",
+            "created_at": "2023-10-03T12:05:00Z"
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "votes": {
+                "negative": 0,
+                "positive": 2,
+                "important": 0,
+                "liked": 3,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 1,
+                "comments": 0
+            },
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Solana Outperforms 2 Top Altcoins \u2013 Its Ripple Effect On Prices",
+            "published_at": "2023-10-03T09:09:24Z",
+            "slug": "Solana-Outperforms-2-Top-Altcoins-Its-Ripple-Effect-On-Prices",
+            "currencies": [
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "ADA",
+                    "title": "Cardano",
+                    "slug": "cardano",
+                    "url": "https:\/\/cryptopanic.com\/news\/cardano\/"
+                },
+                {
+                    "code": "DOGE",
+                    "title": "Dogecoin",
+                    "slug": "dogecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/dogecoin\/"
+                },
+                {
+                    "code": "OP",
+                    "title": "Optimism",
+                    "slug": "optimism",
+                    "url": "https:\/\/cryptopanic.com\/news\/optimism\/"
+                }
+            ],
+            "id": 18943946,
+            "url": "https:\/\/cryptopanic.com\/news\/18943946\/Solana-Outperforms-2-Top-Altcoins-Its-Ripple-Effect-On-Prices",
+            "created_at": "2023-10-03T09:09:24Z"
+        },
+        {
+            "kind": "news",
+            "domain": "coindesk.com",
+            "source": {
+                "title": "CoinDesk",
+                "region": "en",
+                "domain": "coindesk.com",
+                "path": null
+            },
+            "title": "Bitcoin Drops Below $28K on Profit Taking; DOGE, TRX Lead Altcoin Slump",
+            "published_at": "2023-10-03T08:59:47Z",
+            "slug": "Bitcoin-Drops-Below-28K-on-Profit-Taking-DOGE-TRX-Lead-Altcoin-Slump",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "DOGE",
+                    "title": "Dogecoin",
+                    "slug": "dogecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/dogecoin\/"
+                },
+                {
+                    "code": "TRX",
+                    "title": "TRON",
+                    "slug": "tron",
+                    "url": "https:\/\/cryptopanic.com\/news\/tron\/"
+                }
+            ],
+            "id": 18943941,
+            "url": "https:\/\/cryptopanic.com\/news\/18943941\/Bitcoin-Drops-Below-28K-on-Profit-Taking-DOGE-TRX-Lead-Altcoin-Slump",
+            "created_at": "2023-10-03T08:59:47Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "feeds2.benzinga.com",
+            "source": {
+                "title": "Benzinga",
+                "region": "en",
+                "domain": "feeds2.benzinga.com",
+                "path": null
+            },
+            "title": "Shiba Inu Burn Rate Decline Spurs 4% Plunge, Longs In Distress",
+            "published_at": "2023-10-03T07:08:53Z",
+            "slug": "Shiba-Inu-Burn-Rate-Decline-Spurs-4-Plunge-Longs-In-Distress",
+            "currencies": [
+                {
+                    "code": "DOGE",
+                    "title": "Dogecoin",
+                    "slug": "dogecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/dogecoin\/"
+                },
+                {
+                    "code": "SHIB",
+                    "title": "Shiba Inu",
+                    "slug": "shiba-inu",
+                    "url": "https:\/\/cryptopanic.com\/news\/shiba-inu\/"
+                }
+            ],
+            "id": 18943734,
+            "url": "https:\/\/cryptopanic.com\/news\/18943734\/Shiba-Inu-Burn-Rate-Decline-Spurs-4-Plunge-Longs-In-Distress",
+            "created_at": "2023-10-03T07:08:53Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "feeds2.benzinga.com",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "Benzinga",
+                "region": "en",
+                "domain": "feeds2.benzinga.com",
+                "path": null
+            },
+            "title": "Bitcoin, Ethereum, Dogecoin Tumble As US 10-Year Yield Touches 16-Year Highs: Analyst Says, 'Fake Satoshi' Account Opens Window To Buy The Dip",
+            "published_at": "2023-10-03T02:30:03Z",
+            "slug": "Bitcoin-Ethereum-Dogecoin-Tumble-As-US-10-Year-Yield-Touches-16-Year-Highs-Analyst-Says-Fake-Satoshi-Account-Opens-Window-To-Buy-The-Dip",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "DOGE",
+                    "title": "Dogecoin",
+                    "slug": "dogecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/dogecoin\/"
+                }
+            ],
+            "id": 18943446,
+            "url": "https:\/\/cryptopanic.com\/news\/18943446\/Bitcoin-Ethereum-Dogecoin-Tumble-As-US-10-Year-Yield-Touches-16-Year-Highs-Analyst-Says-Fake-Satoshi-Account-Opens-Window-To-Buy-The-Dip",
+            "created_at": "2023-10-03T02:30:03Z"
+        },
+        {
+            "kind": "news",
+            "domain": "cointelegraph.com",
+            "source": {
+                "title": "CoinTelegraph",
+                "region": "en",
+                "domain": "cointelegraph.com",
+                "path": null
+            },
+            "title": "Price analysis 10\/2: SPX, DXY, BTC, ETH, BNB, XRP, SOL, ADA, DOGE, TON",
+            "published_at": "2023-10-02T18:05:00Z",
+            "slug": "Price-analysis-102-SPX-DXY-BTC-ETH-BNB-XRP-SOL-ADA-DOGE-TON",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                },
+                {
+                    "code": "ADA",
+                    "title": "Cardano",
+                    "slug": "cardano",
+                    "url": "https:\/\/cryptopanic.com\/news\/cardano\/"
+                },
+                {
+                    "code": "DOGE",
+                    "title": "Dogecoin",
+                    "slug": "dogecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/dogecoin\/"
+                },
+                {
+                    "code": "TON",
+                    "title": "Toncoin",
+                    "slug": "the-open-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/the-open-network\/"
+                },
+                {
+                    "code": "BNB",
+                    "title": "OEC Binance Coin",
+                    "slug": "oec-binance-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/oec-binance-coin\/"
+                }
+            ],
+            "id": 18942837,
+            "url": "https:\/\/cryptopanic.com\/news\/18942837\/Price-analysis-102-SPX-DXY-BTC-ETH-BNB-XRP-SOL-ADA-DOGE-TON",
+            "created_at": "2023-10-02T18:05:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 1,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 2
+            },
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "XRP Price Disappoints: Crypto Analyst Reveals Why He Will No Longer Accumulate",
+            "published_at": "2023-10-02T16:00:35Z",
+            "slug": "XRP-Price-Disappoints-Crypto-Analyst-Reveals-Why-He-Will-No-Longer-Accumulate",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                },
+                {
+                    "code": "DOGE",
+                    "title": "Dogecoin",
+                    "slug": "dogecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/dogecoin\/"
+                }
+            ],
+            "id": 18942525,
+            "url": "https:\/\/cryptopanic.com\/news\/18942525\/XRP-Price-Disappoints-Crypto-Analyst-Reveals-Why-He-Will-No-Longer-Accumulate",
+            "created_at": "2023-10-02T16:00:35Z"
+        },
+        {
+            "kind": "news",
+            "domain": "feeds2.benzinga.com",
+            "source": {
+                "title": "Benzinga",
+                "region": "en",
+                "domain": "feeds2.benzinga.com",
+                "path": null
+            },
+            "title": "If You Invested $1,000 In Dogecoin When Elon Musk Offered To Eat A Happy Meal On TV, Here's How Much You'd Have Today",
+            "published_at": "2023-10-02T14:55:45Z",
+            "slug": "If-You-Invested-1000-In-Dogecoin-When-Elon-Musk-Offered-To-Eat-A-Happy-Meal-On-TV-Heres-How-Much-Youd-Have-Today",
+            "currencies": [
+                {
+                    "code": "DOGE",
+                    "title": "Dogecoin",
+                    "slug": "dogecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/dogecoin\/"
+                }
+            ],
+            "id": 18942416,
+            "url": "https:\/\/cryptopanic.com\/news\/18942416\/If-You-Invested-1000-In-Dogecoin-When-Elon-Musk-Offered-To-Eat-A-Happy-Meal-On-TV-Heres-How-Much-Youd-Have-Today",
+            "created_at": "2023-10-02T14:55:45Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "u.today",
+            "source": {
+                "title": "U.Today",
+                "region": "en",
+                "domain": "u.today",
+                "path": null
+            },
+            "title": "Dogecoin (DOGE) Outperforms Key Rivals",
+            "published_at": "2023-10-02T14:48:00Z",
+            "slug": "Dogecoin-DOGE-Outperforms-Key-Rivals",
+            "currencies": [
+                {
+                    "code": "DOGE",
+                    "title": "Dogecoin",
+                    "slug": "dogecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/dogecoin\/"
+                }
+            ],
+            "id": 18942332,
+            "url": "https:\/\/cryptopanic.com\/news\/18942332\/Dogecoin-DOGE-Outperforms-Key-Rivals",
+            "created_at": "2023-10-02T14:48:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "u.today",
+            "source": {
+                "title": "U.Today",
+                "region": "en",
+                "domain": "u.today",
+                "path": null
+            },
+            "title": "DOGE and SHIB Price Analysis for October 2",
+            "published_at": "2023-10-02T14:22:00Z",
+            "slug": "DOGE-and-SHIB-Price-Analysis-for-October-2",
+            "currencies": [
+                {
+                    "code": "DOGE",
+                    "title": "Dogecoin",
+                    "slug": "dogecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/dogecoin\/"
+                },
+                {
+                    "code": "SHIB",
+                    "title": "Shiba Inu",
+                    "slug": "shiba-inu",
+                    "url": "https:\/\/cryptopanic.com\/news\/shiba-inu\/"
+                }
+            ],
+            "id": 18942274,
+            "url": "https:\/\/cryptopanic.com\/news\/18942274\/DOGE-and-SHIB-Price-Analysis-for-October-2",
+            "created_at": "2023-10-02T14:22:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "feeds2.benzinga.com",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "Benzinga",
+                "region": "en",
+                "domain": "feeds2.benzinga.com",
+                "path": null
+            },
+            "title": "Warehouse Manager Retires After $8K Shiba Inu Bet Reaps Him $500K \u2014 What If He Had Held On To SHIB?",
+            "published_at": "2023-10-02T12:04:40Z",
+            "slug": "Warehouse-Manager-Retires-After-8K-Shiba-Inu-Bet-Reaps-Him-500K-What-If-He-Had-Held-On-To-SHIB",
+            "currencies": [
+                {
+                    "code": "DOGE",
+                    "title": "Dogecoin",
+                    "slug": "dogecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/dogecoin\/"
+                },
+                {
+                    "code": "SHIB",
+                    "title": "Shiba Inu",
+                    "slug": "shiba-inu",
+                    "url": "https:\/\/cryptopanic.com\/news\/shiba-inu\/"
+                }
+            ],
+            "id": 18941853,
+            "url": "https:\/\/cryptopanic.com\/news\/18941853\/Warehouse-Manager-Retires-After-8K-Shiba-Inu-Bet-Reaps-Him-500K-What-If-He-Had-Held-On-To-SHIB",
+            "created_at": "2023-10-02T12:04:40Z"
+        },
+        {
+            "kind": "news",
+            "domain": "coindesk.com",
+            "source": {
+                "title": "CoinDesk",
+                "region": "en",
+                "domain": "coindesk.com",
+                "path": null
+            },
+            "title": "Bitcoin Surges Over $28K, but Analyst Questions ETF Optimism Angle",
+            "published_at": "2023-10-02T08:17:57Z",
+            "slug": "Bitcoin-Surges-Over-28K-but-Analyst-Questions-ETF-Optimism-Angle",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "DOGE",
+                    "title": "Dogecoin",
+                    "slug": "dogecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/dogecoin\/"
+                },
+                {
+                    "code": "TRX",
+                    "title": "TRON",
+                    "slug": "tron",
+                    "url": "https:\/\/cryptopanic.com\/news\/tron\/"
+                },
+                {
+                    "code": "OP",
+                    "title": "Optimism",
+                    "slug": "optimism",
+                    "url": "https:\/\/cryptopanic.com\/news\/optimism\/"
+                }
+            ],
+            "id": 18941277,
+            "url": "https:\/\/cryptopanic.com\/news\/18941277\/Bitcoin-Surges-Over-28K-but-Analyst-Questions-ETF-Optimism-Angle",
+            "created_at": "2023-10-02T08:17:57Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coingape.com",
+            "source": {
+                "title": "CoinGape",
+                "region": "en",
+                "domain": "coingape.com",
+                "path": null
+            },
+            "title": "Solana On An Unstoppable Rally to $25, DeFi TVL At 2023 High",
+            "published_at": "2023-10-02T07:54:46Z",
+            "slug": "Solana-On-An-Unstoppable-Rally-to-25-DeFi-TVL-At-2023-High",
+            "currencies": [
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "ADA",
+                    "title": "Cardano",
+                    "slug": "cardano",
+                    "url": "https:\/\/cryptopanic.com\/news\/cardano\/"
+                },
+                {
+                    "code": "DOGE",
+                    "title": "Dogecoin",
+                    "slug": "dogecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/dogecoin\/"
+                }
+            ],
+            "id": 18941232,
+            "url": "https:\/\/cryptopanic.com\/news\/18941232\/Solana-On-An-Unstoppable-Rally-to-25-DeFi-TVL-At-2023-High",
+            "created_at": "2023-10-02T07:54:46Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "feeds2.benzinga.com",
+            "votes": {
+                "negative": 0,
+                "positive": 2,
+                "important": 2,
+                "liked": 2,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "Benzinga",
+                "region": "en",
+                "domain": "feeds2.benzinga.com",
+                "path": null
+            },
+            "title": "Shiba Inu Massive Burn: Over 2.3B SHIB Tokens Vanish Into Thin Air In September",
+            "published_at": "2023-10-02T06:50:18Z",
+            "slug": "Shiba-Inu-Massive-Burn-Over-23B-SHIB-Tokens-Vanish-Into-Thin-Air-In-September",
+            "currencies": [
+                {
+                    "code": "DOGE",
+                    "title": "Dogecoin",
+                    "slug": "dogecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/dogecoin\/"
+                },
+                {
+                    "code": "SHIB",
+                    "title": "Shiba Inu",
+                    "slug": "shiba-inu",
+                    "url": "https:\/\/cryptopanic.com\/news\/shiba-inu\/"
+                }
+            ],
+            "id": 18941150,
+            "url": "https:\/\/cryptopanic.com\/news\/18941150\/Shiba-Inu-Massive-Burn-Over-23B-SHIB-Tokens-Vanish-Into-Thin-Air-In-September",
+            "created_at": "2023-10-02T06:50:18Z"
+        },
+        {
+            "kind": "news",
+            "domain": "feeds2.benzinga.com",
+            "source": {
+                "title": "Benzinga",
+                "region": "en",
+                "domain": "feeds2.benzinga.com",
+                "path": null
+            },
+            "title": "Elon Musk's 'Dogs Rock' Swipe At Media Sends Canine-Themed Meme Coins Soaring",
+            "published_at": "2023-10-02T03:29:54Z",
+            "slug": "Elon-Musks-Dogs-Rock-Swipe-At-Media-Sends-Canine-Themed-Meme-Coins-Soaring",
+            "currencies": [
+                {
+                    "code": "DOGE",
+                    "title": "Dogecoin",
+                    "slug": "dogecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/dogecoin\/"
+                },
+                {
+                    "code": "SHIB",
+                    "title": "Shiba Inu",
+                    "slug": "shiba-inu",
+                    "url": "https:\/\/cryptopanic.com\/news\/shiba-inu\/"
+                }
+            ],
+            "id": 18940957,
+            "url": "https:\/\/cryptopanic.com\/news\/18940957\/Elon-Musks-Dogs-Rock-Swipe-At-Media-Sends-Canine-Themed-Meme-Coins-Soaring",
+            "created_at": "2023-10-02T03:29:54Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "feeds2.benzinga.com",
+            "source": {
+                "title": "Benzinga",
+                "region": "en",
+                "domain": "feeds2.benzinga.com",
+                "path": null
+            },
+            "title": "Bitcoin, Ethereum, Dogecoin Suddenly Pump, Wiping Over $70M In Shorts: Analyst Says 'Welcome To Uptober', Foresees King Crypto Marching Towards $40K Easily",
+            "published_at": "2023-10-02T02:44:03Z",
+            "slug": "Bitcoin-Ethereum-Dogecoin-Suddenly-Pump-Wiping-Over-70M-In-Shorts-Analyst-Says-Welcome-To-Uptober-Foresees-King-Crypto-Marching-Towards-40K-Easily",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "DOGE",
+                    "title": "Dogecoin",
+                    "slug": "dogecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/dogecoin\/"
+                }
+            ],
+            "id": 18940920,
+            "url": "https:\/\/cryptopanic.com\/news\/18940920\/Bitcoin-Ethereum-Dogecoin-Suddenly-Pump-Wiping-Over-70M-In-Shorts-Analyst-Says-Welcome-To-Uptober-Foresees-King-Crypto-Marching-Towards-40K-Easily",
+            "created_at": "2023-10-02T02:44:03Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "Will Ethereum and BNB kickstart Q4\u2019s altcoin bull rally?",
+            "published_at": "2023-10-02T02:30:10Z",
+            "slug": "Will-Ethereum-and-BNB-kickstart-Q4s-altcoin-bull-rally",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "BNB",
+                    "title": "BNB",
+                    "slug": "binancecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/binancecoin\/"
+                },
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                },
+                {
+                    "code": "DOGE",
+                    "title": "Dogecoin",
+                    "slug": "dogecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/dogecoin\/"
+                },
+                {
+                    "code": "SHIB",
+                    "title": "Shiba Inu",
+                    "slug": "shiba-inu",
+                    "url": "https:\/\/cryptopanic.com\/news\/shiba-inu\/"
+                },
+                {
+                    "code": "BNB",
+                    "title": "OEC Binance Coin",
+                    "slug": "oec-binance-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/oec-binance-coin\/"
+                }
+            ],
+            "id": 18940914,
+            "url": "https:\/\/cryptopanic.com\/news\/18940914\/Will-Ethereum-and-BNB-kickstart-Q4s-altcoin-bull-rally",
+            "created_at": "2023-10-02T02:30:10Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptopotato.com",
+            "votes": {
+                "negative": 0,
+                "positive": 3,
+                "important": 2,
+                "liked": 3,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 2
+            },
+            "source": {
+                "title": "Feed - Cryptopotato.Com",
+                "region": "en",
+                "domain": "cryptopotato.com",
+                "path": null
+            },
+            "title": "Users Can Now Trade XRP and DOGE Against PayPal\u2019s Stablecoin",
+            "published_at": "2023-10-01T17:05:38Z",
+            "slug": "Users-Can-Now-Trade-XRP-and-DOGE-Against-PayPals-Stablecoin",
+            "currencies": [
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                },
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "DOGE",
+                    "title": "Dogecoin",
+                    "slug": "dogecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/dogecoin\/"
+                },
+                {
+                    "code": "SHIB",
+                    "title": "Shiba Inu",
+                    "slug": "shiba-inu",
+                    "url": "https:\/\/cryptopanic.com\/news\/shiba-inu\/"
+                }
+            ],
+            "id": 18940475,
+            "url": "https:\/\/cryptopanic.com\/news\/18940475\/Users-Can-Now-Trade-XRP-and-DOGE-Against-PayPals-Stablecoin",
+            "created_at": "2023-10-01T17:05:38Z"
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "ChatGPT believes investing $1,000 in Dogecoin is a strategic move",
+            "published_at": "2023-10-01T14:05:43Z",
+            "slug": "ChatGPT-believes-investing-1000-in-Dogecoin-is-a-strategic-move",
+            "currencies": [
+                {
+                    "code": "DOGE",
+                    "title": "Dogecoin",
+                    "slug": "dogecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/dogecoin\/"
+                }
+            ],
+            "id": 18940310,
+            "url": "https:\/\/cryptopanic.com\/news\/18940310\/ChatGPT-believes-investing-1000-in-Dogecoin-is-a-strategic-move",
+            "created_at": "2023-10-01T14:05:43Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinidol.com",
+            "source": {
+                "title": "Coin Idol",
+                "region": "en",
+                "domain": "coinidol.com",
+                "path": null
+            },
+            "title": "Dogecoin Price Remains Stable And Rises To $0.062",
+            "published_at": "2023-10-01T09:13:00Z",
+            "slug": "Dogecoin-Price-Remains-Stable-And-Rises-To-0062",
+            "currencies": [
+                {
+                    "code": "DOGE",
+                    "title": "Dogecoin",
+                    "slug": "dogecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/dogecoin\/"
+                }
+            ],
+            "id": 18940200,
+            "url": "https:\/\/cryptopanic.com\/news\/18940200\/Dogecoin-Price-Remains-Stable-And-Rises-To-0062",
+            "created_at": "2023-10-01T09:13:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

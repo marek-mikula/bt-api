@@ -1,0 +1,707 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=FET&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "@Fetch_ai",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 1,
+                "comments": 0
+            },
+            "source": {
+                "title": "Fetch Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@fetch_ai"
+            },
+            "title": "With news that large governments &amp; organizations are becoming more acquainted with #AI, transparency is needed. \ufe0f\u2026",
+            "published_at": "2023-07-11T15:30:00Z",
+            "slug": "With-news-that-large-governments-amp-organizations-are-becoming-more-acquainted-with-AI-transparency-is-needed",
+            "currencies": [
+                {
+                    "code": "FET",
+                    "title": "Fetch.ai",
+                    "slug": "fetch-ai",
+                    "url": "https:\/\/cryptopanic.com\/news\/fetch-ai\/"
+                }
+            ],
+            "id": 18764252,
+            "url": "https:\/\/cryptopanic.com\/news\/18764252\/With-news-that-large-governments-amp-organizations-are-becoming-more-acquainted-with-AI-transparency-is-needed",
+            "created_at": "2023-07-11T15:30:00Z"
+        },
+        {
+            "kind": "news",
+            "domain": "@Fetch_ai",
+            "source": {
+                "title": "Fetch Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@fetch_ai"
+            },
+            "title": "Haven't listened to our Spaces session with IBM Global Client Partner - Technology &amp; Innovation @raquel_mtk, and ou\u2026",
+            "published_at": "2023-07-11T13:35:38Z",
+            "slug": "Havent-listened-to-our-Spaces-session-with-IBM-Global-Client-Partner-Technology-amp-Innovation-raquel_mtk-and-ou",
+            "currencies": [
+                {
+                    "code": "FET",
+                    "title": "Fetch.ai",
+                    "slug": "fetch-ai",
+                    "url": "https:\/\/cryptopanic.com\/news\/fetch-ai\/"
+                }
+            ],
+            "id": 18764253,
+            "url": "https:\/\/cryptopanic.com\/news\/18764253\/Havent-listened-to-our-Spaces-session-with-IBM-Global-Client-Partner-Technology-amp-Innovation-raquel_mtk-and-ou",
+            "created_at": "2023-07-11T13:35:38Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Fetch_ai",
+            "source": {
+                "title": "Fetch Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@fetch_ai"
+            },
+            "title": "A new #AI Agent Tutorial is live on YouTube! \ud83e\udd16\n\nAgents need to be able to verify to each other within a protocol th\u2026",
+            "published_at": "2023-07-10T14:18:07Z",
+            "slug": "A-new-AI-Agent-Tutorial-is-live-on-YouTube-Agents-need-to-be-able-to-verify-to-each-other-within-a-protocol-th",
+            "currencies": [
+                {
+                    "code": "FET",
+                    "title": "Fetch.ai",
+                    "slug": "fetch-ai",
+                    "url": "https:\/\/cryptopanic.com\/news\/fetch-ai\/"
+                }
+            ],
+            "id": 18756143,
+            "url": "https:\/\/cryptopanic.com\/news\/18756143\/A-new-AI-Agent-Tutorial-is-live-on-YouTube-Agents-need-to-be-able-to-verify-to-each-other-within-a-protocol-th",
+            "created_at": "2023-07-10T14:18:07Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Fetch_ai",
+            "source": {
+                "title": "Fetch Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@fetch_ai"
+            },
+            "title": "Are you a #Rust developer looking for somewhere new to start in the decentralized economy? \ud83e\udd14\n\nConsider applying for\u2026",
+            "published_at": "2023-07-10T12:54:25Z",
+            "slug": "Are-you-a-Rust-developer-looking-for-somewhere-new-to-start-in-the-decentralized-economy-Consider-applying-for",
+            "currencies": [
+                {
+                    "code": "FET",
+                    "title": "Fetch.ai",
+                    "slug": "fetch-ai",
+                    "url": "https:\/\/cryptopanic.com\/news\/fetch-ai\/"
+                }
+            ],
+            "id": 18756144,
+            "url": "https:\/\/cryptopanic.com\/news\/18756144\/Are-you-a-Rust-developer-looking-for-somewhere-new-to-start-in-the-decentralized-economy-Consider-applying-for",
+            "created_at": "2023-07-10T12:54:25Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Fetch_ai",
+            "source": {
+                "title": "Fetch Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@fetch_ai"
+            },
+            "title": "Imagine pulling into an electric charging station, and all you have to do is plug your vehicle in, then drive away.\u2026",
+            "published_at": "2023-07-09T14:10:27Z",
+            "slug": "Imagine-pulling-into-an-electric-charging-station-and-all-you-have-to-do-is-plug-your-vehicle-in-then-drive-away",
+            "currencies": [
+                {
+                    "code": "FET",
+                    "title": "Fetch.ai",
+                    "slug": "fetch-ai",
+                    "url": "https:\/\/cryptopanic.com\/news\/fetch-ai\/"
+                }
+            ],
+            "id": 18749695,
+            "url": "https:\/\/cryptopanic.com\/news\/18749695\/Imagine-pulling-into-an-electric-charging-station-and-all-you-have-to-do-is-plug-your-vehicle-in-then-drive-away",
+            "created_at": "2023-07-09T14:10:27Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Fetch_ai",
+            "source": {
+                "title": "Fetch Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@fetch_ai"
+            },
+            "title": "RT @pbusch42: Devina Pasta, CTO of #siemensmobility addresses main challenges @fdz23 in #Munich\u2026\n\nWe @moveID_gaiax: coolest new #connectivi\u2026",
+            "published_at": "2023-07-08T20:05:35Z",
+            "slug": "RT-pbusch42-Devina-Pasta-CTO-of-siemensmobility-addresses-main-challenges-fdz23-in-Munich-We-moveID_gaiax-coolest-new-connectivi",
+            "currencies": [
+                {
+                    "code": "FET",
+                    "title": "Fetch.ai",
+                    "slug": "fetch-ai",
+                    "url": "https:\/\/cryptopanic.com\/news\/fetch-ai\/"
+                }
+            ],
+            "id": 18745515,
+            "url": "https:\/\/cryptopanic.com\/news\/18745515\/RT-pbusch42-Devina-Pasta-CTO-of-siemensmobility-addresses-main-challenges-fdz23-in-Munich-We-moveID_gaiax-coolest-new-connectivi",
+            "created_at": "2023-07-08T20:05:35Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Fetch_ai",
+            "source": {
+                "title": "Fetch Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@fetch_ai"
+            },
+            "title": "RT @MariaMinaricova: Great twitter spaces earlier this week with @raquel_mtk , thanks a lot for joining our session and I am super excited\u2026",
+            "published_at": "2023-07-08T16:29:58Z",
+            "slug": "RT-MariaMinaricova-Great-twitter-spaces-earlier-this-week-with-raquel_mtk-thanks-a-lot-for-joining-our-session-and-I-am-super-excited",
+            "currencies": [
+                {
+                    "code": "FET",
+                    "title": "Fetch.ai",
+                    "slug": "fetch-ai",
+                    "url": "https:\/\/cryptopanic.com\/news\/fetch-ai\/"
+                }
+            ],
+            "id": 18745516,
+            "url": "https:\/\/cryptopanic.com\/news\/18745516\/RT-MariaMinaricova-Great-twitter-spaces-earlier-this-week-with-raquel_mtk-thanks-a-lot-for-joining-our-session-and-I-am-super-excited",
+            "created_at": "2023-07-08T16:29:58Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Fetch_ai",
+            "source": {
+                "title": "Fetch Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@fetch_ai"
+            },
+            "title": "The use of decentralized #AI Agent technology can be a game changer in the Economy of Things, allowing for physical\u2026",
+            "published_at": "2023-07-08T15:32:32Z",
+            "slug": "The-use-of-decentralized-AI-Agent-technology-can-be-a-game-changer-in-the-Economy-of-Things-allowing-for-physical",
+            "currencies": [
+                {
+                    "code": "FET",
+                    "title": "Fetch.ai",
+                    "slug": "fetch-ai",
+                    "url": "https:\/\/cryptopanic.com\/news\/fetch-ai\/"
+                }
+            ],
+            "id": 18745517,
+            "url": "https:\/\/cryptopanic.com\/news\/18745517\/The-use-of-decentralized-AI-Agent-technology-can-be-a-game-changer-in-the-Economy-of-Things-allowing-for-physical",
+            "created_at": "2023-07-08T15:32:32Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Fetch_ai",
+            "source": {
+                "title": "Fetch Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@fetch_ai"
+            },
+            "title": "An amazing tool by @SmartStake for helping stakers stay informed about actions their validators have made or can ma\u2026",
+            "published_at": "2023-07-07T23:01:38Z",
+            "slug": "An-amazing-tool-by-SmartStake-for-helping-stakers-stay-informed-about-actions-their-validators-have-made-or-can-ma",
+            "currencies": [
+                {
+                    "code": "FET",
+                    "title": "Fetch.ai",
+                    "slug": "fetch-ai",
+                    "url": "https:\/\/cryptopanic.com\/news\/fetch-ai\/"
+                }
+            ],
+            "id": 18740115,
+            "url": "https:\/\/cryptopanic.com\/news\/18740115\/An-amazing-tool-by-SmartStake-for-helping-stakers-stay-informed-about-actions-their-validators-have-made-or-can-ma",
+            "created_at": "2023-07-07T23:01:38Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Fetch_ai",
+            "source": {
+                "title": "Fetch Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@fetch_ai"
+            },
+            "title": "RT @CosmosEcosystem: 2\/ \ufe0fCosmos Weekly News\ufe0f\nShow your support with RT\n\ufe0fWe keep spreading the word!\ufe0f\n\n$JUNO $FET $ARCH $KUJI $CRE $\u2026",
+            "published_at": "2023-07-07T19:25:24Z",
+            "slug": "RT-CosmosEcosystem-2-Cosmos-Weekly-News-Show-your-support-with-RT-We-keep-spreading-the-word-JUNO-FET-ARCH-KUJI-CRE",
+            "currencies": [
+                {
+                    "code": "FET",
+                    "title": "Fetch.ai",
+                    "slug": "fetch-ai",
+                    "url": "https:\/\/cryptopanic.com\/news\/fetch-ai\/"
+                }
+            ],
+            "id": 18740116,
+            "url": "https:\/\/cryptopanic.com\/news\/18740116\/RT-CosmosEcosystem-2-Cosmos-Weekly-News-Show-your-support-with-RT-We-keep-spreading-the-word-JUNO-FET-ARCH-KUJI-CRE",
+            "created_at": "2023-07-07T19:25:24Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Fetch_ai",
+            "source": {
+                "title": "Fetch Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@fetch_ai"
+            },
+            "title": "Early June, we held a Twitter Spaces session with @Fetch_ai &amp; @Mettalex CEO @HMsheikh4 on the current state of Mett\u2026",
+            "published_at": "2023-07-07T17:23:18Z",
+            "slug": "Early-June-we-held-a-Twitter-Spaces-session-with-Fetch_ai-amp-Mettalex-CEO-HMsheikh4-on-the-current-state-of-Mett",
+            "currencies": [
+                {
+                    "code": "FET",
+                    "title": "Fetch.ai",
+                    "slug": "fetch-ai",
+                    "url": "https:\/\/cryptopanic.com\/news\/fetch-ai\/"
+                }
+            ],
+            "id": 18740117,
+            "url": "https:\/\/cryptopanic.com\/news\/18740117\/Early-June-we-held-a-Twitter-Spaces-session-with-Fetch_ai-amp-Mettalex-CEO-HMsheikh4-on-the-current-state-of-Mett",
+            "created_at": "2023-07-07T17:23:18Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Fetch_ai",
+            "source": {
+                "title": "Fetch Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@fetch_ai"
+            },
+            "title": "The Fetch Super Wallet has continued to expand its feature list! \n\nThis week we released v0.13 of the wallet, so l\u2026",
+            "published_at": "2023-07-07T16:45:17Z",
+            "slug": "The-Fetch-Super-Wallet-has-continued-to-expand-its-feature-list-This-week-we-released-v013-of-the-wallet-so-l",
+            "currencies": [
+                {
+                    "code": "FET",
+                    "title": "Fetch.ai",
+                    "slug": "fetch-ai",
+                    "url": "https:\/\/cryptopanic.com\/news\/fetch-ai\/"
+                }
+            ],
+            "id": 18740118,
+            "url": "https:\/\/cryptopanic.com\/news\/18740118\/The-Fetch-Super-Wallet-has-continued-to-expand-its-feature-list-This-week-we-released-v013-of-the-wallet-so-l",
+            "created_at": "2023-07-07T16:45:17Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Fetch_ai",
+            "source": {
+                "title": "Fetch Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@fetch_ai"
+            },
+            "title": "Good luck to our friends @MOBIXWALLET during their presentation! \ud83e\udd1d\n\nWe hope all goes well and that everyone is exci\u2026",
+            "published_at": "2023-07-07T14:47:21Z",
+            "slug": "Good-luck-to-our-friends-MOBIXWALLET-during-their-presentation-We-hope-all-goes-well-and-that-everyone-is-exci",
+            "currencies": [
+                {
+                    "code": "FET",
+                    "title": "Fetch.ai",
+                    "slug": "fetch-ai",
+                    "url": "https:\/\/cryptopanic.com\/news\/fetch-ai\/"
+                }
+            ],
+            "id": 18740119,
+            "url": "https:\/\/cryptopanic.com\/news\/18740119\/Good-luck-to-our-friends-MOBIXWALLET-during-their-presentation-We-hope-all-goes-well-and-that-everyone-is-exci",
+            "created_at": "2023-07-07T14:47:21Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Fetch_ai",
+            "source": {
+                "title": "Fetch Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@fetch_ai"
+            },
+            "title": "A big thank you to @NOWNodes for setting up a Full Node for the ecosystem! \n\nBe sure to ch\u2026",
+            "published_at": "2023-07-07T13:22:45Z",
+            "slug": "A-big-thank-you-to-NOWNodes-for-setting-up-a-Full-Node-for-the-ecosystem-Be-sure-to-ch",
+            "currencies": [
+                {
+                    "code": "FET",
+                    "title": "Fetch.ai",
+                    "slug": "fetch-ai",
+                    "url": "https:\/\/cryptopanic.com\/news\/fetch-ai\/"
+                }
+            ],
+            "id": 18740120,
+            "url": "https:\/\/cryptopanic.com\/news\/18740120\/A-big-thank-you-to-NOWNodes-for-setting-up-a-Full-Node-for-the-ecosystem-Be-sure-to-ch",
+            "created_at": "2023-07-07T13:22:45Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Fetch_ai",
+            "source": {
+                "title": "Fetch Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@fetch_ai"
+            },
+            "title": "Setting up an #AI Agent should be as simple as creating a Gmail account, with no coding knowledge required. \ud83e\udd16\n\nIt n\u2026",
+            "published_at": "2023-07-07T13:12:07Z",
+            "slug": "Setting-up-an-AI-Agent-should-be-as-simple-as-creating-a-Gmail-account-with-no-coding-knowledge-required-It-n",
+            "currencies": [
+                {
+                    "code": "FET",
+                    "title": "Fetch.ai",
+                    "slug": "fetch-ai",
+                    "url": "https:\/\/cryptopanic.com\/news\/fetch-ai\/"
+                }
+            ],
+            "id": 18740121,
+            "url": "https:\/\/cryptopanic.com\/news\/18740121\/Setting-up-an-AI-Agent-should-be-as-simple-as-creating-a-Gmail-account-with-no-coding-knowledge-required-It-n",
+            "created_at": "2023-07-07T13:12:07Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Fetch_ai",
+            "source": {
+                "title": "Fetch Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@fetch_ai"
+            },
+            "title": "It's official! \n\nWe've joined the Threads app by Instagram with the same handle we use for Instagram, and you can\u2026",
+            "published_at": "2023-07-06T14:52:56Z",
+            "slug": "Its-official-Weve-joined-the-Threads-app-by-Instagram-with-the-same-handle-we-use-for-Instagram-and-you-can",
+            "currencies": [
+                {
+                    "code": "FET",
+                    "title": "Fetch.ai",
+                    "slug": "fetch-ai",
+                    "url": "https:\/\/cryptopanic.com\/news\/fetch-ai\/"
+                }
+            ],
+            "id": 18732459,
+            "url": "https:\/\/cryptopanic.com\/news\/18732459\/Its-official-Weve-joined-the-Threads-app-by-Instagram-with-the-same-handle-we-use-for-Instagram-and-you-can",
+            "created_at": "2023-07-06T14:52:56Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Fetch_ai",
+            "source": {
+                "title": "Fetch Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@fetch_ai"
+            },
+            "title": "Set your reminders!  \n\nOur new Twitter Spaces session with IBM Global Client Partner - Technology &amp; Innovation\u2026",
+            "published_at": "2023-07-06T11:48:35Z",
+            "slug": "Set-your-reminders-Our-new-Twitter-Spaces-session-with-IBM-Global-Client-Partner-Technology-amp-Innovation",
+            "currencies": [
+                {
+                    "code": "FET",
+                    "title": "Fetch.ai",
+                    "slug": "fetch-ai",
+                    "url": "https:\/\/cryptopanic.com\/news\/fetch-ai\/"
+                }
+            ],
+            "id": 18732460,
+            "url": "https:\/\/cryptopanic.com\/news\/18732460\/Set-your-reminders-Our-new-Twitter-Spaces-session-with-IBM-Global-Client-Partner-Technology-amp-Innovation",
+            "created_at": "2023-07-06T11:48:35Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Fetch_ai",
+            "source": {
+                "title": "Fetch Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@fetch_ai"
+            },
+            "title": "RT @HouseofChimera: How can @Fetch_ai be used in real-world use cases?\n\n $FET autonomous agents could optimize logistics by analyzing and\u2026",
+            "published_at": "2023-07-06T11:18:12Z",
+            "slug": "RT-HouseofChimera-How-can-Fetch_ai-be-used-in-real-world-use-cases-FET-autonomous-agents-could-optimize-logistics-by-analyzing-and",
+            "currencies": [
+                {
+                    "code": "FET",
+                    "title": "Fetch.ai",
+                    "slug": "fetch-ai",
+                    "url": "https:\/\/cryptopanic.com\/news\/fetch-ai\/"
+                }
+            ],
+            "id": 18732461,
+            "url": "https:\/\/cryptopanic.com\/news\/18732461\/RT-HouseofChimera-How-can-Fetch_ai-be-used-in-real-world-use-cases-FET-autonomous-agents-could-optimize-logistics-by-analyzing-and",
+            "created_at": "2023-07-06T11:18:12Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Fetch_ai",
+            "source": {
+                "title": "Fetch Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@fetch_ai"
+            },
+            "title": "A new #AI Agent tutorial is live! \ud83e\udd16 \n\nThis Microagent tutorial teaches you how to register with our almanac contrac\u2026",
+            "published_at": "2023-07-05T15:45:59Z",
+            "slug": "A-new-AI-Agent-tutorial-is-live-This-Microagent-tutorial-teaches-you-how-to-register-with-our-almanac-contrac",
+            "currencies": [
+                {
+                    "code": "FET",
+                    "title": "Fetch.ai",
+                    "slug": "fetch-ai",
+                    "url": "https:\/\/cryptopanic.com\/news\/fetch-ai\/"
+                }
+            ],
+            "id": 18723944,
+            "url": "https:\/\/cryptopanic.com\/news\/18723944\/A-new-AI-Agent-tutorial-is-live-This-Microagent-tutorial-teaches-you-how-to-register-with-our-almanac-contrac",
+            "created_at": "2023-07-05T15:45:59Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Fetch_ai",
+            "source": {
+                "title": "Fetch Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@fetch_ai"
+            },
+            "title": "Exciting news! \n\nThe latest Fetch Super Wallet update, v0.13 is here! \n\nWe've brought transaction history and fil\u2026",
+            "published_at": "2023-07-05T11:01:36Z",
+            "slug": "Exciting-news-The-latest-Fetch-Super-Wallet-update-v013-is-here-Weve-brought-transaction-history-and-fil",
+            "currencies": [
+                {
+                    "code": "FET",
+                    "title": "Fetch.ai",
+                    "slug": "fetch-ai",
+                    "url": "https:\/\/cryptopanic.com\/news\/fetch-ai\/"
+                }
+            ],
+            "id": 18723945,
+            "url": "https:\/\/cryptopanic.com\/news\/18723945\/Exciting-news-The-latest-Fetch-Super-Wallet-update-v013-is-here-Weve-brought-transaction-history-and-fil",
+            "created_at": "2023-07-05T11:01:36Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

@@ -1,0 +1,749 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=BTS&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "bitcoin.com",
+            "source": {
+                "title": "Bitcoin.com",
+                "region": "en",
+                "domain": "bitcoin.com",
+                "path": null
+            },
+            "title": "What Are Stablecoins? A Simple Explanation of the Digital Asset Bridging Crypto and Fiat",
+            "published_at": "2023-09-10T04:00:03Z",
+            "slug": "What-Are-Stablecoins-A-Simple-Explanation-of-the-Digital-Asset-Bridging-Crypto-and-Fiat",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "USDT",
+                    "title": "Tether",
+                    "slug": "tether",
+                    "url": "https:\/\/cryptopanic.com\/news\/tether\/"
+                },
+                {
+                    "code": "USDC",
+                    "title": "USD Coin",
+                    "slug": "usd-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/usd-coin\/"
+                },
+                {
+                    "code": "DAI",
+                    "title": "Dai",
+                    "slug": "dai",
+                    "url": "https:\/\/cryptopanic.com\/news\/dai\/"
+                },
+                {
+                    "code": "TUSD",
+                    "title": "TrueUSD",
+                    "slug": "true-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/true-usd\/"
+                },
+                {
+                    "code": "BUSD",
+                    "title": "Binance USD",
+                    "slug": "binance-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/binance-usd\/"
+                },
+                {
+                    "code": "BTS",
+                    "title": "BitShares",
+                    "slug": "bitshares",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitshares\/"
+                }
+            ],
+            "id": 18892135,
+            "url": "https:\/\/cryptopanic.com\/news\/18892135\/What-Are-Stablecoins-A-Simple-Explanation-of-the-Digital-Asset-Bridging-Crypto-and-Fiat",
+            "created_at": "2023-09-10T04:00:03Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@BitSharesGroup",
+            "source": {
+                "title": "BitShares Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@bitsharesgroup"
+            },
+            "title": "#BitShares 7.0 (Suez)! Coming Soon...\n\n#Blockchain #BTS $BTS",
+            "published_at": "2023-07-07T01:31:14Z",
+            "slug": "BitShares-70-Suez-Coming-Soon-Blockchain-BTS-BTS",
+            "currencies": [
+                {
+                    "code": "BTS",
+                    "title": "BitShares",
+                    "slug": "bitshares",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitshares\/"
+                }
+            ],
+            "id": 18731183,
+            "url": "https:\/\/cryptopanic.com\/news\/18731183\/BitShares-70-Suez-Coming-Soon-Blockchain-BTS-BTS",
+            "created_at": "2023-07-07T01:31:14Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@BitSharesGroup",
+            "source": {
+                "title": "BitShares Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@bitsharesgroup"
+            },
+            "title": "#BitShares #Blockchain is an innovation that combines financial technology products with development investors usin\u2026",
+            "published_at": "2023-07-07T01:20:31Z",
+            "slug": "BitShares-Blockchain-is-an-innovation-that-combines-financial-technology-products-with-development-investors-usin",
+            "currencies": [
+                {
+                    "code": "BTS",
+                    "title": "BitShares",
+                    "slug": "bitshares",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitshares\/"
+                }
+            ],
+            "id": 18731184,
+            "url": "https:\/\/cryptopanic.com\/news\/18731184\/BitShares-Blockchain-is-an-innovation-that-combines-financial-technology-products-with-development-investors-usin",
+            "created_at": "2023-07-07T01:20:31Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@BitSharesGroup",
+            "source": {
+                "title": "BitShares Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@bitsharesgroup"
+            },
+            "title": "New Testnet release test-7.0.0 tagged: \n\nScheduled protocol activation (hard fork) is Tuesda\u2026",
+            "published_at": "2023-07-04T09:13:06Z",
+            "slug": "New-Testnet-release-test-700-tagged-Scheduled-protocol-activation-hard-fork-is-Tuesda",
+            "currencies": [
+                {
+                    "code": "BTS",
+                    "title": "BitShares",
+                    "slug": "bitshares",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitshares\/"
+                }
+            ],
+            "id": 18715026,
+            "url": "https:\/\/cryptopanic.com\/news\/18715026\/New-Testnet-release-test-700-tagged-Scheduled-protocol-activation-hard-fork-is-Tuesda",
+            "created_at": "2023-07-04T09:13:06Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@BitSharesGroup",
+            "source": {
+                "title": "BitShares Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@bitsharesgroup"
+            },
+            "title": "BitShares speaker is attending Web3 Berlin event which will be held over two days from June 10-11, 2023 at The Estr\u2026",
+            "published_at": "2023-05-31T18:19:10Z",
+            "slug": "BitShares-speaker-is-attending-Web3-Berlin-event-which-will-be-held-over-two-days-from-June-10-11-2023-at-The-Estr",
+            "currencies": [
+                {
+                    "code": "BTS",
+                    "title": "BitShares",
+                    "slug": "bitshares",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitshares\/"
+                }
+            ],
+            "id": 18474051,
+            "url": "https:\/\/cryptopanic.com\/news\/18474051\/BitShares-speaker-is-attending-Web3-Berlin-event-which-will-be-held-over-two-days-from-June-10-11-2023-at-The-Estr",
+            "created_at": "2023-05-31T18:19:10Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@BitSharesGroup",
+            "source": {
+                "title": "BitShares Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@bitsharesgroup"
+            },
+            "title": "We are so glad to announce the Go Live of our new official BitShares Blockchain community website\u2026",
+            "published_at": "2023-05-14T14:04:12Z",
+            "slug": "We-are-so-glad-to-announce-the-Go-Live-of-our-new-official-BitShares-Blockchain-community-website",
+            "currencies": [
+                {
+                    "code": "BTS",
+                    "title": "BitShares",
+                    "slug": "bitshares",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitshares\/"
+                }
+            ],
+            "id": 18341024,
+            "url": "https:\/\/cryptopanic.com\/news\/18341024\/We-are-so-glad-to-announce-the-Go-Live-of-our-new-official-BitShares-Blockchain-community-website",
+            "created_at": "2023-05-14T14:04:12Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@BitSharesOrg",
+            "source": {
+                "title": "BitShares Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@bitsharesorg"
+            },
+            "title": "RT @BitShares_Luci: @elonmusk \u201cThe person who follows the crowd will usually go no further than the crowd. The person who walks alone is li\u2026",
+            "published_at": "2023-05-07T03:18:56Z",
+            "slug": "RT-BitShares_Luci-elonmusk-The-person-who-follows-the-crowd-will-usually-go-no-further-than-the-crowd-The-person-who-walks-alone-is-li",
+            "currencies": [
+                {
+                    "code": "BTS",
+                    "title": "BitShares",
+                    "slug": "bitshares",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitshares\/"
+                }
+            ],
+            "id": 18281665,
+            "url": "https:\/\/cryptopanic.com\/news\/18281665\/RT-BitShares_Luci-elonmusk-The-person-who-follows-the-crowd-will-usually-go-no-further-than-the-crowd-The-person-who-walks-alone-is-li",
+            "created_at": "2023-05-07T03:18:56Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@BitSharesOrg",
+            "source": {
+                "title": "BitShares Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@bitsharesorg"
+            },
+            "title": "RT @bitshareslabs: Stablecoins were introduced in 2014 with the release of BitUSD. #Bitshares $BTS @BitSharesOrg @BitSharesGroup",
+            "published_at": "2023-05-04T01:21:27Z",
+            "slug": "RT-bitshareslabs-Stablecoins-were-introduced-in-2014-with-the-release-of-BitUSD-Bitshares-BTS-BitSharesOrg-BitSharesGroup",
+            "currencies": [
+                {
+                    "code": "BTS",
+                    "title": "BitShares",
+                    "slug": "bitshares",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitshares\/"
+                }
+            ],
+            "id": 18256877,
+            "url": "https:\/\/cryptopanic.com\/news\/18256877\/RT-bitshareslabs-Stablecoins-were-introduced-in-2014-with-the-release-of-BitUSD-Bitshares-BTS-BitSharesOrg-BitSharesGroup",
+            "created_at": "2023-05-04T01:21:27Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@BitSharesOrg",
+            "source": {
+                "title": "BitShares Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@bitsharesorg"
+            },
+            "title": "RT @BitShares_Luci: RSA vs ECDSA for DNSSEC | APNIC Blog \n\nAt #BitShares we strive for security and simplicity, whi\u2026",
+            "published_at": "2023-05-03T12:05:48Z",
+            "slug": "RT-BitShares_Luci-RSA-vs-ECDSA-for-DNSSEC-APNIC-Blog-At-BitShares-we-strive-for-security-and-simplicity-whi",
+            "currencies": [
+                {
+                    "code": "BTS",
+                    "title": "BitShares",
+                    "slug": "bitshares",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitshares\/"
+                }
+            ],
+            "id": 18256878,
+            "url": "https:\/\/cryptopanic.com\/news\/18256878\/RT-BitShares_Luci-RSA-vs-ECDSA-for-DNSSEC-APNIC-Blog-At-BitShares-we-strive-for-security-and-simplicity-whi",
+            "created_at": "2023-05-03T12:05:48Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@BitSharesOrg",
+            "source": {
+                "title": "BitShares Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@bitsharesorg"
+            },
+            "title": "First #time ever #since \/w @Cloudflare \n\n#Everything is #collapsing and world here we come - The Gratest #recession",
+            "published_at": "2023-05-01T06:19:05Z",
+            "slug": "First-time-ever-since-w-Cloudflare-Everything-is-collapsing-and-world-here-we-come-The-Gratest-recession",
+            "currencies": [
+                {
+                    "code": "BTS",
+                    "title": "BitShares",
+                    "slug": "bitshares",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitshares\/"
+                }
+            ],
+            "id": 18239905,
+            "url": "https:\/\/cryptopanic.com\/news\/18239905\/First-time-ever-since-w-Cloudflare-Everything-is-collapsing-and-world-here-we-come-The-Gratest-recession",
+            "created_at": "2023-05-01T06:19:05Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@BitSharesOrg",
+            "source": {
+                "title": "BitShares Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@bitsharesorg"
+            },
+            "title": "RT @BitShares_Luci: Intent of Worker #BitShares 2020 by Ross Walker. From the worker we can see that Ammar, as a dear #friend and colleague\u2026",
+            "published_at": "2023-04-26T16:38:59Z",
+            "slug": "RT-BitShares_Luci-Intent-of-Worker-BitShares-2020-by-Ross-Walker-From-the-worker-we-can-see-that-Ammar-as-a-dear-friend-and-colleague",
+            "currencies": [
+                {
+                    "code": "BTS",
+                    "title": "BitShares",
+                    "slug": "bitshares",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitshares\/"
+                }
+            ],
+            "id": 18203636,
+            "url": "https:\/\/cryptopanic.com\/news\/18203636\/RT-BitShares_Luci-Intent-of-Worker-BitShares-2020-by-Ross-Walker-From-the-worker-we-can-see-that-Ammar-as-a-dear-friend-and-colleague",
+            "created_at": "2023-04-26T16:38:59Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@BitSharesGroup",
+            "source": {
+                "title": "BitShares Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@bitsharesgroup"
+            },
+            "title": "A cup of BitShares Latte to everybody and happy weekend",
+            "published_at": "2023-04-15T15:59:02Z",
+            "slug": "A-cup-of-BitShares-Latte-to-everybody-and-happy-weekend",
+            "currencies": [
+                {
+                    "code": "BTS",
+                    "title": "BitShares",
+                    "slug": "bitshares",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitshares\/"
+                }
+            ],
+            "id": 18121584,
+            "url": "https:\/\/cryptopanic.com\/news\/18121584\/A-cup-of-BitShares-Latte-to-everybody-and-happy-weekend",
+            "created_at": "2023-04-15T15:59:02Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@BitSharesGroup",
+            "source": {
+                "title": "BitShares Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@bitsharesgroup"
+            },
+            "title": "Launching the New #BitShares #Blockchain Beta Website",
+            "published_at": "2023-04-12T16:30:17Z",
+            "slug": "Launching-the-New-BitShares-Blockchain-Beta-Website",
+            "currencies": [
+                {
+                    "code": "BTS",
+                    "title": "BitShares",
+                    "slug": "bitshares",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitshares\/"
+                }
+            ],
+            "id": 18097312,
+            "url": "https:\/\/cryptopanic.com\/news\/18097312\/Launching-the-New-BitShares-Blockchain-Beta-Website",
+            "created_at": "2023-04-12T16:30:17Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@BitSharesGroup",
+            "source": {
+                "title": "BitShares Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@bitsharesgroup"
+            },
+            "title": "Announcement,\n\nWe had witnessed a service outage for one of our community hosted BitShares reference wallets\u2026",
+            "published_at": "2023-04-06T18:07:47Z",
+            "slug": "Announcement-We-had-witnessed-a-service-outage-for-one-of-our-community-hosted-BitShares-reference-wallets",
+            "currencies": [
+                {
+                    "code": "BTS",
+                    "title": "BitShares",
+                    "slug": "bitshares",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitshares\/"
+                }
+            ],
+            "id": 18055384,
+            "url": "https:\/\/cryptopanic.com\/news\/18055384\/Announcement-We-had-witnessed-a-service-outage-for-one-of-our-community-hosted-BitShares-reference-wallets",
+            "created_at": "2023-04-06T18:07:47Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@BitSharesGroup",
+            "source": {
+                "title": "BitShares Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@bitsharesgroup"
+            },
+            "title": "Glad to announce the new version of Beet #BitShares community product; Beet is a stand-alone key\/identity-manager a\u2026",
+            "published_at": "2023-03-17T08:20:11Z",
+            "slug": "Glad-to-announce-the-new-version-of-Beet-BitShares-community-product-Beet-is-a-stand-alone-keyidentity-manager-a",
+            "currencies": [
+                {
+                    "code": "BTS",
+                    "title": "BitShares",
+                    "slug": "bitshares",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitshares\/"
+                }
+            ],
+            "id": 17905640,
+            "url": "https:\/\/cryptopanic.com\/news\/17905640\/Glad-to-announce-the-new-version-of-Beet-BitShares-community-product-Beet-is-a-stand-alone-keyidentity-manager-a",
+            "created_at": "2023-03-17T08:20:11Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@BitSharesGroup",
+            "source": {
+                "title": "BitShares Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@bitsharesgroup"
+            },
+            "title": "2023-03-13 BitShares operation fee schedule adjustment (reduced some)",
+            "published_at": "2023-03-13T13:07:08Z",
+            "slug": "2023-03-13-BitShares-operation-fee-schedule-adjustment-reduced-some",
+            "currencies": [
+                {
+                    "code": "BTS",
+                    "title": "BitShares",
+                    "slug": "bitshares",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitshares\/"
+                }
+            ],
+            "id": 17869424,
+            "url": "https:\/\/cryptopanic.com\/news\/17869424\/2023-03-13-BitShares-operation-fee-schedule-adjustment-reduced-some",
+            "created_at": "2023-03-13T13:07:08Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@BitSharesGroup",
+            "source": {
+                "title": "BitShares Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@bitsharesgroup"
+            },
+            "title": "It is the final battle between the national fiat currencies, cryptocurrencies, and Central Bank Digital Currencies\u2026",
+            "published_at": "2023-02-24T18:48:31Z",
+            "slug": "It-is-the-final-battle-between-the-national-fiat-currencies-cryptocurrencies-and-Central-Bank-Digital-Currencies",
+            "currencies": [
+                {
+                    "code": "BTS",
+                    "title": "BitShares",
+                    "slug": "bitshares",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitshares\/"
+                }
+            ],
+            "id": 17728986,
+            "url": "https:\/\/cryptopanic.com\/news\/17728986\/It-is-the-final-battle-between-the-national-fiat-currencies-cryptocurrencies-and-Central-Bank-Digital-Currencies",
+            "created_at": "2023-02-24T18:48:31Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@BitSharesOrg",
+            "source": {
+                "title": "BitShares Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@bitsharesorg"
+            },
+            "title": "RT @BitShares_Luci: @BitSharesOrg @GaryGensler BitShares DAO Corporation, new formation in Wyoming will give more transparency, real stabil\u2026",
+            "published_at": "2023-02-21T02:27:24Z",
+            "slug": "RT-BitShares_Luci-BitSharesOrg-GaryGensler-BitShares-DAO-Corporation-new-formation-in-Wyoming-will-give-more-transparency-real-stabil",
+            "currencies": [
+                {
+                    "code": "BTS",
+                    "title": "BitShares",
+                    "slug": "bitshares",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitshares\/"
+                }
+            ],
+            "id": 17689769,
+            "url": "https:\/\/cryptopanic.com\/news\/17689769\/RT-BitShares_Luci-BitSharesOrg-GaryGensler-BitShares-DAO-Corporation-new-formation-in-Wyoming-will-give-more-transparency-real-stabil",
+            "created_at": "2023-02-21T02:27:24Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@BitSharesGroup",
+            "source": {
+                "title": "BitShares Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@bitsharesgroup"
+            },
+            "title": "DON'T BEG ANYONE TO GET ON THE ARK...\n\nJUST KEEP BUILDING AND LET EVERYONE KNOW THE RAIN IS COMING...\n\n#BitShares\u2026",
+            "published_at": "2023-02-12T20:55:11Z",
+            "slug": "DONT-BEG-ANYONE-TO-GET-ON-THE-ARK-JUST-KEEP-BUILDING-AND-LET-EVERYONE-KNOW-THE-RAIN-IS-COMING-BitShares",
+            "currencies": [
+                {
+                    "code": "BTS",
+                    "title": "BitShares",
+                    "slug": "bitshares",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitshares\/"
+                }
+            ],
+            "id": 17622312,
+            "url": "https:\/\/cryptopanic.com\/news\/17622312\/DONT-BEG-ANYONE-TO-GET-ON-THE-ARK-JUST-KEEP-BUILDING-AND-LET-EVERYONE-KNOW-THE-RAIN-IS-COMING-BitShares",
+            "created_at": "2023-02-12T20:55:11Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@BitSharesGroup",
+            "source": {
+                "title": "BitShares Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@bitsharesgroup"
+            },
+            "title": "RT @FuturamaEconomy: BITSHARES TRADING SWING HODL\ud83d\udfe0\nCREATING NEW CYCLES\n#NFT #COMMON @opensea @BitSharesGroup\n#Adopci\u00f3nMasiva #MassAdop\u2026",
+            "published_at": "2023-02-09T11:41:46Z",
+            "slug": "RT-FuturamaEconomy-BITSHARES-TRADING-SWING-HODL-CREATING-NEW-CYCLES-NFT-COMMON-opensea-BitSharesGroup-AdopcionMasiva-MassAdop",
+            "currencies": [
+                {
+                    "code": "BTS",
+                    "title": "BitShares",
+                    "slug": "bitshares",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitshares\/"
+                }
+            ],
+            "id": 17599876,
+            "url": "https:\/\/cryptopanic.com\/news\/17599876\/RT-FuturamaEconomy-BITSHARES-TRADING-SWING-HODL-CREATING-NEW-CYCLES-NFT-COMMON-opensea-BitSharesGroup-AdopcionMasiva-MassAdop",
+            "created_at": "2023-02-09T11:41:46Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

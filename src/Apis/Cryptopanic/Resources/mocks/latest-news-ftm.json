@@ -1,0 +1,947 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=FTM&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "Fantom addresses multichain hack after 3 months: How did FTM react?",
+            "published_at": "2023-10-01T01:30:14Z",
+            "slug": "Fantom-addresses-multichain-hack-after-3-months-How-did-FTM-react",
+            "currencies": [
+                {
+                    "code": "FTM",
+                    "title": "Fantom",
+                    "slug": "fantom",
+                    "url": "https:\/\/cryptopanic.com\/news\/fantom\/"
+                }
+            ],
+            "id": 18939753,
+            "url": "https:\/\/cryptopanic.com\/news\/18939753\/Fantom-addresses-multichain-hack-after-3-months-How-did-FTM-react",
+            "created_at": "2023-10-01T01:30:14Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cointelegraph.com",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 1
+            },
+            "source": {
+                "title": "CoinTelegraph",
+                "region": "en",
+                "domain": "cointelegraph.com",
+                "path": null
+            },
+            "title": "Google Cloud adds 11 blockchains to data warehouse \u2018BigQuery\u2019",
+            "published_at": "2023-09-22T18:30:00Z",
+            "slug": "Google-Cloud-adds-11-blockchains-to-data-warehouse-BigQuery",
+            "currencies": [
+                {
+                    "code": "TRX",
+                    "title": "TRON",
+                    "slug": "tron",
+                    "url": "https:\/\/cryptopanic.com\/news\/tron\/"
+                },
+                {
+                    "code": "DOT",
+                    "title": "Polkadot",
+                    "slug": "polkadot",
+                    "url": "https:\/\/cryptopanic.com\/news\/polkadot\/"
+                },
+                {
+                    "code": "MATIC",
+                    "title": "Polygon",
+                    "slug": "matic-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-network\/"
+                },
+                {
+                    "code": "AVAX",
+                    "title": "Avalanche",
+                    "slug": "avalanche-2",
+                    "url": "https:\/\/cryptopanic.com\/news\/avalanche-2\/"
+                },
+                {
+                    "code": "NEAR",
+                    "title": "NEAR Protocol",
+                    "slug": "near",
+                    "url": "https:\/\/cryptopanic.com\/news\/near\/"
+                },
+                {
+                    "code": "FTM",
+                    "title": "Fantom",
+                    "slug": "fantom",
+                    "url": "https:\/\/cryptopanic.com\/news\/fantom\/"
+                }
+            ],
+            "id": 18922570,
+            "url": "https:\/\/cryptopanic.com\/news\/18922570\/Google-Cloud-adds-11-blockchains-to-data-warehouse-BigQuery",
+            "created_at": "2023-09-22T18:30:00Z"
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "Google Cloud Adds Support for Polygon, Optimism, Polkadot, and More",
+            "published_at": "2023-09-22T17:58:56Z",
+            "slug": "Google-Cloud-Adds-Support-for-Polygon-Optimism-Polkadot-and-More",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "DOGE",
+                    "title": "Dogecoin",
+                    "slug": "dogecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/dogecoin\/"
+                },
+                {
+                    "code": "MATIC",
+                    "title": "Polygon",
+                    "slug": "matic-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-network\/"
+                },
+                {
+                    "code": "FTM",
+                    "title": "Fantom",
+                    "slug": "fantom",
+                    "url": "https:\/\/cryptopanic.com\/news\/fantom\/"
+                }
+            ],
+            "id": 18922512,
+            "url": "https:\/\/cryptopanic.com\/news\/18922512\/Google-Cloud-Adds-Support-for-Polygon-Optimism-Polkadot-and-More",
+            "created_at": "2023-09-22T17:58:56Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "MetaMask Brings Bitcoin to Crypto Wallet With Snaps Launch",
+            "published_at": "2023-09-13T04:12:05Z",
+            "slug": "MetaMask-Brings-Bitcoin-to-Crypto-Wallet-With-Snaps-Launch",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "APT",
+                    "title": "Aptos",
+                    "slug": "aptos",
+                    "url": "https:\/\/cryptopanic.com\/news\/aptos\/"
+                },
+                {
+                    "code": "ALGO",
+                    "title": "Algorand",
+                    "slug": "algorand",
+                    "url": "https:\/\/cryptopanic.com\/news\/algorand\/"
+                },
+                {
+                    "code": "XTZ",
+                    "title": "Tezos",
+                    "slug": "tezos",
+                    "url": "https:\/\/cryptopanic.com\/news\/tezos\/"
+                },
+                {
+                    "code": "FTM",
+                    "title": "Fantom",
+                    "slug": "fantom",
+                    "url": "https:\/\/cryptopanic.com\/news\/fantom\/"
+                },
+                {
+                    "code": "SUI",
+                    "title": "Sui",
+                    "slug": "sui",
+                    "url": "https:\/\/cryptopanic.com\/news\/sui\/"
+                }
+            ],
+            "id": 18899141,
+            "url": "https:\/\/cryptopanic.com\/news\/18899141\/MetaMask-Brings-Bitcoin-to-Crypto-Wallet-With-Snaps-Launch",
+            "created_at": "2023-09-13T04:12:05Z"
+        },
+        {
+            "kind": "news",
+            "domain": "dailyhodl.com",
+            "source": {
+                "title": "The Daily Hodl",
+                "region": "en",
+                "domain": "dailyhodl.com",
+                "path": null
+            },
+            "title": "Analyst Updates Outlook on Chainlink, Avalanche, Fantom and One Altcoin That\u2019s Exploded Over 700% in Matter of Weeks",
+            "published_at": "2023-09-09T00:00:09Z",
+            "slug": "Analyst-Updates-Outlook-on-Chainlink-Avalanche-Fantom-and-One-Altcoin-Thats-Exploded-Over-700-in-Matter-of-Weeks",
+            "currencies": [
+                {
+                    "code": "AVAX",
+                    "title": "Avalanche",
+                    "slug": "avalanche-2",
+                    "url": "https:\/\/cryptopanic.com\/news\/avalanche-2\/"
+                },
+                {
+                    "code": "LINK",
+                    "title": "Chainlink",
+                    "slug": "chainlink",
+                    "url": "https:\/\/cryptopanic.com\/news\/chainlink\/"
+                },
+                {
+                    "code": "FTM",
+                    "title": "Fantom",
+                    "slug": "fantom",
+                    "url": "https:\/\/cryptopanic.com\/news\/fantom\/"
+                }
+            ],
+            "id": 18890348,
+            "url": "https:\/\/cryptopanic.com\/news\/18890348\/Analyst-Updates-Outlook-on-Chainlink-Avalanche-Fantom-and-One-Altcoin-Thats-Exploded-Over-700-in-Matter-of-Weeks",
+            "created_at": "2023-09-09T00:00:09Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "Assessing the impact of Fantom\u2019s latest initiative on its network activity",
+            "published_at": "2023-09-06T07:30:47Z",
+            "slug": "Assessing-the-impact-of-Fantoms-latest-initiative-on-its-network-activity",
+            "currencies": [
+                {
+                    "code": "FTM",
+                    "title": "Fantom",
+                    "slug": "fantom",
+                    "url": "https:\/\/cryptopanic.com\/news\/fantom\/"
+                }
+            ],
+            "id": 18882551,
+            "url": "https:\/\/cryptopanic.com\/news\/18882551\/Assessing-the-impact-of-Fantoms-latest-initiative-on-its-network-activity",
+            "created_at": "2023-09-06T07:30:47Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "Crypto Wallet MetaMask Launches Sell to Fiat Feature",
+            "published_at": "2023-09-06T04:32:34Z",
+            "slug": "Crypto-Wallet-MetaMask-Launches-Sell-to-Fiat-Feature",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "FTM",
+                    "title": "Fantom",
+                    "slug": "fantom",
+                    "url": "https:\/\/cryptopanic.com\/news\/fantom\/"
+                }
+            ],
+            "id": 18882356,
+            "url": "https:\/\/cryptopanic.com\/news\/18882356\/Crypto-Wallet-MetaMask-Launches-Sell-to-Fiat-Feature",
+            "created_at": "2023-09-06T04:32:34Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "Fantom DEX volume surges, proves one exit is not the end",
+            "published_at": "2023-08-30T10:30:49Z",
+            "slug": "Fantom-DEX-volume-surges-proves-one-exit-is-not-the-end",
+            "currencies": [
+                {
+                    "code": "FTM",
+                    "title": "Fantom",
+                    "slug": "fantom",
+                    "url": "https:\/\/cryptopanic.com\/news\/fantom\/"
+                }
+            ],
+            "id": 18868624,
+            "url": "https:\/\/cryptopanic.com\/news\/18868624\/Fantom-DEX-volume-surges-proves-one-exit-is-not-the-end",
+            "created_at": "2023-08-30T10:30:49Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "dailyhodl.com",
+            "source": {
+                "title": "The Daily Hodl",
+                "region": "en",
+                "domain": "dailyhodl.com",
+                "path": null
+            },
+            "title": "Top US Crypto Exchange Coinbase Says It Will Axe Trading Support for Multichain (MULTI) and Five Other Altcoins",
+            "published_at": "2023-08-26T00:00:18Z",
+            "slug": "Top-US-Crypto-Exchange-Coinbase-Says-It-Will-Axe-Trading-Support-for-Multichain-MULTI-and-Five-Other-Altcoins",
+            "currencies": [
+                {
+                    "code": "FTM",
+                    "title": "Fantom",
+                    "slug": "fantom",
+                    "url": "https:\/\/cryptopanic.com\/news\/fantom\/"
+                }
+            ],
+            "id": 18860596,
+            "url": "https:\/\/cryptopanic.com\/news\/18860596\/Top-US-Crypto-Exchange-Coinbase-Says-It-Will-Axe-Trading-Support-for-Multichain-MULTI-and-Five-Other-Altcoins",
+            "created_at": "2023-08-26T00:00:18Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Fantom DEX SpiritSwap On The Verge Of Shutdown? Here\u2019s What Has Changed",
+            "published_at": "2023-08-17T09:10:29Z",
+            "slug": "Fantom-DEX-SpiritSwap-On-The-Verge-Of-Shutdown-Heres-What-Has-Changed",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "USDC",
+                    "title": "USD Coin",
+                    "slug": "usd-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/usd-coin\/"
+                },
+                {
+                    "code": "XLM",
+                    "title": "Stellar",
+                    "slug": "stellar",
+                    "url": "https:\/\/cryptopanic.com\/news\/stellar\/"
+                },
+                {
+                    "code": "FTM",
+                    "title": "Fantom",
+                    "slug": "fantom",
+                    "url": "https:\/\/cryptopanic.com\/news\/fantom\/"
+                }
+            ],
+            "id": 18842455,
+            "url": "https:\/\/cryptopanic.com\/news\/18842455\/Fantom-DEX-SpiritSwap-On-The-Verge-Of-Shutdown-Heres-What-Has-Changed",
+            "created_at": "2023-08-17T09:10:29Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cointelegraph.com",
+            "source": {
+                "title": "CoinTelegraph",
+                "region": "en",
+                "domain": "cointelegraph.com",
+                "path": null
+            },
+            "title": "Fantom DEX rescued at eleventh hour following planned shutdown",
+            "published_at": "2023-08-16T18:30:00Z",
+            "slug": "Fantom-DEX-rescued-at-eleventh-hour-following-planned-shutdown",
+            "currencies": [
+                {
+                    "code": "FTM",
+                    "title": "Fantom",
+                    "slug": "fantom",
+                    "url": "https:\/\/cryptopanic.com\/news\/fantom\/"
+                }
+            ],
+            "id": 18841416,
+            "url": "https:\/\/cryptopanic.com\/news\/18841416\/Fantom-DEX-rescued-at-eleventh-hour-following-planned-shutdown",
+            "created_at": "2023-08-16T18:30:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Voyager Sells 1.4 Trillion Shiba Inu, But There\u2019s Good News For SHIB",
+            "published_at": "2023-08-15T08:25:08Z",
+            "slug": "Voyager-Sells-14-Trillion-Shiba-Inu-But-Theres-Good-News-For-SHIB",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "MATIC",
+                    "title": "Polygon",
+                    "slug": "matic-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-network\/"
+                },
+                {
+                    "code": "SHIB",
+                    "title": "Shiba Inu",
+                    "slug": "shiba-inu",
+                    "url": "https:\/\/cryptopanic.com\/news\/shiba-inu\/"
+                },
+                {
+                    "code": "LINK",
+                    "title": "Chainlink",
+                    "slug": "chainlink",
+                    "url": "https:\/\/cryptopanic.com\/news\/chainlink\/"
+                },
+                {
+                    "code": "FTM",
+                    "title": "Fantom",
+                    "slug": "fantom",
+                    "url": "https:\/\/cryptopanic.com\/news\/fantom\/"
+                },
+                {
+                    "code": "MANA",
+                    "title": "Decentraland",
+                    "slug": "decentraland",
+                    "url": "https:\/\/cryptopanic.com\/news\/decentraland\/"
+                },
+                {
+                    "code": "GALA",
+                    "title": "GALA",
+                    "slug": "gala",
+                    "url": "https:\/\/cryptopanic.com\/news\/gala\/"
+                }
+            ],
+            "id": 18837691,
+            "url": "https:\/\/cryptopanic.com\/news\/18837691\/Voyager-Sells-14-Trillion-Shiba-Inu-But-Theres-Good-News-For-SHIB",
+            "created_at": "2023-08-15T08:25:08Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "Fantom retest yearly lows \u2013 when is recovery likely?",
+            "published_at": "2023-08-12T23:30:29Z",
+            "slug": "Fantom-retest-yearly-lows-when-is-recovery-likely",
+            "currencies": [
+                {
+                    "code": "FTM",
+                    "title": "Fantom",
+                    "slug": "fantom",
+                    "url": "https:\/\/cryptopanic.com\/news\/fantom\/"
+                }
+            ],
+            "id": 18834121,
+            "url": "https:\/\/cryptopanic.com\/news\/18834121\/Fantom-retest-yearly-lows-when-is-recovery-likely",
+            "created_at": "2023-08-12T23:30:29Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "dailyhodl.com",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 1,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 1,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "The Daily Hodl",
+                "region": "en",
+                "domain": "dailyhodl.com",
+                "path": null
+            },
+            "title": "Analyst Predicts One Memecoin Will Outperform Dogecoin and Shiba Inu, Updates Outlook on Polygon and Fantom",
+            "published_at": "2023-08-10T18:05:26Z",
+            "slug": "Analyst-Predicts-One-Memecoin-Will-Outperform-Dogecoin-and-Shiba-Inu-Updates-Outlook-on-Polygon-and-Fantom",
+            "currencies": [
+                {
+                    "code": "DOGE",
+                    "title": "Dogecoin",
+                    "slug": "dogecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/dogecoin\/"
+                },
+                {
+                    "code": "MATIC",
+                    "title": "Polygon",
+                    "slug": "matic-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-network\/"
+                },
+                {
+                    "code": "SHIB",
+                    "title": "Shiba Inu",
+                    "slug": "shiba-inu",
+                    "url": "https:\/\/cryptopanic.com\/news\/shiba-inu\/"
+                },
+                {
+                    "code": "FTM",
+                    "title": "Fantom",
+                    "slug": "fantom",
+                    "url": "https:\/\/cryptopanic.com\/news\/fantom\/"
+                },
+                {
+                    "code": "PEPE",
+                    "title": "Pepe",
+                    "slug": "pepe",
+                    "url": "https:\/\/cryptopanic.com\/news\/pepe\/"
+                }
+            ],
+            "id": 18830456,
+            "url": "https:\/\/cryptopanic.com\/news\/18830456\/Analyst-Predicts-One-Memecoin-Will-Outperform-Dogecoin-and-Shiba-Inu-Updates-Outlook-on-Polygon-and-Fantom",
+            "created_at": "2023-08-10T18:05:26Z"
+        },
+        {
+            "kind": "news",
+            "domain": "coinedition.com",
+            "source": {
+                "title": "coinedition",
+                "region": "en",
+                "domain": "coinedition.com",
+                "path": null
+            },
+            "title": "Bearish Momentum Grips FTM Market: Will Bulls Stage a Rally?",
+            "published_at": "2023-08-10T11:43:13Z",
+            "slug": "Bearish-Momentum-Grips-FTM-Market-Will-Bulls-Stage-a-Rally",
+            "currencies": [
+                {
+                    "code": "FTM",
+                    "title": "Fantom",
+                    "slug": "fantom",
+                    "url": "https:\/\/cryptopanic.com\/news\/fantom\/"
+                }
+            ],
+            "id": 18829490,
+            "url": "https:\/\/cryptopanic.com\/news\/18829490\/Bearish-Momentum-Grips-FTM-Market-Will-Bulls-Stage-a-Rally",
+            "created_at": "2023-08-10T11:43:13Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinedition.com",
+            "source": {
+                "title": "coinedition",
+                "region": "en",
+                "domain": "coinedition.com",
+                "path": null
+            },
+            "title": "SpiritSwap Announces Shutdown Following Multichain Exploit, Seeks New Team",
+            "published_at": "2023-08-10T02:23:00Z",
+            "slug": "SpiritSwap-Announces-Shutdown-Following-Multichain-Exploit-Seeks-New-Team",
+            "currencies": [
+                {
+                    "code": "FTM",
+                    "title": "Fantom",
+                    "slug": "fantom",
+                    "url": "https:\/\/cryptopanic.com\/news\/fantom\/"
+                }
+            ],
+            "id": 18828596,
+            "url": "https:\/\/cryptopanic.com\/news\/18828596\/SpiritSwap-Announces-Shutdown-Following-Multichain-Exploit-Seeks-New-Team",
+            "created_at": "2023-08-10T02:23:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "Fantom DEX forced to shut down after multichain incident",
+            "published_at": "2023-08-09T17:30:59Z",
+            "slug": "Fantom-DEX-forced-to-shut-down-after-multichain-incident",
+            "currencies": [
+                {
+                    "code": "FTM",
+                    "title": "Fantom",
+                    "slug": "fantom",
+                    "url": "https:\/\/cryptopanic.com\/news\/fantom\/"
+                }
+            ],
+            "id": 18827841,
+            "url": "https:\/\/cryptopanic.com\/news\/18827841\/Fantom-DEX-forced-to-shut-down-after-multichain-incident",
+            "created_at": "2023-08-09T17:30:59Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cointelegraph.com",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 1,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "CoinTelegraph",
+                "region": "en",
+                "domain": "cointelegraph.com",
+                "path": null
+            },
+            "title": "Another Fantom project winds down citing Multichain exposure",
+            "published_at": "2023-08-09T15:16:17Z",
+            "slug": "Another-Fantom-project-winds-down-citing-Multichain-exposure",
+            "currencies": [
+                {
+                    "code": "FTM",
+                    "title": "Fantom",
+                    "slug": "fantom",
+                    "url": "https:\/\/cryptopanic.com\/news\/fantom\/"
+                }
+            ],
+            "id": 18827526,
+            "url": "https:\/\/cryptopanic.com\/news\/18827526\/Another-Fantom-project-winds-down-citing-Multichain-exposure",
+            "created_at": "2023-08-09T15:16:17Z"
+        },
+        {
+            "kind": "news",
+            "domain": "theblock.co",
+            "votes": {
+                "negative": 1,
+                "positive": 1,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "The Block",
+                "region": "en",
+                "domain": "theblock.co",
+                "path": null
+            },
+            "title": "Fantom is exploring adding optimistic rollups to connect to Ethereum",
+            "published_at": "2023-08-09T14:13:00Z",
+            "slug": "Fantom-is-exploring-adding-optimistic-rollups-to-connect-to-Ethereum",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "FTM",
+                    "title": "Fantom",
+                    "slug": "fantom",
+                    "url": "https:\/\/cryptopanic.com\/news\/fantom\/"
+                }
+            ],
+            "id": 18827366,
+            "url": "https:\/\/cryptopanic.com\/news\/18827366\/Fantom-is-exploring-adding-optimistic-rollups-to-connect-to-Ethereum",
+            "created_at": "2023-08-09T14:13:00Z"
+        },
+        {
+            "kind": "news",
+            "domain": "coinspeaker.com",
+            "votes": {
+                "negative": 1,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "Coinspeaker",
+                "region": "en",
+                "domain": "coinspeaker.com",
+                "path": null
+            },
+            "title": "Backed Integrate Tokenized RWAs to Multiple Blockchains",
+            "published_at": "2023-08-09T14:00:27Z",
+            "slug": "Backed-Integrate-Tokenized-RWAs-to-Multiple-Blockchains",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "BNB",
+                    "title": "BNB",
+                    "slug": "binancecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/binancecoin\/"
+                },
+                {
+                    "code": "MATIC",
+                    "title": "Polygon",
+                    "slug": "matic-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-network\/"
+                },
+                {
+                    "code": "AVAX",
+                    "title": "Avalanche",
+                    "slug": "avalanche-2",
+                    "url": "https:\/\/cryptopanic.com\/news\/avalanche-2\/"
+                },
+                {
+                    "code": "LINK",
+                    "title": "Chainlink",
+                    "slug": "chainlink",
+                    "url": "https:\/\/cryptopanic.com\/news\/chainlink\/"
+                },
+                {
+                    "code": "ARB",
+                    "title": "Arbitrum",
+                    "slug": "arbitrum",
+                    "url": "https:\/\/cryptopanic.com\/news\/arbitrum\/"
+                },
+                {
+                    "code": "FTM",
+                    "title": "Fantom",
+                    "slug": "fantom",
+                    "url": "https:\/\/cryptopanic.com\/news\/fantom\/"
+                }
+            ],
+            "id": 18827308,
+            "url": "https:\/\/cryptopanic.com\/news\/18827308\/Backed-Integrate-Tokenized-RWAs-to-Multiple-Blockchains",
+            "created_at": "2023-08-09T14:00:27Z"
+        }
+    ]
+}

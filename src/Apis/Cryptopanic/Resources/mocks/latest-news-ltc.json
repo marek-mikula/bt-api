@@ -1,0 +1,971 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=LTC&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "coingabbar.com",
+            "source": {
+                "title": "coingabbar",
+                "region": "en",
+                "domain": "coingabbar.com",
+                "path": null
+            },
+            "title": "24 Crypto Update, 02 Oct: Crypto Market Plunges as Bears Take Control",
+            "published_at": "2023-10-03T01:30:00Z",
+            "slug": "24-Crypto-Update-02-Oct-Crypto-Market-Plunges-as-Bears-Take-Control",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "LTC",
+                    "title": "Litecoin",
+                    "slug": "litecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/litecoin\/"
+                },
+                {
+                    "code": "BSV",
+                    "title": "Bitcoin SV",
+                    "slug": "bitcoin-cash-sv",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin-cash-sv\/"
+                }
+            ],
+            "id": 18943697,
+            "url": "https:\/\/cryptopanic.com\/news\/18943697\/24-Crypto-Update-02-Oct-Crypto-Market-Plunges-as-Bears-Take-Control",
+            "created_at": "2023-10-03T01:30:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "I asked ChatGPT about Litecoin\u2019s prospects in Q4 2023, the bot showed optimism",
+            "published_at": "2023-10-01T14:22:00Z",
+            "slug": "I-asked-ChatGPT-about-Litecoins-prospects-in-Q4-2023-the-bot-showed-optimism",
+            "currencies": [
+                {
+                    "code": "LTC",
+                    "title": "Litecoin",
+                    "slug": "litecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/litecoin\/"
+                },
+                {
+                    "code": "OP",
+                    "title": "Optimism",
+                    "slug": "optimism",
+                    "url": "https:\/\/cryptopanic.com\/news\/optimism\/"
+                }
+            ],
+            "id": 18940325,
+            "url": "https:\/\/cryptopanic.com\/news\/18940325\/I-asked-ChatGPT-about-Litecoins-prospects-in-Q4-2023-the-bot-showed-optimism",
+            "created_at": "2023-10-01T14:22:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinjournal.net",
+            "source": {
+                "title": "CoinJournal",
+                "region": "en",
+                "domain": "coinjournal.net",
+                "path": null
+            },
+            "title": "Litecoin (LTC\/USD) price halved during the summer; what next?",
+            "published_at": "2023-09-30T10:23:05Z",
+            "slug": "Litecoin-LTCUSD-price-halved-during-the-summer-what-next",
+            "currencies": [
+                {
+                    "code": "LTC",
+                    "title": "Litecoin",
+                    "slug": "litecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/litecoin\/"
+                }
+            ],
+            "id": 18938922,
+            "url": "https:\/\/cryptopanic.com\/news\/18938922\/Litecoin-LTCUSD-price-halved-during-the-summer-what-next",
+            "created_at": "2023-09-30T10:23:05Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coingabbar.com",
+            "source": {
+                "title": "coingabbar",
+                "region": "en",
+                "domain": "coingabbar.com",
+                "path": null
+            },
+            "title": "24 Crypto Update, 29 Sep: Crypto market remained relatively stable",
+            "published_at": "2023-09-30T01:30:00Z",
+            "slug": "24-Crypto-Update-29-Sep-Crypto-market-remained-relatively-stable",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "USDC",
+                    "title": "USDC",
+                    "slug": "usd-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/usd-coin\/"
+                },
+                {
+                    "code": "MATIC",
+                    "title": "Polygon",
+                    "slug": "matic-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-network\/"
+                },
+                {
+                    "code": "LTC",
+                    "title": "Litecoin",
+                    "slug": "litecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/litecoin\/"
+                },
+                {
+                    "code": "MKR",
+                    "title": "Maker",
+                    "slug": "maker",
+                    "url": "https:\/\/cryptopanic.com\/news\/maker\/"
+                },
+                {
+                    "code": "FLOW",
+                    "title": "Flow",
+                    "slug": "flow",
+                    "url": "https:\/\/cryptopanic.com\/news\/flow\/"
+                },
+                {
+                    "code": "GALA",
+                    "title": "GALA",
+                    "slug": "gala",
+                    "url": "https:\/\/cryptopanic.com\/news\/gala\/"
+                }
+            ],
+            "id": 18938693,
+            "url": "https:\/\/cryptopanic.com\/news\/18938693\/24-Crypto-Update-29-Sep-Crypto-market-remained-relatively-stable",
+            "created_at": "2023-09-30T01:30:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "Can This Litecoin (LTC) Price Pattern Lead to 25% Increase?",
+            "published_at": "2023-09-29T10:00:00Z",
+            "slug": "Can-This-Litecoin-LTC-Price-Pattern-Lead-to-25-Increase",
+            "currencies": [
+                {
+                    "code": "LTC",
+                    "title": "Litecoin",
+                    "slug": "litecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/litecoin\/"
+                }
+            ],
+            "id": 18936995,
+            "url": "https:\/\/cryptopanic.com\/news\/18936995\/Can-This-Litecoin-LTC-Price-Pattern-Lead-to-25-Increase",
+            "created_at": "2023-09-29T10:00:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinspeaker.com",
+            "source": {
+                "title": "Coinspeaker",
+                "region": "en",
+                "domain": "coinspeaker.com",
+                "path": null
+            },
+            "title": "PayPal Files Patent Application for NFT Purchase and Transfer",
+            "published_at": "2023-09-29T07:48:05Z",
+            "slug": "PayPal-Files-Patent-Application-for-NFT-Purchase-and-Transfer",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "LTC",
+                    "title": "Litecoin",
+                    "slug": "litecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/litecoin\/"
+                }
+            ],
+            "id": 18936452,
+            "url": "https:\/\/cryptopanic.com\/news\/18936452\/PayPal-Files-Patent-Application-for-NFT-Purchase-and-Transfer",
+            "created_at": "2023-09-29T07:48:05Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coingabbar.com",
+            "source": {
+                "title": "coingabbar",
+                "region": "en",
+                "domain": "coingabbar.com",
+                "path": null
+            },
+            "title": "24 Crypto Update, 28 Sep: Crypto market experiences a bull run",
+            "published_at": "2023-09-29T01:30:00Z",
+            "slug": "24-Crypto-Update-28-Sep-Crypto-market-experiences-a-bull-run",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                },
+                {
+                    "code": "LTC",
+                    "title": "Litecoin",
+                    "slug": "litecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/litecoin\/"
+                }
+            ],
+            "id": 18936350,
+            "url": "https:\/\/cryptopanic.com\/news\/18936350\/24-Crypto-Update-28-Sep-Crypto-market-experiences-a-bull-run",
+            "created_at": "2023-09-29T01:30:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "livebitcoinnews.com",
+            "source": {
+                "title": "Live Bitcoin News",
+                "region": "en",
+                "domain": "livebitcoinnews.com",
+                "path": null
+            },
+            "title": "Litecoin (LTC) Price Analysis: Uptrend At Risk Below $62",
+            "published_at": "2023-09-28T04:18:37Z",
+            "slug": "Litecoin-LTC-Price-Analysis-Uptrend-At-Risk-Below-62",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "LTC",
+                    "title": "Litecoin",
+                    "slug": "litecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/litecoin\/"
+                }
+            ],
+            "id": 18933517,
+            "url": "https:\/\/cryptopanic.com\/news\/18933517\/Litecoin-LTC-Price-Analysis-Uptrend-At-Risk-Below-62",
+            "created_at": "2023-09-28T04:18:37Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coingabbar.com",
+            "source": {
+                "title": "coingabbar",
+                "region": "en",
+                "domain": "coingabbar.com",
+                "path": null
+            },
+            "title": "24 Crypto Update, 27 Sep: Crypto market experiences a surge in buying",
+            "published_at": "2023-09-28T01:30:00Z",
+            "slug": "24-Crypto-Update-27-Sep-Crypto-market-experiences-a-surge-in-buying",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "LTC",
+                    "title": "Litecoin",
+                    "slug": "litecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/litecoin\/"
+                },
+                {
+                    "code": "BCH",
+                    "title": "Bitcoin Cash",
+                    "slug": "bitcoin-cash",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin-cash\/"
+                }
+            ],
+            "id": 18933625,
+            "url": "https:\/\/cryptopanic.com\/news\/18933625\/24-Crypto-Update-27-Sep-Crypto-market-experiences-a-surge-in-buying",
+            "created_at": "2023-09-28T01:30:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptoglobe.com",
+            "source": {
+                "title": "CryptoGlobe",
+                "region": "en",
+                "domain": "cryptoglobe.com",
+                "path": null
+            },
+            "title": "Crypto Outflows Continue as $LTC, $XRP, and $SOL Buck the Trend",
+            "published_at": "2023-09-28T00:00:00Z",
+            "slug": "Crypto-Outflows-Continue-as-LTC-XRP-and-SOL-Buck-the-Trend",
+            "currencies": [
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                },
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "LTC",
+                    "title": "Litecoin",
+                    "slug": "litecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/litecoin\/"
+                }
+            ],
+            "id": 18933294,
+            "url": "https:\/\/cryptopanic.com\/news\/18933294\/Crypto-Outflows-Continue-as-LTC-XRP-and-SOL-Buck-the-Trend",
+            "created_at": "2023-09-28T00:00:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "medium.com",
+            "source": {
+                "title": "Decred Blog",
+                "region": "en",
+                "domain": "medium.com",
+                "path": null
+            },
+            "title": "Decred Journal\u200a\u2014\u200aAugust 2023",
+            "published_at": "2023-09-26T15:14:45Z",
+            "slug": "Decred-Journal-August-2023",
+            "currencies": [
+                {
+                    "code": "DCR",
+                    "title": "Decred",
+                    "slug": "decred",
+                    "url": "https:\/\/cryptopanic.com\/news\/decred\/"
+                },
+                {
+                    "code": "LTC",
+                    "title": "Litecoin",
+                    "slug": "litecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/litecoin\/"
+                },
+                {
+                    "code": "BCH",
+                    "title": "Bitcoin Cash",
+                    "slug": "bitcoin-cash",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin-cash\/"
+                },
+                {
+                    "code": "UNI",
+                    "title": "Uniswap",
+                    "slug": "uniswap",
+                    "url": "https:\/\/cryptopanic.com\/news\/uniswap\/"
+                },
+                {
+                    "code": "XMR",
+                    "title": "Monero",
+                    "slug": "monero",
+                    "url": "https:\/\/cryptopanic.com\/news\/monero\/"
+                },
+                {
+                    "code": "MKR",
+                    "title": "Maker",
+                    "slug": "maker",
+                    "url": "https:\/\/cryptopanic.com\/news\/maker\/"
+                },
+                {
+                    "code": "OP",
+                    "title": "Optimism",
+                    "slug": "optimism",
+                    "url": "https:\/\/cryptopanic.com\/news\/optimism\/"
+                }
+            ],
+            "id": 18929587,
+            "url": "https:\/\/cryptopanic.com\/news\/18929587\/Decred-Journal-August-2023",
+            "created_at": "2023-09-26T15:14:45Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "Litecoin (LTC) Price Could Break Above $80 if This Happens",
+            "published_at": "2023-09-26T11:00:00Z",
+            "slug": "Litecoin-LTC-Price-Could-Break-Above-80-if-This-Happens",
+            "currencies": [
+                {
+                    "code": "LTC",
+                    "title": "Litecoin",
+                    "slug": "litecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/litecoin\/"
+                }
+            ],
+            "id": 18929007,
+            "url": "https:\/\/cryptopanic.com\/news\/18929007\/Litecoin-LTC-Price-Could-Break-Above-80-if-This-Happens",
+            "created_at": "2023-09-26T11:00:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Cardano $0.24 Support Test: Can ADA Price Reverse Its Downward Trend?",
+            "published_at": "2023-09-26T10:45:06Z",
+            "slug": "Cardano-024-Support-Test-Can-ADA-Price-Reverse-Its-Downward-Trend",
+            "currencies": [
+                {
+                    "code": "ADA",
+                    "title": "Cardano",
+                    "slug": "cardano",
+                    "url": "https:\/\/cryptopanic.com\/news\/cardano\/"
+                },
+                {
+                    "code": "LTC",
+                    "title": "Litecoin",
+                    "slug": "litecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/litecoin\/"
+                }
+            ],
+            "id": 18928747,
+            "url": "https:\/\/cryptopanic.com\/news\/18928747\/Cardano-024-Support-Test-Can-ADA-Price-Reverse-Its-Downward-Trend",
+            "created_at": "2023-09-26T10:45:06Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinidol.com",
+            "source": {
+                "title": "Coin Idol",
+                "region": "en",
+                "domain": "coinidol.com",
+                "path": null
+            },
+            "title": "Litecoin Holds At $64 With Restrictions",
+            "published_at": "2023-09-26T08:04:00Z",
+            "slug": "Litecoin-Holds-At-64-With-Restrictions",
+            "currencies": [
+                {
+                    "code": "LTC",
+                    "title": "Litecoin",
+                    "slug": "litecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/litecoin\/"
+                }
+            ],
+            "id": 18928848,
+            "url": "https:\/\/cryptopanic.com\/news\/18928848\/Litecoin-Holds-At-64-With-Restrictions",
+            "created_at": "2023-09-26T08:04:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "Join Blockchain Life 2023 in Dubai \u2013 The Crypto Event of the Year",
+            "published_at": "2023-09-26T07:14:08Z",
+            "slug": "Join-Blockchain-Life-2023-in-Dubai-The-Crypto-Event-of-the-Year",
+            "currencies": [
+                {
+                    "code": "LTC",
+                    "title": "Litecoin",
+                    "slug": "litecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/litecoin\/"
+                }
+            ],
+            "id": 18928369,
+            "url": "https:\/\/cryptopanic.com\/news\/18928369\/Join-Blockchain-Life-2023-in-Dubai-The-Crypto-Event-of-the-Year",
+            "created_at": "2023-09-26T07:14:08Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Litecoin Stuck In A Rut: Will Bullish Momentum Or Bearish Pressure Prevail?",
+            "published_at": "2023-09-26T06:11:37Z",
+            "slug": "Litecoin-Stuck-In-A-Rut-Will-Bullish-Momentum-Or-Bearish-Pressure-Prevail",
+            "currencies": [
+                {
+                    "code": "DOGE",
+                    "title": "Dogecoin",
+                    "slug": "dogecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/dogecoin\/"
+                },
+                {
+                    "code": "LTC",
+                    "title": "Litecoin",
+                    "slug": "litecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/litecoin\/"
+                }
+            ],
+            "id": 18928150,
+            "url": "https:\/\/cryptopanic.com\/news\/18928150\/Litecoin-Stuck-In-A-Rut-Will-Bullish-Momentum-Or-Bearish-Pressure-Prevail",
+            "created_at": "2023-09-26T06:11:37Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coingabbar.com",
+            "source": {
+                "title": "coingabbar",
+                "region": "en",
+                "domain": "coingabbar.com",
+                "path": null
+            },
+            "title": "24 Crypto Update, 25 Sep: Bitcoin crosses $26K; Altcoins varied",
+            "published_at": "2023-09-26T01:30:00Z",
+            "slug": "24-Crypto-Update-25-Sep-Bitcoin-crosses-26K-Altcoins-varied",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                },
+                {
+                    "code": "LTC",
+                    "title": "Litecoin",
+                    "slug": "litecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/litecoin\/"
+                },
+                {
+                    "code": "ALGO",
+                    "title": "Algorand",
+                    "slug": "algorand",
+                    "url": "https:\/\/cryptopanic.com\/news\/algorand\/"
+                },
+                {
+                    "code": "FRAX",
+                    "title": "Frax",
+                    "slug": "frax",
+                    "url": "https:\/\/cryptopanic.com\/news\/frax\/"
+                },
+                {
+                    "code": "FXS",
+                    "title": "Frax Share",
+                    "slug": "frax-share",
+                    "url": "https:\/\/cryptopanic.com\/news\/frax-share\/"
+                }
+            ],
+            "id": 18928163,
+            "url": "https:\/\/cryptopanic.com\/news\/18928163\/24-Crypto-Update-25-Sep-Bitcoin-crosses-26K-Altcoins-varied",
+            "created_at": "2023-09-26T01:30:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "Litecoin\u2019s range movement persists: Will LTC sellers give up control?",
+            "published_at": "2023-09-25T23:30:36Z",
+            "slug": "Litecoins-range-movement-persists-Will-LTC-sellers-give-up-control",
+            "currencies": [
+                {
+                    "code": "LTC",
+                    "title": "Litecoin",
+                    "slug": "litecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/litecoin\/"
+                }
+            ],
+            "id": 18927786,
+            "url": "https:\/\/cryptopanic.com\/news\/18927786\/Litecoins-range-movement-persists-Will-LTC-sellers-give-up-control",
+            "created_at": "2023-09-25T23:30:36Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coingabbar.com",
+            "source": {
+                "title": "coingabbar",
+                "region": "en",
+                "domain": "coingabbar.com",
+                "path": null
+            },
+            "title": "24 Crypto Update, 24 Sep: The global crypto market traded in the red",
+            "published_at": "2023-09-25T01:30:00Z",
+            "slug": "24-Crypto-Update-24-Sep-The-global-crypto-market-traded-in-the-red",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                },
+                {
+                    "code": "TON",
+                    "title": "Toncoin",
+                    "slug": "the-open-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/the-open-network\/"
+                },
+                {
+                    "code": "LTC",
+                    "title": "Litecoin",
+                    "slug": "litecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/litecoin\/"
+                },
+                {
+                    "code": "LINK",
+                    "title": "Chainlink",
+                    "slug": "chainlink",
+                    "url": "https:\/\/cryptopanic.com\/news\/chainlink\/"
+                },
+                {
+                    "code": "APT",
+                    "title": "Aptos",
+                    "slug": "aptos",
+                    "url": "https:\/\/cryptopanic.com\/news\/aptos\/"
+                },
+                {
+                    "code": "CRV",
+                    "title": "Curve DAO",
+                    "slug": "curve-dao-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/curve-dao-token\/"
+                }
+            ],
+            "id": 18925620,
+            "url": "https:\/\/cryptopanic.com\/news\/18925620\/24-Crypto-Update-24-Sep-The-global-crypto-market-traded-in-the-red",
+            "created_at": "2023-09-25T01:30:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "I asked ChatGPT about Litecoin\u2019s future as bulls and bears continue to tussle",
+            "published_at": "2023-09-24T14:22:26Z",
+            "slug": "I-asked-ChatGPT-about-Litecoins-future-as-bulls-and-bears-continue-to-tussle",
+            "currencies": [
+                {
+                    "code": "LTC",
+                    "title": "Litecoin",
+                    "slug": "litecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/litecoin\/"
+                }
+            ],
+            "id": 18924776,
+            "url": "https:\/\/cryptopanic.com\/news\/18924776\/I-asked-ChatGPT-about-Litecoins-future-as-bulls-and-bears-continue-to-tussle",
+            "created_at": "2023-09-24T14:22:26Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

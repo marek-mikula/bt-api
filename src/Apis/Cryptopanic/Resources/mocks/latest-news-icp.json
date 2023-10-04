@@ -1,0 +1,1037 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=ICP&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "cryptodaily.co.uk",
+            "source": {
+                "title": "CryptoDaily",
+                "region": "en",
+                "domain": "cryptodaily.co.uk",
+                "path": null
+            },
+            "title": "DFINITY\u2019s $20M Grant Program To Drive Web3 Adoption In Asia",
+            "published_at": "2023-09-29T11:40:07Z",
+            "slug": "DFINITYs-20M-Grant-Program-To-Drive-Web3-Adoption-In-Asia",
+            "currencies": [
+                {
+                    "code": "ICP",
+                    "title": "Internet Computer",
+                    "slug": "internet-computer",
+                    "url": "https:\/\/cryptopanic.com\/news\/internet-computer\/"
+                }
+            ],
+            "id": 18937087,
+            "url": "https:\/\/cryptopanic.com\/news\/18937087\/DFINITYs-20M-Grant-Program-To-Drive-Web3-Adoption-In-Asia",
+            "created_at": "2023-09-29T11:40:07Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "DFINITY Foundation Launches $20M ICP Asia Alliance Web3 Incubator",
+            "published_at": "2023-09-29T07:45:00Z",
+            "slug": "DFINITY-Foundation-Launches-20M-ICP-Asia-Alliance-Web3-Incubator",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ICP",
+                    "title": "Internet Computer",
+                    "slug": "internet-computer",
+                    "url": "https:\/\/cryptopanic.com\/news\/internet-computer\/"
+                }
+            ],
+            "id": 18936574,
+            "url": "https:\/\/cryptopanic.com\/news\/18936574\/DFINITY-Foundation-Launches-20M-ICP-Asia-Alliance-Web3-Incubator",
+            "created_at": "2023-09-29T07:45:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Swiss Web3 Tornado",
+            "published_at": "2023-09-26T15:07:05Z",
+            "slug": "Swiss-Web3-Tornado",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ICP",
+                    "title": "Internet Computer",
+                    "slug": "internet-computer",
+                    "url": "https:\/\/cryptopanic.com\/news\/internet-computer\/"
+                }
+            ],
+            "id": 18929544,
+            "url": "https:\/\/cryptopanic.com\/news\/18929544\/Swiss-Web3-Tornado",
+            "created_at": "2023-09-26T15:07:05Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "feeds2.benzinga.com",
+            "source": {
+                "title": "Benzinga",
+                "region": "en",
+                "domain": "feeds2.benzinga.com",
+                "path": null
+            },
+            "title": "Cryptocurrency Internet Computer Falls More Than 3% In 24 hours",
+            "published_at": "2023-09-21T19:00:39Z",
+            "slug": "Cryptocurrency-Internet-Computer-Falls-More-Than-3-In-24-hours",
+            "currencies": [
+                {
+                    "code": "ICP",
+                    "title": "Internet Computer",
+                    "slug": "internet-computer",
+                    "url": "https:\/\/cryptopanic.com\/news\/internet-computer\/"
+                }
+            ],
+            "id": 18920119,
+            "url": "https:\/\/cryptopanic.com\/news\/18920119\/Cryptocurrency-Internet-Computer-Falls-More-Than-3-In-24-hours",
+            "created_at": "2023-09-21T19:00:39Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinedition.com",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "coinedition",
+                "region": "en",
+                "domain": "coinedition.com",
+                "path": null
+            },
+            "title": "ICP\u2019s Bullish Surge Faces Strong Resistance as Momentum Fades",
+            "published_at": "2023-09-07T14:30:00Z",
+            "slug": "ICPs-Bullish-Surge-Faces-Strong-Resistance-as-Momentum-Fades",
+            "currencies": [
+                {
+                    "code": "ICP",
+                    "title": "Internet Computer",
+                    "slug": "internet-computer",
+                    "url": "https:\/\/cryptopanic.com\/news\/internet-computer\/"
+                }
+            ],
+            "id": 18886670,
+            "url": "https:\/\/cryptopanic.com\/news\/18886670\/ICPs-Bullish-Surge-Faces-Strong-Resistance-as-Momentum-Fades",
+            "created_at": "2023-09-07T14:30:00Z"
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "Harvard Scholar Urges Immediate Taxation of Metaverse",
+            "published_at": "2023-09-05T04:56:37Z",
+            "slug": "Harvard-Scholar-Urges-Immediate-Taxation-of-Metaverse",
+            "currencies": [
+                {
+                    "code": "ICP",
+                    "title": "Internet Computer",
+                    "slug": "internet-computer",
+                    "url": "https:\/\/cryptopanic.com\/news\/internet-computer\/"
+                }
+            ],
+            "id": 18879757,
+            "url": "https:\/\/cryptopanic.com\/news\/18879757\/Harvard-Scholar-Urges-Immediate-Taxation-of-Metaverse",
+            "created_at": "2023-09-05T04:56:37Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "votes": {
+                "negative": 1,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Binance Will Halt These 39 Liquidity Mining Pools This Week",
+            "published_at": "2023-08-28T19:00:36Z",
+            "slug": "Binance-Will-Halt-These-39-Liquidity-Mining-Pools-This-Week",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "BNB",
+                    "title": "BNB",
+                    "slug": "binancecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/binancecoin\/"
+                },
+                {
+                    "code": "ADA",
+                    "title": "Cardano",
+                    "slug": "cardano",
+                    "url": "https:\/\/cryptopanic.com\/news\/cardano\/"
+                },
+                {
+                    "code": "TRX",
+                    "title": "TRON",
+                    "slug": "tron",
+                    "url": "https:\/\/cryptopanic.com\/news\/tron\/"
+                },
+                {
+                    "code": "DOT",
+                    "title": "Polkadot",
+                    "slug": "polkadot",
+                    "url": "https:\/\/cryptopanic.com\/news\/polkadot\/"
+                },
+                {
+                    "code": "MATIC",
+                    "title": "Polygon",
+                    "slug": "matic-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-network\/"
+                },
+                {
+                    "code": "WBTC",
+                    "title": "Wrapped Bitcoin",
+                    "slug": "wrapped-bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-bitcoin\/"
+                },
+                {
+                    "code": "AVAX",
+                    "title": "Avalanche",
+                    "slug": "avalanche-2",
+                    "url": "https:\/\/cryptopanic.com\/news\/avalanche-2\/"
+                },
+                {
+                    "code": "XMR",
+                    "title": "Monero",
+                    "slug": "monero",
+                    "url": "https:\/\/cryptopanic.com\/news\/monero\/"
+                },
+                {
+                    "code": "ICP",
+                    "title": "Internet Computer",
+                    "slug": "internet-computer",
+                    "url": "https:\/\/cryptopanic.com\/news\/internet-computer\/"
+                },
+                {
+                    "code": "FIL",
+                    "title": "Filecoin",
+                    "slug": "filecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/filecoin\/"
+                },
+                {
+                    "code": "THETA",
+                    "title": "Theta Network",
+                    "slug": "theta-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/theta-token\/"
+                },
+                {
+                    "code": "APE",
+                    "title": "ApeCoin",
+                    "slug": "apecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/apecoin\/"
+                },
+                {
+                    "code": "NEO",
+                    "title": "NEO",
+                    "slug": "neo",
+                    "url": "https:\/\/cryptopanic.com\/news\/neo\/"
+                },
+                {
+                    "code": "GALA",
+                    "title": "GALA",
+                    "slug": "gala",
+                    "url": "https:\/\/cryptopanic.com\/news\/gala\/"
+                },
+                {
+                    "code": "PAXG",
+                    "title": "PAX Gold",
+                    "slug": "pax-gold",
+                    "url": "https:\/\/cryptopanic.com\/news\/pax-gold\/"
+                },
+                {
+                    "code": "CHZ",
+                    "title": "Chiliz",
+                    "slug": "chiliz",
+                    "url": "https:\/\/cryptopanic.com\/news\/chiliz\/"
+                },
+                {
+                    "code": "PEPE",
+                    "title": "Pepe",
+                    "slug": "pepe",
+                    "url": "https:\/\/cryptopanic.com\/news\/pepe\/"
+                }
+            ],
+            "id": 18864662,
+            "url": "https:\/\/cryptopanic.com\/news\/18864662\/Binance-Will-Halt-These-39-Liquidity-Mining-Pools-This-Week",
+            "created_at": "2023-08-28T19:00:36Z"
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "The Aftermath: Fate of Cryptos Deemed Securities by the SEC",
+            "published_at": "2023-08-25T14:54:55Z",
+            "slug": "The-Aftermath-Fate-of-Cryptos-Deemed-Securities-by-the-SEC",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                },
+                {
+                    "code": "ADA",
+                    "title": "Cardano",
+                    "slug": "cardano",
+                    "url": "https:\/\/cryptopanic.com\/news\/cardano\/"
+                },
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "MATIC",
+                    "title": "Polygon",
+                    "slug": "matic-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-network\/"
+                },
+                {
+                    "code": "BUSD",
+                    "title": "Binance USD",
+                    "slug": "binance-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/binance-usd\/"
+                },
+                {
+                    "code": "ATOM",
+                    "title": "Cosmos Hub",
+                    "slug": "cosmos",
+                    "url": "https:\/\/cryptopanic.com\/news\/cosmos\/"
+                },
+                {
+                    "code": "ICP",
+                    "title": "Internet Computer",
+                    "slug": "internet-computer",
+                    "url": "https:\/\/cryptopanic.com\/news\/internet-computer\/"
+                },
+                {
+                    "code": "FIL",
+                    "title": "Filecoin",
+                    "slug": "filecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/filecoin\/"
+                },
+                {
+                    "code": "NEAR",
+                    "title": "NEAR Protocol",
+                    "slug": "near",
+                    "url": "https:\/\/cryptopanic.com\/news\/near\/"
+                },
+                {
+                    "code": "ALGO",
+                    "title": "Algorand",
+                    "slug": "algorand",
+                    "url": "https:\/\/cryptopanic.com\/news\/algorand\/"
+                },
+                {
+                    "code": "SAND",
+                    "title": "The Sandbox",
+                    "slug": "the-sandbox",
+                    "url": "https:\/\/cryptopanic.com\/news\/the-sandbox\/"
+                },
+                {
+                    "code": "AXS",
+                    "title": "Axie Infinity",
+                    "slug": "axie-infinity",
+                    "url": "https:\/\/cryptopanic.com\/news\/axie-infinity\/"
+                },
+                {
+                    "code": "MANA",
+                    "title": "Decentraland",
+                    "slug": "decentraland",
+                    "url": "https:\/\/cryptopanic.com\/news\/decentraland\/"
+                },
+                {
+                    "code": "FLOW",
+                    "title": "Flow",
+                    "slug": "flow",
+                    "url": "https:\/\/cryptopanic.com\/news\/flow\/"
+                }
+            ],
+            "id": 18859934,
+            "url": "https:\/\/cryptopanic.com\/news\/18859934\/The-Aftermath-Fate-of-Cryptos-Deemed-Securities-by-the-SEC",
+            "created_at": "2023-08-25T14:54:55Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinedition.com",
+            "source": {
+                "title": "coinedition",
+                "region": "en",
+                "domain": "coinedition.com",
+                "path": null
+            },
+            "title": "ICP, AXS May Experience Price Breakouts in the Next Few Weeks",
+            "published_at": "2023-08-25T10:21:17Z",
+            "slug": "ICP-AXS-May-Experience-Price-Breakouts-in-the-Next-Few-Weeks",
+            "currencies": [
+                {
+                    "code": "ICP",
+                    "title": "Internet Computer",
+                    "slug": "internet-computer",
+                    "url": "https:\/\/cryptopanic.com\/news\/internet-computer\/"
+                },
+                {
+                    "code": "AXS",
+                    "title": "Axie Infinity",
+                    "slug": "axie-infinity",
+                    "url": "https:\/\/cryptopanic.com\/news\/axie-infinity\/"
+                }
+            ],
+            "id": 18859031,
+            "url": "https:\/\/cryptopanic.com\/news\/18859031\/ICP-AXS-May-Experience-Price-Breakouts-in-the-Next-Few-Weeks",
+            "created_at": "2023-08-25T10:21:17Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "These 3 Altcoins Hit All-Time Lows Today",
+            "published_at": "2023-08-18T20:00:00Z",
+            "slug": "These-3-Altcoins-Hit-All-Time-Lows-Today",
+            "currencies": [
+                {
+                    "code": "ICP",
+                    "title": "Internet Computer",
+                    "slug": "internet-computer",
+                    "url": "https:\/\/cryptopanic.com\/news\/internet-computer\/"
+                },
+                {
+                    "code": "APE",
+                    "title": "ApeCoin",
+                    "slug": "apecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/apecoin\/"
+                },
+                {
+                    "code": "SUI",
+                    "title": "Sui",
+                    "slug": "sui",
+                    "url": "https:\/\/cryptopanic.com\/news\/sui\/"
+                }
+            ],
+            "id": 18846737,
+            "url": "https:\/\/cryptopanic.com\/news\/18846737\/These-3-Altcoins-Hit-All-Time-Lows-Today",
+            "created_at": "2023-08-18T20:00:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptonews.com",
+            "votes": {
+                "negative": 0,
+                "positive": 2,
+                "important": 0,
+                "liked": 2,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "Cryptonews",
+                "region": "en",
+                "domain": "cryptonews.com",
+                "path": null
+            },
+            "title": "Lomesh Dutta, VP of Growth at DFINITY, on Internet Computer, Bitcoin DeFi, and ckBTC | Ep. 252",
+            "published_at": "2023-08-01T16:10:00Z",
+            "slug": "Lomesh-Dutta-VP-of-Growth-at-DFINITY-on-Internet-Computer-Bitcoin-DeFi-and-ckBTC-Ep-252",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ICP",
+                    "title": "Internet Computer",
+                    "slug": "internet-computer",
+                    "url": "https:\/\/cryptopanic.com\/news\/internet-computer\/"
+                }
+            ],
+            "id": 18810359,
+            "url": "https:\/\/cryptopanic.com\/news\/18810359\/Lomesh-Dutta-VP-of-Growth-at-DFINITY-on-Internet-Computer-Bitcoin-DeFi-and-ckBTC-Ep-252",
+            "created_at": "2023-08-01T16:10:00Z"
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Cardano (ADA) Price Remains Muted Despite Significant Milestones, Why?",
+            "published_at": "2023-07-28T23:00:32Z",
+            "slug": "Cardano-ADA-Price-Remains-Muted-Despite-Significant-Milestones-Why",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "ADA",
+                    "title": "Cardano",
+                    "slug": "cardano",
+                    "url": "https:\/\/cryptopanic.com\/news\/cardano\/"
+                },
+                {
+                    "code": "DOGE",
+                    "title": "Dogecoin",
+                    "slug": "dogecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/dogecoin\/"
+                },
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "DOT",
+                    "title": "Polkadot",
+                    "slug": "polkadot",
+                    "url": "https:\/\/cryptopanic.com\/news\/polkadot\/"
+                },
+                {
+                    "code": "ATOM",
+                    "title": "Cosmos Hub",
+                    "slug": "cosmos",
+                    "url": "https:\/\/cryptopanic.com\/news\/cosmos\/"
+                },
+                {
+                    "code": "ICP",
+                    "title": "Internet Computer",
+                    "slug": "internet-computer",
+                    "url": "https:\/\/cryptopanic.com\/news\/internet-computer\/"
+                },
+                {
+                    "code": "HBAR",
+                    "title": "Hedera",
+                    "slug": "hedera-hashgraph",
+                    "url": "https:\/\/cryptopanic.com\/news\/hedera-hashgraph\/"
+                },
+                {
+                    "code": "MANA",
+                    "title": "Decentraland",
+                    "slug": "decentraland",
+                    "url": "https:\/\/cryptopanic.com\/news\/decentraland\/"
+                }
+            ],
+            "id": 18803825,
+            "url": "https:\/\/cryptopanic.com\/news\/18803825\/Cardano-ADA-Price-Remains-Muted-Despite-Significant-Milestones-Why",
+            "created_at": "2023-07-28T23:00:32Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "feeds2.benzinga.com",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "Benzinga",
+                "region": "en",
+                "domain": "feeds2.benzinga.com",
+                "path": null
+            },
+            "title": "Cryptocurrency Internet Computer Rises More Than 6% In 24 hours",
+            "published_at": "2023-07-28T15:00:37Z",
+            "slug": "Cryptocurrency-Internet-Computer-Rises-More-Than-6-In-24-hours",
+            "currencies": [
+                {
+                    "code": "ICP",
+                    "title": "Internet Computer",
+                    "slug": "internet-computer",
+                    "url": "https:\/\/cryptopanic.com\/news\/internet-computer\/"
+                }
+            ],
+            "id": 18803083,
+            "url": "https:\/\/cryptopanic.com\/news\/18803083\/Cryptocurrency-Internet-Computer-Rises-More-Than-6-In-24-hours",
+            "created_at": "2023-07-28T15:00:37Z"
+        },
+        {
+            "kind": "news",
+            "domain": "coinedition.com",
+            "source": {
+                "title": "coinedition",
+                "region": "en",
+                "domain": "coinedition.com",
+                "path": null
+            },
+            "title": "ICP Bearish Dive Paves the Way for Potential Bullish Reversal",
+            "published_at": "2023-07-18T12:05:00Z",
+            "slug": "ICP-Bearish-Dive-Paves-the-Way-for-Potential-Bullish-Reversal",
+            "currencies": [
+                {
+                    "code": "ICP",
+                    "title": "Internet Computer",
+                    "slug": "internet-computer",
+                    "url": "https:\/\/cryptopanic.com\/news\/internet-computer\/"
+                }
+            ],
+            "id": 18781210,
+            "url": "https:\/\/cryptopanic.com\/news\/18781210\/ICP-Bearish-Dive-Paves-the-Way-for-Potential-Bullish-Reversal",
+            "created_at": "2023-07-18T12:05:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cointelegraph.com",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 2,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "CoinTelegraph",
+                "region": "en",
+                "domain": "cointelegraph.com",
+                "path": null
+            },
+            "title": "Internet Computer will be a key alternative to AWS-like services \u2014 Dfinity exec",
+            "published_at": "2023-07-18T10:58:20Z",
+            "slug": "Internet-Computer-will-be-a-key-alternative-to-AWS-like-services-Dfinity-exec",
+            "currencies": [
+                {
+                    "code": "ICP",
+                    "title": "Internet Computer",
+                    "slug": "internet-computer",
+                    "url": "https:\/\/cryptopanic.com\/news\/internet-computer\/"
+                }
+            ],
+            "id": 18780666,
+            "url": "https:\/\/cryptopanic.com\/news\/18780666\/Internet-Computer-will-be-a-key-alternative-to-AWS-like-services-Dfinity-exec",
+            "created_at": "2023-07-18T10:58:20Z"
+        },
+        {
+            "kind": "news",
+            "domain": "cryptonews.com",
+            "source": {
+                "title": "Cryptonews",
+                "region": "en",
+                "domain": "cryptonews.com",
+                "path": null
+            },
+            "title": "Today in Crypto: Gnosis Released Pay and Card Products, cLabs Proposes Migrating Celo to Layer 2 Built on Ethereum, Unstoppable Domains Adds ENS-based .eth Domains",
+            "published_at": "2023-07-17T15:00:00Z",
+            "slug": "Today-in-Crypto-Gnosis-Released-Pay-and-Card-Products-cLabs-Proposes-Migrating-Celo-to-Layer-2-Built-on-Ethereum-Unstoppable-Domains-Adds-ENS-based-eth-Domains",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "ICP",
+                    "title": "Internet Computer",
+                    "slug": "internet-computer",
+                    "url": "https:\/\/cryptopanic.com\/news\/internet-computer\/"
+                }
+            ],
+            "id": 18778957,
+            "url": "https:\/\/cryptopanic.com\/news\/18778957\/Today-in-Crypto-Gnosis-Released-Pay-and-Card-Products-cLabs-Proposes-Migrating-Celo-to-Layer-2-Built-on-Ethereum-Unstoppable-Domains-Adds-ENS-based-eth-Domains",
+            "created_at": "2023-07-17T15:00:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "decrypt.co",
+            "votes": {
+                "negative": 0,
+                "positive": 3,
+                "important": 0,
+                "liked": 2,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 1,
+                "comments": 0
+            },
+            "source": {
+                "title": "Decrypt",
+                "region": "en",
+                "domain": "decrypt.co",
+                "path": null
+            },
+            "title": "$5 Million Token Grant Will Fuel \u2018Decentralized AI\u2019 Development",
+            "published_at": "2023-07-17T12:01:06Z",
+            "slug": "5-Million-Token-Grant-Will-Fuel-Decentralized-AI-Development",
+            "currencies": [
+                {
+                    "code": "ICP",
+                    "title": "Internet Computer",
+                    "slug": "internet-computer",
+                    "url": "https:\/\/cryptopanic.com\/news\/internet-computer\/"
+                }
+            ],
+            "id": 18778505,
+            "url": "https:\/\/cryptopanic.com\/news\/18778505\/5-Million-Token-Grant-Will-Fuel-Decentralized-AI-Development",
+            "created_at": "2023-07-17T12:01:06Z"
+        },
+        {
+            "kind": "news",
+            "domain": "coinedition.com",
+            "source": {
+                "title": "coinedition",
+                "region": "en",
+                "domain": "coinedition.com",
+                "path": null
+            },
+            "title": "CoinMarketCap\u2019s Top Gainers Over Past 24 Hours",
+            "published_at": "2023-07-14T07:33:14Z",
+            "slug": "CoinMarketCaps-Top-Gainers-Over-Past-24-Hours",
+            "currencies": [
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                },
+                {
+                    "code": "TON",
+                    "title": "Toncoin",
+                    "slug": "the-open-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/the-open-network\/"
+                },
+                {
+                    "code": "ICP",
+                    "title": "Internet Computer",
+                    "slug": "internet-computer",
+                    "url": "https:\/\/cryptopanic.com\/news\/internet-computer\/"
+                },
+                {
+                    "code": "OP",
+                    "title": "Optimism",
+                    "slug": "optimism",
+                    "url": "https:\/\/cryptopanic.com\/news\/optimism\/"
+                },
+                {
+                    "code": "RUNE",
+                    "title": "THORChain",
+                    "slug": "thorchain",
+                    "url": "https:\/\/cryptopanic.com\/news\/thorchain\/"
+                }
+            ],
+            "id": 18773917,
+            "url": "https:\/\/cryptopanic.com\/news\/18773917\/CoinMarketCaps-Top-Gainers-Over-Past-24-Hours",
+            "created_at": "2023-07-14T07:33:14Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptonews.com",
+            "source": {
+                "title": "Cryptonews",
+                "region": "en",
+                "domain": "cryptonews.com",
+                "path": null
+            },
+            "title": "Today in Crypto: BNB Beacon Chain Upgrade Will Allow It to Halt New Block Production, Europe's First BTC ETF Set to Launch Next Month, Digital Yuan to be Used Offline, BitMEX Traders Can Form Guilds",
+            "published_at": "2023-07-13T15:00:00Z",
+            "slug": "Today-in-Crypto-BNB-Beacon-Chain-Upgrade-Will-Allow-It-to-Halt-New-Block-Production-Europes-First-BTC-ETF-Set-to-Launch-Next-Month-Digital-Yuan-to-be-Used-Offline-BitMEX-Traders-Can-Form-Guilds",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "BNB",
+                    "title": "BNB",
+                    "slug": "binancecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/binancecoin\/"
+                },
+                {
+                    "code": "MATIC",
+                    "title": "Polygon",
+                    "slug": "matic-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-network\/"
+                },
+                {
+                    "code": "ICP",
+                    "title": "Internet Computer",
+                    "slug": "internet-computer",
+                    "url": "https:\/\/cryptopanic.com\/news\/internet-computer\/"
+                }
+            ],
+            "id": 18772087,
+            "url": "https:\/\/cryptopanic.com\/news\/18772087\/Today-in-Crypto-BNB-Beacon-Chain-Upgrade-Will-Allow-It-to-Halt-New-Block-Production-Europes-First-BTC-ETF-Set-to-Launch-Next-Month-Digital-Yuan-to-be-Used-Offline-BitMEX-Traders-Can-Form-Guilds",
+            "created_at": "2023-07-13T15:00:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@dfinity",
+            "source": {
+                "title": "Dfinity [IOU] Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@dfinity"
+            },
+            "title": "Calling all gamers! \n\nHave you experienced the thrill of playing this mind-blowing, fully on-chain game built enti\u2026",
+            "published_at": "2023-07-12T04:00:00Z",
+            "slug": "Calling-all-gamers-Have-you-experienced-the-thrill-of-playing-this-mind-blowing-fully-on-chain-game-built-enti",
+            "currencies": [
+                {
+                    "code": "ICP",
+                    "title": "Internet Computer [IOU]",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "ICP",
+                    "title": "Internet Computer",
+                    "slug": "internet-computer",
+                    "url": "https:\/\/cryptopanic.com\/news\/internet-computer\/"
+                }
+            ],
+            "id": 18763771,
+            "url": "https:\/\/cryptopanic.com\/news\/18763771\/Calling-all-gamers-Have-you-experienced-the-thrill-of-playing-this-mind-blowing-fully-on-chain-game-built-enti",
+            "created_at": "2023-07-12T04:00:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

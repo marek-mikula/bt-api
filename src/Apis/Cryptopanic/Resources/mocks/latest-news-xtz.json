@@ -1,0 +1,881 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=XTZ&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "cryptodaily.co.uk",
+            "source": {
+                "title": "CryptoDaily",
+                "region": "en",
+                "domain": "cryptodaily.co.uk",
+                "path": null
+            },
+            "title": "Tezos Foundation backed Tezos Domains announces Gate.io listing with 500,000 $TED competition.",
+            "published_at": "2023-10-01T13:42:39Z",
+            "slug": "Tezos-Foundation-backed-Tezos-Domains-announces-Gateio-listing-with-500000-TED-competition",
+            "currencies": [
+                {
+                    "code": "XTZ",
+                    "title": "Tezos",
+                    "slug": "tezos",
+                    "url": "https:\/\/cryptopanic.com\/news\/tezos\/"
+                }
+            ],
+            "id": 18940287,
+            "url": "https:\/\/cryptopanic.com\/news\/18940287\/Tezos-Foundation-backed-Tezos-Domains-announces-Gateio-listing-with-500000-TED-competition",
+            "created_at": "2023-10-01T13:42:39Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "dailycoin.com",
+            "source": {
+                "title": "Dailycoin",
+                "region": "en",
+                "domain": "dailycoin.com",
+                "path": null
+            },
+            "title": "French Art Museum Unseals Van Gogh On-Chain Souvenir NFTs",
+            "published_at": "2023-09-29T16:05:00Z",
+            "slug": "French-Art-Museum-Unseals-Van-Gogh-On-Chain-Souvenir-NFTs",
+            "currencies": [
+                {
+                    "code": "XTZ",
+                    "title": "Tezos",
+                    "slug": "tezos",
+                    "url": "https:\/\/cryptopanic.com\/news\/tezos\/"
+                }
+            ],
+            "id": 18937811,
+            "url": "https:\/\/cryptopanic.com\/news\/18937811\/French-Art-Museum-Unseals-Van-Gogh-On-Chain-Souvenir-NFTs",
+            "created_at": "2023-09-29T16:05:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinspeaker.com",
+            "source": {
+                "title": "Coinspeaker",
+                "region": "en",
+                "domain": "coinspeaker.com",
+                "path": null
+            },
+            "title": "Mus\u00e9e d\u2019Orsay Embraces Crypto to Attract New Audiences",
+            "published_at": "2023-09-29T11:38:34Z",
+            "slug": "Musee-dOrsay-Embraces-Crypto-to-Attract-New-Audiences",
+            "currencies": [
+                {
+                    "code": "XTZ",
+                    "title": "Tezos",
+                    "slug": "tezos",
+                    "url": "https:\/\/cryptopanic.com\/news\/tezos\/"
+                }
+            ],
+            "id": 18937042,
+            "url": "https:\/\/cryptopanic.com\/news\/18937042\/Musee-dOrsay-Embraces-Crypto-to-Attract-New-Audiences",
+            "created_at": "2023-09-29T11:38:34Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "French Museum Leverages Tezos Blockchain to Offer Patrons Digital NFT Souvenirs",
+            "published_at": "2023-09-29T09:15:00Z",
+            "slug": "French-Museum-Leverages-Tezos-Blockchain-to-Offer-Patrons-Digital-NFT-Souvenirs",
+            "currencies": [
+                {
+                    "code": "XTZ",
+                    "title": "Tezos",
+                    "slug": "tezos",
+                    "url": "https:\/\/cryptopanic.com\/news\/tezos\/"
+                }
+            ],
+            "id": 18936807,
+            "url": "https:\/\/cryptopanic.com\/news\/18936807\/French-Museum-Leverages-Tezos-Blockchain-to-Offer-Patrons-Digital-NFT-Souvenirs",
+            "created_at": "2023-09-29T09:15:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "decrypt.co",
+            "source": {
+                "title": "Decrypt",
+                "region": "en",
+                "domain": "decrypt.co",
+                "path": null
+            },
+            "title": "Mus\u00e9e d\u2019Orsay Embraces NFTs in Push to Reach New Audiences",
+            "published_at": "2023-09-29T06:01:02Z",
+            "slug": "Musee-dOrsay-Embraces-NFTs-in-Push-to-Reach-New-Audiences",
+            "currencies": [
+                {
+                    "code": "XTZ",
+                    "title": "Tezos",
+                    "slug": "tezos",
+                    "url": "https:\/\/cryptopanic.com\/news\/tezos\/"
+                }
+            ],
+            "id": 18936321,
+            "url": "https:\/\/cryptopanic.com\/news\/18936321\/Musee-dOrsay-Embraces-NFTs-in-Push-to-Reach-New-Audiences",
+            "created_at": "2023-09-29T06:01:02Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "decrypt.co",
+            "source": {
+                "title": "Decrypt",
+                "region": "en",
+                "domain": "decrypt.co",
+                "path": null
+            },
+            "title": "Crypto Platform Fireblocks Expands Institutional Access to Tezos",
+            "published_at": "2023-09-28T07:01:04Z",
+            "slug": "Crypto-Platform-Fireblocks-Expands-Institutional-Access-to-Tezos",
+            "currencies": [
+                {
+                    "code": "XTZ",
+                    "title": "Tezos",
+                    "slug": "tezos",
+                    "url": "https:\/\/cryptopanic.com\/news\/tezos\/"
+                }
+            ],
+            "id": 18933694,
+            "url": "https:\/\/cryptopanic.com\/news\/18933694\/Crypto-Platform-Fireblocks-Expands-Institutional-Access-to-Tezos",
+            "created_at": "2023-09-28T07:01:04Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptodaily.co.uk",
+            "source": {
+                "title": "CryptoDaily",
+                "region": "en",
+                "domain": "cryptodaily.co.uk",
+                "path": null
+            },
+            "title": "From Legacy to Lively: Cardano (ADA) and Tezos (XTZ) Investors Warm Up to Pomerdoge (POMD) 's P2E Potential",
+            "published_at": "2023-09-19T14:48:43Z",
+            "slug": "From-Legacy-to-Lively-Cardano-ADA-and-Tezos-XTZ-Investors-Warm-Up-to-Pomerdoge-POMD-s-P2E-Potential",
+            "currencies": [
+                {
+                    "code": "ADA",
+                    "title": "Cardano",
+                    "slug": "cardano",
+                    "url": "https:\/\/cryptopanic.com\/news\/cardano\/"
+                },
+                {
+                    "code": "XTZ",
+                    "title": "Tezos",
+                    "slug": "tezos",
+                    "url": "https:\/\/cryptopanic.com\/news\/tezos\/"
+                }
+            ],
+            "id": 18913875,
+            "url": "https:\/\/cryptopanic.com\/news\/18913875\/From-Legacy-to-Lively-Cardano-ADA-and-Tezos-XTZ-Investors-Warm-Up-to-Pomerdoge-POMD-s-P2E-Potential",
+            "created_at": "2023-09-19T14:48:43Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "MetaMask Brings Bitcoin to Crypto Wallet With Snaps Launch",
+            "published_at": "2023-09-13T04:12:05Z",
+            "slug": "MetaMask-Brings-Bitcoin-to-Crypto-Wallet-With-Snaps-Launch",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "APT",
+                    "title": "Aptos",
+                    "slug": "aptos",
+                    "url": "https:\/\/cryptopanic.com\/news\/aptos\/"
+                },
+                {
+                    "code": "ALGO",
+                    "title": "Algorand",
+                    "slug": "algorand",
+                    "url": "https:\/\/cryptopanic.com\/news\/algorand\/"
+                },
+                {
+                    "code": "XTZ",
+                    "title": "Tezos",
+                    "slug": "tezos",
+                    "url": "https:\/\/cryptopanic.com\/news\/tezos\/"
+                },
+                {
+                    "code": "FTM",
+                    "title": "Fantom",
+                    "slug": "fantom",
+                    "url": "https:\/\/cryptopanic.com\/news\/fantom\/"
+                },
+                {
+                    "code": "SUI",
+                    "title": "Sui",
+                    "slug": "sui",
+                    "url": "https:\/\/cryptopanic.com\/news\/sui\/"
+                }
+            ],
+            "id": 18899141,
+            "url": "https:\/\/cryptopanic.com\/news\/18899141\/MetaMask-Brings-Bitcoin-to-Crypto-Wallet-With-Snaps-Launch",
+            "created_at": "2023-09-13T04:12:05Z"
+        },
+        {
+            "kind": "news",
+            "domain": "feeds2.benzinga.com",
+            "source": {
+                "title": "Benzinga",
+                "region": "en",
+                "domain": "feeds2.benzinga.com",
+                "path": null
+            },
+            "title": "Tezos Price Action And The Crypto Bear Market",
+            "published_at": "2023-09-12T15:03:34Z",
+            "slug": "Tezos-Price-Action-And-The-Crypto-Bear-Market",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "ADA",
+                    "title": "Cardano",
+                    "slug": "cardano",
+                    "url": "https:\/\/cryptopanic.com\/news\/cardano\/"
+                },
+                {
+                    "code": "XTZ",
+                    "title": "Tezos",
+                    "slug": "tezos",
+                    "url": "https:\/\/cryptopanic.com\/news\/tezos\/"
+                }
+            ],
+            "id": 18897831,
+            "url": "https:\/\/cryptopanic.com\/news\/18897831\/Tezos-Price-Action-And-The-Crypto-Bear-Market",
+            "created_at": "2023-09-12T15:03:34Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "theblock.co",
+            "votes": {
+                "negative": 2,
+                "positive": 8,
+                "important": 5,
+                "liked": 8,
+                "disliked": 2,
+                "lol": 2,
+                "toxic": 0,
+                "saved": 3,
+                "comments": 3
+            },
+            "source": {
+                "title": "The Block",
+                "region": "en",
+                "domain": "theblock.co",
+                "path": null
+            },
+            "title": "MetaMask to be usable outside the EVM ecosystem with Snaps launch",
+            "published_at": "2023-09-12T13:00:04Z",
+            "slug": "MetaMask-to-be-usable-outside-the-EVM-ecosystem-with-Snaps-launch",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "ATOM",
+                    "title": "Cosmos Hub",
+                    "slug": "cosmos",
+                    "url": "https:\/\/cryptopanic.com\/news\/cosmos\/"
+                },
+                {
+                    "code": "XTZ",
+                    "title": "Tezos",
+                    "slug": "tezos",
+                    "url": "https:\/\/cryptopanic.com\/news\/tezos\/"
+                }
+            ],
+            "id": 18897334,
+            "url": "https:\/\/cryptopanic.com\/news\/18897334\/MetaMask-to-be-usable-outside-the-EVM-ecosystem-with-Snaps-launch",
+            "created_at": "2023-09-12T13:00:04Z"
+        },
+        {
+            "kind": "news",
+            "domain": "cointelegraph.com",
+            "source": {
+                "title": "CoinTelegraph",
+                "region": "en",
+                "domain": "cointelegraph.com",
+                "path": null
+            },
+            "title": "Bitcoin range trades as volatility subsides. Will TON, LINK, MKR and XTZ follow?",
+            "published_at": "2023-09-05T20:13:17Z",
+            "slug": "Bitcoin-range-trades-as-volatility-subsides-Will-TON-LINK-MKR-and-XTZ-follow",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "TON",
+                    "title": "Toncoin",
+                    "slug": "the-open-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/the-open-network\/"
+                },
+                {
+                    "code": "LINK",
+                    "title": "Chainlink",
+                    "slug": "chainlink",
+                    "url": "https:\/\/cryptopanic.com\/news\/chainlink\/"
+                },
+                {
+                    "code": "MKR",
+                    "title": "Maker",
+                    "slug": "maker",
+                    "url": "https:\/\/cryptopanic.com\/news\/maker\/"
+                },
+                {
+                    "code": "XTZ",
+                    "title": "Tezos",
+                    "slug": "tezos",
+                    "url": "https:\/\/cryptopanic.com\/news\/tezos\/"
+                }
+            ],
+            "id": 18881769,
+            "url": "https:\/\/cryptopanic.com\/news\/18881769\/Bitcoin-range-trades-as-volatility-subsides-Will-TON-LINK-MKR-and-XTZ-follow",
+            "created_at": "2023-09-05T20:13:17Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "theblock.co",
+            "source": {
+                "title": "The Block",
+                "region": "en",
+                "domain": "theblock.co",
+                "path": null
+            },
+            "title": "Tezos Foundation, Champ Medici announce first cohort of $1 million arts fund grantees",
+            "published_at": "2023-09-05T11:00:02Z",
+            "slug": "Tezos-Foundation-Champ-Medici-announce-first-cohort-of-1-million-arts-fund-grantees",
+            "currencies": [
+                {
+                    "code": "XTZ",
+                    "title": "Tezos",
+                    "slug": "tezos",
+                    "url": "https:\/\/cryptopanic.com\/news\/tezos\/"
+                }
+            ],
+            "id": 18880421,
+            "url": "https:\/\/cryptopanic.com\/news\/18880421\/Tezos-Foundation-Champ-Medici-announce-first-cohort-of-1-million-arts-fund-grantees",
+            "created_at": "2023-09-05T11:00:02Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cointelegraph.com",
+            "source": {
+                "title": "CoinTelegraph",
+                "region": "en",
+                "domain": "cointelegraph.com",
+                "path": null
+            },
+            "title": "Bitcoin flatlines again, but TON, LINK, MKR, XTZ are poised for up-move",
+            "published_at": "2023-09-04T09:00:57Z",
+            "slug": "Bitcoin-flatlines-again-but-TON-LINK-MKR-XTZ-are-poised-for-up-move",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "TON",
+                    "title": "Toncoin",
+                    "slug": "the-open-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/the-open-network\/"
+                },
+                {
+                    "code": "LINK",
+                    "title": "Chainlink",
+                    "slug": "chainlink",
+                    "url": "https:\/\/cryptopanic.com\/news\/chainlink\/"
+                },
+                {
+                    "code": "MKR",
+                    "title": "Maker",
+                    "slug": "maker",
+                    "url": "https:\/\/cryptopanic.com\/news\/maker\/"
+                },
+                {
+                    "code": "XTZ",
+                    "title": "Tezos",
+                    "slug": "tezos",
+                    "url": "https:\/\/cryptopanic.com\/news\/tezos\/"
+                }
+            ],
+            "id": 18877858,
+            "url": "https:\/\/cryptopanic.com\/news\/18877858\/Bitcoin-flatlines-again-but-TON-LINK-MKR-XTZ-are-poised-for-up-move",
+            "created_at": "2023-09-04T09:00:57Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "These 4 Cryptos Could Drop to New Lows in September",
+            "published_at": "2023-09-01T09:15:00Z",
+            "slug": "These-4-Cryptos-Could-Drop-to-New-Lows-in-September",
+            "currencies": [
+                {
+                    "code": "ALGO",
+                    "title": "Algorand",
+                    "slug": "algorand",
+                    "url": "https:\/\/cryptopanic.com\/news\/algorand\/"
+                },
+                {
+                    "code": "EOS",
+                    "title": "EOS",
+                    "slug": "eos",
+                    "url": "https:\/\/cryptopanic.com\/news\/eos\/"
+                },
+                {
+                    "code": "XTZ",
+                    "title": "Tezos",
+                    "slug": "tezos",
+                    "url": "https:\/\/cryptopanic.com\/news\/tezos\/"
+                }
+            ],
+            "id": 18873502,
+            "url": "https:\/\/cryptopanic.com\/news\/18873502\/These-4-Cryptos-Could-Drop-to-New-Lows-in-September",
+            "created_at": "2023-09-01T09:15:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinedition.com",
+            "source": {
+                "title": "coinedition",
+                "region": "en",
+                "domain": "coinedition.com",
+                "path": null
+            },
+            "title": "China Cracks Down on People Exploiting Filecoin Blockchain Rewards",
+            "published_at": "2023-08-15T12:00:00Z",
+            "slug": "China-Cracks-Down-on-People-Exploiting-Filecoin-Blockchain-Rewards",
+            "currencies": [
+                {
+                    "code": "FIL",
+                    "title": "Filecoin",
+                    "slug": "filecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/filecoin\/"
+                },
+                {
+                    "code": "XTZ",
+                    "title": "Tezos",
+                    "slug": "tezos",
+                    "url": "https:\/\/cryptopanic.com\/news\/tezos\/"
+                }
+            ],
+            "id": 18838135,
+            "url": "https:\/\/cryptopanic.com\/news\/18838135\/China-Cracks-Down-on-People-Exploiting-Filecoin-Blockchain-Rewards",
+            "created_at": "2023-08-15T12:00:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "bitcoin.com",
+            "source": {
+                "title": "Bitcoin.com",
+                "region": "en",
+                "domain": "bitcoin.com",
+                "path": null
+            },
+            "title": "NFT Sales Jump 6.59%: A Week of Growth, Dominance of Ethereum, and Record-Breaking Collections",
+            "published_at": "2023-08-12T17:30:49Z",
+            "slug": "NFT-Sales-Jump-659-A-Week-of-Growth-Dominance-of-Ethereum-and-Record-Breaking-Collections",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "BNB",
+                    "title": "BNB",
+                    "slug": "binancecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/binancecoin\/"
+                },
+                {
+                    "code": "MATIC",
+                    "title": "Polygon",
+                    "slug": "matic-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-network\/"
+                },
+                {
+                    "code": "XTZ",
+                    "title": "Tezos",
+                    "slug": "tezos",
+                    "url": "https:\/\/cryptopanic.com\/news\/tezos\/"
+                }
+            ],
+            "id": 18833923,
+            "url": "https:\/\/cryptopanic.com\/news\/18833923\/NFT-Sales-Jump-659-A-Week-of-Growth-Dominance-of-Ethereum-and-Record-Breaking-Collections",
+            "created_at": "2023-08-12T17:30:49Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinjournal.net",
+            "source": {
+                "title": "CoinJournal",
+                "region": "en",
+                "domain": "coinjournal.net",
+                "path": null
+            },
+            "title": "Google Bard sets its Tezos price prediction for August",
+            "published_at": "2023-08-02T11:19:41Z",
+            "slug": "Google-Bard-sets-its-Tezos-price-prediction-for-August",
+            "currencies": [
+                {
+                    "code": "XTZ",
+                    "title": "Tezos",
+                    "slug": "tezos",
+                    "url": "https:\/\/cryptopanic.com\/news\/tezos\/"
+                }
+            ],
+            "id": 18812245,
+            "url": "https:\/\/cryptopanic.com\/news\/18812245\/Google-Bard-sets-its-Tezos-price-prediction-for-August",
+            "created_at": "2023-08-02T11:19:41Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "Why XTZ failed to put up a bold front despite Tezos\u2019 striking performance",
+            "published_at": "2023-07-28T09:30:20Z",
+            "slug": "Why-XTZ-failed-to-put-up-a-bold-front-despite-Tezos-striking-performance",
+            "currencies": [
+                {
+                    "code": "XTZ",
+                    "title": "Tezos",
+                    "slug": "tezos",
+                    "url": "https:\/\/cryptopanic.com\/news\/tezos\/"
+                }
+            ],
+            "id": 18802215,
+            "url": "https:\/\/cryptopanic.com\/news\/18802215\/Why-XTZ-failed-to-put-up-a-bold-front-despite-Tezos-striking-performance",
+            "created_at": "2023-07-28T09:30:20Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cointelegraph.com",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "CoinTelegraph",
+                "region": "en",
+                "domain": "cointelegraph.com",
+                "path": null
+            },
+            "title": "Judge suggests IRS issued $4K refund over tax lawsuit based on quality of lawyers: Report",
+            "published_at": "2023-07-26T19:45:00Z",
+            "slug": "Judge-suggests-IRS-issued-4K-refund-over-tax-lawsuit-based-on-quality-of-lawyers-Report",
+            "currencies": [
+                {
+                    "code": "XTZ",
+                    "title": "Tezos",
+                    "slug": "tezos",
+                    "url": "https:\/\/cryptopanic.com\/news\/tezos\/"
+                }
+            ],
+            "id": 18798714,
+            "url": "https:\/\/cryptopanic.com\/news\/18798714\/Judge-suggests-IRS-issued-4K-refund-over-tax-lawsuit-based-on-quality-of-lawyers-Report",
+            "created_at": "2023-07-26T19:45:00Z"
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Tezos (XTZ) Loses Steam In Q2, Market Cap Drops 30% Following SEC Crackdown",
+            "published_at": "2023-07-26T01:00:57Z",
+            "slug": "Tezos-XTZ-Loses-Steam-In-Q2-Market-Cap-Drops-30-Following-SEC-Crackdown",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "XTZ",
+                    "title": "Tezos",
+                    "slug": "tezos",
+                    "url": "https:\/\/cryptopanic.com\/news\/tezos\/"
+                }
+            ],
+            "id": 18796450,
+            "url": "https:\/\/cryptopanic.com\/news\/18796450\/Tezos-XTZ-Loses-Steam-In-Q2-Market-Cap-Drops-30-Following-SEC-Crackdown",
+            "created_at": "2023-07-26T01:00:57Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

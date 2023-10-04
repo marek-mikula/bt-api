@@ -1,0 +1,887 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=ETH&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "bitcoinist.com",
+            "source": {
+                "title": "Bitcoinist",
+                "region": "en",
+                "domain": "bitcoinist.com",
+                "path": null
+            },
+            "title": "Bitwise CIO Positions Ethereum As Leading Investment Over Bitcoin: Here\u2019s Why",
+            "published_at": "2023-10-03T12:00:50Z",
+            "slug": "Bitwise-CIO-Positions-Ethereum-As-Leading-Investment-Over-Bitcoin-Heres-Why",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                }
+            ],
+            "id": 18944387,
+            "url": "https:\/\/cryptopanic.com\/news\/18944387\/Bitwise-CIO-Positions-Ethereum-As-Leading-Investment-Over-Bitcoin-Heres-Why",
+            "created_at": "2023-10-03T12:00:50Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Crypto Watchlist For October: Altcoins To Keep On Your Radar",
+            "published_at": "2023-10-03T12:00:36Z",
+            "slug": "Crypto-Watchlist-For-October-Altcoins-To-Keep-On-Your-Radar",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "DAI",
+                    "title": "Dai",
+                    "slug": "dai",
+                    "url": "https:\/\/cryptopanic.com\/news\/dai\/"
+                },
+                {
+                    "code": "MKR",
+                    "title": "Maker",
+                    "slug": "maker",
+                    "url": "https:\/\/cryptopanic.com\/news\/maker\/"
+                },
+                {
+                    "code": "ARB",
+                    "title": "Arbitrum",
+                    "slug": "arbitrum",
+                    "url": "https:\/\/cryptopanic.com\/news\/arbitrum\/"
+                }
+            ],
+            "id": 18944397,
+            "url": "https:\/\/cryptopanic.com\/news\/18944397\/Crypto-Watchlist-For-October-Altcoins-To-Keep-On-Your-Radar",
+            "created_at": "2023-10-03T12:00:36Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "en.bitcoinsistemi.com",
+            "source": {
+                "title": "en bitcoinsistemi",
+                "region": "en",
+                "domain": "en.bitcoinsistemi.com",
+                "path": null
+            },
+            "title": "What is the reason for the decline in Bitcoin? Is BTC Rally Near? Analysts Evaluated!",
+            "published_at": "2023-10-03T11:29:07Z",
+            "slug": "What-is-the-reason-for-the-decline-in-Bitcoin-Is-BTC-Rally-Near-Analysts-Evaluated",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                }
+            ],
+            "id": 18944319,
+            "url": "https:\/\/cryptopanic.com\/news\/18944319\/What-is-the-reason-for-the-decline-in-Bitcoin-Is-BTC-Rally-Near-Analysts-Evaluated",
+            "created_at": "2023-10-03T11:29:07Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Bitcoin Creator Satoshi Nakamoto Sparks Speculation As Cryptic Email, X Account Resurfaces",
+            "published_at": "2023-10-03T11:00:29Z",
+            "slug": "Bitcoin-Creator-Satoshi-Nakamoto-Sparks-Speculation-As-Cryptic-Email-X-Account-Resurfaces",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                }
+            ],
+            "id": 18944258,
+            "url": "https:\/\/cryptopanic.com\/news\/18944258\/Bitcoin-Creator-Satoshi-Nakamoto-Sparks-Speculation-As-Cryptic-Email-X-Account-Resurfaces",
+            "created_at": "2023-10-03T11:00:29Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinspeaker.com",
+            "source": {
+                "title": "Coinspeaker",
+                "region": "en",
+                "domain": "coinspeaker.com",
+                "path": null
+            },
+            "title": "Ethereum Futures ETFs Underwhelm on First Day of Trading",
+            "published_at": "2023-10-03T10:47:57Z",
+            "slug": "Ethereum-Futures-ETFs-Underwhelm-on-First-Day-of-Trading",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                }
+            ],
+            "id": 18944192,
+            "url": "https:\/\/cryptopanic.com\/news\/18944192\/Ethereum-Futures-ETFs-Underwhelm-on-First-Day-of-Trading",
+            "created_at": "2023-10-03T10:47:57Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptodaily.co.uk",
+            "source": {
+                "title": "CryptoDaily",
+                "region": "en",
+                "domain": "cryptodaily.co.uk",
+                "path": null
+            },
+            "title": "Introducing Ankr Liquid Staking, The Latest in DeFi Innovation",
+            "published_at": "2023-10-03T09:34:51Z",
+            "slug": "Introducing-Ankr-Liquid-Staking-The-Latest-in-DeFi-Innovation",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                }
+            ],
+            "id": 18944219,
+            "url": "https:\/\/cryptopanic.com\/news\/18944219\/Introducing-Ankr-Liquid-Staking-The-Latest-in-DeFi-Innovation",
+            "created_at": "2023-10-03T09:34:51Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "How Ethereum responded to Grayscale\u2019s spot ETF request",
+            "published_at": "2023-10-03T09:30:03Z",
+            "slug": "How-Ethereum-responded-to-Grayscales-spot-ETF-request",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                }
+            ],
+            "id": 18944018,
+            "url": "https:\/\/cryptopanic.com\/news\/18944018\/How-Ethereum-responded-to-Grayscales-spot-ETF-request",
+            "created_at": "2023-10-03T09:30:03Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coindesk.com",
+            "source": {
+                "title": "CoinDesk",
+                "region": "en",
+                "domain": "coindesk.com",
+                "path": null
+            },
+            "title": "Bitcoin Drops Below $28K on Profit Taking; DOGE, TRX Lead Altcoin Slump",
+            "published_at": "2023-10-03T08:59:47Z",
+            "slug": "Bitcoin-Drops-Below-28K-on-Profit-Taking-DOGE-TRX-Lead-Altcoin-Slump",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "DOGE",
+                    "title": "Dogecoin",
+                    "slug": "dogecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/dogecoin\/"
+                },
+                {
+                    "code": "TRX",
+                    "title": "TRON",
+                    "slug": "tron",
+                    "url": "https:\/\/cryptopanic.com\/news\/tron\/"
+                }
+            ],
+            "id": 18943941,
+            "url": "https:\/\/cryptopanic.com\/news\/18943941\/Bitcoin-Drops-Below-28K-on-Profit-Taking-DOGE-TRX-Lead-Altcoin-Slump",
+            "created_at": "2023-10-03T08:59:47Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinedition.com",
+            "source": {
+                "title": "coinedition",
+                "region": "en",
+                "domain": "coinedition.com",
+                "path": null
+            },
+            "title": "Ethereum Centralization Concerns Resurface Amid Governance and L2 Critiques",
+            "published_at": "2023-10-03T08:43:04Z",
+            "slug": "Ethereum-Centralization-Concerns-Resurface-Amid-Governance-and-L2-Critiques",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "OP",
+                    "title": "Optimism",
+                    "slug": "optimism",
+                    "url": "https:\/\/cryptopanic.com\/news\/optimism\/"
+                }
+            ],
+            "id": 18943900,
+            "url": "https:\/\/cryptopanic.com\/news\/18943900\/Ethereum-Centralization-Concerns-Resurface-Amid-Governance-and-L2-Critiques",
+            "created_at": "2023-10-03T08:43:04Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coingabbar.com",
+            "source": {
+                "title": "coingabbar",
+                "region": "en",
+                "domain": "coingabbar.com",
+                "path": null
+            },
+            "title": "Crypto Daily Roundup, 03 Oct: Could October's Bull Run Boost Crypto?",
+            "published_at": "2023-10-03T08:30:00Z",
+            "slug": "Crypto-Daily-Roundup-03-Oct-Could-Octobers-Bull-Run-Boost-Crypto",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "AVAX",
+                    "title": "Avalanche",
+                    "slug": "avalanche-2",
+                    "url": "https:\/\/cryptopanic.com\/news\/avalanche-2\/"
+                },
+                {
+                    "code": "ATOM",
+                    "title": "Cosmos Hub",
+                    "slug": "cosmos",
+                    "url": "https:\/\/cryptopanic.com\/news\/cosmos\/"
+                },
+                {
+                    "code": "APT",
+                    "title": "Aptos",
+                    "slug": "aptos",
+                    "url": "https:\/\/cryptopanic.com\/news\/aptos\/"
+                },
+                {
+                    "code": "OP",
+                    "title": "Optimism",
+                    "slug": "optimism",
+                    "url": "https:\/\/cryptopanic.com\/news\/optimism\/"
+                },
+                {
+                    "code": "IMX",
+                    "title": "ImmutableX",
+                    "slug": "immutable-x",
+                    "url": "https:\/\/cryptopanic.com\/news\/immutable-x\/"
+                },
+                {
+                    "code": "AXS",
+                    "title": "Axie Infinity",
+                    "slug": "axie-infinity",
+                    "url": "https:\/\/cryptopanic.com\/news\/axie-infinity\/"
+                },
+                {
+                    "code": "APE",
+                    "title": "ApeCoin",
+                    "slug": "apecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/apecoin\/"
+                },
+                {
+                    "code": "SUI",
+                    "title": "Sui",
+                    "slug": "sui",
+                    "url": "https:\/\/cryptopanic.com\/news\/sui\/"
+                }
+            ],
+            "id": 18943929,
+            "url": "https:\/\/cryptopanic.com\/news\/18943929\/Crypto-Daily-Roundup-03-Oct-Could-Octobers-Bull-Run-Boost-Crypto",
+            "created_at": "2023-10-03T08:30:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "u.today",
+            "source": {
+                "title": "U.Today",
+                "region": "en",
+                "domain": "u.today",
+                "path": null
+            },
+            "title": "Ethereum Futures ETF Scarred by Low Trading Volume at Launch, Possible Reasons",
+            "published_at": "2023-10-03T08:23:00Z",
+            "slug": "Ethereum-Futures-ETF-Scarred-by-Low-Trading-Volume-at-Launch-Possible-Reasons",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                }
+            ],
+            "id": 18943847,
+            "url": "https:\/\/cryptopanic.com\/news\/18943847\/Ethereum-Futures-ETF-Scarred-by-Low-Trading-Volume-at-Launch-Possible-Reasons",
+            "created_at": "2023-10-03T08:23:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinedition.com",
+            "source": {
+                "title": "coinedition",
+                "region": "en",
+                "domain": "coinedition.com",
+                "path": null
+            },
+            "title": "Crypto Insider Blows Hot in Explosive Allegations Against SEC",
+            "published_at": "2023-10-03T08:15:15Z",
+            "slug": "Crypto-Insider-Blows-Hot-in-Explosive-Allegations-Against-SEC",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                }
+            ],
+            "id": 18943827,
+            "url": "https:\/\/cryptopanic.com\/news\/18943827\/Crypto-Insider-Blows-Hot-in-Explosive-Allegations-Against-SEC",
+            "created_at": "2023-10-03T08:15:15Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "5 Altcoins You Should Keep an Eye on in October",
+            "published_at": "2023-10-03T08:13:57Z",
+            "slug": "5-Altcoins-You-Should-Keep-an-Eye-on-in-October",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "HBAR",
+                    "title": "Hedera",
+                    "slug": "hedera-hashgraph",
+                    "url": "https:\/\/cryptopanic.com\/news\/hedera-hashgraph\/"
+                },
+                {
+                    "code": "OP",
+                    "title": "Optimism",
+                    "slug": "optimism",
+                    "url": "https:\/\/cryptopanic.com\/news\/optimism\/"
+                }
+            ],
+            "id": 18943890,
+            "url": "https:\/\/cryptopanic.com\/news\/18943890\/5-Altcoins-You-Should-Keep-an-Eye-on-in-October",
+            "created_at": "2023-10-03T08:13:57Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptopotato.com",
+            "source": {
+                "title": "Feed - Cryptopotato.Com",
+                "region": "en",
+                "domain": "cryptopotato.com",
+                "path": null
+            },
+            "title": "Early Ethereum ETF Volumes Low, But Confidence for Spot ETF Launch High",
+            "published_at": "2023-10-03T07:57:31Z",
+            "slug": "Early-Ethereum-ETF-Volumes-Low-But-Confidence-for-Spot-ETF-Launch-High",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                }
+            ],
+            "id": 18943794,
+            "url": "https:\/\/cryptopanic.com\/news\/18943794\/Early-Ethereum-ETF-Volumes-Low-But-Confidence-for-Spot-ETF-Launch-High",
+            "created_at": "2023-10-03T07:57:31Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "Friend.tech Users Plagued by Phishing and SIM Swap Scourge",
+            "published_at": "2023-10-03T07:46:29Z",
+            "slug": "Friendtech-Users-Plagued-by-Phishing-and-SIM-Swap-Scourge",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                }
+            ],
+            "id": 18943891,
+            "url": "https:\/\/cryptopanic.com\/news\/18943891\/Friendtech-Users-Plagued-by-Phishing-and-SIM-Swap-Scourge",
+            "created_at": "2023-10-03T07:46:29Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "en.bitcoinsistemi.com",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "en bitcoinsistemi",
+                "region": "en",
+                "domain": "en.bitcoinsistemi.com",
+                "path": null
+            },
+            "title": "Does the Japanese Automotive Giant Allow Vehicle Purchases with Cryptocurrencies? Justin Sun Tweeted!",
+            "published_at": "2023-10-03T07:22:06Z",
+            "slug": "Does-the-Japanese-Automotive-Giant-Allow-Vehicle-Purchases-with-Cryptocurrencies-Justin-Sun-Tweeted",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                }
+            ],
+            "id": 18943748,
+            "url": "https:\/\/cryptopanic.com\/news\/18943748\/Does-the-Japanese-Automotive-Giant-Allow-Vehicle-Purchases-with-Cryptocurrencies-Justin-Sun-Tweeted",
+            "created_at": "2023-10-03T07:22:06Z"
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "Ethereum ETF Approvals May Signal SEC No Longer Considers ETH a Security",
+            "published_at": "2023-10-03T06:41:37Z",
+            "slug": "Ethereum-ETF-Approvals-May-Signal-SEC-No-Longer-Considers-ETH-a-Security",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                }
+            ],
+            "id": 18943757,
+            "url": "https:\/\/cryptopanic.com\/news\/18943757\/Ethereum-ETF-Approvals-May-Signal-SEC-No-Longer-Considers-ETH-a-Security",
+            "created_at": "2023-10-03T06:41:37Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinjournal.net",
+            "source": {
+                "title": "CoinJournal",
+                "region": "en",
+                "domain": "coinjournal.net",
+                "path": null
+            },
+            "title": "Embattled crypto lender Celsius wants to start repaying customers by year-end",
+            "published_at": "2023-10-03T06:24:29Z",
+            "slug": "Embattled-crypto-lender-Celsius-wants-to-start-repaying-customers-by-year-end",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                }
+            ],
+            "id": 18943651,
+            "url": "https:\/\/cryptopanic.com\/news\/18943651\/Embattled-crypto-lender-Celsius-wants-to-start-repaying-customers-by-year-end",
+            "created_at": "2023-10-03T06:24:29Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptodaily.co.uk",
+            "source": {
+                "title": "CryptoDaily",
+                "region": "en",
+                "domain": "cryptodaily.co.uk",
+                "path": null
+            },
+            "title": "UBS Launches Ethereum-based Money Market Fund Through Singapore's Project Guardian",
+            "published_at": "2023-10-03T06:07:40Z",
+            "slug": "UBS-Launches-Ethereum-based-Money-Market-Fund-Through-Singapores-Project-Guardian",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                }
+            ],
+            "id": 18943637,
+            "url": "https:\/\/cryptopanic.com\/news\/18943637\/UBS-Launches-Ethereum-based-Money-Market-Fund-Through-Singapores-Project-Guardian",
+            "created_at": "2023-10-03T06:07:40Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinedition.com",
+            "source": {
+                "title": "coinedition",
+                "region": "en",
+                "domain": "coinedition.com",
+                "path": null
+            },
+            "title": "Grayscale Files To Convert $5 Billion Ethereum Trust Into An ETF",
+            "published_at": "2023-10-03T05:56:00Z",
+            "slug": "Grayscale-Files-To-Convert-5-Billion-Ethereum-Trust-Into-An-ETF",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                }
+            ],
+            "id": 18943626,
+            "url": "https:\/\/cryptopanic.com\/news\/18943626\/Grayscale-Files-To-Convert-5-Billion-Ethereum-Trust-Into-An-ETF",
+            "created_at": "2023-10-03T05:56:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

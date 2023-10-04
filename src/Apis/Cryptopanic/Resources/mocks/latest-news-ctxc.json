@@ -1,0 +1,707 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=CTXC&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "@CTXCBlockchain",
+            "source": {
+                "title": "Cortex Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@ctxcblockchain"
+            },
+            "title": "Cortex Project Updates\u00a0#119\n\nNFT Gallery Powered by Cortex is now available()\n\ud83e\udd1dCollaboratio\u2026",
+            "published_at": "2023-07-03T09:35:07Z",
+            "slug": "Cortex-Project-Updates-119-NFT-Gallery-Powered-by-Cortex-is-now-available-Collaboratio",
+            "currencies": [
+                {
+                    "code": "CTXC",
+                    "title": "Cortex",
+                    "slug": "cortex",
+                    "url": "https:\/\/cryptopanic.com\/news\/cortex\/"
+                }
+            ],
+            "id": 18708166,
+            "url": "https:\/\/cryptopanic.com\/news\/18708166\/Cortex-Project-Updates-119-NFT-Gallery-Powered-by-Cortex-is-now-available-Collaboratio",
+            "created_at": "2023-07-03T09:35:07Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@CTXCBlockchain",
+            "source": {
+                "title": "Cortex Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@ctxcblockchain"
+            },
+            "title": "Who's winning the cage fight?",
+            "published_at": "2023-06-28T07:23:26Z",
+            "slug": "Whos-winning-the-cage-fight",
+            "currencies": [
+                {
+                    "code": "CTXC",
+                    "title": "Cortex",
+                    "slug": "cortex",
+                    "url": "https:\/\/cryptopanic.com\/news\/cortex\/"
+                }
+            ],
+            "id": 18676664,
+            "url": "https:\/\/cryptopanic.com\/news\/18676664\/Whos-winning-the-cage-fight",
+            "created_at": "2023-06-28T07:23:26Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@CTXCBlockchain",
+            "source": {
+                "title": "Cortex Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@ctxcblockchain"
+            },
+            "title": "Twitter community looks interesting how do we create one tho?",
+            "published_at": "2023-06-24T08:39:40Z",
+            "slug": "Twitter-community-looks-interesting-how-do-we-create-one-tho",
+            "currencies": [
+                {
+                    "code": "CTXC",
+                    "title": "Cortex",
+                    "slug": "cortex",
+                    "url": "https:\/\/cryptopanic.com\/news\/cortex\/"
+                }
+            ],
+            "id": 18649616,
+            "url": "https:\/\/cryptopanic.com\/news\/18649616\/Twitter-community-looks-interesting-how-do-we-create-one-tho",
+            "created_at": "2023-06-24T08:39:40Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@CTXCBlockchain",
+            "source": {
+                "title": "Cortex Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@ctxcblockchain"
+            },
+            "title": "\ufe0fTHALAMUS LIVE NOW\ufe0f\n\n@Thalamus_CTXC is a platform for artists to create a customized gallery using NFTs that is p\u2026",
+            "published_at": "2023-06-15T06:34:53Z",
+            "slug": "THALAMUS-LIVE-NOW-Thalamus_CTXC-is-a-platform-for-artists-to-create-a-customized-gallery-using-NFTs-that-is-p",
+            "currencies": [
+                {
+                    "code": "CTXC",
+                    "title": "Cortex",
+                    "slug": "cortex",
+                    "url": "https:\/\/cryptopanic.com\/news\/cortex\/"
+                }
+            ],
+            "id": 18578282,
+            "url": "https:\/\/cryptopanic.com\/news\/18578282\/THALAMUS-LIVE-NOW-Thalamus_CTXC-is-a-platform-for-artists-to-create-a-customized-gallery-using-NFTs-that-is-p",
+            "created_at": "2023-06-15T06:34:53Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@CTXCBlockchain",
+            "source": {
+                "title": "Cortex Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@ctxcblockchain"
+            },
+            "title": "RT @Thalamus_CTXC: Thalamus is a platform for artists to create a customized gallery using NFTs. It primarily caters to community users and\u2026",
+            "published_at": "2023-06-14T15:11:44Z",
+            "slug": "RT-Thalamus_CTXC-Thalamus-is-a-platform-for-artists-to-create-a-customized-gallery-using-NFTs-It-primarily-caters-to-community-users-and",
+            "currencies": [
+                {
+                    "code": "CTXC",
+                    "title": "Cortex",
+                    "slug": "cortex",
+                    "url": "https:\/\/cryptopanic.com\/news\/cortex\/"
+                }
+            ],
+            "id": 18578283,
+            "url": "https:\/\/cryptopanic.com\/news\/18578283\/RT-Thalamus_CTXC-Thalamus-is-a-platform-for-artists-to-create-a-customized-gallery-using-NFTs-It-primarily-caters-to-community-users-and",
+            "created_at": "2023-06-14T15:11:44Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@CTXCBlockchain",
+            "source": {
+                "title": "Cortex Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@ctxcblockchain"
+            },
+            "title": "Cortex Project Updates\u00a0#118 \n\n- Updated MRT Docs\n- Cortex NFT Gallery final prep is being worked out\n\nMore on\u2026",
+            "published_at": "2023-06-05T06:00:25Z",
+            "slug": "Cortex-Project-Updates-118-Updated-MRT-Docs-Cortex-NFT-Gallery-final-prep-is-being-worked-out-More-on",
+            "currencies": [
+                {
+                    "code": "CTXC",
+                    "title": "Cortex",
+                    "slug": "cortex",
+                    "url": "https:\/\/cryptopanic.com\/news\/cortex\/"
+                }
+            ],
+            "id": 18503009,
+            "url": "https:\/\/cryptopanic.com\/news\/18503009\/Cortex-Project-Updates-118-Updated-MRT-Docs-Cortex-NFT-Gallery-final-prep-is-being-worked-out-More-on",
+            "created_at": "2023-06-05T06:00:25Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@CTXCBlockchain",
+            "source": {
+                "title": "Cortex Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@ctxcblockchain"
+            },
+            "title": "Cortex Project Updates\u00a0#117\n\n\ufe0fWe are exploring possibilities of tools in the AI field for testing via CTXC Chain\u2026",
+            "published_at": "2023-05-18T14:08:22Z",
+            "slug": "Cortex-Project-Updates-117-We-are-exploring-possibilities-of-tools-in-the-AI-field-for-testing-via-CTXC-Chain",
+            "currencies": [
+                {
+                    "code": "CTXC",
+                    "title": "Cortex",
+                    "slug": "cortex",
+                    "url": "https:\/\/cryptopanic.com\/news\/cortex\/"
+                }
+            ],
+            "id": 18376358,
+            "url": "https:\/\/cryptopanic.com\/news\/18376358\/Cortex-Project-Updates-117-We-are-exploring-possibilities-of-tools-in-the-AI-field-for-testing-via-CTXC-Chain",
+            "created_at": "2023-05-18T14:08:22Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@CTXCBlockchain",
+            "source": {
+                "title": "Cortex Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@ctxcblockchain"
+            },
+            "title": "\u23ee\ufe0fThrowback\n\nTwo years ago, we tried @NVIDIAAI's intelligent Nano Jetson device \ufe0f and set out to capture pictures\u2026",
+            "published_at": "2023-04-20T02:57:23Z",
+            "slug": "Throwback-Two-years-ago-we-tried-NVIDIAAIs-intelligent-Nano-Jetson-device-and-set-out-to-capture-pictures",
+            "currencies": [
+                {
+                    "code": "CTXC",
+                    "title": "Cortex",
+                    "slug": "cortex",
+                    "url": "https:\/\/cryptopanic.com\/news\/cortex\/"
+                }
+            ],
+            "id": 18150309,
+            "url": "https:\/\/cryptopanic.com\/news\/18150309\/Throwback-Two-years-ago-we-tried-NVIDIAAIs-intelligent-Nano-Jetson-device-and-set-out-to-capture-pictures",
+            "created_at": "2023-04-20T02:57:23Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@CTXCBlockchain",
+            "source": {
+                "title": "Cortex Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@ctxcblockchain"
+            },
+            "title": "Cortex Project Updates #116\n\nWe are conducting the final stage of testing and preparation for the release of the C\u2026",
+            "published_at": "2023-04-19T02:46:53Z",
+            "slug": "Cortex-Project-Updates-116-We-are-conducting-the-final-stage-of-testing-and-preparation-for-the-release-of-the-C",
+            "currencies": [
+                {
+                    "code": "CTXC",
+                    "title": "Cortex",
+                    "slug": "cortex",
+                    "url": "https:\/\/cryptopanic.com\/news\/cortex\/"
+                }
+            ],
+            "id": 18141566,
+            "url": "https:\/\/cryptopanic.com\/news\/18141566\/Cortex-Project-Updates-116-We-are-conducting-the-final-stage-of-testing-and-preparation-for-the-release-of-the-C",
+            "created_at": "2023-04-19T02:46:53Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@CTXCBlockchain",
+            "source": {
+                "title": "Cortex Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@ctxcblockchain"
+            },
+            "title": "Cortex Project Updates #115\n\n#zkRollup, #node &amp; dev update\n\nIt is what it is",
+            "published_at": "2023-04-10T08:22:18Z",
+            "slug": "Cortex-Project-Updates-115-zkRollup-node-amp-dev-update-It-is-what-it-is",
+            "currencies": [
+                {
+                    "code": "CTXC",
+                    "title": "Cortex",
+                    "slug": "cortex",
+                    "url": "https:\/\/cryptopanic.com\/news\/cortex\/"
+                }
+            ],
+            "id": 18080232,
+            "url": "https:\/\/cryptopanic.com\/news\/18080232\/Cortex-Project-Updates-115-zkRollup-node-amp-dev-update-It-is-what-it-is",
+            "created_at": "2023-04-10T08:22:18Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@CTXCBlockchain",
+            "source": {
+                "title": "Cortex Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@ctxcblockchain"
+            },
+            "title": "New team member",
+            "published_at": "2023-03-29T07:17:44Z",
+            "slug": "New-team-member",
+            "currencies": [
+                {
+                    "code": "CTXC",
+                    "title": "Cortex",
+                    "slug": "cortex",
+                    "url": "https:\/\/cryptopanic.com\/news\/cortex\/"
+                }
+            ],
+            "id": 17994275,
+            "url": "https:\/\/cryptopanic.com\/news\/17994275\/New-team-member",
+            "created_at": "2023-03-29T07:17:44Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@CTXCBlockchain",
+            "source": {
+                "title": "Cortex Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@ctxcblockchain"
+            },
+            "title": "#Cortex Project Updates #114\ud83e\uddfe\n\nLet's see whether #Bitcoin's gonna reach $1,000,000 or not in 90 days\n\n\ud83e\uddccwe are on\u2026",
+            "published_at": "2023-03-20T10:32:28Z",
+            "slug": "Cortex-Project-Updates-114-Lets-see-whether-Bitcoins-gonna-reach-1000000-or-not-in-90-days-we-are-on",
+            "currencies": [
+                {
+                    "code": "CTXC",
+                    "title": "Cortex",
+                    "slug": "cortex",
+                    "url": "https:\/\/cryptopanic.com\/news\/cortex\/"
+                }
+            ],
+            "id": 17941514,
+            "url": "https:\/\/cryptopanic.com\/news\/17941514\/Cortex-Project-Updates-114-Lets-see-whether-Bitcoins-gonna-reach-1000000-or-not-in-90-days-we-are-on",
+            "created_at": "2023-03-20T10:32:28Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@CTXCBlockchain",
+            "source": {
+                "title": "Cortex Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@ctxcblockchain"
+            },
+            "title": "#Cortex Project Updates #113\ud83e\uddfe\n\nReleased new mainnet explorer\n\ud83e\udd1dPartnered with @bscstation\n\nMore on #zkRollup, #node\u2026",
+            "published_at": "2023-03-01T12:49:46Z",
+            "slug": "Cortex-Project-Updates-113-Released-new-mainnet-explorer-Partnered-with-bscstation-More-on-zkRollup-node",
+            "currencies": [
+                {
+                    "code": "CTXC",
+                    "title": "Cortex",
+                    "slug": "cortex",
+                    "url": "https:\/\/cryptopanic.com\/news\/cortex\/"
+                }
+            ],
+            "id": 17768827,
+            "url": "https:\/\/cryptopanic.com\/news\/17768827\/Cortex-Project-Updates-113-Released-new-mainnet-explorer-Partnered-with-bscstation-More-on-zkRollup-node",
+            "created_at": "2023-03-01T12:49:46Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@CTXCBlockchain",
+            "source": {
+                "title": "Cortex Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@ctxcblockchain"
+            },
+            "title": "What does it say when you ask ChatGPT for being your valentines?",
+            "published_at": "2023-02-14T17:51:54Z",
+            "slug": "What-does-it-say-when-you-ask-ChatGPT-for-being-your-valentines",
+            "currencies": [
+                {
+                    "code": "CTXC",
+                    "title": "Cortex",
+                    "slug": "cortex",
+                    "url": "https:\/\/cryptopanic.com\/news\/cortex\/"
+                }
+            ],
+            "id": 17640388,
+            "url": "https:\/\/cryptopanic.com\/news\/17640388\/What-does-it-say-when-you-ask-ChatGPT-for-being-your-valentines",
+            "created_at": "2023-02-14T17:51:54Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@CTXCBlockchain",
+            "source": {
+                "title": "Cortex Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@ctxcblockchain"
+            },
+            "title": "#Cortex Project Updates #112\ud83e\uddfe\n\n\ufe0fCortex NFT Gallery Beta is being tested\n\ufe0fCortex new explorer feature test\n\ufe0fCorte\u2026",
+            "published_at": "2023-02-13T14:09:04Z",
+            "slug": "Cortex-Project-Updates-112-Cortex-NFT-Gallery-Beta-is-being-tested-Cortex-new-explorer-feature-test-Corte",
+            "currencies": [
+                {
+                    "code": "CTXC",
+                    "title": "Cortex",
+                    "slug": "cortex",
+                    "url": "https:\/\/cryptopanic.com\/news\/cortex\/"
+                }
+            ],
+            "id": 17630464,
+            "url": "https:\/\/cryptopanic.com\/news\/17630464\/Cortex-Project-Updates-112-Cortex-NFT-Gallery-Beta-is-being-tested-Cortex-new-explorer-feature-test-Corte",
+            "created_at": "2023-02-13T14:09:04Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@CTXCBlockchain",
+            "source": {
+                "title": "Cortex Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@ctxcblockchain"
+            },
+            "title": "RT @bscstation: @bscstation and @CTXCBlockchain Partner to Revolutionize the Blockchain Industry\n\n\ud83e\udd1dThe partnership will provide benefits\u2026",
+            "published_at": "2023-02-13T13:52:33Z",
+            "slug": "RT-bscstation-bscstation-and-CTXCBlockchain-Partner-to-Revolutionize-the-Blockchain-Industry-The-partnership-will-provide-benefits",
+            "currencies": [
+                {
+                    "code": "CTXC",
+                    "title": "Cortex",
+                    "slug": "cortex",
+                    "url": "https:\/\/cryptopanic.com\/news\/cortex\/"
+                }
+            ],
+            "id": 17630465,
+            "url": "https:\/\/cryptopanic.com\/news\/17630465\/RT-bscstation-bscstation-and-CTXCBlockchain-Partner-to-Revolutionize-the-Blockchain-Industry-The-partnership-will-provide-benefits",
+            "created_at": "2023-02-13T13:52:33Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@CTXCBlockchain",
+            "source": {
+                "title": "Cortex Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@ctxcblockchain"
+            },
+            "title": "RT @crypstocktips: #ZK is making little noise so far, from what i can read on whitepaper $CTXC is both #AI play and #ZKrollup. I am buying\u2026",
+            "published_at": "2023-02-03T06:04:58Z",
+            "slug": "RT-crypstocktips-ZK-is-making-little-noise-so-far-from-what-i-can-read-on-whitepaper-CTXC-is-both-AI-play-and-ZKrollup-I-am-buying",
+            "currencies": [
+                {
+                    "code": "CTXC",
+                    "title": "Cortex",
+                    "slug": "cortex",
+                    "url": "https:\/\/cryptopanic.com\/news\/cortex\/"
+                }
+            ],
+            "id": 17539697,
+            "url": "https:\/\/cryptopanic.com\/news\/17539697\/RT-crypstocktips-ZK-is-making-little-noise-so-far-from-what-i-can-read-on-whitepaper-CTXC-is-both-AI-play-and-ZKrollup-I-am-buying",
+            "created_at": "2023-02-03T06:04:58Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@CTXCBlockchain",
+            "source": {
+                "title": "Cortex Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@ctxcblockchain"
+            },
+            "title": "RT @steventey: 2023 is going to be the year of AI.\n\nHere are a few must-learn tools to build your next AI project",
+            "published_at": "2023-01-29T16:59:14Z",
+            "slug": "RT-steventey-2023-is-going-to-be-the-year-of-AI-Here-are-a-few-must-learn-tools-to-build-your-next-AI-project",
+            "currencies": [
+                {
+                    "code": "CTXC",
+                    "title": "Cortex",
+                    "slug": "cortex",
+                    "url": "https:\/\/cryptopanic.com\/news\/cortex\/"
+                }
+            ],
+            "id": 17502120,
+            "url": "https:\/\/cryptopanic.com\/news\/17502120\/RT-steventey-2023-is-going-to-be-the-year-of-AI-Here-are-a-few-must-learn-tools-to-build-your-next-AI-project",
+            "created_at": "2023-01-29T16:59:14Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@CTXCBlockchain",
+            "source": {
+                "title": "Cortex Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@ctxcblockchain"
+            },
+            "title": "#Cortex Project Updates #111\ud83e\uddfe\n\nHappy Belated New Year 2023! Hopefully, it's an #AI year\n\nCheck out the first\u2026",
+            "published_at": "2023-01-04T08:41:32Z",
+            "slug": "Cortex-Project-Updates-111-Happy-Belated-New-Year-2023-Hopefully-its-an-AI-year-Check-out-the-first",
+            "currencies": [
+                {
+                    "code": "CTXC",
+                    "title": "Cortex",
+                    "slug": "cortex",
+                    "url": "https:\/\/cryptopanic.com\/news\/cortex\/"
+                }
+            ],
+            "id": 17305168,
+            "url": "https:\/\/cryptopanic.com\/news\/17305168\/Cortex-Project-Updates-111-Happy-Belated-New-Year-2023-Hopefully-its-an-AI-year-Check-out-the-first",
+            "created_at": "2023-01-04T08:41:32Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@CTXCBlockchain",
+            "source": {
+                "title": "Cortex Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@ctxcblockchain"
+            },
+            "title": "Cortex #NFT - Chinese New Year Series\n\n#CNY",
+            "published_at": "2022-12-23T14:00:03Z",
+            "slug": "Cortex-NFT-Chinese-New-Year-Series-CNY",
+            "currencies": [
+                {
+                    "code": "CTXC",
+                    "title": "Cortex",
+                    "slug": "cortex",
+                    "url": "https:\/\/cryptopanic.com\/news\/cortex\/"
+                }
+            ],
+            "id": 17227791,
+            "url": "https:\/\/cryptopanic.com\/news\/17227791\/Cortex-NFT-Chinese-New-Year-Series-CNY",
+            "created_at": "2022-12-23T14:00:03Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

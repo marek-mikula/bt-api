@@ -1,0 +1,827 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=HOT&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "@H_O_L_O_",
+            "source": {
+                "title": "Holo Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@h_o_l_o_"
+            },
+            "title": "RT @Holochain: Join us for a Holochain hAppy Hour! Experience serverless, gas-less, #Web3 apps and play a game together. Let's explore the\u2026",
+            "published_at": "2023-07-11T13:49:55Z",
+            "slug": "RT-Holochain-Join-us-for-a-Holochain-hAppy-Hour-Experience-serverless-gas-less-Web3-apps-and-play-a-game-together-Lets-explore-the",
+            "currencies": [
+                {
+                    "code": "HOT",
+                    "title": "Holo",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "HOT",
+                    "title": "Holo",
+                    "slug": "holotoken",
+                    "url": "https:\/\/cryptopanic.com\/news\/holotoken\/"
+                }
+            ],
+            "id": 18764811,
+            "url": "https:\/\/cryptopanic.com\/news\/18764811\/RT-Holochain-Join-us-for-a-Holochain-hAppy-Hour-Experience-serverless-gas-less-Web3-apps-and-play-a-game-together-Lets-explore-the",
+            "created_at": "2023-07-11T13:49:55Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@H_O_L_O_",
+            "source": {
+                "title": "Holo Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@h_o_l_o_"
+            },
+            "title": "RT @Holochain:  Stay updated with our upcoming events by visiting our brand-new events page on the website. Discov\u2026",
+            "published_at": "2023-07-10T16:22:15Z",
+            "slug": "RT-Holochain-Stay-updated-with-our-upcoming-events-by-visiting-our-brand-new-events-page-on-the-website-Discov",
+            "currencies": [
+                {
+                    "code": "HOT",
+                    "title": "Holo",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "HOT",
+                    "title": "Holo",
+                    "slug": "holotoken",
+                    "url": "https:\/\/cryptopanic.com\/news\/holotoken\/"
+                }
+            ],
+            "id": 18756653,
+            "url": "https:\/\/cryptopanic.com\/news\/18756653\/RT-Holochain-Stay-updated-with-our-upcoming-events-by-visiting-our-brand-new-events-page-on-the-website-Discov",
+            "created_at": "2023-07-10T16:22:15Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@H_O_L_O_",
+            "source": {
+                "title": "Holo Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@h_o_l_o_"
+            },
+            "title": "RT @marycamacho: \ufe0fBeware that there are known #scam Holo and Holochain Telegram channels announcing HOT contract migrations, promising air\u2026",
+            "published_at": "2023-07-08T23:44:43Z",
+            "slug": "RT-marycamacho-Beware-that-there-are-known-scam-Holo-and-Holochain-Telegram-channels-announcing-HOT-contract-migrations-promising-air",
+            "currencies": [
+                {
+                    "code": "HOT",
+                    "title": "Holo",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "HOT",
+                    "title": "Holo",
+                    "slug": "holotoken",
+                    "url": "https:\/\/cryptopanic.com\/news\/holotoken\/"
+                }
+            ],
+            "id": 18745781,
+            "url": "https:\/\/cryptopanic.com\/news\/18745781\/RT-marycamacho-Beware-that-there-are-known-scam-Holo-and-Holochain-Telegram-channels-announcing-HOT-contract-migrations-promising-air",
+            "created_at": "2023-07-08T23:44:43Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@H_O_L_O_",
+            "source": {
+                "title": "Holo Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@h_o_l_o_"
+            },
+            "title": "Learn more about Mark Franks, the new Head of Developer Relations at #Holochain. #DevRel \n\u2026",
+            "published_at": "2023-07-07T11:00:53Z",
+            "slug": "Learn-more-about-Mark-Franks-the-new-Head-of-Developer-Relations-at-Holochain-DevRel",
+            "currencies": [
+                {
+                    "code": "HOT",
+                    "title": "Holo",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "HOT",
+                    "title": "Holo",
+                    "slug": "holotoken",
+                    "url": "https:\/\/cryptopanic.com\/news\/holotoken\/"
+                }
+            ],
+            "id": 18740548,
+            "url": "https:\/\/cryptopanic.com\/news\/18740548\/Learn-more-about-Mark-Franks-the-new-Head-of-Developer-Relations-at-Holochain-DevRel",
+            "created_at": "2023-07-07T11:00:53Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@H_O_L_O_",
+            "source": {
+                "title": "Holo Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@h_o_l_o_"
+            },
+            "title": "Discover the power of @Holochain: a peer-to-peer system that eliminates the need for a centralized point of control\u2026",
+            "published_at": "2023-06-29T13:00:01Z",
+            "slug": "Discover-the-power-of-Holochain-a-peer-to-peer-system-that-eliminates-the-need-for-a-centralized-point-of-control",
+            "currencies": [
+                {
+                    "code": "HOT",
+                    "title": "Holo",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "HOT",
+                    "title": "Holo",
+                    "slug": "holotoken",
+                    "url": "https:\/\/cryptopanic.com\/news\/holotoken\/"
+                }
+            ],
+            "id": 18686044,
+            "url": "https:\/\/cryptopanic.com\/news\/18686044\/Discover-the-power-of-Holochain-a-peer-to-peer-system-that-eliminates-the-need-for-a-centralized-point-of-control",
+            "created_at": "2023-06-29T13:00:01Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@H_O_L_O_",
+            "source": {
+                "title": "Holo Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@h_o_l_o_"
+            },
+            "title": "Dive deeper into the power of local-first interaction and explore the advantages of @Holochain \u2026",
+            "published_at": "2023-06-28T14:29:52Z",
+            "slug": "Dive-deeper-into-the-power-of-local-first-interaction-and-explore-the-advantages-of-Holochain",
+            "currencies": [
+                {
+                    "code": "HOT",
+                    "title": "Holo",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "HOT",
+                    "title": "Holo",
+                    "slug": "holotoken",
+                    "url": "https:\/\/cryptopanic.com\/news\/holotoken\/"
+                }
+            ],
+            "id": 18678018,
+            "url": "https:\/\/cryptopanic.com\/news\/18678018\/Dive-deeper-into-the-power-of-local-first-interaction-and-explore-the-advantages-of-Holochain",
+            "created_at": "2023-06-28T14:29:52Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@H_O_L_O_",
+            "source": {
+                "title": "Holo Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@h_o_l_o_"
+            },
+            "title": "RT @Holochain: Rather than storing #NFT payloads in unvalidated and\/or centralized storage, with #Holochain you can create and validate the\u2026",
+            "published_at": "2023-06-19T16:20:01Z",
+            "slug": "RT-Holochain-Rather-than-storing-NFT-payloads-in-unvalidated-andor-centralized-storage-with-Holochain-you-can-create-and-validate-the",
+            "currencies": [
+                {
+                    "code": "HOT",
+                    "title": "Holo",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "HOT",
+                    "title": "Holo",
+                    "slug": "holotoken",
+                    "url": "https:\/\/cryptopanic.com\/news\/holotoken\/"
+                }
+            ],
+            "id": 18612587,
+            "url": "https:\/\/cryptopanic.com\/news\/18612587\/RT-Holochain-Rather-than-storing-NFT-payloads-in-unvalidated-andor-centralized-storage-with-Holochain-you-can-create-and-validate-the",
+            "created_at": "2023-06-19T16:20:01Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@H_O_L_O_",
+            "source": {
+                "title": "Holo Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@h_o_l_o_"
+            },
+            "title": "RT @Holochain: Here comes #DwebCamp and many insightful and productive workshops and side conversations. We\u2019re looking forward to hearing f\u2026",
+            "published_at": "2023-06-19T15:28:11Z",
+            "slug": "RT-Holochain-Here-comes-DwebCamp-and-many-insightful-and-productive-workshops-and-side-conversations-Were-looking-forward-to-hearing-f",
+            "currencies": [
+                {
+                    "code": "HOT",
+                    "title": "Holo",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "HOT",
+                    "title": "Holo",
+                    "slug": "holotoken",
+                    "url": "https:\/\/cryptopanic.com\/news\/holotoken\/"
+                }
+            ],
+            "id": 18612588,
+            "url": "https:\/\/cryptopanic.com\/news\/18612588\/RT-Holochain-Here-comes-DwebCamp-and-many-insightful-and-productive-workshops-and-side-conversations-Were-looking-forward-to-hearing-f",
+            "created_at": "2023-06-19T15:28:11Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@H_O_L_O_",
+            "source": {
+                "title": "Holo Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@h_o_l_o_"
+            },
+            "title": "RT @Holochain: In this piece, we dive into how #Holochain provides #blockchain with auditable applications integrated with on-chain transac\u2026",
+            "published_at": "2023-06-09T16:39:02Z",
+            "slug": "RT-Holochain-In-this-piece-we-dive-into-how-Holochain-provides-blockchain-with-auditable-applications-integrated-with-on-chain-transac",
+            "currencies": [
+                {
+                    "code": "HOT",
+                    "title": "Holo",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "HOT",
+                    "title": "Holo",
+                    "slug": "holotoken",
+                    "url": "https:\/\/cryptopanic.com\/news\/holotoken\/"
+                }
+            ],
+            "id": 18545851,
+            "url": "https:\/\/cryptopanic.com\/news\/18545851\/RT-Holochain-In-this-piece-we-dive-into-how-Holochain-provides-blockchain-with-auditable-applications-integrated-with-on-chain-transac",
+            "created_at": "2023-06-09T16:39:02Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@H_O_L_O_",
+            "source": {
+                "title": "Holo Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@h_o_l_o_"
+            },
+            "title": "RT @Neighbour_hoods: Taking a moment to look back on our recent meetup in New Zealand organized with @tauil_lucas of #holochain and #enspir\u2026",
+            "published_at": "2023-06-06T17:25:25Z",
+            "slug": "RT-Neighbour_hoods-Taking-a-moment-to-look-back-on-our-recent-meetup-in-New-Zealand-organized-with-tauil_lucas-of-holochain-and-enspir",
+            "currencies": [
+                {
+                    "code": "HOT",
+                    "title": "Holo",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "HOT",
+                    "title": "Holo",
+                    "slug": "holotoken",
+                    "url": "https:\/\/cryptopanic.com\/news\/holotoken\/"
+                }
+            ],
+            "id": 18520329,
+            "url": "https:\/\/cryptopanic.com\/news\/18520329\/RT-Neighbour_hoods-Taking-a-moment-to-look-back-on-our-recent-meetup-in-New-Zealand-organized-with-tauil_lucas-of-holochain-and-enspir",
+            "created_at": "2023-06-06T17:25:25Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@H_O_L_O_",
+            "source": {
+                "title": "Holo Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@h_o_l_o_"
+            },
+            "title": "RT @Holochain: \ufe0f Only two weeks to go until #DWebCamp 2023 and we\u2019re looking forward to connecting with the people, projects, and protocol\u2026",
+            "published_at": "2023-06-06T17:25:20Z",
+            "slug": "RT-Holochain-Only-two-weeks-to-go-until-DWebCamp-2023-and-were-looking-forward-to-connecting-with-the-people-projects-and-protocol",
+            "currencies": [
+                {
+                    "code": "HOT",
+                    "title": "Holo",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "HOT",
+                    "title": "Holo",
+                    "slug": "holotoken",
+                    "url": "https:\/\/cryptopanic.com\/news\/holotoken\/"
+                }
+            ],
+            "id": 18520330,
+            "url": "https:\/\/cryptopanic.com\/news\/18520330\/RT-Holochain-Only-two-weeks-to-go-until-DWebCamp-2023-and-were-looking-forward-to-connecting-with-the-people-projects-and-protocol",
+            "created_at": "2023-06-06T17:25:20Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@H_O_L_O_",
+            "source": {
+                "title": "Holo Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@h_o_l_o_"
+            },
+            "title": "Read @Holochain hApps Spotlight with @flux_social and @_a_d_4_m ",
+            "published_at": "2023-06-02T15:03:12Z",
+            "slug": "Read-Holochain-hApps-Spotlight-with-flux_social-and-_a_d_4_m",
+            "currencies": [
+                {
+                    "code": "HOT",
+                    "title": "Holo",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "HOT",
+                    "title": "Holo",
+                    "slug": "holotoken",
+                    "url": "https:\/\/cryptopanic.com\/news\/holotoken\/"
+                }
+            ],
+            "id": 18493140,
+            "url": "https:\/\/cryptopanic.com\/news\/18493140\/Read-Holochain-hApps-Spotlight-with-flux_social-and-_a_d_4_m",
+            "created_at": "2023-06-02T15:03:12Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@H_O_L_O_",
+            "source": {
+                "title": "Holo Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@h_o_l_o_"
+            },
+            "title": "\ufe0f@marycamacho will be joining the talk in 15min. Don't miss out! #Web3Berlin #Web3",
+            "published_at": "2023-06-02T11:47:32Z",
+            "slug": "marycamacho-will-be-joining-the-talk-in-15min-Dont-miss-out-Web3Berlin-Web3",
+            "currencies": [
+                {
+                    "code": "HOT",
+                    "title": "Holo",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "HOT",
+                    "title": "Holo",
+                    "slug": "holotoken",
+                    "url": "https:\/\/cryptopanic.com\/news\/holotoken\/"
+                }
+            ],
+            "id": 18493141,
+            "url": "https:\/\/cryptopanic.com\/news\/18493141\/marycamacho-will-be-joining-the-talk-in-15min-Dont-miss-out-Web3Berlin-Web3",
+            "created_at": "2023-06-02T11:47:32Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@H_O_L_O_",
+            "source": {
+                "title": "Holo Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@h_o_l_o_"
+            },
+            "title": "RT @Holochain:  We\u2019re pleased to share @RaiTurk_\u2019s peer-reviewed article, exploring the potential of #Holochain as solutions to the #data\u2026",
+            "published_at": "2023-05-29T15:05:01Z",
+            "slug": "RT-Holochain-Were-pleased-to-share-RaiTurk_s-peer-reviewed-article-exploring-the-potential-of-Holochain-as-solutions-to-the-data",
+            "currencies": [
+                {
+                    "code": "HOT",
+                    "title": "Holo",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "HOT",
+                    "title": "Holo",
+                    "slug": "holotoken",
+                    "url": "https:\/\/cryptopanic.com\/news\/holotoken\/"
+                }
+            ],
+            "id": 18459289,
+            "url": "https:\/\/cryptopanic.com\/news\/18459289\/RT-Holochain-Were-pleased-to-share-RaiTurk_s-peer-reviewed-article-exploring-the-potential-of-Holochain-as-solutions-to-the-data",
+            "created_at": "2023-05-29T15:05:01Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@H_O_L_O_",
+            "source": {
+                "title": "Holo Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@h_o_l_o_"
+            },
+            "title": "Did you miss the AMA last week? Here's the recap \u2b07\ufe0f",
+            "published_at": "2023-05-29T08:00:10Z",
+            "slug": "Did-you-miss-the-AMA-last-week-Heres-the-recap",
+            "currencies": [
+                {
+                    "code": "HOT",
+                    "title": "Holo",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "HOT",
+                    "title": "Holo",
+                    "slug": "holotoken",
+                    "url": "https:\/\/cryptopanic.com\/news\/holotoken\/"
+                }
+            ],
+            "id": 18459290,
+            "url": "https:\/\/cryptopanic.com\/news\/18459290\/Did-you-miss-the-AMA-last-week-Heres-the-recap",
+            "created_at": "2023-05-29T08:00:10Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@H_O_L_O_",
+            "source": {
+                "title": "Holo Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@h_o_l_o_"
+            },
+            "title": "RT @helioscomm: Hey #Holochain crowd. Recently I learned that all the Holochain betas are creating a lot of confusion among people watching\u2026",
+            "published_at": "2023-05-26T13:20:19Z",
+            "slug": "RT-helioscomm-Hey-Holochain-crowd-Recently-I-learned-that-all-the-Holochain-betas-are-creating-a-lot-of-confusion-among-people-watching",
+            "currencies": [
+                {
+                    "code": "HOT",
+                    "title": "Holo",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "HOT",
+                    "title": "Holo",
+                    "slug": "holotoken",
+                    "url": "https:\/\/cryptopanic.com\/news\/holotoken\/"
+                }
+            ],
+            "id": 18441827,
+            "url": "https:\/\/cryptopanic.com\/news\/18441827\/RT-helioscomm-Hey-Holochain-crowd-Recently-I-learned-that-all-the-Holochain-betas-are-creating-a-lot-of-confusion-among-people-watching",
+            "created_at": "2023-05-26T13:20:19Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@H_O_L_O_",
+            "source": {
+                "title": "Holo Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@h_o_l_o_"
+            },
+            "title": "Our very own @marycamacho will be speaking at @berlinweb3com in Berlin and @Holochain has some free tickets to shar\u2026",
+            "published_at": "2023-05-25T16:53:25Z",
+            "slug": "Our-very-own-marycamacho-will-be-speaking-at-berlinweb3com-in-Berlin-and-Holochain-has-some-free-tickets-to-shar",
+            "currencies": [
+                {
+                    "code": "HOT",
+                    "title": "Holo",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "HOT",
+                    "title": "Holo",
+                    "slug": "holotoken",
+                    "url": "https:\/\/cryptopanic.com\/news\/holotoken\/"
+                }
+            ],
+            "id": 18433556,
+            "url": "https:\/\/cryptopanic.com\/news\/18433556\/Our-very-own-marycamacho-will-be-speaking-at-berlinweb3com-in-Berlin-and-Holochain-has-some-free-tickets-to-shar",
+            "created_at": "2023-05-25T16:53:25Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@H_O_L_O_",
+            "source": {
+                "title": "Holo Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@h_o_l_o_"
+            },
+            "title": "RT @Holochain: \ufe0f Will you be in Berlin 10\u201311 June? Connect with us and other Web3 explorers at #Web3Berlin. We have several free tickets f\u2026",
+            "published_at": "2023-05-25T16:34:07Z",
+            "slug": "RT-Holochain-Will-you-be-in-Berlin-1011-June-Connect-with-us-and-other-Web3-explorers-at-Web3Berlin-We-have-several-free-tickets-f",
+            "currencies": [
+                {
+                    "code": "HOT",
+                    "title": "Holo",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "HOT",
+                    "title": "Holo",
+                    "slug": "holotoken",
+                    "url": "https:\/\/cryptopanic.com\/news\/holotoken\/"
+                }
+            ],
+            "id": 18433557,
+            "url": "https:\/\/cryptopanic.com\/news\/18433557\/RT-Holochain-Will-you-be-in-Berlin-1011-June-Connect-with-us-and-other-Web3-explorers-at-Web3Berlin-We-have-several-free-tickets-f",
+            "created_at": "2023-05-25T16:34:07Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@H_O_L_O_",
+            "source": {
+                "title": "Holo Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@h_o_l_o_"
+            },
+            "title": "The #AMA No. 54 with @dcaworld, @marycamacho, and @artbrock is only 10 minutes away!\n\n\u25b6\ufe0f Tune in.",
+            "published_at": "2023-05-23T18:50:00Z",
+            "slug": "The-AMA-No-54-with-dcaworld-marycamacho-and-artbrock-is-only-10-minutes-away-Tune-in",
+            "currencies": [
+                {
+                    "code": "HOT",
+                    "title": "Holo",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "HOT",
+                    "title": "Holo",
+                    "slug": "holotoken",
+                    "url": "https:\/\/cryptopanic.com\/news\/holotoken\/"
+                }
+            ],
+            "id": 18414714,
+            "url": "https:\/\/cryptopanic.com\/news\/18414714\/The-AMA-No-54-with-dcaworld-marycamacho-and-artbrock-is-only-10-minutes-away-Tune-in",
+            "created_at": "2023-05-23T18:50:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@H_O_L_O_",
+            "source": {
+                "title": "Holo Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@h_o_l_o_"
+            },
+            "title": "The #AMA No. 54 with @dcaworld, @marycamacho, @artbrock, and @zippy314 is starting in 1 hour!\n\n\u25b6\ufe0f Tune in.",
+            "published_at": "2023-05-23T18:00:00Z",
+            "slug": "The-AMA-No-54-with-dcaworld-marycamacho-artbrock-and-zippy314-is-starting-in-1-hour-Tune-in",
+            "currencies": [
+                {
+                    "code": "HOT",
+                    "title": "Holo",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "HOT",
+                    "title": "Holo",
+                    "slug": "holotoken",
+                    "url": "https:\/\/cryptopanic.com\/news\/holotoken\/"
+                }
+            ],
+            "id": 18414715,
+            "url": "https:\/\/cryptopanic.com\/news\/18414715\/The-AMA-No-54-with-dcaworld-marycamacho-artbrock-and-zippy314-is-starting-in-1-hour-Tune-in",
+            "created_at": "2023-05-23T18:00:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

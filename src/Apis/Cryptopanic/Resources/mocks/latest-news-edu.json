@@ -1,0 +1,707 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=EDU&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "@opencampus_xyz",
+            "source": {
+                "title": "EDU Coin Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@opencampus_xyz"
+            },
+            "title": " We are thrilled to announce our partnership with @teamalgoritma, a leading data science and analytics training pr\u2026",
+            "published_at": "2023-07-11T07:30:09Z",
+            "slug": "We-are-thrilled-to-announce-our-partnership-with-teamalgoritma-a-leading-data-science-and-analytics-training-pr",
+            "currencies": [
+                {
+                    "code": "EDU",
+                    "title": "Open Campus",
+                    "slug": "edu-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/edu-coin\/"
+                }
+            ],
+            "id": 18763906,
+            "url": "https:\/\/cryptopanic.com\/news\/18763906\/We-are-thrilled-to-announce-our-partnership-with-teamalgoritma-a-leading-data-science-and-analytics-training-pr",
+            "created_at": "2023-07-11T07:30:09Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@opencampus_xyz",
+            "source": {
+                "title": "EDU Coin Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@opencampus_xyz"
+            },
+            "title": " World-class education meets cutting-edge technology!\nWe're thrilled to announce our partnership with GEMS Educati\u2026",
+            "published_at": "2023-07-10T08:14:09Z",
+            "slug": "World-class-education-meets-cutting-edge-technology-Were-thrilled-to-announce-our-partnership-with-GEMS-Educati",
+            "currencies": [
+                {
+                    "code": "EDU",
+                    "title": "Open Campus",
+                    "slug": "edu-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/edu-coin\/"
+                }
+            ],
+            "id": 18755796,
+            "url": "https:\/\/cryptopanic.com\/news\/18755796\/World-class-education-meets-cutting-edge-technology-Were-thrilled-to-announce-our-partnership-with-GEMS-Educati",
+            "created_at": "2023-07-10T08:14:09Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@opencampus_xyz",
+            "source": {
+                "title": "EDU Coin Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@opencampus_xyz"
+            },
+            "title": "RT @ysiu: @MorganStanley predicts that global #education will become an $8 trillion market, new technology is going to offer more equitable\u2026",
+            "published_at": "2023-07-09T07:30:52Z",
+            "slug": "RT-ysiu-MorganStanley-predicts-that-global-education-will-become-an-8-trillion-market-new-technology-is-going-to-offer-more-equitable",
+            "currencies": [
+                {
+                    "code": "EDU",
+                    "title": "Open Campus",
+                    "slug": "edu-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/edu-coin\/"
+                }
+            ],
+            "id": 18749504,
+            "url": "https:\/\/cryptopanic.com\/news\/18749504\/RT-ysiu-MorganStanley-predicts-that-global-education-will-become-an-8-trillion-market-new-technology-is-going-to-offer-more-equitable",
+            "created_at": "2023-07-09T07:30:52Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@opencampus_xyz",
+            "source": {
+                "title": "EDU Coin Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@opencampus_xyz"
+            },
+            "title": "RT @hellowillfan: After months of anticipation, we can finally announce our strategic partnership with @opencampus_xyz! We're combining our\u2026",
+            "published_at": "2023-07-07T08:11:51Z",
+            "slug": "RT-hellowillfan-After-months-of-anticipation-we-can-finally-announce-our-strategic-partnership-with-opencampus_xyz-Were-combining-our",
+            "currencies": [
+                {
+                    "code": "EDU",
+                    "title": "Open Campus",
+                    "slug": "edu-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/edu-coin\/"
+                }
+            ],
+            "id": 18739824,
+            "url": "https:\/\/cryptopanic.com\/news\/18739824\/RT-hellowillfan-After-months-of-anticipation-we-can-finally-announce-our-strategic-partnership-with-opencampus_xyz-Were-combining-our",
+            "created_at": "2023-07-07T08:11:51Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@opencampus_xyz",
+            "source": {
+                "title": "EDU Coin Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@opencampus_xyz"
+            },
+            "title": "RT @newcampushq: We've joined forces with the $650m @opencampus_xyz Foundation as a strategic partner to revolutionize education. The indus\u2026",
+            "published_at": "2023-07-07T08:11:47Z",
+            "slug": "RT-newcampushq-Weve-joined-forces-with-the-650m-opencampus_xyz-Foundation-as-a-strategic-partner-to-revolutionize-education-The-indus",
+            "currencies": [
+                {
+                    "code": "EDU",
+                    "title": "Open Campus",
+                    "slug": "edu-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/edu-coin\/"
+                }
+            ],
+            "id": 18739825,
+            "url": "https:\/\/cryptopanic.com\/news\/18739825\/RT-newcampushq-Weve-joined-forces-with-the-650m-opencampus_xyz-Foundation-as-a-strategic-partner-to-revolutionize-education-The-indus",
+            "created_at": "2023-07-07T08:11:47Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@opencampus_xyz",
+            "source": {
+                "title": "EDU Coin Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@opencampus_xyz"
+            },
+            "title": "We are thrilled to announce @newcampushq will join us as the very first partner of OC Alliance! They are one of the\u2026",
+            "published_at": "2023-07-07T06:46:12Z",
+            "slug": "We-are-thrilled-to-announce-newcampushq-will-join-us-as-the-very-first-partner-of-OC-Alliance-They-are-one-of-the",
+            "currencies": [
+                {
+                    "code": "EDU",
+                    "title": "Open Campus",
+                    "slug": "edu-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/edu-coin\/"
+                }
+            ],
+            "id": 18732161,
+            "url": "https:\/\/cryptopanic.com\/news\/18732161\/We-are-thrilled-to-announce-newcampushq-will-join-us-as-the-very-first-partner-of-OC-Alliance-They-are-one-of-the",
+            "created_at": "2023-07-07T06:46:12Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@opencampus_xyz",
+            "source": {
+                "title": "EDU Coin Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@opencampus_xyz"
+            },
+            "title": "It\u2019s time for some updates!! We will be having an Assembly with the core team @vel0xcity @alpacaaa328 at 1pm UTC to\u2026",
+            "published_at": "2023-07-06T09:00:54Z",
+            "slug": "Its-time-for-some-updates-We-will-be-having-an-Assembly-with-the-core-team-vel0xcity-alpacaaa328-at-1pm-UTC-to",
+            "currencies": [
+                {
+                    "code": "EDU",
+                    "title": "Open Campus",
+                    "slug": "edu-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/edu-coin\/"
+                }
+            ],
+            "id": 18732162,
+            "url": "https:\/\/cryptopanic.com\/news\/18732162\/Its-time-for-some-updates-We-will-be-having-an-Assembly-with-the-core-team-vel0xcity-alpacaaa328-at-1pm-UTC-to",
+            "created_at": "2023-07-06T09:00:54Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@opencampus_xyz",
+            "source": {
+                "title": "EDU Coin Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@opencampus_xyz"
+            },
+            "title": "The OC Alliance. What is it?\n\nAt its core, the OC Alliance is a consortium of companies that have integrated the\u2026",
+            "published_at": "2023-07-06T06:30:31Z",
+            "slug": "The-OC-Alliance-What-is-it-At-its-core-the-OC-Alliance-is-a-consortium-of-companies-that-have-integrated-the",
+            "currencies": [
+                {
+                    "code": "EDU",
+                    "title": "Open Campus",
+                    "slug": "edu-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/edu-coin\/"
+                }
+            ],
+            "id": 18723598,
+            "url": "https:\/\/cryptopanic.com\/news\/18723598\/The-OC-Alliance-What-is-it-At-its-core-the-OC-Alliance-is-a-consortium-of-companies-that-have-integrated-the",
+            "created_at": "2023-07-06T06:30:31Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@opencampus_xyz",
+            "source": {
+                "title": "EDU Coin Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@opencampus_xyz"
+            },
+            "title": "Someone's been sweeping \ud83e\uddf9",
+            "published_at": "2023-07-06T05:54:53Z",
+            "slug": "Someones-been-sweeping",
+            "currencies": [
+                {
+                    "code": "EDU",
+                    "title": "Open Campus",
+                    "slug": "edu-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/edu-coin\/"
+                }
+            ],
+            "id": 18723599,
+            "url": "https:\/\/cryptopanic.com\/news\/18723599\/Someones-been-sweeping",
+            "created_at": "2023-07-06T05:54:53Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@opencampus_xyz",
+            "source": {
+                "title": "EDU Coin Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@opencampus_xyz"
+            },
+            "title": "Good summary on the latest EduFi thesis and $EDU utility",
+            "published_at": "2023-07-06T05:02:21Z",
+            "slug": "Good-summary-on-the-latest-EduFi-thesis-and-EDU-utility",
+            "currencies": [
+                {
+                    "code": "EDU",
+                    "title": "Open Campus",
+                    "slug": "edu-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/edu-coin\/"
+                }
+            ],
+            "id": 18723600,
+            "url": "https:\/\/cryptopanic.com\/news\/18723600\/Good-summary-on-the-latest-EduFi-thesis-and-EDU-utility",
+            "created_at": "2023-07-06T05:02:21Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@opencampus_xyz",
+            "source": {
+                "title": "EDU Coin Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@opencampus_xyz"
+            },
+            "title": "What have we been cooking and why do we think Web3 Education and EduFi will become the most important trend of 2023\u2026",
+            "published_at": "2023-07-05T06:03:25Z",
+            "slug": "What-have-we-been-cooking-and-why-do-we-think-Web3-Education-and-EduFi-will-become-the-most-important-trend-of-2023",
+            "currencies": [
+                {
+                    "code": "EDU",
+                    "title": "Open Campus",
+                    "slug": "edu-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/edu-coin\/"
+                }
+            ],
+            "id": 18715906,
+            "url": "https:\/\/cryptopanic.com\/news\/18715906\/What-have-we-been-cooking-and-why-do-we-think-Web3-Education-and-EduFi-will-become-the-most-important-trend-of-2023",
+            "created_at": "2023-07-05T06:03:25Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@opencampus_xyz",
+            "source": {
+                "title": "EDU Coin Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@opencampus_xyz"
+            },
+            "title": "IMPORTANT ANNOUNCEMENT\n\nIn light of recent macro volatility and market conditions, we have decided to delay all o\u2026",
+            "published_at": "2023-07-04T06:00:06Z",
+            "slug": "IMPORTANT-ANNOUNCEMENT-In-light-of-recent-macro-volatility-and-market-conditions-we-have-decided-to-delay-all-o",
+            "currencies": [
+                {
+                    "code": "EDU",
+                    "title": "Open Campus",
+                    "slug": "edu-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/edu-coin\/"
+                }
+            ],
+            "id": 18708640,
+            "url": "https:\/\/cryptopanic.com\/news\/18708640\/IMPORTANT-ANNOUNCEMENT-In-light-of-recent-macro-volatility-and-market-conditions-we-have-decided-to-delay-all-o",
+            "created_at": "2023-07-04T06:00:06Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@opencampus_xyz",
+            "source": {
+                "title": "EDU Coin Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@opencampus_xyz"
+            },
+            "title": "OC Labs 1st Semester is rocking! \n\nOur launch partner @TinyTapAB is joining forces with industry leaders including\u2026",
+            "published_at": "2023-07-03T13:32:22Z",
+            "slug": "OC-Labs-1st-Semester-is-rocking-Our-launch-partner-TinyTapAB-is-joining-forces-with-industry-leaders-including",
+            "currencies": [
+                {
+                    "code": "EDU",
+                    "title": "Open Campus",
+                    "slug": "edu-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/edu-coin\/"
+                }
+            ],
+            "id": 18708641,
+            "url": "https:\/\/cryptopanic.com\/news\/18708641\/OC-Labs-1st-Semester-is-rocking-Our-launch-partner-TinyTapAB-is-joining-forces-with-industry-leaders-including",
+            "created_at": "2023-07-03T13:32:22Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@opencampus_xyz",
+            "source": {
+                "title": "EDU Coin Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@opencampus_xyz"
+            },
+            "title": "RT @animocabrands:  Exciting news! Yat Siu (@ysiu), our co-founder and executive chairman, has been appointed to the Task Force on Promoti\u2026",
+            "published_at": "2023-07-03T13:15:53Z",
+            "slug": "RT-animocabrands-Exciting-news-Yat-Siu-ysiu-our-co-founder-and-executive-chairman-has-been-appointed-to-the-Task-Force-on-Promoti",
+            "currencies": [
+                {
+                    "code": "EDU",
+                    "title": "Open Campus",
+                    "slug": "edu-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/edu-coin\/"
+                }
+            ],
+            "id": 18708642,
+            "url": "https:\/\/cryptopanic.com\/news\/18708642\/RT-animocabrands-Exciting-news-Yat-Siu-ysiu-our-co-founder-and-executive-chairman-has-been-appointed-to-the-Task-Force-on-Promoti",
+            "created_at": "2023-07-03T13:15:53Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@opencampus_xyz",
+            "source": {
+                "title": "EDU Coin Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@opencampus_xyz"
+            },
+            "title": "RT @TinyTapAB:  We are thrilled to share our incredible experience at the largest Edtech conference, ISTELive2023, held in the vibrant cit\u2026",
+            "published_at": "2023-07-03T13:15:34Z",
+            "slug": "RT-TinyTapAB-We-are-thrilled-to-share-our-incredible-experience-at-the-largest-Edtech-conference-ISTELive2023-held-in-the-vibrant-cit",
+            "currencies": [
+                {
+                    "code": "EDU",
+                    "title": "Open Campus",
+                    "slug": "edu-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/edu-coin\/"
+                }
+            ],
+            "id": 18708643,
+            "url": "https:\/\/cryptopanic.com\/news\/18708643\/RT-TinyTapAB-We-are-thrilled-to-share-our-incredible-experience-at-the-largest-Edtech-conference-ISTELive2023-held-in-the-vibrant-cit",
+            "created_at": "2023-07-03T13:15:34Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@opencampus_xyz",
+            "source": {
+                "title": "EDU Coin Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@opencampus_xyz"
+            },
+            "title": "Check out our Dream Tree at #ISTE that is overflowing with great ideas from teachers applying for our $10M\u2026",
+            "published_at": "2023-06-30T15:24:14Z",
+            "slug": "Check-out-our-Dream-Tree-at-ISTE-that-is-overflowing-with-great-ideas-from-teachers-applying-for-our-10M",
+            "currencies": [
+                {
+                    "code": "EDU",
+                    "title": "Open Campus",
+                    "slug": "edu-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/edu-coin\/"
+                }
+            ],
+            "id": 18693123,
+            "url": "https:\/\/cryptopanic.com\/news\/18693123\/Check-out-our-Dream-Tree-at-ISTE-that-is-overflowing-with-great-ideas-from-teachers-applying-for-our-10M",
+            "created_at": "2023-06-30T15:24:14Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@opencampus_xyz",
+            "source": {
+                "title": "EDU Coin Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@opencampus_xyz"
+            },
+            "title": "The Genesis NFT Mint has officially ENDED! \nThe team would like to say Thank You to all of you who minted, opted\u2026",
+            "published_at": "2023-06-29T11:59:51Z",
+            "slug": "The-Genesis-NFT-Mint-has-officially-ENDED-The-team-would-like-to-say-Thank-You-to-all-of-you-who-minted-opted",
+            "currencies": [
+                {
+                    "code": "EDU",
+                    "title": "Open Campus",
+                    "slug": "edu-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/edu-coin\/"
+                }
+            ],
+            "id": 18685214,
+            "url": "https:\/\/cryptopanic.com\/news\/18685214\/The-Genesis-NFT-Mint-has-officially-ENDED-The-team-would-like-to-say-Thank-You-to-all-of-you-who-minted-opted",
+            "created_at": "2023-06-29T11:59:51Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@opencampus_xyz",
+            "source": {
+                "title": "EDU Coin Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@opencampus_xyz"
+            },
+            "title": "Clock is ticking! \u23f3\nGenesis mint is closing in a day at 11am UTC tomorrow! 1\ufe0f\u20e31\ufe0f\u20e3\nHead over to\u2026",
+            "published_at": "2023-06-28T15:03:17Z",
+            "slug": "Clock-is-ticking-Genesis-mint-is-closing-in-a-day-at-11am-UTC-tomorrow-11-Head-over-to",
+            "currencies": [
+                {
+                    "code": "EDU",
+                    "title": "Open Campus",
+                    "slug": "edu-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/edu-coin\/"
+                }
+            ],
+            "id": 18677125,
+            "url": "https:\/\/cryptopanic.com\/news\/18677125\/Clock-is-ticking-Genesis-mint-is-closing-in-a-day-at-11am-UTC-tomorrow-11-Head-over-to",
+            "created_at": "2023-06-28T15:03:17Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@opencampus_xyz",
+            "source": {
+                "title": "EDU Coin Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@opencampus_xyz"
+            },
+            "title": "It was a blast meeting everyone at the booth on Day 2!\ud83e\udd17 \nNow, let's gear up for the next round!",
+            "published_at": "2023-06-28T08:20:16Z",
+            "slug": "It-was-a-blast-meeting-everyone-at-the-booth-on-Day-2-Now-lets-gear-up-for-the-next-round",
+            "currencies": [
+                {
+                    "code": "EDU",
+                    "title": "Open Campus",
+                    "slug": "edu-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/edu-coin\/"
+                }
+            ],
+            "id": 18677126,
+            "url": "https:\/\/cryptopanic.com\/news\/18677126\/It-was-a-blast-meeting-everyone-at-the-booth-on-Day-2-Now-lets-gear-up-for-the-next-round",
+            "created_at": "2023-06-28T08:20:16Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@opencampus_xyz",
+            "source": {
+                "title": "EDU Coin Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@opencampus_xyz"
+            },
+            "title": "Come join us at #ISTELive23 in Philly, US where @TinyTapAB is bringing Open Campus to meet you IRL! \nIt is the big\u2026",
+            "published_at": "2023-06-27T10:00:14Z",
+            "slug": "Come-join-us-at-ISTELive23-in-Philly-US-where-TinyTapAB-is-bringing-Open-Campus-to-meet-you-IRL-It-is-the-big",
+            "currencies": [
+                {
+                    "code": "EDU",
+                    "title": "Open Campus",
+                    "slug": "edu-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/edu-coin\/"
+                }
+            ],
+            "id": 18668887,
+            "url": "https:\/\/cryptopanic.com\/news\/18668887\/Come-join-us-at-ISTELive23-in-Philly-US-where-TinyTapAB-is-bringing-Open-Campus-to-meet-you-IRL-It-is-the-big",
+            "created_at": "2023-06-27T10:00:14Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

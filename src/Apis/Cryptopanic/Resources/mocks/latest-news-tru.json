@@ -1,0 +1,713 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=TRU&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "@TrueFiDAO",
+            "source": {
+                "title": "TrueFi Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@truefidao"
+            },
+            "title": "RT @TheSkyhopper: New product on @TrueFiDAO? It sure beats yields in a lot of things these days...\n\n(Note: I've seen similar ones on @mapl\u2026",
+            "published_at": "2023-06-21T20:18:48Z",
+            "slug": "RT-TheSkyhopper-New-product-on-TrueFiDAO-It-sure-beats-yields-in-a-lot-of-things-these-days-Note-Ive-seen-similar-ones-on-mapl",
+            "currencies": [
+                {
+                    "code": "TRU",
+                    "title": "TrueFi",
+                    "slug": "truefi",
+                    "url": "https:\/\/cryptopanic.com\/news\/truefi\/"
+                }
+            ],
+            "id": 18631803,
+            "url": "https:\/\/cryptopanic.com\/news\/18631803\/RT-TheSkyhopper-New-product-on-TrueFiDAO-It-sure-beats-yields-in-a-lot-of-things-these-days-Note-Ive-seen-similar-ones-on-mapl",
+            "created_at": "2023-06-21T20:18:48Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@TrueFiDAO",
+            "source": {
+                "title": "TrueFi Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@truefidao"
+            },
+            "title": "RT @DeFiance_App: .@TrueFiDAO community page is now live on .\n\n$TRU is now listed on #DeFianceSwap.\n\nTrueFi is DeFi\u2019\u2026",
+            "published_at": "2023-06-19T18:26:44Z",
+            "slug": "RT-DeFiance_App-TrueFiDAO-community-page-is-now-live-on-TRU-is-now-listed-on-DeFianceSwap-TrueFi-is-DeFi",
+            "currencies": [
+                {
+                    "code": "TRU",
+                    "title": "TrueFi",
+                    "slug": "truefi",
+                    "url": "https:\/\/cryptopanic.com\/news\/truefi\/"
+                }
+            ],
+            "id": 18615599,
+            "url": "https:\/\/cryptopanic.com\/news\/18615599\/RT-DeFiance_App-TrueFiDAO-community-page-is-now-live-on-TRU-is-now-listed-on-DeFianceSwap-TrueFi-is-DeFi",
+            "created_at": "2023-06-19T18:26:44Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Truebitprotocol",
+            "source": {
+                "title": "Truebit Protocol Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@truebitprotocol"
+            },
+            "title": "Update alert! Truebit\u2019s latest release introduces significant updates featuring improved syncing retention and sea\u2026",
+            "published_at": "2023-06-15T17:28:28Z",
+            "slug": "Update-alert-Truebits-latest-release-introduces-significant-updates-featuring-improved-syncing-retention-and-sea",
+            "currencies": [
+                {
+                    "code": "TRU",
+                    "title": "Truebit Protocol",
+                    "slug": "truebit-protocol",
+                    "url": "https:\/\/cryptopanic.com\/news\/truebit-protocol\/"
+                }
+            ],
+            "id": 18590994,
+            "url": "https:\/\/cryptopanic.com\/news\/18590994\/Update-alert-Truebits-latest-release-introduces-significant-updates-featuring-improved-syncing-retention-and-sea",
+            "created_at": "2023-06-15T17:28:28Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Truebitprotocol",
+            "source": {
+                "title": "Truebit Protocol Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@truebitprotocol"
+            },
+            "title": "We just released a new version of Truebit in Docker hub.\n\nGeth 1.12 Krogam (end of POW)\nSync retention\nGoerli and M\u2026",
+            "published_at": "2023-06-02T15:34:03Z",
+            "slug": "We-just-released-a-new-version-of-Truebit-in-Docker-hub-Geth-112-Krogam-end-of-POW-Sync-retention-Goerli-and-M",
+            "currencies": [
+                {
+                    "code": "TRU",
+                    "title": "Truebit Protocol",
+                    "slug": "truebit-protocol",
+                    "url": "https:\/\/cryptopanic.com\/news\/truebit-protocol\/"
+                }
+            ],
+            "id": 18495934,
+            "url": "https:\/\/cryptopanic.com\/news\/18495934\/We-just-released-a-new-version-of-Truebit-in-Docker-hub-Geth-112-Krogam-end-of-POW-Sync-retention-Goerli-and-M",
+            "created_at": "2023-06-02T15:34:03Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@TrueFiDAO",
+            "source": {
+                "title": "TrueFi Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@truefidao"
+            },
+            "title": "RT @wallfacerlabs: (4\/5) The tranching and securitization features on today's credit protocols look similar at a high level but have some k\u2026",
+            "published_at": "2023-05-25T21:55:22Z",
+            "slug": "RT-wallfacerlabs-45-The-tranching-and-securitization-features-on-todays-credit-protocols-look-similar-at-a-high-level-but-have-some-k",
+            "currencies": [
+                {
+                    "code": "TRU",
+                    "title": "TrueFi",
+                    "slug": "truefi",
+                    "url": "https:\/\/cryptopanic.com\/news\/truefi\/"
+                }
+            ],
+            "id": 18436778,
+            "url": "https:\/\/cryptopanic.com\/news\/18436778\/RT-wallfacerlabs-45-The-tranching-and-securitization-features-on-todays-credit-protocols-look-similar-at-a-high-level-but-have-some-k",
+            "created_at": "2023-05-25T21:55:22Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@TrueFiDAO",
+            "source": {
+                "title": "TrueFi Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@truefidao"
+            },
+            "title": "The team at @wallfacerlabs has published an overview of tranching solutions used by leading credit\/RWA protocols.\u2026",
+            "published_at": "2023-05-25T21:54:40Z",
+            "slug": "The-team-at-wallfacerlabs-has-published-an-overview-of-tranching-solutions-used-by-leading-creditRWA-protocols",
+            "currencies": [
+                {
+                    "code": "TRU",
+                    "title": "TrueFi",
+                    "slug": "truefi",
+                    "url": "https:\/\/cryptopanic.com\/news\/truefi\/"
+                }
+            ],
+            "id": 18436779,
+            "url": "https:\/\/cryptopanic.com\/news\/18436779\/The-team-at-wallfacerlabs-has-published-an-overview-of-tranching-solutions-used-by-leading-creditRWA-protocols",
+            "created_at": "2023-05-25T21:54:40Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Truebitprotocol",
+            "source": {
+                "title": "Truebit Protocol Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@truebitprotocol"
+            },
+            "title": "Exploring the role of Web3 beyond blockchains at GOTOChicago. How can decentralization, trustless compute, and indu\u2026",
+            "published_at": "2023-05-25T16:28:34Z",
+            "slug": "Exploring-the-role-of-Web3-beyond-blockchains-at-GOTOChicago-How-can-decentralization-trustless-compute-and-indu",
+            "currencies": [
+                {
+                    "code": "TRU",
+                    "title": "Truebit Protocol",
+                    "slug": "truebit-protocol",
+                    "url": "https:\/\/cryptopanic.com\/news\/truebit-protocol\/"
+                }
+            ],
+            "id": 18436781,
+            "url": "https:\/\/cryptopanic.com\/news\/18436781\/Exploring-the-role-of-Web3-beyond-blockchains-at-GOTOChicago-How-can-decentralization-trustless-compute-and-indu",
+            "created_at": "2023-05-25T16:28:34Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@TrueFiDAO",
+            "source": {
+                "title": "TrueFi Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@truefidao"
+            },
+            "title": "Wallfacer Labs has proposed TFIP-6 which improves TrueFi's security around governance processes. Please review on t\u2026",
+            "published_at": "2023-05-24T17:36:00Z",
+            "slug": "Wallfacer-Labs-has-proposed-TFIP-6-which-improves-TrueFis-security-around-governance-processes-Please-review-on-t",
+            "currencies": [
+                {
+                    "code": "TRU",
+                    "title": "TrueFi",
+                    "slug": "truefi",
+                    "url": "https:\/\/cryptopanic.com\/news\/truefi\/"
+                }
+            ],
+            "id": 18427918,
+            "url": "https:\/\/cryptopanic.com\/news\/18427918\/Wallfacer-Labs-has-proposed-TFIP-6-which-improves-TrueFis-security-around-governance-processes-Please-review-on-t",
+            "created_at": "2023-05-24T17:36:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Truebitprotocol",
+            "source": {
+                "title": "Truebit Protocol Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@truebitprotocol"
+            },
+            "title": "#GOTOchgo is a wrap! Great to connect with so many bright minds, discussing how #Web3 is shaping the future of ente\u2026",
+            "published_at": "2023-05-22T22:54:12Z",
+            "slug": "GOTOchgo-is-a-wrap-Great-to-connect-with-so-many-bright-minds-discussing-how-Web3-is-shaping-the-future-of-ente",
+            "currencies": [
+                {
+                    "code": "TRU",
+                    "title": "Truebit Protocol",
+                    "slug": "truebit-protocol",
+                    "url": "https:\/\/cryptopanic.com\/news\/truebit-protocol\/"
+                }
+            ],
+            "id": 18408898,
+            "url": "https:\/\/cryptopanic.com\/news\/18408898\/GOTOchgo-is-a-wrap-Great-to-connect-with-so-many-bright-minds-discussing-how-Web3-is-shaping-the-future-of-ente",
+            "created_at": "2023-05-22T22:54:12Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@TrueFiDAO",
+            "source": {
+                "title": "TrueFi Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@truefidao"
+            },
+            "title": "RT @tallyxyz: don't look now but the DAOs are DAOing",
+            "published_at": "2023-05-22T14:04:51Z",
+            "slug": "RT-tallyxyz-dont-look-now-but-the-DAOs-are-DAOing",
+            "currencies": [
+                {
+                    "code": "TRU",
+                    "title": "TrueFi",
+                    "slug": "truefi",
+                    "url": "https:\/\/cryptopanic.com\/news\/truefi\/"
+                }
+            ],
+            "id": 18408895,
+            "url": "https:\/\/cryptopanic.com\/news\/18408895\/RT-tallyxyz-dont-look-now-but-the-DAOs-are-DAOing",
+            "created_at": "2023-05-22T14:04:51Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Truebitprotocol",
+            "source": {
+                "title": "Truebit Protocol Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@truebitprotocol"
+            },
+            "title": "4 days to #GOTOchgo! Join our panel with @ForteGrp as we explore how #Web3 underpins the future of serverless compu\u2026",
+            "published_at": "2023-05-18T16:58:04Z",
+            "slug": "4-days-to-GOTOchgo-Join-our-panel-with-ForteGrp-as-we-explore-how-Web3-underpins-the-future-of-serverless-compu",
+            "currencies": [
+                {
+                    "code": "TRU",
+                    "title": "Truebit Protocol",
+                    "slug": "truebit-protocol",
+                    "url": "https:\/\/cryptopanic.com\/news\/truebit-protocol\/"
+                }
+            ],
+            "id": 18381283,
+            "url": "https:\/\/cryptopanic.com\/news\/18381283\/4-days-to-GOTOchgo-Join-our-panel-with-ForteGrp-as-we-explore-how-Web3-underpins-the-future-of-serverless-compu",
+            "created_at": "2023-05-18T16:58:04Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Truebitprotocol",
+            "source": {
+                "title": "Truebit Protocol Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@truebitprotocol"
+            },
+            "title": "At the upcoming GOTO Chicago conference, we're joining a panel discussion, \"Web3: Beyond Blockchains.\"\nThe panelist\u2026",
+            "published_at": "2023-05-03T14:38:31Z",
+            "slug": "At-the-upcoming-GOTO-Chicago-conference-were-joining-a-panel-discussion-Web3-Beyond-Blockchains-The-panelist",
+            "currencies": [
+                {
+                    "code": "TRU",
+                    "title": "Truebit Protocol",
+                    "slug": "truebit-protocol",
+                    "url": "https:\/\/cryptopanic.com\/news\/truebit-protocol\/"
+                }
+            ],
+            "id": 18262298,
+            "url": "https:\/\/cryptopanic.com\/news\/18262298\/At-the-upcoming-GOTO-Chicago-conference-were-joining-a-panel-discussion-Web3-Beyond-Blockchains-The-panelist",
+            "created_at": "2023-05-03T14:38:31Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@TrueFiDAO",
+            "source": {
+                "title": "TrueFi Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@truefidao"
+            },
+            "title": "1\/ TrueFi core contributor, @wallfacerlabs, recently shared their Q1 recap and Q2 roadmap on the TrueFi forums.\n\nFi\u2026",
+            "published_at": "2023-05-02T20:24:59Z",
+            "slug": "1-TrueFi-core-contributor-wallfacerlabs-recently-shared-their-Q1-recap-and-Q2-roadmap-on-the-TrueFi-forums-Fi",
+            "currencies": [
+                {
+                    "code": "TRU",
+                    "title": "TrueFi",
+                    "slug": "truefi",
+                    "url": "https:\/\/cryptopanic.com\/news\/truefi\/"
+                }
+            ],
+            "id": 18252819,
+            "url": "https:\/\/cryptopanic.com\/news\/18252819\/1-TrueFi-core-contributor-wallfacerlabs-recently-shared-their-Q1-recap-and-Q2-roadmap-on-the-TrueFi-forums-Fi",
+            "created_at": "2023-05-02T20:24:59Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@TrueFiDAO",
+            "source": {
+                "title": "TrueFi Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@truefidao"
+            },
+            "title": "RT @FarmerTuHao: 13. @TrueFiDAO is one of the oldest RWA protocols in DeFi, having launched in Nov 2020.\n\nThey serve as a gateway to allow\u2026",
+            "published_at": "2023-05-01T18:35:11Z",
+            "slug": "RT-FarmerTuHao-13-TrueFiDAO-is-one-of-the-oldest-RWA-protocols-in-DeFi-having-launched-in-Nov-2020-They-serve-as-a-gateway-to-allow",
+            "currencies": [
+                {
+                    "code": "TRU",
+                    "title": "TrueFi",
+                    "slug": "truefi",
+                    "url": "https:\/\/cryptopanic.com\/news\/truefi\/"
+                }
+            ],
+            "id": 18244410,
+            "url": "https:\/\/cryptopanic.com\/news\/18244410\/RT-FarmerTuHao-13-TrueFiDAO-is-one-of-the-oldest-RWA-protocols-in-DeFi-having-launched-in-Nov-2020-They-serve-as-a-gateway-to-allow",
+            "created_at": "2023-05-01T18:35:11Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@TrueFiDAO",
+            "source": {
+                "title": "TrueFi Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@truefidao"
+            },
+            "title": "Thank you for the write-up and great work from our friends at @properlystudio",
+            "published_at": "2023-04-20T15:46:58Z",
+            "slug": "Thank-you-for-the-write-up-and-great-work-from-our-friends-at-properlystudio",
+            "currencies": [
+                {
+                    "code": "TRU",
+                    "title": "TrueFi",
+                    "slug": "truefi",
+                    "url": "https:\/\/cryptopanic.com\/news\/truefi\/"
+                }
+            ],
+            "id": 18163993,
+            "url": "https:\/\/cryptopanic.com\/news\/18163993\/Thank-you-for-the-write-up-and-great-work-from-our-friends-at-properlystudio",
+            "created_at": "2023-04-20T15:46:58Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@TrueFiDAO",
+            "source": {
+                "title": "TrueFi Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@truefidao"
+            },
+            "title": "RT @wallfacerlabs: Please find our Q1 contributions to @TrueFiDAO along with our proposed roadmap for Q2 below. \n\nFeedback and new ideas ar\u2026",
+            "published_at": "2023-04-18T20:18:28Z",
+            "slug": "RT-wallfacerlabs-Please-find-our-Q1-contributions-to-TrueFiDAO-along-with-our-proposed-roadmap-for-Q2-below-Feedback-and-new-ideas-ar",
+            "currencies": [
+                {
+                    "code": "TRU",
+                    "title": "TrueFi",
+                    "slug": "truefi",
+                    "url": "https:\/\/cryptopanic.com\/news\/truefi\/"
+                }
+            ],
+            "id": 18146113,
+            "url": "https:\/\/cryptopanic.com\/news\/18146113\/RT-wallfacerlabs-Please-find-our-Q1-contributions-to-TrueFiDAO-along-with-our-proposed-roadmap-for-Q2-below-Feedback-and-new-ideas-ar",
+            "created_at": "2023-04-18T20:18:28Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@TrueFiDAO",
+            "source": {
+                "title": "TrueFi Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@truefidao"
+            },
+            "title": "Impressive launch from @MorganKrupetsky and the Avalanche team! \n\nSign us up! ",
+            "published_at": "2023-04-06T16:28:57Z",
+            "slug": "Impressive-launch-from-MorganKrupetsky-and-the-Avalanche-team-Sign-us-up",
+            "currencies": [
+                {
+                    "code": "TRU",
+                    "title": "TrueFi",
+                    "slug": "truefi",
+                    "url": "https:\/\/cryptopanic.com\/news\/truefi\/"
+                },
+                {
+                    "code": "AVAX",
+                    "title": "Avalanche",
+                    "slug": "avalanche-2",
+                    "url": "https:\/\/cryptopanic.com\/news\/avalanche-2\/"
+                }
+            ],
+            "id": 18060517,
+            "url": "https:\/\/cryptopanic.com\/news\/18060517\/Impressive-launch-from-MorganKrupetsky-and-the-Avalanche-team-Sign-us-up",
+            "created_at": "2023-04-06T16:28:57Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@TrueFiDAO",
+            "source": {
+                "title": "TrueFi Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@truefidao"
+            },
+            "title": "RT @hack_summit: We're excited to welcome Rafael Cosman, Co-Founder of @TrueFiDAO to #hacksummit 2023 for our Lending Panel!\n\nHead over to\u2026",
+            "published_at": "2023-03-31T19:34:57Z",
+            "slug": "RT-hack_summit-Were-excited-to-welcome-Rafael-Cosman-Co-Founder-of-TrueFiDAO-to-hacksummit-2023-for-our-Lending-Panel-Head-over-to",
+            "currencies": [
+                {
+                    "code": "TRU",
+                    "title": "TrueFi",
+                    "slug": "truefi",
+                    "url": "https:\/\/cryptopanic.com\/news\/truefi\/"
+                }
+            ],
+            "id": 18052493,
+            "url": "https:\/\/cryptopanic.com\/news\/18052493\/RT-hack_summit-Were-excited-to-welcome-Rafael-Cosman-Co-Founder-of-TrueFiDAO-to-hacksummit-2023-for-our-Lending-Panel-Head-over-to",
+            "created_at": "2023-03-31T19:34:57Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@TrueFiDAO",
+            "source": {
+                "title": "TrueFi Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@truefidao"
+            },
+            "title": "RT @hc_capital:  Panorama of Real World Assets (RAWs)\n\nRWAs are assets that exist off-chain, but are tokenized and brought on-chain to be\u2026",
+            "published_at": "2023-03-30T17:00:03Z",
+            "slug": "RT-hc_capital-Panorama-of-Real-World-Assets-RAWs-RWAs-are-assets-that-exist-off-chain-but-are-tokenized-and-brought-on-chain-to-be",
+            "currencies": [
+                {
+                    "code": "TRU",
+                    "title": "TrueFi",
+                    "slug": "truefi",
+                    "url": "https:\/\/cryptopanic.com\/news\/truefi\/"
+                }
+            ],
+            "id": 18052494,
+            "url": "https:\/\/cryptopanic.com\/news\/18052494\/RT-hc_capital-Panorama-of-Real-World-Assets-RAWs-RWAs-are-assets-that-exist-off-chain-but-are-tokenized-and-brought-on-chain-to-be",
+            "created_at": "2023-03-30T17:00:03Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@TrueFiDAO",
+            "source": {
+                "title": "TrueFi Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@truefidao"
+            },
+            "title": "Many TrueFi contributors were key in organizing and founding 2022\u2019s inaugural ETHWarsaw. \n\nWe are excited to see ho\u2026",
+            "published_at": "2023-03-27T20:06:52Z",
+            "slug": "Many-TrueFi-contributors-were-key-in-organizing-and-founding-2022s-inaugural-ETHWarsaw-We-are-excited-to-see-ho",
+            "currencies": [
+                {
+                    "code": "TRU",
+                    "title": "TrueFi",
+                    "slug": "truefi",
+                    "url": "https:\/\/cryptopanic.com\/news\/truefi\/"
+                }
+            ],
+            "id": 18052495,
+            "url": "https:\/\/cryptopanic.com\/news\/18052495\/Many-TrueFi-contributors-were-key-in-organizing-and-founding-2022s-inaugural-ETHWarsaw-We-are-excited-to-see-ho",
+            "created_at": "2023-03-27T20:06:52Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

@@ -1,0 +1,707 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=NMR&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "@numerai",
+            "source": {
+                "title": "Numeraire Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@numerai"
+            },
+            "title": "RT @InfiniteL88ps: Why is @numerai so innovative?\n\nObfuscated data.\n\n@richardcraib explains ",
+            "published_at": "2023-07-11T16:11:48Z",
+            "slug": "RT-InfiniteL88ps-Why-is-numerai-so-innovative-Obfuscated-data-richardcraib-explains",
+            "currencies": [
+                {
+                    "code": "NMR",
+                    "title": "Numeraire",
+                    "slug": "numeraire",
+                    "url": "https:\/\/cryptopanic.com\/news\/numeraire\/"
+                }
+            ],
+            "id": 18766044,
+            "url": "https:\/\/cryptopanic.com\/news\/18766044\/RT-InfiniteL88ps-Why-is-numerai-so-innovative-Obfuscated-data-richardcraib-explains",
+            "created_at": "2023-07-11T16:11:48Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@numerai",
+            "source": {
+                "title": "Numeraire Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@numerai"
+            },
+            "title": "RT @jposhaughnessy: A fascinating thesis--can data scientists with no training in traditional asset management selection strategies (e.g.,\u2026",
+            "published_at": "2023-07-10T04:21:18Z",
+            "slug": "RT-jposhaughnessy-A-fascinating-thesis-can-data-scientists-with-no-training-in-traditional-asset-management-selection-strategies-eg",
+            "currencies": [
+                {
+                    "code": "NMR",
+                    "title": "Numeraire",
+                    "slug": "numeraire",
+                    "url": "https:\/\/cryptopanic.com\/news\/numeraire\/"
+                }
+            ],
+            "id": 18750738,
+            "url": "https:\/\/cryptopanic.com\/news\/18750738\/RT-jposhaughnessy-A-fascinating-thesis-can-data-scientists-with-no-training-in-traditional-asset-management-selection-strategies-eg",
+            "created_at": "2023-07-10T04:21:18Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@numerai",
+            "source": {
+                "title": "Numeraire Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@numerai"
+            },
+            "title": "New podcast: How to Open Source Finance\n\nNumerai founder Richard Craib chats with Jim O'Shaughnessy on Infinite Loo\u2026",
+            "published_at": "2023-07-06T20:10:22Z",
+            "slug": "New-podcast-How-to-Open-Source-Finance-Numerai-founder-Richard-Craib-chats-with-Jim-OShaughnessy-on-Infinite-Loo",
+            "currencies": [
+                {
+                    "code": "NMR",
+                    "title": "Numeraire",
+                    "slug": "numeraire",
+                    "url": "https:\/\/cryptopanic.com\/news\/numeraire\/"
+                }
+            ],
+            "id": 18734154,
+            "url": "https:\/\/cryptopanic.com\/news\/18734154\/New-podcast-How-to-Open-Source-Finance-Numerai-founder-Richard-Craib-chats-with-Jim-OShaughnessy-on-Infinite-Loo",
+            "created_at": "2023-07-06T20:10:22Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@numerai",
+            "source": {
+                "title": "Numeraire Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@numerai"
+            },
+            "title": "RT @jposhaughnessy: New @InfiniteL88ps is up\n\nMy guest @richardcraib is the founder &amp; CEO of @numerai, a hedge fund where data scientists\u2026",
+            "published_at": "2023-07-06T19:06:26Z",
+            "slug": "RT-jposhaughnessy-New-InfiniteL88ps-is-up-My-guest-richardcraib-is-the-founder-amp-CEO-of-numerai-a-hedge-fund-where-data-scientists",
+            "currencies": [
+                {
+                    "code": "NMR",
+                    "title": "Numeraire",
+                    "slug": "numeraire",
+                    "url": "https:\/\/cryptopanic.com\/news\/numeraire\/"
+                }
+            ],
+            "id": 18734155,
+            "url": "https:\/\/cryptopanic.com\/news\/18734155\/RT-jposhaughnessy-New-InfiniteL88ps-is-up-My-guest-richardcraib-is-the-founder-amp-CEO-of-numerai-a-hedge-fund-where-data-scientists",
+            "created_at": "2023-07-06T19:06:26Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@numerai",
+            "source": {
+                "title": "Numeraire Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@numerai"
+            },
+            "title": "Financial time series model evaluation index with Numerai",
+            "published_at": "2023-07-04T19:12:05Z",
+            "slug": "Financial-time-series-model-evaluation-index-with-Numerai",
+            "currencies": [
+                {
+                    "code": "NMR",
+                    "title": "Numeraire",
+                    "slug": "numeraire",
+                    "url": "https:\/\/cryptopanic.com\/news\/numeraire\/"
+                }
+            ],
+            "id": 18717784,
+            "url": "https:\/\/cryptopanic.com\/news\/18717784\/Financial-time-series-model-evaluation-index-with-Numerai",
+            "created_at": "2023-07-04T19:12:05Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@numerai",
+            "source": {
+                "title": "Numeraire Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@numerai"
+            },
+            "title": "New forum post from Numerai founder, Richard Craib:\n\nTarget Jerome Is Dominating And That\u2019s Weird",
+            "published_at": "2023-06-30T19:26:13Z",
+            "slug": "New-forum-post-from-Numerai-founder-Richard-Craib-Target-Jerome-Is-Dominating-And-Thats-Weird",
+            "currencies": [
+                {
+                    "code": "NMR",
+                    "title": "Numeraire",
+                    "slug": "numeraire",
+                    "url": "https:\/\/cryptopanic.com\/news\/numeraire\/"
+                }
+            ],
+            "id": 18694897,
+            "url": "https:\/\/cryptopanic.com\/news\/18694897\/New-forum-post-from-Numerai-founder-Richard-Craib-Target-Jerome-Is-Dominating-And-Thats-Weird",
+            "created_at": "2023-06-30T19:26:13Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@numerai",
+            "source": {
+                "title": "Numeraire Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@numerai"
+            },
+            "title": "Vote for Numerai in the @hackernoon Startup of the Year awards 2023",
+            "published_at": "2023-06-22T18:22:06Z",
+            "slug": "Vote-for-Numerai-in-the-hackernoon-Startup-of-the-Year-awards-2023",
+            "currencies": [
+                {
+                    "code": "NMR",
+                    "title": "Numeraire",
+                    "slug": "numeraire",
+                    "url": "https:\/\/cryptopanic.com\/news\/numeraire\/"
+                }
+            ],
+            "id": 18638584,
+            "url": "https:\/\/cryptopanic.com\/news\/18638584\/Vote-for-Numerai-in-the-hackernoon-Startup-of-the-Year-awards-2023",
+            "created_at": "2023-06-22T18:22:06Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@numerai",
+            "source": {
+                "title": "Numeraire Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@numerai"
+            },
+            "title": "Numerai community-hosted meet up in Prague on July 8th, brought to you by the Council of Elders @NumeraiCoE",
+            "published_at": "2023-06-20T17:55:18Z",
+            "slug": "Numerai-community-hosted-meet-up-in-Prague-on-July-8th-brought-to-you-by-the-Council-of-Elders-NumeraiCoE",
+            "currencies": [
+                {
+                    "code": "NMR",
+                    "title": "Numeraire",
+                    "slug": "numeraire",
+                    "url": "https:\/\/cryptopanic.com\/news\/numeraire\/"
+                }
+            ],
+            "id": 18622056,
+            "url": "https:\/\/cryptopanic.com\/news\/18622056\/Numerai-community-hosted-meet-up-in-Prague-on-July-8th-brought-to-you-by-the-Council-of-Elders-NumeraiCoE",
+            "created_at": "2023-06-20T17:55:18Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@numerai",
+            "source": {
+                "title": "Numeraire Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@numerai"
+            },
+            "title": "RT @LatentQuant: Thanks @numerai for the really cool t-shirt and stickers! Can\u2019t wait to get started participating! \n\nStay tune for more co\u2026",
+            "published_at": "2023-06-20T14:50:52Z",
+            "slug": "RT-LatentQuant-Thanks-numerai-for-the-really-cool-t-shirt-and-stickers-Cant-wait-to-get-started-participating-Stay-tune-for-more-co",
+            "currencies": [
+                {
+                    "code": "NMR",
+                    "title": "Numeraire",
+                    "slug": "numeraire",
+                    "url": "https:\/\/cryptopanic.com\/news\/numeraire\/"
+                }
+            ],
+            "id": 18622058,
+            "url": "https:\/\/cryptopanic.com\/news\/18622058\/RT-LatentQuant-Thanks-numerai-for-the-really-cool-t-shirt-and-stickers-Cant-wait-to-get-started-participating-Stay-tune-for-more-co",
+            "created_at": "2023-06-20T14:50:52Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@numerai",
+            "source": {
+                "title": "Numeraire Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@numerai"
+            },
+            "title": "Introducing: Numerai Model Upload (Beta)",
+            "published_at": "2023-06-20T00:15:22Z",
+            "slug": "Introducing-Numerai-Model-Upload-Beta",
+            "currencies": [
+                {
+                    "code": "NMR",
+                    "title": "Numeraire",
+                    "slug": "numeraire",
+                    "url": "https:\/\/cryptopanic.com\/news\/numeraire\/"
+                }
+            ],
+            "id": 18613947,
+            "url": "https:\/\/cryptopanic.com\/news\/18613947\/Introducing-Numerai-Model-Upload-Beta",
+            "created_at": "2023-06-20T00:15:22Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@numerai",
+            "source": {
+                "title": "Numeraire Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@numerai"
+            },
+            "title": "RT @parmarsuraj99: Something I was beta testing for the past few weekends.\n\nModel uploading feature of @numerai makes it super easy to auto\u2026",
+            "published_at": "2023-06-20T00:14:42Z",
+            "slug": "RT-parmarsuraj99-Something-I-was-beta-testing-for-the-past-few-weekends-Model-uploading-feature-of-numerai-makes-it-super-easy-to-auto",
+            "currencies": [
+                {
+                    "code": "NMR",
+                    "title": "Numeraire",
+                    "slug": "numeraire",
+                    "url": "https:\/\/cryptopanic.com\/news\/numeraire\/"
+                }
+            ],
+            "id": 18613948,
+            "url": "https:\/\/cryptopanic.com\/news\/18613948\/RT-parmarsuraj99-Something-I-was-beta-testing-for-the-past-few-weekends-Model-uploading-feature-of-numerai-makes-it-super-easy-to-auto",
+            "created_at": "2023-06-20T00:14:42Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@numerai",
+            "source": {
+                "title": "Numeraire Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@numerai"
+            },
+            "title": "Numerai's Chief Scientist @the_moliver and Chief Data Officer @SmoothMikeP discuss Aliens, LLMs, and the upcoming R\u2026",
+            "published_at": "2023-06-16T16:30:35Z",
+            "slug": "Numerais-Chief-Scientist-the_moliver-and-Chief-Data-Officer-SmoothMikeP-discuss-Aliens-LLMs-and-the-upcoming-R",
+            "currencies": [
+                {
+                    "code": "NMR",
+                    "title": "Numeraire",
+                    "slug": "numeraire",
+                    "url": "https:\/\/cryptopanic.com\/news\/numeraire\/"
+                }
+            ],
+            "id": 18597418,
+            "url": "https:\/\/cryptopanic.com\/news\/18597418\/Numerais-Chief-Scientist-the_moliver-and-Chief-Data-Officer-SmoothMikeP-discuss-Aliens-LLMs-and-the-upcoming-R",
+            "created_at": "2023-06-16T16:30:35Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@numerai",
+            "source": {
+                "title": "Numeraire Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@numerai"
+            },
+            "title": "RT @FMLResearch: I'm not currently submitting to Numerai, but I did recently toss a handful of Signals models up for testing. Their scoring\u2026",
+            "published_at": "2023-06-16T02:53:04Z",
+            "slug": "RT-FMLResearch-Im-not-currently-submitting-to-Numerai-but-I-did-recently-toss-a-handful-of-Signals-models-up-for-testing-Their-scoring",
+            "currencies": [
+                {
+                    "code": "NMR",
+                    "title": "Numeraire",
+                    "slug": "numeraire",
+                    "url": "https:\/\/cryptopanic.com\/news\/numeraire\/"
+                }
+            ],
+            "id": 18588872,
+            "url": "https:\/\/cryptopanic.com\/news\/18588872\/RT-FMLResearch-Im-not-currently-submitting-to-Numerai-but-I-did-recently-toss-a-handful-of-Signals-models-up-for-testing-Their-scoring",
+            "created_at": "2023-06-16T02:53:04Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@numerai",
+            "source": {
+                "title": "Numeraire Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@numerai"
+            },
+            "title": "RT @parmarsuraj99: @corr_lator @numerai Nice! \n\nI was under the impression that low CWMM would lead to higher TC. This naive Transformer mo\u2026",
+            "published_at": "2023-06-07T18:29:24Z",
+            "slug": "RT-parmarsuraj99-corr_lator-numerai-Nice-I-was-under-the-impression-that-low-CWMM-would-lead-to-higher-TC-This-naive-Transformer-mo",
+            "currencies": [
+                {
+                    "code": "NMR",
+                    "title": "Numeraire",
+                    "slug": "numeraire",
+                    "url": "https:\/\/cryptopanic.com\/news\/numeraire\/"
+                }
+            ],
+            "id": 18530180,
+            "url": "https:\/\/cryptopanic.com\/news\/18530180\/RT-parmarsuraj99-corr_lator-numerai-Nice-I-was-under-the-impression-that-low-CWMM-would-lead-to-higher-TC-This-naive-Transformer-mo",
+            "created_at": "2023-06-07T18:29:24Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@numerai",
+            "source": {
+                "title": "Numeraire Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@numerai"
+            },
+            "title": "RT @corr_lator: First day performance of the newly deployed @numerai model. Corr with Metamodel is now 0.6 compared to 0.65 earlier; possib\u2026",
+            "published_at": "2023-06-07T18:29:20Z",
+            "slug": "RT-corr_lator-First-day-performance-of-the-newly-deployed-numerai-model-Corr-with-Metamodel-is-now-06-compared-to-065-earlier-possib",
+            "currencies": [
+                {
+                    "code": "NMR",
+                    "title": "Numeraire",
+                    "slug": "numeraire",
+                    "url": "https:\/\/cryptopanic.com\/news\/numeraire\/"
+                }
+            ],
+            "id": 18530181,
+            "url": "https:\/\/cryptopanic.com\/news\/18530181\/RT-corr_lator-First-day-performance-of-the-newly-deployed-numerai-model-Corr-with-Metamodel-is-now-06-compared-to-065-earlier-possib",
+            "created_at": "2023-06-07T18:29:20Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@numerai",
+            "source": {
+                "title": "Numeraire Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@numerai"
+            },
+            "title": "RT @jposhaughnessy: Recorded a great @InfiniteL88ps with @richardcraib, the founder of @numerai, a market neutral AI hedge fund that uses a\u2026",
+            "published_at": "2023-06-07T01:14:37Z",
+            "slug": "RT-jposhaughnessy-Recorded-a-great-InfiniteL88ps-with-richardcraib-the-founder-of-numerai-a-market-neutral-AI-hedge-fund-that-uses-a",
+            "currencies": [
+                {
+                    "code": "NMR",
+                    "title": "Numeraire",
+                    "slug": "numeraire",
+                    "url": "https:\/\/cryptopanic.com\/news\/numeraire\/"
+                }
+            ],
+            "id": 18521627,
+            "url": "https:\/\/cryptopanic.com\/news\/18521627\/RT-jposhaughnessy-Recorded-a-great-InfiniteL88ps-with-richardcraib-the-founder-of-numerai-a-market-neutral-AI-hedge-fund-that-uses-a",
+            "created_at": "2023-06-07T01:14:37Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@numerai",
+            "source": {
+                "title": "Numeraire Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@numerai"
+            },
+            "title": "RT @richardcraib: $2m worth of Numerai stakes have been burned in the last 5 weeks!\n\n130k NMR",
+            "published_at": "2023-06-02T22:52:35Z",
+            "slug": "RT-richardcraib-2m-worth-of-Numerai-stakes-have-been-burned-in-the-last-5-weeks-130k-NMR",
+            "currencies": [
+                {
+                    "code": "NMR",
+                    "title": "Numeraire",
+                    "slug": "numeraire",
+                    "url": "https:\/\/cryptopanic.com\/news\/numeraire\/"
+                }
+            ],
+            "id": 18494351,
+            "url": "https:\/\/cryptopanic.com\/news\/18494351\/RT-richardcraib-2m-worth-of-Numerai-stakes-have-been-burned-in-the-last-5-weeks-130k-NMR",
+            "created_at": "2023-06-02T22:52:35Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@numerai",
+            "source": {
+                "title": "Numeraire Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@numerai"
+            },
+            "title": "RT @parmarsuraj99: Indeed, The cloak suits! \n\nAlways Numer-pilling, like an elder should\n\nThank you @tasha_jade for the cloak",
+            "published_at": "2023-06-01T12:19:43Z",
+            "slug": "RT-parmarsuraj99-Indeed-The-cloak-suits-Always-Numer-pilling-like-an-elder-should-Thank-you-tasha_jade-for-the-cloak",
+            "currencies": [
+                {
+                    "code": "NMR",
+                    "title": "Numeraire",
+                    "slug": "numeraire",
+                    "url": "https:\/\/cryptopanic.com\/news\/numeraire\/"
+                }
+            ],
+            "id": 18486450,
+            "url": "https:\/\/cryptopanic.com\/news\/18486450\/RT-parmarsuraj99-Indeed-The-cloak-suits-Always-Numer-pilling-like-an-elder-should-Thank-you-tasha_jade-for-the-cloak",
+            "created_at": "2023-06-01T12:19:43Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@numerai",
+            "source": {
+                "title": "Numeraire Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@numerai"
+            },
+            "title": "Podcast: Richard Craib, Numerai's Founder and CEO, appears on Capital Allocators with Ted Seides",
+            "published_at": "2023-05-26T21:54:20Z",
+            "slug": "Podcast-Richard-Craib-Numerais-Founder-and-CEO-appears-on-Capital-Allocators-with-Ted-Seides",
+            "currencies": [
+                {
+                    "code": "NMR",
+                    "title": "Numeraire",
+                    "slug": "numeraire",
+                    "url": "https:\/\/cryptopanic.com\/news\/numeraire\/"
+                }
+            ],
+            "id": 18443003,
+            "url": "https:\/\/cryptopanic.com\/news\/18443003\/Podcast-Richard-Craib-Numerais-Founder-and-CEO-appears-on-Capital-Allocators-with-Ted-Seides",
+            "created_at": "2023-05-26T21:54:20Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@numerai",
+            "source": {
+                "title": "Numeraire Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@numerai"
+            },
+            "title": "RT @corr_lator: Newly trained Model for @numerai looking promising. Deploying Soon..\n1. Trained on New targets\n2. Feature selection\n3. Hype\u2026",
+            "published_at": "2023-05-26T21:51:56Z",
+            "slug": "RT-corr_lator-Newly-trained-Model-for-numerai-looking-promising-Deploying-Soon-1-Trained-on-New-targets-2-Feature-selection-3-Hype",
+            "currencies": [
+                {
+                    "code": "NMR",
+                    "title": "Numeraire",
+                    "slug": "numeraire",
+                    "url": "https:\/\/cryptopanic.com\/news\/numeraire\/"
+                }
+            ],
+            "id": 18443004,
+            "url": "https:\/\/cryptopanic.com\/news\/18443004\/RT-corr_lator-Newly-trained-Model-for-numerai-looking-promising-Deploying-Soon-1-Trained-on-New-targets-2-Feature-selection-3-Hype",
+            "created_at": "2023-05-26T21:51:56Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

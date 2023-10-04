@@ -1,0 +1,707 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=KEYFI&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "@KeyFi_app",
+            "source": {
+                "title": "KeyFi Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@keyfi_app"
+            },
+            "title": "Happy New Year! What will 2023 bring to #crypto",
+            "published_at": "2022-12-31T17:00:34Z",
+            "slug": "Happy-New-Year-What-will-2023-bring-to-crypto",
+            "currencies": [
+                {
+                    "code": "KEYFI",
+                    "title": "KeyFi",
+                    "slug": "keyfi",
+                    "url": "https:\/\/cryptopanic.com\/news\/keyfi\/"
+                }
+            ],
+            "id": 17280107,
+            "url": "https:\/\/cryptopanic.com\/news\/17280107\/Happy-New-Year-What-will-2023-bring-to-crypto",
+            "created_at": "2022-12-31T17:00:34Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@KeyFi_app",
+            "source": {
+                "title": "KeyFi Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@keyfi_app"
+            },
+            "title": "Wishing everyone a very Merry Christmas ",
+            "published_at": "2022-12-25T14:00:02Z",
+            "slug": "Wishing-everyone-a-very-Merry-Christmas",
+            "currencies": [
+                {
+                    "code": "KEYFI",
+                    "title": "KeyFi",
+                    "slug": "keyfi",
+                    "url": "https:\/\/cryptopanic.com\/news\/keyfi\/"
+                }
+            ],
+            "id": 17240372,
+            "url": "https:\/\/cryptopanic.com\/news\/17240372\/Wishing-everyone-a-very-Merry-Christmas",
+            "created_at": "2022-12-25T14:00:02Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@KeyFi_app",
+            "source": {
+                "title": "KeyFi Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@keyfi_app"
+            },
+            "title": "Happy Birthday to us! #KeyFi is officially 2 years old \ud83e\udd73",
+            "published_at": "2022-12-13T17:08:00Z",
+            "slug": "Happy-Birthday-to-us-KeyFi-is-officially-2-years-old",
+            "currencies": [
+                {
+                    "code": "KEYFI",
+                    "title": "KeyFi",
+                    "slug": "keyfi",
+                    "url": "https:\/\/cryptopanic.com\/news\/keyfi\/"
+                }
+            ],
+            "id": 17147070,
+            "url": "https:\/\/cryptopanic.com\/news\/17147070\/Happy-Birthday-to-us-KeyFi-is-officially-2-years-old",
+            "created_at": "2022-12-13T17:08:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@KeyFi_app",
+            "source": {
+                "title": "KeyFi Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@keyfi_app"
+            },
+            "title": " Introducing KeyFi Roadmap 2.0\n\nWe are proud to announce the newest chapter in #KeyFi a decentralization roadmap t\u2026",
+            "published_at": "2022-12-11T15:11:05Z",
+            "slug": "Introducing-KeyFi-Roadmap-20-We-are-proud-to-announce-the-newest-chapter-in-KeyFi-a-decentralization-roadmap-t",
+            "currencies": [
+                {
+                    "code": "KEYFI",
+                    "title": "KeyFi",
+                    "slug": "keyfi",
+                    "url": "https:\/\/cryptopanic.com\/news\/keyfi\/"
+                }
+            ],
+            "id": 17128549,
+            "url": "https:\/\/cryptopanic.com\/news\/17128549\/Introducing-KeyFi-Roadmap-20-We-are-proud-to-announce-the-newest-chapter-in-KeyFi-a-decentralization-roadmap-t",
+            "created_at": "2022-12-11T15:11:05Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@KeyFi_app",
+            "source": {
+                "title": "KeyFi Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@keyfi_app"
+            },
+            "title": "#KeyFi core - swap using @PancakeSwap @Uniswap @ape_swap or @1inch \n\nAll from one easy to use app #DeFi",
+            "published_at": "2022-12-10T09:14:00Z",
+            "slug": "KeyFi-core-swap-using-PancakeSwap-Uniswap-ape_swap-or-1inch-All-from-one-easy-to-use-app-DeFi",
+            "currencies": [
+                {
+                    "code": "KEYFI",
+                    "title": "KeyFi",
+                    "slug": "keyfi",
+                    "url": "https:\/\/cryptopanic.com\/news\/keyfi\/"
+                }
+            ],
+            "id": 17123286,
+            "url": "https:\/\/cryptopanic.com\/news\/17123286\/KeyFi-core-swap-using-PancakeSwap-Uniswap-ape_swap-or-1inch-All-from-one-easy-to-use-app-DeFi",
+            "created_at": "2022-12-10T09:14:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@KeyFi_app",
+            "source": {
+                "title": "KeyFi Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@keyfi_app"
+            },
+            "title": "Join us \n\nGeneral chat: \nNews",
+            "published_at": "2022-12-05T00:11:00Z",
+            "slug": "Join-us-General-chat-News",
+            "currencies": [
+                {
+                    "code": "KEYFI",
+                    "title": "KeyFi",
+                    "slug": "keyfi",
+                    "url": "https:\/\/cryptopanic.com\/news\/keyfi\/"
+                }
+            ],
+            "id": 17071288,
+            "url": "https:\/\/cryptopanic.com\/news\/17071288\/Join-us-General-chat-News",
+            "created_at": "2022-12-05T00:11:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@KeyFi_app",
+            "source": {
+                "title": "KeyFi Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@keyfi_app"
+            },
+            "title": "#KeyFi AMA Announcement \n\nWe will be sharing details on our new roadmap and whitepaper ",
+            "published_at": "2022-12-03T20:14:00Z",
+            "slug": "KeyFi-AMA-Announcement-We-will-be-sharing-details-on-our-new-roadmap-and-whitepaper",
+            "currencies": [
+                {
+                    "code": "KEYFI",
+                    "title": "KeyFi",
+                    "slug": "keyfi",
+                    "url": "https:\/\/cryptopanic.com\/news\/keyfi\/"
+                }
+            ],
+            "id": 17065818,
+            "url": "https:\/\/cryptopanic.com\/news\/17065818\/KeyFi-AMA-Announcement-We-will-be-sharing-details-on-our-new-roadmap-and-whitepaper",
+            "created_at": "2022-12-03T20:14:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@KeyFi_app",
+            "source": {
+                "title": "KeyFi Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@keyfi_app"
+            },
+            "title": "What #crypto ecosystem are you bullish on?",
+            "published_at": "2022-11-30T09:56:00Z",
+            "slug": "What-crypto-ecosystem-are-you-bullish-on",
+            "currencies": [
+                {
+                    "code": "KEYFI",
+                    "title": "KeyFi",
+                    "slug": "keyfi",
+                    "url": "https:\/\/cryptopanic.com\/news\/keyfi\/"
+                }
+            ],
+            "id": 17040384,
+            "url": "https:\/\/cryptopanic.com\/news\/17040384\/What-crypto-ecosystem-are-you-bullish-on",
+            "created_at": "2022-11-30T09:56:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@KeyFi_app",
+            "source": {
+                "title": "KeyFi Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@keyfi_app"
+            },
+            "title": "Track your assets across multiple chains with #KeyFi pro",
+            "published_at": "2022-11-28T16:55:00Z",
+            "slug": "Track-your-assets-across-multiple-chains-with-KeyFi-pro",
+            "currencies": [
+                {
+                    "code": "KEYFI",
+                    "title": "KeyFi",
+                    "slug": "keyfi",
+                    "url": "https:\/\/cryptopanic.com\/news\/keyfi\/"
+                }
+            ],
+            "id": 17020179,
+            "url": "https:\/\/cryptopanic.com\/news\/17020179\/Track-your-assets-across-multiple-chains-with-KeyFi-pro",
+            "created_at": "2022-11-28T16:55:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@KeyFi_app",
+            "source": {
+                "title": "KeyFi Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@keyfi_app"
+            },
+            "title": "We are all about #DeFi ",
+            "published_at": "2022-11-26T00:46:00Z",
+            "slug": "We-are-all-about-DeFi",
+            "currencies": [
+                {
+                    "code": "KEYFI",
+                    "title": "KeyFi",
+                    "slug": "keyfi",
+                    "url": "https:\/\/cryptopanic.com\/news\/keyfi\/"
+                }
+            ],
+            "id": 16999535,
+            "url": "https:\/\/cryptopanic.com\/news\/16999535\/We-are-all-about-DeFi",
+            "created_at": "2022-11-26T00:46:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@KeyFi_app",
+            "source": {
+                "title": "KeyFi Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@keyfi_app"
+            },
+            "title": "In 2022 there are over 20,000 active #cryptocurrencies \n\nTry out our AI analysis feature to get token recommendati\u2026",
+            "published_at": "2022-10-28T08:48:00Z",
+            "slug": "In-2022-there-are-over-20000-active-cryptocurrencies-Try-out-our-AI-analysis-feature-to-get-token-recommendati",
+            "currencies": [
+                {
+                    "code": "KEYFI",
+                    "title": "KeyFi",
+                    "slug": "keyfi",
+                    "url": "https:\/\/cryptopanic.com\/news\/keyfi\/"
+                }
+            ],
+            "id": 16739416,
+            "url": "https:\/\/cryptopanic.com\/news\/16739416\/In-2022-there-are-over-20000-active-cryptocurrencies-Try-out-our-AI-analysis-feature-to-get-token-recommendati",
+            "created_at": "2022-10-28T08:48:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@KeyFi_app",
+            "source": {
+                "title": "KeyFi Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@keyfi_app"
+            },
+            "title": "Easily find $KEYFI token info directly from our app",
+            "published_at": "2022-10-26T14:40:00Z",
+            "slug": "Easily-find-KEYFI-token-info-directly-from-our-app",
+            "currencies": [
+                {
+                    "code": "KEYFI",
+                    "title": "KeyFi",
+                    "slug": "keyfi",
+                    "url": "https:\/\/cryptopanic.com\/news\/keyfi\/"
+                }
+            ],
+            "id": 16718312,
+            "url": "https:\/\/cryptopanic.com\/news\/16718312\/Easily-find-KEYFI-token-info-directly-from-our-app",
+            "created_at": "2022-10-26T14:40:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@KeyFi_app",
+            "source": {
+                "title": "KeyFi Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@keyfi_app"
+            },
+            "title": "Top 10 Web3 Trends and Predictions to know in 2023 via @",
+            "published_at": "2022-10-24T23:33:00Z",
+            "slug": "Top-10-Web3-Trends-and-Predictions-to-know-in-2023-via",
+            "currencies": [
+                {
+                    "code": "KEYFI",
+                    "title": "KeyFi",
+                    "slug": "keyfi",
+                    "url": "https:\/\/cryptopanic.com\/news\/keyfi\/"
+                }
+            ],
+            "id": 16697000,
+            "url": "https:\/\/cryptopanic.com\/news\/16697000\/Top-10-Web3-Trends-and-Predictions-to-know-in-2023-via",
+            "created_at": "2022-10-24T23:33:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@KeyFi_app",
+            "source": {
+                "title": "KeyFi Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@keyfi_app"
+            },
+            "title": "Unlock the Power of DeFi with KeyFi Pro - Intelligent tools for managing your DeFi portfolio. Create custom DeFi st\u2026",
+            "published_at": "2022-10-22T08:31:00Z",
+            "slug": "Unlock-the-Power-of-DeFi-with-KeyFi-Pro-Intelligent-tools-for-managing-your-DeFi-portfolio-Create-custom-DeFi-st",
+            "currencies": [
+                {
+                    "code": "KEYFI",
+                    "title": "KeyFi",
+                    "slug": "keyfi",
+                    "url": "https:\/\/cryptopanic.com\/news\/keyfi\/"
+                }
+            ],
+            "id": 16681635,
+            "url": "https:\/\/cryptopanic.com\/news\/16681635\/Unlock-the-Power-of-DeFi-with-KeyFi-Pro-Intelligent-tools-for-managing-your-DeFi-portfolio-Create-custom-DeFi-st",
+            "created_at": "2022-10-22T08:31:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@KeyFi_app",
+            "source": {
+                "title": "KeyFi Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@keyfi_app"
+            },
+            "title": "The KeyFi Pro dashboard shows an overview of your wallet balances, platforms you\u2019ve invested in, customizable widge\u2026",
+            "published_at": "2022-10-19T15:30:00Z",
+            "slug": "The-KeyFi-Pro-dashboard-shows-an-overview-of-your-wallet-balances-platforms-youve-invested-in-customizable-widge",
+            "currencies": [
+                {
+                    "code": "KEYFI",
+                    "title": "KeyFi",
+                    "slug": "keyfi",
+                    "url": "https:\/\/cryptopanic.com\/news\/keyfi\/"
+                }
+            ],
+            "id": 16654670,
+            "url": "https:\/\/cryptopanic.com\/news\/16654670\/The-KeyFi-Pro-dashboard-shows-an-overview-of-your-wallet-balances-platforms-youve-invested-in-customizable-widge",
+            "created_at": "2022-10-19T15:30:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@KeyFi_app",
+            "source": {
+                "title": "KeyFi Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@keyfi_app"
+            },
+            "title": "Do you think predictions are right about the next bull run being 2024?\n\n - yes\n - NO! It will be sooner than that",
+            "published_at": "2022-09-30T08:15:00Z",
+            "slug": "Do-you-think-predictions-are-right-about-the-next-bull-run-being-2024-yes-NO-It-will-be-sooner-than-that",
+            "currencies": [
+                {
+                    "code": "KEYFI",
+                    "title": "KeyFi",
+                    "slug": "keyfi",
+                    "url": "https:\/\/cryptopanic.com\/news\/keyfi\/"
+                }
+            ],
+            "id": 16486668,
+            "url": "https:\/\/cryptopanic.com\/news\/16486668\/Do-you-think-predictions-are-right-about-the-next-bull-run-being-2024-yes-NO-It-will-be-sooner-than-that",
+            "created_at": "2022-09-30T08:15:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@KeyFi_app",
+            "source": {
+                "title": "KeyFi Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@keyfi_app"
+            },
+            "title": "Join #KeyFi's awesome Telegram community. Be the first to learn about new updates, features and more: Official Ann\u2026",
+            "published_at": "2022-09-28T23:10:00Z",
+            "slug": "Join-KeyFis-awesome-Telegram-community-Be-the-first-to-learn-about-new-updates-features-and-more-Official-Ann",
+            "currencies": [
+                {
+                    "code": "KEYFI",
+                    "title": "KeyFi",
+                    "slug": "keyfi",
+                    "url": "https:\/\/cryptopanic.com\/news\/keyfi\/"
+                }
+            ],
+            "id": 16464509,
+            "url": "https:\/\/cryptopanic.com\/news\/16464509\/Join-KeyFis-awesome-Telegram-community-Be-the-first-to-learn-about-new-updates-features-and-more-Official-Ann",
+            "created_at": "2022-09-28T23:10:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@KeyFi_app",
+            "source": {
+                "title": "KeyFi Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@keyfi_app"
+            },
+            "title": "What is your go-to dapp for managing your #DeFi portfolio?",
+            "published_at": "2022-09-21T15:11:00Z",
+            "slug": "What-is-your-go-to-dapp-for-managing-your-DeFi-portfolio",
+            "currencies": [
+                {
+                    "code": "KEYFI",
+                    "title": "KeyFi",
+                    "slug": "keyfi",
+                    "url": "https:\/\/cryptopanic.com\/news\/keyfi\/"
+                }
+            ],
+            "id": 16399614,
+            "url": "https:\/\/cryptopanic.com\/news\/16399614\/What-is-your-go-to-dapp-for-managing-your-DeFi-portfolio",
+            "created_at": "2022-09-21T15:11:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@KeyFi_app",
+            "source": {
+                "title": "KeyFi Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@keyfi_app"
+            },
+            "title": "Where to follow #KeyFi: \nTelegram \nDiscord \nReddit\u2026",
+            "published_at": "2022-09-19T08:06:00Z",
+            "slug": "Where-to-follow-KeyFi-Telegram-Discord-Reddit",
+            "currencies": [
+                {
+                    "code": "KEYFI",
+                    "title": "KeyFi",
+                    "slug": "keyfi",
+                    "url": "https:\/\/cryptopanic.com\/news\/keyfi\/"
+                }
+            ],
+            "id": 16377978,
+            "url": "https:\/\/cryptopanic.com\/news\/16377978\/Where-to-follow-KeyFi-Telegram-Discord-Reddit",
+            "created_at": "2022-09-19T08:06:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@KeyFi_app",
+            "source": {
+                "title": "KeyFi Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@keyfi_app"
+            },
+            "title": "Manage multiple assets across multiple chains and platforms, such as Compound, Aave, 1inch, and more, all from one\u2026",
+            "published_at": "2022-09-16T15:01:00Z",
+            "slug": "Manage-multiple-assets-across-multiple-chains-and-platforms-such-as-Compound-Aave-1inch-and-more-all-from-one",
+            "currencies": [
+                {
+                    "code": "KEYFI",
+                    "title": "KeyFi",
+                    "slug": "keyfi",
+                    "url": "https:\/\/cryptopanic.com\/news\/keyfi\/"
+                }
+            ],
+            "id": 16355722,
+            "url": "https:\/\/cryptopanic.com\/news\/16355722\/Manage-multiple-assets-across-multiple-chains-and-platforms-such-as-Compound-Aave-1inch-and-more-all-from-one",
+            "created_at": "2022-09-16T15:01:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

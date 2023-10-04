@@ -1,0 +1,923 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=FLOW&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "medium.com",
+            "source": {
+                "title": "Byteball Bytes Blog",
+                "region": "en",
+                "domain": "medium.com",
+                "path": null
+            },
+            "title": "How You Can Support Key Open-Source Initiatives With Kivach",
+            "published_at": "2023-10-03T09:18:47Z",
+            "slug": "How-You-Can-Support-Key-Open-Source-Initiatives-With-Kivach",
+            "currencies": [
+                {
+                    "code": "GBYTE",
+                    "title": "Obyte",
+                    "slug": "byteball",
+                    "url": "https:\/\/cryptopanic.com\/news\/byteball\/"
+                },
+                {
+                    "code": "XMR",
+                    "title": "Monero",
+                    "slug": "monero",
+                    "url": "https:\/\/cryptopanic.com\/news\/monero\/"
+                },
+                {
+                    "code": "FLOW",
+                    "title": "Flow",
+                    "slug": "flow",
+                    "url": "https:\/\/cryptopanic.com\/news\/flow\/"
+                }
+            ],
+            "id": 18944075,
+            "url": "https:\/\/cryptopanic.com\/news\/18944075\/How-You-Can-Support-Key-Open-Source-Initiatives-With-Kivach",
+            "created_at": "2023-10-03T09:18:47Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "Bitcoin rockets past local resistances, but is this the start of a bull run?",
+            "published_at": "2023-10-03T00:30:45Z",
+            "slug": "Bitcoin-rockets-past-local-resistances-but-is-this-the-start-of-a-bull-run",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "FLOW",
+                    "title": "Flow",
+                    "slug": "flow",
+                    "url": "https:\/\/cryptopanic.com\/news\/flow\/"
+                }
+            ],
+            "id": 18943358,
+            "url": "https:\/\/cryptopanic.com\/news\/18943358\/Bitcoin-rockets-past-local-resistances-but-is-this-the-start-of-a-bull-run",
+            "created_at": "2023-10-03T00:30:45Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Brace For Impact As $200 Million In Crypto Is Being Unlocked In October",
+            "published_at": "2023-10-02T23:00:02Z",
+            "slug": "Brace-For-Impact-As-200-Million-In-Crypto-Is-Being-Unlocked-In-October",
+            "currencies": [
+                {
+                    "code": "LINK",
+                    "title": "Chainlink",
+                    "slug": "chainlink",
+                    "url": "https:\/\/cryptopanic.com\/news\/chainlink\/"
+                },
+                {
+                    "code": "APT",
+                    "title": "Aptos",
+                    "slug": "aptos",
+                    "url": "https:\/\/cryptopanic.com\/news\/aptos\/"
+                },
+                {
+                    "code": "OP",
+                    "title": "Optimism",
+                    "slug": "optimism",
+                    "url": "https:\/\/cryptopanic.com\/news\/optimism\/"
+                },
+                {
+                    "code": "AXS",
+                    "title": "Axie Infinity",
+                    "slug": "axie-infinity",
+                    "url": "https:\/\/cryptopanic.com\/news\/axie-infinity\/"
+                },
+                {
+                    "code": "FLOW",
+                    "title": "Flow",
+                    "slug": "flow",
+                    "url": "https:\/\/cryptopanic.com\/news\/flow\/"
+                },
+                {
+                    "code": "SUI",
+                    "title": "Sui",
+                    "slug": "sui",
+                    "url": "https:\/\/cryptopanic.com\/news\/sui\/"
+                }
+            ],
+            "id": 18943274,
+            "url": "https:\/\/cryptopanic.com\/news\/18943274\/Brace-For-Impact-As-200-Million-In-Crypto-Is-Being-Unlocked-In-October",
+            "created_at": "2023-10-02T23:00:02Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "FCA Fines Investment Firm $7.8 Million for Anti-Money Laundering Failures",
+            "published_at": "2023-10-02T15:21:25Z",
+            "slug": "FCA-Fines-Investment-Firm-78-Million-for-Anti-Money-Laundering-Failures",
+            "currencies": [
+                {
+                    "code": "FLOW",
+                    "title": "Flow",
+                    "slug": "flow",
+                    "url": "https:\/\/cryptopanic.com\/news\/flow\/"
+                }
+            ],
+            "id": 18942465,
+            "url": "https:\/\/cryptopanic.com\/news\/18942465\/FCA-Fines-Investment-Firm-78-Million-for-Anti-Money-Laundering-Failures",
+            "created_at": "2023-10-02T15:21:25Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "Konrad Kirpluk: The virtuoso of vector art in the NFT world",
+            "published_at": "2023-10-01T05:43:13Z",
+            "slug": "Konrad-Kirpluk-The-virtuoso-of-vector-art-in-the-NFT-world",
+            "currencies": [
+                {
+                    "code": "FLOW",
+                    "title": "Flow",
+                    "slug": "flow",
+                    "url": "https:\/\/cryptopanic.com\/news\/flow\/"
+                }
+            ],
+            "id": 18939868,
+            "url": "https:\/\/cryptopanic.com\/news\/18939868\/Konrad-Kirpluk-The-virtuoso-of-vector-art-in-the-NFT-world",
+            "created_at": "2023-10-01T05:43:13Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "Terra Classic Rally Continues. Could Inqubeta See 1000% Growth on Dex Launch?",
+            "published_at": "2023-09-30T09:00:00Z",
+            "slug": "Terra-Classic-Rally-Continues-Could-Inqubeta-See-1000-Growth-on-Dex-Launch",
+            "currencies": [
+                {
+                    "code": "FLOW",
+                    "title": "Flow",
+                    "slug": "flow",
+                    "url": "https:\/\/cryptopanic.com\/news\/flow\/"
+                },
+                {
+                    "code": "LUNC",
+                    "title": "Terra Luna Classic",
+                    "slug": "terra-luna",
+                    "url": "https:\/\/cryptopanic.com\/news\/terra-luna\/"
+                }
+            ],
+            "id": 18938915,
+            "url": "https:\/\/cryptopanic.com\/news\/18938915\/Terra-Classic-Rally-Continues-Could-Inqubeta-See-1000-Growth-on-Dex-Launch",
+            "created_at": "2023-09-30T09:00:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coingabbar.com",
+            "source": {
+                "title": "coingabbar",
+                "region": "en",
+                "domain": "coingabbar.com",
+                "path": null
+            },
+            "title": "24 Crypto Update, 29 Sep: Crypto market remained relatively stable",
+            "published_at": "2023-09-30T01:30:00Z",
+            "slug": "24-Crypto-Update-29-Sep-Crypto-market-remained-relatively-stable",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "USDC",
+                    "title": "USDC",
+                    "slug": "usd-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/usd-coin\/"
+                },
+                {
+                    "code": "MATIC",
+                    "title": "Polygon",
+                    "slug": "matic-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-network\/"
+                },
+                {
+                    "code": "LTC",
+                    "title": "Litecoin",
+                    "slug": "litecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/litecoin\/"
+                },
+                {
+                    "code": "MKR",
+                    "title": "Maker",
+                    "slug": "maker",
+                    "url": "https:\/\/cryptopanic.com\/news\/maker\/"
+                },
+                {
+                    "code": "FLOW",
+                    "title": "Flow",
+                    "slug": "flow",
+                    "url": "https:\/\/cryptopanic.com\/news\/flow\/"
+                },
+                {
+                    "code": "GALA",
+                    "title": "GALA",
+                    "slug": "gala",
+                    "url": "https:\/\/cryptopanic.com\/news\/gala\/"
+                }
+            ],
+            "id": 18938693,
+            "url": "https:\/\/cryptopanic.com\/news\/18938693\/24-Crypto-Update-29-Sep-Crypto-market-remained-relatively-stable",
+            "created_at": "2023-09-30T01:30:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coingape.com",
+            "source": {
+                "title": "CoinGape",
+                "region": "en",
+                "domain": "coingape.com",
+                "path": null
+            },
+            "title": "Elon Musk Finally Pushes X (Twitter) Towards Profitability",
+            "published_at": "2023-09-29T18:08:28Z",
+            "slug": "Elon-Musk-Finally-Pushes-X-Twitter-Towards-Profitability",
+            "currencies": [
+                {
+                    "code": "FLOW",
+                    "title": "Flow",
+                    "slug": "flow",
+                    "url": "https:\/\/cryptopanic.com\/news\/flow\/"
+                }
+            ],
+            "id": 18938047,
+            "url": "https:\/\/cryptopanic.com\/news\/18938047\/Elon-Musk-Finally-Pushes-X-Twitter-Towards-Profitability",
+            "created_at": "2023-09-29T18:08:28Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coindesk.com",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 1,
+                "toxic": 0,
+                "saved": 1,
+                "comments": 0
+            },
+            "source": {
+                "title": "CoinDesk",
+                "region": "en",
+                "domain": "coindesk.com",
+                "path": null
+            },
+            "title": "U.S. House Bill Seeks Centralized Record of Off-Chain Crypto Transactions",
+            "published_at": "2023-09-28T21:00:00Z",
+            "slug": "US-House-Bill-Seeks-Centralized-Record-of-Off-Chain-Crypto-Transactions",
+            "currencies": [
+                {
+                    "code": "FLOW",
+                    "title": "Flow",
+                    "slug": "flow",
+                    "url": "https:\/\/cryptopanic.com\/news\/flow\/"
+                }
+            ],
+            "id": 18935819,
+            "url": "https:\/\/cryptopanic.com\/news\/18935819\/US-House-Bill-Seeks-Centralized-Record-of-Off-Chain-Crypto-Transactions",
+            "created_at": "2023-09-28T21:00:00Z"
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "Pepe Looks to Reverse Fortunes With 12% Spike, While $ROE Is up 50%",
+            "published_at": "2023-09-28T13:30:00Z",
+            "slug": "Pepe-Looks-to-Reverse-Fortunes-With-12-Spike-While-ROE-Is-up-50",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "FLOW",
+                    "title": "Flow",
+                    "slug": "flow",
+                    "url": "https:\/\/cryptopanic.com\/news\/flow\/"
+                }
+            ],
+            "id": 18934734,
+            "url": "https:\/\/cryptopanic.com\/news\/18934734\/Pepe-Looks-to-Reverse-Fortunes-With-12-Spike-While-ROE-Is-up-50",
+            "created_at": "2023-09-28T13:30:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 1,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Shiba Inu At $0.0000072: Sellers Push For Breakout From Compact Zone",
+            "published_at": "2023-09-28T06:41:32Z",
+            "slug": "Shiba-Inu-At-00000072-Sellers-Push-For-Breakout-From-Compact-Zone",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "SHIB",
+                    "title": "Shiba Inu",
+                    "slug": "shiba-inu",
+                    "url": "https:\/\/cryptopanic.com\/news\/shiba-inu\/"
+                },
+                {
+                    "code": "LINK",
+                    "title": "Chainlink",
+                    "slug": "chainlink",
+                    "url": "https:\/\/cryptopanic.com\/news\/chainlink\/"
+                },
+                {
+                    "code": "OP",
+                    "title": "Optimism",
+                    "slug": "optimism",
+                    "url": "https:\/\/cryptopanic.com\/news\/optimism\/"
+                },
+                {
+                    "code": "FLOW",
+                    "title": "Flow",
+                    "slug": "flow",
+                    "url": "https:\/\/cryptopanic.com\/news\/flow\/"
+                }
+            ],
+            "id": 18933668,
+            "url": "https:\/\/cryptopanic.com\/news\/18933668\/Shiba-Inu-At-00000072-Sellers-Push-For-Breakout-From-Compact-Zone",
+            "created_at": "2023-09-28T06:41:32Z"
+        },
+        {
+            "kind": "news",
+            "domain": "cointelegraph.com",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 1
+            },
+            "source": {
+                "title": "CoinTelegraph",
+                "region": "en",
+                "domain": "cointelegraph.com",
+                "path": null
+            },
+            "title": "SEC's Gensler taken to task over crypto custody guidance again in House hearing",
+            "published_at": "2023-09-27T20:31:04Z",
+            "slug": "SECs-Gensler-taken-to-task-over-crypto-custody-guidance-again-in-House-hearing",
+            "currencies": [
+                {
+                    "code": "FLOW",
+                    "title": "Flow",
+                    "slug": "flow",
+                    "url": "https:\/\/cryptopanic.com\/news\/flow\/"
+                }
+            ],
+            "id": 18933013,
+            "url": "https:\/\/cryptopanic.com\/news\/18933013\/SECs-Gensler-taken-to-task-over-crypto-custody-guidance-again-in-House-hearing",
+            "created_at": "2023-09-27T20:31:04Z"
+        },
+        {
+            "kind": "news",
+            "domain": "cryptobriefing.com",
+            "source": {
+                "title": "CryptoBriefing",
+                "region": "en",
+                "domain": "cryptobriefing.com",
+                "path": null
+            },
+            "title": "Crypto Outflows Continue Amid Market Downturn",
+            "published_at": "2023-09-26T20:31:13Z",
+            "slug": "Crypto-Outflows-Continue-Amid-Market-Downturn",
+            "currencies": [
+                {
+                    "code": "FLOW",
+                    "title": "Flow",
+                    "slug": "flow",
+                    "url": "https:\/\/cryptopanic.com\/news\/flow\/"
+                }
+            ],
+            "id": 18930254,
+            "url": "https:\/\/cryptopanic.com\/news\/18930254\/Crypto-Outflows-Continue-Amid-Market-Downturn",
+            "created_at": "2023-09-26T20:31:13Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Crypto\u2019s Six-Week Bleed Out: XRP And Solana Defy The Outflow Downtrend",
+            "published_at": "2023-09-25T21:00:42Z",
+            "slug": "Cryptos-Six-Week-Bleed-Out-XRP-And-Solana-Defy-The-Outflow-Downtrend",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                },
+                {
+                    "code": "ADA",
+                    "title": "Cardano",
+                    "slug": "cardano",
+                    "url": "https:\/\/cryptopanic.com\/news\/cardano\/"
+                },
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "FLOW",
+                    "title": "Flow",
+                    "slug": "flow",
+                    "url": "https:\/\/cryptopanic.com\/news\/flow\/"
+                }
+            ],
+            "id": 18927611,
+            "url": "https:\/\/cryptopanic.com\/news\/18927611\/Cryptos-Six-Week-Bleed-Out-XRP-And-Solana-Defy-The-Outflow-Downtrend",
+            "created_at": "2023-09-25T21:00:42Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cointelegraph.com",
+            "source": {
+                "title": "CoinTelegraph",
+                "region": "en",
+                "domain": "cointelegraph.com",
+                "path": null
+            },
+            "title": "Crypto sees outflows for 6th consecutive week, XRP and SOL gain investor confidence",
+            "published_at": "2023-09-25T11:50:14Z",
+            "slug": "Crypto-sees-outflows-for-6th-consecutive-week-XRP-and-SOL-gain-investor-confidence",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                },
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "FLOW",
+                    "title": "Flow",
+                    "slug": "flow",
+                    "url": "https:\/\/cryptopanic.com\/news\/flow\/"
+                }
+            ],
+            "id": 18926275,
+            "url": "https:\/\/cryptopanic.com\/news\/18926275\/Crypto-sees-outflows-for-6th-consecutive-week-XRP-and-SOL-gain-investor-confidence",
+            "created_at": "2023-09-25T11:50:14Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "Tyrion Set to Decentralize the $377B Digital Advertising Industry",
+            "published_at": "2023-09-25T11:00:00Z",
+            "slug": "Tyrion-Set-to-Decentralize-the-377B-Digital-Advertising-Industry",
+            "currencies": [
+                {
+                    "code": "FLOW",
+                    "title": "Flow",
+                    "slug": "flow",
+                    "url": "https:\/\/cryptopanic.com\/news\/flow\/"
+                }
+            ],
+            "id": 18926151,
+            "url": "https:\/\/cryptopanic.com\/news\/18926151\/Tyrion-Set-to-Decentralize-the-377B-Digital-Advertising-Industry",
+            "created_at": "2023-09-25T11:00:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 1
+            },
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Is Terra Classic Planning For USTC To Be Pegged To The Dollar Again?",
+            "published_at": "2023-09-25T08:30:50Z",
+            "slug": "Is-Terra-Classic-Planning-For-USTC-To-Be-Pegged-To-The-Dollar-Again",
+            "currencies": [
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                },
+                {
+                    "code": "IMX",
+                    "title": "ImmutableX",
+                    "slug": "immutable-x",
+                    "url": "https:\/\/cryptopanic.com\/news\/immutable-x\/"
+                },
+                {
+                    "code": "FLOW",
+                    "title": "Flow",
+                    "slug": "flow",
+                    "url": "https:\/\/cryptopanic.com\/news\/flow\/"
+                },
+                {
+                    "code": "LUNC",
+                    "title": "Terra Luna Classic",
+                    "slug": "terra-luna",
+                    "url": "https:\/\/cryptopanic.com\/news\/terra-luna\/"
+                }
+            ],
+            "id": 18925798,
+            "url": "https:\/\/cryptopanic.com\/news\/18925798\/Is-Terra-Classic-Planning-For-USTC-To-Be-Pegged-To-The-Dollar-Again",
+            "created_at": "2023-09-25T08:30:50Z"
+        },
+        {
+            "kind": "news",
+            "domain": "cryptodaily.co.uk",
+            "source": {
+                "title": "CryptoDaily",
+                "region": "en",
+                "domain": "cryptodaily.co.uk",
+                "path": null
+            },
+            "title": "Upbit Stems Flow Of Fake APT Token, Resumes Services",
+            "published_at": "2023-09-25T06:54:14Z",
+            "slug": "Upbit-Stems-Flow-Of-Fake-APT-Token-Resumes-Services",
+            "currencies": [
+                {
+                    "code": "APT",
+                    "title": "Aptos",
+                    "slug": "aptos",
+                    "url": "https:\/\/cryptopanic.com\/news\/aptos\/"
+                },
+                {
+                    "code": "FLOW",
+                    "title": "Flow",
+                    "slug": "flow",
+                    "url": "https:\/\/cryptopanic.com\/news\/flow\/"
+                }
+            ],
+            "id": 18925575,
+            "url": "https:\/\/cryptopanic.com\/news\/18925575\/Upbit-Stems-Flow-Of-Fake-APT-Token-Resumes-Services",
+            "created_at": "2023-09-25T06:54:14Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "medium.com",
+            "source": {
+                "title": "Byteball Bytes Blog",
+                "region": "en",
+                "domain": "medium.com",
+                "path": null
+            },
+            "title": "+5 Things You Can Do With a Self-Sovereign ID in Obyte",
+            "published_at": "2023-09-22T07:10:18Z",
+            "slug": "5-Things-You-Can-Do-With-a-Self-Sovereign-ID-in-Obyte",
+            "currencies": [
+                {
+                    "code": "GBYTE",
+                    "title": "Obyte",
+                    "slug": "byteball",
+                    "url": "https:\/\/cryptopanic.com\/news\/byteball\/"
+                },
+                {
+                    "code": "FLOW",
+                    "title": "Flow",
+                    "slug": "flow",
+                    "url": "https:\/\/cryptopanic.com\/news\/flow\/"
+                }
+            ],
+            "id": 18921420,
+            "url": "https:\/\/cryptopanic.com\/news\/18921420\/5-Things-You-Can-Do-With-a-Self-Sovereign-ID-in-Obyte",
+            "created_at": "2023-09-22T07:10:18Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "zycrypto.com",
+            "source": {
+                "title": "ZyCrypto",
+                "region": "en",
+                "domain": "zycrypto.com",
+                "path": null
+            },
+            "title": "Crypto Pioneer Arthur Hayes Suggests Massive Chinese Capital Outflows Bode Well For Bitcoin",
+            "published_at": "2023-09-21T15:23:43Z",
+            "slug": "Crypto-Pioneer-Arthur-Hayes-Suggests-Massive-Chinese-Capital-Outflows-Bode-Well-For-Bitcoin",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "FLOW",
+                    "title": "Flow",
+                    "slug": "flow",
+                    "url": "https:\/\/cryptopanic.com\/news\/flow\/"
+                }
+            ],
+            "id": 18919608,
+            "url": "https:\/\/cryptopanic.com\/news\/18919608\/Crypto-Pioneer-Arthur-Hayes-Suggests-Massive-Chinese-Capital-Outflows-Bode-Well-For-Bitcoin",
+            "created_at": "2023-09-21T15:23:43Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

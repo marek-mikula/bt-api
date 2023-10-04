@@ -1,0 +1,713 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=SYN&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "@SynapseProtocol",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "Synapse Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@synapseprotocol"
+            },
+            "title": "RT @TheFoxUp: @AliveFTP_ @sayinshallah @OlympusDAO Can also bridge gOHM into other chain networks on @SynapseProtocol \nAvailable:\nOptimism\u2026",
+            "published_at": "2021-12-15T06:57:59Z",
+            "slug": "RT-TheFoxUp-AliveFTP_-sayinshallah-OlympusDAO-Can-also-bridge-gOHM-into-other-chain-networks-on-SynapseProtocol-Available-Optimism",
+            "currencies": [
+                {
+                    "code": "SYN",
+                    "title": "Synapse",
+                    "slug": "synapse-2",
+                    "url": "https:\/\/cryptopanic.com\/news\/synapse-2\/"
+                }
+            ],
+            "id": 13675979,
+            "url": "https:\/\/cryptopanic.com\/news\/13675979\/RT-TheFoxUp-AliveFTP_-sayinshallah-OlympusDAO-Can-also-bridge-gOHM-into-other-chain-networks-on-SynapseProtocol-Available-Optimism",
+            "created_at": "2021-12-15T06:57:59Z"
+        },
+        {
+            "kind": "news",
+            "domain": "@SynapseProtocol",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "Synapse Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@synapseprotocol"
+            },
+            "title": "Everyday.\n\n#S2W",
+            "published_at": "2021-12-12T17:55:52Z",
+            "slug": "Everyday-S2W",
+            "currencies": [
+                {
+                    "code": "SYN",
+                    "title": "Synapse",
+                    "slug": "synapse-2",
+                    "url": "https:\/\/cryptopanic.com\/news\/synapse-2\/"
+                }
+            ],
+            "id": 13652799,
+            "url": "https:\/\/cryptopanic.com\/news\/13652799\/Everyday-S2W",
+            "created_at": "2021-12-12T17:55:52Z"
+        },
+        {
+            "kind": "news",
+            "domain": "@SynapseProtocol",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "Synapse Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@synapseprotocol"
+            },
+            "title": "RT @optimismPBC: Synapse protocol went live and took 2 days to blow everyone out of the water in liquidity. Who knew combining an AMM with\u2026",
+            "published_at": "2021-12-10T00:44:19Z",
+            "slug": "RT-optimismPBC-Synapse-protocol-went-live-and-took-2-days-to-blow-everyone-out-of-the-water-in-liquidity-Who-knew-combining-an-AMM-with",
+            "currencies": [
+                {
+                    "code": "SYN",
+                    "title": "Synapse",
+                    "slug": "synapse-2",
+                    "url": "https:\/\/cryptopanic.com\/news\/synapse-2\/"
+                }
+            ],
+            "id": 13624893,
+            "url": "https:\/\/cryptopanic.com\/news\/13624893\/RT-optimismPBC-Synapse-protocol-went-live-and-took-2-days-to-blow-everyone-out-of-the-water-in-liquidity-Who-knew-combining-an-AMM-with",
+            "created_at": "2021-12-10T00:44:19Z"
+        },
+        {
+            "kind": "news",
+            "domain": "@SynapseProtocol",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "Synapse Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@synapseprotocol"
+            },
+            "title": "RT @saddlefinance: The first Saddle Improvement Proposal (SIP) for a new @fraxfinance pool on @arbitrum with bridging by @SynapseProtocol w\u2026",
+            "published_at": "2021-12-03T23:34:51Z",
+            "slug": "RT-saddlefinance-The-first-Saddle-Improvement-Proposal-SIP-for-a-new-fraxfinance-pool-on-arbitrum-with-bridging-by-SynapseProtocol-w",
+            "currencies": [
+                {
+                    "code": "SYN",
+                    "title": "Synapse",
+                    "slug": "synapse-2",
+                    "url": "https:\/\/cryptopanic.com\/news\/synapse-2\/"
+                }
+            ],
+            "id": 13561697,
+            "url": "https:\/\/cryptopanic.com\/news\/13561697\/RT-saddlefinance-The-first-Saddle-Improvement-Proposal-SIP-for-a-new-fraxfinance-pool-on-arbitrum-with-bridging-by-SynapseProtocol-w",
+            "created_at": "2021-12-03T23:34:51Z"
+        },
+        {
+            "kind": "news",
+            "domain": "@SynapseProtocol",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "Synapse Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@synapseprotocol"
+            },
+            "title": "RT @NDGcrypto: The L1-L2 wars have been a dominant theme in crypto.\n\nUnifying these thriving ecosystems via bridges is a logical follow-up.\u2026",
+            "published_at": "2021-12-02T23:47:48Z",
+            "slug": "RT-NDGcrypto-The-L1-L2-wars-have-been-a-dominant-theme-in-crypto-Unifying-these-thriving-ecosystems-via-bridges-is-a-logical-follow-up",
+            "currencies": [
+                {
+                    "code": "SYN",
+                    "title": "Synapse",
+                    "slug": "synapse-2",
+                    "url": "https:\/\/cryptopanic.com\/news\/synapse-2\/"
+                }
+            ],
+            "id": 13548558,
+            "url": "https:\/\/cryptopanic.com\/news\/13548558\/RT-NDGcrypto-The-L1-L2-wars-have-been-a-dominant-theme-in-crypto-Unifying-these-thriving-ecosystems-via-bridges-is-a-logical-follow-up",
+            "created_at": "2021-12-02T23:47:48Z"
+        },
+        {
+            "kind": "news",
+            "domain": "@SynapseProtocol",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "Synapse Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@synapseprotocol"
+            },
+            "title": "As we enter the last month of the year, we wanted to recap some of the activity on Synapse in the past month.\n\nNove\u2026",
+            "published_at": "2021-12-02T20:22:55Z",
+            "slug": "As-we-enter-the-last-month-of-the-year-we-wanted-to-recap-some-of-the-activity-on-Synapse-in-the-past-month-Nove",
+            "currencies": [
+                {
+                    "code": "SYN",
+                    "title": "Synapse",
+                    "slug": "synapse-2",
+                    "url": "https:\/\/cryptopanic.com\/news\/synapse-2\/"
+                }
+            ],
+            "id": 13548559,
+            "url": "https:\/\/cryptopanic.com\/news\/13548559\/As-we-enter-the-last-month-of-the-year-we-wanted-to-recap-some-of-the-activity-on-Synapse-in-the-past-month-Nove",
+            "created_at": "2021-12-02T20:22:55Z"
+        },
+        {
+            "kind": "news",
+            "domain": "@SynapseProtocol",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "Synapse Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@synapseprotocol"
+            },
+            "title": "Seeing a recent uptick on inflows to @HarmonyProtocol \n\n$75m has been on-ramped onto Harmony through Synapse in u\u2026",
+            "published_at": "2021-12-02T03:27:19Z",
+            "slug": "Seeing-a-recent-uptick-on-inflows-to-HarmonyProtocol-75m-has-been-on-ramped-onto-Harmony-through-Synapse-in-u",
+            "currencies": [
+                {
+                    "code": "SYN",
+                    "title": "Synapse",
+                    "slug": "synapse-2",
+                    "url": "https:\/\/cryptopanic.com\/news\/synapse-2\/"
+                },
+                {
+                    "code": "ONE",
+                    "title": "Harmony",
+                    "slug": "harmony",
+                    "url": "https:\/\/cryptopanic.com\/news\/harmony\/"
+                }
+            ],
+            "id": 13535799,
+            "url": "https:\/\/cryptopanic.com\/news\/13535799\/Seeing-a-recent-uptick-on-inflows-to-HarmonyProtocol-75m-has-been-on-ramped-onto-Harmony-through-Synapse-in-u",
+            "created_at": "2021-12-02T03:27:19Z"
+        },
+        {
+            "kind": "news",
+            "domain": "@SynapseProtocol",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "Synapse Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@synapseprotocol"
+            },
+            "title": "We're excited to support @Arbis_Finance to help them launch $gOHM bonds on @Arbitrum \n\ngOHM will soon be everywhere\u2026",
+            "published_at": "2021-12-01T21:13:42Z",
+            "slug": "Were-excited-to-support-Arbis_Finance-to-help-them-launch-gOHM-bonds-on-Arbitrum-gOHM-will-soon-be-everywhere",
+            "currencies": [
+                {
+                    "code": "SYN",
+                    "title": "Synapse",
+                    "slug": "synapse-2",
+                    "url": "https:\/\/cryptopanic.com\/news\/synapse-2\/"
+                }
+            ],
+            "id": 13535800,
+            "url": "https:\/\/cryptopanic.com\/news\/13535800\/Were-excited-to-support-Arbis_Finance-to-help-them-launch-gOHM-bonds-on-Arbitrum-gOHM-will-soon-be-everywhere",
+            "created_at": "2021-12-01T21:13:42Z"
+        },
+        {
+            "kind": "news",
+            "domain": "@SynapseProtocol",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "Synapse Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@synapseprotocol"
+            },
+            "title": "We're thrilled to announce our newest partner @OndoFinance as we transition to a more robust and decentralized, liq\u2026",
+            "published_at": "2021-12-01T17:39:52Z",
+            "slug": "Were-thrilled-to-announce-our-newest-partner-OndoFinance-as-we-transition-to-a-more-robust-and-decentralized-liq",
+            "currencies": [
+                {
+                    "code": "SYN",
+                    "title": "Synapse",
+                    "slug": "synapse-2",
+                    "url": "https:\/\/cryptopanic.com\/news\/synapse-2\/"
+                }
+            ],
+            "id": 13535801,
+            "url": "https:\/\/cryptopanic.com\/news\/13535801\/Were-thrilled-to-announce-our-newest-partner-OndoFinance-as-we-transition-to-a-more-robust-and-decentralized-liq",
+            "created_at": "2021-12-01T17:39:52Z"
+        },
+        {
+            "kind": "news",
+            "domain": "@SynapseProtocol",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "Synapse Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@synapseprotocol"
+            },
+            "title": "**We're extremely excited to introduce you to the multichain future**\n\n@OlympusDAO is building the reserve currency\u2026",
+            "published_at": "2021-11-30T15:06:24Z",
+            "slug": "Were-extremely-excited-to-introduce-you-to-the-multichain-future-OlympusDAO-is-building-the-reserve-currency",
+            "currencies": [
+                {
+                    "code": "SYN",
+                    "title": "Synapse",
+                    "slug": "synapse-2",
+                    "url": "https:\/\/cryptopanic.com\/news\/synapse-2\/"
+                }
+            ],
+            "id": 13524590,
+            "url": "https:\/\/cryptopanic.com\/news\/13524590\/Were-extremely-excited-to-introduce-you-to-the-multichain-future-OlympusDAO-is-building-the-reserve-currency",
+            "created_at": "2021-11-30T15:06:24Z"
+        },
+        {
+            "kind": "news",
+            "domain": "@SynapseProtocol",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "Synapse Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@synapseprotocol"
+            },
+            "title": "$sSYN",
+            "published_at": "2021-11-29T00:37:17Z",
+            "slug": "sSYN",
+            "currencies": [
+                {
+                    "code": "SYN",
+                    "title": "Synapse",
+                    "slug": "synapse-2",
+                    "url": "https:\/\/cryptopanic.com\/news\/synapse-2\/"
+                }
+            ],
+            "id": 13499153,
+            "url": "https:\/\/cryptopanic.com\/news\/13499153\/sSYN",
+            "created_at": "2021-11-29T00:37:17Z"
+        },
+        {
+            "kind": "news",
+            "domain": "@SynapseProtocol",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "Synapse Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@synapseprotocol"
+            },
+            "title": "Happy \ud83e\udd83\n\n\ud83e\udd0d\n\n#S2W",
+            "published_at": "2021-11-26T05:47:36Z",
+            "slug": "Happy-S2W",
+            "currencies": [
+                {
+                    "code": "SYN",
+                    "title": "Synapse",
+                    "slug": "synapse-2",
+                    "url": "https:\/\/cryptopanic.com\/news\/synapse-2\/"
+                }
+            ],
+            "id": 13470969,
+            "url": "https:\/\/cryptopanic.com\/news\/13470969\/Happy-S2W",
+            "created_at": "2021-11-26T05:47:36Z"
+        },
+        {
+            "kind": "news",
+            "domain": "@SynapseProtocol",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "Synapse Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@synapseprotocol"
+            },
+            "title": "RT @ape_board: Start with 4, Synapse has now more than 10 chains \n\n@SynapseProtocol is supported on \n\nYou can now\u2026",
+            "published_at": "2021-11-24T16:57:20Z",
+            "slug": "RT-ape_board-Start-with-4-Synapse-has-now-more-than-10-chains-SynapseProtocol-is-supported-on-You-can-now",
+            "currencies": [
+                {
+                    "code": "SYN",
+                    "title": "Synapse",
+                    "slug": "synapse-2",
+                    "url": "https:\/\/cryptopanic.com\/news\/synapse-2\/"
+                }
+            ],
+            "id": 13459502,
+            "url": "https:\/\/cryptopanic.com\/news\/13459502\/RT-ape_board-Start-with-4-Synapse-has-now-more-than-10-chains-SynapseProtocol-is-supported-on-You-can-now",
+            "created_at": "2021-11-24T16:57:20Z"
+        },
+        {
+            "kind": "news",
+            "domain": "@SynapseProtocol",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "Synapse Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@synapseprotocol"
+            },
+            "title": "RT @CometShock: PSA: any time you plan to bridge from mainnet to L2, check the exchange rates at @SynapseProtocol, @HopProtocol, etc. Chanc\u2026",
+            "published_at": "2021-11-24T04:34:41Z",
+            "slug": "RT-CometShock-PSA-any-time-you-plan-to-bridge-from-mainnet-to-L2-check-the-exchange-rates-at-SynapseProtocol-HopProtocol-etc-Chanc",
+            "currencies": [
+                {
+                    "code": "SYN",
+                    "title": "Synapse",
+                    "slug": "synapse-2",
+                    "url": "https:\/\/cryptopanic.com\/news\/synapse-2\/"
+                }
+            ],
+            "id": 13445485,
+            "url": "https:\/\/cryptopanic.com\/news\/13445485\/RT-CometShock-PSA-any-time-you-plan-to-bridge-from-mainnet-to-L2-check-the-exchange-rates-at-SynapseProtocol-HopProtocol-etc-Chanc",
+            "created_at": "2021-11-24T04:34:41Z"
+        },
+        {
+            "kind": "news",
+            "domain": "@SynapseProtocol",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "Synapse Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@synapseprotocol"
+            },
+            "title": "Thanks @BenqiFinance for adding us to the bridge page\n\nGB",
+            "published_at": "2021-11-24T04:34:29Z",
+            "slug": "Thanks-BenqiFinance-for-adding-us-to-the-bridge-page-GB",
+            "currencies": [
+                {
+                    "code": "SYN",
+                    "title": "Synapse",
+                    "slug": "synapse-2",
+                    "url": "https:\/\/cryptopanic.com\/news\/synapse-2\/"
+                }
+            ],
+            "id": 13445486,
+            "url": "https:\/\/cryptopanic.com\/news\/13445486\/Thanks-BenqiFinance-for-adding-us-to-the-bridge-page-GB",
+            "created_at": "2021-11-24T04:34:29Z"
+        },
+        {
+            "kind": "news",
+            "domain": "@SynapseProtocol",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "Synapse Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@synapseprotocol"
+            },
+            "title": "Bridging to L2s \ud83e\udd1d Free money @BobaNetwork",
+            "published_at": "2021-11-24T01:14:25Z",
+            "slug": "Bridging-to-L2s-Free-money-BobaNetwork",
+            "currencies": [
+                {
+                    "code": "SYN",
+                    "title": "Synapse",
+                    "slug": "synapse-2",
+                    "url": "https:\/\/cryptopanic.com\/news\/synapse-2\/"
+                }
+            ],
+            "id": 13445487,
+            "url": "https:\/\/cryptopanic.com\/news\/13445487\/Bridging-to-L2s-Free-money-BobaNetwork",
+            "created_at": "2021-11-24T01:14:25Z"
+        },
+        {
+            "kind": "news",
+            "domain": "@SynapseProtocol",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "Synapse Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@synapseprotocol"
+            },
+            "title": "SIP-07: Joining @feiprotocol &amp; @OndoFinance's Liquidity as a Service is live for voting: \n\nO\u2026",
+            "published_at": "2021-11-24T01:04:45Z",
+            "slug": "SIP-07-Joining-feiprotocol-amp-OndoFinances-Liquidity-as-a-Service-is-live-for-voting-O",
+            "currencies": [
+                {
+                    "code": "SYN",
+                    "title": "Synapse",
+                    "slug": "synapse-2",
+                    "url": "https:\/\/cryptopanic.com\/news\/synapse-2\/"
+                }
+            ],
+            "id": 13445488,
+            "url": "https:\/\/cryptopanic.com\/news\/13445488\/SIP-07-Joining-feiprotocol-amp-OndoFinances-Liquidity-as-a-Service-is-live-for-voting-O",
+            "created_at": "2021-11-24T01:04:45Z"
+        },
+        {
+            "kind": "news",
+            "domain": "@SynapseProtocol",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "Synapse Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@synapseprotocol"
+            },
+            "title": "RT @nathanlallman: Great to see this proposal for @SynapseProtocol to create a $25mm LaaS pool and completely phase out its existing pool 2\u2026",
+            "published_at": "2021-11-22T14:42:14Z",
+            "slug": "RT-nathanlallman-Great-to-see-this-proposal-for-SynapseProtocol-to-create-a-25mm-LaaS-pool-and-completely-phase-out-its-existing-pool-2",
+            "currencies": [
+                {
+                    "code": "SYN",
+                    "title": "Synapse",
+                    "slug": "synapse-2",
+                    "url": "https:\/\/cryptopanic.com\/news\/synapse-2\/"
+                }
+            ],
+            "id": 13432929,
+            "url": "https:\/\/cryptopanic.com\/news\/13432929\/RT-nathanlallman-Great-to-see-this-proposal-for-SynapseProtocol-to-create-a-25mm-LaaS-pool-and-completely-phase-out-its-existing-pool-2",
+            "created_at": "2021-11-22T14:42:14Z"
+        },
+        {
+            "kind": "news",
+            "domain": "@SynapseProtocol",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "Synapse Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@synapseprotocol"
+            },
+            "title": "Since launching on @OptimismPBC two days ago, Synapse is now the most liquid bridge in\/out of Optimism.\n\nWe're exci\u2026",
+            "published_at": "2021-11-21T20:38:15Z",
+            "slug": "Since-launching-on-OptimismPBC-two-days-ago-Synapse-is-now-the-most-liquid-bridge-inout-of-Optimism-Were-exci",
+            "currencies": [
+                {
+                    "code": "SYN",
+                    "title": "Synapse",
+                    "slug": "synapse-2",
+                    "url": "https:\/\/cryptopanic.com\/news\/synapse-2\/"
+                }
+            ],
+            "id": 13421645,
+            "url": "https:\/\/cryptopanic.com\/news\/13421645\/Since-launching-on-OptimismPBC-two-days-ago-Synapse-is-now-the-most-liquid-bridge-inout-of-Optimism-Were-exci",
+            "created_at": "2021-11-21T20:38:15Z"
+        },
+        {
+            "kind": "news",
+            "domain": "@SynapseProtocol",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "Synapse Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@synapseprotocol"
+            },
+            "title": "Days like today it\u2019s good to be a bridge \n\n#S2W",
+            "published_at": "2021-11-21T01:31:17Z",
+            "slug": "Days-like-today-its-good-to-be-a-bridge-S2W",
+            "currencies": [
+                {
+                    "code": "SYN",
+                    "title": "Synapse",
+                    "slug": "synapse-2",
+                    "url": "https:\/\/cryptopanic.com\/news\/synapse-2\/"
+                }
+            ],
+            "id": 13412086,
+            "url": "https:\/\/cryptopanic.com\/news\/13412086\/Days-like-today-its-good-to-be-a-bridge-S2W",
+            "created_at": "2021-11-21T01:31:17Z"
+        }
+    ]
+}

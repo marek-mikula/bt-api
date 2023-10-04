@@ -1,0 +1,809 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=XLM&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "XLM: A solid rebound at the range-low remains elusive",
+            "published_at": "2023-10-02T14:30:25Z",
+            "slug": "XLM-A-solid-rebound-at-the-range-low-remains-elusive",
+            "currencies": [
+                {
+                    "code": "XLM",
+                    "title": "Stellar",
+                    "slug": "stellar",
+                    "url": "https:\/\/cryptopanic.com\/news\/stellar\/"
+                }
+            ],
+            "id": 18942284,
+            "url": "https:\/\/cryptopanic.com\/news\/18942284\/XLM-A-solid-rebound-at-the-range-low-remains-elusive",
+            "created_at": "2023-10-02T14:30:25Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "livebitcoinnews.com",
+            "source": {
+                "title": "Live Bitcoin News",
+                "region": "en",
+                "domain": "livebitcoinnews.com",
+                "path": null
+            },
+            "title": "Stellar Lumen (XLM) Price Could Recover and Revisit $0.15",
+            "published_at": "2023-10-02T05:58:02Z",
+            "slug": "Stellar-Lumen-XLM-Price-Could-Recover-and-Revisit-015",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "XLM",
+                    "title": "Stellar",
+                    "slug": "stellar",
+                    "url": "https:\/\/cryptopanic.com\/news\/stellar\/"
+                }
+            ],
+            "id": 18941070,
+            "url": "https:\/\/cryptopanic.com\/news\/18941070\/Stellar-Lumen-XLM-Price-Could-Recover-and-Revisit-015",
+            "created_at": "2023-10-02T05:58:02Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coingape.com",
+            "source": {
+                "title": "CoinGape",
+                "region": "en",
+                "domain": "coingape.com",
+                "path": null
+            },
+            "title": "Over 1 Billion XRP Released from Escrow as Price Gains Facelift",
+            "published_at": "2023-10-01T12:41:49Z",
+            "slug": "Over-1-Billion-XRP-Released-from-Escrow-as-Price-Gains-Facelift",
+            "currencies": [
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                },
+                {
+                    "code": "XLM",
+                    "title": "Stellar",
+                    "slug": "stellar",
+                    "url": "https:\/\/cryptopanic.com\/news\/stellar\/"
+                }
+            ],
+            "id": 18940215,
+            "url": "https:\/\/cryptopanic.com\/news\/18940215\/Over-1-Billion-XRP-Released-from-Escrow-as-Price-Gains-Facelift",
+            "created_at": "2023-10-01T12:41:49Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinedition.com",
+            "source": {
+                "title": "coinedition",
+                "region": "en",
+                "domain": "coinedition.com",
+                "path": null
+            },
+            "title": "LINK, MATIC, ETH Rise as Altcoin Market Gets Capital Injection",
+            "published_at": "2023-09-30T09:48:00Z",
+            "slug": "LINK-MATIC-ETH-Rise-as-Altcoin-Market-Gets-Capital-Injection",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "MATIC",
+                    "title": "Polygon",
+                    "slug": "matic-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-network\/"
+                },
+                {
+                    "code": "LINK",
+                    "title": "Chainlink",
+                    "slug": "chainlink",
+                    "url": "https:\/\/cryptopanic.com\/news\/chainlink\/"
+                },
+                {
+                    "code": "XLM",
+                    "title": "Stellar",
+                    "slug": "stellar",
+                    "url": "https:\/\/cryptopanic.com\/news\/stellar\/"
+                }
+            ],
+            "id": 18938881,
+            "url": "https:\/\/cryptopanic.com\/news\/18938881\/LINK-MATIC-ETH-Rise-as-Altcoin-Market-Gets-Capital-Injection",
+            "created_at": "2023-09-30T09:48:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptoglobe.com",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 1,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "CryptoGlobe",
+                "region": "en",
+                "domain": "cryptoglobe.com",
+                "path": null
+            },
+            "title": "Idris Elba Partners with Stellar Development Foundation Amidst Crypto\u2019s Troubled Waters",
+            "published_at": "2023-09-30T09:14:25Z",
+            "slug": "Idris-Elba-Partners-with-Stellar-Development-Foundation-Amidst-Cryptos-Troubled-Waters",
+            "currencies": [
+                {
+                    "code": "XLM",
+                    "title": "Stellar",
+                    "slug": "stellar",
+                    "url": "https:\/\/cryptopanic.com\/news\/stellar\/"
+                }
+            ],
+            "id": 18938859,
+            "url": "https:\/\/cryptopanic.com\/news\/18938859\/Idris-Elba-Partners-with-Stellar-Development-Foundation-Amidst-Cryptos-Troubled-Waters",
+            "created_at": "2023-09-30T09:14:25Z"
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "Stellar Lumens [XLM]: Can sellers finally break the $0.11 support?",
+            "published_at": "2023-09-29T04:30:13Z",
+            "slug": "Stellar-Lumens-XLM-Can-sellers-finally-break-the-011-support",
+            "currencies": [
+                {
+                    "code": "XLM",
+                    "title": "Stellar",
+                    "slug": "stellar",
+                    "url": "https:\/\/cryptopanic.com\/news\/stellar\/"
+                }
+            ],
+            "id": 18936226,
+            "url": "https:\/\/cryptopanic.com\/news\/18936226\/Stellar-Lumens-XLM-Can-sellers-finally-break-the-011-support",
+            "created_at": "2023-09-29T04:30:13Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 1
+            },
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "What Next For Chainlink (LINK) Price after 30% Profits in September?",
+            "published_at": "2023-09-28T16:30:00Z",
+            "slug": "What-Next-For-Chainlink-LINK-Price-after-30-Profits-in-September",
+            "currencies": [
+                {
+                    "code": "LINK",
+                    "title": "Chainlink",
+                    "slug": "chainlink",
+                    "url": "https:\/\/cryptopanic.com\/news\/chainlink\/"
+                },
+                {
+                    "code": "XLM",
+                    "title": "Stellar",
+                    "slug": "stellar",
+                    "url": "https:\/\/cryptopanic.com\/news\/stellar\/"
+                }
+            ],
+            "id": 18935248,
+            "url": "https:\/\/cryptopanic.com\/news\/18935248\/What-Next-For-Chainlink-LINK-Price-after-30-Profits-in-September",
+            "created_at": "2023-09-28T16:30:00Z"
+        },
+        {
+            "kind": "news",
+            "domain": "cryptodaily.co.uk",
+            "source": {
+                "title": "CryptoDaily",
+                "region": "en",
+                "domain": "cryptodaily.co.uk",
+                "path": null
+            },
+            "title": "Everlodge (ELDG) Stunds With a Stellar Presale Performance, Lazarus Group Now a Tron (TRX) Whale, BIT Launches Filecoin (FIL) Options Trading",
+            "published_at": "2023-09-28T14:09:11Z",
+            "slug": "Everlodge-ELDG-Stunds-With-a-Stellar-Presale-Performance-Lazarus-Group-Now-a-Tron-TRX-Whale-BIT-Launches-Filecoin-FIL-Options-Trading",
+            "currencies": [
+                {
+                    "code": "TRX",
+                    "title": "TRON",
+                    "slug": "tron",
+                    "url": "https:\/\/cryptopanic.com\/news\/tron\/"
+                },
+                {
+                    "code": "XLM",
+                    "title": "Stellar",
+                    "slug": "stellar",
+                    "url": "https:\/\/cryptopanic.com\/news\/stellar\/"
+                },
+                {
+                    "code": "FIL",
+                    "title": "Filecoin",
+                    "slug": "filecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/filecoin\/"
+                }
+            ],
+            "id": 18934795,
+            "url": "https:\/\/cryptopanic.com\/news\/18934795\/Everlodge-ELDG-Stunds-With-a-Stellar-Presale-Performance-Lazarus-Group-Now-a-Tron-TRX-Whale-BIT-Launches-Filecoin-FIL-Options-Trading",
+            "created_at": "2023-09-28T14:09:11Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinjournal.net",
+            "source": {
+                "title": "CoinJournal",
+                "region": "en",
+                "domain": "coinjournal.net",
+                "path": null
+            },
+            "title": "Stellar (XLM\/USD) fails at $0.2; attention turns to previous support",
+            "published_at": "2023-09-28T07:49:12Z",
+            "slug": "Stellar-XLMUSD-fails-at-02-attention-turns-to-previous-support",
+            "currencies": [
+                {
+                    "code": "XLM",
+                    "title": "Stellar",
+                    "slug": "stellar",
+                    "url": "https:\/\/cryptopanic.com\/news\/stellar\/"
+                }
+            ],
+            "id": 18933777,
+            "url": "https:\/\/cryptopanic.com\/news\/18933777\/Stellar-XLMUSD-fails-at-02-attention-turns-to-previous-support",
+            "created_at": "2023-09-28T07:49:12Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "en.bitcoinsistemi.com",
+            "source": {
+                "title": "en bitcoinsistemi",
+                "region": "en",
+                "domain": "en.bitcoinsistemi.com",
+                "path": null
+            },
+            "title": "Best Crypto To Buy In September Apecoin (APE), Stellar (XLM) And Shiba Budz (BUDZ)",
+            "published_at": "2023-09-27T15:00:30Z",
+            "slug": "Best-Crypto-To-Buy-In-September-Apecoin-APE-Stellar-XLM-And-Shiba-Budz-BUDZ",
+            "currencies": [
+                {
+                    "code": "XLM",
+                    "title": "Stellar",
+                    "slug": "stellar",
+                    "url": "https:\/\/cryptopanic.com\/news\/stellar\/"
+                },
+                {
+                    "code": "APE",
+                    "title": "ApeCoin",
+                    "slug": "apecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/apecoin\/"
+                }
+            ],
+            "id": 18932295,
+            "url": "https:\/\/cryptopanic.com\/news\/18932295\/Best-Crypto-To-Buy-In-September-Apecoin-APE-Stellar-XLM-And-Shiba-Budz-BUDZ",
+            "created_at": "2023-09-27T15:00:30Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "dailycoin.com",
+            "source": {
+                "title": "Dailycoin",
+                "region": "en",
+                "domain": "dailycoin.com",
+                "path": null
+            },
+            "title": "Circle Amplifies EURC Accessibility with Stellar Alliance",
+            "published_at": "2023-09-27T14:35:00Z",
+            "slug": "Circle-Amplifies-EURC-Accessibility-with-Stellar-Alliance",
+            "currencies": [
+                {
+                    "code": "XLM",
+                    "title": "Stellar",
+                    "slug": "stellar",
+                    "url": "https:\/\/cryptopanic.com\/news\/stellar\/"
+                }
+            ],
+            "id": 18932197,
+            "url": "https:\/\/cryptopanic.com\/news\/18932197\/Circle-Amplifies-EURC-Accessibility-with-Stellar-Alliance",
+            "created_at": "2023-09-27T14:35:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 2,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 1,
+                "comments": 1
+            },
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "MoneyGram Will Soon Let Customers Swap Fiat and USDC Stablecoins Via New Crypto Wallet",
+            "published_at": "2023-09-27T09:45:00Z",
+            "slug": "MoneyGram-Will-Soon-Let-Customers-Swap-Fiat-and-USDC-Stablecoins-Via-New-Crypto-Wallet",
+            "currencies": [
+                {
+                    "code": "USDC",
+                    "title": "USDC",
+                    "slug": "usd-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/usd-coin\/"
+                },
+                {
+                    "code": "XLM",
+                    "title": "Stellar",
+                    "slug": "stellar",
+                    "url": "https:\/\/cryptopanic.com\/news\/stellar\/"
+                }
+            ],
+            "id": 18931430,
+            "url": "https:\/\/cryptopanic.com\/news\/18931430\/MoneyGram-Will-Soon-Let-Customers-Swap-Fiat-and-USDC-Stablecoins-Via-New-Crypto-Wallet",
+            "created_at": "2023-09-27T09:45:00Z"
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "buzzlightning \u2013 The Symbiot of Reality and Virtuality",
+            "published_at": "2023-09-27T09:43:27Z",
+            "slug": "buzzlightning-The-Symbiot-of-Reality-and-Virtuality",
+            "currencies": [
+                {
+                    "code": "XLM",
+                    "title": "Stellar",
+                    "slug": "stellar",
+                    "url": "https:\/\/cryptopanic.com\/news\/stellar\/"
+                }
+            ],
+            "id": 18931431,
+            "url": "https:\/\/cryptopanic.com\/news\/18931431\/buzzlightning-The-Symbiot-of-Reality-and-Virtuality",
+            "created_at": "2023-09-27T09:43:27Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "Circle launches euro stablecoin on Stellar- Will this boost XLM?",
+            "published_at": "2023-09-27T08:30:02Z",
+            "slug": "Circle-launches-euro-stablecoin-on-Stellar-Will-this-boost-XLM",
+            "currencies": [
+                {
+                    "code": "XLM",
+                    "title": "Stellar",
+                    "slug": "stellar",
+                    "url": "https:\/\/cryptopanic.com\/news\/stellar\/"
+                }
+            ],
+            "id": 18931111,
+            "url": "https:\/\/cryptopanic.com\/news\/18931111\/Circle-launches-euro-stablecoin-on-Stellar-Will-this-boost-XLM",
+            "created_at": "2023-09-27T08:30:02Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinspeaker.com",
+            "source": {
+                "title": "Coinspeaker",
+                "region": "en",
+                "domain": "coinspeaker.com",
+                "path": null
+            },
+            "title": "Circle and SDF Launch EURC on Stellar Network to Enhance European Remittance Network",
+            "published_at": "2023-09-27T07:53:36Z",
+            "slug": "Circle-and-SDF-Launch-EURC-on-Stellar-Network-to-Enhance-European-Remittance-Network",
+            "currencies": [
+                {
+                    "code": "USDC",
+                    "title": "USDC",
+                    "slug": "usd-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/usd-coin\/"
+                },
+                {
+                    "code": "XLM",
+                    "title": "Stellar",
+                    "slug": "stellar",
+                    "url": "https:\/\/cryptopanic.com\/news\/stellar\/"
+                }
+            ],
+            "id": 18931040,
+            "url": "https:\/\/cryptopanic.com\/news\/18931040\/Circle-and-SDF-Launch-EURC-on-Stellar-Network-to-Enhance-European-Remittance-Network",
+            "created_at": "2023-09-27T07:53:36Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptoglobe.com",
+            "source": {
+                "title": "CryptoGlobe",
+                "region": "en",
+                "domain": "cryptoglobe.com",
+                "path": null
+            },
+            "title": "Former Ripple Partner MoneyGram to Launch Non-Custodial Crypto Wallet With Stellar Partnership",
+            "published_at": "2023-09-27T03:02:00Z",
+            "slug": "Former-Ripple-Partner-MoneyGram-to-Launch-Non-Custodial-Crypto-Wallet-With-Stellar-Partnership",
+            "currencies": [
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                },
+                {
+                    "code": "XLM",
+                    "title": "Stellar",
+                    "slug": "stellar",
+                    "url": "https:\/\/cryptopanic.com\/news\/stellar\/"
+                }
+            ],
+            "id": 18930691,
+            "url": "https:\/\/cryptopanic.com\/news\/18930691\/Former-Ripple-Partner-MoneyGram-to-Launch-Non-Custodial-Crypto-Wallet-With-Stellar-Partnership",
+            "created_at": "2023-09-27T03:02:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "bitcoin.com",
+            "source": {
+                "title": "Bitcoin.com",
+                "region": "en",
+                "domain": "bitcoin.com",
+                "path": null
+            },
+            "title": "Moneygram Introduces Non-Custodial Crypto Wallet for Cross-Border Payments",
+            "published_at": "2023-09-26T20:30:08Z",
+            "slug": "Moneygram-Introduces-Non-Custodial-Crypto-Wallet-for-Cross-Border-Payments",
+            "currencies": [
+                {
+                    "code": "XLM",
+                    "title": "Stellar",
+                    "slug": "stellar",
+                    "url": "https:\/\/cryptopanic.com\/news\/stellar\/"
+                }
+            ],
+            "id": 18930247,
+            "url": "https:\/\/cryptopanic.com\/news\/18930247\/Moneygram-Introduces-Non-Custodial-Crypto-Wallet-for-Cross-Border-Payments",
+            "created_at": "2023-09-26T20:30:08Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "theblock.co",
+            "source": {
+                "title": "The Block",
+                "region": "en",
+                "domain": "theblock.co",
+                "path": null
+            },
+            "title": "Circle launches EURC stablecoin on Stellar network",
+            "published_at": "2023-09-26T19:33:35Z",
+            "slug": "Circle-launches-EURC-stablecoin-on-Stellar-network",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "USDC",
+                    "title": "USDC",
+                    "slug": "usd-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/usd-coin\/"
+                },
+                {
+                    "code": "AVAX",
+                    "title": "Avalanche",
+                    "slug": "avalanche-2",
+                    "url": "https:\/\/cryptopanic.com\/news\/avalanche-2\/"
+                },
+                {
+                    "code": "XLM",
+                    "title": "Stellar",
+                    "slug": "stellar",
+                    "url": "https:\/\/cryptopanic.com\/news\/stellar\/"
+                }
+            ],
+            "id": 18930150,
+            "url": "https:\/\/cryptopanic.com\/news\/18930150\/Circle-launches-EURC-stablecoin-on-Stellar-network",
+            "created_at": "2023-09-26T19:33:35Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "en.bitcoinsistemi.com",
+            "votes": {
+                "negative": 0,
+                "positive": 2,
+                "important": 1,
+                "liked": 2,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 1,
+                "comments": 0
+            },
+            "source": {
+                "title": "en bitcoinsistemi",
+                "region": "en",
+                "domain": "en.bitcoinsistemi.com",
+                "path": null
+            },
+            "title": "Circle Makes a Giant Listing Move for Stellar (XLM)",
+            "published_at": "2023-09-26T19:28:05Z",
+            "slug": "Circle-Makes-a-Giant-Listing-Move-for-Stellar-XLM",
+            "currencies": [
+                {
+                    "code": "XLM",
+                    "title": "Stellar",
+                    "slug": "stellar",
+                    "url": "https:\/\/cryptopanic.com\/news\/stellar\/"
+                }
+            ],
+            "id": 18930137,
+            "url": "https:\/\/cryptopanic.com\/news\/18930137\/Circle-Makes-a-Giant-Listing-Move-for-Stellar-XLM",
+            "created_at": "2023-09-26T19:28:05Z"
+        },
+        {
+            "kind": "news",
+            "domain": "cointelegraph.com",
+            "source": {
+                "title": "CoinTelegraph",
+                "region": "en",
+                "domain": "cointelegraph.com",
+                "path": null
+            },
+            "title": "Circle launches native euro stablecoin on Stellar",
+            "published_at": "2023-09-26T18:48:57Z",
+            "slug": "Circle-launches-native-euro-stablecoin-on-Stellar",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "XLM",
+                    "title": "Stellar",
+                    "slug": "stellar",
+                    "url": "https:\/\/cryptopanic.com\/news\/stellar\/"
+                }
+            ],
+            "id": 18930055,
+            "url": "https:\/\/cryptopanic.com\/news\/18930055\/Circle-launches-native-euro-stablecoin-on-Stellar",
+            "created_at": "2023-09-26T18:48:57Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

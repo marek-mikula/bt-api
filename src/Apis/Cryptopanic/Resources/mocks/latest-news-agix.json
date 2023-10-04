@@ -1,0 +1,875 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=AGIX&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "@ChronotechNews",
+            "source": {
+                "title": "Chrono.tech Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@chronotechnews"
+            },
+            "title": "@LaborXNews x @SingularityNET \n\nWe've teamed up with SingularityNET to bring even more innovation to our hiring pr\u2026",
+            "published_at": "2023-04-17T16:59:35Z",
+            "slug": "LaborXNews-x-SingularityNET-Weve-teamed-up-with-SingularityNET-to-bring-even-more-innovation-to-our-hiring-pr",
+            "currencies": [
+                {
+                    "code": "TIME",
+                    "title": "chrono.tech",
+                    "slug": "chronobank",
+                    "url": "https:\/\/cryptopanic.com\/news\/chronobank\/"
+                },
+                {
+                    "code": "AGIX",
+                    "title": "SingularityNET",
+                    "slug": "singularitynet",
+                    "url": "https:\/\/cryptopanic.com\/news\/singularitynet\/"
+                }
+            ],
+            "id": 18132667,
+            "url": "https:\/\/cryptopanic.com\/news\/18132667\/LaborXNews-x-SingularityNET-Weve-teamed-up-with-SingularityNET-to-bring-even-more-innovation-to-our-hiring-pr",
+            "created_at": "2023-04-17T16:59:35Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@moonrabbitAZ",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "Moon Rabbit Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@moonrabbitaz"
+            },
+            "title": "We will soon launch a groundbreaking collaboration in the #AI field. Stay tuned!\n$FET $AGIX $GRT #ArtificialIntelligence",
+            "published_at": "2023-04-17T10:11:09Z",
+            "slug": "We-will-soon-launch-a-groundbreaking-collaboration-in-the-AI-field-Stay-tuned-FET-AGIX-GRT-ArtificialIntelligence",
+            "currencies": [
+                {
+                    "code": "AAA",
+                    "title": "Moon Rabbit",
+                    "slug": "moon-rabbit",
+                    "url": "https:\/\/cryptopanic.com\/news\/moon-rabbit\/"
+                },
+                {
+                    "code": "GRT",
+                    "title": "The Graph",
+                    "slug": "the-graph",
+                    "url": "https:\/\/cryptopanic.com\/news\/the-graph\/"
+                },
+                {
+                    "code": "AGIX",
+                    "title": "SingularityNET",
+                    "slug": "singularitynet",
+                    "url": "https:\/\/cryptopanic.com\/news\/singularitynet\/"
+                }
+            ],
+            "id": 18135236,
+            "url": "https:\/\/cryptopanic.com\/news\/18135236\/We-will-soon-launch-a-groundbreaking-collaboration-in-the-AI-field-Stay-tuned-FET-AGIX-GRT-ArtificialIntelligence",
+            "created_at": "2023-04-17T10:11:09Z"
+        },
+        {
+            "kind": "news",
+            "domain": "@CornucopiasGame",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 1,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "Cornucopias Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@cornucopiasgame"
+            },
+            "title": "RT @CardanoFeed: #Cardano Daily Digest:  Metaverse Game on Cardano \/ AGIX and ADA rallies \/ Cardano radical move\n\n1\/ @CornucopiasGame is a\u2026",
+            "published_at": "2023-04-14T15:34:03Z",
+            "slug": "RT-CardanoFeed-Cardano-Daily-Digest-Metaverse-Game-on-Cardano-AGIX-and-ADA-rallies-Cardano-radical-move-1-CornucopiasGame-is-a",
+            "currencies": [
+                {
+                    "code": "COPI",
+                    "title": "Cornucopias",
+                    "slug": "cornucopias",
+                    "url": "https:\/\/cryptopanic.com\/news\/cornucopias\/"
+                },
+                {
+                    "code": "ADA",
+                    "title": "Cardano",
+                    "slug": "cardano",
+                    "url": "https:\/\/cryptopanic.com\/news\/cardano\/"
+                },
+                {
+                    "code": "AGIX",
+                    "title": "SingularityNET",
+                    "slug": "singularitynet",
+                    "url": "https:\/\/cryptopanic.com\/news\/singularitynet\/"
+                }
+            ],
+            "id": 18115021,
+            "url": "https:\/\/cryptopanic.com\/news\/18115021\/RT-CardanoFeed-Cardano-Daily-Digest-Metaverse-Game-on-Cardano-AGIX-and-ADA-rallies-Cardano-radical-move-1-CornucopiasGame-is-a",
+            "created_at": "2023-04-14T15:34:03Z"
+        },
+        {
+            "kind": "news",
+            "domain": "@TheCurrencyA",
+            "source": {
+                "title": "The Currency Analytics Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@thecurrencya"
+            },
+            "title": "\ud83e\udd16 @BitBoy_Crypto partners with SingularityNET to promote the future of decentralized AI and blockchain technology.\u2026",
+            "published_at": "2023-04-11T08:52:48Z",
+            "slug": "BitBoy_Crypto-partners-with-SingularityNET-to-promote-the-future-of-decentralized-AI-and-blockchain-technology",
+            "currencies": [
+                {
+                    "code": "TCAT",
+                    "title": "The Currency Analytics",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "AGIX",
+                    "title": "SingularityNET",
+                    "slug": "singularitynet",
+                    "url": "https:\/\/cryptopanic.com\/news\/singularitynet\/"
+                }
+            ],
+            "id": 18084482,
+            "url": "https:\/\/cryptopanic.com\/news\/18084482\/BitBoy_Crypto-partners-with-SingularityNET-to-promote-the-future-of-decentralized-AI-and-blockchain-technology",
+            "created_at": "2023-04-11T08:52:48Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptonews.com",
+            "source": {
+                "title": "Cryptonews",
+                "region": "en",
+                "domain": "cryptonews.com",
+                "path": null
+            },
+            "title": "Best Crypto to Buy Now 10 April \u2013 STX, BGB, AGIX",
+            "published_at": "2023-04-10T20:02:00Z",
+            "slug": "Best-Crypto-to-Buy-Now-10-April-STX-BGB-AGIX",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "DOGE",
+                    "title": "Dogecoin",
+                    "slug": "dogecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/dogecoin\/"
+                },
+                {
+                    "code": "AGIX",
+                    "title": "SingularityNET",
+                    "slug": "singularitynet",
+                    "url": "https:\/\/cryptopanic.com\/news\/singularitynet\/"
+                }
+            ],
+            "id": 18078628,
+            "url": "https:\/\/cryptopanic.com\/news\/18078628\/Best-Crypto-to-Buy-Now-10-April-STX-BGB-AGIX",
+            "created_at": "2023-04-10T20:02:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coingape.com",
+            "source": {
+                "title": "CoinGape",
+                "region": "en",
+                "domain": "coingape.com",
+                "path": null
+            },
+            "title": "AGIX Price Prediction: Bullish Pattern Plots a Quick 13% Recovery in SingularityNET Price; Enter Now?",
+            "published_at": "2023-04-10T16:54:53Z",
+            "slug": "AGIX-Price-Prediction-Bullish-Pattern-Plots-a-Quick-13-Recovery-in-SingularityNET-Price-Enter-Now",
+            "currencies": [
+                {
+                    "code": "AGIX",
+                    "title": "SingularityNET",
+                    "slug": "singularitynet",
+                    "url": "https:\/\/cryptopanic.com\/news\/singularitynet\/"
+                }
+            ],
+            "id": 18078312,
+            "url": "https:\/\/cryptopanic.com\/news\/18078312\/AGIX-Price-Prediction-Bullish-Pattern-Plots-a-Quick-13-Recovery-in-SingularityNET-Price-Enter-Now",
+            "created_at": "2023-04-10T16:54:53Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Rejuve_AI",
+            "source": {
+                "title": "Rejuve.AI Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@rejuve_ai"
+            },
+            "title": "UPDATE\n\nThe #RJV token is now supported on the SingularityNET Ethereum-Cardano token bridge! \nYou can bridge both\u2026",
+            "published_at": "2023-04-04T02:02:19Z",
+            "slug": "UPDATE-The-RJV-token-is-now-supported-on-the-SingularityNET-Ethereum-Cardano-token-bridge-You-can-bridge-both",
+            "currencies": [
+                {
+                    "code": "RJV",
+                    "title": "Rejuve.AI",
+                    "slug": "rejuve-ai",
+                    "url": "https:\/\/cryptopanic.com\/news\/rejuve-ai\/"
+                },
+                {
+                    "code": "AGIX",
+                    "title": "SingularityNET",
+                    "slug": "singularitynet",
+                    "url": "https:\/\/cryptopanic.com\/news\/singularitynet\/"
+                }
+            ],
+            "id": 18033591,
+            "url": "https:\/\/cryptopanic.com\/news\/18033591\/UPDATE-The-RJV-token-is-now-supported-on-the-SingularityNET-Ethereum-Cardano-token-bridge-You-can-bridge-both",
+            "created_at": "2023-04-04T02:02:19Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "dailyhodl.com",
+            "source": {
+                "title": "The Daily Hodl",
+                "region": "en",
+                "domain": "dailyhodl.com",
+                "path": null
+            },
+            "title": "Script Network, SingularityNET and Stacks Bring Practical Solutions to Real-World Issues",
+            "published_at": "2023-03-29T18:08:43Z",
+            "slug": "Script-Network-SingularityNET-and-Stacks-Bring-Practical-Solutions-to-Real-World-Issues",
+            "currencies": [
+                {
+                    "code": "STX",
+                    "title": "Stacks",
+                    "slug": "blockstack",
+                    "url": "https:\/\/cryptopanic.com\/news\/blockstack\/"
+                },
+                {
+                    "code": "OP",
+                    "title": "Optimism",
+                    "slug": "optimism",
+                    "url": "https:\/\/cryptopanic.com\/news\/optimism\/"
+                },
+                {
+                    "code": "AGIX",
+                    "title": "SingularityNET",
+                    "slug": "singularitynet",
+                    "url": "https:\/\/cryptopanic.com\/news\/singularitynet\/"
+                }
+            ],
+            "id": 17992103,
+            "url": "https:\/\/cryptopanic.com\/news\/17992103\/Script-Network-SingularityNET-and-Stacks-Bring-Practical-Solutions-to-Real-World-Issues",
+            "created_at": "2023-03-29T18:08:43Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@revolut20",
+            "source": {
+                "title": "Crypto Revolution Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@revolut20"
+            },
+            "title": "Bullish on $AGIX @SingularityNET \n\nIt's one of the best Long Term Holds out there! \n\n#Gem #AGIX #AI #Crypto",
+            "published_at": "2023-03-28T20:09:44Z",
+            "slug": "Bullish-on-AGIX-SingularityNET-Its-one-of-the-best-Long-Term-Holds-out-there-Gem-AGIX-AI-Crypto",
+            "currencies": [
+                {
+                    "code": "CRVT",
+                    "title": "Crypto Revolution",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "AGIX",
+                    "title": "SingularityNET",
+                    "slug": "singularitynet",
+                    "url": "https:\/\/cryptopanic.com\/news\/singularitynet\/"
+                }
+            ],
+            "id": 17985710,
+            "url": "https:\/\/cryptopanic.com\/news\/17985710\/Bullish-on-AGIX-SingularityNET-Its-one-of-the-best-Long-Term-Holds-out-there-Gem-AGIX-AI-Crypto",
+            "created_at": "2023-03-28T20:09:44Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@DexCheck_io",
+            "source": {
+                "title": "DexCheck Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@dexcheck_io"
+            },
+            "title": "We found a smart $AGIX @SingularityNET address in our \u201cTop Crypto Traders\u201d PRO feature that realized a cool 806% RO\u2026",
+            "published_at": "2023-03-27T09:48:12Z",
+            "slug": "We-found-a-smart-AGIX-SingularityNET-address-in-our-Top-Crypto-Traders-PRO-feature-that-realized-a-cool-806-RO",
+            "currencies": [
+                {
+                    "code": "DXCHECK",
+                    "title": "DexCheck",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "AGIX",
+                    "title": "SingularityNET",
+                    "slug": "singularitynet",
+                    "url": "https:\/\/cryptopanic.com\/news\/singularitynet\/"
+                }
+            ],
+            "id": 17977430,
+            "url": "https:\/\/cryptopanic.com\/news\/17977430\/We-found-a-smart-AGIX-SingularityNET-address-in-our-Top-Crypto-Traders-PRO-feature-that-realized-a-cool-806-RO",
+            "created_at": "2023-03-27T09:48:12Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "SingularityNET [AGIX] experiences this move with $50M token transaction",
+            "published_at": "2023-03-24T03:30:33Z",
+            "slug": "SingularityNET-AGIX-experiences-this-move-with-50M-token-transaction",
+            "currencies": [
+                {
+                    "code": "AGIX",
+                    "title": "SingularityNET",
+                    "slug": "singularitynet",
+                    "url": "https:\/\/cryptopanic.com\/news\/singularitynet\/"
+                }
+            ],
+            "id": 17949315,
+            "url": "https:\/\/cryptopanic.com\/news\/17949315\/SingularityNET-AGIX-experiences-this-move-with-50M-token-transaction",
+            "created_at": "2023-03-24T03:30:33Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "SingularityNET (AGIX) Has More in the Tank as Price Recovers From Early-March Sell-Off",
+            "published_at": "2023-03-23T22:00:00Z",
+            "slug": "SingularityNET-AGIX-Has-More-in-the-Tank-as-Price-Recovers-From-Early-March-Sell-Off",
+            "currencies": [
+                {
+                    "code": "AGIX",
+                    "title": "SingularityNET",
+                    "slug": "singularitynet",
+                    "url": "https:\/\/cryptopanic.com\/news\/singularitynet\/"
+                }
+            ],
+            "id": 17949030,
+            "url": "https:\/\/cryptopanic.com\/news\/17949030\/SingularityNET-AGIX-Has-More-in-the-Tank-as-Price-Recovers-From-Early-March-Sell-Off",
+            "created_at": "2023-03-23T22:00:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@nunet_global",
+            "source": {
+                "title": "NuNet Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@nunet_global"
+            },
+            "title": "Have you read #SingularityNET blog on 'The Path to AGI: SingularityNET Ecosystem Cooperation' yet ? \n\nLearn about\u2026",
+            "published_at": "2023-03-23T16:48:09Z",
+            "slug": "Have-you-read-SingularityNET-blog-on-The-Path-to-AGI-SingularityNET-Ecosystem-Cooperation-yet-Learn-about",
+            "currencies": [
+                {
+                    "code": "NTX",
+                    "title": "NuNet",
+                    "slug": "nunet",
+                    "url": "https:\/\/cryptopanic.com\/news\/nunet\/"
+                },
+                {
+                    "code": "AGIX",
+                    "title": "SingularityNET",
+                    "slug": "singularitynet",
+                    "url": "https:\/\/cryptopanic.com\/news\/singularitynet\/"
+                }
+            ],
+            "id": 17953571,
+            "url": "https:\/\/cryptopanic.com\/news\/17953571\/Have-you-read-SingularityNET-blog-on-The-Path-to-AGI-SingularityNET-Ecosystem-Cooperation-yet-Learn-about",
+            "created_at": "2023-03-23T16:48:09Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@WhaleStats",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "BabyWhale Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@whalestats"
+            },
+            "title": "JUST IN: $AGIX @singularity_net now on top 10 purchased tokens among 100 biggest #ETH whales in the last 24hrs \n\nW\u2026",
+            "published_at": "2023-03-19T06:00:30Z",
+            "slug": "JUST-IN-AGIX-singularity_net-now-on-top-10-purchased-tokens-among-100-biggest-ETH-whales-in-the-last-24hrs-W",
+            "currencies": [
+                {
+                    "code": "BBW",
+                    "title": "BabyWhale",
+                    "slug": "babywhale",
+                    "url": "https:\/\/cryptopanic.com\/news\/babywhale\/"
+                },
+                {
+                    "code": "AGIX",
+                    "title": "SingularityNET",
+                    "slug": "singularitynet",
+                    "url": "https:\/\/cryptopanic.com\/news\/singularitynet\/"
+                }
+            ],
+            "id": 17916982,
+            "url": "https:\/\/cryptopanic.com\/news\/17916982\/JUST-IN-AGIX-singularity_net-now-on-top-10-purchased-tokens-among-100-biggest-ETH-whales-in-the-last-24hrs-W",
+            "created_at": "2023-03-19T06:00:30Z"
+        },
+        {
+            "kind": "news",
+            "domain": "@WhaleStats",
+            "source": {
+                "title": "BabyWhale Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@whalestats"
+            },
+            "title": "JUST IN: $AGIX @singularity_net now on top 10 purchased tokens among 1000 biggest #ETH whales in the last 24hrs \u2026",
+            "published_at": "2023-03-17T15:53:03Z",
+            "slug": "JUST-IN-AGIX-singularity_net-now-on-top-10-purchased-tokens-among-1000-biggest-ETH-whales-in-the-last-24hrs",
+            "currencies": [
+                {
+                    "code": "BBW",
+                    "title": "BabyWhale",
+                    "slug": "babywhale",
+                    "url": "https:\/\/cryptopanic.com\/news\/babywhale\/"
+                },
+                {
+                    "code": "AGIX",
+                    "title": "SingularityNET",
+                    "slug": "singularitynet",
+                    "url": "https:\/\/cryptopanic.com\/news\/singularitynet\/"
+                }
+            ],
+            "id": 17905443,
+            "url": "https:\/\/cryptopanic.com\/news\/17905443\/JUST-IN-AGIX-singularity_net-now-on-top-10-purchased-tokens-among-1000-biggest-ETH-whales-in-the-last-24hrs",
+            "created_at": "2023-03-17T15:53:03Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@cryptodailyuk",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "CRDT Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@cryptodailyuk"
+            },
+            "title": "SingularityNET ($AGIX) Launches $RJV Utility Token, Surges 150%\n\nThe unethical use of artificial intelligence, espe\u2026",
+            "published_at": "2023-03-17T14:02:12Z",
+            "slug": "SingularityNET-AGIX-Launches-RJV-Utility-Token-Surges-150-The-unethical-use-of-artificial-intelligence-espe",
+            "currencies": [
+                {
+                    "code": "CRDT",
+                    "title": "CRDT",
+                    "slug": "crdt",
+                    "url": "https:\/\/cryptopanic.com\/news\/crdt\/"
+                },
+                {
+                    "code": "AGIX",
+                    "title": "SingularityNET",
+                    "slug": "singularitynet",
+                    "url": "https:\/\/cryptopanic.com\/news\/singularitynet\/"
+                }
+            ],
+            "id": 17905874,
+            "url": "https:\/\/cryptopanic.com\/news\/17905874\/SingularityNET-AGIX-Launches-RJV-Utility-Token-Surges-150-The-unethical-use-of-artificial-intelligence-espe",
+            "created_at": "2023-03-17T14:02:12Z"
+        },
+        {
+            "kind": "news",
+            "domain": "@DexeNetwork",
+            "source": {
+                "title": "DeXe Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@dexenetwork"
+            },
+            "title": "RT @CryptoDiffer: TOP-15 COINS BY TRENDING SEARCH ON @BINANCE!\n\n#BNB $BNB #BTC $BTC #ETH $ETH $MATIC $SOL $AGIX $SHIB #TRX $TRX $LQTY $CAKE\u2026",
+            "published_at": "2023-03-17T12:43:55Z",
+            "slug": "RT-CryptoDiffer-TOP-15-COINS-BY-TRENDING-SEARCH-ON-BINANCE-BNB-BNB-BTC-BTC-ETH-ETH-MATIC-SOL-AGIX-SHIB-TRX-TRX-LQTY-CAKE",
+            "currencies": [
+                {
+                    "code": "DEXE",
+                    "title": "DeXe",
+                    "slug": "dexe",
+                    "url": "https:\/\/cryptopanic.com\/news\/dexe\/"
+                },
+                {
+                    "code": "MATIC",
+                    "title": "Polygon",
+                    "slug": "matic-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-network\/"
+                },
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "SHIB",
+                    "title": "Shiba Inu",
+                    "slug": "shiba-inu",
+                    "url": "https:\/\/cryptopanic.com\/news\/shiba-inu\/"
+                },
+                {
+                    "code": "TRX",
+                    "title": "TRON",
+                    "slug": "tron",
+                    "url": "https:\/\/cryptopanic.com\/news\/tron\/"
+                },
+                {
+                    "code": "AGIX",
+                    "title": "SingularityNET",
+                    "slug": "singularitynet",
+                    "url": "https:\/\/cryptopanic.com\/news\/singularitynet\/"
+                }
+            ],
+            "id": 17912956,
+            "url": "https:\/\/cryptopanic.com\/news\/17912956\/RT-CryptoDiffer-TOP-15-COINS-BY-TRENDING-SEARCH-ON-BINANCE-BNB-BNB-BTC-BTC-ETH-ETH-MATIC-SOL-AGIX-SHIB-TRX-TRX-LQTY-CAKE",
+            "created_at": "2023-03-17T12:43:55Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@halocoins",
+            "source": {
+                "title": "Halo Coin Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@halocoins"
+            },
+            "title": "RT @HODLstarter: Top 10 #Crypto Performers in past 3 Days within Top 200 Marketcap Coins:\n\n1. $HALO 91.94%\n2. $GNS 30.34%\n3. $AGIX 25.65%\n4\u2026",
+            "published_at": "2023-03-17T02:52:09Z",
+            "slug": "RT-HODLstarter-Top-10-Crypto-Performers-in-past-3-Days-within-Top-200-Marketcap-Coins-1-HALO-9194-2-GNS-3034-3-AGIX-2565-4",
+            "currencies": [
+                {
+                    "code": "HALO",
+                    "title": "Halo Coin",
+                    "slug": "halo-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/halo-coin\/"
+                },
+                {
+                    "code": "AGIX",
+                    "title": "SingularityNET",
+                    "slug": "singularitynet",
+                    "url": "https:\/\/cryptopanic.com\/news\/singularitynet\/"
+                }
+            ],
+            "id": 17899132,
+            "url": "https:\/\/cryptopanic.com\/news\/17899132\/RT-HODLstarter-Top-10-Crypto-Performers-in-past-3-Days-within-Top-200-Marketcap-Coins-1-HALO-9194-2-GNS-3034-3-AGIX-2565-4",
+            "created_at": "2023-03-17T02:52:09Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@HuobiGlobal",
+            "source": {
+                "title": "Huobi Token Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@huobiglobal"
+            },
+            "title": "#Huobi Welcomes New Users!\n\nRegister with Huobi here: \n\nGet up to $88 $AGIX after \ncomplet\u2026",
+            "published_at": "2023-03-17T02:32:10Z",
+            "slug": "Huobi-Welcomes-New-Users-Register-with-Huobi-here-Get-up-to-88-AGIX-after-complet",
+            "currencies": [
+                {
+                    "code": "HT",
+                    "title": "Huobi",
+                    "slug": "huobi-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/huobi-token\/"
+                },
+                {
+                    "code": "HPT",
+                    "title": "Huobi Pool",
+                    "slug": "huobi-pool-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/huobi-pool-token\/"
+                },
+                {
+                    "code": "HBTC",
+                    "title": "Huobi BTC",
+                    "slug": "huobi-btc",
+                    "url": "https:\/\/cryptopanic.com\/news\/huobi-btc\/"
+                },
+                {
+                    "code": "AGIX",
+                    "title": "SingularityNET",
+                    "slug": "singularitynet",
+                    "url": "https:\/\/cryptopanic.com\/news\/singularitynet\/"
+                }
+            ],
+            "id": 17899325,
+            "url": "https:\/\/cryptopanic.com\/news\/17899325\/Huobi-Welcomes-New-Users-Register-with-Huobi-here-Get-up-to-88-AGIX-after-complet",
+            "created_at": "2023-03-17T02:32:10Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coindesk.com",
+            "source": {
+                "title": "CoinDesk",
+                "region": "en",
+                "domain": "coindesk.com",
+                "path": null
+            },
+            "title": "The Graph's GRT Rallies 15% Amid AI Token Surge",
+            "published_at": "2023-03-16T20:04:07Z",
+            "slug": "The-Graphs-GRT-Rallies-15-Amid-AI-Token-Surge",
+            "currencies": [
+                {
+                    "code": "GRT",
+                    "title": "The Graph",
+                    "slug": "the-graph",
+                    "url": "https:\/\/cryptopanic.com\/news\/the-graph\/"
+                },
+                {
+                    "code": "AGIX",
+                    "title": "SingularityNET",
+                    "slug": "singularitynet",
+                    "url": "https:\/\/cryptopanic.com\/news\/singularitynet\/"
+                }
+            ],
+            "id": 17895836,
+            "url": "https:\/\/cryptopanic.com\/news\/17895836\/The-Graphs-GRT-Rallies-15-Amid-AI-Token-Surge",
+            "created_at": "2023-03-16T20:04:07Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

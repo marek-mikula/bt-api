@@ -1,0 +1,647 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=FDUSD&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "coinedition.com",
+            "source": {
+                "title": "coinedition",
+                "region": "en",
+                "domain": "coinedition.com",
+                "path": null
+            },
+            "title": "Binance Launches Stablecoin Pairing With FDUSD Featuring SOL, XRP",
+            "published_at": "2023-09-06T21:25:00Z",
+            "slug": "Binance-Launches-Stablecoin-Pairing-With-FDUSD-Featuring-SOL-XRP",
+            "currencies": [
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                },
+                {
+                    "code": "DOGE",
+                    "title": "Dogecoin",
+                    "slug": "dogecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/dogecoin\/"
+                },
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "FDUSD",
+                    "title": "First Digital USD",
+                    "slug": "first-digital-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/first-digital-usd\/"
+                }
+            ],
+            "id": 18885000,
+            "url": "https:\/\/cryptopanic.com\/news\/18885000\/Binance-Launches-Stablecoin-Pairing-With-FDUSD-Featuring-SOL-XRP",
+            "created_at": "2023-09-06T21:25:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "PERP Spikes 90%, Perpetual Protocol Foundation Sends Tokens To Binance: Is This Good",
+            "published_at": "2023-09-06T17:31:30Z",
+            "slug": "PERP-Spikes-90-Perpetual-Protocol-Foundation-Sends-Tokens-To-Binance-Is-This-Good",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "UNI",
+                    "title": "Uniswap",
+                    "slug": "uniswap",
+                    "url": "https:\/\/cryptopanic.com\/news\/uniswap\/"
+                },
+                {
+                    "code": "XLM",
+                    "title": "Stellar",
+                    "slug": "stellar",
+                    "url": "https:\/\/cryptopanic.com\/news\/stellar\/"
+                },
+                {
+                    "code": "FDUSD",
+                    "title": "First Digital USD",
+                    "slug": "first-digital-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/first-digital-usd\/"
+                }
+            ],
+            "id": 18884522,
+            "url": "https:\/\/cryptopanic.com\/news\/18884522\/PERP-Spikes-90-Perpetual-Protocol-Foundation-Sends-Tokens-To-Binance-Is-This-Good",
+            "created_at": "2023-09-06T17:31:30Z"
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "FDUSD Market Cap Jumps By 20% Following Binance Directive",
+            "published_at": "2023-09-06T14:30:20Z",
+            "slug": "FDUSD-Market-Cap-Jumps-By-20-Following-Binance-Directive",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "BNB",
+                    "title": "BNB",
+                    "slug": "binancecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/binancecoin\/"
+                },
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                },
+                {
+                    "code": "DOGE",
+                    "title": "Dogecoin",
+                    "slug": "dogecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/dogecoin\/"
+                },
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "BUSD",
+                    "title": "Binance USD",
+                    "slug": "binance-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/binance-usd\/"
+                },
+                {
+                    "code": "FDUSD",
+                    "title": "First Digital USD",
+                    "slug": "first-digital-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/first-digital-usd\/"
+                }
+            ],
+            "id": 18884028,
+            "url": "https:\/\/cryptopanic.com\/news\/18884028\/FDUSD-Market-Cap-Jumps-By-20-Following-Binance-Directive",
+            "created_at": "2023-09-06T14:30:20Z"
+        },
+        {
+            "kind": "news",
+            "domain": "theblock.co",
+            "source": {
+                "title": "The Block",
+                "region": "en",
+                "domain": "theblock.co",
+                "path": null
+            },
+            "title": "FDUSD stablecoin market cap grew 51% to $394 million over last 30 days",
+            "published_at": "2023-09-06T10:51:12Z",
+            "slug": "FDUSD-stablecoin-market-cap-grew-51-to-394-million-over-last-30-days",
+            "currencies": [
+                {
+                    "code": "FDUSD",
+                    "title": "First Digital USD",
+                    "slug": "first-digital-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/first-digital-usd\/"
+                }
+            ],
+            "id": 18883394,
+            "url": "https:\/\/cryptopanic.com\/news\/18883394\/FDUSD-stablecoin-market-cap-grew-51-to-394-million-over-last-30-days",
+            "created_at": "2023-09-06T10:51:12Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "u.today",
+            "source": {
+                "title": "U.Today",
+                "region": "en",
+                "domain": "u.today",
+                "path": null
+            },
+            "title": "Binance Adds XRP and Dogecoin to FDUSD Trading Lineup",
+            "published_at": "2023-09-06T05:39:19Z",
+            "slug": "Binance-Adds-XRP-and-Dogecoin-to-FDUSD-Trading-Lineup",
+            "currencies": [
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                },
+                {
+                    "code": "DOGE",
+                    "title": "Dogecoin",
+                    "slug": "dogecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/dogecoin\/"
+                },
+                {
+                    "code": "FDUSD",
+                    "title": "First Digital USD",
+                    "slug": "first-digital-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/first-digital-usd\/"
+                }
+            ],
+            "id": 18882403,
+            "url": "https:\/\/cryptopanic.com\/news\/18882403\/Binance-Adds-XRP-and-Dogecoin-to-FDUSD-Trading-Lineup",
+            "created_at": "2023-09-06T05:39:19Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coingape.com",
+            "source": {
+                "title": "CoinGape",
+                "region": "en",
+                "domain": "coingape.com",
+                "path": null
+            },
+            "title": "Breaking: Binance Adding XRP, Dogecoin Support For New USD Stablecoin",
+            "published_at": "2023-09-06T04:27:17Z",
+            "slug": "Breaking-Binance-Adding-XRP-Dogecoin-Support-For-New-USD-Stablecoin",
+            "currencies": [
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                },
+                {
+                    "code": "DOGE",
+                    "title": "Dogecoin",
+                    "slug": "dogecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/dogecoin\/"
+                },
+                {
+                    "code": "FDUSD",
+                    "title": "First Digital USD",
+                    "slug": "first-digital-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/first-digital-usd\/"
+                }
+            ],
+            "id": 18882277,
+            "url": "https:\/\/cryptopanic.com\/news\/18882277\/Breaking-Binance-Adding-XRP-Dogecoin-Support-For-New-USD-Stablecoin",
+            "created_at": "2023-09-06T04:27:17Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "bitcoin.com",
+            "source": {
+                "title": "Bitcoin.com",
+                "region": "en",
+                "domain": "bitcoin.com",
+                "path": null
+            },
+            "title": "BUSD Falls to Fifth Among Stablecoin Leaders; TUSD and FDUSD Supplies Surge in a 3-Day Span",
+            "published_at": "2023-09-03T20:30:59Z",
+            "slug": "BUSD-Falls-to-Fifth-Among-Stablecoin-Leaders-TUSD-and-FDUSD-Supplies-Surge-in-a-3-Day-Span",
+            "currencies": [
+                {
+                    "code": "TUSD",
+                    "title": "TrueUSD",
+                    "slug": "true-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/true-usd\/"
+                },
+                {
+                    "code": "BUSD",
+                    "title": "Binance USD",
+                    "slug": "binance-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/binance-usd\/"
+                },
+                {
+                    "code": "FDUSD",
+                    "title": "First Digital USD",
+                    "slug": "first-digital-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/first-digital-usd\/"
+                }
+            ],
+            "id": 18877202,
+            "url": "https:\/\/cryptopanic.com\/news\/18877202\/BUSD-Falls-to-Fifth-Among-Stablecoin-Leaders-TUSD-and-FDUSD-Supplies-Surge-in-a-3-Day-Span",
+            "created_at": "2023-09-03T20:30:59Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "How does FDUSD measure against BUSD? A market analysis",
+            "published_at": "2023-09-02T01:30:33Z",
+            "slug": "How-does-FDUSD-measure-against-BUSD-A-market-analysis",
+            "currencies": [
+                {
+                    "code": "USDT",
+                    "title": "Tether",
+                    "slug": "tether",
+                    "url": "https:\/\/cryptopanic.com\/news\/tether\/"
+                },
+                {
+                    "code": "BUSD",
+                    "title": "Binance USD",
+                    "slug": "binance-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/binance-usd\/"
+                },
+                {
+                    "code": "FDUSD",
+                    "title": "First Digital USD",
+                    "slug": "first-digital-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/first-digital-usd\/"
+                }
+            ],
+            "id": 18875290,
+            "url": "https:\/\/cryptopanic.com\/news\/18875290\/How-does-FDUSD-measure-against-BUSD-A-market-analysis",
+            "created_at": "2023-09-02T01:30:33Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptointelligence.co.uk",
+            "source": {
+                "title": "cryptointelligence",
+                "region": "en",
+                "domain": "cryptointelligence.co.uk",
+                "path": null
+            },
+            "title": "Binance Initiates Transition Away from BUSD Support, Encourages Users to Embrace FDUSD",
+            "published_at": "2023-09-01T14:57:00Z",
+            "slug": "Binance-Initiates-Transition-Away-from-BUSD-Support-Encourages-Users-to-Embrace-FDUSD",
+            "currencies": [
+                {
+                    "code": "BUSD",
+                    "title": "Binance USD",
+                    "slug": "binance-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/binance-usd\/"
+                },
+                {
+                    "code": "FDUSD",
+                    "title": "First Digital USD",
+                    "slug": "first-digital-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/first-digital-usd\/"
+                }
+            ],
+            "id": 18874383,
+            "url": "https:\/\/cryptopanic.com\/news\/18874383\/Binance-Initiates-Transition-Away-from-BUSD-Support-Encourages-Users-to-Embrace-FDUSD",
+            "created_at": "2023-09-01T14:57:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "blockworks.co",
+            "source": {
+                "title": "Blockworks",
+                "region": "en",
+                "domain": "blockworks.co",
+                "path": null
+            },
+            "title": "Binance preps switch to little-used stablecoin, FDUSD",
+            "published_at": "2023-08-31T18:53:59Z",
+            "slug": "Binance-preps-switch-to-little-used-stablecoin-FDUSD",
+            "currencies": [
+                {
+                    "code": "FDUSD",
+                    "title": "First Digital USD",
+                    "slug": "first-digital-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/first-digital-usd\/"
+                }
+            ],
+            "id": 18872447,
+            "url": "https:\/\/cryptopanic.com\/news\/18872447\/Binance-preps-switch-to-little-used-stablecoin-FDUSD",
+            "created_at": "2023-08-31T18:53:59Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "votes": {
+                "negative": 1,
+                "positive": 0,
+                "important": 1,
+                "liked": 0,
+                "disliked": 1,
+                "lol": 1,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "Binance Confirms Demise of BUSD and Encourages Users to Convert to FDUSD",
+            "published_at": "2023-08-31T15:15:00Z",
+            "slug": "Binance-Confirms-Demise-of-BUSD-and-Encourages-Users-to-Convert-to-FDUSD",
+            "currencies": [
+                {
+                    "code": "BUSD",
+                    "title": "Binance USD",
+                    "slug": "binance-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/binance-usd\/"
+                },
+                {
+                    "code": "FDUSD",
+                    "title": "First Digital USD",
+                    "slug": "first-digital-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/first-digital-usd\/"
+                }
+            ],
+            "id": 18872020,
+            "url": "https:\/\/cryptopanic.com\/news\/18872020\/Binance-Confirms-Demise-of-BUSD-and-Encourages-Users-to-Convert-to-FDUSD",
+            "created_at": "2023-08-31T15:15:00Z"
+        },
+        {
+            "kind": "news",
+            "domain": "theblock.co",
+            "source": {
+                "title": "The Block",
+                "region": "en",
+                "domain": "theblock.co",
+                "path": null
+            },
+            "title": "Binance to end support for BUSD, encourages conversion to FDUSD",
+            "published_at": "2023-08-31T13:32:44Z",
+            "slug": "Binance-to-end-support-for-BUSD-encourages-conversion-to-FDUSD",
+            "currencies": [
+                {
+                    "code": "BUSD",
+                    "title": "Binance USD",
+                    "slug": "binance-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/binance-usd\/"
+                },
+                {
+                    "code": "FDUSD",
+                    "title": "First Digital USD",
+                    "slug": "first-digital-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/first-digital-usd\/"
+                }
+            ],
+            "id": 18871689,
+            "url": "https:\/\/cryptopanic.com\/news\/18871689\/Binance-to-end-support-for-BUSD-encourages-conversion-to-FDUSD",
+            "created_at": "2023-08-31T13:32:44Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptoslate.com",
+            "source": {
+                "title": "CryptoSlate",
+                "region": "en",
+                "domain": "cryptoslate.com",
+                "path": null
+            },
+            "title": "Binance nudges users towards FDUSD as it \u2018gradually\u2019 phases BUSD out",
+            "published_at": "2023-08-31T11:08:13Z",
+            "slug": "Binance-nudges-users-towards-FDUSD-as-it-gradually-phases-BUSD-out",
+            "currencies": [
+                {
+                    "code": "BUSD",
+                    "title": "Binance USD",
+                    "slug": "binance-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/binance-usd\/"
+                },
+                {
+                    "code": "FDUSD",
+                    "title": "First Digital USD",
+                    "slug": "first-digital-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/first-digital-usd\/"
+                }
+            ],
+            "id": 18871217,
+            "url": "https:\/\/cryptopanic.com\/news\/18871217\/Binance-nudges-users-towards-FDUSD-as-it-gradually-phases-BUSD-out",
+            "created_at": "2023-08-31T11:08:13Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinjournal.net",
+            "source": {
+                "title": "CoinJournal",
+                "region": "en",
+                "domain": "coinjournal.net",
+                "path": null
+            },
+            "title": "First Digital USD (FDUSD) reaps big as Binance cease BUSD support",
+            "published_at": "2023-08-31T09:52:20Z",
+            "slug": "First-Digital-USD-FDUSD-reaps-big-as-Binance-cease-BUSD-support",
+            "currencies": [
+                {
+                    "code": "BUSD",
+                    "title": "Binance USD",
+                    "slug": "binance-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/binance-usd\/"
+                },
+                {
+                    "code": "FDUSD",
+                    "title": "First Digital USD",
+                    "slug": "first-digital-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/first-digital-usd\/"
+                }
+            ],
+            "id": 18871001,
+            "url": "https:\/\/cryptopanic.com\/news\/18871001\/First-Digital-USD-FDUSD-reaps-big-as-Binance-cease-BUSD-support",
+            "created_at": "2023-08-31T09:52:20Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

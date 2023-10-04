@@ -1,0 +1,707 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=ATA&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "@AutomataNetwork",
+            "source": {
+                "title": "Automata Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@automatanetwork"
+            },
+            "title": "Very excited to share that we're a partner for @LineaBuild Mainnet Alpha \u27e1\n\n1RPC's support since day one of mainnet\u2026",
+            "published_at": "2023-07-11T13:55:33Z",
+            "slug": "Very-excited-to-share-that-were-a-partner-for-LineaBuild-Mainnet-Alpha-1RPCs-support-since-day-one-of-mainnet",
+            "currencies": [
+                {
+                    "code": "ATA",
+                    "title": "Automata",
+                    "slug": "automata",
+                    "url": "https:\/\/cryptopanic.com\/news\/automata\/"
+                }
+            ],
+            "id": 18762674,
+            "url": "https:\/\/cryptopanic.com\/news\/18762674\/Very-excited-to-share-that-were-a-partner-for-LineaBuild-Mainnet-Alpha-1RPCs-support-since-day-one-of-mainnet",
+            "created_at": "2023-07-11T13:55:33Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@AutomataNetwork",
+            "source": {
+                "title": "Automata Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@automatanetwork"
+            },
+            "title": "RT @SecretNetwork: 1RPC, a privacy-preserving endpoint relay by @AutomataNetwork, now supports Secret, allowing users to prevent potential\u2026",
+            "published_at": "2023-07-03T12:26:03Z",
+            "slug": "RT-SecretNetwork-1RPC-a-privacy-preserving-endpoint-relay-by-AutomataNetwork-now-supports-Secret-allowing-users-to-prevent-potential",
+            "currencies": [
+                {
+                    "code": "ATA",
+                    "title": "Automata",
+                    "slug": "automata",
+                    "url": "https:\/\/cryptopanic.com\/news\/automata\/"
+                }
+            ],
+            "id": 18707415,
+            "url": "https:\/\/cryptopanic.com\/news\/18707415\/RT-SecretNetwork-1RPC-a-privacy-preserving-endpoint-relay-by-AutomataNetwork-now-supports-Secret-allowing-users-to-prevent-potential",
+            "created_at": "2023-07-03T12:26:03Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@AutomataNetwork",
+            "source": {
+                "title": "Automata Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@automatanetwork"
+            },
+            "title": "RT @SecretNetwork: NEW: 1RPC Feature\n\n1RPC, a privacy-preserving endpoint relay by @AutomataNetwork, now supports Secret, allowing users to\u2026",
+            "published_at": "2023-06-29T17:08:14Z",
+            "slug": "RT-SecretNetwork-NEW-1RPC-Feature-1RPC-a-privacy-preserving-endpoint-relay-by-AutomataNetwork-now-supports-Secret-allowing-users-to",
+            "currencies": [
+                {
+                    "code": "ATA",
+                    "title": "Automata",
+                    "slug": "automata",
+                    "url": "https:\/\/cryptopanic.com\/news\/automata\/"
+                }
+            ],
+            "id": 18683893,
+            "url": "https:\/\/cryptopanic.com\/news\/18683893\/RT-SecretNetwork-NEW-1RPC-Feature-1RPC-a-privacy-preserving-endpoint-relay-by-AutomataNetwork-now-supports-Secret-allowing-users-to",
+            "created_at": "2023-06-29T17:08:14Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@AutomataNetwork",
+            "source": {
+                "title": "Automata Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@automatanetwork"
+            },
+            "title": "shhhh...here's a secret \ufe0e\n\nTake a trip with us and dive into Web3 and privacy with @SecretNetwork @Secret_Saturn_\u2026",
+            "published_at": "2023-06-29T14:00:01Z",
+            "slug": "shhhhheres-a-secret-Take-a-trip-with-us-and-dive-into-Web3-and-privacy-with-SecretNetwork-Secret_Saturn_",
+            "currencies": [
+                {
+                    "code": "ATA",
+                    "title": "Automata",
+                    "slug": "automata",
+                    "url": "https:\/\/cryptopanic.com\/news\/automata\/"
+                }
+            ],
+            "id": 18683894,
+            "url": "https:\/\/cryptopanic.com\/news\/18683894\/shhhhheres-a-secret-Take-a-trip-with-us-and-dive-into-Web3-and-privacy-with-SecretNetwork-Secret_Saturn_",
+            "created_at": "2023-06-29T14:00:01Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@AutomataNetwork",
+            "source": {
+                "title": "Automata Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@automatanetwork"
+            },
+            "title": "RT @SecretNetwork: Join us tomorrow for a live Twitter Spaces!\n\n@AutomataNetwork will welcome us for a discussion about Secret's integratio\u2026",
+            "published_at": "2023-06-28T18:06:31Z",
+            "slug": "RT-SecretNetwork-Join-us-tomorrow-for-a-live-Twitter-Spaces-AutomataNetwork-will-welcome-us-for-a-discussion-about-Secrets-integratio",
+            "currencies": [
+                {
+                    "code": "ATA",
+                    "title": "Automata",
+                    "slug": "automata",
+                    "url": "https:\/\/cryptopanic.com\/news\/automata\/"
+                }
+            ],
+            "id": 18675852,
+            "url": "https:\/\/cryptopanic.com\/news\/18675852\/RT-SecretNetwork-Join-us-tomorrow-for-a-live-Twitter-Spaces-AutomataNetwork-will-welcome-us-for-a-discussion-about-Secrets-integratio",
+            "created_at": "2023-06-28T18:06:31Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@AutomataNetwork",
+            "source": {
+                "title": "Automata Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@automatanetwork"
+            },
+            "title": "Bring along a friend and take down notes for a fresh conversation around Web3 privacy - just two days from now with\u2026",
+            "published_at": "2023-06-27T15:11:15Z",
+            "slug": "Bring-along-a-friend-and-take-down-notes-for-a-fresh-conversation-around-Web3-privacy-just-two-days-from-now-with",
+            "currencies": [
+                {
+                    "code": "ATA",
+                    "title": "Automata",
+                    "slug": "automata",
+                    "url": "https:\/\/cryptopanic.com\/news\/automata\/"
+                }
+            ],
+            "id": 18667625,
+            "url": "https:\/\/cryptopanic.com\/news\/18667625\/Bring-along-a-friend-and-take-down-notes-for-a-fresh-conversation-around-Web3-privacy-just-two-days-from-now-with",
+            "created_at": "2023-06-27T15:11:15Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@AutomataNetwork",
+            "source": {
+                "title": "Automata Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@automatanetwork"
+            },
+            "title": "RT @0xcarrier: Native USDC cross-chain transfers on the bridge for Web3 natives \n\nCarrier\u2019s integration with @circle #CCTP allows users to\u2026",
+            "published_at": "2023-06-27T14:27:00Z",
+            "slug": "RT-0xcarrier-Native-USDC-cross-chain-transfers-on-the-bridge-for-Web3-natives-Carriers-integration-with-circle-CCTP-allows-users-to",
+            "currencies": [
+                {
+                    "code": "ATA",
+                    "title": "Automata",
+                    "slug": "automata",
+                    "url": "https:\/\/cryptopanic.com\/news\/automata\/"
+                }
+            ],
+            "id": 18667626,
+            "url": "https:\/\/cryptopanic.com\/news\/18667626\/RT-0xcarrier-Native-USDC-cross-chain-transfers-on-the-bridge-for-Web3-natives-Carriers-integration-with-circle-CCTP-allows-users-to",
+            "created_at": "2023-06-27T14:27:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@AutomataNetwork",
+            "source": {
+                "title": "Automata Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@automatanetwork"
+            },
+            "title": "Who better to discuss all things Web3 and privacy than with the teams repping it @SecretNetwork @Secret_Saturn_ \u27e1\u2026",
+            "published_at": "2023-06-26T10:08:57Z",
+            "slug": "Who-better-to-discuss-all-things-Web3-and-privacy-than-with-the-teams-repping-it-SecretNetwork-Secret_Saturn_",
+            "currencies": [
+                {
+                    "code": "ATA",
+                    "title": "Automata",
+                    "slug": "automata",
+                    "url": "https:\/\/cryptopanic.com\/news\/automata\/"
+                }
+            ],
+            "id": 18659351,
+            "url": "https:\/\/cryptopanic.com\/news\/18659351\/Who-better-to-discuss-all-things-Web3-and-privacy-than-with-the-teams-repping-it-SecretNetwork-Secret_Saturn_",
+            "created_at": "2023-06-26T10:08:57Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@AutomataNetwork",
+            "source": {
+                "title": "Automata Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@automatanetwork"
+            },
+            "title": "The latest for 1RPC is that you can now use the @Bitcoin network with it\n\nShoutout to @OneKeyHQ for already support\u2026",
+            "published_at": "2023-06-20T08:21:06Z",
+            "slug": "The-latest-for-1RPC-is-that-you-can-now-use-the-Bitcoin-network-with-it-Shoutout-to-OneKeyHQ-for-already-support",
+            "currencies": [
+                {
+                    "code": "ATA",
+                    "title": "Automata",
+                    "slug": "automata",
+                    "url": "https:\/\/cryptopanic.com\/news\/automata\/"
+                }
+            ],
+            "id": 18618525,
+            "url": "https:\/\/cryptopanic.com\/news\/18618525\/The-latest-for-1RPC-is-that-you-can-now-use-the-Bitcoin-network-with-it-Shoutout-to-OneKeyHQ-for-already-support",
+            "created_at": "2023-06-20T08:21:06Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@AutomataNetwork",
+            "source": {
+                "title": "Automata Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@automatanetwork"
+            },
+            "title": "1RPC is coming to @SecretNetwork \u27e1\n\nThe Web3 relay's technical design prevents metadata exposure for users, allowin\u2026",
+            "published_at": "2023-06-15T06:02:40Z",
+            "slug": "1RPC-is-coming-to-SecretNetwork-The-Web3-relays-technical-design-prevents-metadata-exposure-for-users-allowin",
+            "currencies": [
+                {
+                    "code": "ATA",
+                    "title": "Automata",
+                    "slug": "automata",
+                    "url": "https:\/\/cryptopanic.com\/news\/automata\/"
+                }
+            ],
+            "id": 18585313,
+            "url": "https:\/\/cryptopanic.com\/news\/18585313\/1RPC-is-coming-to-SecretNetwork-The-Web3-relays-technical-design-prevents-metadata-exposure-for-users-allowin",
+            "created_at": "2023-06-15T06:02:40Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@AutomataNetwork",
+            "source": {
+                "title": "Automata Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@automatanetwork"
+            },
+            "title": "A seminal moment - Congratulations to all winners! \n\nwe had a great time connecting with projects as they pushed th\u2026",
+            "published_at": "2023-06-06T07:14:14Z",
+            "slug": "A-seminal-moment-Congratulations-to-all-winners-we-had-a-great-time-connecting-with-projects-as-they-pushed-th",
+            "currencies": [
+                {
+                    "code": "ATA",
+                    "title": "Automata",
+                    "slug": "automata",
+                    "url": "https:\/\/cryptopanic.com\/news\/automata\/"
+                }
+            ],
+            "id": 18518091,
+            "url": "https:\/\/cryptopanic.com\/news\/18518091\/A-seminal-moment-Congratulations-to-all-winners-we-had-a-great-time-connecting-with-projects-as-they-pushed-th",
+            "created_at": "2023-06-06T07:14:14Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@AutomataNetwork",
+            "source": {
+                "title": "Automata Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@automatanetwork"
+            },
+            "title": "5 billion relays! \n\n",
+            "published_at": "2023-05-29T08:00:29Z",
+            "slug": "5-billion-relays",
+            "currencies": [
+                {
+                    "code": "ATA",
+                    "title": "Automata",
+                    "slug": "automata",
+                    "url": "https:\/\/cryptopanic.com\/news\/automata\/"
+                }
+            ],
+            "id": 18457142,
+            "url": "https:\/\/cryptopanic.com\/news\/18457142\/5-billion-relays",
+            "created_at": "2023-05-29T08:00:29Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@AutomataNetwork",
+            "source": {
+                "title": "Automata Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@automatanetwork"
+            },
+            "title": "Twitter Spaces with @harmonyprotocol happening at 2PM UTC today. Tune in to the convo and drop by @link3to to clai\u2026",
+            "published_at": "2023-05-25T07:44:49Z",
+            "slug": "Twitter-Spaces-with-harmonyprotocol-happening-at-2PM-UTC-today-Tune-in-to-the-convo-and-drop-by-link3to-to-clai",
+            "currencies": [
+                {
+                    "code": "ATA",
+                    "title": "Automata",
+                    "slug": "automata",
+                    "url": "https:\/\/cryptopanic.com\/news\/automata\/"
+                }
+            ],
+            "id": 18431121,
+            "url": "https:\/\/cryptopanic.com\/news\/18431121\/Twitter-Spaces-with-harmonyprotocol-happening-at-2PM-UTC-today-Tune-in-to-the-convo-and-drop-by-link3to-to-clai",
+            "created_at": "2023-05-25T07:44:49Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@AutomataNetwork",
+            "source": {
+                "title": "Automata Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@automatanetwork"
+            },
+            "title": "The \"What if you used 1RPC at the dawn of Web3\" session - we're back at it with a fresh new Twitter Spaces with\u2026",
+            "published_at": "2023-05-24T06:50:20Z",
+            "slug": "The-What-if-you-used-1RPC-at-the-dawn-of-Web3-session-were-back-at-it-with-a-fresh-new-Twitter-Spaces-with",
+            "currencies": [
+                {
+                    "code": "ATA",
+                    "title": "Automata",
+                    "slug": "automata",
+                    "url": "https:\/\/cryptopanic.com\/news\/automata\/"
+                }
+            ],
+            "id": 18422037,
+            "url": "https:\/\/cryptopanic.com\/news\/18422037\/The-What-if-you-used-1RPC-at-the-dawn-of-Web3-session-were-back-at-it-with-a-fresh-new-Twitter-Spaces-with",
+            "created_at": "2023-05-24T06:50:20Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@AutomataNetwork",
+            "source": {
+                "title": "Automata Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@automatanetwork"
+            },
+            "title": "RT @0xcarrier: It's the countdown \ufe0e\n\nExactly 10 minutes before the public mint for Coo Genesis on @alt_layer goes live.",
+            "published_at": "2023-05-24T05:56:15Z",
+            "slug": "RT-0xcarrier-Its-the-countdown-Exactly-10-minutes-before-the-public-mint-for-Coo-Genesis-on-alt_layer-goes-live",
+            "currencies": [
+                {
+                    "code": "ATA",
+                    "title": "Automata",
+                    "slug": "automata",
+                    "url": "https:\/\/cryptopanic.com\/news\/automata\/"
+                }
+            ],
+            "id": 18422038,
+            "url": "https:\/\/cryptopanic.com\/news\/18422038\/RT-0xcarrier-Its-the-countdown-Exactly-10-minutes-before-the-public-mint-for-Coo-Genesis-on-alt_layer-goes-live",
+            "created_at": "2023-05-24T05:56:15Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@AutomataNetwork",
+            "source": {
+                "title": "Automata Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@automatanetwork"
+            },
+            "title": "RT @0xcarrier: The public mint for Coo Genesis happens in less than 24 hours, on 24 May 2023 at 2PM SGT\/12 AM UTC.\n\n\u27e1 Mint Coo on a flash l\u2026",
+            "published_at": "2023-05-23T07:10:40Z",
+            "slug": "RT-0xcarrier-The-public-mint-for-Coo-Genesis-happens-in-less-than-24-hours-on-24-May-2023-at-2PM-SGT12-AM-UTC-Mint-Coo-on-a-flash-l",
+            "currencies": [
+                {
+                    "code": "ATA",
+                    "title": "Automata",
+                    "slug": "automata",
+                    "url": "https:\/\/cryptopanic.com\/news\/automata\/"
+                }
+            ],
+            "id": 18412215,
+            "url": "https:\/\/cryptopanic.com\/news\/18412215\/RT-0xcarrier-The-public-mint-for-Coo-Genesis-happens-in-less-than-24-hours-on-24-May-2023-at-2PM-SGT12-AM-UTC-Mint-Coo-on-a-flash-l",
+            "created_at": "2023-05-23T07:10:40Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@AutomataNetwork",
+            "source": {
+                "title": "Automata Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@automatanetwork"
+            },
+            "title": "Join the ongoing 1RPC+ OAT campaign, handpicked as part of @Galxe Selects \n\n\ufe0e Till 31 May 12 PM UTC\n\ufe0e 1RPC+ now o\u2026",
+            "published_at": "2023-05-18T08:48:23Z",
+            "slug": "Join-the-ongoing-1RPC-OAT-campaign-handpicked-as-part-of-Galxe-Selects-Till-31-May-12-PM-UTC-1RPC-now-o",
+            "currencies": [
+                {
+                    "code": "ATA",
+                    "title": "Automata",
+                    "slug": "automata",
+                    "url": "https:\/\/cryptopanic.com\/news\/automata\/"
+                }
+            ],
+            "id": 18375506,
+            "url": "https:\/\/cryptopanic.com\/news\/18375506\/Join-the-ongoing-1RPC-OAT-campaign-handpicked-as-part-of-Galxe-Selects-Till-31-May-12-PM-UTC-1RPC-now-o",
+            "created_at": "2023-05-18T08:48:23Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@AutomataNetwork",
+            "source": {
+                "title": "Automata Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@automatanetwork"
+            },
+            "title": "We're rolling out 1RPC+ for everyone \u27e1\n\nRemoving the waitlist means users can sign in and start using Plus features\u2026",
+            "published_at": "2023-05-17T12:16:03Z",
+            "slug": "Were-rolling-out-1RPC-for-everyone-Removing-the-waitlist-means-users-can-sign-in-and-start-using-Plus-features",
+            "currencies": [
+                {
+                    "code": "ATA",
+                    "title": "Automata",
+                    "slug": "automata",
+                    "url": "https:\/\/cryptopanic.com\/news\/automata\/"
+                }
+            ],
+            "id": 18365795,
+            "url": "https:\/\/cryptopanic.com\/news\/18365795\/Were-rolling-out-1RPC-for-everyone-Removing-the-waitlist-means-users-can-sign-in-and-start-using-Plus-features",
+            "created_at": "2023-05-17T12:16:03Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@AutomataNetwork",
+            "source": {
+                "title": "Automata Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@automatanetwork"
+            },
+            "title": "Researchers, devs, community members can now use 1RPC\/1RPC+ with @alt_layer's Testnet - which brings the first impl\u2026",
+            "published_at": "2023-05-16T08:18:30Z",
+            "slug": "Researchers-devs-community-members-can-now-use-1RPC1RPC-with-alt_layers-Testnet-which-brings-the-first-impl",
+            "currencies": [
+                {
+                    "code": "ATA",
+                    "title": "Automata",
+                    "slug": "automata",
+                    "url": "https:\/\/cryptopanic.com\/news\/automata\/"
+                }
+            ],
+            "id": 18356778,
+            "url": "https:\/\/cryptopanic.com\/news\/18356778\/Researchers-devs-community-members-can-now-use-1RPC1RPC-with-alt_layers-Testnet-which-brings-the-first-impl",
+            "created_at": "2023-05-16T08:18:30Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@AutomataNetwork",
+            "source": {
+                "title": "Automata Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@automatanetwork"
+            },
+            "title": "The existential question of 1RPC - and the entire crypto ecosystem - is to make itself convenient, useful and easy\u2026",
+            "published_at": "2023-05-09T04:21:50Z",
+            "slug": "The-existential-question-of-1RPC-and-the-entire-crypto-ecosystem-is-to-make-itself-convenient-useful-and-easy",
+            "currencies": [
+                {
+                    "code": "ATA",
+                    "title": "Automata",
+                    "slug": "automata",
+                    "url": "https:\/\/cryptopanic.com\/news\/automata\/"
+                }
+            ],
+            "id": 18292736,
+            "url": "https:\/\/cryptopanic.com\/news\/18292736\/The-existential-question-of-1RPC-and-the-entire-crypto-ecosystem-is-to-make-itself-convenient-useful-and-easy",
+            "created_at": "2023-05-09T04:21:50Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

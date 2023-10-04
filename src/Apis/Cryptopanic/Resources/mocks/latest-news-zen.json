@@ -1,0 +1,707 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=ZEN&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "zensystem.io",
+            "source": {
+                "title": "ZenCash Blog",
+                "region": "en",
+                "domain": "zensystem.io",
+                "path": null
+            },
+            "title": "Horizen EON Welcomes NTT DATA, Joining the Network as A Certificate Signer Node to Support the Growth and Security of the EON Network",
+            "published_at": "2023-09-28T14:29:15Z",
+            "slug": "Horizen-EON-Welcomes-NTT-DATA-Joining-the-Network-as-A-Certificate-Signer-Node-to-Support-the-Growth-and-Security-of-the-EON-Network",
+            "currencies": [
+                {
+                    "code": "ZEN",
+                    "title": "Horizen",
+                    "slug": "zencash",
+                    "url": "https:\/\/cryptopanic.com\/news\/zencash\/"
+                }
+            ],
+            "id": 18934862,
+            "url": "https:\/\/cryptopanic.com\/news\/18934862\/Horizen-EON-Welcomes-NTT-DATA-Joining-the-Network-as-A-Certificate-Signer-Node-to-Support-the-Growth-and-Security-of-the-EON-Network",
+            "created_at": "2023-09-28T14:29:15Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "zensystem.io",
+            "source": {
+                "title": "ZenCash Blog",
+                "region": "en",
+                "domain": "zensystem.io",
+                "path": null
+            },
+            "title": "What are Horizen EON Forger Nodes\u00a0 and Why We Need Them",
+            "published_at": "2023-09-28T14:05:42Z",
+            "slug": "What-are-Horizen-EON-Forger-Nodes-and-Why-We-Need-Them",
+            "currencies": [
+                {
+                    "code": "ZEN",
+                    "title": "Horizen",
+                    "slug": "zencash",
+                    "url": "https:\/\/cryptopanic.com\/news\/zencash\/"
+                }
+            ],
+            "id": 18934787,
+            "url": "https:\/\/cryptopanic.com\/news\/18934787\/What-are-Horizen-EON-Forger-Nodes-and-Why-We-Need-Them",
+            "created_at": "2023-09-28T14:05:42Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "zensystem.io",
+            "source": {
+                "title": "ZenCash Blog",
+                "region": "en",
+                "domain": "zensystem.io",
+                "path": null
+            },
+            "title": "Horizen Reaches a Key Milestone in Decentralized Governance \u2013 Introducing Horizen DAO",
+            "published_at": "2023-09-27T15:41:35Z",
+            "slug": "Horizen-Reaches-a-Key-Milestone-in-Decentralized-Governance-Introducing-Horizen-DAO",
+            "currencies": [
+                {
+                    "code": "ZEN",
+                    "title": "Horizen",
+                    "slug": "zencash",
+                    "url": "https:\/\/cryptopanic.com\/news\/zencash\/"
+                }
+            ],
+            "id": 18932377,
+            "url": "https:\/\/cryptopanic.com\/news\/18932377\/Horizen-Reaches-a-Key-Milestone-in-Decentralized-Governance-Introducing-Horizen-DAO",
+            "created_at": "2023-09-27T15:41:35Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "zensystem.io",
+            "source": {
+                "title": "ZenCash Blog",
+                "region": "en",
+                "domain": "zensystem.io",
+                "path": null
+            },
+            "title": "Updates on Horizen Node Challenges and Node System Changes",
+            "published_at": "2023-09-26T21:01:06Z",
+            "slug": "Updates-on-Horizen-Node-Challenges-and-Node-System-Changes",
+            "currencies": [
+                {
+                    "code": "ZEN",
+                    "title": "Horizen",
+                    "slug": "zencash",
+                    "url": "https:\/\/cryptopanic.com\/news\/zencash\/"
+                }
+            ],
+            "id": 18930297,
+            "url": "https:\/\/cryptopanic.com\/news\/18930297\/Updates-on-Horizen-Node-Challenges-and-Node-System-Changes",
+            "created_at": "2023-09-26T21:01:06Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "zensystem.io",
+            "source": {
+                "title": "ZenCash Blog",
+                "region": "en",
+                "domain": "zensystem.io",
+                "path": null
+            },
+            "title": "Horizen and Pyth Network Join Forces to Amplify Decentralized Oracle Services for EON, Horizen\u2019s EVM-Compatible Smart Contracting Platform",
+            "published_at": "2023-09-19T13:05:45Z",
+            "slug": "Horizen-and-Pyth-Network-Join-Forces-to-Amplify-Decentralized-Oracle-Services-for-EON-Horizens-EVM-Compatible-Smart-Contracting-Platform",
+            "currencies": [
+                {
+                    "code": "ZEN",
+                    "title": "Horizen",
+                    "slug": "zencash",
+                    "url": "https:\/\/cryptopanic.com\/news\/zencash\/"
+                }
+            ],
+            "id": 18913539,
+            "url": "https:\/\/cryptopanic.com\/news\/18913539\/Horizen-and-Pyth-Network-Join-Forces-to-Amplify-Decentralized-Oracle-Services-for-EON-Horizens-EVM-Compatible-Smart-Contracting-Platform",
+            "created_at": "2023-09-19T13:05:45Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "zensystem.io",
+            "source": {
+                "title": "ZenCash Blog",
+                "region": "en",
+                "domain": "zensystem.io",
+                "path": null
+            },
+            "title": "Horizen Partners with Tatum to Enabling Blockchain Application Development and Integrations on EON, Horizen\u2019s EVM-Compatible Smart Contracting Platform",
+            "published_at": "2023-09-12T13:03:24Z",
+            "slug": "Horizen-Partners-with-Tatum-to-Enabling-Blockchain-Application-Development-and-Integrations-on-EON-Horizens-EVM-Compatible-Smart-Contracting-Platform",
+            "currencies": [
+                {
+                    "code": "ZEN",
+                    "title": "Horizen",
+                    "slug": "zencash",
+                    "url": "https:\/\/cryptopanic.com\/news\/zencash\/"
+                }
+            ],
+            "id": 18897368,
+            "url": "https:\/\/cryptopanic.com\/news\/18897368\/Horizen-Partners-with-Tatum-to-Enabling-Blockchain-Application-Development-and-Integrations-on-EON-Horizens-EVM-Compatible-Smart-Contracting-Platform",
+            "created_at": "2023-09-12T13:03:24Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "zensystem.io",
+            "source": {
+                "title": "ZenCash Blog",
+                "region": "en",
+                "domain": "zensystem.io",
+                "path": null
+            },
+            "title": "Node Software Upgrade: ZEN 4.1.0 is Available to Download",
+            "published_at": "2023-09-07T14:15:16Z",
+            "slug": "Node-Software-Upgrade-ZEN-410-is-Available-to-Download",
+            "currencies": [
+                {
+                    "code": "ZEN",
+                    "title": "Horizen",
+                    "slug": "zencash",
+                    "url": "https:\/\/cryptopanic.com\/news\/zencash\/"
+                }
+            ],
+            "id": 18886643,
+            "url": "https:\/\/cryptopanic.com\/news\/18886643\/Node-Software-Upgrade-ZEN-410-is-Available-to-Download",
+            "created_at": "2023-09-07T14:15:16Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "zensystem.io",
+            "source": {
+                "title": "ZenCash Blog",
+                "region": "en",
+                "domain": "zensystem.io",
+                "path": null
+            },
+            "title": "ZenIP 42206 Explained: Redirect Horizen Secure Node Rewards into Horizen EON",
+            "published_at": "2023-08-11T17:45:20Z",
+            "slug": "ZenIP-42206-Explained-Redirect-Horizen-Secure-Node-Rewards-into-Horizen-EON",
+            "currencies": [
+                {
+                    "code": "ZEN",
+                    "title": "Horizen",
+                    "slug": "zencash",
+                    "url": "https:\/\/cryptopanic.com\/news\/zencash\/"
+                }
+            ],
+            "id": 18832646,
+            "url": "https:\/\/cryptopanic.com\/news\/18832646\/ZenIP-42206-Explained-Redirect-Horizen-Secure-Node-Rewards-into-Horizen-EON",
+            "created_at": "2023-08-11T17:45:20Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "zensystem.io",
+            "source": {
+                "title": "ZenCash Blog",
+                "region": "en",
+                "domain": "zensystem.io",
+                "path": null
+            },
+            "title": "Horizen Partners with Wanchain to Expand Cross-Chain Interoperability for EON, Horizen\u2019s EVM-Compatible Smart Contracting Platform",
+            "published_at": "2023-08-03T14:50:03Z",
+            "slug": "Horizen-Partners-with-Wanchain-to-Expand-Cross-Chain-Interoperability-for-EON-Horizens-EVM-Compatible-Smart-Contracting-Platform",
+            "currencies": [
+                {
+                    "code": "ZEN",
+                    "title": "Horizen",
+                    "slug": "zencash",
+                    "url": "https:\/\/cryptopanic.com\/news\/zencash\/"
+                }
+            ],
+            "id": 18815698,
+            "url": "https:\/\/cryptopanic.com\/news\/18815698\/Horizen-Partners-with-Wanchain-to-Expand-Cross-Chain-Interoperability-for-EON-Horizens-EVM-Compatible-Smart-Contracting-Platform",
+            "created_at": "2023-08-03T14:50:03Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "zensystem.io",
+            "source": {
+                "title": "ZenCash Blog",
+                "region": "en",
+                "domain": "zensystem.io",
+                "path": null
+            },
+            "title": "Testnet Node Software Upgrade: ZEN 4.1.0-rc1 is Available to Download",
+            "published_at": "2023-08-01T13:05:18Z",
+            "slug": "Testnet-Node-Software-Upgrade-ZEN-410-rc1-is-Available-to-Download",
+            "currencies": [
+                {
+                    "code": "ZEN",
+                    "title": "Horizen",
+                    "slug": "zencash",
+                    "url": "https:\/\/cryptopanic.com\/news\/zencash\/"
+                }
+            ],
+            "id": 18809844,
+            "url": "https:\/\/cryptopanic.com\/news\/18809844\/Testnet-Node-Software-Upgrade-ZEN-410-rc1-is-Available-to-Download",
+            "created_at": "2023-08-01T13:05:18Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "zensystem.io",
+            "source": {
+                "title": "ZenCash Blog",
+                "region": "en",
+                "domain": "zensystem.io",
+                "path": null
+            },
+            "title": "The Horizen Q2 2023 Report",
+            "published_at": "2023-07-14T20:34:42Z",
+            "slug": "The-Horizen-Q2-2023-Report",
+            "currencies": [
+                {
+                    "code": "ZEN",
+                    "title": "Horizen",
+                    "slug": "zencash",
+                    "url": "https:\/\/cryptopanic.com\/news\/zencash\/"
+                }
+            ],
+            "id": 18775298,
+            "url": "https:\/\/cryptopanic.com\/news\/18775298\/The-Horizen-Q2-2023-Report",
+            "created_at": "2023-07-14T20:34:42Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@horizenglobal",
+            "source": {
+                "title": "Horizen Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@horizenglobal"
+            },
+            "title": "RT @HorizenLabs: CEO and Co-founder @robviglione joined @justcryptoshow to talk about our mission of bringing blockchain to enterprise, and\u2026",
+            "published_at": "2023-07-11T11:49:27Z",
+            "slug": "RT-HorizenLabs-CEO-and-Co-founder-robviglione-joined-justcryptoshow-to-talk-about-our-mission-of-bringing-blockchain-to-enterprise-and",
+            "currencies": [
+                {
+                    "code": "ZEN",
+                    "title": "Horizen",
+                    "slug": "zencash",
+                    "url": "https:\/\/cryptopanic.com\/news\/zencash\/"
+                }
+            ],
+            "id": 18764842,
+            "url": "https:\/\/cryptopanic.com\/news\/18764842\/RT-HorizenLabs-CEO-and-Co-founder-robviglione-joined-justcryptoshow-to-talk-about-our-mission-of-bringing-blockchain-to-enterprise-and",
+            "created_at": "2023-07-11T11:49:27Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@horizenglobal",
+            "source": {
+                "title": "Horizen Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@horizenglobal"
+            },
+            "title": "Missed our recent #CryptscrowCodeathon? You can sign up to our developer newsletter here  \nand be sure you\u2019ll neve\u2026",
+            "published_at": "2023-07-10T18:11:04Z",
+            "slug": "Missed-our-recent-CryptscrowCodeathon-You-can-sign-up-to-our-developer-newsletter-here-and-be-sure-youll-neve",
+            "currencies": [
+                {
+                    "code": "ZEN",
+                    "title": "Horizen",
+                    "slug": "zencash",
+                    "url": "https:\/\/cryptopanic.com\/news\/zencash\/"
+                }
+            ],
+            "id": 18756690,
+            "url": "https:\/\/cryptopanic.com\/news\/18756690\/Missed-our-recent-CryptscrowCodeathon-You-can-sign-up-to-our-developer-newsletter-here-and-be-sure-youll-neve",
+            "created_at": "2023-07-10T18:11:04Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@horizenglobal",
+            "source": {
+                "title": "Horizen Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@horizenglobal"
+            },
+            "title": "Our #CryptscrowCodeathon has come to an end and we have our winners!\nCongratulations to the victorious teams and a\u2026",
+            "published_at": "2023-07-10T13:19:49Z",
+            "slug": "Our-CryptscrowCodeathon-has-come-to-an-end-and-we-have-our-winners-Congratulations-to-the-victorious-teams-and-a",
+            "currencies": [
+                {
+                    "code": "ZEN",
+                    "title": "Horizen",
+                    "slug": "zencash",
+                    "url": "https:\/\/cryptopanic.com\/news\/zencash\/"
+                }
+            ],
+            "id": 18756691,
+            "url": "https:\/\/cryptopanic.com\/news\/18756691\/Our-CryptscrowCodeathon-has-come-to-an-end-and-we-have-our-winners-Congratulations-to-the-victorious-teams-and-a",
+            "created_at": "2023-07-10T13:19:49Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@horizenglobal",
+            "source": {
+                "title": "Horizen Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@horizenglobal"
+            },
+            "title": "So who's going to ETHCC ",
+            "published_at": "2023-07-08T13:01:00Z",
+            "slug": "So-whos-going-to-ETHCC",
+            "currencies": [
+                {
+                    "code": "ZEN",
+                    "title": "Horizen",
+                    "slug": "zencash",
+                    "url": "https:\/\/cryptopanic.com\/news\/zencash\/"
+                }
+            ],
+            "id": 18745798,
+            "url": "https:\/\/cryptopanic.com\/news\/18745798\/So-whos-going-to-ETHCC",
+            "created_at": "2023-07-08T13:01:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@horizenglobal",
+            "source": {
+                "title": "Horizen Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@horizenglobal"
+            },
+            "title": "ICYMI Judging for our #CryptScrowCodeathon is still ongoing, we'll be announcing the winners soon!\n\nYou can join th\u2026",
+            "published_at": "2023-07-07T00:00:04Z",
+            "slug": "ICYMI-Judging-for-our-CryptScrowCodeathon-is-still-ongoing-well-be-announcing-the-winners-soon-You-can-join-th",
+            "currencies": [
+                {
+                    "code": "ZEN",
+                    "title": "Horizen",
+                    "slug": "zencash",
+                    "url": "https:\/\/cryptopanic.com\/news\/zencash\/"
+                }
+            ],
+            "id": 18732966,
+            "url": "https:\/\/cryptopanic.com\/news\/18732966\/ICYMI-Judging-for-our-CryptScrowCodeathon-is-still-ongoing-well-be-announcing-the-winners-soon-You-can-join-th",
+            "created_at": "2023-07-07T00:00:04Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@horizenglobal",
+            "source": {
+                "title": "Horizen Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@horizenglobal"
+            },
+            "title": "Ever impassioned words on the drive behind the team at @HorizenLabs\n\nCheck out the full episode of\u2026",
+            "published_at": "2023-07-05T17:41:30Z",
+            "slug": "Ever-impassioned-words-on-the-drive-behind-the-team-at-HorizenLabs-Check-out-the-full-episode-of",
+            "currencies": [
+                {
+                    "code": "ZEN",
+                    "title": "Horizen",
+                    "slug": "zencash",
+                    "url": "https:\/\/cryptopanic.com\/news\/zencash\/"
+                }
+            ],
+            "id": 18724520,
+            "url": "https:\/\/cryptopanic.com\/news\/18724520\/Ever-impassioned-words-on-the-drive-behind-the-team-at-HorizenLabs-Check-out-the-full-episode-of",
+            "created_at": "2023-07-05T17:41:30Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@horizenglobal",
+            "source": {
+                "title": "Horizen Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@horizenglobal"
+            },
+            "title": "\"Many solutions still struggle with limitations, often failing to completely protect privacy or drastically reducin\u2026",
+            "published_at": "2023-07-03T20:52:17Z",
+            "slug": "Many-solutions-still-struggle-with-limitations-often-failing-to-completely-protect-privacy-or-drastically-reducin",
+            "currencies": [
+                {
+                    "code": "ZEN",
+                    "title": "Horizen",
+                    "slug": "zencash",
+                    "url": "https:\/\/cryptopanic.com\/news\/zencash\/"
+                }
+            ],
+            "id": 18709480,
+            "url": "https:\/\/cryptopanic.com\/news\/18709480\/Many-solutions-still-struggle-with-limitations-often-failing-to-completely-protect-privacy-or-drastically-reducin",
+            "created_at": "2023-07-03T20:52:17Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@horizenglobal",
+            "source": {
+                "title": "Horizen Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@horizenglobal"
+            },
+            "title": "Thank you to everyone who\u2019s participated in the #CryptscrowCodeathon!\n\nWe\u2019re now reviewing and judging every submis\u2026",
+            "published_at": "2023-07-03T18:26:42Z",
+            "slug": "Thank-you-to-everyone-whos-participated-in-the-CryptscrowCodeathon-Were-now-reviewing-and-judging-every-submis",
+            "currencies": [
+                {
+                    "code": "ZEN",
+                    "title": "Horizen",
+                    "slug": "zencash",
+                    "url": "https:\/\/cryptopanic.com\/news\/zencash\/"
+                }
+            ],
+            "id": 18709481,
+            "url": "https:\/\/cryptopanic.com\/news\/18709481\/Thank-you-to-everyone-whos-participated-in-the-CryptscrowCodeathon-Were-now-reviewing-and-judging-every-submis",
+            "created_at": "2023-07-03T18:26:42Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@horizenglobal",
+            "source": {
+                "title": "Horizen Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@horizenglobal"
+            },
+            "title": "The latest episode of #BeyondTheHorizen is here\ud83e\udd73\n\nWe talked to @mschofnegger and Serena Tsay from @HorizenLabs for\u2026",
+            "published_at": "2023-06-30T17:11:04Z",
+            "slug": "The-latest-episode-of-BeyondTheHorizen-is-here-We-talked-to-mschofnegger-and-Serena-Tsay-from-HorizenLabs-for",
+            "currencies": [
+                {
+                    "code": "ZEN",
+                    "title": "Horizen",
+                    "slug": "zencash",
+                    "url": "https:\/\/cryptopanic.com\/news\/zencash\/"
+                }
+            ],
+            "id": 18693881,
+            "url": "https:\/\/cryptopanic.com\/news\/18693881\/The-latest-episode-of-BeyondTheHorizen-is-here-We-talked-to-mschofnegger-and-Serena-Tsay-from-HorizenLabs-for",
+            "created_at": "2023-06-30T17:11:04Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

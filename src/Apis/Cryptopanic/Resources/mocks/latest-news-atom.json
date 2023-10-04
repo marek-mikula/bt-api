@@ -1,0 +1,929 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=ATOM&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "coingabbar.com",
+            "source": {
+                "title": "coingabbar",
+                "region": "en",
+                "domain": "coingabbar.com",
+                "path": null
+            },
+            "title": "Crypto Daily Roundup, 03 Oct: Could October's Bull Run Boost Crypto?",
+            "published_at": "2023-10-03T08:30:00Z",
+            "slug": "Crypto-Daily-Roundup-03-Oct-Could-Octobers-Bull-Run-Boost-Crypto",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "AVAX",
+                    "title": "Avalanche",
+                    "slug": "avalanche-2",
+                    "url": "https:\/\/cryptopanic.com\/news\/avalanche-2\/"
+                },
+                {
+                    "code": "ATOM",
+                    "title": "Cosmos Hub",
+                    "slug": "cosmos",
+                    "url": "https:\/\/cryptopanic.com\/news\/cosmos\/"
+                },
+                {
+                    "code": "APT",
+                    "title": "Aptos",
+                    "slug": "aptos",
+                    "url": "https:\/\/cryptopanic.com\/news\/aptos\/"
+                },
+                {
+                    "code": "OP",
+                    "title": "Optimism",
+                    "slug": "optimism",
+                    "url": "https:\/\/cryptopanic.com\/news\/optimism\/"
+                },
+                {
+                    "code": "IMX",
+                    "title": "ImmutableX",
+                    "slug": "immutable-x",
+                    "url": "https:\/\/cryptopanic.com\/news\/immutable-x\/"
+                },
+                {
+                    "code": "AXS",
+                    "title": "Axie Infinity",
+                    "slug": "axie-infinity",
+                    "url": "https:\/\/cryptopanic.com\/news\/axie-infinity\/"
+                },
+                {
+                    "code": "APE",
+                    "title": "ApeCoin",
+                    "slug": "apecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/apecoin\/"
+                },
+                {
+                    "code": "SUI",
+                    "title": "Sui",
+                    "slug": "sui",
+                    "url": "https:\/\/cryptopanic.com\/news\/sui\/"
+                }
+            ],
+            "id": 18943929,
+            "url": "https:\/\/cryptopanic.com\/news\/18943929\/Crypto-Daily-Roundup-03-Oct-Could-Octobers-Bull-Run-Boost-Crypto",
+            "created_at": "2023-10-03T08:30:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptodaily.co.uk",
+            "source": {
+                "title": "CryptoDaily",
+                "region": "en",
+                "domain": "cryptodaily.co.uk",
+                "path": null
+            },
+            "title": "$ATOM Tokenomics Changes To Be Central Discussion At Cosmoverse \u201823",
+            "published_at": "2023-10-03T07:19:09Z",
+            "slug": "ATOM-Tokenomics-Changes-To-Be-Central-Discussion-At-Cosmoverse-23",
+            "currencies": [
+                {
+                    "code": "ATOM",
+                    "title": "Cosmos Hub",
+                    "slug": "cosmos",
+                    "url": "https:\/\/cryptopanic.com\/news\/cosmos\/"
+                }
+            ],
+            "id": 18943725,
+            "url": "https:\/\/cryptopanic.com\/news\/18943725\/ATOM-Tokenomics-Changes-To-Be-Central-Discussion-At-Cosmoverse-23",
+            "created_at": "2023-10-03T07:19:09Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinedition.com",
+            "source": {
+                "title": "coinedition",
+                "region": "en",
+                "domain": "coinedition.com",
+                "path": null
+            },
+            "title": "LINK, ARB, and ATOM Are the Top Altcoins To Watch Out For: Analyst",
+            "published_at": "2023-10-02T14:39:28Z",
+            "slug": "LINK-ARB-and-ATOM-Are-the-Top-Altcoins-To-Watch-Out-For-Analyst",
+            "currencies": [
+                {
+                    "code": "LINK",
+                    "title": "Chainlink",
+                    "slug": "chainlink",
+                    "url": "https:\/\/cryptopanic.com\/news\/chainlink\/"
+                },
+                {
+                    "code": "ATOM",
+                    "title": "Cosmos Hub",
+                    "slug": "cosmos",
+                    "url": "https:\/\/cryptopanic.com\/news\/cosmos\/"
+                },
+                {
+                    "code": "ARB",
+                    "title": "Arbitrum",
+                    "slug": "arbitrum",
+                    "url": "https:\/\/cryptopanic.com\/news\/arbitrum\/"
+                }
+            ],
+            "id": 18942301,
+            "url": "https:\/\/cryptopanic.com\/news\/18942301\/LINK-ARB-and-ATOM-Are-the-Top-Altcoins-To-Watch-Out-For-Analyst",
+            "created_at": "2023-10-02T14:39:28Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "IBC to expand to BSC: Anticipating the implications for Cosmos and ATOM",
+            "published_at": "2023-09-29T23:30:59Z",
+            "slug": "IBC-to-expand-to-BSC-Anticipating-the-implications-for-Cosmos-and-ATOM",
+            "currencies": [
+                {
+                    "code": "ATOM",
+                    "title": "Cosmos Hub",
+                    "slug": "cosmos",
+                    "url": "https:\/\/cryptopanic.com\/news\/cosmos\/"
+                }
+            ],
+            "id": 18938487,
+            "url": "https:\/\/cryptopanic.com\/news\/18938487\/IBC-to-expand-to-BSC-Anticipating-the-implications-for-Cosmos-and-ATOM",
+            "created_at": "2023-09-29T23:30:59Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 2,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 1
+            },
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Cosmos Has A Grand Plan For 2024: Will It Crush Ethereum?",
+            "published_at": "2023-09-29T22:00:00Z",
+            "slug": "Cosmos-Has-A-Grand-Plan-For-2024-Will-It-Crush-Ethereum",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "BNB",
+                    "title": "BNB",
+                    "slug": "binancecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/binancecoin\/"
+                },
+                {
+                    "code": "MATIC",
+                    "title": "Polygon",
+                    "slug": "matic-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-network\/"
+                },
+                {
+                    "code": "AVAX",
+                    "title": "Avalanche",
+                    "slug": "avalanche-2",
+                    "url": "https:\/\/cryptopanic.com\/news\/avalanche-2\/"
+                },
+                {
+                    "code": "ATOM",
+                    "title": "Cosmos Hub",
+                    "slug": "cosmos",
+                    "url": "https:\/\/cryptopanic.com\/news\/cosmos\/"
+                },
+                {
+                    "code": "OP",
+                    "title": "Optimism",
+                    "slug": "optimism",
+                    "url": "https:\/\/cryptopanic.com\/news\/optimism\/"
+                }
+            ],
+            "id": 18938402,
+            "url": "https:\/\/cryptopanic.com\/news\/18938402\/Cosmos-Has-A-Grand-Plan-For-2024-Will-It-Crush-Ethereum",
+            "created_at": "2023-09-29T22:00:00Z"
+        },
+        {
+            "kind": "news",
+            "domain": "decrypt.co",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 1,
+                "comments": 1
+            },
+            "source": {
+                "title": "Decrypt",
+                "region": "en",
+                "domain": "decrypt.co",
+                "path": null
+            },
+            "title": "Cosmos Product Lead Says Ethereum Layer-2s Are Not the \u2018Holy Grail\u2019 of Scaling",
+            "published_at": "2023-09-29T10:58:20Z",
+            "slug": "Cosmos-Product-Lead-Says-Ethereum-Layer-2s-Are-Not-the-Holy-Grail-of-Scaling",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "ATOM",
+                    "title": "Cosmos Hub",
+                    "slug": "cosmos",
+                    "url": "https:\/\/cryptopanic.com\/news\/cosmos\/"
+                }
+            ],
+            "id": 18936960,
+            "url": "https:\/\/cryptopanic.com\/news\/18936960\/Cosmos-Product-Lead-Says-Ethereum-Layer-2s-Are-Not-the-Holy-Grail-of-Scaling",
+            "created_at": "2023-09-29T10:58:20Z"
+        },
+        {
+            "kind": "news",
+            "domain": "coindesk.com",
+            "source": {
+                "title": "CoinDesk",
+                "region": "en",
+                "domain": "coindesk.com",
+                "path": null
+            },
+            "title": "Examining dYdX\u2019s Path to Profitable DeFi",
+            "published_at": "2023-09-28T15:28:17Z",
+            "slug": "Examining-dYdXs-Path-to-Profitable-DeFi",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "ATOM",
+                    "title": "Cosmos Hub",
+                    "slug": "cosmos",
+                    "url": "https:\/\/cryptopanic.com\/news\/cosmos\/"
+                },
+                {
+                    "code": "DYDX",
+                    "title": "dYdX",
+                    "slug": "dydx",
+                    "url": "https:\/\/cryptopanic.com\/news\/dydx\/"
+                }
+            ],
+            "id": 18935130,
+            "url": "https:\/\/cryptopanic.com\/news\/18935130\/Examining-dYdXs-Path-to-Profitable-DeFi",
+            "created_at": "2023-09-28T15:28:17Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "theblock.co",
+            "source": {
+                "title": "The Block",
+                "region": "en",
+                "domain": "theblock.co",
+                "path": null
+            },
+            "title": "Ethereum explorer Rated raises $12.89 million to expand to other blockchains, including Polygon and Solana",
+            "published_at": "2023-09-27T13:05:04Z",
+            "slug": "Ethereum-explorer-Rated-raises-1289-million-to-expand-to-other-blockchains-including-Polygon-and-Solana",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "MATIC",
+                    "title": "Polygon",
+                    "slug": "matic-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-network\/"
+                },
+                {
+                    "code": "ATOM",
+                    "title": "Cosmos Hub",
+                    "slug": "cosmos",
+                    "url": "https:\/\/cryptopanic.com\/news\/cosmos\/"
+                }
+            ],
+            "id": 18931914,
+            "url": "https:\/\/cryptopanic.com\/news\/18931914\/Ethereum-explorer-Rated-raises-1289-million-to-expand-to-other-blockchains-including-Polygon-and-Solana",
+            "created_at": "2023-09-27T13:05:04Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "ATOM\u2019s bullish rally stalls: Are sellers back?",
+            "published_at": "2023-09-26T17:30:02Z",
+            "slug": "ATOMs-bullish-rally-stalls-Are-sellers-back",
+            "currencies": [
+                {
+                    "code": "ATOM",
+                    "title": "Cosmos Hub",
+                    "slug": "cosmos",
+                    "url": "https:\/\/cryptopanic.com\/news\/cosmos\/"
+                }
+            ],
+            "id": 18929895,
+            "url": "https:\/\/cryptopanic.com\/news\/18929895\/ATOMs-bullish-rally-stalls-Are-sellers-back",
+            "created_at": "2023-09-26T17:30:02Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "dailyhodl.com",
+            "source": {
+                "title": "The Daily Hodl",
+                "region": "en",
+                "domain": "dailyhodl.com",
+                "path": null
+            },
+            "title": "Venture Capitalist Says Bitcoin, Ethereum and Three More Projects Are Core Networks for Crypto Space",
+            "published_at": "2023-09-26T07:04:07Z",
+            "slug": "Venture-Capitalist-Says-Bitcoin-Ethereum-and-Three-More-Projects-Are-Core-Networks-for-Crypto-Space",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "ATOM",
+                    "title": "Cosmos Hub",
+                    "slug": "cosmos",
+                    "url": "https:\/\/cryptopanic.com\/news\/cosmos\/"
+                }
+            ],
+            "id": 18928230,
+            "url": "https:\/\/cryptopanic.com\/news\/18928230\/Venture-Capitalist-Says-Bitcoin-Ethereum-and-Three-More-Projects-Are-Core-Networks-for-Crypto-Space",
+            "created_at": "2023-09-26T07:04:07Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "decrypt.co",
+            "source": {
+                "title": "Decrypt",
+                "region": "en",
+                "domain": "decrypt.co",
+                "path": null
+            },
+            "title": "Regulators Are 'Hurting Their Own Country' in Seeking Encryption Backdoors: Nym CEO",
+            "published_at": "2023-09-23T19:36:40Z",
+            "slug": "Regulators-Are-Hurting-Their-Own-Country-in-Seeking-Encryption-Backdoors-Nym-CEO",
+            "currencies": [
+                {
+                    "code": "ATOM",
+                    "title": "Cosmos Hub",
+                    "slug": "cosmos",
+                    "url": "https:\/\/cryptopanic.com\/news\/cosmos\/"
+                }
+            ],
+            "id": 18924022,
+            "url": "https:\/\/cryptopanic.com\/news\/18924022\/Regulators-Are-Hurting-Their-Own-Country-in-Seeking-Encryption-Backdoors-Nym-CEO",
+            "created_at": "2023-09-23T19:36:40Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "ATOM extends recovery: Are more gains likely?",
+            "published_at": "2023-09-21T20:30:30Z",
+            "slug": "ATOM-extends-recovery-Are-more-gains-likely",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ATOM",
+                    "title": "Cosmos Hub",
+                    "slug": "cosmos",
+                    "url": "https:\/\/cryptopanic.com\/news\/cosmos\/"
+                }
+            ],
+            "id": 18920247,
+            "url": "https:\/\/cryptopanic.com\/news\/18920247\/ATOM-extends-recovery-Are-more-gains-likely",
+            "created_at": "2023-09-21T20:30:30Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "bitcoinist.com",
+            "votes": {
+                "negative": 0,
+                "positive": 7,
+                "important": 3,
+                "liked": 5,
+                "disliked": 1,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 1,
+                "comments": 1
+            },
+            "source": {
+                "title": "Bitcoinist",
+                "region": "en",
+                "domain": "bitcoinist.com",
+                "path": null
+            },
+            "title": "Ethereum And Cosmos Compatible With A City, South Korea Wants To Make It Happen",
+            "published_at": "2023-09-21T14:00:17Z",
+            "slug": "Ethereum-And-Cosmos-Compatible-With-A-City-South-Korea-Wants-To-Make-It-Happen",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "ATOM",
+                    "title": "Cosmos Hub",
+                    "slug": "cosmos",
+                    "url": "https:\/\/cryptopanic.com\/news\/cosmos\/"
+                }
+            ],
+            "id": 18919314,
+            "url": "https:\/\/cryptopanic.com\/news\/18919314\/Ethereum-And-Cosmos-Compatible-With-A-City-South-Korea-Wants-To-Make-It-Happen",
+            "created_at": "2023-09-21T14:00:17Z"
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "Will INJ\u2019s bullish upside get another boost after Injective\u2019s latest launch?",
+            "published_at": "2023-09-21T07:30:51Z",
+            "slug": "Will-INJs-bullish-upside-get-another-boost-after-Injectives-latest-launch",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "ATOM",
+                    "title": "Cosmos Hub",
+                    "slug": "cosmos",
+                    "url": "https:\/\/cryptopanic.com\/news\/cosmos\/"
+                },
+                {
+                    "code": "INJ",
+                    "title": "Injective",
+                    "slug": "injective-protocol",
+                    "url": "https:\/\/cryptopanic.com\/news\/injective-protocol\/"
+                }
+            ],
+            "id": 18918189,
+            "url": "https:\/\/cryptopanic.com\/news\/18918189\/Will-INJs-bullish-upside-get-another-boost-after-Injectives-latest-launch",
+            "created_at": "2023-09-21T07:30:51Z"
+        },
+        {
+            "kind": "news",
+            "domain": "cointelegraph.com",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 1,
+                "comments": 0
+            },
+            "source": {
+                "title": "CoinTelegraph",
+                "region": "en",
+                "domain": "cointelegraph.com",
+                "path": null
+            },
+            "title": "Evmos, Swing, Tashi, Wormhole team up to solve Cosmos\u2019 liquidity issues",
+            "published_at": "2023-09-20T19:30:00Z",
+            "slug": "Evmos-Swing-Tashi-Wormhole-team-up-to-solve-Cosmos-liquidity-issues",
+            "currencies": [
+                {
+                    "code": "ATOM",
+                    "title": "Cosmos Hub",
+                    "slug": "cosmos",
+                    "url": "https:\/\/cryptopanic.com\/news\/cosmos\/"
+                }
+            ],
+            "id": 18917319,
+            "url": "https:\/\/cryptopanic.com\/news\/18917319\/Evmos-Swing-Tashi-Wormhole-team-up-to-solve-Cosmos-liquidity-issues",
+            "created_at": "2023-09-20T19:30:00Z"
+        },
+        {
+            "kind": "news",
+            "domain": "coindesk.com",
+            "source": {
+                "title": "CoinDesk",
+                "region": "en",
+                "domain": "coindesk.com",
+                "path": null
+            },
+            "title": "'We Can't Build Something Like This on Ethereum,' Says DYdX Founder as Mainnet Nears",
+            "published_at": "2023-09-20T15:00:00Z",
+            "slug": "We-Cant-Build-Something-Like-This-on-Ethereum-Says-DYdX-Founder-as-Mainnet-Nears",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "ATOM",
+                    "title": "Cosmos Hub",
+                    "slug": "cosmos",
+                    "url": "https:\/\/cryptopanic.com\/news\/cosmos\/"
+                },
+                {
+                    "code": "DYDX",
+                    "title": "dYdX",
+                    "slug": "dydx",
+                    "url": "https:\/\/cryptopanic.com\/news\/dydx\/"
+                }
+            ],
+            "id": 18916640,
+            "url": "https:\/\/cryptopanic.com\/news\/18916640\/We-Cant-Build-Something-Like-This-on-Ethereum-Says-DYdX-Founder-as-Mainnet-Nears",
+            "created_at": "2023-09-20T15:00:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "Cosmos releases 2024 roadmap; ATOM reacts",
+            "published_at": "2023-09-20T03:30:59Z",
+            "slug": "Cosmos-releases-2024-roadmap-ATOM-reacts",
+            "currencies": [
+                {
+                    "code": "ATOM",
+                    "title": "Cosmos Hub",
+                    "slug": "cosmos",
+                    "url": "https:\/\/cryptopanic.com\/news\/cosmos\/"
+                }
+            ],
+            "id": 18915089,
+            "url": "https:\/\/cryptopanic.com\/news\/18915089\/Cosmos-releases-2024-roadmap-ATOM-reacts",
+            "created_at": "2023-09-20T03:30:59Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "ATOM: Can bulls sustain rally for more gains?",
+            "published_at": "2023-09-19T22:30:37Z",
+            "slug": "ATOM-Can-bulls-sustain-rally-for-more-gains",
+            "currencies": [
+                {
+                    "code": "ATOM",
+                    "title": "Cosmos Hub",
+                    "slug": "cosmos",
+                    "url": "https:\/\/cryptopanic.com\/news\/cosmos\/"
+                }
+            ],
+            "id": 18914830,
+            "url": "https:\/\/cryptopanic.com\/news\/18914830\/ATOM-Can-bulls-sustain-rally-for-more-gains",
+            "created_at": "2023-09-19T22:30:37Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptopotato.com",
+            "source": {
+                "title": "Feed - Cryptopotato.Com",
+                "region": "en",
+                "domain": "cryptopotato.com",
+                "path": null
+            },
+            "title": "Polygon\u2019s Chain Development Kit Facilitates Canto\u2019s Transition to ZK Layer 2 on Ethereum",
+            "published_at": "2023-09-19T20:06:49Z",
+            "slug": "Polygons-Chain-Development-Kit-Facilitates-Cantos-Transition-to-ZK-Layer-2-on-Ethereum",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "MATIC",
+                    "title": "Polygon",
+                    "slug": "matic-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-network\/"
+                },
+                {
+                    "code": "ATOM",
+                    "title": "Cosmos Hub",
+                    "slug": "cosmos",
+                    "url": "https:\/\/cryptopanic.com\/news\/cosmos\/"
+                }
+            ],
+            "id": 18914595,
+            "url": "https:\/\/cryptopanic.com\/news\/18914595\/Polygons-Chain-Development-Kit-Facilitates-Cantos-Transition-to-ZK-Layer-2-on-Ethereum",
+            "created_at": "2023-09-19T20:06:49Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "theblock.co",
+            "source": {
+                "title": "The Block",
+                "region": "en",
+                "domain": "theblock.co",
+                "path": null
+            },
+            "title": "Injective tests inEVM Layer 2 to support Ethereum applications",
+            "published_at": "2023-09-19T13:01:04Z",
+            "slug": "Injective-tests-inEVM-Layer-2-to-support-Ethereum-applications",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "ATOM",
+                    "title": "Cosmos Hub",
+                    "slug": "cosmos",
+                    "url": "https:\/\/cryptopanic.com\/news\/cosmos\/"
+                },
+                {
+                    "code": "INJ",
+                    "title": "Injective",
+                    "slug": "injective-protocol",
+                    "url": "https:\/\/cryptopanic.com\/news\/injective-protocol\/"
+                }
+            ],
+            "id": 18913558,
+            "url": "https:\/\/cryptopanic.com\/news\/18913558\/Injective-tests-inEVM-Layer-2-to-support-Ethereum-applications",
+            "created_at": "2023-09-19T13:01:04Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

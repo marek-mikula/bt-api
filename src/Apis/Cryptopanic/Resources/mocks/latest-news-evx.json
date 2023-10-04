@@ -1,0 +1,707 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=EVX&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "@everexio",
+            "source": {
+                "title": "Everex Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@everexio"
+            },
+            "title": "RT @shpingApp: And there\u2019s a lot more around! \ud83e\udd73\n\n@everexio is building products in crypto payments, stablecoin settlements, and payment pr\u2026",
+            "published_at": "2023-03-28T14:07:34Z",
+            "slug": "RT-shpingApp-And-theres-a-lot-more-around-everexio-is-building-products-in-crypto-payments-stablecoin-settlements-and-payment-pr",
+            "currencies": [
+                {
+                    "code": "EVX",
+                    "title": "Everex",
+                    "slug": "everex",
+                    "url": "https:\/\/cryptopanic.com\/news\/everex\/"
+                }
+            ],
+            "id": 17986388,
+            "url": "https:\/\/cryptopanic.com\/news\/17986388\/RT-shpingApp-And-theres-a-lot-more-around-everexio-is-building-products-in-crypto-payments-stablecoin-settlements-and-payment-pr",
+            "created_at": "2023-03-28T14:07:34Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@everexio",
+            "source": {
+                "title": "Everex Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@everexio"
+            },
+            "title": "RT @paddi_hansen: 1\/16 Stablecoins are undeniably crypto's killer use case atm and going to mainstream faster than any other application.\u2026",
+            "published_at": "2023-02-08T11:48:41Z",
+            "slug": "RT-paddi_hansen-116-Stablecoins-are-undeniably-cryptos-killer-use-case-atm-and-going-to-mainstream-faster-than-any-other-application",
+            "currencies": [
+                {
+                    "code": "EVX",
+                    "title": "Everex",
+                    "slug": "everex",
+                    "url": "https:\/\/cryptopanic.com\/news\/everex\/"
+                }
+            ],
+            "id": 17586049,
+            "url": "https:\/\/cryptopanic.com\/news\/17586049\/RT-paddi_hansen-116-Stablecoins-are-undeniably-cryptos-killer-use-case-atm-and-going-to-mainstream-faster-than-any-other-application",
+            "created_at": "2023-02-08T11:48:41Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@everexio",
+            "source": {
+                "title": "Everex Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@everexio"
+            },
+            "title": "We agree that #stablecoins are a new era of payment systems but not CBDCs \u200d\ufe0f",
+            "published_at": "2023-01-17T13:19:24Z",
+            "slug": "We-agree-that-stablecoins-are-a-new-era-of-payment-systems-but-not-CBDCs",
+            "currencies": [
+                {
+                    "code": "EVX",
+                    "title": "Everex",
+                    "slug": "everex",
+                    "url": "https:\/\/cryptopanic.com\/news\/everex\/"
+                }
+            ],
+            "id": 17402502,
+            "url": "https:\/\/cryptopanic.com\/news\/17402502\/We-agree-that-stablecoins-are-a-new-era-of-payment-systems-but-not-CBDCs",
+            "created_at": "2023-01-17T13:19:24Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@everexio",
+            "source": {
+                "title": "Everex Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@everexio"
+            },
+            "title": "Wishing you a very Merry Christmas and Happy New Year from all here at Everex",
+            "published_at": "2022-12-24T07:57:03Z",
+            "slug": "Wishing-you-a-very-Merry-Christmas-and-Happy-New-Year-from-all-here-at-Everex",
+            "currencies": [
+                {
+                    "code": "EVX",
+                    "title": "Everex",
+                    "slug": "everex",
+                    "url": "https:\/\/cryptopanic.com\/news\/everex\/"
+                }
+            ],
+            "id": 17229383,
+            "url": "https:\/\/cryptopanic.com\/news\/17229383\/Wishing-you-a-very-Merry-Christmas-and-Happy-New-Year-from-all-here-at-Everex",
+            "created_at": "2022-12-24T07:57:03Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@everexio",
+            "source": {
+                "title": "Everex Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@everexio"
+            },
+            "title": "RT @twobitidiot: 4\/ This is my favorite slide of all time (h\/t us @MessariCrypto we created it).\n\nCrypto is inevitable because we've made -\u2026",
+            "published_at": "2022-11-23T06:51:54Z",
+            "slug": "RT-twobitidiot-4-This-is-my-favorite-slide-of-all-time-ht-us-MessariCrypto-we-created-it-Crypto-is-inevitable-because-weve-made-",
+            "currencies": [
+                {
+                    "code": "EVX",
+                    "title": "Everex",
+                    "slug": "everex",
+                    "url": "https:\/\/cryptopanic.com\/news\/everex\/"
+                }
+            ],
+            "id": 16969938,
+            "url": "https:\/\/cryptopanic.com\/news\/16969938\/RT-twobitidiot-4-This-is-my-favorite-slide-of-all-time-ht-us-MessariCrypto-we-created-it-Crypto-is-inevitable-because-weve-made-",
+            "created_at": "2022-11-23T06:51:54Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@everexio",
+            "source": {
+                "title": "Everex Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@everexio"
+            },
+            "title": "According to @McKinsey, the market of embedded finance could double in size within the next three to five years ",
+            "published_at": "2022-11-04T09:04:00Z",
+            "slug": "According-to-McKinsey-the-market-of-embedded-finance-could-double-in-size-within-the-next-three-to-five-years",
+            "currencies": [
+                {
+                    "code": "EVX",
+                    "title": "Everex",
+                    "slug": "everex",
+                    "url": "https:\/\/cryptopanic.com\/news\/everex\/"
+                }
+            ],
+            "id": 16798525,
+            "url": "https:\/\/cryptopanic.com\/news\/16798525\/According-to-McKinsey-the-market-of-embedded-finance-could-double-in-size-within-the-next-three-to-five-years",
+            "created_at": "2022-11-04T09:04:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@everexio",
+            "source": {
+                "title": "Everex Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@everexio"
+            },
+            "title": "Why SMEs and even individual entrepreneurs will use Everex vs traditional payments and cards?\n\n\u29bf same day settlemen\u2026",
+            "published_at": "2022-11-01T13:38:19Z",
+            "slug": "Why-SMEs-and-even-individual-entrepreneurs-will-use-Everex-vs-traditional-payments-and-cards-same-day-settlemen",
+            "currencies": [
+                {
+                    "code": "EVX",
+                    "title": "Everex",
+                    "slug": "everex",
+                    "url": "https:\/\/cryptopanic.com\/news\/everex\/"
+                }
+            ],
+            "id": 16767971,
+            "url": "https:\/\/cryptopanic.com\/news\/16767971\/Why-SMEs-and-even-individual-entrepreneurs-will-use-Everex-vs-traditional-payments-and-cards-same-day-settlemen",
+            "created_at": "2022-11-01T13:38:19Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@everexio",
+            "source": {
+                "title": "Everex Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@everexio"
+            },
+            "title": "RT @ethplorer: Which galaxy do you like best? Look at the activity of ERC20 tokens as a map of galaxies in the Alexis pudding project. http\u2026",
+            "published_at": "2022-10-28T22:08:32Z",
+            "slug": "RT-ethplorer-Which-galaxy-do-you-like-best-Look-at-the-activity-of-ERC20-tokens-as-a-map-of-galaxies-in-the-Alexis-pudding-project-http",
+            "currencies": [
+                {
+                    "code": "EVX",
+                    "title": "Everex",
+                    "slug": "everex",
+                    "url": "https:\/\/cryptopanic.com\/news\/everex\/"
+                }
+            ],
+            "id": 16735691,
+            "url": "https:\/\/cryptopanic.com\/news\/16735691\/RT-ethplorer-Which-galaxy-do-you-like-best-Look-at-the-activity-of-ERC20-tokens-as-a-map-of-galaxies-in-the-Alexis-pudding-project-http",
+            "created_at": "2022-10-28T22:08:32Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@everexio",
+            "source": {
+                "title": "Everex Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@everexio"
+            },
+            "title": "Fact \ufe0f\n\nGaming is one of the catalysts that is going to introduce millions to Web3.\n\nThe #Web3gaming industry has\u2026",
+            "published_at": "2022-10-05T11:09:37Z",
+            "slug": "Fact-Gaming-is-one-of-the-catalysts-that-is-going-to-introduce-millions-to-Web3-The-Web3gaming-industry-has",
+            "currencies": [
+                {
+                    "code": "EVX",
+                    "title": "Everex",
+                    "slug": "everex",
+                    "url": "https:\/\/cryptopanic.com\/news\/everex\/"
+                }
+            ],
+            "id": 16522383,
+            "url": "https:\/\/cryptopanic.com\/news\/16522383\/Fact-Gaming-is-one-of-the-catalysts-that-is-going-to-introduce-millions-to-Web3-The-Web3gaming-industry-has",
+            "created_at": "2022-10-05T11:09:37Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@everexio",
+            "source": {
+                "title": "Everex Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@everexio"
+            },
+            "title": "At Everex, we understand core features of #Web3, and the potential disruption it can bring to business and individu\u2026",
+            "published_at": "2022-09-29T10:30:21Z",
+            "slug": "At-Everex-we-understand-core-features-of-Web3-and-the-potential-disruption-it-can-bring-to-business-and-individu",
+            "currencies": [
+                {
+                    "code": "EVX",
+                    "title": "Everex",
+                    "slug": "everex",
+                    "url": "https:\/\/cryptopanic.com\/news\/everex\/"
+                }
+            ],
+            "id": 16469469,
+            "url": "https:\/\/cryptopanic.com\/news\/16469469\/At-Everex-we-understand-core-features-of-Web3-and-the-potential-disruption-it-can-bring-to-business-and-individu",
+            "created_at": "2022-09-29T10:30:21Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@everexio",
+            "source": {
+                "title": "Everex Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@everexio"
+            },
+            "title": "RT @alexilanes: So it has began! 7000+ attendees, 250 expo booths, lots of GameFi, NFT, DeFi and other industry reps. Looks like a Consensu\u2026",
+            "published_at": "2022-09-28T06:26:22Z",
+            "slug": "RT-alexilanes-So-it-has-began-7000-attendees-250-expo-booths-lots-of-GameFi-NFT-DeFi-and-other-industry-reps-Looks-like-a-Consensu",
+            "currencies": [
+                {
+                    "code": "EVX",
+                    "title": "Everex",
+                    "slug": "everex",
+                    "url": "https:\/\/cryptopanic.com\/news\/everex\/"
+                }
+            ],
+            "id": 16451478,
+            "url": "https:\/\/cryptopanic.com\/news\/16451478\/RT-alexilanes-So-it-has-began-7000-attendees-250-expo-booths-lots-of-GameFi-NFT-DeFi-and-other-industry-reps-Looks-like-a-Consensu",
+            "created_at": "2022-09-28T06:26:22Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@everexio",
+            "source": {
+                "title": "Everex Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@everexio"
+            },
+            "title": "RT @VitalikButerin: And we finalized!\n\nHappy merge all. This is a big moment for the Ethereum ecosystem. Everyone who helped make the merge\u2026",
+            "published_at": "2022-09-15T07:55:53Z",
+            "slug": "RT-VitalikButerin-And-we-finalized-Happy-merge-all-This-is-a-big-moment-for-the-Ethereum-ecosystem-Everyone-who-helped-make-the-merge",
+            "currencies": [
+                {
+                    "code": "EVX",
+                    "title": "Everex",
+                    "slug": "everex",
+                    "url": "https:\/\/cryptopanic.com\/news\/everex\/"
+                }
+            ],
+            "id": 16334790,
+            "url": "https:\/\/cryptopanic.com\/news\/16334790\/RT-VitalikButerin-And-we-finalized-Happy-merge-all-This-is-a-big-moment-for-the-Ethereum-ecosystem-Everyone-who-helped-make-the-merge",
+            "created_at": "2022-09-15T07:55:53Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@everexio",
+            "source": {
+                "title": "Everex Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@everexio"
+            },
+            "title": "stablecoins",
+            "published_at": "2022-09-02T06:43:18Z",
+            "slug": "stablecoins",
+            "currencies": [
+                {
+                    "code": "EVX",
+                    "title": "Everex",
+                    "slug": "everex",
+                    "url": "https:\/\/cryptopanic.com\/news\/everex\/"
+                }
+            ],
+            "id": 16216237,
+            "url": "https:\/\/cryptopanic.com\/news\/16216237\/stablecoins",
+            "created_at": "2022-09-02T06:43:18Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@everexio",
+            "source": {
+                "title": "Everex Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@everexio"
+            },
+            "title": "RT @Cointelegraph: Stablecoins are usually stable. Here is how they work",
+            "published_at": "2022-08-16T16:16:38Z",
+            "slug": "RT-Cointelegraph-Stablecoins-are-usually-stable-Here-is-how-they-work",
+            "currencies": [
+                {
+                    "code": "EVX",
+                    "title": "Everex",
+                    "slug": "everex",
+                    "url": "https:\/\/cryptopanic.com\/news\/everex\/"
+                }
+            ],
+            "id": 16066296,
+            "url": "https:\/\/cryptopanic.com\/news\/16066296\/RT-Cointelegraph-Stablecoins-are-usually-stable-Here-is-how-they-work",
+            "created_at": "2022-08-16T16:16:38Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@everexio",
+            "source": {
+                "title": "Everex Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@everexio"
+            },
+            "title": "According to @AbsoluteReports, the #GameFi\u200c industry will grow to $2.8 billion from 2022\u20132028. In our view, the for\u2026",
+            "published_at": "2022-08-09T09:28:41Z",
+            "slug": "According-to-AbsoluteReports-the-GameFi-industry-will-grow-to-28-billion-from-20222028-In-our-view-the-for",
+            "currencies": [
+                {
+                    "code": "EVX",
+                    "title": "Everex",
+                    "slug": "everex",
+                    "url": "https:\/\/cryptopanic.com\/news\/everex\/"
+                }
+            ],
+            "id": 16001589,
+            "url": "https:\/\/cryptopanic.com\/news\/16001589\/According-to-AbsoluteReports-the-GameFi-industry-will-grow-to-28-billion-from-20222028-In-our-view-the-for",
+            "created_at": "2022-08-09T09:28:41Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@everexio",
+            "source": {
+                "title": "Everex Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@everexio"
+            },
+            "title": "Good sign  That provides the ability to reshape current traditional gaming monetization.",
+            "published_at": "2022-07-15T10:54:55Z",
+            "slug": "Good-sign-That-provides-the-ability-to-reshape-current-traditional-gaming-monetization",
+            "currencies": [
+                {
+                    "code": "EVX",
+                    "title": "Everex",
+                    "slug": "everex",
+                    "url": "https:\/\/cryptopanic.com\/news\/everex\/"
+                }
+            ],
+            "id": 15776279,
+            "url": "https:\/\/cryptopanic.com\/news\/15776279\/Good-sign-That-provides-the-ability-to-reshape-current-traditional-gaming-monetization",
+            "created_at": "2022-07-15T10:54:55Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@everexio",
+            "source": {
+                "title": "Everex Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@everexio"
+            },
+            "title": "RT @alexilanes: Attending South East Acquirers Association Expo and Conference. \nImmediately after talking to random attendees I see a huge\u2026",
+            "published_at": "2022-06-13T17:11:47Z",
+            "slug": "RT-alexilanes-Attending-South-East-Acquirers-Association-Expo-and-Conference-Immediately-after-talking-to-random-attendees-I-see-a-huge",
+            "currencies": [
+                {
+                    "code": "EVX",
+                    "title": "Everex",
+                    "slug": "everex",
+                    "url": "https:\/\/cryptopanic.com\/news\/everex\/"
+                }
+            ],
+            "id": 15485960,
+            "url": "https:\/\/cryptopanic.com\/news\/15485960\/RT-alexilanes-Attending-South-East-Acquirers-Association-Expo-and-Conference-Immediately-after-talking-to-random-attendees-I-see-a-huge",
+            "created_at": "2022-06-13T17:11:47Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@everexio",
+            "source": {
+                "title": "Everex Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@everexio"
+            },
+            "title": "RT @alexilanes: The most interesting session so far at #Consensus2022 \u201cWho should be allowed to issue digital dollars\u201d",
+            "published_at": "2022-06-09T19:10:55Z",
+            "slug": "RT-alexilanes-The-most-interesting-session-so-far-at-Consensus2022-Who-should-be-allowed-to-issue-digital-dollars",
+            "currencies": [
+                {
+                    "code": "EVX",
+                    "title": "Everex",
+                    "slug": "everex",
+                    "url": "https:\/\/cryptopanic.com\/news\/everex\/"
+                }
+            ],
+            "id": 15452366,
+            "url": "https:\/\/cryptopanic.com\/news\/15452366\/RT-alexilanes-The-most-interesting-session-so-far-at-Consensus2022-Who-should-be-allowed-to-issue-digital-dollars",
+            "created_at": "2022-06-09T19:10:55Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@everexio",
+            "source": {
+                "title": "Everex Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@everexio"
+            },
+            "title": "RT @Blockworks_: USDT has launched on Polygon, it's now available on 11 blockchains",
+            "published_at": "2022-05-27T13:45:57Z",
+            "slug": "RT-Blockworks_-USDT-has-launched-on-Polygon-its-now-available-on-11-blockchains",
+            "currencies": [
+                {
+                    "code": "EVX",
+                    "title": "Everex",
+                    "slug": "everex",
+                    "url": "https:\/\/cryptopanic.com\/news\/everex\/"
+                }
+            ],
+            "id": 15334066,
+            "url": "https:\/\/cryptopanic.com\/news\/15334066\/RT-Blockworks_-USDT-has-launched-on-Polygon-its-now-available-on-11-blockchains",
+            "created_at": "2022-05-27T13:45:57Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@everexio",
+            "source": {
+                "title": "Everex Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@everexio"
+            },
+            "title": "The total #stablecoin supply exceeds $150 billion \n\nWe at Everex focus on building products in crypto payments, st\u2026",
+            "published_at": "2022-05-26T12:09:53Z",
+            "slug": "The-total-stablecoin-supply-exceeds-150-billion-We-at-Everex-focus-on-building-products-in-crypto-payments-st",
+            "currencies": [
+                {
+                    "code": "EVX",
+                    "title": "Everex",
+                    "slug": "everex",
+                    "url": "https:\/\/cryptopanic.com\/news\/everex\/"
+                }
+            ],
+            "id": 15322734,
+            "url": "https:\/\/cryptopanic.com\/news\/15322734\/The-total-stablecoin-supply-exceeds-150-billion-We-at-Everex-focus-on-building-products-in-crypto-payments-st",
+            "created_at": "2022-05-26T12:09:53Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

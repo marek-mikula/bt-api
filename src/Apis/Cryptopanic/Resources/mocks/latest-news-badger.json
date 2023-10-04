@@ -1,0 +1,953 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=BADGER&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "@BadgerDAO",
+            "source": {
+                "title": "Badger DAO Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@badgerdao"
+            },
+            "title": "RT @eBTCprotocol: Introducing \"The Stake Out\", a new event series discussing Staked ETH, #lstfi and so much more. \n\nThis weeks topic\ufe0fThe G\u2026",
+            "published_at": "2023-07-11T20:59:11Z",
+            "slug": "RT-eBTCprotocol-Introducing-The-Stake-Out-a-new-event-series-discussing-Staked-ETH-lstfi-and-so-much-more-This-weeks-topicThe-G",
+            "currencies": [
+                {
+                    "code": "BADGER",
+                    "title": "Badger DAO",
+                    "slug": "badger-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/badger-dao\/"
+                },
+                {
+                    "code": "DIGG",
+                    "title": "DIGG",
+                    "slug": "digg",
+                    "url": "https:\/\/cryptopanic.com\/news\/digg\/"
+                },
+                {
+                    "code": "IBBTC",
+                    "title": "Badger Interest Bearing Bitcoin",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18762820,
+            "url": "https:\/\/cryptopanic.com\/news\/18762820\/RT-eBTCprotocol-Introducing-The-Stake-Out-a-new-event-series-discussing-Staked-ETH-lstfi-and-so-much-more-This-weeks-topicThe-G",
+            "created_at": "2023-07-11T20:59:11Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@BadgerDAO",
+            "source": {
+                "title": "Badger DAO Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@badgerdao"
+            },
+            "title": "RT @eBTCprotocol: Introducing the 1 Click #Flippening strategy. \n\nA core use case of the eBTC protocol + you don\u2019t loose the opportunity co\u2026",
+            "published_at": "2023-07-11T17:06:14Z",
+            "slug": "RT-eBTCprotocol-Introducing-the-1-Click-Flippening-strategy-A-core-use-case-of-the-eBTC-protocol-you-dont-loose-the-opportunity-co",
+            "currencies": [
+                {
+                    "code": "BADGER",
+                    "title": "Badger DAO",
+                    "slug": "badger-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/badger-dao\/"
+                },
+                {
+                    "code": "DIGG",
+                    "title": "DIGG",
+                    "slug": "digg",
+                    "url": "https:\/\/cryptopanic.com\/news\/digg\/"
+                },
+                {
+                    "code": "IBBTC",
+                    "title": "Badger Interest Bearing Bitcoin",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18762821,
+            "url": "https:\/\/cryptopanic.com\/news\/18762821\/RT-eBTCprotocol-Introducing-the-1-Click-Flippening-strategy-A-core-use-case-of-the-eBTC-protocol-you-dont-loose-the-opportunity-co",
+            "created_at": "2023-07-11T17:06:14Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@BadgerDAO",
+            "source": {
+                "title": "Badger DAO Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@badgerdao"
+            },
+            "title": "RT @eBTCprotocol: eBTC dapp looking  \n\nCool feature. Based on the loan parameters selected it tells you what % of time you would of been s\u2026",
+            "published_at": "2023-07-11T13:28:01Z",
+            "slug": "RT-eBTCprotocol-eBTC-dapp-looking-Cool-feature-Based-on-the-loan-parameters-selected-it-tells-you-what-of-time-you-would-of-been-s",
+            "currencies": [
+                {
+                    "code": "BADGER",
+                    "title": "Badger DAO",
+                    "slug": "badger-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/badger-dao\/"
+                },
+                {
+                    "code": "DIGG",
+                    "title": "DIGG",
+                    "slug": "digg",
+                    "url": "https:\/\/cryptopanic.com\/news\/digg\/"
+                },
+                {
+                    "code": "IBBTC",
+                    "title": "Badger Interest Bearing Bitcoin",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18762822,
+            "url": "https:\/\/cryptopanic.com\/news\/18762822\/RT-eBTCprotocol-eBTC-dapp-looking-Cool-feature-Based-on-the-loan-parameters-selected-it-tells-you-what-of-time-you-would-of-been-s",
+            "created_at": "2023-07-11T13:28:01Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@BadgerDAO",
+            "source": {
+                "title": "Badger DAO Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@badgerdao"
+            },
+            "title": "Badgers never stop building",
+            "published_at": "2023-07-10T15:07:37Z",
+            "slug": "Badgers-never-stop-building",
+            "currencies": [
+                {
+                    "code": "BADGER",
+                    "title": "Badger DAO",
+                    "slug": "badger-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/badger-dao\/"
+                },
+                {
+                    "code": "DIGG",
+                    "title": "DIGG",
+                    "slug": "digg",
+                    "url": "https:\/\/cryptopanic.com\/news\/digg\/"
+                },
+                {
+                    "code": "IBBTC",
+                    "title": "Badger Interest Bearing Bitcoin",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18754639,
+            "url": "https:\/\/cryptopanic.com\/news\/18754639\/Badgers-never-stop-building",
+            "created_at": "2023-07-10T15:07:37Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@BadgerDAO",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "Badger DAO Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@badgerdao"
+            },
+            "title": "RT @eBTCprotocol: Open eBTC dapp \n \u2514deposit stETH \n   \u2514borrow eBTC\n     \u2514 trade the flippening\n        \u2514win?",
+            "published_at": "2023-07-07T01:48:29Z",
+            "slug": "RT-eBTCprotocol-Open-eBTC-dapp-deposit-stETH-borrow-eBTC-trade-the-flippening-win",
+            "currencies": [
+                {
+                    "code": "BADGER",
+                    "title": "Badger DAO",
+                    "slug": "badger-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/badger-dao\/"
+                },
+                {
+                    "code": "DIGG",
+                    "title": "DIGG",
+                    "slug": "digg",
+                    "url": "https:\/\/cryptopanic.com\/news\/digg\/"
+                },
+                {
+                    "code": "IBBTC",
+                    "title": "Badger Interest Bearing Bitcoin",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18731007,
+            "url": "https:\/\/cryptopanic.com\/news\/18731007\/RT-eBTCprotocol-Open-eBTC-dapp-deposit-stETH-borrow-eBTC-trade-the-flippening-win",
+            "created_at": "2023-07-07T01:48:29Z"
+        },
+        {
+            "kind": "news",
+            "domain": "@BadgerDAO",
+            "source": {
+                "title": "Badger DAO Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@badgerdao"
+            },
+            "title": "RT @eBTCprotocol: How does the eBTC Protocol Work?\n\n\ud83e\uddf5 1\/12",
+            "published_at": "2023-07-05T21:52:15Z",
+            "slug": "RT-eBTCprotocol-How-does-the-eBTC-Protocol-Work-112",
+            "currencies": [
+                {
+                    "code": "BADGER",
+                    "title": "Badger DAO",
+                    "slug": "badger-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/badger-dao\/"
+                },
+                {
+                    "code": "DIGG",
+                    "title": "DIGG",
+                    "slug": "digg",
+                    "url": "https:\/\/cryptopanic.com\/news\/digg\/"
+                },
+                {
+                    "code": "IBBTC",
+                    "title": "Badger Interest Bearing Bitcoin",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18722443,
+            "url": "https:\/\/cryptopanic.com\/news\/18722443\/RT-eBTCprotocol-How-does-the-eBTC-Protocol-Work-112",
+            "created_at": "2023-07-05T21:52:15Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@BadgerDAO",
+            "source": {
+                "title": "Badger DAO Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@badgerdao"
+            },
+            "title": "BIP 101 - Council Election has been posted to snapshot for voting.\n\nVote now",
+            "published_at": "2023-07-05T18:51:21Z",
+            "slug": "BIP-101-Council-Election-has-been-posted-to-snapshot-for-voting-Vote-now",
+            "currencies": [
+                {
+                    "code": "BADGER",
+                    "title": "Badger DAO",
+                    "slug": "badger-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/badger-dao\/"
+                },
+                {
+                    "code": "DIGG",
+                    "title": "DIGG",
+                    "slug": "digg",
+                    "url": "https:\/\/cryptopanic.com\/news\/digg\/"
+                },
+                {
+                    "code": "IBBTC",
+                    "title": "Badger Interest Bearing Bitcoin",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18722444,
+            "url": "https:\/\/cryptopanic.com\/news\/18722444\/BIP-101-Council-Election-has-been-posted-to-snapshot-for-voting-Vote-now",
+            "created_at": "2023-07-05T18:51:21Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@BadgerDAO",
+            "source": {
+                "title": "Badger DAO Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@badgerdao"
+            },
+            "title": "Introducing @eBTCprotocol built by BadgerDAO...\n\n#ETH #BTC",
+            "published_at": "2023-07-04T15:54:02Z",
+            "slug": "Introducing-eBTCprotocol-built-by-BadgerDAO-ETH-BTC",
+            "currencies": [
+                {
+                    "code": "BADGER",
+                    "title": "Badger DAO",
+                    "slug": "badger-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/badger-dao\/"
+                },
+                {
+                    "code": "DIGG",
+                    "title": "DIGG",
+                    "slug": "digg",
+                    "url": "https:\/\/cryptopanic.com\/news\/digg\/"
+                },
+                {
+                    "code": "IBBTC",
+                    "title": "Badger Interest Bearing Bitcoin",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18714871,
+            "url": "https:\/\/cryptopanic.com\/news\/18714871\/Introducing-eBTCprotocol-built-by-BadgerDAO-ETH-BTC",
+            "created_at": "2023-07-04T15:54:02Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@BadgerDAO",
+            "source": {
+                "title": "Badger DAO Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@badgerdao"
+            },
+            "title": "A proposal for the next Badger Council election has been posted to the forum for community feedback.\n\nJoin the conv\u2026",
+            "published_at": "2023-07-04T12:29:52Z",
+            "slug": "A-proposal-for-the-next-Badger-Council-election-has-been-posted-to-the-forum-for-community-feedback-Join-the-conv",
+            "currencies": [
+                {
+                    "code": "BADGER",
+                    "title": "Badger DAO",
+                    "slug": "badger-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/badger-dao\/"
+                },
+                {
+                    "code": "DIGG",
+                    "title": "DIGG",
+                    "slug": "digg",
+                    "url": "https:\/\/cryptopanic.com\/news\/digg\/"
+                },
+                {
+                    "code": "IBBTC",
+                    "title": "Badger Interest Bearing Bitcoin",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18714872,
+            "url": "https:\/\/cryptopanic.com\/news\/18714872\/A-proposal-for-the-next-Badger-Council-election-has-been-posted-to-the-forum-for-community-feedback-Join-the-conv",
+            "created_at": "2023-07-04T12:29:52Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@BadgerDAO",
+            "source": {
+                "title": "Badger DAO Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@badgerdao"
+            },
+            "title": "As per the transition plan, locking has been disabled for the following influence vaults although depositing will\u2026",
+            "published_at": "2023-06-22T13:53:21Z",
+            "slug": "As-per-the-transition-plan-locking-has-been-disabled-for-the-following-influence-vaults-although-depositing-will",
+            "currencies": [
+                {
+                    "code": "BADGER",
+                    "title": "Badger DAO",
+                    "slug": "badger-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/badger-dao\/"
+                },
+                {
+                    "code": "DIGG",
+                    "title": "DIGG",
+                    "slug": "digg",
+                    "url": "https:\/\/cryptopanic.com\/news\/digg\/"
+                },
+                {
+                    "code": "IBBTC",
+                    "title": "Badger Interest Bearing Bitcoin",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18635255,
+            "url": "https:\/\/cryptopanic.com\/news\/18635255\/As-per-the-transition-plan-locking-has-been-disabled-for-the-following-influence-vaults-although-depositing-will",
+            "created_at": "2023-06-22T13:53:21Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@BadgerDAO",
+            "source": {
+                "title": "Badger DAO Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@badgerdao"
+            },
+            "title": "Congrats @GalloDaSballo  \n\nBadger is proud to have top performers in security contributing to the safety of its ou\u2026",
+            "published_at": "2023-06-20T17:11:27Z",
+            "slug": "Congrats-GalloDaSballo-Badger-is-proud-to-have-top-performers-in-security-contributing-to-the-safety-of-its-ou",
+            "currencies": [
+                {
+                    "code": "BADGER",
+                    "title": "Badger DAO",
+                    "slug": "badger-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/badger-dao\/"
+                },
+                {
+                    "code": "DIGG",
+                    "title": "DIGG",
+                    "slug": "digg",
+                    "url": "https:\/\/cryptopanic.com\/news\/digg\/"
+                },
+                {
+                    "code": "IBBTC",
+                    "title": "Badger Interest Bearing Bitcoin",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18618644,
+            "url": "https:\/\/cryptopanic.com\/news\/18618644\/Congrats-GalloDaSballo-Badger-is-proud-to-have-top-performers-in-security-contributing-to-the-safety-of-its-ou",
+            "created_at": "2023-06-20T17:11:27Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@BadgerDAO",
+            "source": {
+                "title": "Badger DAO Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@badgerdao"
+            },
+            "title": "Badger continues to make significant strides toward a new state where principles of decentralization and censorship\u2026",
+            "published_at": "2023-06-20T14:29:36Z",
+            "slug": "Badger-continues-to-make-significant-strides-toward-a-new-state-where-principles-of-decentralization-and-censorship",
+            "currencies": [
+                {
+                    "code": "BADGER",
+                    "title": "Badger DAO",
+                    "slug": "badger-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/badger-dao\/"
+                },
+                {
+                    "code": "DIGG",
+                    "title": "DIGG",
+                    "slug": "digg",
+                    "url": "https:\/\/cryptopanic.com\/news\/digg\/"
+                },
+                {
+                    "code": "IBBTC",
+                    "title": "Badger Interest Bearing Bitcoin",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18618645,
+            "url": "https:\/\/cryptopanic.com\/news\/18618645\/Badger-continues-to-make-significant-strides-toward-a-new-state-where-principles-of-decentralization-and-censorship",
+            "created_at": "2023-06-20T14:29:36Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@BadgerDAO",
+            "source": {
+                "title": "Badger DAO Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@badgerdao"
+            },
+            "title": "A Badger, a Bera and a Frax Bull walk into a bar\u2026\n\nWanna know what happens next?\n\nRegister now \u2026",
+            "published_at": "2023-06-19T22:58:24Z",
+            "slug": "A-Badger-a-Bera-and-a-Frax-Bull-walk-into-a-bar-Wanna-know-what-happens-next-Register-now",
+            "currencies": [
+                {
+                    "code": "BADGER",
+                    "title": "Badger DAO",
+                    "slug": "badger-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/badger-dao\/"
+                },
+                {
+                    "code": "DIGG",
+                    "title": "DIGG",
+                    "slug": "digg",
+                    "url": "https:\/\/cryptopanic.com\/news\/digg\/"
+                },
+                {
+                    "code": "IBBTC",
+                    "title": "Badger Interest Bearing Bitcoin",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "FRAX",
+                    "title": "Frax",
+                    "slug": "frax",
+                    "url": "https:\/\/cryptopanic.com\/news\/frax\/"
+                }
+            ],
+            "id": 18610635,
+            "url": "https:\/\/cryptopanic.com\/news\/18610635\/A-Badger-a-Bera-and-a-Frax-Bull-walk-into-a-bar-Wanna-know-what-happens-next-Register-now",
+            "created_at": "2023-06-19T22:58:24Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@BadgerDAO",
+            "source": {
+                "title": "Badger DAO Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@badgerdao"
+            },
+            "title": "RT @berachain: Join us for an EthGlobal Waterloo Happy Hour featuring:\n\nOur friends from @BadgerDAO, @code4rena, @fraxfinance, @FlywheelDeF\u2026",
+            "published_at": "2023-06-19T22:51:05Z",
+            "slug": "RT-berachain-Join-us-for-an-EthGlobal-Waterloo-Happy-Hour-featuring-Our-friends-from-BadgerDAO-code4rena-fraxfinance-FlywheelDeF",
+            "currencies": [
+                {
+                    "code": "BADGER",
+                    "title": "Badger DAO",
+                    "slug": "badger-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/badger-dao\/"
+                },
+                {
+                    "code": "DIGG",
+                    "title": "DIGG",
+                    "slug": "digg",
+                    "url": "https:\/\/cryptopanic.com\/news\/digg\/"
+                },
+                {
+                    "code": "IBBTC",
+                    "title": "Badger Interest Bearing Bitcoin",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18610636,
+            "url": "https:\/\/cryptopanic.com\/news\/18610636\/RT-berachain-Join-us-for-an-EthGlobal-Waterloo-Happy-Hour-featuring-Our-friends-from-BadgerDAO-code4rena-fraxfinance-FlywheelDeF",
+            "created_at": "2023-06-19T22:51:05Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@BadgerDAO",
+            "source": {
+                "title": "Badger DAO Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@badgerdao"
+            },
+            "title": "The BIP 100 snapshot is being re-run due to issues with voting strategies that made some users unable to vote. \n\nA\u2026",
+            "published_at": "2023-06-15T13:22:50Z",
+            "slug": "The-BIP-100-snapshot-is-being-re-run-due-to-issues-with-voting-strategies-that-made-some-users-unable-to-vote-A",
+            "currencies": [
+                {
+                    "code": "BADGER",
+                    "title": "Badger DAO",
+                    "slug": "badger-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/badger-dao\/"
+                },
+                {
+                    "code": "DIGG",
+                    "title": "DIGG",
+                    "slug": "digg",
+                    "url": "https:\/\/cryptopanic.com\/news\/digg\/"
+                },
+                {
+                    "code": "IBBTC",
+                    "title": "Badger Interest Bearing Bitcoin",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18585414,
+            "url": "https:\/\/cryptopanic.com\/news\/18585414\/The-BIP-100-snapshot-is-being-re-run-due-to-issues-with-voting-strategies-that-made-some-users-unable-to-vote-A",
+            "created_at": "2023-06-15T13:22:50Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@BadgerDAO",
+            "source": {
+                "title": "Badger DAO Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@badgerdao"
+            },
+            "title": "As per the Vault Discontinuation Policy, the following vaults have been discontinued.\n\n\ufe0fBADGER\/wBTC (Aura)\n\ufe0fBADGE\u2026",
+            "published_at": "2023-06-14T13:52:41Z",
+            "slug": "As-per-the-Vault-Discontinuation-Policy-the-following-vaults-have-been-discontinued-BADGERwBTC-Aura-BADGE",
+            "currencies": [
+                {
+                    "code": "BADGER",
+                    "title": "Badger DAO",
+                    "slug": "badger-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/badger-dao\/"
+                },
+                {
+                    "code": "DIGG",
+                    "title": "DIGG",
+                    "slug": "digg",
+                    "url": "https:\/\/cryptopanic.com\/news\/digg\/"
+                },
+                {
+                    "code": "IBBTC",
+                    "title": "Badger Interest Bearing Bitcoin",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18577560,
+            "url": "https:\/\/cryptopanic.com\/news\/18577560\/As-per-the-Vault-Discontinuation-Policy-the-following-vaults-have-been-discontinued-BADGERwBTC-Aura-BADGE",
+            "created_at": "2023-06-14T13:52:41Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@BadgerDAO",
+            "source": {
+                "title": "Badger DAO Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@badgerdao"
+            },
+            "title": "RT @PatrickAlphaC: A massive thank you to the @BadgerDAO protocol for their donation to the Foundry 27-hour ultimate course!\n\nTheir commitm\u2026",
+            "published_at": "2023-06-13T18:55:54Z",
+            "slug": "RT-PatrickAlphaC-A-massive-thank-you-to-the-BadgerDAO-protocol-for-their-donation-to-the-Foundry-27-hour-ultimate-course-Their-commitm",
+            "currencies": [
+                {
+                    "code": "BADGER",
+                    "title": "Badger DAO",
+                    "slug": "badger-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/badger-dao\/"
+                },
+                {
+                    "code": "DIGG",
+                    "title": "DIGG",
+                    "slug": "digg",
+                    "url": "https:\/\/cryptopanic.com\/news\/digg\/"
+                },
+                {
+                    "code": "IBBTC",
+                    "title": "Badger Interest Bearing Bitcoin",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18569101,
+            "url": "https:\/\/cryptopanic.com\/news\/18569101\/RT-PatrickAlphaC-A-massive-thank-you-to-the-BadgerDAO-protocol-for-their-donation-to-the-Foundry-27-hour-ultimate-course-Their-commitm",
+            "created_at": "2023-06-13T18:55:54Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@BadgerDAO",
+            "source": {
+                "title": "Badger DAO Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@badgerdao"
+            },
+            "title": "BIP 100 - Allocation of Unclaimed ibBTC Rewards, has been moved to snapshot for voting.\n\n",
+            "published_at": "2023-06-08T12:54:41Z",
+            "slug": "BIP-100-Allocation-of-Unclaimed-ibBTC-Rewards-has-been-moved-to-snapshot-for-voting",
+            "currencies": [
+                {
+                    "code": "BADGER",
+                    "title": "Badger DAO",
+                    "slug": "badger-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/badger-dao\/"
+                },
+                {
+                    "code": "DIGG",
+                    "title": "DIGG",
+                    "slug": "digg",
+                    "url": "https:\/\/cryptopanic.com\/news\/digg\/"
+                },
+                {
+                    "code": "IBBTC",
+                    "title": "Badger Interest Bearing Bitcoin",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18535373,
+            "url": "https:\/\/cryptopanic.com\/news\/18535373\/BIP-100-Allocation-of-Unclaimed-ibBTC-Rewards-has-been-moved-to-snapshot-for-voting",
+            "created_at": "2023-06-08T12:54:41Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@BadgerDAO",
+            "source": {
+                "title": "Badger DAO Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@badgerdao"
+            },
+            "title": "RT @sajrajdev: 1\/ The foundation of DeFi lies in CDP protocols &amp; Money Markets.\n\nCurious of how they ensure their solvency?\n\nLet's look int\u2026",
+            "published_at": "2023-06-07T14:43:05Z",
+            "slug": "RT-sajrajdev-1-The-foundation-of-DeFi-lies-in-CDP-protocols-amp-Money-Markets-Curious-of-how-they-ensure-their-solvency-Lets-look-int",
+            "currencies": [
+                {
+                    "code": "BADGER",
+                    "title": "Badger DAO",
+                    "slug": "badger-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/badger-dao\/"
+                },
+                {
+                    "code": "DIGG",
+                    "title": "DIGG",
+                    "slug": "digg",
+                    "url": "https:\/\/cryptopanic.com\/news\/digg\/"
+                },
+                {
+                    "code": "IBBTC",
+                    "title": "Badger Interest Bearing Bitcoin",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18526755,
+            "url": "https:\/\/cryptopanic.com\/news\/18526755\/RT-sajrajdev-1-The-foundation-of-DeFi-lies-in-CDP-protocols-amp-Money-Markets-Curious-of-how-they-ensure-their-solvency-Lets-look-int",
+            "created_at": "2023-06-07T14:43:05Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@BadgerDAO",
+            "source": {
+                "title": "Badger DAO Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@badgerdao"
+            },
+            "title": "Next up in the EBTC Builder Series - Liquidations and Bad Debt Handling. @sajrajdev looks at how top protocols mana\u2026",
+            "published_at": "2023-06-06T18:00:36Z",
+            "slug": "Next-up-in-the-EBTC-Builder-Series-Liquidations-and-Bad-Debt-Handling-sajrajdev-looks-at-how-top-protocols-mana",
+            "currencies": [
+                {
+                    "code": "BADGER",
+                    "title": "Badger DAO",
+                    "slug": "badger-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/badger-dao\/"
+                },
+                {
+                    "code": "DIGG",
+                    "title": "DIGG",
+                    "slug": "digg",
+                    "url": "https:\/\/cryptopanic.com\/news\/digg\/"
+                },
+                {
+                    "code": "IBBTC",
+                    "title": "Badger Interest Bearing Bitcoin",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18518189,
+            "url": "https:\/\/cryptopanic.com\/news\/18518189\/Next-up-in-the-EBTC-Builder-Series-Liquidations-and-Bad-Debt-Handling-sajrajdev-looks-at-how-top-protocols-mana",
+            "created_at": "2023-06-06T18:00:36Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

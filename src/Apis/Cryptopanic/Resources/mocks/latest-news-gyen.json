@@ -1,0 +1,845 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=GYEN&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "@GMOTrust",
+            "source": {
+                "title": "GYEN Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gmotrust"
+            },
+            "title": "Learn about ZUSD in our latest blog post! \nDiscover its impressive features, seamless trading experience, and exci\u2026",
+            "published_at": "2023-06-24T11:37:04Z",
+            "slug": "Learn-about-ZUSD-in-our-latest-blog-post-Discover-its-impressive-features-seamless-trading-experience-and-exci",
+            "currencies": [
+                {
+                    "code": "GYEN",
+                    "title": "GYEN",
+                    "slug": "gyen",
+                    "url": "https:\/\/cryptopanic.com\/news\/gyen\/"
+                },
+                {
+                    "code": "ZUSD",
+                    "title": "ZUSD",
+                    "slug": "zusd",
+                    "url": "https:\/\/cryptopanic.com\/news\/zusd\/"
+                }
+            ],
+            "id": 18650142,
+            "url": "https:\/\/cryptopanic.com\/news\/18650142\/Learn-about-ZUSD-in-our-latest-blog-post-Discover-its-impressive-features-seamless-trading-experience-and-exci",
+            "created_at": "2023-06-24T11:37:04Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GMOTrust",
+            "source": {
+                "title": "GYEN Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gmotrust"
+            },
+            "title": "Dive deep into the USD\/JPY upsurge with our monthly forex analysis. \nUnderstand the market dynamics and gain insigh\u2026",
+            "published_at": "2023-06-23T14:29:14Z",
+            "slug": "Dive-deep-into-the-USDJPY-upsurge-with-our-monthly-forex-analysis-Understand-the-market-dynamics-and-gain-insigh",
+            "currencies": [
+                {
+                    "code": "GYEN",
+                    "title": "GYEN",
+                    "slug": "gyen",
+                    "url": "https:\/\/cryptopanic.com\/news\/gyen\/"
+                },
+                {
+                    "code": "ZUSD",
+                    "title": "ZUSD",
+                    "slug": "zusd",
+                    "url": "https:\/\/cryptopanic.com\/news\/zusd\/"
+                }
+            ],
+            "id": 18644604,
+            "url": "https:\/\/cryptopanic.com\/news\/18644604\/Dive-deep-into-the-USDJPY-upsurge-with-our-monthly-forex-analysis-Understand-the-market-dynamics-and-gain-insigh",
+            "created_at": "2023-06-23T14:29:14Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GMOTrust",
+            "source": {
+                "title": "GYEN Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gmotrust"
+            },
+            "title": " Don't miss out on the rewards awaiting you! Complete tasks, hold ZUSD, and enter the lucky draw for a shot at the\u2026",
+            "published_at": "2023-06-22T02:19:44Z",
+            "slug": "Dont-miss-out-on-the-rewards-awaiting-you-Complete-tasks-hold-ZUSD-and-enter-the-lucky-draw-for-a-shot-at-the",
+            "currencies": [
+                {
+                    "code": "GYEN",
+                    "title": "GYEN",
+                    "slug": "gyen",
+                    "url": "https:\/\/cryptopanic.com\/news\/gyen\/"
+                },
+                {
+                    "code": "ZUSD",
+                    "title": "ZUSD",
+                    "slug": "zusd",
+                    "url": "https:\/\/cryptopanic.com\/news\/zusd\/"
+                }
+            ],
+            "id": 18628345,
+            "url": "https:\/\/cryptopanic.com\/news\/18628345\/Dont-miss-out-on-the-rewards-awaiting-you-Complete-tasks-hold-ZUSD-and-enter-the-lucky-draw-for-a-shot-at-the",
+            "created_at": "2023-06-22T02:19:44Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GMOTrust",
+            "source": {
+                "title": "GYEN Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gmotrust"
+            },
+            "title": "New on our blog: Convex Finance and the role of stablecoins in the game of elevating yield returns. Check it out no\u2026",
+            "published_at": "2023-06-21T11:05:45Z",
+            "slug": "New-on-our-blog-Convex-Finance-and-the-role-of-stablecoins-in-the-game-of-elevating-yield-returns-Check-it-out-no",
+            "currencies": [
+                {
+                    "code": "GYEN",
+                    "title": "GYEN",
+                    "slug": "gyen",
+                    "url": "https:\/\/cryptopanic.com\/news\/gyen\/"
+                },
+                {
+                    "code": "ZUSD",
+                    "title": "ZUSD",
+                    "slug": "zusd",
+                    "url": "https:\/\/cryptopanic.com\/news\/zusd\/"
+                }
+            ],
+            "id": 18628346,
+            "url": "https:\/\/cryptopanic.com\/news\/18628346\/New-on-our-blog-Convex-Finance-and-the-role-of-stablecoins-in-the-game-of-elevating-yield-returns-Check-it-out-no",
+            "created_at": "2023-06-21T11:05:45Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GMOTrust",
+            "source": {
+                "title": "GYEN Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gmotrust"
+            },
+            "title": " Join our campaign for a chance to win 500 ZUSD! \n\nFollow @GMOTrust &amp; Retweet this post\nAnswer a question &amp; Ow\u2026",
+            "published_at": "2023-06-14T12:16:47Z",
+            "slug": "Join-our-campaign-for-a-chance-to-win-500-ZUSD-Follow-GMOTrust-amp-Retweet-this-post-Answer-a-question-amp-Ow",
+            "currencies": [
+                {
+                    "code": "GYEN",
+                    "title": "GYEN",
+                    "slug": "gyen",
+                    "url": "https:\/\/cryptopanic.com\/news\/gyen\/"
+                },
+                {
+                    "code": "ZUSD",
+                    "title": "ZUSD",
+                    "slug": "zusd",
+                    "url": "https:\/\/cryptopanic.com\/news\/zusd\/"
+                }
+            ],
+            "id": 18579350,
+            "url": "https:\/\/cryptopanic.com\/news\/18579350\/Join-our-campaign-for-a-chance-to-win-500-ZUSD-Follow-GMOTrust-amp-Retweet-this-post-Answer-a-question-amp-Ow",
+            "created_at": "2023-06-14T12:16:47Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GMOTrust",
+            "source": {
+                "title": "GYEN Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gmotrust"
+            },
+            "title": "Our latest article dives into Curve Finance, the DEX for stablecoin trading. Learn how it facilitates seamless tran\u2026",
+            "published_at": "2023-05-24T08:02:01Z",
+            "slug": "Our-latest-article-dives-into-Curve-Finance-the-DEX-for-stablecoin-trading-Learn-how-it-facilitates-seamless-tran",
+            "currencies": [
+                {
+                    "code": "GYEN",
+                    "title": "GYEN",
+                    "slug": "gyen",
+                    "url": "https:\/\/cryptopanic.com\/news\/gyen\/"
+                },
+                {
+                    "code": "ZUSD",
+                    "title": "ZUSD",
+                    "slug": "zusd",
+                    "url": "https:\/\/cryptopanic.com\/news\/zusd\/"
+                }
+            ],
+            "id": 18424117,
+            "url": "https:\/\/cryptopanic.com\/news\/18424117\/Our-latest-article-dives-into-Curve-Finance-the-DEX-for-stablecoin-trading-Learn-how-it-facilitates-seamless-tran",
+            "created_at": "2023-05-24T08:02:01Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GMOTrust",
+            "source": {
+                "title": "GYEN Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gmotrust"
+            },
+            "title": "Check out our latest article on the USD\/JPY market analysis! We dive into economic factors, future outlook, and the\u2026",
+            "published_at": "2023-05-23T00:17:41Z",
+            "slug": "Check-out-our-latest-article-on-the-USDJPY-market-analysis-We-dive-into-economic-factors-future-outlook-and-the",
+            "currencies": [
+                {
+                    "code": "GYEN",
+                    "title": "GYEN",
+                    "slug": "gyen",
+                    "url": "https:\/\/cryptopanic.com\/news\/gyen\/"
+                },
+                {
+                    "code": "ZUSD",
+                    "title": "ZUSD",
+                    "slug": "zusd",
+                    "url": "https:\/\/cryptopanic.com\/news\/zusd\/"
+                }
+            ],
+            "id": 18405052,
+            "url": "https:\/\/cryptopanic.com\/news\/18405052\/Check-out-our-latest-article-on-the-USDJPY-market-analysis-We-dive-into-economic-factors-future-outlook-and-the",
+            "created_at": "2023-05-23T00:17:41Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GMOTrust",
+            "source": {
+                "title": "GYEN Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gmotrust"
+            },
+            "title": "Check out our latest blog post on the Layer 2 market, with Arbitrum leading the way, growing interests in ZK rollup\u2026",
+            "published_at": "2023-05-02T01:50:05Z",
+            "slug": "Check-out-our-latest-blog-post-on-the-Layer-2-market-with-Arbitrum-leading-the-way-growing-interests-in-ZK-rollup",
+            "currencies": [
+                {
+                    "code": "GYEN",
+                    "title": "GYEN",
+                    "slug": "gyen",
+                    "url": "https:\/\/cryptopanic.com\/news\/gyen\/"
+                },
+                {
+                    "code": "ZUSD",
+                    "title": "ZUSD",
+                    "slug": "zusd",
+                    "url": "https:\/\/cryptopanic.com\/news\/zusd\/"
+                },
+                {
+                    "code": "ARB",
+                    "title": "Arbitrum",
+                    "slug": "arbitrum",
+                    "url": "https:\/\/cryptopanic.com\/news\/arbitrum\/"
+                }
+            ],
+            "id": 18241397,
+            "url": "https:\/\/cryptopanic.com\/news\/18241397\/Check-out-our-latest-blog-post-on-the-Layer-2-market-with-Arbitrum-leading-the-way-growing-interests-in-ZK-rollup",
+            "created_at": "2023-05-02T01:50:05Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GMOTrust",
+            "source": {
+                "title": "GYEN Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gmotrust"
+            },
+            "title": "Explore the Stellar Network with @StellarTerm, now supporting $GYEN and $ZUSD!\nLearn more in our new blog post:\u2026",
+            "published_at": "2023-04-21T12:04:10Z",
+            "slug": "Explore-the-Stellar-Network-with-StellarTerm-now-supporting-GYEN-and-ZUSD-Learn-more-in-our-new-blog-post",
+            "currencies": [
+                {
+                    "code": "GYEN",
+                    "title": "GYEN",
+                    "slug": "gyen",
+                    "url": "https:\/\/cryptopanic.com\/news\/gyen\/"
+                },
+                {
+                    "code": "ZUSD",
+                    "title": "ZUSD",
+                    "slug": "zusd",
+                    "url": "https:\/\/cryptopanic.com\/news\/zusd\/"
+                },
+                {
+                    "code": "XLM",
+                    "title": "Stellar",
+                    "slug": "stellar",
+                    "url": "https:\/\/cryptopanic.com\/news\/stellar\/"
+                }
+            ],
+            "id": 18169481,
+            "url": "https:\/\/cryptopanic.com\/news\/18169481\/Explore-the-Stellar-Network-with-StellarTerm-now-supporting-GYEN-and-ZUSD-Learn-more-in-our-new-blog-post",
+            "created_at": "2023-04-21T12:04:10Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GMOTrust",
+            "source": {
+                "title": "GYEN Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gmotrust"
+            },
+            "title": "What's next for #USDJPY? Our market analysis article dives into the latest developments and what to look for, inclu\u2026",
+            "published_at": "2023-04-19T01:03:17Z",
+            "slug": "Whats-next-for-USDJPY-Our-market-analysis-article-dives-into-the-latest-developments-and-what-to-look-for-inclu",
+            "currencies": [
+                {
+                    "code": "GYEN",
+                    "title": "GYEN",
+                    "slug": "gyen",
+                    "url": "https:\/\/cryptopanic.com\/news\/gyen\/"
+                },
+                {
+                    "code": "ZUSD",
+                    "title": "ZUSD",
+                    "slug": "zusd",
+                    "url": "https:\/\/cryptopanic.com\/news\/zusd\/"
+                }
+            ],
+            "id": 18142648,
+            "url": "https:\/\/cryptopanic.com\/news\/18142648\/Whats-next-for-USDJPY-Our-market-analysis-article-dives-into-the-latest-developments-and-what-to-look-for-inclu",
+            "created_at": "2023-04-19T01:03:17Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GMOTrust",
+            "source": {
+                "title": "GYEN Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gmotrust"
+            },
+            "title": "Service Resume After Ethereum's Shanghai Hard Fork\n\nOur services are resumed. Purchase and redemption requests can\u2026",
+            "published_at": "2023-04-14T01:48:12Z",
+            "slug": "Service-Resume-After-Ethereums-Shanghai-Hard-Fork-Our-services-are-resumed-Purchase-and-redemption-requests-can",
+            "currencies": [
+                {
+                    "code": "GYEN",
+                    "title": "GYEN",
+                    "slug": "gyen",
+                    "url": "https:\/\/cryptopanic.com\/news\/gyen\/"
+                },
+                {
+                    "code": "ZUSD",
+                    "title": "ZUSD",
+                    "slug": "zusd",
+                    "url": "https:\/\/cryptopanic.com\/news\/zusd\/"
+                }
+            ],
+            "id": 18107784,
+            "url": "https:\/\/cryptopanic.com\/news\/18107784\/Service-Resume-After-Ethereums-Shanghai-Hard-Fork-Our-services-are-resumed-Purchase-and-redemption-requests-can",
+            "created_at": "2023-04-14T01:48:12Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GMOTrust",
+            "source": {
+                "title": "GYEN Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gmotrust"
+            },
+            "title": "Service Maintenance Notice\n\nWe'll implement service maintenance during the Ethereum Shanghai hard fork.\n\nService re\u2026",
+            "published_at": "2023-04-12T03:30:00Z",
+            "slug": "Service-Maintenance-Notice-Well-implement-service-maintenance-during-the-Ethereum-Shanghai-hard-fork-Service-re",
+            "currencies": [
+                {
+                    "code": "GYEN",
+                    "title": "GYEN",
+                    "slug": "gyen",
+                    "url": "https:\/\/cryptopanic.com\/news\/gyen\/"
+                },
+                {
+                    "code": "ZUSD",
+                    "title": "ZUSD",
+                    "slug": "zusd",
+                    "url": "https:\/\/cryptopanic.com\/news\/zusd\/"
+                }
+            ],
+            "id": 18089849,
+            "url": "https:\/\/cryptopanic.com\/news\/18089849\/Service-Maintenance-Notice-Well-implement-service-maintenance-during-the-Ethereum-Shanghai-hard-fork-Service-re",
+            "created_at": "2023-04-12T03:30:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GMOTrust",
+            "source": {
+                "title": "GYEN Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gmotrust"
+            },
+            "title": "We just published a new blog post about the fast-growing Layer 2 solution #zkSync. Discover how zkSync is addressin\u2026",
+            "published_at": "2023-04-11T02:03:11Z",
+            "slug": "We-just-published-a-new-blog-post-about-the-fast-growing-Layer-2-solution-zkSync-Discover-how-zkSync-is-addressin",
+            "currencies": [
+                {
+                    "code": "GYEN",
+                    "title": "GYEN",
+                    "slug": "gyen",
+                    "url": "https:\/\/cryptopanic.com\/news\/gyen\/"
+                },
+                {
+                    "code": "ZUSD",
+                    "title": "ZUSD",
+                    "slug": "zusd",
+                    "url": "https:\/\/cryptopanic.com\/news\/zusd\/"
+                }
+            ],
+            "id": 18081242,
+            "url": "https:\/\/cryptopanic.com\/news\/18081242\/We-just-published-a-new-blog-post-about-the-fast-growing-Layer-2-solution-zkSync-Discover-how-zkSync-is-addressin",
+            "created_at": "2023-04-11T02:03:11Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GMOTrust",
+            "source": {
+                "title": "GYEN Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gmotrust"
+            },
+            "title": "Our JPY stablecoin $GYEN is now listed on @MercadoBitcoin. \nTraders can now enjoy greater flexibility in managing\u2026",
+            "published_at": "2023-03-31T13:13:17Z",
+            "slug": "Our-JPY-stablecoin-GYEN-is-now-listed-on-MercadoBitcoin-Traders-can-now-enjoy-greater-flexibility-in-managing",
+            "currencies": [
+                {
+                    "code": "GYEN",
+                    "title": "GYEN",
+                    "slug": "gyen",
+                    "url": "https:\/\/cryptopanic.com\/news\/gyen\/"
+                },
+                {
+                    "code": "ZUSD",
+                    "title": "ZUSD",
+                    "slug": "zusd",
+                    "url": "https:\/\/cryptopanic.com\/news\/zusd\/"
+                }
+            ],
+            "id": 18013000,
+            "url": "https:\/\/cryptopanic.com\/news\/18013000\/Our-JPY-stablecoin-GYEN-is-now-listed-on-MercadoBitcoin-Traders-can-now-enjoy-greater-flexibility-in-managing",
+            "created_at": "2023-03-31T13:13:17Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GMOTrust",
+            "source": {
+                "title": "GYEN Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gmotrust"
+            },
+            "title": "RT @StellarOrg: Day 2 of @ParisBlockWeek Summit kicks off with a conversation about crypto and enterprise payments with @louisabai @rangol\u2026",
+            "published_at": "2023-03-28T01:11:51Z",
+            "slug": "RT-StellarOrg-Day-2-of-ParisBlockWeek-Summit-kicks-off-with-a-conversation-about-crypto-and-enterprise-payments-with-louisabai-rangol",
+            "currencies": [
+                {
+                    "code": "GYEN",
+                    "title": "GYEN",
+                    "slug": "gyen",
+                    "url": "https:\/\/cryptopanic.com\/news\/gyen\/"
+                },
+                {
+                    "code": "ZUSD",
+                    "title": "ZUSD",
+                    "slug": "zusd",
+                    "url": "https:\/\/cryptopanic.com\/news\/zusd\/"
+                }
+            ],
+            "id": 17978200,
+            "url": "https:\/\/cryptopanic.com\/news\/17978200\/RT-StellarOrg-Day-2-of-ParisBlockWeek-Summit-kicks-off-with-a-conversation-about-crypto-and-enterprise-payments-with-louisabai-rangol",
+            "created_at": "2023-03-28T01:11:51Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GMOTrust",
+            "source": {
+                "title": "GYEN Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gmotrust"
+            },
+            "title": "RT @markheynen: @rangoldi from @FireblocksHQ on stage at #PBW2023 now with @louisabai from @StellarOrg, @GMOTrust and PayU; \u201cI respect you\u2026",
+            "published_at": "2023-03-23T09:27:07Z",
+            "slug": "RT-markheynen-rangoldi-from-FireblocksHQ-on-stage-at-PBW2023-now-with-louisabai-from-StellarOrg-GMOTrust-and-PayU-I-respect-you",
+            "currencies": [
+                {
+                    "code": "GYEN",
+                    "title": "GYEN",
+                    "slug": "gyen",
+                    "url": "https:\/\/cryptopanic.com\/news\/gyen\/"
+                },
+                {
+                    "code": "ZUSD",
+                    "title": "ZUSD",
+                    "slug": "zusd",
+                    "url": "https:\/\/cryptopanic.com\/news\/zusd\/"
+                }
+            ],
+            "id": 17951913,
+            "url": "https:\/\/cryptopanic.com\/news\/17951913\/RT-markheynen-rangoldi-from-FireblocksHQ-on-stage-at-PBW2023-now-with-louisabai-from-StellarOrg-GMOTrust-and-PayU-I-respect-you",
+            "created_at": "2023-03-23T09:27:07Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GMOTrust",
+            "source": {
+                "title": "GYEN Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gmotrust"
+            },
+            "title": "Join us tomorrow 10AM at the Mona Lisa Stage at @ParisBlockWeek!\n\n #PBW2023 #Crypto #Payments",
+            "published_at": "2023-03-22T10:46:13Z",
+            "slug": "Join-us-tomorrow-10AM-at-the-Mona-Lisa-Stage-at-ParisBlockWeek-PBW2023-Crypto-Payments",
+            "currencies": [
+                {
+                    "code": "GYEN",
+                    "title": "GYEN",
+                    "slug": "gyen",
+                    "url": "https:\/\/cryptopanic.com\/news\/gyen\/"
+                },
+                {
+                    "code": "ZUSD",
+                    "title": "ZUSD",
+                    "slug": "zusd",
+                    "url": "https:\/\/cryptopanic.com\/news\/zusd\/"
+                }
+            ],
+            "id": 17942699,
+            "url": "https:\/\/cryptopanic.com\/news\/17942699\/Join-us-tomorrow-10AM-at-the-Mona-Lisa-Stage-at-ParisBlockWeek-PBW2023-Crypto-Payments",
+            "created_at": "2023-03-22T10:46:13Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GMOTrust",
+            "source": {
+                "title": "GYEN Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gmotrust"
+            },
+            "title": "Understanding the recent economic impacts on currency pairs is crucial for successful trading. \n\nOur blog post cove\u2026",
+            "published_at": "2023-03-22T09:16:32Z",
+            "slug": "Understanding-the-recent-economic-impacts-on-currency-pairs-is-crucial-for-successful-trading-Our-blog-post-cove",
+            "currencies": [
+                {
+                    "code": "GYEN",
+                    "title": "GYEN",
+                    "slug": "gyen",
+                    "url": "https:\/\/cryptopanic.com\/news\/gyen\/"
+                },
+                {
+                    "code": "ZUSD",
+                    "title": "ZUSD",
+                    "slug": "zusd",
+                    "url": "https:\/\/cryptopanic.com\/news\/zusd\/"
+                }
+            ],
+            "id": 17942700,
+            "url": "https:\/\/cryptopanic.com\/news\/17942700\/Understanding-the-recent-economic-impacts-on-currency-pairs-is-crucial-for-successful-trading-Our-blog-post-cove",
+            "created_at": "2023-03-22T09:16:32Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GMOTrust",
+            "source": {
+                "title": "GYEN Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gmotrust"
+            },
+            "title": "Thank you to all who joined the Quest with #GYEN on #Layer3 !\n\nDon't miss out on exploring GYEN on Arbitrum for a p\u2026",
+            "published_at": "2023-03-22T08:03:04Z",
+            "slug": "Thank-you-to-all-who-joined-the-Quest-with-GYEN-on-Layer3-Dont-miss-out-on-exploring-GYEN-on-Arbitrum-for-a-p",
+            "currencies": [
+                {
+                    "code": "GYEN",
+                    "title": "GYEN",
+                    "slug": "gyen",
+                    "url": "https:\/\/cryptopanic.com\/news\/gyen\/"
+                },
+                {
+                    "code": "ZUSD",
+                    "title": "ZUSD",
+                    "slug": "zusd",
+                    "url": "https:\/\/cryptopanic.com\/news\/zusd\/"
+                },
+                {
+                    "code": "ARB",
+                    "title": "Arbitrum",
+                    "slug": "arbitrum",
+                    "url": "https:\/\/cryptopanic.com\/news\/arbitrum\/"
+                }
+            ],
+            "id": 17942701,
+            "url": "https:\/\/cryptopanic.com\/news\/17942701\/Thank-you-to-all-who-joined-the-Quest-with-GYEN-on-Layer3-Dont-miss-out-on-exploring-GYEN-on-Arbitrum-for-a-p",
+            "created_at": "2023-03-22T08:03:04Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GMOTrust",
+            "source": {
+                "title": "GYEN Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gmotrust"
+            },
+            "title": "Join GYEN Quest on Layer3 now, ending soon!\n\n\n#Layer3 #Arbitrum #DeFi",
+            "published_at": "2023-03-17T12:12:54Z",
+            "slug": "Join-GYEN-Quest-on-Layer3-now-ending-soon-Layer3-Arbitrum-DeFi",
+            "currencies": [
+                {
+                    "code": "GYEN",
+                    "title": "GYEN",
+                    "slug": "gyen",
+                    "url": "https:\/\/cryptopanic.com\/news\/gyen\/"
+                },
+                {
+                    "code": "ZUSD",
+                    "title": "ZUSD",
+                    "slug": "zusd",
+                    "url": "https:\/\/cryptopanic.com\/news\/zusd\/"
+                }
+            ],
+            "id": 17907196,
+            "url": "https:\/\/cryptopanic.com\/news\/17907196\/Join-GYEN-Quest-on-Layer3-now-ending-soon-Layer3-Arbitrum-DeFi",
+            "created_at": "2023-03-17T12:12:54Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

@@ -1,0 +1,719 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=FTT&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "Sam Bankman-Fried\u2019s defense seeks to block Ukrainian witness testimony",
+            "published_at": "2023-10-03T11:00:15Z",
+            "slug": "Sam-Bankman-Frieds-defense-seeks-to-block-Ukrainian-witness-testimony",
+            "currencies": [
+                {
+                    "code": "FTT",
+                    "title": "FTX",
+                    "slug": "ftx-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/ftx-token\/"
+                }
+            ],
+            "id": 18944251,
+            "url": "https:\/\/cryptopanic.com\/news\/18944251\/Sam-Bankman-Frieds-defense-seeks-to-block-Ukrainian-witness-testimony",
+            "created_at": "2023-10-03T11:00:15Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptoslate.com",
+            "source": {
+                "title": "CryptoSlate",
+                "region": "en",
+                "domain": "cryptoslate.com",
+                "path": null
+            },
+            "title": "Ex-SEC official predicts downfall of FTX\u2019s former CEO SBF in high-stakes trial",
+            "published_at": "2023-10-03T10:50:46Z",
+            "slug": "Ex-SEC-official-predicts-downfall-of-FTXs-former-CEO-SBF-in-high-stakes-trial",
+            "currencies": [
+                {
+                    "code": "FTT",
+                    "title": "FTX",
+                    "slug": "ftx-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/ftx-token\/"
+                }
+            ],
+            "id": 18944217,
+            "url": "https:\/\/cryptopanic.com\/news\/18944217\/Ex-SEC-official-predicts-downfall-of-FTXs-former-CEO-SBF-in-high-stakes-trial",
+            "created_at": "2023-10-03T10:50:46Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptopotato.com",
+            "source": {
+                "title": "Feed - Cryptopotato.Com",
+                "region": "en",
+                "domain": "cryptopotato.com",
+                "path": null
+            },
+            "title": "Court Calendar Shows SBF\u2019s 15 Days of Trial in October",
+            "published_at": "2023-10-03T10:29:04Z",
+            "slug": "Court-Calendar-Shows-SBFs-15-Days-of-Trial-in-October",
+            "currencies": [
+                {
+                    "code": "FTT",
+                    "title": "FTX",
+                    "slug": "ftx-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/ftx-token\/"
+                }
+            ],
+            "id": 18944151,
+            "url": "https:\/\/cryptopanic.com\/news\/18944151\/Court-Calendar-Shows-SBFs-15-Days-of-Trial-in-October",
+            "created_at": "2023-10-03T10:29:04Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "bitcoinist.com",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 1,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "Bitcoinist",
+                "region": "en",
+                "domain": "bitcoinist.com",
+                "path": null
+            },
+            "title": "Binance And CEO Draw Legal Fire Over Claims Of FTX Manipulation",
+            "published_at": "2023-10-03T07:38:05Z",
+            "slug": "Binance-And-CEO-Draw-Legal-Fire-Over-Claims-Of-FTX-Manipulation",
+            "currencies": [
+                {
+                    "code": "FTT",
+                    "title": "FTX",
+                    "slug": "ftx-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/ftx-token\/"
+                }
+            ],
+            "id": 18943756,
+            "url": "https:\/\/cryptopanic.com\/news\/18943756\/Binance-And-CEO-Draw-Legal-Fire-Over-Claims-Of-FTX-Manipulation",
+            "created_at": "2023-10-03T07:38:05Z"
+        },
+        {
+            "kind": "news",
+            "domain": "theblock.co",
+            "source": {
+                "title": "The Block",
+                "region": "en",
+                "domain": "theblock.co",
+                "path": null
+            },
+            "title": "Sam Bankman-Fried\u2019s lawyers seek to block Ukrainian witness from testifying",
+            "published_at": "2023-10-03T03:56:38Z",
+            "slug": "Sam-Bankman-Frieds-lawyers-seek-to-block-Ukrainian-witness-from-testifying",
+            "currencies": [
+                {
+                    "code": "FTT",
+                    "title": "FTX",
+                    "slug": "ftx-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/ftx-token\/"
+                }
+            ],
+            "id": 18943506,
+            "url": "https:\/\/cryptopanic.com\/news\/18943506\/Sam-Bankman-Frieds-lawyers-seek-to-block-Ukrainian-witness-from-testifying",
+            "created_at": "2023-10-03T03:56:38Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "bitcoinist.com",
+            "source": {
+                "title": "Bitcoinist",
+                "region": "en",
+                "domain": "bitcoinist.com",
+                "path": null
+            },
+            "title": "Sam Bankman-Fried Trial Begins Tomorrow: 3 Reasons Ex-SEC Official Foresees Conviction",
+            "published_at": "2023-10-03T00:00:37Z",
+            "slug": "Sam-Bankman-Fried-Trial-Begins-Tomorrow-3-Reasons-Ex-SEC-Official-Foresees-Conviction",
+            "currencies": [
+                {
+                    "code": "FTT",
+                    "title": "FTX",
+                    "slug": "ftx-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/ftx-token\/"
+                }
+            ],
+            "id": 18943333,
+            "url": "https:\/\/cryptopanic.com\/news\/18943333\/Sam-Bankman-Fried-Trial-Begins-Tomorrow-3-Reasons-Ex-SEC-Official-Foresees-Conviction",
+            "created_at": "2023-10-03T00:00:37Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cointelegraph.com",
+            "source": {
+                "title": "CoinTelegraph",
+                "region": "en",
+                "domain": "cointelegraph.com",
+                "path": null
+            },
+            "title": "Class-action suit filed against Binance for alleged harm to FTX before its collapse",
+            "published_at": "2023-10-02T21:55:41Z",
+            "slug": "Class-action-suit-filed-against-Binance-for-alleged-harm-to-FTX-before-its-collapse",
+            "currencies": [
+                {
+                    "code": "FTT",
+                    "title": "FTX",
+                    "slug": "ftx-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/ftx-token\/"
+                }
+            ],
+            "id": 18943198,
+            "url": "https:\/\/cryptopanic.com\/news\/18943198\/Class-action-suit-filed-against-Binance-for-alleged-harm-to-FTX-before-its-collapse",
+            "created_at": "2023-10-02T21:55:41Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "Author Michael Lewis Stresses Role of \u2018Effective Altruism\u2019 in Sam Bankman-Fried\u2019s Rise and Fall",
+            "published_at": "2023-10-02T21:42:13Z",
+            "slug": "Author-Michael-Lewis-Stresses-Role-of-Effective-Altruism-in-Sam-Bankman-Frieds-Rise-and-Fall",
+            "currencies": [
+                {
+                    "code": "FTT",
+                    "title": "FTX",
+                    "slug": "ftx-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/ftx-token\/"
+                }
+            ],
+            "id": 18943216,
+            "url": "https:\/\/cryptopanic.com\/news\/18943216\/Author-Michael-Lewis-Stresses-Role-of-Effective-Altruism-in-Sam-Bankman-Frieds-Rise-and-Fall",
+            "created_at": "2023-10-02T21:42:13Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "bitcoinist.com",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 2,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "Bitcoinist",
+                "region": "en",
+                "domain": "bitcoinist.com",
+                "path": null
+            },
+            "title": "Did Sam Bankman Fried Try To Pay Off Donald Trump To Skip US Election?",
+            "published_at": "2023-10-02T21:00:08Z",
+            "slug": "Did-Sam-Bankman-Fried-Try-To-Pay-Off-Donald-Trump-To-Skip-US-Election",
+            "currencies": [
+                {
+                    "code": "FTT",
+                    "title": "FTX",
+                    "slug": "ftx-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/ftx-token\/"
+                }
+            ],
+            "id": 18943134,
+            "url": "https:\/\/cryptopanic.com\/news\/18943134\/Did-Sam-Bankman-Fried-Try-To-Pay-Off-Donald-Trump-To-Skip-US-Election",
+            "created_at": "2023-10-02T21:00:08Z"
+        },
+        {
+            "kind": "news",
+            "domain": "bitcoin.com",
+            "source": {
+                "title": "Bitcoin.com",
+                "region": "en",
+                "domain": "bitcoin.com",
+                "path": null
+            },
+            "title": "\u2018Big Short\u2019 Author Reveals Sam Bankman-Fried\u2019s \u2018Gamified\u2019 Saga in Latest Tell-All",
+            "published_at": "2023-10-02T19:30:50Z",
+            "slug": "Big-Short-Author-Reveals-Sam-Bankman-Frieds-Gamified-Saga-in-Latest-Tell-All",
+            "currencies": [
+                {
+                    "code": "FTT",
+                    "title": "FTX",
+                    "slug": "ftx-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/ftx-token\/"
+                }
+            ],
+            "id": 18943005,
+            "url": "https:\/\/cryptopanic.com\/news\/18943005\/Big-Short-Author-Reveals-Sam-Bankman-Frieds-Gamified-Saga-in-Latest-Tell-All",
+            "created_at": "2023-10-02T19:30:50Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cointelegraph.com",
+            "source": {
+                "title": "CoinTelegraph",
+                "region": "en",
+                "domain": "cointelegraph.com",
+                "path": null
+            },
+            "title": "Book describes Sam Bankman-Fried with little attention span or respect for appointments",
+            "published_at": "2023-10-02T19:19:07Z",
+            "slug": "Book-describes-Sam-Bankman-Fried-with-little-attention-span-or-respect-for-appointments",
+            "currencies": [
+                {
+                    "code": "FTT",
+                    "title": "FTX",
+                    "slug": "ftx-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/ftx-token\/"
+                }
+            ],
+            "id": 18942986,
+            "url": "https:\/\/cryptopanic.com\/news\/18942986\/Book-describes-Sam-Bankman-Fried-with-little-attention-span-or-respect-for-appointments",
+            "created_at": "2023-10-02T19:19:07Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "bitcoinist.com",
+            "source": {
+                "title": "Bitcoinist",
+                "region": "en",
+                "domain": "bitcoinist.com",
+                "path": null
+            },
+            "title": "FTX Collapse: The Complete Guide To Keeping You Up-To-Date On The Sam Bankman-Fried Trial",
+            "published_at": "2023-10-02T19:00:00Z",
+            "slug": "FTX-Collapse-The-Complete-Guide-To-Keeping-You-Up-To-Date-On-The-Sam-Bankman-Fried-Trial",
+            "currencies": [
+                {
+                    "code": "FTT",
+                    "title": "FTX",
+                    "slug": "ftx-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/ftx-token\/"
+                }
+            ],
+            "id": 18942932,
+            "url": "https:\/\/cryptopanic.com\/news\/18942932\/FTX-Collapse-The-Complete-Guide-To-Keeping-You-Up-To-Date-On-The-Sam-Bankman-Fried-Trial",
+            "created_at": "2023-10-02T19:00:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "dailyhodl.com",
+            "source": {
+                "title": "The Daily Hodl",
+                "region": "en",
+                "domain": "dailyhodl.com",
+                "path": null
+            },
+            "title": "DOJ Says Agency Will Call Sam Bankman-Fried\u2019s Coconspirators Who Entered Guilty Pleas To Witness Stand",
+            "published_at": "2023-10-02T18:45:07Z",
+            "slug": "DOJ-Says-Agency-Will-Call-Sam-Bankman-Frieds-Coconspirators-Who-Entered-Guilty-Pleas-To-Witness-Stand",
+            "currencies": [
+                {
+                    "code": "FTT",
+                    "title": "FTX",
+                    "slug": "ftx-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/ftx-token\/"
+                }
+            ],
+            "id": 18942928,
+            "url": "https:\/\/cryptopanic.com\/news\/18942928\/DOJ-Says-Agency-Will-Call-Sam-Bankman-Frieds-Coconspirators-Who-Entered-Guilty-Pleas-To-Witness-Stand",
+            "created_at": "2023-10-02T18:45:07Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "theblock.co",
+            "source": {
+                "title": "The Block",
+                "region": "en",
+                "domain": "theblock.co",
+                "path": null
+            },
+            "title": "Bitcoin sees early October gains as it rises above $28,000",
+            "published_at": "2023-10-02T18:24:09Z",
+            "slug": "Bitcoin-sees-early-October-gains-as-it-rises-above-28000",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "FTT",
+                    "title": "FTX",
+                    "slug": "ftx-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/ftx-token\/"
+                }
+            ],
+            "id": 18942900,
+            "url": "https:\/\/cryptopanic.com\/news\/18942900\/Bitcoin-sees-early-October-gains-as-it-rises-above-28000",
+            "created_at": "2023-10-02T18:24:09Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptoglobe.com",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 1,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "CryptoGlobe",
+                "region": "en",
+                "domain": "cryptoglobe.com",
+                "path": null
+            },
+            "title": "Former SEC Lawyer John Reed Stark on \u2018Three Unique Reasons Why SBF Will Likely Be Convicted\u2019",
+            "published_at": "2023-10-02T16:14:22Z",
+            "slug": "Former-SEC-Lawyer-John-Reed-Stark-on-Three-Unique-Reasons-Why-SBF-Will-Likely-Be-Convicted",
+            "currencies": [
+                {
+                    "code": "FTT",
+                    "title": "FTX",
+                    "slug": "ftx-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/ftx-token\/"
+                }
+            ],
+            "id": 18942600,
+            "url": "https:\/\/cryptopanic.com\/news\/18942600\/Former-SEC-Lawyer-John-Reed-Stark-on-Three-Unique-Reasons-Why-SBF-Will-Likely-Be-Convicted",
+            "created_at": "2023-10-02T16:14:22Z"
+        },
+        {
+            "kind": "news",
+            "domain": "bitcoinist.com",
+            "source": {
+                "title": "Bitcoinist",
+                "region": "en",
+                "domain": "bitcoinist.com",
+                "path": null
+            },
+            "title": "Sam Bankman-Fried Trial: Legal Experts Debate His Chances Of Freedom",
+            "published_at": "2023-10-02T16:00:07Z",
+            "slug": "Sam-Bankman-Fried-Trial-Legal-Experts-Debate-His-Chances-Of-Freedom",
+            "currencies": [
+                {
+                    "code": "FTT",
+                    "title": "FTX",
+                    "slug": "ftx-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/ftx-token\/"
+                }
+            ],
+            "id": 18942546,
+            "url": "https:\/\/cryptopanic.com\/news\/18942546\/Sam-Bankman-Fried-Trial-Legal-Experts-Debate-His-Chances-Of-Freedom",
+            "created_at": "2023-10-02T16:00:07Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "bitcoin.com",
+            "source": {
+                "title": "Bitcoin.com",
+                "region": "en",
+                "domain": "bitcoin.com",
+                "path": null
+            },
+            "title": "FTX Heist: Hacker Shifts $51M in Ethereum as Former CEO Preps for Trial",
+            "published_at": "2023-10-02T14:00:05Z",
+            "slug": "FTX-Heist-Hacker-Shifts-51M-in-Ethereum-as-Former-CEO-Preps-for-Trial",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "FTT",
+                    "title": "FTX",
+                    "slug": "ftx-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/ftx-token\/"
+                }
+            ],
+            "id": 18942207,
+            "url": "https:\/\/cryptopanic.com\/news\/18942207\/FTX-Heist-Hacker-Shifts-51M-in-Ethereum-as-Former-CEO-Preps-for-Trial",
+            "created_at": "2023-10-02T14:00:05Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptopotato.com",
+            "source": {
+                "title": "Feed - Cryptopotato.Com",
+                "region": "en",
+                "domain": "cryptopotato.com",
+                "path": null
+            },
+            "title": "SBF Considered Paying Donald Trump $5B Not to Run for President",
+            "published_at": "2023-10-02T12:02:10Z",
+            "slug": "SBF-Considered-Paying-Donald-Trump-5B-Not-to-Run-for-President",
+            "currencies": [
+                {
+                    "code": "FTT",
+                    "title": "FTX",
+                    "slug": "ftx-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/ftx-token\/"
+                }
+            ],
+            "id": 18941820,
+            "url": "https:\/\/cryptopanic.com\/news\/18941820\/SBF-Considered-Paying-Donald-Trump-5B-Not-to-Run-for-President",
+            "created_at": "2023-10-02T12:02:10Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptoslate.com",
+            "source": {
+                "title": "CryptoSlate",
+                "region": "en",
+                "domain": "cryptoslate.com",
+                "path": null
+            },
+            "title": "Judge says Sam Bankman-Fried cant blame FTX lawyers in opening remarks",
+            "published_at": "2023-10-02T11:15:57Z",
+            "slug": "Judge-says-Sam-Bankman-Fried-cant-blame-FTX-lawyers-in-opening-remarks",
+            "currencies": [
+                {
+                    "code": "FTT",
+                    "title": "FTX",
+                    "slug": "ftx-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/ftx-token\/"
+                }
+            ],
+            "id": 18941696,
+            "url": "https:\/\/cryptopanic.com\/news\/18941696\/Judge-says-Sam-Bankman-Fried-cant-blame-FTX-lawyers-in-opening-remarks",
+            "created_at": "2023-10-02T11:15:57Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cointelegraph.com",
+            "source": {
+                "title": "CoinTelegraph",
+                "region": "en",
+                "domain": "cointelegraph.com",
+                "path": null
+            },
+            "title": "Sam Bankman-Fried FTX trial \u2014 5 things you need to know",
+            "published_at": "2023-10-02T11:13:51Z",
+            "slug": "Sam-Bankman-Fried-FTX-trial-5-things-you-need-to-know",
+            "currencies": [
+                {
+                    "code": "FTT",
+                    "title": "FTX",
+                    "slug": "ftx-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/ftx-token\/"
+                }
+            ],
+            "id": 18941692,
+            "url": "https:\/\/cryptopanic.com\/news\/18941692\/Sam-Bankman-Fried-FTX-trial-5-things-you-need-to-know",
+            "created_at": "2023-10-02T11:13:51Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

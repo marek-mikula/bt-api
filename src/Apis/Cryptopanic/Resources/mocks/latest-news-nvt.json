@@ -1,0 +1,719 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=NVT&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "@nerve_network",
+            "source": {
+                "title": "NerveNetwork Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@nerve_network"
+            },
+            "title": "RT @bsc_daily: @nerve_network @naboxwallet More details\nNerveNetwork aims to connect all isolated blockchains and establish a cross-chain a\u2026",
+            "published_at": "2023-07-12T08:14:28Z",
+            "slug": "RT-bsc_daily-nerve_network-naboxwallet-More-details-NerveNetwork-aims-to-connect-all-isolated-blockchains-and-establish-a-cross-chain-a",
+            "currencies": [
+                {
+                    "code": "NVT",
+                    "title": "NerveNetwork",
+                    "slug": "nervenetwork",
+                    "url": "https:\/\/cryptopanic.com\/news\/nervenetwork\/"
+                }
+            ],
+            "id": 18765980,
+            "url": "https:\/\/cryptopanic.com\/news\/18765980\/RT-bsc_daily-nerve_network-naboxwallet-More-details-NerveNetwork-aims-to-connect-all-isolated-blockchains-and-establish-a-cross-chain-a",
+            "created_at": "2023-07-12T08:14:28Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@nerve_network",
+            "source": {
+                "title": "NerveNetwork Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@nerve_network"
+            },
+            "title": "Extra glad to share that NerveNetwork will soon expand its footprints in Polygon zkEVM \n\nWith 24 blockchains integ\u2026",
+            "published_at": "2023-07-11T17:27:52Z",
+            "slug": "Extra-glad-to-share-that-NerveNetwork-will-soon-expand-its-footprints-in-Polygon-zkEVM-With-24-blockchains-integ",
+            "currencies": [
+                {
+                    "code": "NVT",
+                    "title": "NerveNetwork",
+                    "slug": "nervenetwork",
+                    "url": "https:\/\/cryptopanic.com\/news\/nervenetwork\/"
+                },
+                {
+                    "code": "MATIC",
+                    "title": "Polygon",
+                    "slug": "matic-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-network\/"
+                }
+            ],
+            "id": 18765981,
+            "url": "https:\/\/cryptopanic.com\/news\/18765981\/Extra-glad-to-share-that-NerveNetwork-will-soon-expand-its-footprints-in-Polygon-zkEVM-With-24-blockchains-integ",
+            "created_at": "2023-07-11T17:27:52Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@nerve_network",
+            "source": {
+                "title": "NerveNetwork Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@nerve_network"
+            },
+            "title": "RT @bsc_daily:  @nerve_network Multi-Routing Supported #Ethereum \ud83e\uddec\n\nUsers Can Now Transfer ETH Assets with 0 Slippages with #Swapbox @nabo\u2026",
+            "published_at": "2023-07-11T09:00:51Z",
+            "slug": "RT-bsc_daily-nerve_network-Multi-Routing-Supported-Ethereum-Users-Can-Now-Transfer-ETH-Assets-with-0-Slippages-with-Swapbox-nabo",
+            "currencies": [
+                {
+                    "code": "NVT",
+                    "title": "NerveNetwork",
+                    "slug": "nervenetwork",
+                    "url": "https:\/\/cryptopanic.com\/news\/nervenetwork\/"
+                }
+            ],
+            "id": 18765982,
+            "url": "https:\/\/cryptopanic.com\/news\/18765982\/RT-bsc_daily-nerve_network-Multi-Routing-Supported-Ethereum-Users-Can-Now-Transfer-ETH-Assets-with-0-Slippages-with-Swapbox-nabo",
+            "created_at": "2023-07-11T09:00:51Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@nerve_network",
+            "source": {
+                "title": "NerveNetwork Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@nerve_network"
+            },
+            "title": "The NerveNetwork mainnet (v1.25.0) added ETHN-NVT LP to its supported staking options. You can now stake ETHN-NVT L\u2026",
+            "published_at": "2023-07-10T07:57:22Z",
+            "slug": "The-NerveNetwork-mainnet-v1250-added-ETHN-NVT-LP-to-its-supported-staking-options-You-can-now-stake-ETHN-NVT-L",
+            "currencies": [
+                {
+                    "code": "NVT",
+                    "title": "NerveNetwork",
+                    "slug": "nervenetwork",
+                    "url": "https:\/\/cryptopanic.com\/news\/nervenetwork\/"
+                }
+            ],
+            "id": 18750697,
+            "url": "https:\/\/cryptopanic.com\/news\/18750697\/The-NerveNetwork-mainnet-v1250-added-ETHN-NVT-LP-to-its-supported-staking-options-You-can-now-stake-ETHN-NVT-L",
+            "created_at": "2023-07-10T07:57:22Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@nerve_network",
+            "source": {
+                "title": "NerveNetwork Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@nerve_network"
+            },
+            "title": "Exciting News! #NerveNetwork's on-chain community is now on @Wormhole_3 \n\nSign up for #Wormhole3 &amp; claim your exclu\u2026",
+            "published_at": "2023-07-10T01:33:04Z",
+            "slug": "Exciting-News-NerveNetworks-on-chain-community-is-now-on-Wormhole_3-Sign-up-for-Wormhole3-amp-claim-your-exclu",
+            "currencies": [
+                {
+                    "code": "NVT",
+                    "title": "NerveNetwork",
+                    "slug": "nervenetwork",
+                    "url": "https:\/\/cryptopanic.com\/news\/nervenetwork\/"
+                }
+            ],
+            "id": 18750698,
+            "url": "https:\/\/cryptopanic.com\/news\/18750698\/Exciting-News-NerveNetworks-on-chain-community-is-now-on-Wormhole_3-Sign-up-for-Wormhole3-amp-claim-your-exclu",
+            "created_at": "2023-07-10T01:33:04Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@nerve_network",
+            "source": {
+                "title": "NerveNetwork Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@nerve_network"
+            },
+            "title": "RT @naboxwallet: SwapBox is now seamlessly integrated with NerveBridge, enabling all #NerveBridge users to effortlessly perform cross-chain\u2026",
+            "published_at": "2023-07-08T20:04:02Z",
+            "slug": "RT-naboxwallet-SwapBox-is-now-seamlessly-integrated-with-NerveBridge-enabling-all-NerveBridge-users-to-effortlessly-perform-cross-chain",
+            "currencies": [
+                {
+                    "code": "NVT",
+                    "title": "NerveNetwork",
+                    "slug": "nervenetwork",
+                    "url": "https:\/\/cryptopanic.com\/news\/nervenetwork\/"
+                }
+            ],
+            "id": 18746377,
+            "url": "https:\/\/cryptopanic.com\/news\/18746377\/RT-naboxwallet-SwapBox-is-now-seamlessly-integrated-with-NerveBridge-enabling-all-NerveBridge-users-to-effortlessly-perform-cross-chain",
+            "created_at": "2023-07-08T20:04:02Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@nerve_network",
+            "source": {
+                "title": "NerveNetwork Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@nerve_network"
+            },
+            "title": "NerveNetwork's multi-routing has supported $ETH assets! With #SwapBox, you can now transfer ETH assets among the su\u2026",
+            "published_at": "2023-07-08T20:03:22Z",
+            "slug": "NerveNetworks-multi-routing-has-supported-ETH-assets-With-SwapBox-you-can-now-transfer-ETH-assets-among-the-su",
+            "currencies": [
+                {
+                    "code": "NVT",
+                    "title": "NerveNetwork",
+                    "slug": "nervenetwork",
+                    "url": "https:\/\/cryptopanic.com\/news\/nervenetwork\/"
+                }
+            ],
+            "id": 18746378,
+            "url": "https:\/\/cryptopanic.com\/news\/18746378\/NerveNetworks-multi-routing-has-supported-ETH-assets-With-SwapBox-you-can-now-transfer-ETH-assets-among-the-su",
+            "created_at": "2023-07-08T20:03:22Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@nerve_network",
+            "source": {
+                "title": "NerveNetwork Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@nerve_network"
+            },
+            "title": "We\u2018re excited to share an upcoming integration with EOS EVM network \n\nThe Nerve products : NerveBridge, NerveSwap,\u2026",
+            "published_at": "2023-07-07T17:51:29Z",
+            "slug": "Were-excited-to-share-an-upcoming-integration-with-EOS-EVM-network-The-Nerve-products-NerveBridge-NerveSwap",
+            "currencies": [
+                {
+                    "code": "NVT",
+                    "title": "NerveNetwork",
+                    "slug": "nervenetwork",
+                    "url": "https:\/\/cryptopanic.com\/news\/nervenetwork\/"
+                },
+                {
+                    "code": "EOS",
+                    "title": "EOS",
+                    "slug": "eos",
+                    "url": "https:\/\/cryptopanic.com\/news\/eos\/"
+                }
+            ],
+            "id": 18741572,
+            "url": "https:\/\/cryptopanic.com\/news\/18741572\/Were-excited-to-share-an-upcoming-integration-with-EOS-EVM-network-The-Nerve-products-NerveBridge-NerveSwap",
+            "created_at": "2023-07-07T17:51:29Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@nerve_network",
+            "source": {
+                "title": "NerveNetwork Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@nerve_network"
+            },
+            "title": "RT @PolyNetwork2: Dear users,\n\nAs we continue to address this situation, we regret to inform you that our services will remain temporarily\u2026",
+            "published_at": "2023-07-07T11:46:59Z",
+            "slug": "RT-PolyNetwork2-Dear-users-As-we-continue-to-address-this-situation-we-regret-to-inform-you-that-our-services-will-remain-temporarily",
+            "currencies": [
+                {
+                    "code": "NVT",
+                    "title": "NerveNetwork",
+                    "slug": "nervenetwork",
+                    "url": "https:\/\/cryptopanic.com\/news\/nervenetwork\/"
+                }
+            ],
+            "id": 18741574,
+            "url": "https:\/\/cryptopanic.com\/news\/18741574\/RT-PolyNetwork2-Dear-users-As-we-continue-to-address-this-situation-we-regret-to-inform-you-that-our-services-will-remain-temporarily",
+            "created_at": "2023-07-07T11:46:59Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@nerve_network",
+            "source": {
+                "title": "NerveNetwork Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@nerve_network"
+            },
+            "title": "We hope to make the network more #decentralized to avoid similar situations, and we want to get more advice from se\u2026",
+            "published_at": "2023-07-07T11:46:18Z",
+            "slug": "We-hope-to-make-the-network-more-decentralized-to-avoid-similar-situations-and-we-want-to-get-more-advice-from-se",
+            "currencies": [
+                {
+                    "code": "NVT",
+                    "title": "NerveNetwork",
+                    "slug": "nervenetwork",
+                    "url": "https:\/\/cryptopanic.com\/news\/nervenetwork\/"
+                }
+            ],
+            "id": 18741575,
+            "url": "https:\/\/cryptopanic.com\/news\/18741575\/We-hope-to-make-the-network-more-decentralized-to-avoid-similar-situations-and-we-want-to-get-more-advice-from-se",
+            "created_at": "2023-07-07T11:46:18Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@nerve_network",
+            "source": {
+                "title": "NerveNetwork Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@nerve_network"
+            },
+            "title": "RT @bsc_daily:  @nerve_network Collaborated with @nerc20 \ud83e\udd1d Running Giveaways &amp; Whitelists to Community\n\n#NerveNetwork - Decentralized Digi\u2026",
+            "published_at": "2023-07-07T02:40:06Z",
+            "slug": "RT-bsc_daily-nerve_network-Collaborated-with-nerc20-Running-Giveaways-amp-Whitelists-to-Community-NerveNetwork-Decentralized-Digi",
+            "currencies": [
+                {
+                    "code": "NVT",
+                    "title": "NerveNetwork",
+                    "slug": "nervenetwork",
+                    "url": "https:\/\/cryptopanic.com\/news\/nervenetwork\/"
+                }
+            ],
+            "id": 18734096,
+            "url": "https:\/\/cryptopanic.com\/news\/18734096\/RT-bsc_daily-nerve_network-Collaborated-with-nerc20-Running-Giveaways-amp-Whitelists-to-Community-NerveNetwork-Decentralized-Digi",
+            "created_at": "2023-07-07T02:40:06Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@nerve_network",
+            "source": {
+                "title": "NerveNetwork Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@nerve_network"
+            },
+            "title": "RT @naboxwallet: We're pleased to announce a partnership with @theogzclub \ud83e\udd73\n\nSupported by @nerve_network's multi-routing, SwapBox has assis\u2026",
+            "published_at": "2023-07-06T00:24:33Z",
+            "slug": "RT-naboxwallet-Were-pleased-to-announce-a-partnership-with-theogzclub-Supported-by-nerve_networks-multi-routing-SwapBox-has-assis",
+            "currencies": [
+                {
+                    "code": "NVT",
+                    "title": "NerveNetwork",
+                    "slug": "nervenetwork",
+                    "url": "https:\/\/cryptopanic.com\/news\/nervenetwork\/"
+                }
+            ],
+            "id": 18725630,
+            "url": "https:\/\/cryptopanic.com\/news\/18725630\/RT-naboxwallet-Were-pleased-to-announce-a-partnership-with-theogzclub-Supported-by-nerve_networks-multi-routing-SwapBox-has-assis",
+            "created_at": "2023-07-06T00:24:33Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@nerve_network",
+            "source": {
+                "title": "NerveNetwork Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@nerve_network"
+            },
+            "title": "NerveNetwork is teaming up with @nerc20cash sending 20 whitelists and 200 $NULS away\n\nRetweet, \ufe0f, tag 3\nFollow\u2026",
+            "published_at": "2023-07-05T13:55:28Z",
+            "slug": "NerveNetwork-is-teaming-up-with-nerc20cash-sending-20-whitelists-and-200-NULS-away-Retweet-tag-3-Follow",
+            "currencies": [
+                {
+                    "code": "NVT",
+                    "title": "NerveNetwork",
+                    "slug": "nervenetwork",
+                    "url": "https:\/\/cryptopanic.com\/news\/nervenetwork\/"
+                }
+            ],
+            "id": 18725631,
+            "url": "https:\/\/cryptopanic.com\/news\/18725631\/NerveNetwork-is-teaming-up-with-nerc20cash-sending-20-whitelists-and-200-NULS-away-Retweet-tag-3-Follow",
+            "created_at": "2023-07-05T13:55:28Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@nerve_network",
+            "source": {
+                "title": "NerveNetwork Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@nerve_network"
+            },
+            "title": "RT @bsc_daily:  @nerve_network Builds Crosschain Bridge for @BNBCHAIN - Stability - Security - Crosschain Ecosystem\ud83e\uddec\n\n#NerveNetwork offers\u2026",
+            "published_at": "2023-07-05T03:27:15Z",
+            "slug": "RT-bsc_daily-nerve_network-Builds-Crosschain-Bridge-for-BNBCHAIN-Stability-Security-Crosschain-Ecosystem-NerveNetwork-offers",
+            "currencies": [
+                {
+                    "code": "NVT",
+                    "title": "NerveNetwork",
+                    "slug": "nervenetwork",
+                    "url": "https:\/\/cryptopanic.com\/news\/nervenetwork\/"
+                }
+            ],
+            "id": 18717724,
+            "url": "https:\/\/cryptopanic.com\/news\/18717724\/RT-bsc_daily-nerve_network-Builds-Crosschain-Bridge-for-BNBCHAIN-Stability-Security-Crosschain-Ecosystem-NerveNetwork-offers",
+            "created_at": "2023-07-05T03:27:15Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@nerve_network",
+            "source": {
+                "title": "NerveNetwork Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@nerve_network"
+            },
+            "title": "RT @theogzclub: Very excited about our partnership with @nerve_network \n\nSoon you will have access to our ecosystem also on BNB chain brid\u2026",
+            "published_at": "2023-07-04T17:36:40Z",
+            "slug": "RT-theogzclub-Very-excited-about-our-partnership-with-nerve_network-Soon-you-will-have-access-to-our-ecosystem-also-on-BNB-chain-brid",
+            "currencies": [
+                {
+                    "code": "NVT",
+                    "title": "NerveNetwork",
+                    "slug": "nervenetwork",
+                    "url": "https:\/\/cryptopanic.com\/news\/nervenetwork\/"
+                }
+            ],
+            "id": 18717725,
+            "url": "https:\/\/cryptopanic.com\/news\/18717725\/RT-theogzclub-Very-excited-about-our-partnership-with-nerve_network-Soon-you-will-have-access-to-our-ecosystem-also-on-BNB-chain-brid",
+            "created_at": "2023-07-04T17:36:40Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@nerve_network",
+            "source": {
+                "title": "NerveNetwork Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@nerve_network"
+            },
+            "title": "NerveNetwork is excited to establish a new partnership with @theogzclub as Nerve's multi-routing has just supported\u2026",
+            "published_at": "2023-07-04T15:06:40Z",
+            "slug": "NerveNetwork-is-excited-to-establish-a-new-partnership-with-theogzclub-as-Nerves-multi-routing-has-just-supported",
+            "currencies": [
+                {
+                    "code": "NVT",
+                    "title": "NerveNetwork",
+                    "slug": "nervenetwork",
+                    "url": "https:\/\/cryptopanic.com\/news\/nervenetwork\/"
+                }
+            ],
+            "id": 18717726,
+            "url": "https:\/\/cryptopanic.com\/news\/18717726\/NerveNetwork-is-excited-to-establish-a-new-partnership-with-theogzclub-as-Nerves-multi-routing-has-just-supported",
+            "created_at": "2023-07-04T15:06:40Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@nerve_network",
+            "source": {
+                "title": "NerveNetwork Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@nerve_network"
+            },
+            "title": "Crosschain security is awlays our priority\n\nWith the new NerveNetwork protocol v1.25.0 taking effect, your crossch\u2026",
+            "published_at": "2023-07-03T15:46:33Z",
+            "slug": "Crosschain-security-is-awlays-our-priority-With-the-new-NerveNetwork-protocol-v1250-taking-effect-your-crossch",
+            "currencies": [
+                {
+                    "code": "NVT",
+                    "title": "NerveNetwork",
+                    "slug": "nervenetwork",
+                    "url": "https:\/\/cryptopanic.com\/news\/nervenetwork\/"
+                }
+            ],
+            "id": 18710620,
+            "url": "https:\/\/cryptopanic.com\/news\/18710620\/Crosschain-security-is-awlays-our-priority-With-the-new-NerveNetwork-protocol-v1250-taking-effect-your-crossch",
+            "created_at": "2023-07-03T15:46:33Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@nerve_network",
+            "source": {
+                "title": "NerveNetwork Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@nerve_network"
+            },
+            "title": "NerveNetwork has supported @BNBCHAIN since 2020! we always aim to contribute the entire ecosysrtem by bringing more\u2026",
+            "published_at": "2023-07-02T15:16:41Z",
+            "slug": "NerveNetwork-has-supported-BNBCHAIN-since-2020-we-always-aim-to-contribute-the-entire-ecosysrtem-by-bringing-more",
+            "currencies": [
+                {
+                    "code": "NVT",
+                    "title": "NerveNetwork",
+                    "slug": "nervenetwork",
+                    "url": "https:\/\/cryptopanic.com\/news\/nervenetwork\/"
+                }
+            ],
+            "id": 18703802,
+            "url": "https:\/\/cryptopanic.com\/news\/18703802\/NerveNetwork-has-supported-BNBCHAIN-since-2020-we-always-aim-to-contribute-the-entire-ecosysrtem-by-bringing-more",
+            "created_at": "2023-07-02T15:16:41Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@nerve_network",
+            "source": {
+                "title": "NerveNetwork Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@nerve_network"
+            },
+            "title": "We're glad to announce a partnership with @nerc20cash\n\nNerveNetwork will foster the growth of @Nuls ecosystem and\u2026",
+            "published_at": "2023-06-30T14:23:49Z",
+            "slug": "Were-glad-to-announce-a-partnership-with-nerc20cash-NerveNetwork-will-foster-the-growth-of-Nuls-ecosystem-and",
+            "currencies": [
+                {
+                    "code": "NVT",
+                    "title": "NerveNetwork",
+                    "slug": "nervenetwork",
+                    "url": "https:\/\/cryptopanic.com\/news\/nervenetwork\/"
+                }
+            ],
+            "id": 18694856,
+            "url": "https:\/\/cryptopanic.com\/news\/18694856\/Were-glad-to-announce-a-partnership-with-nerc20cash-NerveNetwork-will-foster-the-growth-of-Nuls-ecosystem-and",
+            "created_at": "2023-06-30T14:23:49Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@nerve_network",
+            "source": {
+                "title": "NerveNetwork Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@nerve_network"
+            },
+            "title": "Announcement of #NerveNetwork updated to v1.25.0\n\n NVT-ETHN LP added on consensus staking\nRemoved NVT-ETH LP from\u2026",
+            "published_at": "2023-06-29T02:43:32Z",
+            "slug": "Announcement-of-NerveNetwork-updated-to-v1250-NVT-ETHN-LP-added-on-consensus-staking-Removed-NVT-ETH-LP-from",
+            "currencies": [
+                {
+                    "code": "NVT",
+                    "title": "NerveNetwork",
+                    "slug": "nervenetwork",
+                    "url": "https:\/\/cryptopanic.com\/news\/nervenetwork\/"
+                }
+            ],
+            "id": 18679248,
+            "url": "https:\/\/cryptopanic.com\/news\/18679248\/Announcement-of-NerveNetwork-updated-to-v1250-NVT-ETHN-LP-added-on-consensus-staking-Removed-NVT-ETH-LP-from",
+            "created_at": "2023-06-29T02:43:32Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

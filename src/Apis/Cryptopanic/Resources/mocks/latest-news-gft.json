@@ -1,0 +1,833 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=GFT&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "@StarCrazyGame",
+            "source": {
+                "title": "Game Fantasy Token Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@starcrazygame"
+            },
+            "title": "#StarCrazy News!!!\n\nHave a good sleep today\ud83e\udd71\ud83e\udd71\nNo newsletter for today\n\nGet ready for the DAO meeting on July\u2026",
+            "published_at": "2023-07-11T09:43:08Z",
+            "slug": "StarCrazy-News-Have-a-good-sleep-today-No-newsletter-for-today-Get-ready-for-the-DAO-meeting-on-July",
+            "currencies": [
+                {
+                    "code": "GFT",
+                    "title": "Game Fantasy",
+                    "slug": "game-fantasy-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/game-fantasy-token\/"
+                },
+                {
+                    "code": "GFS",
+                    "title": "GameFantasyStar",
+                    "slug": "gamefantasystar",
+                    "url": "https:\/\/cryptopanic.com\/news\/gamefantasystar\/"
+                }
+            ],
+            "id": 18764498,
+            "url": "https:\/\/cryptopanic.com\/news\/18764498\/StarCrazy-News-Have-a-good-sleep-today-No-newsletter-for-today-Get-ready-for-the-DAO-meeting-on-July",
+            "created_at": "2023-07-11T09:43:08Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@StarCrazyGame",
+            "source": {
+                "title": "Game Fantasy Token Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@starcrazygame"
+            },
+            "title": "#StarCrazy Daily Q&amp;A!!!\n\nAn important tip for stellar mine battlers\nRemember to check whether your Starz have\u2026",
+            "published_at": "2023-07-10T07:52:17Z",
+            "slug": "StarCrazy-Daily-QampA-An-important-tip-for-stellar-mine-battlers-Remember-to-check-whether-your-Starz-have",
+            "currencies": [
+                {
+                    "code": "GFT",
+                    "title": "Game Fantasy",
+                    "slug": "game-fantasy-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/game-fantasy-token\/"
+                },
+                {
+                    "code": "GFS",
+                    "title": "GameFantasyStar",
+                    "slug": "gamefantasystar",
+                    "url": "https:\/\/cryptopanic.com\/news\/gamefantasystar\/"
+                },
+                {
+                    "code": "XLM",
+                    "title": "Stellar",
+                    "slug": "stellar",
+                    "url": "https:\/\/cryptopanic.com\/news\/stellar\/"
+                }
+            ],
+            "id": 18756371,
+            "url": "https:\/\/cryptopanic.com\/news\/18756371\/StarCrazy-Daily-QampA-An-important-tip-for-stellar-mine-battlers-Remember-to-check-whether-your-Starz-have",
+            "created_at": "2023-07-10T07:52:17Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GiftoMetaverse",
+            "source": {
+                "title": "Gifto Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@giftometaverse"
+            },
+            "title": "RT @bsc_daily: Top Gainers in #BNBChain Ecosystem Last 24 Hours\n\n\ud83e\udd47 $NUM @numbersprotocol\n\ud83e\udd48 $ID @EverestDotOrg\n\ud83e\udd49 $THG @ThetanArena\n$METFI @\u2026",
+            "published_at": "2023-07-10T02:30:17Z",
+            "slug": "RT-bsc_daily-Top-Gainers-in-BNBChain-Ecosystem-Last-24-Hours-NUM-numbersprotocol-ID-EverestDotOrg-THG-ThetanArena-METFI",
+            "currencies": [
+                {
+                    "code": "GFT",
+                    "title": "Gifto",
+                    "slug": "gifto",
+                    "url": "https:\/\/cryptopanic.com\/news\/gifto\/"
+                }
+            ],
+            "id": 18749889,
+            "url": "https:\/\/cryptopanic.com\/news\/18749889\/RT-bsc_daily-Top-Gainers-in-BNBChain-Ecosystem-Last-24-Hours-NUM-numbersprotocol-ID-EverestDotOrg-THG-ThetanArena-METFI",
+            "created_at": "2023-07-10T02:30:17Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GiftoMetaverse",
+            "source": {
+                "title": "Gifto Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@giftometaverse"
+            },
+            "title": "RT @Satoshi_Talks: Top 10 gainers in the last 24H\n\n1. $PRO - 58% \n2. $GXC - 39% \n3. $BTS - 32% \n4. $MOB - 25% \n5. $GFI - 22% \n6. $XEC - 20\u2026",
+            "published_at": "2023-07-10T02:29:52Z",
+            "slug": "RT-Satoshi_Talks-Top-10-gainers-in-the-last-24H-1-PRO-58-2-GXC-39-3-BTS-32-4-MOB-25-5-GFI-22-6-XEC-20",
+            "currencies": [
+                {
+                    "code": "GFT",
+                    "title": "Gifto",
+                    "slug": "gifto",
+                    "url": "https:\/\/cryptopanic.com\/news\/gifto\/"
+                },
+                {
+                    "code": "XEC",
+                    "title": "eCash",
+                    "slug": "ecash",
+                    "url": "https:\/\/cryptopanic.com\/news\/ecash\/"
+                }
+            ],
+            "id": 18749890,
+            "url": "https:\/\/cryptopanic.com\/news\/18749890\/RT-Satoshi_Talks-Top-10-gainers-in-the-last-24H-1-PRO-58-2-GXC-39-3-BTS-32-4-MOB-25-5-GFI-22-6-XEC-20",
+            "created_at": "2023-07-10T02:29:52Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@StarCrazyGame",
+            "source": {
+                "title": "Game Fantasy Token Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@starcrazygame"
+            },
+            "title": "#StarCrazy News!!!\n\nDo you want to say something about Stellar Mines\nComment down below to make us hear you\ud83e\udd1d\ud83e\udd1d\u2026",
+            "published_at": "2023-07-07T08:32:25Z",
+            "slug": "StarCrazy-News-Do-you-want-to-say-something-about-Stellar-Mines-Comment-down-below-to-make-us-hear-you",
+            "currencies": [
+                {
+                    "code": "GFT",
+                    "title": "Game Fantasy",
+                    "slug": "game-fantasy-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/game-fantasy-token\/"
+                },
+                {
+                    "code": "GFS",
+                    "title": "GameFantasyStar",
+                    "slug": "gamefantasystar",
+                    "url": "https:\/\/cryptopanic.com\/news\/gamefantasystar\/"
+                },
+                {
+                    "code": "XLM",
+                    "title": "Stellar",
+                    "slug": "stellar",
+                    "url": "https:\/\/cryptopanic.com\/news\/stellar\/"
+                }
+            ],
+            "id": 18740316,
+            "url": "https:\/\/cryptopanic.com\/news\/18740316\/StarCrazy-News-Do-you-want-to-say-something-about-Stellar-Mines-Comment-down-below-to-make-us-hear-you",
+            "created_at": "2023-07-07T08:32:25Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@StarCrazyGame",
+            "source": {
+                "title": "Game Fantasy Token Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@starcrazygame"
+            },
+            "title": "#StarCrazy For PVP Players!!!\n\nRemember to get your PVP rewards before July 7th\nOtherwise, they will be expir\u2026",
+            "published_at": "2023-07-06T12:33:15Z",
+            "slug": "StarCrazy-For-PVP-Players-Remember-to-get-your-PVP-rewards-before-July-7th-Otherwise-they-will-be-expir",
+            "currencies": [
+                {
+                    "code": "GFT",
+                    "title": "Game Fantasy",
+                    "slug": "game-fantasy-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/game-fantasy-token\/"
+                },
+                {
+                    "code": "GFS",
+                    "title": "GameFantasyStar",
+                    "slug": "gamefantasystar",
+                    "url": "https:\/\/cryptopanic.com\/news\/gamefantasystar\/"
+                }
+            ],
+            "id": 18732682,
+            "url": "https:\/\/cryptopanic.com\/news\/18732682\/StarCrazy-For-PVP-Players-Remember-to-get-your-PVP-rewards-before-July-7th-Otherwise-they-will-be-expir",
+            "created_at": "2023-07-06T12:33:15Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GiftoMetaverse",
+            "source": {
+                "title": "Gifto Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@giftometaverse"
+            },
+            "title": "So, guys, we are already at the finish line!\n\n#Gifto Web3 Wallet is currently in beta release. \n\nStay with $GFT no\u2026",
+            "published_at": "2023-07-05T17:56:24Z",
+            "slug": "So-guys-we-are-already-at-the-finish-line-Gifto-Web3-Wallet-is-currently-in-beta-release-Stay-with-GFT-no",
+            "currencies": [
+                {
+                    "code": "GFT",
+                    "title": "Gifto",
+                    "slug": "gifto",
+                    "url": "https:\/\/cryptopanic.com\/news\/gifto\/"
+                }
+            ],
+            "id": 18724282,
+            "url": "https:\/\/cryptopanic.com\/news\/18724282\/So-guys-we-are-already-at-the-finish-line-Gifto-Web3-Wallet-is-currently-in-beta-release-Stay-with-GFT-no",
+            "created_at": "2023-07-05T17:56:24Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@StarCrazyGame",
+            "source": {
+                "title": "Game Fantasy Token Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@starcrazygame"
+            },
+            "title": "#StarCrazy For PVP Players!!!\n\nFor those who cannot claim PVP rewards\nThe team is now distributing the reward\u2026",
+            "published_at": "2023-07-05T06:52:39Z",
+            "slug": "StarCrazy-For-PVP-Players-For-those-who-cannot-claim-PVP-rewards-The-team-is-now-distributing-the-reward",
+            "currencies": [
+                {
+                    "code": "GFT",
+                    "title": "Game Fantasy",
+                    "slug": "game-fantasy-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/game-fantasy-token\/"
+                },
+                {
+                    "code": "GFS",
+                    "title": "GameFantasyStar",
+                    "slug": "gamefantasystar",
+                    "url": "https:\/\/cryptopanic.com\/news\/gamefantasystar\/"
+                }
+            ],
+            "id": 18716430,
+            "url": "https:\/\/cryptopanic.com\/news\/18716430\/StarCrazy-For-PVP-Players-For-those-who-cannot-claim-PVP-rewards-The-team-is-now-distributing-the-reward",
+            "created_at": "2023-07-05T06:52:39Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@StarCrazyGame",
+            "source": {
+                "title": "Game Fantasy Token Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@starcrazygame"
+            },
+            "title": "#StarCrazy Updates!!!\n\nWhat's in Tuesday's news? \n\ufe0fDAO Meeting on July 17th\n\ufe0fExchangeable Energy Batteries\u2026",
+            "published_at": "2023-07-04T14:27:35Z",
+            "slug": "StarCrazy-Updates-Whats-in-Tuesdays-news-DAO-Meeting-on-July-17th-Exchangeable-Energy-Batteries",
+            "currencies": [
+                {
+                    "code": "GFT",
+                    "title": "Game Fantasy",
+                    "slug": "game-fantasy-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/game-fantasy-token\/"
+                },
+                {
+                    "code": "GFS",
+                    "title": "GameFantasyStar",
+                    "slug": "gamefantasystar",
+                    "url": "https:\/\/cryptopanic.com\/news\/gamefantasystar\/"
+                }
+            ],
+            "id": 18716431,
+            "url": "https:\/\/cryptopanic.com\/news\/18716431\/StarCrazy-Updates-Whats-in-Tuesdays-news-DAO-Meeting-on-July-17th-Exchangeable-Energy-Batteries",
+            "created_at": "2023-07-04T14:27:35Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@StarCrazyGame",
+            "source": {
+                "title": "Game Fantasy Token Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@starcrazygame"
+            },
+            "title": "#StarCrazy Updates!!!\n\nOpen all your item packages just with one click\nWe has already added that feature to t\u2026",
+            "published_at": "2023-07-03T11:20:58Z",
+            "slug": "StarCrazy-Updates-Open-all-your-item-packages-just-with-one-click-We-has-already-added-that-feature-to-t",
+            "currencies": [
+                {
+                    "code": "GFT",
+                    "title": "Game Fantasy",
+                    "slug": "game-fantasy-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/game-fantasy-token\/"
+                },
+                {
+                    "code": "GFS",
+                    "title": "GameFantasyStar",
+                    "slug": "gamefantasystar",
+                    "url": "https:\/\/cryptopanic.com\/news\/gamefantasystar\/"
+                }
+            ],
+            "id": 18709150,
+            "url": "https:\/\/cryptopanic.com\/news\/18709150\/StarCrazy-Updates-Open-all-your-item-packages-just-with-one-click-We-has-already-added-that-feature-to-t",
+            "created_at": "2023-07-03T11:20:58Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@galaxyfinance3",
+            "source": {
+                "title": "Galaxy Finance Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@galaxyfinance3"
+            },
+            "title": "RT @Crypto_Dep: \ufe0fBiggest Crypto Fundraising Events in June\n30 June 2023\n\n@Gensynai - $42M\n@Playmythical - $37M \n@Onetrading_com - $32.85M\u2026",
+            "published_at": "2023-07-01T05:49:59Z",
+            "slug": "RT-Crypto_Dep-Biggest-Crypto-Fundraising-Events-in-June-30-June-2023-Gensynai-42M-Playmythical-37M-Onetrading_com-3285M",
+            "currencies": [
+                {
+                    "code": "GFT",
+                    "title": "Galaxy Finance",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "GLF",
+                    "title": "Galaxy Finance GLF",
+                    "slug": "galaxy-finance-glf",
+                    "url": "https:\/\/cryptopanic.com\/news\/galaxy-finance-glf\/"
+                }
+            ],
+            "id": 18693604,
+            "url": "https:\/\/cryptopanic.com\/news\/18693604\/RT-Crypto_Dep-Biggest-Crypto-Fundraising-Events-in-June-30-June-2023-Gensynai-42M-Playmythical-37M-Onetrading_com-3285M",
+            "created_at": "2023-07-01T05:49:59Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@StarCrazyGame",
+            "source": {
+                "title": "Game Fantasy Token Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@starcrazygame"
+            },
+            "title": "#StarCrazy Updates!!!\n\nReenter the game to explore Stellar Mines\nWill you be a looter or a defender\ud83e\udd20\ud83e\udd20\n\nStay t\u2026",
+            "published_at": "2023-06-30T11:55:04Z",
+            "slug": "StarCrazy-Updates-Reenter-the-game-to-explore-Stellar-Mines-Will-you-be-a-looter-or-a-defender-Stay-t",
+            "currencies": [
+                {
+                    "code": "GFT",
+                    "title": "Game Fantasy",
+                    "slug": "game-fantasy-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/game-fantasy-token\/"
+                },
+                {
+                    "code": "GFS",
+                    "title": "GameFantasyStar",
+                    "slug": "gamefantasystar",
+                    "url": "https:\/\/cryptopanic.com\/news\/gamefantasystar\/"
+                },
+                {
+                    "code": "XLM",
+                    "title": "Stellar",
+                    "slug": "stellar",
+                    "url": "https:\/\/cryptopanic.com\/news\/stellar\/"
+                }
+            ],
+            "id": 18693615,
+            "url": "https:\/\/cryptopanic.com\/news\/18693615\/StarCrazy-Updates-Reenter-the-game-to-explore-Stellar-Mines-Will-you-be-a-looter-or-a-defender-Stay-t",
+            "created_at": "2023-06-30T11:55:04Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@StarCrazyGame",
+            "source": {
+                "title": "Game Fantasy Token Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@starcrazygame"
+            },
+            "title": "#StarCrazy Daily Q&amp;A!!!\n\nA 10-minute protection period for new mines\nSo don't be afraid to be a mine explorer\u2026",
+            "published_at": "2023-06-30T03:18:08Z",
+            "slug": "StarCrazy-Daily-QampA-A-10-minute-protection-period-for-new-mines-So-dont-be-afraid-to-be-a-mine-explorer",
+            "currencies": [
+                {
+                    "code": "GFT",
+                    "title": "Game Fantasy",
+                    "slug": "game-fantasy-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/game-fantasy-token\/"
+                },
+                {
+                    "code": "GFS",
+                    "title": "GameFantasyStar",
+                    "slug": "gamefantasystar",
+                    "url": "https:\/\/cryptopanic.com\/news\/gamefantasystar\/"
+                }
+            ],
+            "id": 18685761,
+            "url": "https:\/\/cryptopanic.com\/news\/18685761\/StarCrazy-Daily-QampA-A-10-minute-protection-period-for-new-mines-So-dont-be-afraid-to-be-a-mine-explorer",
+            "created_at": "2023-06-30T03:18:08Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@galaxyfinance3",
+            "source": {
+                "title": "Galaxy Finance Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@galaxyfinance3"
+            },
+            "title": "RT @CVL_CRYPTO: Top 1h #gainers now on \n\n#Ethereum #BNB #Fantom #Polygon #Avalanche #Optimism #Arbitrum #Harmony\u2026",
+            "published_at": "2023-06-29T15:44:36Z",
+            "slug": "RT-CVL_CRYPTO-Top-1h-gainers-now-on-Ethereum-BNB-Fantom-Polygon-Avalanche-Optimism-Arbitrum-Harmony",
+            "currencies": [
+                {
+                    "code": "GFT",
+                    "title": "Galaxy Finance",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "GLF",
+                    "title": "Galaxy Finance GLF",
+                    "slug": "galaxy-finance-glf",
+                    "url": "https:\/\/cryptopanic.com\/news\/galaxy-finance-glf\/"
+                }
+            ],
+            "id": 18685752,
+            "url": "https:\/\/cryptopanic.com\/news\/18685752\/RT-CVL_CRYPTO-Top-1h-gainers-now-on-Ethereum-BNB-Fantom-Polygon-Avalanche-Optimism-Arbitrum-Harmony",
+            "created_at": "2023-06-29T15:44:36Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@StarCrazyGame",
+            "source": {
+                "title": "Game Fantasy Token Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@starcrazygame"
+            },
+            "title": "Trade Starz and planets on mimo NFT marketplace now",
+            "published_at": "2023-06-29T02:27:23Z",
+            "slug": "Trade-Starz-and-planets-on-mimo-NFT-marketplace-now",
+            "currencies": [
+                {
+                    "code": "GFT",
+                    "title": "Game Fantasy",
+                    "slug": "game-fantasy-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/game-fantasy-token\/"
+                },
+                {
+                    "code": "GFS",
+                    "title": "GameFantasyStar",
+                    "slug": "gamefantasystar",
+                    "url": "https:\/\/cryptopanic.com\/news\/gamefantasystar\/"
+                }
+            ],
+            "id": 18677737,
+            "url": "https:\/\/cryptopanic.com\/news\/18677737\/Trade-Starz-and-planets-on-mimo-NFT-marketplace-now",
+            "created_at": "2023-06-29T02:27:23Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@StarCrazyGame",
+            "source": {
+                "title": "Game Fantasy Token Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@starcrazygame"
+            },
+            "title": "#StarCrazy News!!!\n\nThe syrup pool has been replenished\nCheck out the data of May\n\nThe hash for burning tok\u2026",
+            "published_at": "2023-06-29T02:23:29Z",
+            "slug": "StarCrazy-News-The-syrup-pool-has-been-replenished-Check-out-the-data-of-May-The-hash-for-burning-tok",
+            "currencies": [
+                {
+                    "code": "GFT",
+                    "title": "Game Fantasy",
+                    "slug": "game-fantasy-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/game-fantasy-token\/"
+                },
+                {
+                    "code": "GFS",
+                    "title": "GameFantasyStar",
+                    "slug": "gamefantasystar",
+                    "url": "https:\/\/cryptopanic.com\/news\/gamefantasystar\/"
+                }
+            ],
+            "id": 18677738,
+            "url": "https:\/\/cryptopanic.com\/news\/18677738\/StarCrazy-News-The-syrup-pool-has-been-replenished-Check-out-the-data-of-May-The-hash-for-burning-tok",
+            "created_at": "2023-06-29T02:23:29Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@galaxyfinance3",
+            "source": {
+                "title": "Galaxy Finance Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@galaxyfinance3"
+            },
+            "title": "RT @Crypto_Dep: \ufe0fTop Recent #Crypto Fundraising Events\n26 June 2023\n\n@Galaxyfinance3 - $30M\n@Bit2Me_Global - $15M\n@_Kaitoai - $5.5M\n@Poko_\u2026",
+            "published_at": "2023-06-28T15:28:52Z",
+            "slug": "RT-Crypto_Dep-Top-Recent-Crypto-Fundraising-Events-26-June-2023-Galaxyfinance3-30M-Bit2Me_Global-15M-_Kaitoai-55M-Poko_",
+            "currencies": [
+                {
+                    "code": "GFT",
+                    "title": "Galaxy Finance",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "GLF",
+                    "title": "Galaxy Finance GLF",
+                    "slug": "galaxy-finance-glf",
+                    "url": "https:\/\/cryptopanic.com\/news\/galaxy-finance-glf\/"
+                }
+            ],
+            "id": 18677728,
+            "url": "https:\/\/cryptopanic.com\/news\/18677728\/RT-Crypto_Dep-Top-Recent-Crypto-Fundraising-Events-26-June-2023-Galaxyfinance3-30M-Bit2Me_Global-15M-_Kaitoai-55M-Poko_",
+            "created_at": "2023-06-28T15:28:52Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@StarCrazyGame",
+            "source": {
+                "title": "Game Fantasy Token Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@starcrazygame"
+            },
+            "title": "#StarCrazy Daily Q&amp;A!!!\n\nStellar Mines have Starz limit\nPlan carefully for your Starz lineup\ud83e\udd20\ud83e\udd20\n\nBuy powerful\u2026",
+            "published_at": "2023-06-28T06:29:08Z",
+            "slug": "StarCrazy-Daily-QampA-Stellar-Mines-have-Starz-limit-Plan-carefully-for-your-Starz-lineup-Buy-powerful",
+            "currencies": [
+                {
+                    "code": "GFT",
+                    "title": "Game Fantasy",
+                    "slug": "game-fantasy-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/game-fantasy-token\/"
+                },
+                {
+                    "code": "GFS",
+                    "title": "GameFantasyStar",
+                    "slug": "gamefantasystar",
+                    "url": "https:\/\/cryptopanic.com\/news\/gamefantasystar\/"
+                }
+            ],
+            "id": 18669494,
+            "url": "https:\/\/cryptopanic.com\/news\/18669494\/StarCrazy-Daily-QampA-Stellar-Mines-have-Starz-limit-Plan-carefully-for-your-Starz-lineup-Buy-powerful",
+            "created_at": "2023-06-28T06:29:08Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@StarCrazyGame",
+            "source": {
+                "title": "Game Fantasy Token Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@starcrazygame"
+            },
+            "title": "#StarCrazy Updates!!!\n\nWhat's in Tuesday's news? \n\ufe0fQ&amp;As for the new feature\ufe0f\ufe0f\n\ufe0fGraphics of Stellar Mines\u2026",
+            "published_at": "2023-06-27T14:59:55Z",
+            "slug": "StarCrazy-Updates-Whats-in-Tuesdays-news-QampAs-for-the-new-feature-Graphics-of-Stellar-Mines",
+            "currencies": [
+                {
+                    "code": "GFT",
+                    "title": "Game Fantasy",
+                    "slug": "game-fantasy-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/game-fantasy-token\/"
+                },
+                {
+                    "code": "GFS",
+                    "title": "GameFantasyStar",
+                    "slug": "gamefantasystar",
+                    "url": "https:\/\/cryptopanic.com\/news\/gamefantasystar\/"
+                },
+                {
+                    "code": "XLM",
+                    "title": "Stellar",
+                    "slug": "stellar",
+                    "url": "https:\/\/cryptopanic.com\/news\/stellar\/"
+                }
+            ],
+            "id": 18669495,
+            "url": "https:\/\/cryptopanic.com\/news\/18669495\/StarCrazy-Updates-Whats-in-Tuesdays-news-QampAs-for-the-new-feature-Graphics-of-Stellar-Mines",
+            "created_at": "2023-06-27T14:59:55Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GiftoMetaverse",
+            "source": {
+                "title": "Gifto Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@giftometaverse"
+            },
+            "title": "There are days when you feel like doing something nice for a person you care about. Just like that \ud83e\udef6\n\n$GFT is your\u2026",
+            "published_at": "2023-06-27T14:31:58Z",
+            "slug": "There-are-days-when-you-feel-like-doing-something-nice-for-a-person-you-care-about-Just-like-that-GFT-is-your",
+            "currencies": [
+                {
+                    "code": "GFT",
+                    "title": "Gifto",
+                    "slug": "gifto",
+                    "url": "https:\/\/cryptopanic.com\/news\/gifto\/"
+                }
+            ],
+            "id": 18669590,
+            "url": "https:\/\/cryptopanic.com\/news\/18669590\/There-are-days-when-you-feel-like-doing-something-nice-for-a-person-you-care-about-Just-like-that-GFT-is-your",
+            "created_at": "2023-06-27T14:31:58Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

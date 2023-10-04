@@ -1,0 +1,1031 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=APE&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "coingabbar.com",
+            "source": {
+                "title": "coingabbar",
+                "region": "en",
+                "domain": "coingabbar.com",
+                "path": null
+            },
+            "title": "Crypto Daily Roundup, 03 Oct: Could October's Bull Run Boost Crypto?",
+            "published_at": "2023-10-03T08:30:00Z",
+            "slug": "Crypto-Daily-Roundup-03-Oct-Could-Octobers-Bull-Run-Boost-Crypto",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "AVAX",
+                    "title": "Avalanche",
+                    "slug": "avalanche-2",
+                    "url": "https:\/\/cryptopanic.com\/news\/avalanche-2\/"
+                },
+                {
+                    "code": "ATOM",
+                    "title": "Cosmos Hub",
+                    "slug": "cosmos",
+                    "url": "https:\/\/cryptopanic.com\/news\/cosmos\/"
+                },
+                {
+                    "code": "APT",
+                    "title": "Aptos",
+                    "slug": "aptos",
+                    "url": "https:\/\/cryptopanic.com\/news\/aptos\/"
+                },
+                {
+                    "code": "OP",
+                    "title": "Optimism",
+                    "slug": "optimism",
+                    "url": "https:\/\/cryptopanic.com\/news\/optimism\/"
+                },
+                {
+                    "code": "IMX",
+                    "title": "ImmutableX",
+                    "slug": "immutable-x",
+                    "url": "https:\/\/cryptopanic.com\/news\/immutable-x\/"
+                },
+                {
+                    "code": "AXS",
+                    "title": "Axie Infinity",
+                    "slug": "axie-infinity",
+                    "url": "https:\/\/cryptopanic.com\/news\/axie-infinity\/"
+                },
+                {
+                    "code": "APE",
+                    "title": "ApeCoin",
+                    "slug": "apecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/apecoin\/"
+                },
+                {
+                    "code": "SUI",
+                    "title": "Sui",
+                    "slug": "sui",
+                    "url": "https:\/\/cryptopanic.com\/news\/sui\/"
+                }
+            ],
+            "id": 18943929,
+            "url": "https:\/\/cryptopanic.com\/news\/18943929\/Crypto-Daily-Roundup-03-Oct-Could-Octobers-Bull-Run-Boost-Crypto",
+            "created_at": "2023-10-03T08:30:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "ApeCoin flashes bullish rebound signs but there\u2019s more to the story",
+            "published_at": "2023-10-02T22:30:48Z",
+            "slug": "ApeCoin-flashes-bullish-rebound-signs-but-theres-more-to-the-story",
+            "currencies": [
+                {
+                    "code": "APE",
+                    "title": "ApeCoin",
+                    "slug": "apecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/apecoin\/"
+                }
+            ],
+            "id": 18943246,
+            "url": "https:\/\/cryptopanic.com\/news\/18943246\/ApeCoin-flashes-bullish-rebound-signs-but-theres-more-to-the-story",
+            "created_at": "2023-10-02T22:30:48Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "These 3 Cryptos Could Drop to New Lows in October",
+            "published_at": "2023-10-02T14:15:00Z",
+            "slug": "These-3-Cryptos-Could-Drop-to-New-Lows-in-October",
+            "currencies": [
+                {
+                    "code": "ALGO",
+                    "title": "Algorand",
+                    "slug": "algorand",
+                    "url": "https:\/\/cryptopanic.com\/news\/algorand\/"
+                },
+                {
+                    "code": "EOS",
+                    "title": "EOS",
+                    "slug": "eos",
+                    "url": "https:\/\/cryptopanic.com\/news\/eos\/"
+                },
+                {
+                    "code": "APE",
+                    "title": "ApeCoin",
+                    "slug": "apecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/apecoin\/"
+                }
+            ],
+            "id": 18942260,
+            "url": "https:\/\/cryptopanic.com\/news\/18942260\/These-3-Cryptos-Could-Drop-to-New-Lows-in-October",
+            "created_at": "2023-10-02T14:15:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "Axie Infinity (AXS) and Optimism (OP) Drive $200M October Token Release",
+            "published_at": "2023-10-01T14:34:02Z",
+            "slug": "Axie-Infinity-AXS-and-Optimism-OP-Drive-200M-October-Token-Release",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "APT",
+                    "title": "Aptos",
+                    "slug": "aptos",
+                    "url": "https:\/\/cryptopanic.com\/news\/aptos\/"
+                },
+                {
+                    "code": "OP",
+                    "title": "Optimism",
+                    "slug": "optimism",
+                    "url": "https:\/\/cryptopanic.com\/news\/optimism\/"
+                },
+                {
+                    "code": "IMX",
+                    "title": "ImmutableX",
+                    "slug": "immutable-x",
+                    "url": "https:\/\/cryptopanic.com\/news\/immutable-x\/"
+                },
+                {
+                    "code": "AXS",
+                    "title": "Axie Infinity",
+                    "slug": "axie-infinity",
+                    "url": "https:\/\/cryptopanic.com\/news\/axie-infinity\/"
+                },
+                {
+                    "code": "APE",
+                    "title": "ApeCoin",
+                    "slug": "apecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/apecoin\/"
+                }
+            ],
+            "id": 18940381,
+            "url": "https:\/\/cryptopanic.com\/news\/18940381\/Axie-Infinity-AXS-and-Optimism-OP-Drive-200M-October-Token-Release",
+            "created_at": "2023-10-01T14:34:02Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinedition.com",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "coinedition",
+                "region": "en",
+                "domain": "coinedition.com",
+                "path": null
+            },
+            "title": "OP, AXS and APT Are the Biggest Unlock Events for This October",
+            "published_at": "2023-10-01T09:58:00Z",
+            "slug": "OP-AXS-and-APT-Are-the-Biggest-Unlock-Events-for-This-October",
+            "currencies": [
+                {
+                    "code": "APT",
+                    "title": "Aptos",
+                    "slug": "aptos",
+                    "url": "https:\/\/cryptopanic.com\/news\/aptos\/"
+                },
+                {
+                    "code": "OP",
+                    "title": "Optimism",
+                    "slug": "optimism",
+                    "url": "https:\/\/cryptopanic.com\/news\/optimism\/"
+                },
+                {
+                    "code": "AXS",
+                    "title": "Axie Infinity",
+                    "slug": "axie-infinity",
+                    "url": "https:\/\/cryptopanic.com\/news\/axie-infinity\/"
+                },
+                {
+                    "code": "APE",
+                    "title": "ApeCoin",
+                    "slug": "apecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/apecoin\/"
+                },
+                {
+                    "code": "SUI",
+                    "title": "Sui",
+                    "slug": "sui",
+                    "url": "https:\/\/cryptopanic.com\/news\/sui\/"
+                }
+            ],
+            "id": 18940024,
+            "url": "https:\/\/cryptopanic.com\/news\/18940024\/OP-AXS-and-APT-Are-the-Biggest-Unlock-Events-for-This-October",
+            "created_at": "2023-10-01T09:58:00Z"
+        },
+        {
+            "kind": "news",
+            "domain": "dailycoin.com",
+            "source": {
+                "title": "Dailycoin",
+                "region": "en",
+                "domain": "dailycoin.com",
+                "path": null
+            },
+            "title": "ApeCoin Tops SHIB, PEPE in Trading Volume on a Rebound Rally",
+            "published_at": "2023-09-29T18:05:00Z",
+            "slug": "ApeCoin-Tops-SHIB-PEPE-in-Trading-Volume-on-a-Rebound-Rally",
+            "currencies": [
+                {
+                    "code": "SHIB",
+                    "title": "Shiba Inu",
+                    "slug": "shiba-inu",
+                    "url": "https:\/\/cryptopanic.com\/news\/shiba-inu\/"
+                },
+                {
+                    "code": "APE",
+                    "title": "ApeCoin",
+                    "slug": "apecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/apecoin\/"
+                }
+            ],
+            "id": 18938052,
+            "url": "https:\/\/cryptopanic.com\/news\/18938052\/ApeCoin-Tops-SHIB-PEPE-in-Trading-Volume-on-a-Rebound-Rally",
+            "created_at": "2023-09-29T18:05:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptodaily.co.uk",
+            "source": {
+                "title": "CryptoDaily",
+                "region": "en",
+                "domain": "cryptodaily.co.uk",
+                "path": null
+            },
+            "title": "Breaking Price Predictions: Polygon and Apecoin Face Resistance While Everlodge Revolutionizes Timeshares Industry with Enhanced Liquidity!",
+            "published_at": "2023-09-29T18:00:45Z",
+            "slug": "Breaking-Price-Predictions-Polygon-and-Apecoin-Face-Resistance-While-Everlodge-Revolutionizes-Timeshares-Industry-with-Enhanced-Liquidity",
+            "currencies": [
+                {
+                    "code": "MATIC",
+                    "title": "Polygon",
+                    "slug": "matic-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-network\/"
+                },
+                {
+                    "code": "APE",
+                    "title": "ApeCoin",
+                    "slug": "apecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/apecoin\/"
+                }
+            ],
+            "id": 18938051,
+            "url": "https:\/\/cryptopanic.com\/news\/18938051\/Breaking-Price-Predictions-Polygon-and-Apecoin-Face-Resistance-While-Everlodge-Revolutionizes-Timeshares-Industry-with-Enhanced-Liquidity",
+            "created_at": "2023-09-29T18:00:45Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "Why ApeCoin\u2019s fortunes could soon change",
+            "published_at": "2023-09-28T01:30:38Z",
+            "slug": "Why-ApeCoins-fortunes-could-soon-change",
+            "currencies": [
+                {
+                    "code": "APE",
+                    "title": "ApeCoin",
+                    "slug": "apecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/apecoin\/"
+                }
+            ],
+            "id": 18933375,
+            "url": "https:\/\/cryptopanic.com\/news\/18933375\/Why-ApeCoins-fortunes-could-soon-change",
+            "created_at": "2023-09-28T01:30:38Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "en.bitcoinsistemi.com",
+            "source": {
+                "title": "en bitcoinsistemi",
+                "region": "en",
+                "domain": "en.bitcoinsistemi.com",
+                "path": null
+            },
+            "title": "Best Crypto To Buy In September Apecoin (APE), Stellar (XLM) And Shiba Budz (BUDZ)",
+            "published_at": "2023-09-27T15:00:30Z",
+            "slug": "Best-Crypto-To-Buy-In-September-Apecoin-APE-Stellar-XLM-And-Shiba-Budz-BUDZ",
+            "currencies": [
+                {
+                    "code": "XLM",
+                    "title": "Stellar",
+                    "slug": "stellar",
+                    "url": "https:\/\/cryptopanic.com\/news\/stellar\/"
+                },
+                {
+                    "code": "APE",
+                    "title": "ApeCoin",
+                    "slug": "apecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/apecoin\/"
+                }
+            ],
+            "id": 18932295,
+            "url": "https:\/\/cryptopanic.com\/news\/18932295\/Best-Crypto-To-Buy-In-September-Apecoin-APE-Stellar-XLM-And-Shiba-Budz-BUDZ",
+            "created_at": "2023-09-27T15:00:30Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinedition.com",
+            "source": {
+                "title": "coinedition",
+                "region": "en",
+                "domain": "coinedition.com",
+                "path": null
+            },
+            "title": "Why APE and GALA\u2019s Downtrend Could Turn Profitable Soon",
+            "published_at": "2023-09-27T13:45:00Z",
+            "slug": "Why-APE-and-GALAs-Downtrend-Could-Turn-Profitable-Soon",
+            "currencies": [
+                {
+                    "code": "APE",
+                    "title": "ApeCoin",
+                    "slug": "apecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/apecoin\/"
+                },
+                {
+                    "code": "GALA",
+                    "title": "GALA",
+                    "slug": "gala",
+                    "url": "https:\/\/cryptopanic.com\/news\/gala\/"
+                }
+            ],
+            "id": 18932061,
+            "url": "https:\/\/cryptopanic.com\/news\/18932061\/Why-APE-and-GALAs-Downtrend-Could-Turn-Profitable-Soon",
+            "created_at": "2023-09-27T13:45:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptodaily.co.uk",
+            "source": {
+                "title": "CryptoDaily",
+                "region": "en",
+                "domain": "cryptodaily.co.uk",
+                "path": null
+            },
+            "title": "Tradecurve Markets\u2019 (TCRV) Launches Demo Platform, While ApeCoin (APE) and Floki Inu (FLOKI) Suffer Existential Crisis",
+            "published_at": "2023-09-27T13:36:17Z",
+            "slug": "Tradecurve-Markets-TCRV-Launches-Demo-Platform-While-ApeCoin-APE-and-Floki-Inu-FLOKI-Suffer-Existential-Crisis",
+            "currencies": [
+                {
+                    "code": "APE",
+                    "title": "ApeCoin",
+                    "slug": "apecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/apecoin\/"
+                }
+            ],
+            "id": 18932012,
+            "url": "https:\/\/cryptopanic.com\/news\/18932012\/Tradecurve-Markets-TCRV-Launches-Demo-Platform-While-ApeCoin-APE-and-Floki-Inu-FLOKI-Suffer-Existential-Crisis",
+            "created_at": "2023-09-27T13:36:17Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "thedefiant.io",
+            "source": {
+                "title": "DeFi News",
+                "region": "en",
+                "domain": "thedefiant.io",
+                "path": null
+            },
+            "title": "ApeCoin Community To Acquire Top NFTs Through New DAO",
+            "published_at": "2023-09-24T04:26:11Z",
+            "slug": "ApeCoin-Community-To-Acquire-Top-NFTs-Through-New-DAO",
+            "currencies": [
+                {
+                    "code": "APE",
+                    "title": "ApeCoin",
+                    "slug": "apecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/apecoin\/"
+                }
+            ],
+            "id": 18924288,
+            "url": "https:\/\/cryptopanic.com\/news\/18924288\/ApeCoin-Community-To-Acquire-Top-NFTs-Through-New-DAO",
+            "created_at": "2023-09-24T04:26:11Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Immutable (IMX) Up By 23% In A Single Day, Analyst Suspects Market Manipulation",
+            "published_at": "2023-09-22T03:00:20Z",
+            "slug": "Immutable-IMX-Up-By-23-In-A-Single-Day-Analyst-Suspects-Market-Manipulation",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "SHIB",
+                    "title": "Shiba Inu",
+                    "slug": "shiba-inu",
+                    "url": "https:\/\/cryptopanic.com\/news\/shiba-inu\/"
+                },
+                {
+                    "code": "IMX",
+                    "title": "ImmutableX",
+                    "slug": "immutable-x",
+                    "url": "https:\/\/cryptopanic.com\/news\/immutable-x\/"
+                },
+                {
+                    "code": "AXS",
+                    "title": "Axie Infinity",
+                    "slug": "axie-infinity",
+                    "url": "https:\/\/cryptopanic.com\/news\/axie-infinity\/"
+                },
+                {
+                    "code": "APE",
+                    "title": "ApeCoin",
+                    "slug": "apecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/apecoin\/"
+                }
+            ],
+            "id": 18920664,
+            "url": "https:\/\/cryptopanic.com\/news\/18920664\/Immutable-IMX-Up-By-23-In-A-Single-Day-Analyst-Suspects-Market-Manipulation",
+            "created_at": "2023-09-22T03:00:20Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "Will ApeCoin\u2019s \u2018influential NFTs\u2019 halt APE\u2019s price plummet?",
+            "published_at": "2023-09-19T13:30:50Z",
+            "slug": "Will-ApeCoins-influential-NFTs-halt-APEs-price-plummet",
+            "currencies": [
+                {
+                    "code": "APE",
+                    "title": "ApeCoin",
+                    "slug": "apecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/apecoin\/"
+                }
+            ],
+            "id": 18913641,
+            "url": "https:\/\/cryptopanic.com\/news\/18913641\/Will-ApeCoins-influential-NFTs-halt-APEs-price-plummet",
+            "created_at": "2023-09-19T13:30:50Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "theblock.co",
+            "source": {
+                "title": "The Block",
+                "region": "en",
+                "domain": "theblock.co",
+                "path": null
+            },
+            "title": "ApeCoin DAO currently voting in favor of sister DAO to acquire influential NFTs",
+            "published_at": "2023-09-18T14:09:46Z",
+            "slug": "ApeCoin-DAO-currently-voting-in-favor-of-sister-DAO-to-acquire-influential-NFTs",
+            "currencies": [
+                {
+                    "code": "APE",
+                    "title": "ApeCoin",
+                    "slug": "apecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/apecoin\/"
+                }
+            ],
+            "id": 18911028,
+            "url": "https:\/\/cryptopanic.com\/news\/18911028\/ApeCoin-DAO-currently-voting-in-favor-of-sister-DAO-to-acquire-influential-NFTs",
+            "created_at": "2023-09-18T14:09:46Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Bitcoin Dominates Ethereum In Daily Active Addresses Despite Lagging In TX Count",
+            "published_at": "2023-09-16T01:00:32Z",
+            "slug": "Bitcoin-Dominates-Ethereum-In-Daily-Active-Addresses-Despite-Lagging-In-TX-Count",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "DOGE",
+                    "title": "Dogecoin",
+                    "slug": "dogecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/dogecoin\/"
+                },
+                {
+                    "code": "APE",
+                    "title": "ApeCoin",
+                    "slug": "apecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/apecoin\/"
+                }
+            ],
+            "id": 18907273,
+            "url": "https:\/\/cryptopanic.com\/news\/18907273\/Bitcoin-Dominates-Ethereum-In-Daily-Active-Addresses-Despite-Lagging-In-TX-Count",
+            "created_at": "2023-09-16T01:00:32Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "votes": {
+                "negative": 1,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 1,
+                "lol": 1,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "Dogecoin (DOGE) Price on the Rise After FTX Liquidation Relief \u2013 More Gains Ahead?",
+            "published_at": "2023-09-15T09:15:00Z",
+            "slug": "Dogecoin-DOGE-Price-on-the-Rise-After-FTX-Liquidation-Relief-More-Gains-Ahead",
+            "currencies": [
+                {
+                    "code": "DOGE",
+                    "title": "Dogecoin",
+                    "slug": "dogecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/dogecoin\/"
+                },
+                {
+                    "code": "LTC",
+                    "title": "Litecoin",
+                    "slug": "litecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/litecoin\/"
+                },
+                {
+                    "code": "APE",
+                    "title": "ApeCoin",
+                    "slug": "apecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/apecoin\/"
+                }
+            ],
+            "id": 18905229,
+            "url": "https:\/\/cryptopanic.com\/news\/18905229\/Dogecoin-DOGE-Price-on-the-Rise-After-FTX-Liquidation-Relief-More-Gains-Ahead",
+            "created_at": "2023-09-15T09:15:00Z"
+        },
+        {
+            "kind": "news",
+            "domain": "coingabbar.com",
+            "source": {
+                "title": "coingabbar",
+                "region": "en",
+                "domain": "coingabbar.com",
+                "path": null
+            },
+            "title": "24 Crypto Update, 14 Sep: Crypto market steadily climbs",
+            "published_at": "2023-09-15T01:30:00Z",
+            "slug": "24-Crypto-Update-14-Sep-Crypto-market-steadily-climbs",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                },
+                {
+                    "code": "USDC",
+                    "title": "USD Coin",
+                    "slug": "usd-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/usd-coin\/"
+                },
+                {
+                    "code": "ADA",
+                    "title": "Cardano",
+                    "slug": "cardano",
+                    "url": "https:\/\/cryptopanic.com\/news\/cardano\/"
+                },
+                {
+                    "code": "DOGE",
+                    "title": "Dogecoin",
+                    "slug": "dogecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/dogecoin\/"
+                },
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "DOT",
+                    "title": "Polkadot",
+                    "slug": "polkadot",
+                    "url": "https:\/\/cryptopanic.com\/news\/polkadot\/"
+                },
+                {
+                    "code": "LTC",
+                    "title": "Litecoin",
+                    "slug": "litecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/litecoin\/"
+                },
+                {
+                    "code": "TUSD",
+                    "title": "TrueUSD",
+                    "slug": "true-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/true-usd\/"
+                },
+                {
+                    "code": "BUSD",
+                    "title": "Binance USD",
+                    "slug": "binance-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/binance-usd\/"
+                },
+                {
+                    "code": "NEAR",
+                    "title": "NEAR Protocol",
+                    "slug": "near",
+                    "url": "https:\/\/cryptopanic.com\/news\/near\/"
+                },
+                {
+                    "code": "AXS",
+                    "title": "Axie Infinity",
+                    "slug": "axie-infinity",
+                    "url": "https:\/\/cryptopanic.com\/news\/axie-infinity\/"
+                },
+                {
+                    "code": "APE",
+                    "title": "ApeCoin",
+                    "slug": "apecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/apecoin\/"
+                }
+            ],
+            "id": 18904795,
+            "url": "https:\/\/cryptopanic.com\/news\/18904795\/24-Crypto-Update-14-Sep-Crypto-market-steadily-climbs",
+            "created_at": "2023-09-15T01:30:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "dailyhodl.com",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 2,
+                "comments": 0
+            },
+            "source": {
+                "title": "The Daily Hodl",
+                "region": "en",
+                "domain": "dailyhodl.com",
+                "path": null
+            },
+            "title": "Crypto Trader Says One Ethereum-Based Altcoin Primed To \u2018Do Big Numbers\u2019, Updates Outlook on Bitcoin and Polygon",
+            "published_at": "2023-09-14T18:05:31Z",
+            "slug": "Crypto-Trader-Says-One-Ethereum-Based-Altcoin-Primed-To-Do-Big-Numbers-Updates-Outlook-on-Bitcoin-and-Polygon",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "MATIC",
+                    "title": "Polygon",
+                    "slug": "matic-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-network\/"
+                },
+                {
+                    "code": "LINK",
+                    "title": "Chainlink",
+                    "slug": "chainlink",
+                    "url": "https:\/\/cryptopanic.com\/news\/chainlink\/"
+                },
+                {
+                    "code": "APE",
+                    "title": "ApeCoin",
+                    "slug": "apecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/apecoin\/"
+                }
+            ],
+            "id": 18903950,
+            "url": "https:\/\/cryptopanic.com\/news\/18903950\/Crypto-Trader-Says-One-Ethereum-Based-Altcoin-Primed-To-Do-Big-Numbers-Updates-Outlook-on-Bitcoin-and-Polygon",
+            "created_at": "2023-09-14T18:05:31Z"
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 1,
+                "comments": 0
+            },
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "Crypto Whales are Accumulating These Altcoins at Discount",
+            "published_at": "2023-09-14T12:45:00Z",
+            "slug": "Crypto-Whales-are-Accumulating-These-Altcoins-at-Discount",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "MATIC",
+                    "title": "Polygon",
+                    "slug": "matic-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-network\/"
+                },
+                {
+                    "code": "LTC",
+                    "title": "Litecoin",
+                    "slug": "litecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/litecoin\/"
+                },
+                {
+                    "code": "OP",
+                    "title": "Optimism",
+                    "slug": "optimism",
+                    "url": "https:\/\/cryptopanic.com\/news\/optimism\/"
+                },
+                {
+                    "code": "APE",
+                    "title": "ApeCoin",
+                    "slug": "apecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/apecoin\/"
+                }
+            ],
+            "id": 18903182,
+            "url": "https:\/\/cryptopanic.com\/news\/18903182\/Crypto-Whales-are-Accumulating-These-Altcoins-at-Discount",
+            "created_at": "2023-09-14T12:45:00Z"
+        }
+    ]
+}

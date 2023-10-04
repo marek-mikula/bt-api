@@ -1,0 +1,839 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=DREP&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "@drep_foundation",
+            "source": {
+                "title": "Drep Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@drep_foundation"
+            },
+            "title": "RT @DrepOfficial: Following the grayscale test, #DREP 2.0 will integrate with the #BSC, where $DREP will be enabled for #BEP20 transfers.\u2026",
+            "published_at": "2021-04-02T12:09:24Z",
+            "slug": "RT-DrepOfficial-Following-the-grayscale-test-DREP-20-will-integrate-with-the-BSC-where-DREP-will-be-enabled-for-BEP20-transfers",
+            "currencies": [
+                {
+                    "code": "DREP",
+                    "title": "Drep [OLD]",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "DREP",
+                    "title": "Drep",
+                    "slug": "drep-new",
+                    "url": "https:\/\/cryptopanic.com\/news\/drep-new\/"
+                }
+            ],
+            "id": 11714032,
+            "url": "https:\/\/cryptopanic.com\/news\/11714032\/RT-DrepOfficial-Following-the-grayscale-test-DREP-20-will-integrate-with-the-BSC-where-DREP-will-be-enabled-for-BEP20-transfers",
+            "created_at": "2021-04-02T12:09:24Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@drep_foundation",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "Drep Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@drep_foundation"
+            },
+            "title": "RT @DrepOfficial: Time to count down for the official launch of #DREP\u2019s Killer Product! \n\nWhat to expect? \ud83e\udd14\nA #crosschain solution to boos\u2026",
+            "published_at": "2021-03-26T10:46:54Z",
+            "slug": "RT-DrepOfficial-Time-to-count-down-for-the-official-launch-of-DREPs-Killer-Product-What-to-expect-A-crosschain-solution-to-boos",
+            "currencies": [
+                {
+                    "code": "DREP",
+                    "title": "Drep [OLD]",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "DREP",
+                    "title": "Drep",
+                    "slug": "drep-new",
+                    "url": "https:\/\/cryptopanic.com\/news\/drep-new\/"
+                }
+            ],
+            "id": 11681945,
+            "url": "https:\/\/cryptopanic.com\/news\/11681945\/RT-DrepOfficial-Time-to-count-down-for-the-official-launch-of-DREPs-Killer-Product-What-to-expect-A-crosschain-solution-to-boos",
+            "created_at": "2021-03-26T10:46:54Z"
+        },
+        {
+            "kind": "news",
+            "domain": "@drep_foundation",
+            "source": {
+                "title": "Drep Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@drep_foundation"
+            },
+            "title": "RT @FoundationDrep: Gate Exchange @gate_io has completed $DREP upgrade and started the trading of UPGRADED $DREP \/ $USDT and $DREP \/ $ETH t\u2026",
+            "published_at": "2021-03-25T11:00:59Z",
+            "slug": "RT-FoundationDrep-Gate-Exchange-gate_io-has-completed-DREP-upgrade-and-started-the-trading-of-UPGRADED-DREP-USDT-and-DREP-ETH-t",
+            "currencies": [
+                {
+                    "code": "DREP",
+                    "title": "Drep [OLD]",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "DREP",
+                    "title": "Drep",
+                    "slug": "drep-new",
+                    "url": "https:\/\/cryptopanic.com\/news\/drep-new\/"
+                },
+                {
+                    "code": "GT",
+                    "title": "Gate",
+                    "slug": "gatechain-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/gatechain-token\/"
+                }
+            ],
+            "id": 11676956,
+            "url": "https:\/\/cryptopanic.com\/news\/11676956\/RT-FoundationDrep-Gate-Exchange-gate_io-has-completed-DREP-upgrade-and-started-the-trading-of-UPGRADED-DREP-USDT-and-DREP-ETH-t",
+            "created_at": "2021-03-25T11:00:59Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@drep_foundation",
+            "votes": {
+                "negative": 1,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "Drep Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@drep_foundation"
+            },
+            "title": "RT @FoundationDrep: The DREP Upgrade &amp; Redenomination Day is in just 8 days!\n\n#Binance @Binance trading will be open for the new $DREP at\u2026",
+            "published_at": "2021-03-25T10:05:22Z",
+            "slug": "RT-FoundationDrep-The-DREP-Upgrade-amp-Redenomination-Day-is-in-just-8-days-Binance-Binance-trading-will-be-open-for-the-new-DREP-at",
+            "currencies": [
+                {
+                    "code": "DREP",
+                    "title": "Drep [OLD]",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "DREP",
+                    "title": "Drep",
+                    "slug": "drep-new",
+                    "url": "https:\/\/cryptopanic.com\/news\/drep-new\/"
+                }
+            ],
+            "id": 11676957,
+            "url": "https:\/\/cryptopanic.com\/news\/11676957\/RT-FoundationDrep-The-DREP-Upgrade-amp-Redenomination-Day-is-in-just-8-days-Binance-Binance-trading-will-be-open-for-the-new-DREP-at",
+            "created_at": "2021-03-25T10:05:22Z"
+        },
+        {
+            "kind": "news",
+            "domain": "@drep_foundation",
+            "source": {
+                "title": "Drep Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@drep_foundation"
+            },
+            "title": "RT @FoundationDrep: DREP\u2019s official Twitter account @DrepOfficial has been locked for unknown reasons. We are actively contacting Twitter o\u2026",
+            "published_at": "2021-03-25T09:34:31Z",
+            "slug": "RT-FoundationDrep-DREPs-official-Twitter-account-DrepOfficial-has-been-locked-for-unknown-reasons-We-are-actively-contacting-Twitter-o",
+            "currencies": [
+                {
+                    "code": "DREP",
+                    "title": "Drep",
+                    "slug": "drep",
+                    "url": "https:\/\/cryptopanic.com\/news\/drep\/"
+                }
+            ],
+            "id": 11676958,
+            "url": "https:\/\/cryptopanic.com\/news\/11676958\/RT-FoundationDrep-DREPs-official-Twitter-account-DrepOfficial-has-been-locked-for-unknown-reasons-We-are-actively-contacting-Twitter-o",
+            "created_at": "2021-03-25T09:34:31Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@drep_foundation",
+            "source": {
+                "title": "Drep Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@drep_foundation"
+            },
+            "title": "RT @DrepOfficial: #Binance @binance Will Support the #DREP 2.0 Upgrade Plan &amp; $DREP 100:1 Redenomination from 2021-03-22 on.\n\n The total s\u2026",
+            "published_at": "2021-03-19T10:07:17Z",
+            "slug": "RT-DrepOfficial-Binance-binance-Will-Support-the-DREP-20-Upgrade-Plan-amp-DREP-1001-Redenomination-from-2021-03-22-on-The-total-s",
+            "currencies": [
+                {
+                    "code": "DREP",
+                    "title": "Drep [OLD]",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "DREP",
+                    "title": "Drep",
+                    "slug": "drep-new",
+                    "url": "https:\/\/cryptopanic.com\/news\/drep-new\/"
+                }
+            ],
+            "id": 11648936,
+            "url": "https:\/\/cryptopanic.com\/news\/11648936\/RT-DrepOfficial-Binance-binance-Will-Support-the-DREP-20-Upgrade-Plan-amp-DREP-1001-Redenomination-from-2021-03-22-on-The-total-s",
+            "created_at": "2021-03-19T10:07:17Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@drep_foundation",
+            "source": {
+                "title": "Drep Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@drep_foundation"
+            },
+            "title": "RT @binance: #Binance Will Support the @DrepOfficial $DREP 100:1 Redenomination Plan",
+            "published_at": "2021-03-19T10:07:15Z",
+            "slug": "RT-binance-Binance-Will-Support-the-DrepOfficial-DREP-1001-Redenomination-Plan",
+            "currencies": [
+                {
+                    "code": "DREP",
+                    "title": "Drep [OLD]",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "DREP",
+                    "title": "Drep",
+                    "slug": "drep-new",
+                    "url": "https:\/\/cryptopanic.com\/news\/drep-new\/"
+                }
+            ],
+            "id": 11648937,
+            "url": "https:\/\/cryptopanic.com\/news\/11648937\/RT-binance-Binance-Will-Support-the-DrepOfficial-DREP-1001-Redenomination-Plan",
+            "created_at": "2021-03-19T10:07:15Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@drep_foundation",
+            "source": {
+                "title": "Drep Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@drep_foundation"
+            },
+            "title": "RT @DrepOfficial: A surprise #announcement for the upcoming #DREP secret KILLER product \ud83e\udd29\nWe can\u2019t wait to share it, though its launch is l\u2026",
+            "published_at": "2021-03-15T11:37:54Z",
+            "slug": "RT-DrepOfficial-A-surprise-announcement-for-the-upcoming-DREP-secret-KILLER-product-We-cant-wait-to-share-it-though-its-launch-is-l",
+            "currencies": [
+                {
+                    "code": "DREP",
+                    "title": "Drep [OLD]",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "DREP",
+                    "title": "Drep",
+                    "slug": "drep-new",
+                    "url": "https:\/\/cryptopanic.com\/news\/drep-new\/"
+                },
+                {
+                    "code": "SCRT",
+                    "title": "Secret",
+                    "slug": "secret",
+                    "url": "https:\/\/cryptopanic.com\/news\/secret\/"
+                }
+            ],
+            "id": 11626683,
+            "url": "https:\/\/cryptopanic.com\/news\/11626683\/RT-DrepOfficial-A-surprise-announcement-for-the-upcoming-DREP-secret-KILLER-product-We-cant-wait-to-share-it-though-its-launch-is-l",
+            "created_at": "2021-03-15T11:37:54Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@drep_foundation",
+            "source": {
+                "title": "Drep Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@drep_foundation"
+            },
+            "title": "RT @DrepOfficial: Introducing the #NFT + #DeFi Application of $DREP: \n\n\ud83e\udde9Credit-asset-backed NFT, to caputure the value of multidimensional\u2026",
+            "published_at": "2021-03-15T02:53:12Z",
+            "slug": "RT-DrepOfficial-Introducing-the-NFT-DeFi-Application-of-DREP-Credit-asset-backed-NFT-to-caputure-the-value-of-multidimensional",
+            "currencies": [
+                {
+                    "code": "DREP",
+                    "title": "Drep [OLD]",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "DREP",
+                    "title": "Drep",
+                    "slug": "drep-new",
+                    "url": "https:\/\/cryptopanic.com\/news\/drep-new\/"
+                }
+            ],
+            "id": 11621606,
+            "url": "https:\/\/cryptopanic.com\/news\/11621606\/RT-DrepOfficial-Introducing-the-NFT-DeFi-Application-of-DREP-Credit-asset-backed-NFT-to-caputure-the-value-of-multidimensional",
+            "created_at": "2021-03-15T02:53:12Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@drep_foundation",
+            "source": {
+                "title": "Drep Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@drep_foundation"
+            },
+            "title": "RT @DrepOfficial: Over-collateralization? No \u200d\nLess collateral with NFT? Yes\nWhy are $DREP 2.0's #DeFi+#NFT solutions ground-breaking? \n\u2026",
+            "published_at": "2021-03-15T02:53:07Z",
+            "slug": "RT-DrepOfficial-Over-collateralization-No-Less-collateral-with-NFT-Yes-Why-are-DREP-20s-DeFiNFT-solutions-ground-breaking",
+            "currencies": [
+                {
+                    "code": "DREP",
+                    "title": "Drep [OLD]",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "DREP",
+                    "title": "Drep",
+                    "slug": "drep-new",
+                    "url": "https:\/\/cryptopanic.com\/news\/drep-new\/"
+                }
+            ],
+            "id": 11621607,
+            "url": "https:\/\/cryptopanic.com\/news\/11621607\/RT-DrepOfficial-Over-collateralization-No-Less-collateral-with-NFT-Yes-Why-are-DREP-20s-DeFiNFT-solutions-ground-breaking",
+            "created_at": "2021-03-15T02:53:07Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@drep_foundation",
+            "source": {
+                "title": "Drep Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@drep_foundation"
+            },
+            "title": "RT @DrepOfficial: $DREP exploding to new #ATH every second! \n\nLet\u2019s guess what the NEXT #NEWS is\uff1f\n#moon #coin #Binance $bnb",
+            "published_at": "2021-03-09T14:48:13Z",
+            "slug": "RT-DrepOfficial-DREP-exploding-to-new-ATH-every-second-Lets-guess-what-the-NEXT-NEWS-is-moon-coin-Binance-bnb",
+            "currencies": [
+                {
+                    "code": "DREP",
+                    "title": "Drep [OLD]",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "DREP",
+                    "title": "Drep",
+                    "slug": "drep-new",
+                    "url": "https:\/\/cryptopanic.com\/news\/drep-new\/"
+                }
+            ],
+            "id": 11597676,
+            "url": "https:\/\/cryptopanic.com\/news\/11597676\/RT-DrepOfficial-DREP-exploding-to-new-ATH-every-second-Lets-guess-what-the-NEXT-NEWS-is-moon-coin-Binance-bnb",
+            "created_at": "2021-03-09T14:48:13Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@drep_foundation",
+            "source": {
+                "title": "Drep Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@drep_foundation"
+            },
+            "title": "Dear DREPers, we're organizing a series of marketing campaigns to prepare for #DREP 2.0 and new #roadmap of #DeFi +\u2026",
+            "published_at": "2021-03-09T11:26:34Z",
+            "slug": "Dear-DREPers-were-organizing-a-series-of-marketing-campaigns-to-prepare-for-DREP-20-and-new-roadmap-of-DeFi",
+            "currencies": [
+                {
+                    "code": "DREP",
+                    "title": "Drep [OLD]",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "DREP",
+                    "title": "Drep",
+                    "slug": "drep-new",
+                    "url": "https:\/\/cryptopanic.com\/news\/drep-new\/"
+                }
+            ],
+            "id": 11597677,
+            "url": "https:\/\/cryptopanic.com\/news\/11597677\/Dear-DREPers-were-organizing-a-series-of-marketing-campaigns-to-prepare-for-DREP-20-and-new-roadmap-of-DeFi",
+            "created_at": "2021-03-09T11:26:34Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@drep_foundation",
+            "source": {
+                "title": "Drep Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@drep_foundation"
+            },
+            "title": "RT @DrepOfficial: DREP #margin trading on @Binance is live now! \nNew isolated margin pairs: $DREP \/ $BTC, $DREP \/ $USDT \n\nKnow more about\u2026",
+            "published_at": "2021-03-09T11:07:03Z",
+            "slug": "RT-DrepOfficial-DREP-margin-trading-on-Binance-is-live-now-New-isolated-margin-pairs-DREP-BTC-DREP-USDT-Know-more-about",
+            "currencies": [
+                {
+                    "code": "DREP",
+                    "title": "Drep [OLD]",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "DREP",
+                    "title": "Drep",
+                    "slug": "drep-new",
+                    "url": "https:\/\/cryptopanic.com\/news\/drep-new\/"
+                }
+            ],
+            "id": 11597678,
+            "url": "https:\/\/cryptopanic.com\/news\/11597678\/RT-DrepOfficial-DREP-margin-trading-on-Binance-is-live-now-New-isolated-margin-pairs-DREP-BTC-DREP-USDT-Know-more-about",
+            "created_at": "2021-03-09T11:07:03Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@drep_foundation",
+            "source": {
+                "title": "Drep Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@drep_foundation"
+            },
+            "title": "RT @binance: Now Enabled on #Binance Isolated Margin:\n $PERL @PerlinNetwork\n $OG @OGesports\n $DREP @FoundationDrep\n $AUDIO @AudiusProje\u2026",
+            "published_at": "2021-03-09T11:06:56Z",
+            "slug": "RT-binance-Now-Enabled-on-Binance-Isolated-Margin-PERL-PerlinNetwork-OG-OGesports-DREP-FoundationDrep-AUDIO-AudiusProje",
+            "currencies": [
+                {
+                    "code": "DREP",
+                    "title": "Drep [OLD]",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "DREP",
+                    "title": "Drep",
+                    "slug": "drep-new",
+                    "url": "https:\/\/cryptopanic.com\/news\/drep-new\/"
+                },
+                {
+                    "code": "AUDIO",
+                    "title": "Audius",
+                    "slug": "audius",
+                    "url": "https:\/\/cryptopanic.com\/news\/audius\/"
+                }
+            ],
+            "id": 11597679,
+            "url": "https:\/\/cryptopanic.com\/news\/11597679\/RT-binance-Now-Enabled-on-Binance-Isolated-Margin-PERL-PerlinNetwork-OG-OGesports-DREP-FoundationDrep-AUDIO-AudiusProje",
+            "created_at": "2021-03-09T11:06:56Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@drep_foundation",
+            "source": {
+                "title": "Drep Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@drep_foundation"
+            },
+            "title": "RT @DrepOfficial: Let\u2019s explore the #breakthrough of #DREP + #NFT:\n\n$DREP will turn the credit accumulated by #DeFi users through historic\u2026",
+            "published_at": "2021-03-09T11:06:51Z",
+            "slug": "RT-DrepOfficial-Lets-explore-the-breakthrough-of-DREP-NFT-DREP-will-turn-the-credit-accumulated-by-DeFi-users-through-historic",
+            "currencies": [
+                {
+                    "code": "DREP",
+                    "title": "Drep [OLD]",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "DREP",
+                    "title": "Drep",
+                    "slug": "drep-new",
+                    "url": "https:\/\/cryptopanic.com\/news\/drep-new\/"
+                }
+            ],
+            "id": 11597680,
+            "url": "https:\/\/cryptopanic.com\/news\/11597680\/RT-DrepOfficial-Lets-explore-the-breakthrough-of-DREP-NFT-DREP-will-turn-the-credit-accumulated-by-DeFi-users-through-historic",
+            "created_at": "2021-03-09T11:06:51Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@drep_foundation",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 1,
+                "comments": 0
+            },
+            "source": {
+                "title": "Drep Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@drep_foundation"
+            },
+            "title": "RT @DrepOfficial:  The total supply of $DREP will be reduced from 10,000,000,000 to 100,000,000\n\n$DREP Token #Swap will officially begin!\u2026",
+            "published_at": "2021-03-09T11:06:37Z",
+            "slug": "RT-DrepOfficial-The-total-supply-of-DREP-will-be-reduced-from-10000000000-to-100000000-DREP-Token-Swap-will-officially-begin",
+            "currencies": [
+                {
+                    "code": "DREP",
+                    "title": "Drep [OLD]",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "DREP",
+                    "title": "Drep",
+                    "slug": "drep-new",
+                    "url": "https:\/\/cryptopanic.com\/news\/drep-new\/"
+                }
+            ],
+            "id": 11597681,
+            "url": "https:\/\/cryptopanic.com\/news\/11597681\/RT-DrepOfficial-The-total-supply-of-DREP-will-be-reduced-from-10000000000-to-100000000-DREP-Token-Swap-will-officially-begin",
+            "created_at": "2021-03-09T11:06:37Z"
+        },
+        {
+            "kind": "news",
+            "domain": "@drep_foundation",
+            "source": {
+                "title": "Drep Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@drep_foundation"
+            },
+            "title": "RT @DrepOfficial: Officially Introducing #DREP 2.0\n$DREP - Defi Credit Protocol based on #layer2 facilities Optimistic Rollup and @Binanc\u2026",
+            "published_at": "2021-03-09T11:06:33Z",
+            "slug": "RT-DrepOfficial-Officially-Introducing-DREP-20-DREP-Defi-Credit-Protocol-based-on-layer2-facilities-Optimistic-Rollup-and-Binanc",
+            "currencies": [
+                {
+                    "code": "DREP",
+                    "title": "Drep [OLD]",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "DREP",
+                    "title": "Drep",
+                    "slug": "drep-new",
+                    "url": "https:\/\/cryptopanic.com\/news\/drep-new\/"
+                }
+            ],
+            "id": 11597682,
+            "url": "https:\/\/cryptopanic.com\/news\/11597682\/RT-DrepOfficial-Officially-Introducing-DREP-20-DREP-Defi-Credit-Protocol-based-on-layer2-facilities-Optimistic-Rollup-and-Binanc",
+            "created_at": "2021-03-09T11:06:33Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@drep_foundation",
+            "source": {
+                "title": "Drep Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@drep_foundation"
+            },
+            "title": "Dear DREPers, the official Twitter account of #DREP has been changed to @DrepOfficial. \nPlease follow the account t\u2026",
+            "published_at": "2021-03-09T11:05:34Z",
+            "slug": "Dear-DREPers-the-official-Twitter-account-of-DREP-has-been-changed-to-DrepOfficial-Please-follow-the-account-t",
+            "currencies": [
+                {
+                    "code": "DREP",
+                    "title": "Drep [OLD]",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "DREP",
+                    "title": "Drep",
+                    "slug": "drep-new",
+                    "url": "https:\/\/cryptopanic.com\/news\/drep-new\/"
+                }
+            ],
+            "id": 11597683,
+            "url": "https:\/\/cryptopanic.com\/news\/11597683\/Dear-DREPers-the-official-Twitter-account-of-DREP-has-been-changed-to-DrepOfficial-Please-follow-the-account-t",
+            "created_at": "2021-03-09T11:05:34Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@drep_foundation",
+            "source": {
+                "title": "Drep Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@drep_foundation"
+            },
+            "title": "Hi DREPers, #DREP #Testnet Recognised by #Industry \nCheck out what they say about DREP Testnet! \nThank you\u2026",
+            "published_at": "2019-01-04T11:27:56Z",
+            "slug": "Hi-DREPers-DREP-Testnet-Recognised-by-Industry-Check-out-what-they-say-about-DREP-Testnet-Thank-you",
+            "currencies": [
+                {
+                    "code": "DREP",
+                    "title": "Drep [OLD]",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "DREP",
+                    "title": "Drep",
+                    "slug": "drep-new",
+                    "url": "https:\/\/cryptopanic.com\/news\/drep-new\/"
+                }
+            ],
+            "id": 11323180,
+            "url": "https:\/\/cryptopanic.com\/news\/11323180\/Hi-DREPers-DREP-Testnet-Recognised-by-Industry-Check-out-what-they-say-about-DREP-Testnet-Thank-you",
+            "created_at": "2019-01-04T11:27:56Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@drep_foundation",
+            "source": {
+                "title": "Drep Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@drep_foundation"
+            },
+            "title": "Hi all. Last five days of the #DREP #Mining Round 2!! We have received numerous #TPS guesses from the backend!\n1\u2026",
+            "published_at": "2019-01-04T03:42:30Z",
+            "slug": "Hi-all-Last-five-days-of-the-DREP-Mining-Round-2-We-have-received-numerous-TPS-guesses-from-the-backend-1",
+            "currencies": [
+                {
+                    "code": "DREP",
+                    "title": "Drep [OLD]",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "DREP",
+                    "title": "Drep",
+                    "slug": "drep-new",
+                    "url": "https:\/\/cryptopanic.com\/news\/drep-new\/"
+                }
+            ],
+            "id": 11323183,
+            "url": "https:\/\/cryptopanic.com\/news\/11323183\/Hi-all-Last-five-days-of-the-DREP-Mining-Round-2-We-have-received-numerous-TPS-guesses-from-the-backend-1",
+            "created_at": "2019-01-04T03:42:30Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

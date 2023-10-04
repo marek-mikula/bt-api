@@ -1,0 +1,953 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=BCH&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "bitcoin.com",
+            "source": {
+                "title": "Bitcoin.com",
+                "region": "en",
+                "domain": "bitcoin.com",
+                "path": null
+            },
+            "title": "Biggest Movers: BCH Races to 2-Month High, SOL Nears $25",
+            "published_at": "2023-10-02T15:49:19Z",
+            "slug": "Biggest-Movers-BCH-Races-to-2-Month-High-SOL-Nears-25",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "BCH",
+                    "title": "Bitcoin Cash",
+                    "slug": "bitcoin-cash",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin-cash\/"
+                }
+            ],
+            "id": 18942499,
+            "url": "https:\/\/cryptopanic.com\/news\/18942499\/Biggest-Movers-BCH-Races-to-2-Month-High-SOL-Nears-25",
+            "created_at": "2023-10-02T15:49:19Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Crypto Analyst Tips Bitcoin (BTC) To Reach $40,000 In Q4 2023",
+            "published_at": "2023-10-01T12:55:32Z",
+            "slug": "Crypto-Analyst-Tips-Bitcoin-BTC-To-Reach-40000-In-Q4-2023",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "BCH",
+                    "title": "Bitcoin Cash",
+                    "slug": "bitcoin-cash",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin-cash\/"
+                },
+                {
+                    "code": "OP",
+                    "title": "Optimism",
+                    "slug": "optimism",
+                    "url": "https:\/\/cryptopanic.com\/news\/optimism\/"
+                }
+            ],
+            "id": 18940227,
+            "url": "https:\/\/cryptopanic.com\/news\/18940227\/Crypto-Analyst-Tips-Bitcoin-BTC-To-Reach-40000-In-Q4-2023",
+            "created_at": "2023-10-01T12:55:32Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 1,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Bitcoin Cash Bulls Charge: 13% Price Rally Driven By Fresh Demand",
+            "published_at": "2023-10-01T06:07:49Z",
+            "slug": "Bitcoin-Cash-Bulls-Charge-13-Price-Rally-Driven-By-Fresh-Demand",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "BCH",
+                    "title": "Bitcoin Cash",
+                    "slug": "bitcoin-cash",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin-cash\/"
+                },
+                {
+                    "code": "MKR",
+                    "title": "Maker",
+                    "slug": "maker",
+                    "url": "https:\/\/cryptopanic.com\/news\/maker\/"
+                },
+                {
+                    "code": "CRV",
+                    "title": "Curve DAO",
+                    "slug": "curve-dao-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/curve-dao-token\/"
+                }
+            ],
+            "id": 18939866,
+            "url": "https:\/\/cryptopanic.com\/news\/18939866\/Bitcoin-Cash-Bulls-Charge-13-Price-Rally-Driven-By-Fresh-Demand",
+            "created_at": "2023-10-01T06:07:49Z"
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "Bitcoin Cash rises by 10%, spurred by new demand",
+            "published_at": "2023-10-01T03:30:56Z",
+            "slug": "Bitcoin-Cash-rises-by-10-spurred-by-new-demand",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "BCH",
+                    "title": "Bitcoin Cash",
+                    "slug": "bitcoin-cash",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin-cash\/"
+                }
+            ],
+            "id": 18939794,
+            "url": "https:\/\/cryptopanic.com\/news\/18939794\/Bitcoin-Cash-rises-by-10-spurred-by-new-demand",
+            "created_at": "2023-10-01T03:30:56Z"
+        },
+        {
+            "kind": "news",
+            "domain": "decrypt.co",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "Decrypt",
+                "region": "en",
+                "domain": "decrypt.co",
+                "path": null
+            },
+            "title": "This Week in Coins: ETF Hype Pumps Ethereum and Bitcoin as Chainlink and Bitcoin Cash Surge",
+            "published_at": "2023-09-30T20:01:00Z",
+            "slug": "This-Week-in-Coins-ETF-Hype-Pumps-Ethereum-and-Bitcoin-as-Chainlink-and-Bitcoin-Cash-Surge",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "BCH",
+                    "title": "Bitcoin Cash",
+                    "slug": "bitcoin-cash",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin-cash\/"
+                },
+                {
+                    "code": "LINK",
+                    "title": "Chainlink",
+                    "slug": "chainlink",
+                    "url": "https:\/\/cryptopanic.com\/news\/chainlink\/"
+                }
+            ],
+            "id": 18939573,
+            "url": "https:\/\/cryptopanic.com\/news\/18939573\/This-Week-in-Coins-ETF-Hype-Pumps-Ethereum-and-Bitcoin-as-Chainlink-and-Bitcoin-Cash-Surge",
+            "created_at": "2023-09-30T20:01:00Z"
+        },
+        {
+            "kind": "news",
+            "domain": "coinedition.com",
+            "source": {
+                "title": "coinedition",
+                "region": "en",
+                "domain": "coinedition.com",
+                "path": null
+            },
+            "title": "October Surge Predicted For Altcoins BCH, LINK, MKR, and RUNE",
+            "published_at": "2023-09-30T10:31:00Z",
+            "slug": "October-Surge-Predicted-For-Altcoins-BCH-LINK-MKR-and-RUNE",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "BCH",
+                    "title": "Bitcoin Cash",
+                    "slug": "bitcoin-cash",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin-cash\/"
+                },
+                {
+                    "code": "LINK",
+                    "title": "Chainlink",
+                    "slug": "chainlink",
+                    "url": "https:\/\/cryptopanic.com\/news\/chainlink\/"
+                },
+                {
+                    "code": "MKR",
+                    "title": "Maker",
+                    "slug": "maker",
+                    "url": "https:\/\/cryptopanic.com\/news\/maker\/"
+                },
+                {
+                    "code": "RUNE",
+                    "title": "THORChain",
+                    "slug": "thorchain",
+                    "url": "https:\/\/cryptopanic.com\/news\/thorchain\/"
+                }
+            ],
+            "id": 18938928,
+            "url": "https:\/\/cryptopanic.com\/news\/18938928\/October-Surge-Predicted-For-Altcoins-BCH-LINK-MKR-and-RUNE",
+            "created_at": "2023-09-30T10:31:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "Can Bitcoin Cash (BCH) Reach the $300 Mark in October?",
+            "published_at": "2023-09-29T14:16:13Z",
+            "slug": "Can-Bitcoin-Cash-BCH-Reach-the-300-Mark-in-October",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "BCH",
+                    "title": "Bitcoin Cash",
+                    "slug": "bitcoin-cash",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin-cash\/"
+                },
+                {
+                    "code": "LINK",
+                    "title": "Chainlink",
+                    "slug": "chainlink",
+                    "url": "https:\/\/cryptopanic.com\/news\/chainlink\/"
+                }
+            ],
+            "id": 18937661,
+            "url": "https:\/\/cryptopanic.com\/news\/18937661\/Can-Bitcoin-Cash-BCH-Reach-the-300-Mark-in-October",
+            "created_at": "2023-09-29T14:16:13Z"
+        },
+        {
+            "kind": "news",
+            "domain": "dailyhodl.com",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 1,
+                "comments": 0
+            },
+            "source": {
+                "title": "The Daily Hodl",
+                "region": "en",
+                "domain": "dailyhodl.com",
+                "path": null
+            },
+            "title": "Top Trader Who Nailed 2022 Bitcoin Bottom Says One Blue Chip Altcoin Signaling a \u2018Breakout in the Making\u2019",
+            "published_at": "2023-09-29T07:04:20Z",
+            "slug": "Top-Trader-Who-Nailed-2022-Bitcoin-Bottom-Says-One-Blue-Chip-Altcoin-Signaling-a-Breakout-in-the-Making",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "BCH",
+                    "title": "Bitcoin Cash",
+                    "slug": "bitcoin-cash",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin-cash\/"
+                }
+            ],
+            "id": 18936397,
+            "url": "https:\/\/cryptopanic.com\/news\/18936397\/Top-Trader-Who-Nailed-2022-Bitcoin-Bottom-Says-One-Blue-Chip-Altcoin-Signaling-a-Breakout-in-the-Making",
+            "created_at": "2023-09-29T07:04:20Z"
+        },
+        {
+            "kind": "news",
+            "domain": "livebitcoinnews.com",
+            "source": {
+                "title": "Live Bitcoin News",
+                "region": "en",
+                "domain": "livebitcoinnews.com",
+                "path": null
+            },
+            "title": "Bitcoin Cash Analysis: Bulls Aim $250 or Higher",
+            "published_at": "2023-09-29T03:58:36Z",
+            "slug": "Bitcoin-Cash-Analysis-Bulls-Aim-250-or-Higher",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "BCH",
+                    "title": "Bitcoin Cash",
+                    "slug": "bitcoin-cash",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin-cash\/"
+                }
+            ],
+            "id": 18936190,
+            "url": "https:\/\/cryptopanic.com\/news\/18936190\/Bitcoin-Cash-Analysis-Bulls-Aim-250-or-Higher",
+            "created_at": "2023-09-29T03:58:36Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "Bitcoin Cash [BCH] bulls drive rally higher aided by this crucial factor",
+            "published_at": "2023-09-28T18:30:53Z",
+            "slug": "Bitcoin-Cash-BCH-bulls-drive-rally-higher-aided-by-this-crucial-factor",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "BCH",
+                    "title": "Bitcoin Cash",
+                    "slug": "bitcoin-cash",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin-cash\/"
+                }
+            ],
+            "id": 18935513,
+            "url": "https:\/\/cryptopanic.com\/news\/18935513\/Bitcoin-Cash-BCH-bulls-drive-rally-higher-aided-by-this-crucial-factor",
+            "created_at": "2023-09-28T18:30:53Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "feeds2.benzinga.com",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "Benzinga",
+                "region": "en",
+                "domain": "feeds2.benzinga.com",
+                "path": null
+            },
+            "title": "Ethereum Moves Higher Following Economic Reports; Bitcoin Cash Emerges As Top Gainer",
+            "published_at": "2023-09-28T14:06:10Z",
+            "slug": "Ethereum-Moves-Higher-Following-Economic-Reports-Bitcoin-Cash-Emerges-As-Top-Gainer",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "BCH",
+                    "title": "Bitcoin Cash",
+                    "slug": "bitcoin-cash",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin-cash\/"
+                }
+            ],
+            "id": 18934861,
+            "url": "https:\/\/cryptopanic.com\/news\/18934861\/Ethereum-Moves-Higher-Following-Economic-Reports-Bitcoin-Cash-Emerges-As-Top-Gainer",
+            "created_at": "2023-09-28T14:06:10Z"
+        },
+        {
+            "kind": "news",
+            "domain": "cryptodaily.co.uk",
+            "source": {
+                "title": "CryptoDaily",
+                "region": "en",
+                "domain": "cryptodaily.co.uk",
+                "path": null
+            },
+            "title": "New Crypto Coin Bitcoin Minetrix Introduces First Stake-to-Mine Platform \u2013 Presale Raises $100K in a Flash",
+            "published_at": "2023-09-28T11:16:22Z",
+            "slug": "New-Crypto-Coin-Bitcoin-Minetrix-Introduces-First-Stake-to-Mine-Platform-Presale-Raises-100K-in-a-Flash",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "BCH",
+                    "title": "Bitcoin Cash",
+                    "slug": "bitcoin-cash",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin-cash\/"
+                }
+            ],
+            "id": 18934287,
+            "url": "https:\/\/cryptopanic.com\/news\/18934287\/New-Crypto-Coin-Bitcoin-Minetrix-Introduces-First-Stake-to-Mine-Platform-Presale-Raises-100K-in-a-Flash",
+            "created_at": "2023-09-28T11:16:22Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptopotato.com",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "Feed - Cryptopotato.Com",
+                "region": "en",
+                "domain": "cryptopotato.com",
+                "path": null
+            },
+            "title": "Bitcoin Stopped Ahead of $27K, These Alts Are Today\u2019s Top Performers (Market Watch)",
+            "published_at": "2023-09-28T08:53:51Z",
+            "slug": "Bitcoin-Stopped-Ahead-of-27K-These-Alts-Are-Todays-Top-Performers-Market-Watch",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "BCH",
+                    "title": "Bitcoin Cash",
+                    "slug": "bitcoin-cash",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin-cash\/"
+                },
+                {
+                    "code": "LINK",
+                    "title": "Chainlink",
+                    "slug": "chainlink",
+                    "url": "https:\/\/cryptopanic.com\/news\/chainlink\/"
+                },
+                {
+                    "code": "MKR",
+                    "title": "Maker",
+                    "slug": "maker",
+                    "url": "https:\/\/cryptopanic.com\/news\/maker\/"
+                }
+            ],
+            "id": 18933916,
+            "url": "https:\/\/cryptopanic.com\/news\/18933916\/Bitcoin-Stopped-Ahead-of-27K-These-Alts-Are-Todays-Top-Performers-Market-Watch",
+            "created_at": "2023-09-28T08:53:51Z"
+        },
+        {
+            "kind": "news",
+            "domain": "coingape.com",
+            "source": {
+                "title": "CoinGape",
+                "region": "en",
+                "domain": "coingape.com",
+                "path": null
+            },
+            "title": "BCH Price Shoots 8% Amid Heavy Bitcoin Cash Whale Accumulation",
+            "published_at": "2023-09-28T02:41:49Z",
+            "slug": "BCH-Price-Shoots-8-Amid-Heavy-Bitcoin-Cash-Whale-Accumulation",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "BCH",
+                    "title": "Bitcoin Cash",
+                    "slug": "bitcoin-cash",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin-cash\/"
+                }
+            ],
+            "id": 18933441,
+            "url": "https:\/\/cryptopanic.com\/news\/18933441\/BCH-Price-Shoots-8-Amid-Heavy-Bitcoin-Cash-Whale-Accumulation",
+            "created_at": "2023-09-28T02:41:49Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coingabbar.com",
+            "source": {
+                "title": "coingabbar",
+                "region": "en",
+                "domain": "coingabbar.com",
+                "path": null
+            },
+            "title": "24 Crypto Update, 27 Sep: Crypto market experiences a surge in buying",
+            "published_at": "2023-09-28T01:30:00Z",
+            "slug": "24-Crypto-Update-27-Sep-Crypto-market-experiences-a-surge-in-buying",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "LTC",
+                    "title": "Litecoin",
+                    "slug": "litecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/litecoin\/"
+                },
+                {
+                    "code": "BCH",
+                    "title": "Bitcoin Cash",
+                    "slug": "bitcoin-cash",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin-cash\/"
+                }
+            ],
+            "id": 18933625,
+            "url": "https:\/\/cryptopanic.com\/news\/18933625\/24-Crypto-Update-27-Sep-Crypto-market-experiences-a-surge-in-buying",
+            "created_at": "2023-09-28T01:30:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "LINK Price Broke Critical Level, Macro Downtrend Behind? Analyst Forecasts",
+            "published_at": "2023-09-27T16:00:44Z",
+            "slug": "LINK-Price-Broke-Critical-Level-Macro-Downtrend-Behind-Analyst-Forecasts",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "BCH",
+                    "title": "Bitcoin Cash",
+                    "slug": "bitcoin-cash",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin-cash\/"
+                },
+                {
+                    "code": "LINK",
+                    "title": "Chainlink",
+                    "slug": "chainlink",
+                    "url": "https:\/\/cryptopanic.com\/news\/chainlink\/"
+                }
+            ],
+            "id": 18932431,
+            "url": "https:\/\/cryptopanic.com\/news\/18932431\/LINK-Price-Broke-Critical-Level-Macro-Downtrend-Behind-Analyst-Forecasts",
+            "created_at": "2023-09-27T16:00:44Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "bitcoin.com",
+            "source": {
+                "title": "Bitcoin.com",
+                "region": "en",
+                "domain": "bitcoin.com",
+                "path": null
+            },
+            "title": "Biggest Movers: BCH, LINK Move to 6-Week Highs on Wednesday",
+            "published_at": "2023-09-27T15:30:56Z",
+            "slug": "Biggest-Movers-BCH-LINK-Move-to-6-Week-Highs-on-Wednesday",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "BCH",
+                    "title": "Bitcoin Cash",
+                    "slug": "bitcoin-cash",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin-cash\/"
+                },
+                {
+                    "code": "LINK",
+                    "title": "Chainlink",
+                    "slug": "chainlink",
+                    "url": "https:\/\/cryptopanic.com\/news\/chainlink\/"
+                }
+            ],
+            "id": 18932360,
+            "url": "https:\/\/cryptopanic.com\/news\/18932360\/Biggest-Movers-BCH-LINK-Move-to-6-Week-Highs-on-Wednesday",
+            "created_at": "2023-09-27T15:30:56Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinjournal.net",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "CoinJournal",
+                "region": "en",
+                "domain": "coinjournal.net",
+                "path": null
+            },
+            "title": "Bitcoin Cash price prediction as the crypto betting economy expands",
+            "published_at": "2023-09-27T13:15:59Z",
+            "slug": "Bitcoin-Cash-price-prediction-as-the-crypto-betting-economy-expands",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "BCH",
+                    "title": "Bitcoin Cash",
+                    "slug": "bitcoin-cash",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin-cash\/"
+                }
+            ],
+            "id": 18931945,
+            "url": "https:\/\/cryptopanic.com\/news\/18931945\/Bitcoin-Cash-price-prediction-as-the-crypto-betting-economy-expands",
+            "created_at": "2023-09-27T13:15:59Z"
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "Bitcoin Cash [BCH] holds onto $210; can buyers push it past $220?",
+            "published_at": "2023-09-27T06:30:09Z",
+            "slug": "Bitcoin-Cash-BCH-holds-onto-210-can-buyers-push-it-past-220",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "BCH",
+                    "title": "Bitcoin Cash",
+                    "slug": "bitcoin-cash",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin-cash\/"
+                }
+            ],
+            "id": 18930882,
+            "url": "https:\/\/cryptopanic.com\/news\/18930882\/Bitcoin-Cash-BCH-holds-onto-210-can-buyers-push-it-past-220",
+            "created_at": "2023-09-27T06:30:09Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "bitcoin.com",
+            "source": {
+                "title": "Bitcoin.com",
+                "region": "en",
+                "domain": "bitcoin.com",
+                "path": null
+            },
+            "title": "Biggest Movers: BCH 5% Higher, as BNB Nears Key Price Target",
+            "published_at": "2023-09-26T15:31:50Z",
+            "slug": "Biggest-Movers-BCH-5-Higher-as-BNB-Nears-Key-Price-Target",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "BNB",
+                    "title": "BNB",
+                    "slug": "binancecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/binancecoin\/"
+                },
+                {
+                    "code": "BCH",
+                    "title": "Bitcoin Cash",
+                    "slug": "bitcoin-cash",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin-cash\/"
+                },
+                {
+                    "code": "BNB",
+                    "title": "OEC Binance Coin",
+                    "slug": "oec-binance-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/oec-binance-coin\/"
+                }
+            ],
+            "id": 18929624,
+            "url": "https:\/\/cryptopanic.com\/news\/18929624\/Biggest-Movers-BCH-5-Higher-as-BNB-Nears-Key-Price-Target",
+            "created_at": "2023-09-26T15:31:50Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

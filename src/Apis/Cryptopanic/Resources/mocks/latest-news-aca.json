@@ -1,0 +1,1703 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=ACA&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "@AcalaNetwork",
+            "source": {
+                "title": "Karura Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@acalanetwork"
+            },
+            "title": "RT @_PolkadotIndia: \u200d 100 Developer Jobs Across Polkadot Ecosystem \u200d\n\nBear Market? Nah, not for #Polkadot \n\nPolkadot has the highest d\u2026",
+            "published_at": "2023-07-12T04:46:23Z",
+            "slug": "RT-_PolkadotIndia-100-Developer-Jobs-Across-Polkadot-Ecosystem-Bear-Market-Nah-not-for-Polkadot-Polkadot-has-the-highest-d",
+            "currencies": [
+                {
+                    "code": "KAR",
+                    "title": "Karura",
+                    "slug": "karura",
+                    "url": "https:\/\/cryptopanic.com\/news\/karura\/"
+                },
+                {
+                    "code": "ACA",
+                    "title": "Acala Token",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "ACA",
+                    "title": "Acala",
+                    "slug": "acala",
+                    "url": "https:\/\/cryptopanic.com\/news\/acala\/"
+                },
+                {
+                    "code": "AUSD",
+                    "title": "Acala Dollar (Karura)",
+                    "slug": "acala-dollar",
+                    "url": "https:\/\/cryptopanic.com\/news\/acala-dollar\/"
+                },
+                {
+                    "code": "LKSM",
+                    "title": "Liquid KSM",
+                    "slug": "liquid-ksm",
+                    "url": "https:\/\/cryptopanic.com\/news\/liquid-ksm\/"
+                },
+                {
+                    "code": "LCDOT",
+                    "title": "Liquid Crowdloan DOT",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "LDOT",
+                    "title": "Liquid Staking Dot",
+                    "slug": "liquid-staking-dot",
+                    "url": "https:\/\/cryptopanic.com\/news\/liquid-staking-dot\/"
+                },
+                {
+                    "code": "AUSD",
+                    "title": "Acala Dollar (Acala)",
+                    "slug": "acala-dollar-acala",
+                    "url": "https:\/\/cryptopanic.com\/news\/acala-dollar-acala\/"
+                },
+                {
+                    "code": "ASEED",
+                    "title": "aUSD SEED (Acala)",
+                    "slug": "ausd-seed-acala",
+                    "url": "https:\/\/cryptopanic.com\/news\/ausd-seed-acala\/"
+                },
+                {
+                    "code": "ASEED",
+                    "title": "aUSD SEED (Karura)",
+                    "slug": "ausd-seed-karura",
+                    "url": "https:\/\/cryptopanic.com\/news\/ausd-seed-karura\/"
+                },
+                {
+                    "code": "DOT",
+                    "title": "Polkadot",
+                    "slug": "polkadot",
+                    "url": "https:\/\/cryptopanic.com\/news\/polkadot\/"
+                }
+            ],
+            "id": 18765164,
+            "url": "https:\/\/cryptopanic.com\/news\/18765164\/RT-_PolkadotIndia-100-Developer-Jobs-Across-Polkadot-Ecosystem-Bear-Market-Nah-not-for-Polkadot-Polkadot-has-the-highest-d",
+            "created_at": "2023-07-12T04:46:23Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@AcalaNetwork",
+            "source": {
+                "title": "Karura Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@acalanetwork"
+            },
+            "title": "Congrats to @alluvialfinance, the team behind @liquid_col \n\nAlluvial is on a mission to bring compliance, transpar\u2026",
+            "published_at": "2023-07-12T03:36:28Z",
+            "slug": "Congrats-to-alluvialfinance-the-team-behind-liquid_col-Alluvial-is-on-a-mission-to-bring-compliance-transpar",
+            "currencies": [
+                {
+                    "code": "KAR",
+                    "title": "Karura",
+                    "slug": "karura",
+                    "url": "https:\/\/cryptopanic.com\/news\/karura\/"
+                },
+                {
+                    "code": "ACA",
+                    "title": "Acala Token",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "ACA",
+                    "title": "Acala",
+                    "slug": "acala",
+                    "url": "https:\/\/cryptopanic.com\/news\/acala\/"
+                },
+                {
+                    "code": "AUSD",
+                    "title": "Acala Dollar (Karura)",
+                    "slug": "acala-dollar",
+                    "url": "https:\/\/cryptopanic.com\/news\/acala-dollar\/"
+                },
+                {
+                    "code": "LKSM",
+                    "title": "Liquid KSM",
+                    "slug": "liquid-ksm",
+                    "url": "https:\/\/cryptopanic.com\/news\/liquid-ksm\/"
+                },
+                {
+                    "code": "LCDOT",
+                    "title": "Liquid Crowdloan DOT",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "LDOT",
+                    "title": "Liquid Staking Dot",
+                    "slug": "liquid-staking-dot",
+                    "url": "https:\/\/cryptopanic.com\/news\/liquid-staking-dot\/"
+                },
+                {
+                    "code": "AUSD",
+                    "title": "Acala Dollar (Acala)",
+                    "slug": "acala-dollar-acala",
+                    "url": "https:\/\/cryptopanic.com\/news\/acala-dollar-acala\/"
+                },
+                {
+                    "code": "ASEED",
+                    "title": "aUSD SEED (Acala)",
+                    "slug": "ausd-seed-acala",
+                    "url": "https:\/\/cryptopanic.com\/news\/ausd-seed-acala\/"
+                },
+                {
+                    "code": "ASEED",
+                    "title": "aUSD SEED (Karura)",
+                    "slug": "ausd-seed-karura",
+                    "url": "https:\/\/cryptopanic.com\/news\/ausd-seed-karura\/"
+                }
+            ],
+            "id": 18765165,
+            "url": "https:\/\/cryptopanic.com\/news\/18765165\/Congrats-to-alluvialfinance-the-team-behind-liquid_col-Alluvial-is-on-a-mission-to-bring-compliance-transpar",
+            "created_at": "2023-07-12T03:36:28Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@AcalaNetwork",
+            "source": {
+                "title": "Karura Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@acalanetwork"
+            },
+            "title": "#ExodusUpgrade in progress\n\nACA emissions and burn upgrade is targeted to be on Aug 15 provided the community vote\u2026",
+            "published_at": "2023-07-12T02:31:54Z",
+            "slug": "ExodusUpgrade-in-progress-ACA-emissions-and-burn-upgrade-is-targeted-to-be-on-Aug-15-provided-the-community-vote",
+            "currencies": [
+                {
+                    "code": "KAR",
+                    "title": "Karura",
+                    "slug": "karura",
+                    "url": "https:\/\/cryptopanic.com\/news\/karura\/"
+                },
+                {
+                    "code": "ACA",
+                    "title": "Acala Token",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "ACA",
+                    "title": "Acala",
+                    "slug": "acala",
+                    "url": "https:\/\/cryptopanic.com\/news\/acala\/"
+                },
+                {
+                    "code": "AUSD",
+                    "title": "Acala Dollar (Karura)",
+                    "slug": "acala-dollar",
+                    "url": "https:\/\/cryptopanic.com\/news\/acala-dollar\/"
+                },
+                {
+                    "code": "LKSM",
+                    "title": "Liquid KSM",
+                    "slug": "liquid-ksm",
+                    "url": "https:\/\/cryptopanic.com\/news\/liquid-ksm\/"
+                },
+                {
+                    "code": "LCDOT",
+                    "title": "Liquid Crowdloan DOT",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "LDOT",
+                    "title": "Liquid Staking Dot",
+                    "slug": "liquid-staking-dot",
+                    "url": "https:\/\/cryptopanic.com\/news\/liquid-staking-dot\/"
+                },
+                {
+                    "code": "AUSD",
+                    "title": "Acala Dollar (Acala)",
+                    "slug": "acala-dollar-acala",
+                    "url": "https:\/\/cryptopanic.com\/news\/acala-dollar-acala\/"
+                },
+                {
+                    "code": "ASEED",
+                    "title": "aUSD SEED (Acala)",
+                    "slug": "ausd-seed-acala",
+                    "url": "https:\/\/cryptopanic.com\/news\/ausd-seed-acala\/"
+                },
+                {
+                    "code": "ASEED",
+                    "title": "aUSD SEED (Karura)",
+                    "slug": "ausd-seed-karura",
+                    "url": "https:\/\/cryptopanic.com\/news\/ausd-seed-karura\/"
+                }
+            ],
+            "id": 18765166,
+            "url": "https:\/\/cryptopanic.com\/news\/18765166\/ExodusUpgrade-in-progress-ACA-emissions-and-burn-upgrade-is-targeted-to-be-on-Aug-15-provided-the-community-vote",
+            "created_at": "2023-07-12T02:31:54Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@AcalaNetwork",
+            "source": {
+                "title": "Karura Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@acalanetwork"
+            },
+            "title": "Acala upgrade 2.18.0 vote is up \n\ud83e\uddbe Polkadot\/Substrate\/Cumulus v0.9.40 upgrade\n XCM calls via Acala EVM+\n\nMeaning\u2026",
+            "published_at": "2023-07-10T04:32:44Z",
+            "slug": "Acala-upgrade-2180-vote-is-up-PolkadotSubstrateCumulus-v0940-upgrade-XCM-calls-via-Acala-EVM-Meaning",
+            "currencies": [
+                {
+                    "code": "KAR",
+                    "title": "Karura",
+                    "slug": "karura",
+                    "url": "https:\/\/cryptopanic.com\/news\/karura\/"
+                },
+                {
+                    "code": "ACA",
+                    "title": "Acala Token",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "ACA",
+                    "title": "Acala",
+                    "slug": "acala",
+                    "url": "https:\/\/cryptopanic.com\/news\/acala\/"
+                },
+                {
+                    "code": "AUSD",
+                    "title": "Acala Dollar (Karura)",
+                    "slug": "acala-dollar",
+                    "url": "https:\/\/cryptopanic.com\/news\/acala-dollar\/"
+                },
+                {
+                    "code": "LKSM",
+                    "title": "Liquid KSM",
+                    "slug": "liquid-ksm",
+                    "url": "https:\/\/cryptopanic.com\/news\/liquid-ksm\/"
+                },
+                {
+                    "code": "LCDOT",
+                    "title": "Liquid Crowdloan DOT",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "LDOT",
+                    "title": "Liquid Staking Dot",
+                    "slug": "liquid-staking-dot",
+                    "url": "https:\/\/cryptopanic.com\/news\/liquid-staking-dot\/"
+                },
+                {
+                    "code": "AUSD",
+                    "title": "Acala Dollar (Acala)",
+                    "slug": "acala-dollar-acala",
+                    "url": "https:\/\/cryptopanic.com\/news\/acala-dollar-acala\/"
+                },
+                {
+                    "code": "ASEED",
+                    "title": "aUSD SEED (Acala)",
+                    "slug": "ausd-seed-acala",
+                    "url": "https:\/\/cryptopanic.com\/news\/ausd-seed-acala\/"
+                },
+                {
+                    "code": "ASEED",
+                    "title": "aUSD SEED (Karura)",
+                    "slug": "ausd-seed-karura",
+                    "url": "https:\/\/cryptopanic.com\/news\/ausd-seed-karura\/"
+                },
+                {
+                    "code": "DOT",
+                    "title": "Polkadot",
+                    "slug": "polkadot",
+                    "url": "https:\/\/cryptopanic.com\/news\/polkadot\/"
+                }
+            ],
+            "id": 18750179,
+            "url": "https:\/\/cryptopanic.com\/news\/18750179\/Acala-upgrade-2180-vote-is-up-PolkadotSubstrateCumulus-v0940-upgrade-XCM-calls-via-Acala-EVM-Meaning",
+            "created_at": "2023-07-10T04:32:44Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@AcalaNetwork",
+            "source": {
+                "title": "Karura Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@acalanetwork"
+            },
+            "title": " #ExodusUpgrade in progress\n\n aUSD (Acala &amp; Karura) conversion to aSEED is targeted to be on July 20 provided tha\u2026",
+            "published_at": "2023-07-06T03:00:04Z",
+            "slug": "ExodusUpgrade-in-progress-aUSD-Acala-amp-Karura-conversion-to-aSEED-is-targeted-to-be-on-July-20-provided-tha",
+            "currencies": [
+                {
+                    "code": "KAR",
+                    "title": "Karura",
+                    "slug": "karura",
+                    "url": "https:\/\/cryptopanic.com\/news\/karura\/"
+                },
+                {
+                    "code": "ACA",
+                    "title": "Acala Token",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "ACA",
+                    "title": "Acala",
+                    "slug": "acala",
+                    "url": "https:\/\/cryptopanic.com\/news\/acala\/"
+                },
+                {
+                    "code": "AUSD",
+                    "title": "Acala Dollar (Karura)",
+                    "slug": "acala-dollar",
+                    "url": "https:\/\/cryptopanic.com\/news\/acala-dollar\/"
+                },
+                {
+                    "code": "LKSM",
+                    "title": "Liquid KSM",
+                    "slug": "liquid-ksm",
+                    "url": "https:\/\/cryptopanic.com\/news\/liquid-ksm\/"
+                },
+                {
+                    "code": "LCDOT",
+                    "title": "Liquid Crowdloan DOT",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "LDOT",
+                    "title": "Liquid Staking Dot",
+                    "slug": "liquid-staking-dot",
+                    "url": "https:\/\/cryptopanic.com\/news\/liquid-staking-dot\/"
+                },
+                {
+                    "code": "AUSD",
+                    "title": "Acala Dollar (Acala)",
+                    "slug": "acala-dollar-acala",
+                    "url": "https:\/\/cryptopanic.com\/news\/acala-dollar-acala\/"
+                },
+                {
+                    "code": "ASEED",
+                    "title": "aUSD SEED (Acala)",
+                    "slug": "ausd-seed-acala",
+                    "url": "https:\/\/cryptopanic.com\/news\/ausd-seed-acala\/"
+                },
+                {
+                    "code": "ASEED",
+                    "title": "aUSD SEED (Karura)",
+                    "slug": "ausd-seed-karura",
+                    "url": "https:\/\/cryptopanic.com\/news\/ausd-seed-karura\/"
+                }
+            ],
+            "id": 18724830,
+            "url": "https:\/\/cryptopanic.com\/news\/18724830\/ExodusUpgrade-in-progress-aUSD-Acala-amp-Karura-conversion-to-aSEED-is-targeted-to-be-on-July-20-provided-tha",
+            "created_at": "2023-07-06T03:00:04Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@AcalaNetwork",
+            "source": {
+                "title": "Karura Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@acalanetwork"
+            },
+            "title": "Have you completed the @EasyA_App Acala challenges? Congrats to all of you who already have! Last chance to learn a\u2026",
+            "published_at": "2023-07-05T06:45:28Z",
+            "slug": "Have-you-completed-the-EasyA_App-Acala-challenges-Congrats-to-all-of-you-who-already-have-Last-chance-to-learn-a",
+            "currencies": [
+                {
+                    "code": "KAR",
+                    "title": "Karura",
+                    "slug": "karura",
+                    "url": "https:\/\/cryptopanic.com\/news\/karura\/"
+                },
+                {
+                    "code": "ACA",
+                    "title": "Acala Token",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "ACA",
+                    "title": "Acala",
+                    "slug": "acala",
+                    "url": "https:\/\/cryptopanic.com\/news\/acala\/"
+                },
+                {
+                    "code": "AUSD",
+                    "title": "Acala Dollar (Karura)",
+                    "slug": "acala-dollar",
+                    "url": "https:\/\/cryptopanic.com\/news\/acala-dollar\/"
+                },
+                {
+                    "code": "LKSM",
+                    "title": "Liquid KSM",
+                    "slug": "liquid-ksm",
+                    "url": "https:\/\/cryptopanic.com\/news\/liquid-ksm\/"
+                },
+                {
+                    "code": "LCDOT",
+                    "title": "Liquid Crowdloan DOT",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "LDOT",
+                    "title": "Liquid Staking Dot",
+                    "slug": "liquid-staking-dot",
+                    "url": "https:\/\/cryptopanic.com\/news\/liquid-staking-dot\/"
+                },
+                {
+                    "code": "AUSD",
+                    "title": "Acala Dollar (Acala)",
+                    "slug": "acala-dollar-acala",
+                    "url": "https:\/\/cryptopanic.com\/news\/acala-dollar-acala\/"
+                },
+                {
+                    "code": "ASEED",
+                    "title": "aUSD SEED (Acala)",
+                    "slug": "ausd-seed-acala",
+                    "url": "https:\/\/cryptopanic.com\/news\/ausd-seed-acala\/"
+                },
+                {
+                    "code": "ASEED",
+                    "title": "aUSD SEED (Karura)",
+                    "slug": "ausd-seed-karura",
+                    "url": "https:\/\/cryptopanic.com\/news\/ausd-seed-karura\/"
+                }
+            ],
+            "id": 18717012,
+            "url": "https:\/\/cryptopanic.com\/news\/18717012\/Have-you-completed-the-EasyA_App-Acala-challenges-Congrats-to-all-of-you-who-already-have-Last-chance-to-learn-a",
+            "created_at": "2023-07-05T06:45:28Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@AcalaNetwork",
+            "source": {
+                "title": "Karura Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@acalanetwork"
+            },
+            "title": "Available on Acala very soon, await the next runtime upgrade. #MultichainAssetRouter v1.0 takes multichain interope\u2026",
+            "published_at": "2023-07-05T04:48:47Z",
+            "slug": "Available-on-Acala-very-soon-await-the-next-runtime-upgrade-MultichainAssetRouter-v10-takes-multichain-interope",
+            "currencies": [
+                {
+                    "code": "KAR",
+                    "title": "Karura",
+                    "slug": "karura",
+                    "url": "https:\/\/cryptopanic.com\/news\/karura\/"
+                },
+                {
+                    "code": "ACA",
+                    "title": "Acala Token",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "ACA",
+                    "title": "Acala",
+                    "slug": "acala",
+                    "url": "https:\/\/cryptopanic.com\/news\/acala\/"
+                },
+                {
+                    "code": "AUSD",
+                    "title": "Acala Dollar (Karura)",
+                    "slug": "acala-dollar",
+                    "url": "https:\/\/cryptopanic.com\/news\/acala-dollar\/"
+                },
+                {
+                    "code": "LKSM",
+                    "title": "Liquid KSM",
+                    "slug": "liquid-ksm",
+                    "url": "https:\/\/cryptopanic.com\/news\/liquid-ksm\/"
+                },
+                {
+                    "code": "LCDOT",
+                    "title": "Liquid Crowdloan DOT",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "LDOT",
+                    "title": "Liquid Staking Dot",
+                    "slug": "liquid-staking-dot",
+                    "url": "https:\/\/cryptopanic.com\/news\/liquid-staking-dot\/"
+                },
+                {
+                    "code": "AUSD",
+                    "title": "Acala Dollar (Acala)",
+                    "slug": "acala-dollar-acala",
+                    "url": "https:\/\/cryptopanic.com\/news\/acala-dollar-acala\/"
+                },
+                {
+                    "code": "ASEED",
+                    "title": "aUSD SEED (Acala)",
+                    "slug": "ausd-seed-acala",
+                    "url": "https:\/\/cryptopanic.com\/news\/ausd-seed-acala\/"
+                },
+                {
+                    "code": "ASEED",
+                    "title": "aUSD SEED (Karura)",
+                    "slug": "ausd-seed-karura",
+                    "url": "https:\/\/cryptopanic.com\/news\/ausd-seed-karura\/"
+                }
+            ],
+            "id": 18717013,
+            "url": "https:\/\/cryptopanic.com\/news\/18717013\/Available-on-Acala-very-soon-await-the-next-runtime-upgrade-MultichainAssetRouter-v10-takes-multichain-interope",
+            "created_at": "2023-07-05T04:48:47Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@AcalaNetwork",
+            "source": {
+                "title": "Karura Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@acalanetwork"
+            },
+            "title": "Acala 2.0 Exodus Upgrade will build the liquidity layer and #LSDFi hub for web3 finance with infrastructures and pr\u2026",
+            "published_at": "2023-06-29T04:54:09Z",
+            "slug": "Acala-20-Exodus-Upgrade-will-build-the-liquidity-layer-and-LSDFi-hub-for-web3-finance-with-infrastructures-and-pr",
+            "currencies": [
+                {
+                    "code": "KAR",
+                    "title": "Karura",
+                    "slug": "karura",
+                    "url": "https:\/\/cryptopanic.com\/news\/karura\/"
+                },
+                {
+                    "code": "ACA",
+                    "title": "Acala Token",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "ACA",
+                    "title": "Acala",
+                    "slug": "acala",
+                    "url": "https:\/\/cryptopanic.com\/news\/acala\/"
+                },
+                {
+                    "code": "AUSD",
+                    "title": "Acala Dollar (Karura)",
+                    "slug": "acala-dollar",
+                    "url": "https:\/\/cryptopanic.com\/news\/acala-dollar\/"
+                },
+                {
+                    "code": "LKSM",
+                    "title": "Liquid KSM",
+                    "slug": "liquid-ksm",
+                    "url": "https:\/\/cryptopanic.com\/news\/liquid-ksm\/"
+                },
+                {
+                    "code": "LCDOT",
+                    "title": "Liquid Crowdloan DOT",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "LDOT",
+                    "title": "Liquid Staking Dot",
+                    "slug": "liquid-staking-dot",
+                    "url": "https:\/\/cryptopanic.com\/news\/liquid-staking-dot\/"
+                },
+                {
+                    "code": "AUSD",
+                    "title": "Acala Dollar (Acala)",
+                    "slug": "acala-dollar-acala",
+                    "url": "https:\/\/cryptopanic.com\/news\/acala-dollar-acala\/"
+                },
+                {
+                    "code": "ASEED",
+                    "title": "aUSD SEED (Acala)",
+                    "slug": "ausd-seed-acala",
+                    "url": "https:\/\/cryptopanic.com\/news\/ausd-seed-acala\/"
+                },
+                {
+                    "code": "ASEED",
+                    "title": "aUSD SEED (Karura)",
+                    "slug": "ausd-seed-karura",
+                    "url": "https:\/\/cryptopanic.com\/news\/ausd-seed-karura\/"
+                }
+            ],
+            "id": 18678398,
+            "url": "https:\/\/cryptopanic.com\/news\/18678398\/Acala-20-Exodus-Upgrade-will-build-the-liquidity-layer-and-LSDFi-hub-for-web3-finance-with-infrastructures-and-pr",
+            "created_at": "2023-06-29T04:54:09Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@AcalaNetwork",
+            "source": {
+                "title": "Karura Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@acalanetwork"
+            },
+            "title": " aUSD conversion to aSEED is targeted to be on July 20 provided that the community vote is passed &amp; on-chain chang\u2026",
+            "published_at": "2023-06-27T04:08:45Z",
+            "slug": "aUSD-conversion-to-aSEED-is-targeted-to-be-on-July-20-provided-that-the-community-vote-is-passed-amp-on-chain-chang",
+            "currencies": [
+                {
+                    "code": "KAR",
+                    "title": "Karura",
+                    "slug": "karura",
+                    "url": "https:\/\/cryptopanic.com\/news\/karura\/"
+                },
+                {
+                    "code": "ACA",
+                    "title": "Acala Token",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "ACA",
+                    "title": "Acala",
+                    "slug": "acala",
+                    "url": "https:\/\/cryptopanic.com\/news\/acala\/"
+                },
+                {
+                    "code": "AUSD",
+                    "title": "Acala Dollar (Karura)",
+                    "slug": "acala-dollar",
+                    "url": "https:\/\/cryptopanic.com\/news\/acala-dollar\/"
+                },
+                {
+                    "code": "LKSM",
+                    "title": "Liquid KSM",
+                    "slug": "liquid-ksm",
+                    "url": "https:\/\/cryptopanic.com\/news\/liquid-ksm\/"
+                },
+                {
+                    "code": "LCDOT",
+                    "title": "Liquid Crowdloan DOT",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "LDOT",
+                    "title": "Liquid Staking Dot",
+                    "slug": "liquid-staking-dot",
+                    "url": "https:\/\/cryptopanic.com\/news\/liquid-staking-dot\/"
+                },
+                {
+                    "code": "AUSD",
+                    "title": "Acala Dollar (Acala)",
+                    "slug": "acala-dollar-acala",
+                    "url": "https:\/\/cryptopanic.com\/news\/acala-dollar-acala\/"
+                },
+                {
+                    "code": "ASEED",
+                    "title": "aUSD SEED (Acala)",
+                    "slug": "ausd-seed-acala",
+                    "url": "https:\/\/cryptopanic.com\/news\/ausd-seed-acala\/"
+                },
+                {
+                    "code": "ASEED",
+                    "title": "aUSD SEED (Karura)",
+                    "slug": "ausd-seed-karura",
+                    "url": "https:\/\/cryptopanic.com\/news\/ausd-seed-karura\/"
+                }
+            ],
+            "id": 18661930,
+            "url": "https:\/\/cryptopanic.com\/news\/18661930\/aUSD-conversion-to-aSEED-is-targeted-to-be-on-July-20-provided-that-the-community-vote-is-passed-amp-on-chain-chang",
+            "created_at": "2023-06-27T04:08:45Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@AcalaNetwork",
+            "source": {
+                "title": "Karura Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@acalanetwork"
+            },
+            "title": "aSEED (Acala) I preparation to set risk parameters (Incl stop minting, liquidation etc) for aUSD on Acala is up for\u2026",
+            "published_at": "2023-06-22T03:08:39Z",
+            "slug": "aSEED-Acala-I-preparation-to-set-risk-parameters-Incl-stop-minting-liquidation-etc-for-aUSD-on-Acala-is-up-for",
+            "currencies": [
+                {
+                    "code": "KAR",
+                    "title": "Karura",
+                    "slug": "karura",
+                    "url": "https:\/\/cryptopanic.com\/news\/karura\/"
+                },
+                {
+                    "code": "ACA",
+                    "title": "Acala Token",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "ACA",
+                    "title": "Acala",
+                    "slug": "acala",
+                    "url": "https:\/\/cryptopanic.com\/news\/acala\/"
+                },
+                {
+                    "code": "AUSD",
+                    "title": "Acala Dollar (Karura)",
+                    "slug": "acala-dollar",
+                    "url": "https:\/\/cryptopanic.com\/news\/acala-dollar\/"
+                },
+                {
+                    "code": "LKSM",
+                    "title": "Liquid KSM",
+                    "slug": "liquid-ksm",
+                    "url": "https:\/\/cryptopanic.com\/news\/liquid-ksm\/"
+                },
+                {
+                    "code": "LCDOT",
+                    "title": "Liquid Crowdloan DOT",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "LDOT",
+                    "title": "Liquid Staking Dot",
+                    "slug": "liquid-staking-dot",
+                    "url": "https:\/\/cryptopanic.com\/news\/liquid-staking-dot\/"
+                },
+                {
+                    "code": "AUSD",
+                    "title": "Acala Dollar (Acala)",
+                    "slug": "acala-dollar-acala",
+                    "url": "https:\/\/cryptopanic.com\/news\/acala-dollar-acala\/"
+                },
+                {
+                    "code": "ASEED",
+                    "title": "aUSD SEED (Acala)",
+                    "slug": "ausd-seed-acala",
+                    "url": "https:\/\/cryptopanic.com\/news\/ausd-seed-acala\/"
+                },
+                {
+                    "code": "ASEED",
+                    "title": "aUSD SEED (Karura)",
+                    "slug": "ausd-seed-karura",
+                    "url": "https:\/\/cryptopanic.com\/news\/ausd-seed-karura\/"
+                }
+            ],
+            "id": 18629087,
+            "url": "https:\/\/cryptopanic.com\/news\/18629087\/aSEED-Acala-I-preparation-to-set-risk-parameters-Incl-stop-minting-liquidation-etc-for-aUSD-on-Acala-is-up-for",
+            "created_at": "2023-06-22T03:08:39Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@AcalaNetwork",
+            "source": {
+                "title": "Karura Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@acalanetwork"
+            },
+            "title": "Acala is building #Subway - high-performance JSON RPC API Gateway specifically built for @substrate &amp; #Ethereum RPC\u2026",
+            "published_at": "2023-06-21T05:30:04Z",
+            "slug": "Acala-is-building-Subway-high-performance-JSON-RPC-API-Gateway-specifically-built-for-substrate-amp-Ethereum-RPC",
+            "currencies": [
+                {
+                    "code": "KAR",
+                    "title": "Karura",
+                    "slug": "karura",
+                    "url": "https:\/\/cryptopanic.com\/news\/karura\/"
+                },
+                {
+                    "code": "ACA",
+                    "title": "Acala Token",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "ACA",
+                    "title": "Acala",
+                    "slug": "acala",
+                    "url": "https:\/\/cryptopanic.com\/news\/acala\/"
+                },
+                {
+                    "code": "AUSD",
+                    "title": "Acala Dollar (Karura)",
+                    "slug": "acala-dollar",
+                    "url": "https:\/\/cryptopanic.com\/news\/acala-dollar\/"
+                },
+                {
+                    "code": "LKSM",
+                    "title": "Liquid KSM",
+                    "slug": "liquid-ksm",
+                    "url": "https:\/\/cryptopanic.com\/news\/liquid-ksm\/"
+                },
+                {
+                    "code": "LCDOT",
+                    "title": "Liquid Crowdloan DOT",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "LDOT",
+                    "title": "Liquid Staking Dot",
+                    "slug": "liquid-staking-dot",
+                    "url": "https:\/\/cryptopanic.com\/news\/liquid-staking-dot\/"
+                },
+                {
+                    "code": "AUSD",
+                    "title": "Acala Dollar (Acala)",
+                    "slug": "acala-dollar-acala",
+                    "url": "https:\/\/cryptopanic.com\/news\/acala-dollar-acala\/"
+                },
+                {
+                    "code": "ASEED",
+                    "title": "aUSD SEED (Acala)",
+                    "slug": "ausd-seed-acala",
+                    "url": "https:\/\/cryptopanic.com\/news\/ausd-seed-acala\/"
+                },
+                {
+                    "code": "ASEED",
+                    "title": "aUSD SEED (Karura)",
+                    "slug": "ausd-seed-karura",
+                    "url": "https:\/\/cryptopanic.com\/news\/ausd-seed-karura\/"
+                }
+            ],
+            "id": 18621086,
+            "url": "https:\/\/cryptopanic.com\/news\/18621086\/Acala-is-building-Subway-high-performance-JSON-RPC-API-Gateway-specifically-built-for-substrate-amp-Ethereum-RPC",
+            "created_at": "2023-06-21T05:30:04Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@AcalaNetwork",
+            "source": {
+                "title": "Karura Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@acalanetwork"
+            },
+            "title": "RT @AcalaNetwork: 1-click crosschain experience is here \n\nUnleashing the power Acala EVM+ reaping benefits of both customizabilty of #Subs\u2026",
+            "published_at": "2023-06-19T03:44:03Z",
+            "slug": "RT-AcalaNetwork-1-click-crosschain-experience-is-here-Unleashing-the-power-Acala-EVM-reaping-benefits-of-both-customizabilty-of-Subs",
+            "currencies": [
+                {
+                    "code": "KAR",
+                    "title": "Karura",
+                    "slug": "karura",
+                    "url": "https:\/\/cryptopanic.com\/news\/karura\/"
+                },
+                {
+                    "code": "ACA",
+                    "title": "Acala Token",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "ACA",
+                    "title": "Acala",
+                    "slug": "acala",
+                    "url": "https:\/\/cryptopanic.com\/news\/acala\/"
+                },
+                {
+                    "code": "AUSD",
+                    "title": "Acala Dollar (Karura)",
+                    "slug": "acala-dollar",
+                    "url": "https:\/\/cryptopanic.com\/news\/acala-dollar\/"
+                },
+                {
+                    "code": "LKSM",
+                    "title": "Liquid KSM",
+                    "slug": "liquid-ksm",
+                    "url": "https:\/\/cryptopanic.com\/news\/liquid-ksm\/"
+                },
+                {
+                    "code": "LCDOT",
+                    "title": "Liquid Crowdloan DOT",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "LDOT",
+                    "title": "Liquid Staking Dot",
+                    "slug": "liquid-staking-dot",
+                    "url": "https:\/\/cryptopanic.com\/news\/liquid-staking-dot\/"
+                },
+                {
+                    "code": "AUSD",
+                    "title": "Acala Dollar (Acala)",
+                    "slug": "acala-dollar-acala",
+                    "url": "https:\/\/cryptopanic.com\/news\/acala-dollar-acala\/"
+                },
+                {
+                    "code": "ASEED",
+                    "title": "aUSD SEED (Acala)",
+                    "slug": "ausd-seed-acala",
+                    "url": "https:\/\/cryptopanic.com\/news\/ausd-seed-acala\/"
+                },
+                {
+                    "code": "ASEED",
+                    "title": "aUSD SEED (Karura)",
+                    "slug": "ausd-seed-karura",
+                    "url": "https:\/\/cryptopanic.com\/news\/ausd-seed-karura\/"
+                }
+            ],
+            "id": 18606347,
+            "url": "https:\/\/cryptopanic.com\/news\/18606347\/RT-AcalaNetwork-1-click-crosschain-experience-is-here-Unleashing-the-power-Acala-EVM-reaping-benefits-of-both-customizabilty-of-Subs",
+            "created_at": "2023-06-19T03:44:03Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@AcalaNetwork",
+            "source": {
+                "title": "Karura Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@acalanetwork"
+            },
+            "title": "Let the Exodus upgrade begin ",
+            "published_at": "2023-06-19T02:07:32Z",
+            "slug": "Let-the-Exodus-upgrade-begin",
+            "currencies": [
+                {
+                    "code": "KAR",
+                    "title": "Karura",
+                    "slug": "karura",
+                    "url": "https:\/\/cryptopanic.com\/news\/karura\/"
+                },
+                {
+                    "code": "ACA",
+                    "title": "Acala Token",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "ACA",
+                    "title": "Acala",
+                    "slug": "acala",
+                    "url": "https:\/\/cryptopanic.com\/news\/acala\/"
+                },
+                {
+                    "code": "AUSD",
+                    "title": "Acala Dollar (Karura)",
+                    "slug": "acala-dollar",
+                    "url": "https:\/\/cryptopanic.com\/news\/acala-dollar\/"
+                },
+                {
+                    "code": "LKSM",
+                    "title": "Liquid KSM",
+                    "slug": "liquid-ksm",
+                    "url": "https:\/\/cryptopanic.com\/news\/liquid-ksm\/"
+                },
+                {
+                    "code": "LCDOT",
+                    "title": "Liquid Crowdloan DOT",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "LDOT",
+                    "title": "Liquid Staking Dot",
+                    "slug": "liquid-staking-dot",
+                    "url": "https:\/\/cryptopanic.com\/news\/liquid-staking-dot\/"
+                },
+                {
+                    "code": "AUSD",
+                    "title": "Acala Dollar (Acala)",
+                    "slug": "acala-dollar-acala",
+                    "url": "https:\/\/cryptopanic.com\/news\/acala-dollar-acala\/"
+                }
+            ],
+            "id": 18606348,
+            "url": "https:\/\/cryptopanic.com\/news\/18606348\/Let-the-Exodus-upgrade-begin",
+            "created_at": "2023-06-19T02:07:32Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@AcalaNetwork",
+            "source": {
+                "title": "Karura Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@acalanetwork"
+            },
+            "title": "The vote is up for the Acala Exodus Plan \n\n General direction of the plan\n Execution roadmap\n Setting aUSD vaul\u2026",
+            "published_at": "2023-06-16T07:21:40Z",
+            "slug": "The-vote-is-up-for-the-Acala-Exodus-Plan-General-direction-of-the-plan-Execution-roadmap-Setting-aUSD-vaul",
+            "currencies": [
+                {
+                    "code": "KAR",
+                    "title": "Karura",
+                    "slug": "karura",
+                    "url": "https:\/\/cryptopanic.com\/news\/karura\/"
+                },
+                {
+                    "code": "ACA",
+                    "title": "Acala Token",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "ACA",
+                    "title": "Acala",
+                    "slug": "acala",
+                    "url": "https:\/\/cryptopanic.com\/news\/acala\/"
+                },
+                {
+                    "code": "AUSD",
+                    "title": "Acala Dollar (Karura)",
+                    "slug": "acala-dollar",
+                    "url": "https:\/\/cryptopanic.com\/news\/acala-dollar\/"
+                },
+                {
+                    "code": "LKSM",
+                    "title": "Liquid KSM",
+                    "slug": "liquid-ksm",
+                    "url": "https:\/\/cryptopanic.com\/news\/liquid-ksm\/"
+                },
+                {
+                    "code": "LCDOT",
+                    "title": "Liquid Crowdloan DOT",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "LDOT",
+                    "title": "Liquid Staking Dot",
+                    "slug": "liquid-staking-dot",
+                    "url": "https:\/\/cryptopanic.com\/news\/liquid-staking-dot\/"
+                },
+                {
+                    "code": "AUSD",
+                    "title": "Acala Dollar (Acala)",
+                    "slug": "acala-dollar-acala",
+                    "url": "https:\/\/cryptopanic.com\/news\/acala-dollar-acala\/"
+                }
+            ],
+            "id": 18587907,
+            "url": "https:\/\/cryptopanic.com\/news\/18587907\/The-vote-is-up-for-the-Acala-Exodus-Plan-General-direction-of-the-plan-Execution-roadmap-Setting-aUSD-vaul",
+            "created_at": "2023-06-16T07:21:40Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@AcalaNetwork",
+            "source": {
+                "title": "Karura Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@acalanetwork"
+            },
+            "title": "RT @KaruraNetwork: This is the power of Acala EVM+ #hybridchain that allows bi-directional smart contract and substrate calls e.g. #xcm cal\u2026",
+            "published_at": "2023-06-16T02:24:14Z",
+            "slug": "RT-KaruraNetwork-This-is-the-power-of-Acala-EVM-hybridchain-that-allows-bi-directional-smart-contract-and-substrate-calls-eg-xcm-cal",
+            "currencies": [
+                {
+                    "code": "KAR",
+                    "title": "Karura",
+                    "slug": "karura",
+                    "url": "https:\/\/cryptopanic.com\/news\/karura\/"
+                },
+                {
+                    "code": "ACA",
+                    "title": "Acala Token",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "ACA",
+                    "title": "Acala",
+                    "slug": "acala",
+                    "url": "https:\/\/cryptopanic.com\/news\/acala\/"
+                },
+                {
+                    "code": "AUSD",
+                    "title": "Acala Dollar (Karura)",
+                    "slug": "acala-dollar",
+                    "url": "https:\/\/cryptopanic.com\/news\/acala-dollar\/"
+                },
+                {
+                    "code": "LKSM",
+                    "title": "Liquid KSM",
+                    "slug": "liquid-ksm",
+                    "url": "https:\/\/cryptopanic.com\/news\/liquid-ksm\/"
+                },
+                {
+                    "code": "LCDOT",
+                    "title": "Liquid Crowdloan DOT",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "LDOT",
+                    "title": "Liquid Staking Dot",
+                    "slug": "liquid-staking-dot",
+                    "url": "https:\/\/cryptopanic.com\/news\/liquid-staking-dot\/"
+                },
+                {
+                    "code": "AUSD",
+                    "title": "Acala Dollar (Acala)",
+                    "slug": "acala-dollar-acala",
+                    "url": "https:\/\/cryptopanic.com\/news\/acala-dollar-acala\/"
+                }
+            ],
+            "id": 18587908,
+            "url": "https:\/\/cryptopanic.com\/news\/18587908\/RT-KaruraNetwork-This-is-the-power-of-Acala-EVM-hybridchain-that-allows-bi-directional-smart-contract-and-substrate-calls-eg-xcm-cal",
+            "created_at": "2023-06-16T02:24:14Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@AcalaNetwork",
+            "source": {
+                "title": "Karura Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@acalanetwork"
+            },
+            "title": "1-click crosschain experience is here \n\nUnleashing the power Acala EVM+ reaping benefits of both customizabilty of\u2026",
+            "published_at": "2023-06-16T02:11:39Z",
+            "slug": "1-click-crosschain-experience-is-here-Unleashing-the-power-Acala-EVM-reaping-benefits-of-both-customizabilty-of",
+            "currencies": [
+                {
+                    "code": "KAR",
+                    "title": "Karura",
+                    "slug": "karura",
+                    "url": "https:\/\/cryptopanic.com\/news\/karura\/"
+                },
+                {
+                    "code": "ACA",
+                    "title": "Acala Token",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "ACA",
+                    "title": "Acala",
+                    "slug": "acala",
+                    "url": "https:\/\/cryptopanic.com\/news\/acala\/"
+                },
+                {
+                    "code": "AUSD",
+                    "title": "Acala Dollar (Karura)",
+                    "slug": "acala-dollar",
+                    "url": "https:\/\/cryptopanic.com\/news\/acala-dollar\/"
+                },
+                {
+                    "code": "LKSM",
+                    "title": "Liquid KSM",
+                    "slug": "liquid-ksm",
+                    "url": "https:\/\/cryptopanic.com\/news\/liquid-ksm\/"
+                },
+                {
+                    "code": "LCDOT",
+                    "title": "Liquid Crowdloan DOT",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "LDOT",
+                    "title": "Liquid Staking Dot",
+                    "slug": "liquid-staking-dot",
+                    "url": "https:\/\/cryptopanic.com\/news\/liquid-staking-dot\/"
+                },
+                {
+                    "code": "AUSD",
+                    "title": "Acala Dollar (Acala)",
+                    "slug": "acala-dollar-acala",
+                    "url": "https:\/\/cryptopanic.com\/news\/acala-dollar-acala\/"
+                }
+            ],
+            "id": 18587909,
+            "url": "https:\/\/cryptopanic.com\/news\/18587909\/1-click-crosschain-experience-is-here-Unleashing-the-power-Acala-EVM-reaping-benefits-of-both-customizabilty-of",
+            "created_at": "2023-06-16T02:11:39Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@AcalaNetwork",
+            "source": {
+                "title": "Karura Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@acalanetwork"
+            },
+            "title": "RT @XiliangChen: We really need a good tool to help improve crosschain governance UX. This is the amount of hops required currently to veri\u2026",
+            "published_at": "2023-06-16T01:58:57Z",
+            "slug": "RT-XiliangChen-We-really-need-a-good-tool-to-help-improve-crosschain-governance-UX-This-is-the-amount-of-hops-required-currently-to-veri",
+            "currencies": [
+                {
+                    "code": "KAR",
+                    "title": "Karura",
+                    "slug": "karura",
+                    "url": "https:\/\/cryptopanic.com\/news\/karura\/"
+                },
+                {
+                    "code": "ACA",
+                    "title": "Acala Token",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "ACA",
+                    "title": "Acala",
+                    "slug": "acala",
+                    "url": "https:\/\/cryptopanic.com\/news\/acala\/"
+                },
+                {
+                    "code": "AUSD",
+                    "title": "Acala Dollar (Karura)",
+                    "slug": "acala-dollar",
+                    "url": "https:\/\/cryptopanic.com\/news\/acala-dollar\/"
+                },
+                {
+                    "code": "LKSM",
+                    "title": "Liquid KSM",
+                    "slug": "liquid-ksm",
+                    "url": "https:\/\/cryptopanic.com\/news\/liquid-ksm\/"
+                },
+                {
+                    "code": "LCDOT",
+                    "title": "Liquid Crowdloan DOT",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "LDOT",
+                    "title": "Liquid Staking Dot",
+                    "slug": "liquid-staking-dot",
+                    "url": "https:\/\/cryptopanic.com\/news\/liquid-staking-dot\/"
+                },
+                {
+                    "code": "AUSD",
+                    "title": "Acala Dollar (Acala)",
+                    "slug": "acala-dollar-acala",
+                    "url": "https:\/\/cryptopanic.com\/news\/acala-dollar-acala\/"
+                }
+            ],
+            "id": 18587910,
+            "url": "https:\/\/cryptopanic.com\/news\/18587910\/RT-XiliangChen-We-really-need-a-good-tool-to-help-improve-crosschain-governance-UX-This-is-the-amount-of-hops-required-currently-to-veri",
+            "created_at": "2023-06-16T01:58:57Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@AcalaNetwork",
+            "source": {
+                "title": "Karura Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@acalanetwork"
+            },
+            "title": "RT @wormholecrypto: The @Uniswap Bridge Assessment Committee, commissioned by the @UniswapFND, has assessed 6 different bridges and has app\u2026",
+            "published_at": "2023-06-15T21:25:13Z",
+            "slug": "RT-wormholecrypto-The-Uniswap-Bridge-Assessment-Committee-commissioned-by-the-UniswapFND-has-assessed-6-different-bridges-and-has-app",
+            "currencies": [
+                {
+                    "code": "KAR",
+                    "title": "Karura",
+                    "slug": "karura",
+                    "url": "https:\/\/cryptopanic.com\/news\/karura\/"
+                },
+                {
+                    "code": "ACA",
+                    "title": "Acala Token",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "ACA",
+                    "title": "Acala",
+                    "slug": "acala",
+                    "url": "https:\/\/cryptopanic.com\/news\/acala\/"
+                },
+                {
+                    "code": "AUSD",
+                    "title": "Acala Dollar (Karura)",
+                    "slug": "acala-dollar",
+                    "url": "https:\/\/cryptopanic.com\/news\/acala-dollar\/"
+                },
+                {
+                    "code": "LKSM",
+                    "title": "Liquid KSM",
+                    "slug": "liquid-ksm",
+                    "url": "https:\/\/cryptopanic.com\/news\/liquid-ksm\/"
+                },
+                {
+                    "code": "LCDOT",
+                    "title": "Liquid Crowdloan DOT",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "LDOT",
+                    "title": "Liquid Staking Dot",
+                    "slug": "liquid-staking-dot",
+                    "url": "https:\/\/cryptopanic.com\/news\/liquid-staking-dot\/"
+                },
+                {
+                    "code": "AUSD",
+                    "title": "Acala Dollar (Acala)",
+                    "slug": "acala-dollar-acala",
+                    "url": "https:\/\/cryptopanic.com\/news\/acala-dollar-acala\/"
+                }
+            ],
+            "id": 18587911,
+            "url": "https:\/\/cryptopanic.com\/news\/18587911\/RT-wormholecrypto-The-Uniswap-Bridge-Assessment-Committee-commissioned-by-the-UniswapFND-has-assessed-6-different-bridges-and-has-app",
+            "created_at": "2023-06-15T21:25:13Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@AcalaNetwork",
+            "source": {
+                "title": "Karura Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@acalanetwork"
+            },
+            "title": "Happening in 7 minutes ",
+            "published_at": "2023-06-15T06:53:22Z",
+            "slug": "Happening-in-7-minutes",
+            "currencies": [
+                {
+                    "code": "KAR",
+                    "title": "Karura",
+                    "slug": "karura",
+                    "url": "https:\/\/cryptopanic.com\/news\/karura\/"
+                },
+                {
+                    "code": "ACA",
+                    "title": "Acala Token",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "ACA",
+                    "title": "Acala",
+                    "slug": "acala",
+                    "url": "https:\/\/cryptopanic.com\/news\/acala\/"
+                },
+                {
+                    "code": "AUSD",
+                    "title": "Acala Dollar (Karura)",
+                    "slug": "acala-dollar",
+                    "url": "https:\/\/cryptopanic.com\/news\/acala-dollar\/"
+                },
+                {
+                    "code": "LKSM",
+                    "title": "Liquid KSM",
+                    "slug": "liquid-ksm",
+                    "url": "https:\/\/cryptopanic.com\/news\/liquid-ksm\/"
+                },
+                {
+                    "code": "LCDOT",
+                    "title": "Liquid Crowdloan DOT",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "LDOT",
+                    "title": "Liquid Staking Dot",
+                    "slug": "liquid-staking-dot",
+                    "url": "https:\/\/cryptopanic.com\/news\/liquid-staking-dot\/"
+                },
+                {
+                    "code": "AUSD",
+                    "title": "Acala Dollar (Acala)",
+                    "slug": "acala-dollar-acala",
+                    "url": "https:\/\/cryptopanic.com\/news\/acala-dollar-acala\/"
+                }
+            ],
+            "id": 18580036,
+            "url": "https:\/\/cryptopanic.com\/news\/18580036\/Happening-in-7-minutes",
+            "created_at": "2023-06-15T06:53:22Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@AcalaNetwork",
+            "source": {
+                "title": "Karura Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@acalanetwork"
+            },
+            "title": "RT @AcalaNetwork: Join Acala co-founder @bettechentt to walk through the Acala Exodus Plan to create a liquidity layer for web3 finance, a\u2026",
+            "published_at": "2023-06-15T06:52:53Z",
+            "slug": "RT-AcalaNetwork-Join-Acala-co-founder-bettechentt-to-walk-through-the-Acala-Exodus-Plan-to-create-a-liquidity-layer-for-web3-finance-a",
+            "currencies": [
+                {
+                    "code": "KAR",
+                    "title": "Karura",
+                    "slug": "karura",
+                    "url": "https:\/\/cryptopanic.com\/news\/karura\/"
+                },
+                {
+                    "code": "ACA",
+                    "title": "Acala Token",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "ACA",
+                    "title": "Acala",
+                    "slug": "acala",
+                    "url": "https:\/\/cryptopanic.com\/news\/acala\/"
+                },
+                {
+                    "code": "AUSD",
+                    "title": "Acala Dollar (Karura)",
+                    "slug": "acala-dollar",
+                    "url": "https:\/\/cryptopanic.com\/news\/acala-dollar\/"
+                },
+                {
+                    "code": "LKSM",
+                    "title": "Liquid KSM",
+                    "slug": "liquid-ksm",
+                    "url": "https:\/\/cryptopanic.com\/news\/liquid-ksm\/"
+                },
+                {
+                    "code": "LCDOT",
+                    "title": "Liquid Crowdloan DOT",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "LDOT",
+                    "title": "Liquid Staking Dot",
+                    "slug": "liquid-staking-dot",
+                    "url": "https:\/\/cryptopanic.com\/news\/liquid-staking-dot\/"
+                },
+                {
+                    "code": "AUSD",
+                    "title": "Acala Dollar (Acala)",
+                    "slug": "acala-dollar-acala",
+                    "url": "https:\/\/cryptopanic.com\/news\/acala-dollar-acala\/"
+                }
+            ],
+            "id": 18580037,
+            "url": "https:\/\/cryptopanic.com\/news\/18580037\/RT-AcalaNetwork-Join-Acala-co-founder-bettechentt-to-walk-through-the-Acala-Exodus-Plan-to-create-a-liquidity-layer-for-web3-finance-a",
+            "created_at": "2023-06-15T06:52:53Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

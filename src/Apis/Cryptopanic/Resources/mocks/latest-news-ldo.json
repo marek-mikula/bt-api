@@ -1,0 +1,815 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=LDO&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "feeds2.benzinga.com",
+            "source": {
+                "title": "Benzinga",
+                "region": "en",
+                "domain": "feeds2.benzinga.com",
+                "path": null
+            },
+            "title": "Cryptocurrency Lido DAO Down More Than 5% Within 24 hours",
+            "published_at": "2023-10-02T19:00:41Z",
+            "slug": "Cryptocurrency-Lido-DAO-Down-More-Than-5-Within-24-hours",
+            "currencies": [
+                {
+                    "code": "LDO",
+                    "title": "Lido DAO",
+                    "slug": "lido-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/lido-dao\/"
+                }
+            ],
+            "id": 18942973,
+            "url": "https:\/\/cryptopanic.com\/news\/18942973\/Cryptocurrency-Lido-DAO-Down-More-Than-5-Within-24-hours",
+            "created_at": "2023-10-02T19:00:41Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "feeds2.benzinga.com",
+            "source": {
+                "title": "Benzinga",
+                "region": "en",
+                "domain": "feeds2.benzinga.com",
+                "path": null
+            },
+            "title": "Cryptocurrency Lido DAO Rises More Than 4% In 24 hours",
+            "published_at": "2023-09-29T15:00:39Z",
+            "slug": "Cryptocurrency-Lido-DAO-Rises-More-Than-4-In-24-hours",
+            "currencies": [
+                {
+                    "code": "LDO",
+                    "title": "Lido DAO",
+                    "slug": "lido-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/lido-dao\/"
+                }
+            ],
+            "id": 18937683,
+            "url": "https:\/\/cryptopanic.com\/news\/18937683\/Cryptocurrency-Lido-DAO-Rises-More-Than-4-In-24-hours",
+            "created_at": "2023-09-29T15:00:39Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptopotato.com",
+            "source": {
+                "title": "Feed - Cryptopotato.Com",
+                "region": "en",
+                "domain": "cryptopotato.com",
+                "path": null
+            },
+            "title": "Bitcoin (BTC) Loses $27K, Ethereum (ETH) Slips Below $1.6K (Market Watch)",
+            "published_at": "2023-09-22T08:52:48Z",
+            "slug": "Bitcoin-BTC-Loses-27K-Ethereum-ETH-Slips-Below-16K-Market-Watch",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                },
+                {
+                    "code": "LTC",
+                    "title": "Litecoin",
+                    "slug": "litecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/litecoin\/"
+                },
+                {
+                    "code": "LDO",
+                    "title": "Lido DAO",
+                    "slug": "lido-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/lido-dao\/"
+                }
+            ],
+            "id": 18921110,
+            "url": "https:\/\/cryptopanic.com\/news\/18921110\/Bitcoin-BTC-Loses-27K-Ethereum-ETH-Slips-Below-16K-Market-Watch",
+            "created_at": "2023-09-22T08:52:48Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "feeds2.benzinga.com",
+            "source": {
+                "title": "Benzinga",
+                "region": "en",
+                "domain": "feeds2.benzinga.com",
+                "path": null
+            },
+            "title": "Cryptocurrency Lido DAO Falls More Than 3% In 24 hours",
+            "published_at": "2023-09-21T15:01:22Z",
+            "slug": "Cryptocurrency-Lido-DAO-Falls-More-Than-3-In-24-hours",
+            "currencies": [
+                {
+                    "code": "LDO",
+                    "title": "Lido DAO",
+                    "slug": "lido-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/lido-dao\/"
+                }
+            ],
+            "id": 18919566,
+            "url": "https:\/\/cryptopanic.com\/news\/18919566\/Cryptocurrency-Lido-DAO-Falls-More-Than-3-In-24-hours",
+            "created_at": "2023-09-21T15:01:22Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "Lido\u2019s new collaborations fail to make LDO see green \u2013 Why?",
+            "published_at": "2023-09-17T15:30:06Z",
+            "slug": "Lidos-new-collaborations-fail-to-make-LDO-see-green-Why",
+            "currencies": [
+                {
+                    "code": "LDO",
+                    "title": "Lido DAO",
+                    "slug": "lido-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/lido-dao\/"
+                }
+            ],
+            "id": 18909094,
+            "url": "https:\/\/cryptopanic.com\/news\/18909094\/Lidos-new-collaborations-fail-to-make-LDO-see-green-Why",
+            "created_at": "2023-09-17T15:30:06Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cointelegraph.com",
+            "source": {
+                "title": "CoinTelegraph",
+                "region": "en",
+                "domain": "cointelegraph.com",
+                "path": null
+            },
+            "title": "DeFi economic activity drops 15% in August \u2014VanEck",
+            "published_at": "2023-09-16T16:48:43Z",
+            "slug": "DeFi-economic-activity-drops-15-in-August-VanEck",
+            "currencies": [
+                {
+                    "code": "LDO",
+                    "title": "Lido DAO",
+                    "slug": "lido-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/lido-dao\/"
+                },
+                {
+                    "code": "LEND",
+                    "title": "Aave [OLD]",
+                    "slug": "ethlend",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethlend\/"
+                }
+            ],
+            "id": 18908159,
+            "url": "https:\/\/cryptopanic.com\/news\/18908159\/DeFi-economic-activity-drops-15-in-August-VanEck",
+            "created_at": "2023-09-16T16:48:43Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Ethereum Merge Is One: Here Are The Highlights So Far",
+            "published_at": "2023-09-16T09:56:05Z",
+            "slug": "Ethereum-Merge-Is-One-Here-Are-The-Highlights-So-Far",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "ADA",
+                    "title": "Cardano",
+                    "slug": "cardano",
+                    "url": "https:\/\/cryptopanic.com\/news\/cardano\/"
+                },
+                {
+                    "code": "TON",
+                    "title": "Toncoin",
+                    "slug": "the-open-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/the-open-network\/"
+                },
+                {
+                    "code": "LDO",
+                    "title": "Lido DAO",
+                    "slug": "lido-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/lido-dao\/"
+                }
+            ],
+            "id": 18907654,
+            "url": "https:\/\/cryptopanic.com\/news\/18907654\/Ethereum-Merge-Is-One-Here-Are-The-Highlights-So-Far",
+            "created_at": "2023-09-16T09:56:05Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "blockworks.co",
+            "source": {
+                "title": "Blockworks",
+                "region": "en",
+                "domain": "blockworks.co",
+                "path": null
+            },
+            "title": "Lidos\u2019 wrapped staked ETH is coming to Cosmos",
+            "published_at": "2023-09-14T13:00:00Z",
+            "slug": "Lidos-wrapped-staked-ETH-is-coming-to-Cosmos",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "LDO",
+                    "title": "Lido DAO",
+                    "slug": "lido-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/lido-dao\/"
+                }
+            ],
+            "id": 18903126,
+            "url": "https:\/\/cryptopanic.com\/news\/18903126\/Lidos-wrapped-staked-ETH-is-coming-to-Cosmos",
+            "created_at": "2023-09-14T13:00:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinjournal.net",
+            "source": {
+                "title": "CoinJournal",
+                "region": "en",
+                "domain": "coinjournal.net",
+                "path": null
+            },
+            "title": "Lido price staggers ahead of the 1.5 million LDO token unlock",
+            "published_at": "2023-09-13T06:56:31Z",
+            "slug": "Lido-price-staggers-ahead-of-the-15-million-LDO-token-unlock",
+            "currencies": [
+                {
+                    "code": "LDO",
+                    "title": "Lido DAO",
+                    "slug": "lido-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/lido-dao\/"
+                }
+            ],
+            "id": 18899295,
+            "url": "https:\/\/cryptopanic.com\/news\/18899295\/Lido-price-staggers-ahead-of-the-15-million-LDO-token-unlock",
+            "created_at": "2023-09-13T06:56:31Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "Unravelling the controversy around Lido Finance\u2019s token contract exploit",
+            "published_at": "2023-09-11T09:30:58Z",
+            "slug": "Unravelling-the-controversy-around-Lido-Finances-token-contract-exploit",
+            "currencies": [
+                {
+                    "code": "LDO",
+                    "title": "Lido DAO",
+                    "slug": "lido-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/lido-dao\/"
+                }
+            ],
+            "id": 18893755,
+            "url": "https:\/\/cryptopanic.com\/news\/18893755\/Unravelling-the-controversy-around-Lido-Finances-token-contract-exploit",
+            "created_at": "2023-09-11T09:30:58Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "en.bitcoinsistemi.com",
+            "source": {
+                "title": "en bitcoinsistemi",
+                "region": "en",
+                "domain": "en.bitcoinsistemi.com",
+                "path": null
+            },
+            "title": "Cryptocurrency Security Company Detects an Issue with Lido DAO (LDO) Token Contract",
+            "published_at": "2023-09-10T19:04:06Z",
+            "slug": "Cryptocurrency-Security-Company-Detects-an-Issue-with-Lido-DAO-LDO-Token-Contract",
+            "currencies": [
+                {
+                    "code": "LDO",
+                    "title": "Lido DAO",
+                    "slug": "lido-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/lido-dao\/"
+                }
+            ],
+            "id": 18892891,
+            "url": "https:\/\/cryptopanic.com\/news\/18892891\/Cryptocurrency-Security-Company-Detects-an-Issue-with-Lido-DAO-LDO-Token-Contract",
+            "created_at": "2023-09-10T19:04:06Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "bitcoinist.com",
+            "votes": {
+                "negative": 1,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "Bitcoinist",
+                "region": "en",
+                "domain": "bitcoinist.com",
+                "path": null
+            },
+            "title": "Lido Could End Support For Solana If Lido DAO Votes Against This Proposal",
+            "published_at": "2023-09-05T23:00:49Z",
+            "slug": "Lido-Could-End-Support-For-Solana-If-Lido-DAO-Votes-Against-This-Proposal",
+            "currencies": [
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "LDO",
+                    "title": "Lido DAO",
+                    "slug": "lido-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/lido-dao\/"
+                }
+            ],
+            "id": 18882032,
+            "url": "https:\/\/cryptopanic.com\/news\/18882032\/Lido-Could-End-Support-For-Solana-If-Lido-DAO-Votes-Against-This-Proposal",
+            "created_at": "2023-09-05T23:00:49Z"
+        },
+        {
+            "kind": "news",
+            "domain": "dailycoin.com",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "Dailycoin",
+                "region": "en",
+                "domain": "dailycoin.com",
+                "path": null
+            },
+            "title": "Will Lido Stay on Solana? Dev Team Asks for Funding from Lido DAO",
+            "published_at": "2023-09-05T13:05:00Z",
+            "slug": "Will-Lido-Stay-on-Solana-Dev-Team-Asks-for-Funding-from-Lido-DAO",
+            "currencies": [
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "LDO",
+                    "title": "Lido DAO",
+                    "slug": "lido-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/lido-dao\/"
+                }
+            ],
+            "id": 18880760,
+            "url": "https:\/\/cryptopanic.com\/news\/18880760\/Will-Lido-Stay-on-Solana-Dev-Team-Asks-for-Funding-from-Lido-DAO",
+            "created_at": "2023-09-05T13:05:00Z"
+        },
+        {
+            "kind": "news",
+            "domain": "theblock.co",
+            "source": {
+                "title": "The Block",
+                "region": "en",
+                "domain": "theblock.co",
+                "path": null
+            },
+            "title": "Lido contributor requests $1.5 million funding to grow Solana liquid staking",
+            "published_at": "2023-09-05T11:04:38Z",
+            "slug": "Lido-contributor-requests-15-million-funding-to-grow-Solana-liquid-staking",
+            "currencies": [
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "LDO",
+                    "title": "Lido DAO",
+                    "slug": "lido-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/lido-dao\/"
+                }
+            ],
+            "id": 18880463,
+            "url": "https:\/\/cryptopanic.com\/news\/18880463\/Lido-contributor-requests-15-million-funding-to-grow-Solana-liquid-staking",
+            "created_at": "2023-09-05T11:04:38Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptoglobe.com",
+            "source": {
+                "title": "CryptoGlobe",
+                "region": "en",
+                "domain": "cryptoglobe.com",
+                "path": null
+            },
+            "title": "$ETH: Crypto Influencer Heidi Chakos on \u2018New Threat to Ethereum That No One is Talking About\u2019",
+            "published_at": "2023-09-05T08:55:46Z",
+            "slug": "ETH-Crypto-Influencer-Heidi-Chakos-on-New-Threat-to-Ethereum-That-No-One-is-Talking-About",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "LDO",
+                    "title": "Lido DAO",
+                    "slug": "lido-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/lido-dao\/"
+                }
+            ],
+            "id": 18880157,
+            "url": "https:\/\/cryptopanic.com\/news\/18880157\/ETH-Crypto-Influencer-Heidi-Chakos-on-New-Threat-to-Ethereum-That-No-One-is-Talking-About",
+            "created_at": "2023-09-05T08:55:46Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "Whale Forfeits $732k Moving Coins to Binance; InQubeta Breaks $2.4 Million Barrier",
+            "published_at": "2023-08-30T14:53:49Z",
+            "slug": "Whale-Forfeits-732k-Moving-Coins-to-Binance-InQubeta-Breaks-24-Million-Barrier",
+            "currencies": [
+                {
+                    "code": "UNI",
+                    "title": "Uniswap",
+                    "slug": "uniswap",
+                    "url": "https:\/\/cryptopanic.com\/news\/uniswap\/"
+                },
+                {
+                    "code": "LDO",
+                    "title": "Lido DAO",
+                    "slug": "lido-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/lido-dao\/"
+                },
+                {
+                    "code": "ARB",
+                    "title": "Arbitrum",
+                    "slug": "arbitrum",
+                    "url": "https:\/\/cryptopanic.com\/news\/arbitrum\/"
+                }
+            ],
+            "id": 18869317,
+            "url": "https:\/\/cryptopanic.com\/news\/18869317\/Whale-Forfeits-732k-Moving-Coins-to-Binance-InQubeta-Breaks-24-Million-Barrier",
+            "created_at": "2023-08-30T14:53:49Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Lido (LDO) Price Inks Gains Alongside TVL Rise \u2013 What Traders Should Expect",
+            "published_at": "2023-08-30T10:50:42Z",
+            "slug": "Lido-LDO-Price-Inks-Gains-Alongside-TVL-Rise-What-Traders-Should-Expect",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "BCH",
+                    "title": "Bitcoin Cash",
+                    "slug": "bitcoin-cash",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin-cash\/"
+                },
+                {
+                    "code": "LDO",
+                    "title": "Lido DAO",
+                    "slug": "lido-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/lido-dao\/"
+                },
+                {
+                    "code": "PEPE",
+                    "title": "Pepe",
+                    "slug": "pepe",
+                    "url": "https:\/\/cryptopanic.com\/news\/pepe\/"
+                }
+            ],
+            "id": 18868674,
+            "url": "https:\/\/cryptopanic.com\/news\/18868674\/Lido-LDO-Price-Inks-Gains-Alongside-TVL-Rise-What-Traders-Should-Expect",
+            "created_at": "2023-08-30T10:50:42Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "Lido loses all its Q2 gains; LDO traders can expect this in coming days",
+            "published_at": "2023-08-30T03:30:34Z",
+            "slug": "Lido-loses-all-its-Q2-gains-LDO-traders-can-expect-this-in-coming-days",
+            "currencies": [
+                {
+                    "code": "LDO",
+                    "title": "Lido DAO",
+                    "slug": "lido-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/lido-dao\/"
+                }
+            ],
+            "id": 18867931,
+            "url": "https:\/\/cryptopanic.com\/news\/18867931\/Lido-loses-all-its-Q2-gains-LDO-traders-can-expect-this-in-coming-days",
+            "created_at": "2023-08-30T03:30:34Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "feeds2.benzinga.com",
+            "source": {
+                "title": "Benzinga",
+                "region": "en",
+                "domain": "feeds2.benzinga.com",
+                "path": null
+            },
+            "title": "Cryptocurrency Lido DAO Falls More Than 5% In 24 hours",
+            "published_at": "2023-08-25T19:00:16Z",
+            "slug": "Cryptocurrency-Lido-DAO-Falls-More-Than-5-In-24-hours",
+            "currencies": [
+                {
+                    "code": "LDO",
+                    "title": "Lido DAO",
+                    "slug": "lido-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/lido-dao\/"
+                }
+            ],
+            "id": 18860273,
+            "url": "https:\/\/cryptopanic.com\/news\/18860273\/Cryptocurrency-Lido-DAO-Falls-More-Than-5-In-24-hours",
+            "created_at": "2023-08-25T19:00:16Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "thedefiant.io",
+            "source": {
+                "title": "DeFi News",
+                "region": "en",
+                "domain": "thedefiant.io",
+                "path": null
+            },
+            "title": "Lido Set To Complete Final Token Unlock",
+            "published_at": "2023-08-25T05:01:24Z",
+            "slug": "Lido-Set-To-Complete-Final-Token-Unlock",
+            "currencies": [
+                {
+                    "code": "LDO",
+                    "title": "Lido DAO",
+                    "slug": "lido-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/lido-dao\/"
+                }
+            ],
+            "id": 18858447,
+            "url": "https:\/\/cryptopanic.com\/news\/18858447\/Lido-Set-To-Complete-Final-Token-Unlock",
+            "created_at": "2023-08-25T05:01:24Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

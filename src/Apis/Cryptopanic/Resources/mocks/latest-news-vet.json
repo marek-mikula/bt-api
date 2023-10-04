@@ -1,0 +1,815 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=VET&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "coinjournal.net",
+            "votes": {
+                "negative": 0,
+                "positive": 2,
+                "important": 2,
+                "liked": 2,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 1,
+                "comments": 0
+            },
+            "source": {
+                "title": "CoinJournal",
+                "region": "en",
+                "domain": "coinjournal.net",
+                "path": null
+            },
+            "title": "Massive development for VeChain (VET) as self-custody wallet goes live",
+            "published_at": "2023-09-21T19:27:26Z",
+            "slug": "Massive-development-for-VeChain-VET-as-self-custody-wallet-goes-live",
+            "currencies": [
+                {
+                    "code": "VET",
+                    "title": "VeChain",
+                    "slug": "vechain",
+                    "url": "https:\/\/cryptopanic.com\/news\/vechain\/"
+                }
+            ],
+            "id": 18920130,
+            "url": "https:\/\/cryptopanic.com\/news\/18920130\/Massive-development-for-VeChain-VET-as-self-custody-wallet-goes-live",
+            "created_at": "2023-09-21T19:27:26Z"
+        },
+        {
+            "kind": "news",
+            "domain": "u.today",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 1,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 1,
+                "comments": 0
+            },
+            "source": {
+                "title": "U.Today",
+                "region": "en",
+                "domain": "u.today",
+                "path": null
+            },
+            "title": "VeChain (VET) Announces Launch of Self-Custody Wallet",
+            "published_at": "2023-09-21T15:38:00Z",
+            "slug": "VeChain-VET-Announces-Launch-of-Self-Custody-Wallet",
+            "currencies": [
+                {
+                    "code": "VET",
+                    "title": "VeChain",
+                    "slug": "vechain",
+                    "url": "https:\/\/cryptopanic.com\/news\/vechain\/"
+                }
+            ],
+            "id": 18919633,
+            "url": "https:\/\/cryptopanic.com\/news\/18919633\/VeChain-VET-Announces-Launch-of-Self-Custody-Wallet",
+            "created_at": "2023-09-21T15:38:00Z"
+        },
+        {
+            "kind": "news",
+            "domain": "coinidol.com",
+            "source": {
+                "title": "Coin Idol",
+                "region": "en",
+                "domain": "coinidol.com",
+                "path": null
+            },
+            "title": "Weekly Cryptocurrency Market Analysis: Altcoin Upswing Is Against An Overbought Condition",
+            "published_at": "2023-09-20T08:12:00Z",
+            "slug": "Weekly-Cryptocurrency-Market-Analysis-Altcoin-Upswing-Is-Against-An-Overbought-Condition",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "VET",
+                    "title": "VeChain",
+                    "slug": "vechain",
+                    "url": "https:\/\/cryptopanic.com\/news\/vechain\/"
+                },
+                {
+                    "code": "AAVE",
+                    "title": "Aave",
+                    "slug": "aave",
+                    "url": "https:\/\/cryptopanic.com\/news\/aave\/"
+                }
+            ],
+            "id": 18915938,
+            "url": "https:\/\/cryptopanic.com\/news\/18915938\/Weekly-Cryptocurrency-Market-Analysis-Altcoin-Upswing-Is-Against-An-Overbought-Condition",
+            "created_at": "2023-09-20T08:12:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "dailyhodl.com",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 1,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 2,
+                "comments": 0
+            },
+            "source": {
+                "title": "The Daily Hodl",
+                "region": "en",
+                "domain": "dailyhodl.com",
+                "path": null
+            },
+            "title": "Enterprise Blockchain Altcoin VeChain (VET) Jumps After New Coinbase Listing",
+            "published_at": "2023-09-15T22:01:01Z",
+            "slug": "Enterprise-Blockchain-Altcoin-VeChain-VET-Jumps-After-New-Coinbase-Listing",
+            "currencies": [
+                {
+                    "code": "VET",
+                    "title": "VeChain",
+                    "slug": "vechain",
+                    "url": "https:\/\/cryptopanic.com\/news\/vechain\/"
+                }
+            ],
+            "id": 18907139,
+            "url": "https:\/\/cryptopanic.com\/news\/18907139\/Enterprise-Blockchain-Altcoin-VeChain-VET-Jumps-After-New-Coinbase-Listing",
+            "created_at": "2023-09-15T22:01:01Z"
+        },
+        {
+            "kind": "news",
+            "domain": "coinjournal.net",
+            "source": {
+                "title": "CoinJournal",
+                "region": "en",
+                "domain": "coinjournal.net",
+                "path": null
+            },
+            "title": "Crypto price prediction: tomiNet, VeChain, XDC Network",
+            "published_at": "2023-09-15T16:22:32Z",
+            "slug": "Crypto-price-prediction-tomiNet-VeChain-XDC-Network",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "VET",
+                    "title": "VeChain",
+                    "slug": "vechain",
+                    "url": "https:\/\/cryptopanic.com\/news\/vechain\/"
+                },
+                {
+                    "code": "XDC",
+                    "title": "XDC Network",
+                    "slug": "xdce-crowd-sale",
+                    "url": "https:\/\/cryptopanic.com\/news\/xdce-crowd-sale\/"
+                }
+            ],
+            "id": 18906577,
+            "url": "https:\/\/cryptopanic.com\/news\/18906577\/Crypto-price-prediction-tomiNet-VeChain-XDC-Network",
+            "created_at": "2023-09-15T16:22:32Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinjournal.net",
+            "source": {
+                "title": "CoinJournal",
+                "region": "en",
+                "domain": "coinjournal.net",
+                "path": null
+            },
+            "title": "VeChain price: VET outlook after Coinbase listing news",
+            "published_at": "2023-09-14T15:45:26Z",
+            "slug": "VeChain-price-VET-outlook-after-Coinbase-listing-news",
+            "currencies": [
+                {
+                    "code": "VET",
+                    "title": "VeChain",
+                    "slug": "vechain",
+                    "url": "https:\/\/cryptopanic.com\/news\/vechain\/"
+                }
+            ],
+            "id": 18903579,
+            "url": "https:\/\/cryptopanic.com\/news\/18903579\/VeChain-price-VET-outlook-after-Coinbase-listing-news",
+            "created_at": "2023-09-14T15:45:26Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinedition.com",
+            "source": {
+                "title": "coinedition",
+                "region": "en",
+                "domain": "coinedition.com",
+                "path": null
+            },
+            "title": "VET Soars on Coinbase Listing, Will Bullish Momentum Persist?",
+            "published_at": "2023-09-14T13:32:00Z",
+            "slug": "VET-Soars-on-Coinbase-Listing-Will-Bullish-Momentum-Persist",
+            "currencies": [
+                {
+                    "code": "VET",
+                    "title": "VeChain",
+                    "slug": "vechain",
+                    "url": "https:\/\/cryptopanic.com\/news\/vechain\/"
+                }
+            ],
+            "id": 18903203,
+            "url": "https:\/\/cryptopanic.com\/news\/18903203\/VET-Soars-on-Coinbase-Listing-Will-Bullish-Momentum-Persist",
+            "created_at": "2023-09-14T13:32:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "dailyhodl.com",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 1,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "The Daily Hodl",
+                "region": "en",
+                "domain": "dailyhodl.com",
+                "path": null
+            },
+            "title": "Coinbase Triggers Rallies for Two Altcoins After Suprise Listing Announcement",
+            "published_at": "2023-09-13T18:05:56Z",
+            "slug": "Coinbase-Triggers-Rallies-for-Two-Altcoins-After-Suprise-Listing-Announcement",
+            "currencies": [
+                {
+                    "code": "VET",
+                    "title": "VeChain",
+                    "slug": "vechain",
+                    "url": "https:\/\/cryptopanic.com\/news\/vechain\/"
+                }
+            ],
+            "id": 18901191,
+            "url": "https:\/\/cryptopanic.com\/news\/18901191\/Coinbase-Triggers-Rallies-for-Two-Altcoins-After-Suprise-Listing-Announcement",
+            "created_at": "2023-09-13T18:05:56Z"
+        },
+        {
+            "kind": "news",
+            "domain": "u.today",
+            "votes": {
+                "negative": 0,
+                "positive": 2,
+                "important": 1,
+                "liked": 2,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "U.Today",
+                "region": "en",
+                "domain": "u.today",
+                "path": null
+            },
+            "title": "VeChain (VET) Surges by 7% After Coinbase Listing",
+            "published_at": "2023-09-13T15:10:00Z",
+            "slug": "VeChain-VET-Surges-by-7-After-Coinbase-Listing",
+            "currencies": [
+                {
+                    "code": "VET",
+                    "title": "VeChain",
+                    "slug": "vechain",
+                    "url": "https:\/\/cryptopanic.com\/news\/vechain\/"
+                }
+            ],
+            "id": 18900786,
+            "url": "https:\/\/cryptopanic.com\/news\/18900786\/VeChain-VET-Surges-by-7-After-Coinbase-Listing",
+            "created_at": "2023-09-13T15:10:00Z"
+        },
+        {
+            "kind": "news",
+            "domain": "feeds2.benzinga.com",
+            "source": {
+                "title": "Benzinga",
+                "region": "en",
+                "domain": "feeds2.benzinga.com",
+                "path": null
+            },
+            "title": "Cryptocurrency VeChain Rises More Than 8% In 24 hours",
+            "published_at": "2023-09-13T15:00:51Z",
+            "slug": "Cryptocurrency-VeChain-Rises-More-Than-8-In-24-hours",
+            "currencies": [
+                {
+                    "code": "VET",
+                    "title": "VeChain",
+                    "slug": "vechain",
+                    "url": "https:\/\/cryptopanic.com\/news\/vechain\/"
+                }
+            ],
+            "id": 18900773,
+            "url": "https:\/\/cryptopanic.com\/news\/18900773\/Cryptocurrency-VeChain-Rises-More-Than-8-In-24-hours",
+            "created_at": "2023-09-13T15:00:51Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "VeChain (VET) Price Jumps After Coinbase Listing \u2013 How High Will It Go?",
+            "published_at": "2023-09-13T12:46:55Z",
+            "slug": "VeChain-VET-Price-Jumps-After-Coinbase-Listing-How-High-Will-It-Go",
+            "currencies": [
+                {
+                    "code": "VET",
+                    "title": "VeChain",
+                    "slug": "vechain",
+                    "url": "https:\/\/cryptopanic.com\/news\/vechain\/"
+                }
+            ],
+            "id": 18900395,
+            "url": "https:\/\/cryptopanic.com\/news\/18900395\/VeChain-VET-Price-Jumps-After-Coinbase-Listing-How-High-Will-It-Go",
+            "created_at": "2023-09-13T12:46:55Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "VeChain helps VET make a comeback; are the bulls here to stay?",
+            "published_at": "2023-09-13T07:30:25Z",
+            "slug": "VeChain-helps-VET-make-a-comeback-are-the-bulls-here-to-stay",
+            "currencies": [
+                {
+                    "code": "VET",
+                    "title": "VeChain",
+                    "slug": "vechain",
+                    "url": "https:\/\/cryptopanic.com\/news\/vechain\/"
+                }
+            ],
+            "id": 18899383,
+            "url": "https:\/\/cryptopanic.com\/news\/18899383\/VeChain-helps-VET-make-a-comeback-are-the-bulls-here-to-stay",
+            "created_at": "2023-09-13T07:30:25Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coingabbar.com",
+            "source": {
+                "title": "coingabbar",
+                "region": "en",
+                "domain": "coingabbar.com",
+                "path": null
+            },
+            "title": "24 Crypto Update, 12 Sep:Bitcoin and altcoins facing market resistance",
+            "published_at": "2023-09-13T01:30:00Z",
+            "slug": "24-Crypto-Update-12-SepBitcoin-and-altcoins-facing-market-resistance",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "USDT",
+                    "title": "Tether",
+                    "slug": "tether",
+                    "url": "https:\/\/cryptopanic.com\/news\/tether\/"
+                },
+                {
+                    "code": "DOGE",
+                    "title": "Dogecoin",
+                    "slug": "dogecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/dogecoin\/"
+                },
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "TRX",
+                    "title": "TRON",
+                    "slug": "tron",
+                    "url": "https:\/\/cryptopanic.com\/news\/tron\/"
+                },
+                {
+                    "code": "XLM",
+                    "title": "Stellar",
+                    "slug": "stellar",
+                    "url": "https:\/\/cryptopanic.com\/news\/stellar\/"
+                },
+                {
+                    "code": "VET",
+                    "title": "VeChain",
+                    "slug": "vechain",
+                    "url": "https:\/\/cryptopanic.com\/news\/vechain\/"
+                }
+            ],
+            "id": 18899276,
+            "url": "https:\/\/cryptopanic.com\/news\/18899276\/24-Crypto-Update-12-SepBitcoin-and-altcoins-facing-market-resistance",
+            "created_at": "2023-09-13T01:30:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinspeaker.com",
+            "source": {
+                "title": "Coinspeaker",
+                "region": "en",
+                "domain": "coinspeaker.com",
+                "path": null
+            },
+            "title": "SingularityNET Partners with Blockchain Firm VeChain to Fight Climate Change",
+            "published_at": "2023-08-25T09:35:54Z",
+            "slug": "SingularityNET-Partners-with-Blockchain-Firm-VeChain-to-Fight-Climate-Change",
+            "currencies": [
+                {
+                    "code": "MATIC",
+                    "title": "Polygon",
+                    "slug": "matic-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-network\/"
+                },
+                {
+                    "code": "VET",
+                    "title": "VeChain",
+                    "slug": "vechain",
+                    "url": "https:\/\/cryptopanic.com\/news\/vechain\/"
+                }
+            ],
+            "id": 18858878,
+            "url": "https:\/\/cryptopanic.com\/news\/18858878\/SingularityNET-Partners-with-Blockchain-Firm-VeChain-to-Fight-Climate-Change",
+            "created_at": "2023-08-25T09:35:54Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cointelegraph.com",
+            "source": {
+                "title": "CoinTelegraph",
+                "region": "en",
+                "domain": "cointelegraph.com",
+                "path": null
+            },
+            "title": "VeChain and SingularityNET team up on AI to fight climate change",
+            "published_at": "2023-08-25T02:02:07Z",
+            "slug": "VeChain-and-SingularityNET-team-up-on-AI-to-fight-climate-change",
+            "currencies": [
+                {
+                    "code": "VET",
+                    "title": "VeChain",
+                    "slug": "vechain",
+                    "url": "https:\/\/cryptopanic.com\/news\/vechain\/"
+                }
+            ],
+            "id": 18858217,
+            "url": "https:\/\/cryptopanic.com\/news\/18858217\/VeChain-and-SingularityNET-team-up-on-AI-to-fight-climate-change",
+            "created_at": "2023-08-25T02:02:07Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptodaily.co.uk",
+            "source": {
+                "title": "CryptoDaily",
+                "region": "en",
+                "domain": "cryptodaily.co.uk",
+                "path": null
+            },
+            "title": "ApeCoin and VeChain Whales Are Switching to Pomerdoge After 17x Spike Prediction",
+            "published_at": "2023-08-21T14:18:43Z",
+            "slug": "ApeCoin-and-VeChain-Whales-Are-Switching-to-Pomerdoge-After-17x-Spike-Prediction",
+            "currencies": [
+                {
+                    "code": "VET",
+                    "title": "VeChain",
+                    "slug": "vechain",
+                    "url": "https:\/\/cryptopanic.com\/news\/vechain\/"
+                },
+                {
+                    "code": "APE",
+                    "title": "ApeCoin",
+                    "slug": "apecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/apecoin\/"
+                }
+            ],
+            "id": 18850622,
+            "url": "https:\/\/cryptopanic.com\/news\/18850622\/ApeCoin-and-VeChain-Whales-Are-Switching-to-Pomerdoge-After-17x-Spike-Prediction",
+            "created_at": "2023-08-21T14:18:43Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "dailyhodl.com",
+            "votes": {
+                "negative": 1,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "The Daily Hodl",
+                "region": "en",
+                "domain": "dailyhodl.com",
+                "path": null
+            },
+            "title": "Analyst Issues Bitcoin Warning, Says Crypto Could Face \u2018Soul Crushing\u2019 Plunge \u2013 Here\u2019s Why",
+            "published_at": "2023-08-17T20:00:41Z",
+            "slug": "Analyst-Issues-Bitcoin-Warning-Says-Crypto-Could-Face-Soul-Crushing-Plunge-Heres-Why",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "VET",
+                    "title": "VeChain",
+                    "slug": "vechain",
+                    "url": "https:\/\/cryptopanic.com\/news\/vechain\/"
+                }
+            ],
+            "id": 18844149,
+            "url": "https:\/\/cryptopanic.com\/news\/18844149\/Analyst-Issues-Bitcoin-Warning-Says-Crypto-Could-Face-Soul-Crushing-Plunge-Heres-Why",
+            "created_at": "2023-08-17T20:00:41Z"
+        },
+        {
+            "kind": "news",
+            "domain": "feeds2.benzinga.com",
+            "source": {
+                "title": "Benzinga",
+                "region": "en",
+                "domain": "feeds2.benzinga.com",
+                "path": null
+            },
+            "title": "Price Analysis: What's Next For Polygon (MATIC), VeChain, And Tradecurve",
+            "published_at": "2023-08-04T13:37:05Z",
+            "slug": "Price-Analysis-Whats-Next-For-Polygon-MATIC-VeChain-And-Tradecurve",
+            "currencies": [
+                {
+                    "code": "MATIC",
+                    "title": "Polygon",
+                    "slug": "matic-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-network\/"
+                },
+                {
+                    "code": "VET",
+                    "title": "VeChain",
+                    "slug": "vechain",
+                    "url": "https:\/\/cryptopanic.com\/news\/vechain\/"
+                }
+            ],
+            "id": 18817743,
+            "url": "https:\/\/cryptopanic.com\/news\/18817743\/Price-Analysis-Whats-Next-For-Polygon-MATIC-VeChain-And-Tradecurve",
+            "created_at": "2023-08-04T13:37:05Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinedition.com",
+            "source": {
+                "title": "coinedition",
+                "region": "en",
+                "domain": "coinedition.com",
+                "path": null
+            },
+            "title": "XRP, STX, VET Shows Signs of Explosive Growth; Analyst",
+            "published_at": "2023-07-31T12:35:10Z",
+            "slug": "XRP-STX-VET-Shows-Signs-of-Explosive-Growth-Analyst",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "VET",
+                    "title": "VeChain",
+                    "slug": "vechain",
+                    "url": "https:\/\/cryptopanic.com\/news\/vechain\/"
+                },
+                {
+                    "code": "STX",
+                    "title": "Stacks",
+                    "slug": "blockstack",
+                    "url": "https:\/\/cryptopanic.com\/news\/blockstack\/"
+                }
+            ],
+            "id": 18807538,
+            "url": "https:\/\/cryptopanic.com\/news\/18807538\/XRP-STX-VET-Shows-Signs-of-Explosive-Growth-Analyst",
+            "created_at": "2023-07-31T12:35:10Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ethereumworldnews.com",
+            "source": {
+                "title": "Ethereum World News",
+                "region": "en",
+                "domain": "ethereumworldnews.com",
+                "path": null
+            },
+            "title": "Open Exchange\u2019s OX Token Up 10% Following Metaverse Venture With UFC Star",
+            "published_at": "2023-07-26T00:28:01Z",
+            "slug": "Open-Exchanges-OX-Token-Up-10-Following-Metaverse-Venture-With-UFC-Star",
+            "currencies": [
+                {
+                    "code": "VET",
+                    "title": "VeChain",
+                    "slug": "vechain",
+                    "url": "https:\/\/cryptopanic.com\/news\/vechain\/"
+                }
+            ],
+            "id": 18796416,
+            "url": "https:\/\/cryptopanic.com\/news\/18796416\/Open-Exchanges-OX-Token-Up-10-Following-Metaverse-Venture-With-UFC-Star",
+            "created_at": "2023-07-26T00:28:01Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

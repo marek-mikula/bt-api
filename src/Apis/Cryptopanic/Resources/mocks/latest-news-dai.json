@@ -1,0 +1,1061 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=DAI&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Crypto Watchlist For October: Altcoins To Keep On Your Radar",
+            "published_at": "2023-10-03T12:00:36Z",
+            "slug": "Crypto-Watchlist-For-October-Altcoins-To-Keep-On-Your-Radar",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "DAI",
+                    "title": "Dai",
+                    "slug": "dai",
+                    "url": "https:\/\/cryptopanic.com\/news\/dai\/"
+                },
+                {
+                    "code": "MKR",
+                    "title": "Maker",
+                    "slug": "maker",
+                    "url": "https:\/\/cryptopanic.com\/news\/maker\/"
+                },
+                {
+                    "code": "ARB",
+                    "title": "Arbitrum",
+                    "slug": "arbitrum",
+                    "url": "https:\/\/cryptopanic.com\/news\/arbitrum\/"
+                }
+            ],
+            "id": 18944397,
+            "url": "https:\/\/cryptopanic.com\/news\/18944397\/Crypto-Watchlist-For-October-Altcoins-To-Keep-On-Your-Radar",
+            "created_at": "2023-10-03T12:00:36Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "votes": {
+                "negative": 1,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "Maker (MKR) Network Activity Reclaims 2021 Bull Market Peak \u2013 More Price Gains Ahead?",
+            "published_at": "2023-10-03T11:15:00Z",
+            "slug": "Maker-MKR-Network-Activity-Reclaims-2021-Bull-Market-Peak-More-Price-Gains-Ahead",
+            "currencies": [
+                {
+                    "code": "DAI",
+                    "title": "Dai",
+                    "slug": "dai",
+                    "url": "https:\/\/cryptopanic.com\/news\/dai\/"
+                },
+                {
+                    "code": "MKR",
+                    "title": "Maker",
+                    "slug": "maker",
+                    "url": "https:\/\/cryptopanic.com\/news\/maker\/"
+                }
+            ],
+            "id": 18944436,
+            "url": "https:\/\/cryptopanic.com\/news\/18944436\/Maker-MKR-Network-Activity-Reclaims-2021-Bull-Market-Peak-More-Price-Gains-Ahead",
+            "created_at": "2023-10-03T11:15:00Z"
+        },
+        {
+            "kind": "news",
+            "domain": "bitcoinist.com",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 1,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 2
+            },
+            "source": {
+                "title": "Bitcoinist",
+                "region": "en",
+                "domain": "bitcoinist.com",
+                "path": null
+            },
+            "title": "Cryptic Correspondence: Satoshi Nakamoto\u2019s Secret Email Emerges From The Shadows",
+            "published_at": "2023-10-02T12:00:34Z",
+            "slug": "Cryptic-Correspondence-Satoshi-Nakamotos-Secret-Email-Emerges-From-The-Shadows",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "DAI",
+                    "title": "Dai",
+                    "slug": "dai",
+                    "url": "https:\/\/cryptopanic.com\/news\/dai\/"
+                }
+            ],
+            "id": 18941815,
+            "url": "https:\/\/cryptopanic.com\/news\/18941815\/Cryptic-Correspondence-Satoshi-Nakamotos-Secret-Email-Emerges-From-The-Shadows",
+            "created_at": "2023-10-02T12:00:34Z"
+        },
+        {
+            "kind": "news",
+            "domain": "dailyhodl.com",
+            "source": {
+                "title": "The Daily Hodl",
+                "region": "en",
+                "domain": "dailyhodl.com",
+                "path": null
+            },
+            "title": "FTX Hacker Holding $300,000,000 in Crypto Suddenly Moves Millions Worth of Assets: On-Chain Data",
+            "published_at": "2023-10-01T20:00:28Z",
+            "slug": "FTX-Hacker-Holding-300000000-in-Crypto-Suddenly-Moves-Millions-Worth-of-Assets-On-Chain-Data",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "USDT",
+                    "title": "Tether",
+                    "slug": "tether",
+                    "url": "https:\/\/cryptopanic.com\/news\/tether\/"
+                },
+                {
+                    "code": "BNB",
+                    "title": "BNB",
+                    "slug": "binancecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/binancecoin\/"
+                },
+                {
+                    "code": "USDC",
+                    "title": "USDC",
+                    "slug": "usd-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/usd-coin\/"
+                },
+                {
+                    "code": "DAI",
+                    "title": "Dai",
+                    "slug": "dai",
+                    "url": "https:\/\/cryptopanic.com\/news\/dai\/"
+                },
+                {
+                    "code": "FTT",
+                    "title": "FTX",
+                    "slug": "ftx-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/ftx-token\/"
+                }
+            ],
+            "id": 18940704,
+            "url": "https:\/\/cryptopanic.com\/news\/18940704\/FTX-Hacker-Holding-300000000-in-Crypto-Suddenly-Moves-Millions-Worth-of-Assets-On-Chain-Data",
+            "created_at": "2023-10-01T20:00:28Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "After Strong September Growth, Are Maker and Inqubeta Top Alternatives to Xrp and Cardano?",
+            "published_at": "2023-10-01T09:00:00Z",
+            "slug": "After-Strong-September-Growth-Are-Maker-and-Inqubeta-Top-Alternatives-to-Xrp-and-Cardano",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                },
+                {
+                    "code": "ADA",
+                    "title": "Cardano",
+                    "slug": "cardano",
+                    "url": "https:\/\/cryptopanic.com\/news\/cardano\/"
+                },
+                {
+                    "code": "DAI",
+                    "title": "Dai",
+                    "slug": "dai",
+                    "url": "https:\/\/cryptopanic.com\/news\/dai\/"
+                },
+                {
+                    "code": "MKR",
+                    "title": "Maker",
+                    "slug": "maker",
+                    "url": "https:\/\/cryptopanic.com\/news\/maker\/"
+                }
+            ],
+            "id": 18940050,
+            "url": "https:\/\/cryptopanic.com\/news\/18940050\/After-Strong-September-Growth-Are-Maker-and-Inqubeta-Top-Alternatives-to-Xrp-and-Cardano",
+            "created_at": "2023-10-01T09:00:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "thedefiant.io",
+            "source": {
+                "title": "DeFi News",
+                "region": "en",
+                "domain": "thedefiant.io",
+                "path": null
+            },
+            "title": "Savings DAI Surpasses $1B TVL, But DAI Remains In Decline",
+            "published_at": "2023-09-30T03:48:41Z",
+            "slug": "Savings-DAI-Surpasses-1B-TVL-But-DAI-Remains-In-Decline",
+            "currencies": [
+                {
+                    "code": "DAI",
+                    "title": "Dai",
+                    "slug": "dai",
+                    "url": "https:\/\/cryptopanic.com\/news\/dai\/"
+                }
+            ],
+            "id": 18938618,
+            "url": "https:\/\/cryptopanic.com\/news\/18938618\/Savings-DAI-Surpasses-1B-TVL-But-DAI-Remains-In-Decline",
+            "created_at": "2023-09-30T03:48:41Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "MakerDAO Secures $6 Billion For Treasury Bill Investments As MKR Dominates 2023",
+            "published_at": "2023-09-29T15:00:54Z",
+            "slug": "MakerDAO-Secures-6-Billion-For-Treasury-Bill-Investments-As-MKR-Dominates-2023",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                },
+                {
+                    "code": "DAI",
+                    "title": "Dai",
+                    "slug": "dai",
+                    "url": "https:\/\/cryptopanic.com\/news\/dai\/"
+                },
+                {
+                    "code": "MKR",
+                    "title": "Maker",
+                    "slug": "maker",
+                    "url": "https:\/\/cryptopanic.com\/news\/maker\/"
+                }
+            ],
+            "id": 18937650,
+            "url": "https:\/\/cryptopanic.com\/news\/18937650\/MakerDAO-Secures-6-Billion-For-Treasury-Bill-Investments-As-MKR-Dominates-2023",
+            "created_at": "2023-09-29T15:00:54Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Maker (MKR) Price Continues to Climb Higher Level, Will It Surpass $1500?",
+            "published_at": "2023-09-26T11:58:58Z",
+            "slug": "Maker-MKR-Price-Continues-to-Climb-Higher-Level-Will-It-Surpass-1500",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "BCH",
+                    "title": "Bitcoin Cash",
+                    "slug": "bitcoin-cash",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin-cash\/"
+                },
+                {
+                    "code": "LINK",
+                    "title": "Chainlink",
+                    "slug": "chainlink",
+                    "url": "https:\/\/cryptopanic.com\/news\/chainlink\/"
+                },
+                {
+                    "code": "DAI",
+                    "title": "Dai",
+                    "slug": "dai",
+                    "url": "https:\/\/cryptopanic.com\/news\/dai\/"
+                },
+                {
+                    "code": "MKR",
+                    "title": "Maker",
+                    "slug": "maker",
+                    "url": "https:\/\/cryptopanic.com\/news\/maker\/"
+                }
+            ],
+            "id": 18928940,
+            "url": "https:\/\/cryptopanic.com\/news\/18928940\/Maker-MKR-Price-Continues-to-Climb-Higher-Level-Will-It-Surpass-1500",
+            "created_at": "2023-09-26T11:58:58Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "Aave back in top two as DeFi TVL recovers",
+            "published_at": "2023-09-25T22:30:05Z",
+            "slug": "Aave-back-in-top-two-as-DeFi-TVL-recovers",
+            "currencies": [
+                {
+                    "code": "DAI",
+                    "title": "Dai",
+                    "slug": "dai",
+                    "url": "https:\/\/cryptopanic.com\/news\/dai\/"
+                },
+                {
+                    "code": "AAVE",
+                    "title": "Aave",
+                    "slug": "aave",
+                    "url": "https:\/\/cryptopanic.com\/news\/aave\/"
+                },
+                {
+                    "code": "LEND",
+                    "title": "Aave [OLD]",
+                    "slug": "ethlend",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethlend\/"
+                }
+            ],
+            "id": 18927717,
+            "url": "https:\/\/cryptopanic.com\/news\/18927717\/Aave-back-in-top-two-as-DeFi-TVL-recovers",
+            "created_at": "2023-09-25T22:30:05Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "blockworks.co",
+            "source": {
+                "title": "Blockworks",
+                "region": "en",
+                "domain": "blockworks.co",
+                "path": null
+            },
+            "title": "Maker subDAO branches out beyond Ethereum",
+            "published_at": "2023-09-21T15:58:17Z",
+            "slug": "Maker-subDAO-branches-out-beyond-Ethereum",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "DAI",
+                    "title": "Dai",
+                    "slug": "dai",
+                    "url": "https:\/\/cryptopanic.com\/news\/dai\/"
+                },
+                {
+                    "code": "MKR",
+                    "title": "Maker",
+                    "slug": "maker",
+                    "url": "https:\/\/cryptopanic.com\/news\/maker\/"
+                }
+            ],
+            "id": 18919687,
+            "url": "https:\/\/cryptopanic.com\/news\/18919687\/Maker-subDAO-branches-out-beyond-Ethereum",
+            "created_at": "2023-09-21T15:58:17Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Whales, Fresh Wallets Accumulating, Maker (MKR) Spikes 120% In 3 Months",
+            "published_at": "2023-09-21T01:00:57Z",
+            "slug": "Whales-Fresh-Wallets-Accumulating-Maker-MKR-Spikes-120-In-3-Months",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "USDC",
+                    "title": "USD Coin",
+                    "slug": "usd-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/usd-coin\/"
+                },
+                {
+                    "code": "DAI",
+                    "title": "Dai",
+                    "slug": "dai",
+                    "url": "https:\/\/cryptopanic.com\/news\/dai\/"
+                },
+                {
+                    "code": "MKR",
+                    "title": "Maker",
+                    "slug": "maker",
+                    "url": "https:\/\/cryptopanic.com\/news\/maker\/"
+                }
+            ],
+            "id": 18917771,
+            "url": "https:\/\/cryptopanic.com\/news\/18917771\/Whales-Fresh-Wallets-Accumulating-Maker-MKR-Spikes-120-In-3-Months",
+            "created_at": "2023-09-21T01:00:57Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cointelegraph.com",
+            "source": {
+                "title": "CoinTelegraph",
+                "region": "en",
+                "domain": "cointelegraph.com",
+                "path": null
+            },
+            "title": "Decentralized stablecoins could dominate crypto: MakerDAO founder",
+            "published_at": "2023-09-15T04:20:27Z",
+            "slug": "Decentralized-stablecoins-could-dominate-crypto-MakerDAO-founder",
+            "currencies": [
+                {
+                    "code": "DAI",
+                    "title": "Dai",
+                    "slug": "dai",
+                    "url": "https:\/\/cryptopanic.com\/news\/dai\/"
+                }
+            ],
+            "id": 18904702,
+            "url": "https:\/\/cryptopanic.com\/news\/18904702\/Decentralized-stablecoins-could-dominate-crypto-MakerDAO-founder",
+            "created_at": "2023-09-15T04:20:27Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "dailyhodl.com",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "The Daily Hodl",
+                "region": "en",
+                "domain": "dailyhodl.com",
+                "path": null
+            },
+            "title": "Phisher Who Stole $24,200,000 Worth of Crypto From Whale Moves Funds to Tornado Cash: PeckShield",
+            "published_at": "2023-09-13T11:45:58Z",
+            "slug": "Phisher-Who-Stole-24200000-Worth-of-Crypto-From-Whale-Moves-Funds-to-Tornado-Cash-PeckShield",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "STETH",
+                    "title": "Lido Staked Ether",
+                    "slug": "staked-ether",
+                    "url": "https:\/\/cryptopanic.com\/news\/staked-ether\/"
+                },
+                {
+                    "code": "DAI",
+                    "title": "Dai",
+                    "slug": "dai",
+                    "url": "https:\/\/cryptopanic.com\/news\/dai\/"
+                },
+                {
+                    "code": "RETH",
+                    "title": "Rocket Pool ETH",
+                    "slug": "rocket-pool-eth",
+                    "url": "https:\/\/cryptopanic.com\/news\/rocket-pool-eth\/"
+                },
+                {
+                    "code": "RPL",
+                    "title": "Rocket Pool",
+                    "slug": "rocket-pool",
+                    "url": "https:\/\/cryptopanic.com\/news\/rocket-pool\/"
+                }
+            ],
+            "id": 18900061,
+            "url": "https:\/\/cryptopanic.com\/news\/18900061\/Phisher-Who-Stole-24200000-Worth-of-Crypto-From-Whale-Moves-Funds-to-Tornado-Cash-PeckShield",
+            "created_at": "2023-09-13T11:45:58Z"
+        },
+        {
+            "kind": "news",
+            "domain": "coinspeaker.com",
+            "source": {
+                "title": "Coinspeaker",
+                "region": "en",
+                "domain": "coinspeaker.com",
+                "path": null
+            },
+            "title": "Crypto Exchange CoinEx Drained of $27M in Latest Fraud",
+            "published_at": "2023-09-13T07:43:15Z",
+            "slug": "Crypto-Exchange-CoinEx-Drained-of-27M-in-Latest-Fraud",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "DAI",
+                    "title": "Dai",
+                    "slug": "dai",
+                    "url": "https:\/\/cryptopanic.com\/news\/dai\/"
+                },
+                {
+                    "code": "UNI",
+                    "title": "Uniswap",
+                    "slug": "uniswap",
+                    "url": "https:\/\/cryptopanic.com\/news\/uniswap\/"
+                }
+            ],
+            "id": 18899402,
+            "url": "https:\/\/cryptopanic.com\/news\/18899402\/Crypto-Exchange-CoinEx-Drained-of-27M-in-Latest-Fraud",
+            "created_at": "2023-09-13T07:43:15Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptopotato.com",
+            "source": {
+                "title": "Feed - Cryptopotato.Com",
+                "region": "en",
+                "domain": "cryptopotato.com",
+                "path": null
+            },
+            "title": "These 2 Stablecoins Are More Susceptible to Depegging, Say Analysts",
+            "published_at": "2023-09-13T04:25:28Z",
+            "slug": "These-2-Stablecoins-Are-More-Susceptible-to-Depegging-Say-Analysts",
+            "currencies": [
+                {
+                    "code": "USDC",
+                    "title": "USD Coin",
+                    "slug": "usd-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/usd-coin\/"
+                },
+                {
+                    "code": "DAI",
+                    "title": "Dai",
+                    "slug": "dai",
+                    "url": "https:\/\/cryptopanic.com\/news\/dai\/"
+                }
+            ],
+            "id": 18899116,
+            "url": "https:\/\/cryptopanic.com\/news\/18899116\/These-2-Stablecoins-Are-More-Susceptible-to-Depegging-Say-Analysts",
+            "created_at": "2023-09-13T04:25:28Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Report Reveals The Stablecoins That Have Suffered The Most De-Peg Events",
+            "published_at": "2023-09-12T11:30:46Z",
+            "slug": "Report-Reveals-The-Stablecoins-That-Have-Suffered-The-Most-De-Peg-Events",
+            "currencies": [
+                {
+                    "code": "USDT",
+                    "title": "Tether",
+                    "slug": "tether",
+                    "url": "https:\/\/cryptopanic.com\/news\/tether\/"
+                },
+                {
+                    "code": "USDC",
+                    "title": "USD Coin",
+                    "slug": "usd-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/usd-coin\/"
+                },
+                {
+                    "code": "DAI",
+                    "title": "Dai",
+                    "slug": "dai",
+                    "url": "https:\/\/cryptopanic.com\/news\/dai\/"
+                },
+                {
+                    "code": "BUSD",
+                    "title": "Binance USD",
+                    "slug": "binance-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/binance-usd\/"
+                },
+                {
+                    "code": "HT",
+                    "title": "Huobi",
+                    "slug": "huobi-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/huobi-token\/"
+                }
+            ],
+            "id": 18897095,
+            "url": "https:\/\/cryptopanic.com\/news\/18897095\/Report-Reveals-The-Stablecoins-That-Have-Suffered-The-Most-De-Peg-Events",
+            "created_at": "2023-09-12T11:30:46Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cointelegraph.com",
+            "source": {
+                "title": "CoinTelegraph",
+                "region": "en",
+                "domain": "cointelegraph.com",
+                "path": null
+            },
+            "title": "Stablecoin de-pegging plagued USDC and DAI more than others: Analysts",
+            "published_at": "2023-09-12T04:25:44Z",
+            "slug": "Stablecoin-de-pegging-plagued-USDC-and-DAI-more-than-others-Analysts",
+            "currencies": [
+                {
+                    "code": "USDT",
+                    "title": "Tether",
+                    "slug": "tether",
+                    "url": "https:\/\/cryptopanic.com\/news\/tether\/"
+                },
+                {
+                    "code": "USDC",
+                    "title": "USD Coin",
+                    "slug": "usd-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/usd-coin\/"
+                },
+                {
+                    "code": "DAI",
+                    "title": "Dai",
+                    "slug": "dai",
+                    "url": "https:\/\/cryptopanic.com\/news\/dai\/"
+                }
+            ],
+            "id": 18895924,
+            "url": "https:\/\/cryptopanic.com\/news\/18895924\/Stablecoin-de-pegging-plagued-USDC-and-DAI-more-than-others-Analysts",
+            "created_at": "2023-09-12T04:25:44Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "bitcoin.com",
+            "source": {
+                "title": "Bitcoin.com",
+                "region": "en",
+                "domain": "bitcoin.com",
+                "path": null
+            },
+            "title": "What Are Stablecoins? A Simple Explanation of the Digital Asset Bridging Crypto and Fiat",
+            "published_at": "2023-09-10T04:00:03Z",
+            "slug": "What-Are-Stablecoins-A-Simple-Explanation-of-the-Digital-Asset-Bridging-Crypto-and-Fiat",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "USDT",
+                    "title": "Tether",
+                    "slug": "tether",
+                    "url": "https:\/\/cryptopanic.com\/news\/tether\/"
+                },
+                {
+                    "code": "USDC",
+                    "title": "USD Coin",
+                    "slug": "usd-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/usd-coin\/"
+                },
+                {
+                    "code": "DAI",
+                    "title": "Dai",
+                    "slug": "dai",
+                    "url": "https:\/\/cryptopanic.com\/news\/dai\/"
+                },
+                {
+                    "code": "TUSD",
+                    "title": "TrueUSD",
+                    "slug": "true-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/true-usd\/"
+                },
+                {
+                    "code": "BUSD",
+                    "title": "Binance USD",
+                    "slug": "binance-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/binance-usd\/"
+                },
+                {
+                    "code": "BTS",
+                    "title": "BitShares",
+                    "slug": "bitshares",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitshares\/"
+                }
+            ],
+            "id": 18892135,
+            "url": "https:\/\/cryptopanic.com\/news\/18892135\/What-Are-Stablecoins-A-Simple-Explanation-of-the-Digital-Asset-Bridging-Crypto-and-Fiat",
+            "created_at": "2023-09-10T04:00:03Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 1,
+                "comments": 0
+            },
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "MakerDAO Explores Tokenized T-Bills With $100 Million Allocation Plan",
+            "published_at": "2023-09-08T23:00:37Z",
+            "slug": "MakerDAO-Explores-Tokenized-T-Bills-With-100-Million-Allocation-Plan",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "LTC",
+                    "title": "Litecoin",
+                    "slug": "litecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/litecoin\/"
+                },
+                {
+                    "code": "DAI",
+                    "title": "Dai",
+                    "slug": "dai",
+                    "url": "https:\/\/cryptopanic.com\/news\/dai\/"
+                }
+            ],
+            "id": 18890320,
+            "url": "https:\/\/cryptopanic.com\/news\/18890320\/MakerDAO-Explores-Tokenized-T-Bills-With-100-Million-Allocation-Plan",
+            "created_at": "2023-09-08T23:00:37Z"
+        },
+        {
+            "kind": "news",
+            "domain": "cryptoslate.com",
+            "source": {
+                "title": "CryptoSlate",
+                "region": "en",
+                "domain": "cryptoslate.com",
+                "path": null
+            },
+            "title": "A closer look at the changes in stablecoin supply as TUSD gains on market",
+            "published_at": "2023-09-08T14:30:18Z",
+            "slug": "A-closer-look-at-the-changes-in-stablecoin-supply-as-TUSD-gains-on-market",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "USDT",
+                    "title": "Tether",
+                    "slug": "tether",
+                    "url": "https:\/\/cryptopanic.com\/news\/tether\/"
+                },
+                {
+                    "code": "USDC",
+                    "title": "USD Coin",
+                    "slug": "usd-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/usd-coin\/"
+                },
+                {
+                    "code": "DAI",
+                    "title": "Dai",
+                    "slug": "dai",
+                    "url": "https:\/\/cryptopanic.com\/news\/dai\/"
+                },
+                {
+                    "code": "TUSD",
+                    "title": "TrueUSD",
+                    "slug": "true-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/true-usd\/"
+                },
+                {
+                    "code": "BUSD",
+                    "title": "Binance USD",
+                    "slug": "binance-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/binance-usd\/"
+                }
+            ],
+            "id": 18889387,
+            "url": "https:\/\/cryptopanic.com\/news\/18889387\/A-closer-look-at-the-changes-in-stablecoin-supply-as-TUSD-gains-on-market",
+            "created_at": "2023-09-08T14:30:18Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

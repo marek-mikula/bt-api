@@ -1,0 +1,923 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=APT&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "coingabbar.com",
+            "source": {
+                "title": "coingabbar",
+                "region": "en",
+                "domain": "coingabbar.com",
+                "path": null
+            },
+            "title": "Crypto Daily Roundup, 03 Oct: Could October's Bull Run Boost Crypto?",
+            "published_at": "2023-10-03T08:30:00Z",
+            "slug": "Crypto-Daily-Roundup-03-Oct-Could-Octobers-Bull-Run-Boost-Crypto",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "AVAX",
+                    "title": "Avalanche",
+                    "slug": "avalanche-2",
+                    "url": "https:\/\/cryptopanic.com\/news\/avalanche-2\/"
+                },
+                {
+                    "code": "ATOM",
+                    "title": "Cosmos Hub",
+                    "slug": "cosmos",
+                    "url": "https:\/\/cryptopanic.com\/news\/cosmos\/"
+                },
+                {
+                    "code": "APT",
+                    "title": "Aptos",
+                    "slug": "aptos",
+                    "url": "https:\/\/cryptopanic.com\/news\/aptos\/"
+                },
+                {
+                    "code": "OP",
+                    "title": "Optimism",
+                    "slug": "optimism",
+                    "url": "https:\/\/cryptopanic.com\/news\/optimism\/"
+                },
+                {
+                    "code": "IMX",
+                    "title": "ImmutableX",
+                    "slug": "immutable-x",
+                    "url": "https:\/\/cryptopanic.com\/news\/immutable-x\/"
+                },
+                {
+                    "code": "AXS",
+                    "title": "Axie Infinity",
+                    "slug": "axie-infinity",
+                    "url": "https:\/\/cryptopanic.com\/news\/axie-infinity\/"
+                },
+                {
+                    "code": "APE",
+                    "title": "ApeCoin",
+                    "slug": "apecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/apecoin\/"
+                },
+                {
+                    "code": "SUI",
+                    "title": "Sui",
+                    "slug": "sui",
+                    "url": "https:\/\/cryptopanic.com\/news\/sui\/"
+                }
+            ],
+            "id": 18943929,
+            "url": "https:\/\/cryptopanic.com\/news\/18943929\/Crypto-Daily-Roundup-03-Oct-Could-Octobers-Bull-Run-Boost-Crypto",
+            "created_at": "2023-10-03T08:30:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptoglobe.com",
+            "source": {
+                "title": "CryptoGlobe",
+                "region": "en",
+                "domain": "cryptoglobe.com",
+                "path": null
+            },
+            "title": "Aptos Labs CEO on Three Catalysts That Could Bring a Billion New Users to Crypto",
+            "published_at": "2023-10-03T06:21:49Z",
+            "slug": "Aptos-Labs-CEO-on-Three-Catalysts-That-Could-Bring-a-Billion-New-Users-to-Crypto",
+            "currencies": [
+                {
+                    "code": "APT",
+                    "title": "Aptos",
+                    "slug": "aptos",
+                    "url": "https:\/\/cryptopanic.com\/news\/aptos\/"
+                }
+            ],
+            "id": 18943654,
+            "url": "https:\/\/cryptopanic.com\/news\/18943654\/Aptos-Labs-CEO-on-Three-Catalysts-That-Could-Bring-a-Billion-New-Users-to-Crypto",
+            "created_at": "2023-10-03T06:21:49Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Brace For Impact As $200 Million In Crypto Is Being Unlocked In October",
+            "published_at": "2023-10-02T23:00:02Z",
+            "slug": "Brace-For-Impact-As-200-Million-In-Crypto-Is-Being-Unlocked-In-October",
+            "currencies": [
+                {
+                    "code": "LINK",
+                    "title": "Chainlink",
+                    "slug": "chainlink",
+                    "url": "https:\/\/cryptopanic.com\/news\/chainlink\/"
+                },
+                {
+                    "code": "APT",
+                    "title": "Aptos",
+                    "slug": "aptos",
+                    "url": "https:\/\/cryptopanic.com\/news\/aptos\/"
+                },
+                {
+                    "code": "OP",
+                    "title": "Optimism",
+                    "slug": "optimism",
+                    "url": "https:\/\/cryptopanic.com\/news\/optimism\/"
+                },
+                {
+                    "code": "AXS",
+                    "title": "Axie Infinity",
+                    "slug": "axie-infinity",
+                    "url": "https:\/\/cryptopanic.com\/news\/axie-infinity\/"
+                },
+                {
+                    "code": "FLOW",
+                    "title": "Flow",
+                    "slug": "flow",
+                    "url": "https:\/\/cryptopanic.com\/news\/flow\/"
+                },
+                {
+                    "code": "SUI",
+                    "title": "Sui",
+                    "slug": "sui",
+                    "url": "https:\/\/cryptopanic.com\/news\/sui\/"
+                }
+            ],
+            "id": 18943274,
+            "url": "https:\/\/cryptopanic.com\/news\/18943274\/Brace-For-Impact-As-200-Million-In-Crypto-Is-Being-Unlocked-In-October",
+            "created_at": "2023-10-02T23:00:02Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "dailyhodl.com",
+            "source": {
+                "title": "The Daily Hodl",
+                "region": "en",
+                "domain": "dailyhodl.com",
+                "path": null
+            },
+            "title": "Aptos (APT) Founder Names Three Things That Could Attract a Billion New Crypto Users",
+            "published_at": "2023-10-02T19:55:27Z",
+            "slug": "Aptos-APT-Founder-Names-Three-Things-That-Could-Attract-a-Billion-New-Crypto-Users",
+            "currencies": [
+                {
+                    "code": "APT",
+                    "title": "Aptos",
+                    "slug": "aptos",
+                    "url": "https:\/\/cryptopanic.com\/news\/aptos\/"
+                }
+            ],
+            "id": 18943029,
+            "url": "https:\/\/cryptopanic.com\/news\/18943029\/Aptos-APT-Founder-Names-Three-Things-That-Could-Attract-a-Billion-New-Crypto-Users",
+            "created_at": "2023-10-02T19:55:27Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptopotato.com",
+            "source": {
+                "title": "Feed - Cryptopotato.Com",
+                "region": "en",
+                "domain": "cryptopotato.com",
+                "path": null
+            },
+            "title": "Here\u2019s How Much APT, OP, AXS, APE, and Sui Will be Unlocked in October",
+            "published_at": "2023-10-02T15:05:30Z",
+            "slug": "Heres-How-Much-APT-OP-AXS-APE-and-Sui-Will-be-Unlocked-in-October",
+            "currencies": [
+                {
+                    "code": "APT",
+                    "title": "Aptos",
+                    "slug": "aptos",
+                    "url": "https:\/\/cryptopanic.com\/news\/aptos\/"
+                },
+                {
+                    "code": "AXS",
+                    "title": "Axie Infinity",
+                    "slug": "axie-infinity",
+                    "url": "https:\/\/cryptopanic.com\/news\/axie-infinity\/"
+                },
+                {
+                    "code": "SUI",
+                    "title": "Sui",
+                    "slug": "sui",
+                    "url": "https:\/\/cryptopanic.com\/news\/sui\/"
+                }
+            ],
+            "id": 18942388,
+            "url": "https:\/\/cryptopanic.com\/news\/18942388\/Heres-How-Much-APT-OP-AXS-APE-and-Sui-Will-be-Unlocked-in-October",
+            "created_at": "2023-10-02T15:05:30Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "theblock.co",
+            "source": {
+                "title": "The Block",
+                "region": "en",
+                "domain": "theblock.co",
+                "path": null
+            },
+            "title": "Axie Infinity, Optimism and Aptos among over $200 million in October token unlocks",
+            "published_at": "2023-10-02T10:26:29Z",
+            "slug": "Axie-Infinity-Optimism-and-Aptos-among-over-200-million-in-October-token-unlocks",
+            "currencies": [
+                {
+                    "code": "APT",
+                    "title": "Aptos",
+                    "slug": "aptos",
+                    "url": "https:\/\/cryptopanic.com\/news\/aptos\/"
+                },
+                {
+                    "code": "OP",
+                    "title": "Optimism",
+                    "slug": "optimism",
+                    "url": "https:\/\/cryptopanic.com\/news\/optimism\/"
+                }
+            ],
+            "id": 18941566,
+            "url": "https:\/\/cryptopanic.com\/news\/18941566\/Axie-Infinity-Optimism-and-Aptos-among-over-200-million-in-October-token-unlocks",
+            "created_at": "2023-10-02T10:26:29Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "Axie Infinity (AXS) and Optimism (OP) Drive $200M October Token Release",
+            "published_at": "2023-10-01T14:34:02Z",
+            "slug": "Axie-Infinity-AXS-and-Optimism-OP-Drive-200M-October-Token-Release",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "APT",
+                    "title": "Aptos",
+                    "slug": "aptos",
+                    "url": "https:\/\/cryptopanic.com\/news\/aptos\/"
+                },
+                {
+                    "code": "OP",
+                    "title": "Optimism",
+                    "slug": "optimism",
+                    "url": "https:\/\/cryptopanic.com\/news\/optimism\/"
+                },
+                {
+                    "code": "IMX",
+                    "title": "ImmutableX",
+                    "slug": "immutable-x",
+                    "url": "https:\/\/cryptopanic.com\/news\/immutable-x\/"
+                },
+                {
+                    "code": "AXS",
+                    "title": "Axie Infinity",
+                    "slug": "axie-infinity",
+                    "url": "https:\/\/cryptopanic.com\/news\/axie-infinity\/"
+                },
+                {
+                    "code": "APE",
+                    "title": "ApeCoin",
+                    "slug": "apecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/apecoin\/"
+                }
+            ],
+            "id": 18940381,
+            "url": "https:\/\/cryptopanic.com\/news\/18940381\/Axie-Infinity-AXS-and-Optimism-OP-Drive-200M-October-Token-Release",
+            "created_at": "2023-10-01T14:34:02Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "u.today",
+            "source": {
+                "title": "U.Today",
+                "region": "en",
+                "domain": "u.today",
+                "path": null
+            },
+            "title": "Enormous $174 Million Worth of Tokens to Get Unlocked in October: SUI, IMX, APT",
+            "published_at": "2023-10-01T11:23:00Z",
+            "slug": "Enormous-174-Million-Worth-of-Tokens-to-Get-Unlocked-in-October-SUI-IMX-APT",
+            "currencies": [
+                {
+                    "code": "APT",
+                    "title": "Aptos",
+                    "slug": "aptos",
+                    "url": "https:\/\/cryptopanic.com\/news\/aptos\/"
+                }
+            ],
+            "id": 18940118,
+            "url": "https:\/\/cryptopanic.com\/news\/18940118\/Enormous-174-Million-Worth-of-Tokens-to-Get-Unlocked-in-October-SUI-IMX-APT",
+            "created_at": "2023-10-01T11:23:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinedition.com",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "coinedition",
+                "region": "en",
+                "domain": "coinedition.com",
+                "path": null
+            },
+            "title": "OP, AXS and APT Are the Biggest Unlock Events for This October",
+            "published_at": "2023-10-01T09:58:00Z",
+            "slug": "OP-AXS-and-APT-Are-the-Biggest-Unlock-Events-for-This-October",
+            "currencies": [
+                {
+                    "code": "APT",
+                    "title": "Aptos",
+                    "slug": "aptos",
+                    "url": "https:\/\/cryptopanic.com\/news\/aptos\/"
+                },
+                {
+                    "code": "OP",
+                    "title": "Optimism",
+                    "slug": "optimism",
+                    "url": "https:\/\/cryptopanic.com\/news\/optimism\/"
+                },
+                {
+                    "code": "AXS",
+                    "title": "Axie Infinity",
+                    "slug": "axie-infinity",
+                    "url": "https:\/\/cryptopanic.com\/news\/axie-infinity\/"
+                },
+                {
+                    "code": "APE",
+                    "title": "ApeCoin",
+                    "slug": "apecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/apecoin\/"
+                },
+                {
+                    "code": "SUI",
+                    "title": "Sui",
+                    "slug": "sui",
+                    "url": "https:\/\/cryptopanic.com\/news\/sui\/"
+                }
+            ],
+            "id": 18940024,
+            "url": "https:\/\/cryptopanic.com\/news\/18940024\/OP-AXS-and-APT-Are-the-Biggest-Unlock-Events-for-This-October",
+            "created_at": "2023-10-01T09:58:00Z"
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "Aptos DEX volumes surge 678% following fake token incident",
+            "published_at": "2023-09-30T08:30:03Z",
+            "slug": "Aptos-DEX-volumes-surge-678-following-fake-token-incident",
+            "currencies": [
+                {
+                    "code": "APT",
+                    "title": "Aptos",
+                    "slug": "aptos",
+                    "url": "https:\/\/cryptopanic.com\/news\/aptos\/"
+                }
+            ],
+            "id": 18938796,
+            "url": "https:\/\/cryptopanic.com\/news\/18938796\/Aptos-DEX-volumes-surge-678-following-fake-token-incident",
+            "created_at": "2023-09-30T08:30:03Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "theblock.co",
+            "source": {
+                "title": "The Block",
+                "region": "en",
+                "domain": "theblock.co",
+                "path": null
+            },
+            "title": "New \u2018Exorcist\u2019 film taps Aptos to help scare up web3 fan experience",
+            "published_at": "2023-09-28T14:25:26Z",
+            "slug": "New-Exorcist-film-taps-Aptos-to-help-scare-up-web3-fan-experience",
+            "currencies": [
+                {
+                    "code": "APT",
+                    "title": "Aptos",
+                    "slug": "aptos",
+                    "url": "https:\/\/cryptopanic.com\/news\/aptos\/"
+                }
+            ],
+            "id": 18934884,
+            "url": "https:\/\/cryptopanic.com\/news\/18934884\/New-Exorcist-film-taps-Aptos-to-help-scare-up-web3-fan-experience",
+            "created_at": "2023-09-28T14:25:26Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "feeds2.benzinga.com",
+            "source": {
+                "title": "Benzinga",
+                "region": "en",
+                "domain": "feeds2.benzinga.com",
+                "path": null
+            },
+            "title": "Cryptocurrency Aptos Down More Than 3% Within 24 hours",
+            "published_at": "2023-09-27T15:00:37Z",
+            "slug": "Cryptocurrency-Aptos-Down-More-Than-3-Within-24-hours",
+            "currencies": [
+                {
+                    "code": "APT",
+                    "title": "Aptos",
+                    "slug": "aptos",
+                    "url": "https:\/\/cryptopanic.com\/news\/aptos\/"
+                }
+            ],
+            "id": 18932311,
+            "url": "https:\/\/cryptopanic.com\/news\/18932311\/Cryptocurrency-Aptos-Down-More-Than-3-Within-24-hours",
+            "created_at": "2023-09-27T15:00:37Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "theblock.co",
+            "source": {
+                "title": "The Block",
+                "region": "en",
+                "domain": "theblock.co",
+                "path": null
+            },
+            "title": "Aptos and Thala launch $1 million fund to foster new DeFi protocols",
+            "published_at": "2023-09-27T13:35:02Z",
+            "slug": "Aptos-and-Thala-launch-1-million-fund-to-foster-new-DeFi-protocols",
+            "currencies": [
+                {
+                    "code": "APT",
+                    "title": "Aptos",
+                    "slug": "aptos",
+                    "url": "https:\/\/cryptopanic.com\/news\/aptos\/"
+                }
+            ],
+            "id": 18932021,
+            "url": "https:\/\/cryptopanic.com\/news\/18932021\/Aptos-and-Thala-launch-1-million-fund-to-foster-new-DeFi-protocols",
+            "created_at": "2023-09-27T13:35:02Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "Aptos (APT) Price Prediction: How the $5.70 Area Can Shape Its Future Path",
+            "published_at": "2023-09-27T12:00:00Z",
+            "slug": "Aptos-APT-Price-Prediction-How-the-570-Area-Can-Shape-Its-Future-Path",
+            "currencies": [
+                {
+                    "code": "APT",
+                    "title": "Aptos",
+                    "slug": "aptos",
+                    "url": "https:\/\/cryptopanic.com\/news\/aptos\/"
+                }
+            ],
+            "id": 18931864,
+            "url": "https:\/\/cryptopanic.com\/news\/18931864\/Aptos-APT-Price-Prediction-How-the-570-Area-Can-Shape-Its-Future-Path",
+            "created_at": "2023-09-27T12:00:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coingabbar.com",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "coingabbar",
+                "region": "en",
+                "domain": "coingabbar.com",
+                "path": null
+            },
+            "title": "Crypto Daily Roundup, 27 Sep: Crypto Volatility and Key Developments",
+            "published_at": "2023-09-27T08:30:00Z",
+            "slug": "Crypto-Daily-Roundup-27-Sep-Crypto-Volatility-and-Key-Developments",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "USDT",
+                    "title": "Tether",
+                    "slug": "tether",
+                    "url": "https:\/\/cryptopanic.com\/news\/tether\/"
+                },
+                {
+                    "code": "DOGE",
+                    "title": "Dogecoin",
+                    "slug": "dogecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/dogecoin\/"
+                },
+                {
+                    "code": "SHIB",
+                    "title": "Shiba Inu",
+                    "slug": "shiba-inu",
+                    "url": "https:\/\/cryptopanic.com\/news\/shiba-inu\/"
+                },
+                {
+                    "code": "MKR",
+                    "title": "Maker",
+                    "slug": "maker",
+                    "url": "https:\/\/cryptopanic.com\/news\/maker\/"
+                },
+                {
+                    "code": "APT",
+                    "title": "Aptos",
+                    "slug": "aptos",
+                    "url": "https:\/\/cryptopanic.com\/news\/aptos\/"
+                },
+                {
+                    "code": "GMX",
+                    "title": "GMX",
+                    "slug": "gmx",
+                    "url": "https:\/\/cryptopanic.com\/news\/gmx\/"
+                }
+            ],
+            "id": 18931134,
+            "url": "https:\/\/cryptopanic.com\/news\/18931134\/Crypto-Daily-Roundup-27-Sep-Crypto-Volatility-and-Key-Developments",
+            "created_at": "2023-09-27T08:30:00Z"
+        },
+        {
+            "kind": "news",
+            "domain": "feeds2.benzinga.com",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "Benzinga",
+                "region": "en",
+                "domain": "feeds2.benzinga.com",
+                "path": null
+            },
+            "title": "Cryptocurrency Aptos's Price Increased More Than 5% Within 24 hours",
+            "published_at": "2023-09-25T19:00:27Z",
+            "slug": "Cryptocurrency-Aptoss-Price-Increased-More-Than-5-Within-24-hours",
+            "currencies": [
+                {
+                    "code": "APT",
+                    "title": "Aptos",
+                    "slug": "aptos",
+                    "url": "https:\/\/cryptopanic.com\/news\/aptos\/"
+                }
+            ],
+            "id": 18927403,
+            "url": "https:\/\/cryptopanic.com\/news\/18927403\/Cryptocurrency-Aptoss-Price-Increased-More-Than-5-Within-24-hours",
+            "created_at": "2023-09-25T19:00:27Z"
+        },
+        {
+            "kind": "news",
+            "domain": "feeds2.benzinga.com",
+            "source": {
+                "title": "Benzinga",
+                "region": "en",
+                "domain": "feeds2.benzinga.com",
+                "path": null
+            },
+            "title": "Fake Aptos Token Fools Upbit, Users Cash Out Millions Before Exchange Suspends Services",
+            "published_at": "2023-09-25T17:42:52Z",
+            "slug": "Fake-Aptos-Token-Fools-Upbit-Users-Cash-Out-Millions-Before-Exchange-Suspends-Services",
+            "currencies": [
+                {
+                    "code": "APT",
+                    "title": "Aptos",
+                    "slug": "aptos",
+                    "url": "https:\/\/cryptopanic.com\/news\/aptos\/"
+                }
+            ],
+            "id": 18927211,
+            "url": "https:\/\/cryptopanic.com\/news\/18927211\/Fake-Aptos-Token-Fools-Upbit-Users-Cash-Out-Millions-Before-Exchange-Suspends-Services",
+            "created_at": "2023-09-25T17:42:52Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coingape.com",
+            "source": {
+                "title": "CoinGape",
+                "region": "en",
+                "domain": "coingape.com",
+                "path": null
+            },
+            "title": "Aptos Price Prediction as Buyers Break 200 Days Resistance; Will they Reclaim $8?",
+            "published_at": "2023-09-25T17:31:11Z",
+            "slug": "Aptos-Price-Prediction-as-Buyers-Break-200-Days-Resistance-Will-they-Reclaim-8",
+            "currencies": [
+                {
+                    "code": "APT",
+                    "title": "Aptos",
+                    "slug": "aptos",
+                    "url": "https:\/\/cryptopanic.com\/news\/aptos\/"
+                }
+            ],
+            "id": 18927177,
+            "url": "https:\/\/cryptopanic.com\/news\/18927177\/Aptos-Price-Prediction-as-Buyers-Break-200-Days-Resistance-Will-they-Reclaim-8",
+            "created_at": "2023-09-25T17:31:11Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "u.today",
+            "source": {
+                "title": "U.Today",
+                "region": "en",
+                "domain": "u.today",
+                "path": null
+            },
+            "title": "Solana Killer Aptos (APT) Jumps 8% as Market Falls, Here's Why",
+            "published_at": "2023-09-25T14:39:00Z",
+            "slug": "Solana-Killer-Aptos-APT-Jumps-8-as-Market-Falls-Heres-Why",
+            "currencies": [
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "APT",
+                    "title": "Aptos",
+                    "slug": "aptos",
+                    "url": "https:\/\/cryptopanic.com\/news\/aptos\/"
+                }
+            ],
+            "id": 18926770,
+            "url": "https:\/\/cryptopanic.com\/news\/18926770\/Solana-Killer-Aptos-APT-Jumps-8-as-Market-Falls-Heres-Why",
+            "created_at": "2023-09-25T14:39:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coindesk.com",
+            "source": {
+                "title": "CoinDesk",
+                "region": "en",
+                "domain": "coindesk.com",
+                "path": null
+            },
+            "title": "First Mover Americas: Aptos Rallies While Major Cryptos Trade Lower",
+            "published_at": "2023-09-25T12:46:09Z",
+            "slug": "First-Mover-Americas-Aptos-Rallies-While-Major-Cryptos-Trade-Lower",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "APT",
+                    "title": "Aptos",
+                    "slug": "aptos",
+                    "url": "https:\/\/cryptopanic.com\/news\/aptos\/"
+                }
+            ],
+            "id": 18926437,
+            "url": "https:\/\/cryptopanic.com\/news\/18926437\/First-Mover-Americas-Aptos-Rallies-While-Major-Cryptos-Trade-Lower",
+            "created_at": "2023-09-25T12:46:09Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

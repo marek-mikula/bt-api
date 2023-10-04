@@ -1,0 +1,785 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=ZEC&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "blog.z.cash",
+            "source": {
+                "title": "Zcash Blog",
+                "region": "en",
+                "domain": "blog.z.cash",
+                "path": null
+            },
+            "title": "ECC Transparency Report for Q1 2023",
+            "published_at": "2023-09-29T17:56:49Z",
+            "slug": "ECC-Transparency-Report-for-Q1-2023",
+            "currencies": [
+                {
+                    "code": "ZEC",
+                    "title": "Zcash",
+                    "slug": "zcash",
+                    "url": "https:\/\/cryptopanic.com\/news\/zcash\/"
+                }
+            ],
+            "id": 18938289,
+            "url": "https:\/\/cryptopanic.com\/news\/18938289\/ECC-Transparency-Report-for-Q1-2023",
+            "created_at": "2023-09-29T17:56:49Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Privacy For All: Brave To Integrate Zcash Protocol On Native Crypto Wallet",
+            "published_at": "2023-09-22T18:00:43Z",
+            "slug": "Privacy-For-All-Brave-To-Integrate-Zcash-Protocol-On-Native-Crypto-Wallet",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                },
+                {
+                    "code": "FIL",
+                    "title": "Filecoin",
+                    "slug": "filecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/filecoin\/"
+                },
+                {
+                    "code": "ZEC",
+                    "title": "Zcash",
+                    "slug": "zcash",
+                    "url": "https:\/\/cryptopanic.com\/news\/zcash\/"
+                }
+            ],
+            "id": 18922548,
+            "url": "https:\/\/cryptopanic.com\/news\/18922548\/Privacy-For-All-Brave-To-Integrate-Zcash-Protocol-On-Native-Crypto-Wallet",
+            "created_at": "2023-09-22T18:00:43Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinjournal.net",
+            "source": {
+                "title": "CoinJournal",
+                "region": "en",
+                "domain": "coinjournal.net",
+                "path": null
+            },
+            "title": "Brave partners with Electric Coin and Filecoin to advance Web3 privacy",
+            "published_at": "2023-09-22T17:18:38Z",
+            "slug": "Brave-partners-with-Electric-Coin-and-Filecoin-to-advance-Web3-privacy",
+            "currencies": [
+                {
+                    "code": "FIL",
+                    "title": "Filecoin",
+                    "slug": "filecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/filecoin\/"
+                },
+                {
+                    "code": "ZEC",
+                    "title": "Zcash",
+                    "slug": "zcash",
+                    "url": "https:\/\/cryptopanic.com\/news\/zcash\/"
+                }
+            ],
+            "id": 18922443,
+            "url": "https:\/\/cryptopanic.com\/news\/18922443\/Brave-partners-with-Electric-Coin-and-Filecoin-to-advance-Web3-privacy",
+            "created_at": "2023-09-22T17:18:38Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinjournal.net",
+            "votes": {
+                "negative": 2,
+                "positive": 0,
+                "important": 2,
+                "liked": 0,
+                "disliked": 1,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "CoinJournal",
+                "region": "en",
+                "domain": "coinjournal.net",
+                "path": null
+            },
+            "title": "Coinbase says Zcash risks 51% amid ViaBTC control",
+            "published_at": "2023-09-20T16:19:45Z",
+            "slug": "Coinbase-says-Zcash-risks-51-amid-ViaBTC-control",
+            "currencies": [
+                {
+                    "code": "ZEC",
+                    "title": "Zcash",
+                    "slug": "zcash",
+                    "url": "https:\/\/cryptopanic.com\/news\/zcash\/"
+                }
+            ],
+            "id": 18916864,
+            "url": "https:\/\/cryptopanic.com\/news\/18916864\/Coinbase-says-Zcash-risks-51-amid-ViaBTC-control",
+            "created_at": "2023-09-20T16:19:45Z"
+        },
+        {
+            "kind": "news",
+            "domain": "bitcoinist.com",
+            "source": {
+                "title": "Bitcoinist",
+                "region": "en",
+                "domain": "bitcoinist.com",
+                "path": null
+            },
+            "title": "ZCash Developer ECC Reacts To Coinbase\u2019s Double Spend Warning",
+            "published_at": "2023-09-20T14:00:51Z",
+            "slug": "ZCash-Developer-ECC-Reacts-To-Coinbases-Double-Spend-Warning",
+            "currencies": [
+                {
+                    "code": "ZEC",
+                    "title": "Zcash",
+                    "slug": "zcash",
+                    "url": "https:\/\/cryptopanic.com\/news\/zcash\/"
+                }
+            ],
+            "id": 18916469,
+            "url": "https:\/\/cryptopanic.com\/news\/18916469\/ZCash-Developer-ECC-Reacts-To-Coinbases-Double-Spend-Warning",
+            "created_at": "2023-09-20T14:00:51Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "bitcoin.com",
+            "source": {
+                "title": "Bitcoin.com",
+                "region": "en",
+                "domain": "bitcoin.com",
+                "path": null
+            },
+            "title": "\u2018Lack of Finality\u2019 \u2014 Single Mining Pool Commands 53% of Zcash\u2019s Hashrate",
+            "published_at": "2023-09-20T07:00:45Z",
+            "slug": "Lack-of-Finality-Single-Mining-Pool-Commands-53-of-Zcashs-Hashrate",
+            "currencies": [
+                {
+                    "code": "ZEC",
+                    "title": "Zcash",
+                    "slug": "zcash",
+                    "url": "https:\/\/cryptopanic.com\/news\/zcash\/"
+                }
+            ],
+            "id": 18915320,
+            "url": "https:\/\/cryptopanic.com\/news\/18915320\/Lack-of-Finality-Single-Mining-Pool-Commands-53-of-Zcashs-Hashrate",
+            "created_at": "2023-09-20T07:00:45Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "blog.z.cash",
+            "source": {
+                "title": "Zcash Blog",
+                "region": "en",
+                "domain": "blog.z.cash",
+                "path": null
+            },
+            "title": "Building sustainability and resilience into \u2018Dev Fund 2\u2019",
+            "published_at": "2023-09-07T16:11:08Z",
+            "slug": "Building-sustainability-and-resilience-into-Dev-Fund-2",
+            "currencies": [
+                {
+                    "code": "ZEC",
+                    "title": "Zcash",
+                    "slug": "zcash",
+                    "url": "https:\/\/cryptopanic.com\/news\/zcash\/"
+                }
+            ],
+            "id": 18887007,
+            "url": "https:\/\/cryptopanic.com\/news\/18887007\/Building-sustainability-and-resilience-into-Dev-Fund-2",
+            "created_at": "2023-09-07T16:11:08Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "blog.z.cash",
+            "source": {
+                "title": "Zcash Blog",
+                "region": "en",
+                "domain": "blog.z.cash",
+                "path": null
+            },
+            "title": "The Trailing Finality Layer: A stepping stone to proof of stake in Zcash",
+            "published_at": "2023-07-18T19:54:53Z",
+            "slug": "The-Trailing-Finality-Layer-A-stepping-stone-to-proof-of-stake-in-Zcash",
+            "currencies": [
+                {
+                    "code": "ZEC",
+                    "title": "Zcash",
+                    "slug": "zcash",
+                    "url": "https:\/\/cryptopanic.com\/news\/zcash\/"
+                }
+            ],
+            "id": 18783794,
+            "url": "https:\/\/cryptopanic.com\/news\/18783794\/The-Trailing-Finality-Layer-A-stepping-stone-to-proof-of-stake-in-Zcash",
+            "created_at": "2023-07-18T19:54:53Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "blog.z.cash",
+            "source": {
+                "title": "Zcash Blog",
+                "region": "en",
+                "domain": "blog.z.cash",
+                "path": null
+            },
+            "title": "A proposal for shared ownership and resilience of Zcash-focused digital properties",
+            "published_at": "2023-07-13T18:51:25Z",
+            "slug": "A-proposal-for-shared-ownership-and-resilience-of-Zcash-focused-digital-properties",
+            "currencies": [
+                {
+                    "code": "ZEC",
+                    "title": "Zcash",
+                    "slug": "zcash",
+                    "url": "https:\/\/cryptopanic.com\/news\/zcash\/"
+                }
+            ],
+            "id": 18772685,
+            "url": "https:\/\/cryptopanic.com\/news\/18772685\/A-proposal-for-shared-ownership-and-resilience-of-Zcash-focused-digital-properties",
+            "created_at": "2023-07-13T18:51:25Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "dailyhodl.com",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "The Daily Hodl",
+                "region": "en",
+                "domain": "dailyhodl.com",
+                "path": null
+            },
+            "title": "Trader Issues Warning on Altcoin That\u2019s Up Over 360% Year-to-Date, Updates Outlook on Bitcoin and Pepe",
+            "published_at": "2023-07-08T14:30:08Z",
+            "slug": "Trader-Issues-Warning-on-Altcoin-Thats-Up-Over-360-Year-to-Date-Updates-Outlook-on-Bitcoin-and-Pepe",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "RNDR",
+                    "title": "Render",
+                    "slug": "render-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/render-token\/"
+                },
+                {
+                    "code": "PEPE",
+                    "title": "Pepe",
+                    "slug": "pepe",
+                    "url": "https:\/\/cryptopanic.com\/news\/pepe\/"
+                },
+                {
+                    "code": "ZEC",
+                    "title": "Zcash",
+                    "slug": "zcash",
+                    "url": "https:\/\/cryptopanic.com\/news\/zcash\/"
+                }
+            ],
+            "id": 18743912,
+            "url": "https:\/\/cryptopanic.com\/news\/18743912\/Trader-Issues-Warning-on-Altcoin-Thats-Up-Over-360-Year-to-Date-Updates-Outlook-on-Bitcoin-and-Pepe",
+            "created_at": "2023-07-08T14:30:08Z"
+        },
+        {
+            "kind": "news",
+            "domain": "@ElectricCoinCo",
+            "source": {
+                "title": "Zcash Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@electriccoinco"
+            },
+            "title": "On the blog: ECC plans and strategy center on these two areas.\n decentralizing #Zcash\n empowering $ZEC holders an\u2026",
+            "published_at": "2023-07-06T19:19:12Z",
+            "slug": "On-the-blog-ECC-plans-and-strategy-center-on-these-two-areas-decentralizing-Zcash-empowering-ZEC-holders-an",
+            "currencies": [
+                {
+                    "code": "ZEC",
+                    "title": "Zcash",
+                    "slug": "zcash",
+                    "url": "https:\/\/cryptopanic.com\/news\/zcash\/"
+                }
+            ],
+            "id": 18736509,
+            "url": "https:\/\/cryptopanic.com\/news\/18736509\/On-the-blog-ECC-plans-and-strategy-center-on-these-two-areas-decentralizing-Zcash-empowering-ZEC-holders-an",
+            "created_at": "2023-07-06T19:19:12Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@ElectricCoinCo",
+            "source": {
+                "title": "Zcash Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@electriccoinco"
+            },
+            "title": "Lightwalletd 0.4.14 was released July 4, which means the mobile wallet SDK is the only outstanding piece in ECC\u2019s p\u2026",
+            "published_at": "2023-07-06T14:00:03Z",
+            "slug": "Lightwalletd-0414-was-released-July-4-which-means-the-mobile-wallet-SDK-is-the-only-outstanding-piece-in-ECCs-p",
+            "currencies": [
+                {
+                    "code": "ZEC",
+                    "title": "Zcash",
+                    "slug": "zcash",
+                    "url": "https:\/\/cryptopanic.com\/news\/zcash\/"
+                }
+            ],
+            "id": 18736510,
+            "url": "https:\/\/cryptopanic.com\/news\/18736510\/Lightwalletd-0414-was-released-July-4-which-means-the-mobile-wallet-SDK-is-the-only-outstanding-piece-in-ECCs-p",
+            "created_at": "2023-07-06T14:00:03Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "blog.z.cash",
+            "source": {
+                "title": "Zcash Blog",
+                "region": "en",
+                "domain": "blog.z.cash",
+                "path": null
+            },
+            "title": "Update: ECC proposals and plans for decentralizing Zcash and future focus",
+            "published_at": "2023-07-06T00:37:51Z",
+            "slug": "Update-ECC-proposals-and-plans-for-decentralizing-Zcash-and-future-focus",
+            "currencies": [
+                {
+                    "code": "ZEC",
+                    "title": "Zcash",
+                    "slug": "zcash",
+                    "url": "https:\/\/cryptopanic.com\/news\/zcash\/"
+                }
+            ],
+            "id": 18729830,
+            "url": "https:\/\/cryptopanic.com\/news\/18729830\/Update-ECC-proposals-and-plans-for-decentralizing-Zcash-and-future-focus",
+            "created_at": "2023-07-06T00:37:51Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@ElectricCoinCo",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "Zcash Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@electriccoinco"
+            },
+            "title": "The latest ECC Transparency Report is available now. It details company income, expenses, and use of funds during Q\u2026",
+            "published_at": "2023-06-30T17:03:29Z",
+            "slug": "The-latest-ECC-Transparency-Report-is-available-now-It-details-company-income-expenses-and-use-of-funds-during-Q",
+            "currencies": [
+                {
+                    "code": "ZEC",
+                    "title": "Zcash",
+                    "slug": "zcash",
+                    "url": "https:\/\/cryptopanic.com\/news\/zcash\/"
+                }
+            ],
+            "id": 18696650,
+            "url": "https:\/\/cryptopanic.com\/news\/18696650\/The-latest-ECC-Transparency-Report-is-available-now-It-details-company-income-expenses-and-use-of-funds-during-Q",
+            "created_at": "2023-06-30T17:03:29Z"
+        },
+        {
+            "kind": "news",
+            "domain": "blog.z.cash",
+            "source": {
+                "title": "Zcash Blog",
+                "region": "en",
+                "domain": "blog.z.cash",
+                "path": null
+            },
+            "title": "ECC Transparency Report for Q4 2022",
+            "published_at": "2023-06-30T16:49:49Z",
+            "slug": "ECC-Transparency-Report-for-Q4-2022",
+            "currencies": [
+                {
+                    "code": "ZEC",
+                    "title": "Zcash",
+                    "slug": "zcash",
+                    "url": "https:\/\/cryptopanic.com\/news\/zcash\/"
+                }
+            ],
+            "id": 18690880,
+            "url": "https:\/\/cryptopanic.com\/news\/18690880\/ECC-Transparency-Report-for-Q4-2022",
+            "created_at": "2023-06-30T16:49:49Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@ElectricCoinCo",
+            "source": {
+                "title": "Zcash Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@electriccoinco"
+            },
+            "title": "As part of our routine operational security practices, ECC has updated our zcashd package signing keys. They now ha\u2026",
+            "published_at": "2023-06-28T22:06:06Z",
+            "slug": "As-part-of-our-routine-operational-security-practices-ECC-has-updated-our-zcashd-package-signing-keys-They-now-ha",
+            "currencies": [
+                {
+                    "code": "ZEC",
+                    "title": "Zcash",
+                    "slug": "zcash",
+                    "url": "https:\/\/cryptopanic.com\/news\/zcash\/"
+                }
+            ],
+            "id": 18681548,
+            "url": "https:\/\/cryptopanic.com\/news\/18681548\/As-part-of-our-routine-operational-security-practices-ECC-has-updated-our-zcashd-package-signing-keys-They-now-ha",
+            "created_at": "2023-06-28T22:06:06Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@ElectricCoinCo",
+            "source": {
+                "title": "Zcash Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@electriccoinco"
+            },
+            "title": "RT @zcash: The new Learn #Zcash hub has lots of answers to common questions. What should we answer next?",
+            "published_at": "2023-06-28T16:41:57Z",
+            "slug": "RT-zcash-The-new-Learn-Zcash-hub-has-lots-of-answers-to-common-questions-What-should-we-answer-next",
+            "currencies": [
+                {
+                    "code": "ZEC",
+                    "title": "Zcash",
+                    "slug": "zcash",
+                    "url": "https:\/\/cryptopanic.com\/news\/zcash\/"
+                }
+            ],
+            "id": 18681549,
+            "url": "https:\/\/cryptopanic.com\/news\/18681549\/RT-zcash-The-new-Learn-Zcash-hub-has-lots-of-answers-to-common-questions-What-should-we-answer-next",
+            "created_at": "2023-06-28T16:41:57Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@ElectricCoinCo",
+            "source": {
+                "title": "Zcash Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@electriccoinco"
+            },
+            "title": "RT @pgpforcrypto: \ufe0fNew episode alert!\ufe0f We had Miller Whitehouse-Levine, CEO @millercwl of the DeFi Education Fund, back on the show for t\u2026",
+            "published_at": "2023-06-28T15:57:11Z",
+            "slug": "RT-pgpforcrypto-New-episode-alert-We-had-Miller-Whitehouse-Levine-CEO-millercwl-of-the-DeFi-Education-Fund-back-on-the-show-for-t",
+            "currencies": [
+                {
+                    "code": "ZEC",
+                    "title": "Zcash",
+                    "slug": "zcash",
+                    "url": "https:\/\/cryptopanic.com\/news\/zcash\/"
+                }
+            ],
+            "id": 18681550,
+            "url": "https:\/\/cryptopanic.com\/news\/18681550\/RT-pgpforcrypto-New-episode-alert-We-had-Miller-Whitehouse-Levine-CEO-millercwl-of-the-DeFi-Education-Fund-back-on-the-show-for-t",
+            "created_at": "2023-06-28T15:57:11Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptopotato.com",
+            "source": {
+                "title": "Feed - Cryptopotato.Com",
+                "region": "en",
+                "domain": "cryptopotato.com",
+                "path": null
+            },
+            "title": "Horizen Protocol Confirms ZEN to Lose Privacy Coin Status",
+            "published_at": "2023-06-28T12:15:20Z",
+            "slug": "Horizen-Protocol-Confirms-ZEN-to-Lose-Privacy-Coin-Status",
+            "currencies": [
+                {
+                    "code": "XMR",
+                    "title": "Monero",
+                    "slug": "monero",
+                    "url": "https:\/\/cryptopanic.com\/news\/monero\/"
+                },
+                {
+                    "code": "DASH",
+                    "title": "Dash",
+                    "slug": "dash",
+                    "url": "https:\/\/cryptopanic.com\/news\/dash\/"
+                },
+                {
+                    "code": "ZEC",
+                    "title": "Zcash",
+                    "slug": "zcash",
+                    "url": "https:\/\/cryptopanic.com\/news\/zcash\/"
+                }
+            ],
+            "id": 18673927,
+            "url": "https:\/\/cryptopanic.com\/news\/18673927\/Horizen-Protocol-Confirms-ZEN-to-Lose-Privacy-Coin-Status",
+            "created_at": "2023-06-28T12:15:20Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinspeaker.com",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "Coinspeaker",
+                "region": "en",
+                "domain": "coinspeaker.com",
+                "path": null
+            },
+            "title": "Binance Rescinds Decision to Delist Privacy Coins as It Complies with EU Regulations",
+            "published_at": "2023-06-26T12:25:02Z",
+            "slug": "Binance-Rescinds-Decision-to-Delist-Privacy-Coins-as-It-Complies-with-EU-Regulations",
+            "currencies": [
+                {
+                    "code": "XMR",
+                    "title": "Monero",
+                    "slug": "monero",
+                    "url": "https:\/\/cryptopanic.com\/news\/monero\/"
+                },
+                {
+                    "code": "DASH",
+                    "title": "Dash",
+                    "slug": "dash",
+                    "url": "https:\/\/cryptopanic.com\/news\/dash\/"
+                },
+                {
+                    "code": "ZEC",
+                    "title": "Zcash",
+                    "slug": "zcash",
+                    "url": "https:\/\/cryptopanic.com\/news\/zcash\/"
+                },
+                {
+                    "code": "DCR",
+                    "title": "Decred",
+                    "slug": "decred",
+                    "url": "https:\/\/cryptopanic.com\/news\/decred\/"
+                },
+                {
+                    "code": "XVG",
+                    "title": "Verge",
+                    "slug": "verge",
+                    "url": "https:\/\/cryptopanic.com\/news\/verge\/"
+                }
+            ],
+            "id": 18657284,
+            "url": "https:\/\/cryptopanic.com\/news\/18657284\/Binance-Rescinds-Decision-to-Delist-Privacy-Coins-as-It-Complies-with-EU-Regulations",
+            "created_at": "2023-06-26T12:25:02Z"
+        }
+    ]
+}

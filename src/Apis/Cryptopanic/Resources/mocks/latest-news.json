@@ -1,1 +1,653 @@
-{}
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "en.bitcoinsistemi.com",
+            "source": {
+                "title": "en bitcoinsistemi",
+                "region": "en",
+                "domain": "en.bitcoinsistemi.com",
+                "path": null
+            },
+            "title": "FED Investigators Announced the Reasons for the Collapse of Silvergate Bank!",
+            "published_at": "2023-10-03T12:12:05Z",
+            "slug": "FED-Investigators-Announced-the-Reasons-for-the-Collapse-of-Silvergate-Bank",
+            "id": 18944452,
+            "url": "https:\/\/cryptopanic.com\/news\/18944452\/FED-Investigators-Announced-the-Reasons-for-the-Collapse-of-Silvergate-Bank",
+            "created_at": "2023-10-03T12:12:05Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptoglobe.com",
+            "source": {
+                "title": "CryptoGlobe",
+                "region": "en",
+                "domain": "cryptoglobe.com",
+                "path": null
+            },
+            "title": "Bitcoin Educator Dan Held Says \u2018Speculation Is the Utility\u2019: A Report From CCDAS 2023",
+            "published_at": "2023-10-03T12:08:52Z",
+            "slug": "Bitcoin-Educator-Dan-Held-Says-Speculation-Is-the-Utility-A-Report-From-CCDAS-2023",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                }
+            ],
+            "id": 18944440,
+            "url": "https:\/\/cryptopanic.com\/news\/18944440\/Bitcoin-Educator-Dan-Held-Says-Speculation-Is-the-Utility-A-Report-From-CCDAS-2023",
+            "created_at": "2023-10-03T12:08:52Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "feeds2.benzinga.com",
+            "source": {
+                "title": "Benzinga",
+                "region": "en",
+                "domain": "feeds2.benzinga.com",
+                "path": null
+            },
+            "title": "Crypto Regret: Trader Misses Out On $28M Windfall By Cashing Out Shiba Inu In 2020 At 'Same F***ing Price' As Purchase",
+            "published_at": "2023-10-03T12:02:12Z",
+            "slug": "Crypto-Regret-Trader-Misses-Out-On-28M-Windfall-By-Cashing-Out-Shiba-Inu-In-2020-At-Same-Fing-Price-As-Purchase",
+            "currencies": [
+                {
+                    "code": "SHIB",
+                    "title": "Shiba Inu",
+                    "slug": "shiba-inu",
+                    "url": "https:\/\/cryptopanic.com\/news\/shiba-inu\/"
+                }
+            ],
+            "id": 18944437,
+            "url": "https:\/\/cryptopanic.com\/news\/18944437\/Crypto-Regret-Trader-Misses-Out-On-28M-Windfall-By-Cashing-Out-Shiba-Inu-In-2020-At-Same-Fing-Price-As-Purchase",
+            "created_at": "2023-10-03T12:02:12Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "bitcoinist.com",
+            "source": {
+                "title": "Bitcoinist",
+                "region": "en",
+                "domain": "bitcoinist.com",
+                "path": null
+            },
+            "title": "Bitwise CIO Positions Ethereum As Leading Investment Over Bitcoin: Here\u2019s Why",
+            "published_at": "2023-10-03T12:00:50Z",
+            "slug": "Bitwise-CIO-Positions-Ethereum-As-Leading-Investment-Over-Bitcoin-Heres-Why",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                }
+            ],
+            "id": 18944387,
+            "url": "https:\/\/cryptopanic.com\/news\/18944387\/Bitwise-CIO-Positions-Ethereum-As-Leading-Investment-Over-Bitcoin-Heres-Why",
+            "created_at": "2023-10-03T12:00:50Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "Another crypto exchange receives regulatory node in Singapore",
+            "published_at": "2023-10-03T12:00:27Z",
+            "slug": "Another-crypto-exchange-receives-regulatory-node-in-Singapore",
+            "id": 18944386,
+            "url": "https:\/\/cryptopanic.com\/news\/18944386\/Another-crypto-exchange-receives-regulatory-node-in-Singapore",
+            "created_at": "2023-10-03T12:00:27Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "October\u2019s Hottest Crypto Picks: Xrp (Xrp), Avalanche (Avax), and Everlodge (Eldg) Set to Ignite!",
+            "published_at": "2023-10-03T12:00:00Z",
+            "slug": "Octobers-Hottest-Crypto-Picks-Xrp-Xrp-Avalanche-Avax-and-Everlodge-Eldg-Set-to-Ignite",
+            "currencies": [
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                },
+                {
+                    "code": "AVAX",
+                    "title": "Avalanche",
+                    "slug": "avalanche-2",
+                    "url": "https:\/\/cryptopanic.com\/news\/avalanche-2\/"
+                }
+            ],
+            "id": 18944433,
+            "url": "https:\/\/cryptopanic.com\/news\/18944433\/Octobers-Hottest-Crypto-Picks-Xrp-Xrp-Avalanche-Avax-and-Everlodge-Eldg-Set-to-Ignite",
+            "created_at": "2023-10-03T12:00:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cointelegraph.com",
+            "source": {
+                "title": "CoinTelegraph",
+                "region": "en",
+                "domain": "cointelegraph.com",
+                "path": null
+            },
+            "title": "Samsung to develop AI chips with Canadian startup Tenstorrent",
+            "published_at": "2023-10-03T11:58:17Z",
+            "slug": "Samsung-to-develop-AI-chips-with-Canadian-startup-Tenstorrent",
+            "id": 18944389,
+            "url": "https:\/\/cryptopanic.com\/news\/18944389\/Samsung-to-develop-AI-chips-with-Canadian-startup-Tenstorrent",
+            "created_at": "2023-10-03T11:58:17Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "u.today",
+            "votes": {
+                "negative": 1,
+                "positive": 0,
+                "important": 1,
+                "liked": 0,
+                "disliked": 1,
+                "lol": 1,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 1
+            },
+            "source": {
+                "title": "U.Today",
+                "region": "en",
+                "domain": "u.today",
+                "path": null
+            },
+            "title": "Bitcoin May Plunge to $10,000, Bloomberg's Chief Expert Assumes",
+            "published_at": "2023-10-03T11:56:00Z",
+            "slug": "Bitcoin-May-Plunge-to-10000-Bloombergs-Chief-Expert-Assumes",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                }
+            ],
+            "id": 18944372,
+            "url": "https:\/\/cryptopanic.com\/news\/18944372\/Bitcoin-May-Plunge-to-10000-Bloombergs-Chief-Expert-Assumes",
+            "created_at": "2023-10-03T11:56:00Z"
+        },
+        {
+            "kind": "news",
+            "domain": "cointelegraph.com",
+            "source": {
+                "title": "CoinTelegraph",
+                "region": "en",
+                "domain": "cointelegraph.com",
+                "path": null
+            },
+            "title": "Exclusive: Hackers selling discounted tokens linked to CoinEx, Stake hacks",
+            "published_at": "2023-10-03T11:47:33Z",
+            "slug": "Exclusive-Hackers-selling-discounted-tokens-linked-to-CoinEx-Stake-hacks",
+            "id": 18944351,
+            "url": "https:\/\/cryptopanic.com\/news\/18944351\/Exclusive-Hackers-selling-discounted-tokens-linked-to-CoinEx-Stake-hacks",
+            "created_at": "2023-10-03T11:47:33Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "dailyhodl.com",
+            "source": {
+                "title": "The Daily Hodl",
+                "region": "en",
+                "domain": "dailyhodl.com",
+                "path": null
+            },
+            "title": "InvestAnswers Unveils \u2018Max Upside\u2019 Price Target for Bitcoin (BTC) in 2025",
+            "published_at": "2023-10-03T11:45:43Z",
+            "slug": "InvestAnswers-Unveils-Max-Upside-Price-Target-for-Bitcoin-BTC-in-2025",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                }
+            ],
+            "id": 18944355,
+            "url": "https:\/\/cryptopanic.com\/news\/18944355\/InvestAnswers-Unveils-Max-Upside-Price-Target-for-Bitcoin-BTC-in-2025",
+            "created_at": "2023-10-03T11:45:43Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "GALA Price Indecision Could Be Determined With This Indicator \u2013 Will It Bounce or Drop?",
+            "published_at": "2023-10-03T11:45:00Z",
+            "slug": "GALA-Price-Indecision-Could-Be-Determined-With-This-Indicator-Will-It-Bounce-or-Drop",
+            "currencies": [
+                {
+                    "code": "GALA",
+                    "title": "GALA",
+                    "slug": "gala",
+                    "url": "https:\/\/cryptopanic.com\/news\/gala\/"
+                }
+            ],
+            "id": 18944434,
+            "url": "https:\/\/cryptopanic.com\/news\/18944434\/GALA-Price-Indecision-Could-Be-Determined-With-This-Indicator-Will-It-Bounce-or-Drop",
+            "created_at": "2023-10-03T11:45:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coindesk.com",
+            "source": {
+                "title": "CoinDesk",
+                "region": "en",
+                "domain": "coindesk.com",
+                "path": null
+            },
+            "title": "Friend.Tech Users Targeted by SIM Swap Attack, Several Ether Drained",
+            "published_at": "2023-10-03T11:41:29Z",
+            "slug": "FriendTech-Users-Targeted-by-SIM-Swap-Attack-Several-Ether-Drained",
+            "id": 18944349,
+            "url": "https:\/\/cryptopanic.com\/news\/18944349\/FriendTech-Users-Targeted-by-SIM-Swap-Attack-Several-Ether-Drained",
+            "created_at": "2023-10-03T11:41:29Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "finbold.com",
+            "votes": {
+                "negative": 1,
+                "positive": 1,
+                "important": 1,
+                "liked": 1,
+                "disliked": 1,
+                "lol": 1,
+                "toxic": 0,
+                "saved": 1,
+                "comments": 0
+            },
+            "source": {
+                "title": "Finbold",
+                "region": "en",
+                "domain": "finbold.com",
+                "path": null
+            },
+            "title": "Ripple keeps 20% of 1 billion tokens unlocked this month; XRP price impact",
+            "published_at": "2023-10-03T11:40:51Z",
+            "slug": "Ripple-keeps-20-of-1-billion-tokens-unlocked-this-month-XRP-price-impact",
+            "currencies": [
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                }
+            ],
+            "id": 18944353,
+            "url": "https:\/\/cryptopanic.com\/news\/18944353\/Ripple-keeps-20-of-1-billion-tokens-unlocked-this-month-XRP-price-impact",
+            "created_at": "2023-10-03T11:40:51Z"
+        },
+        {
+            "kind": "news",
+            "domain": "cointelegraph.com",
+            "source": {
+                "title": "CoinTelegraph",
+                "region": "en",
+                "domain": "cointelegraph.com",
+                "path": null
+            },
+            "title": "Brazil BTG Pactual bank buys Bitcoin-friendly brokerage Orama for $99M",
+            "published_at": "2023-10-03T11:40:10Z",
+            "slug": "Brazil-BTG-Pactual-bank-buys-Bitcoin-friendly-brokerage-Orama-for-99M",
+            "id": 18944352,
+            "url": "https:\/\/cryptopanic.com\/news\/18944352\/Brazil-BTG-Pactual-bank-buys-Bitcoin-friendly-brokerage-Orama-for-99M",
+            "created_at": "2023-10-03T11:40:10Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "dailycoin.com",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 1,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 1
+            },
+            "source": {
+                "title": "Dailycoin",
+                "region": "en",
+                "domain": "dailycoin.com",
+                "path": null
+            },
+            "title": "Satoshi Nakamoto Breaks 5-Year Hiatus, But Is It Really Him?",
+            "published_at": "2023-10-03T11:35:00Z",
+            "slug": "Satoshi-Nakamoto-Breaks-5-Year-Hiatus-But-Is-It-Really-Him",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                }
+            ],
+            "id": 18944326,
+            "url": "https:\/\/cryptopanic.com\/news\/18944326\/Satoshi-Nakamoto-Breaks-5-Year-Hiatus-But-Is-It-Really-Him",
+            "created_at": "2023-10-03T11:35:00Z"
+        },
+        {
+            "kind": "news",
+            "domain": "finbold.com",
+            "source": {
+                "title": "Finbold",
+                "region": "en",
+                "domain": "finbold.com",
+                "path": null
+            },
+            "title": "Machine learning algorithm sets SHIB price for October 31",
+            "published_at": "2023-10-03T11:24:29Z",
+            "slug": "Machine-learning-algorithm-sets-SHIB-price-for-October-31",
+            "currencies": [
+                {
+                    "code": "SHIB",
+                    "title": "Shiba Inu",
+                    "slug": "shiba-inu",
+                    "url": "https:\/\/cryptopanic.com\/news\/shiba-inu\/"
+                }
+            ],
+            "id": 18944297,
+            "url": "https:\/\/cryptopanic.com\/news\/18944297\/Machine-learning-algorithm-sets-SHIB-price-for-October-31",
+            "created_at": "2023-10-03T11:24:29Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinedition.com",
+            "source": {
+                "title": "coinedition",
+                "region": "en",
+                "domain": "coinedition.com",
+                "path": null
+            },
+            "title": "Ripple CTO Encourages Followers To Vote For New Clawback Feature",
+            "published_at": "2023-10-03T11:22:58Z",
+            "slug": "Ripple-CTO-Encourages-Followers-To-Vote-For-New-Clawback-Feature",
+            "id": 18944316,
+            "url": "https:\/\/cryptopanic.com\/news\/18944316\/Ripple-CTO-Encourages-Followers-To-Vote-For-New-Clawback-Feature",
+            "created_at": "2023-10-03T11:22:58Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "Maker (MKR) Network Activity Reclaims 2021 Bull Market Peak \u2013 More Price Gains Ahead?",
+            "published_at": "2023-10-03T11:15:00Z",
+            "slug": "Maker-MKR-Network-Activity-Reclaims-2021-Bull-Market-Peak-More-Price-Gains-Ahead",
+            "currencies": [
+                {
+                    "code": "DAI",
+                    "title": "Dai",
+                    "slug": "dai",
+                    "url": "https:\/\/cryptopanic.com\/news\/dai\/"
+                },
+                {
+                    "code": "MKR",
+                    "title": "Maker",
+                    "slug": "maker",
+                    "url": "https:\/\/cryptopanic.com\/news\/maker\/"
+                }
+            ],
+            "id": 18944436,
+            "url": "https:\/\/cryptopanic.com\/news\/18944436\/Maker-MKR-Network-Activity-Reclaims-2021-Bull-Market-Peak-More-Price-Gains-Ahead",
+            "created_at": "2023-10-03T11:15:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinedition.com",
+            "source": {
+                "title": "coinedition",
+                "region": "en",
+                "domain": "coinedition.com",
+                "path": null
+            },
+            "title": "Traditional Finance Giants Investing in Tokenization of Assets: Report",
+            "published_at": "2023-10-03T11:04:14Z",
+            "slug": "Traditional-Finance-Giants-Investing-in-Tokenization-of-Assets-Report",
+            "id": 18944260,
+            "url": "https:\/\/cryptopanic.com\/news\/18944260\/Traditional-Finance-Giants-Investing-in-Tokenization-of-Assets-Report",
+            "created_at": "2023-10-03T11:04:14Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "tokenist.com",
+            "source": {
+                "title": "tokenist",
+                "region": "en",
+                "domain": "tokenist.com",
+                "path": null
+            },
+            "title": "Gold Dips to $1,826 as US Dollar Gains and T-Bond Yields Rise",
+            "published_at": "2023-10-03T11:00:50Z",
+            "slug": "Gold-Dips-to-1826-as-US-Dollar-Gains-and-T-Bond-Yields-Rise",
+            "id": 18944333,
+            "url": "https:\/\/cryptopanic.com\/news\/18944333\/Gold-Dips-to-1826-as-US-Dollar-Gains-and-T-Bond-Yields-Rise",
+            "created_at": "2023-10-03T11:00:50Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

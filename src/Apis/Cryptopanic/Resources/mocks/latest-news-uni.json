@@ -1,0 +1,905 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=UNI&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "votes": {
+                "negative": 1,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 1,
+                "lol": 1,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "Worldcoin (WLD) Explodes as Popularity Increases: Can These 3 Tokens Follow?",
+            "published_at": "2023-10-02T13:00:00Z",
+            "slug": "Worldcoin-WLD-Explodes-as-Popularity-Increases-Can-These-3-Tokens-Follow",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "UNI",
+                    "title": "Uniswap",
+                    "slug": "uniswap",
+                    "url": "https:\/\/cryptopanic.com\/news\/uniswap\/"
+                },
+                {
+                    "code": "MKR",
+                    "title": "Maker",
+                    "slug": "maker",
+                    "url": "https:\/\/cryptopanic.com\/news\/maker\/"
+                }
+            ],
+            "id": 18941997,
+            "url": "https:\/\/cryptopanic.com\/news\/18941997\/Worldcoin-WLD-Explodes-as-Popularity-Increases-Can-These-3-Tokens-Follow",
+            "created_at": "2023-10-02T13:00:00Z"
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Crypto Era Looms: BIS Innovations Chief Calls On Central Banks To Prepare",
+            "published_at": "2023-10-02T11:04:40Z",
+            "slug": "Crypto-Era-Looms-BIS-Innovations-Chief-Calls-On-Central-Banks-To-Prepare",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "UNI",
+                    "title": "Uniswap",
+                    "slug": "uniswap",
+                    "url": "https:\/\/cryptopanic.com\/news\/uniswap\/"
+                }
+            ],
+            "id": 18941676,
+            "url": "https:\/\/cryptopanic.com\/news\/18941676\/Crypto-Era-Looms-BIS-Innovations-Chief-Calls-On-Central-Banks-To-Prepare",
+            "created_at": "2023-10-02T11:04:40Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "votes": {
+                "negative": 2,
+                "positive": 4,
+                "important": 1,
+                "liked": 2,
+                "disliked": 2,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 1,
+                "comments": 0
+            },
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Solana Rebound Potential: Is $30 The Next Target?",
+            "published_at": "2023-10-02T09:42:20Z",
+            "slug": "Solana-Rebound-Potential-Is-30-The-Next-Target",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "UNI",
+                    "title": "Uniswap",
+                    "slug": "uniswap",
+                    "url": "https:\/\/cryptopanic.com\/news\/uniswap\/"
+                },
+                {
+                    "code": "CRV",
+                    "title": "Curve DAO",
+                    "slug": "curve-dao-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/curve-dao-token\/"
+                }
+            ],
+            "id": 18941471,
+            "url": "https:\/\/cryptopanic.com\/news\/18941471\/Solana-Rebound-Potential-Is-30-The-Next-Target",
+            "created_at": "2023-10-02T09:42:20Z"
+        },
+        {
+            "kind": "news",
+            "domain": "bitcoinist.com",
+            "source": {
+                "title": "Bitcoinist",
+                "region": "en",
+                "domain": "bitcoinist.com",
+                "path": null
+            },
+            "title": "Huge Surges: Polygon (MATIC) Soars After Dragon Fruit Upgrade,  Everlodge (ELDG) Continues to Deliver Impressive Returns and Uniswap (UNI) Hits 200M Transactions Milestone!",
+            "published_at": "2023-10-02T08:07:54Z",
+            "slug": "Huge-Surges-Polygon-MATIC-Soars-After-Dragon-Fruit-Upgrade-Everlodge-ELDG-Continues-to-Deliver-Impressive-Returns-and-Uniswap-UNI-Hits-200M-Transactions-Milestone",
+            "currencies": [
+                {
+                    "code": "MATIC",
+                    "title": "Polygon",
+                    "slug": "matic-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-network\/"
+                },
+                {
+                    "code": "UNI",
+                    "title": "Uniswap",
+                    "slug": "uniswap",
+                    "url": "https:\/\/cryptopanic.com\/news\/uniswap\/"
+                }
+            ],
+            "id": 18941349,
+            "url": "https:\/\/cryptopanic.com\/news\/18941349\/Huge-Surges-Polygon-MATIC-Soars-After-Dragon-Fruit-Upgrade-Everlodge-ELDG-Continues-to-Deliver-Impressive-Returns-and-Uniswap-UNI-Hits-200M-Transactions-Milestone",
+            "created_at": "2023-10-02T08:07:54Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Uniswap Soaring User Engagement: How It\u2019s Transforming UNI Price?",
+            "published_at": "2023-10-02T06:41:18Z",
+            "slug": "Uniswap-Soaring-User-Engagement-How-Its-Transforming-UNI-Price",
+            "currencies": [
+                {
+                    "code": "UNI",
+                    "title": "Uniswap",
+                    "slug": "uniswap",
+                    "url": "https:\/\/cryptopanic.com\/news\/uniswap\/"
+                },
+                {
+                    "code": "MKR",
+                    "title": "Maker",
+                    "slug": "maker",
+                    "url": "https:\/\/cryptopanic.com\/news\/maker\/"
+                },
+                {
+                    "code": "OP",
+                    "title": "Optimism",
+                    "slug": "optimism",
+                    "url": "https:\/\/cryptopanic.com\/news\/optimism\/"
+                },
+                {
+                    "code": "CRV",
+                    "title": "Curve DAO",
+                    "slug": "curve-dao-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/curve-dao-token\/"
+                }
+            ],
+            "id": 18941126,
+            "url": "https:\/\/cryptopanic.com\/news\/18941126\/Uniswap-Soaring-User-Engagement-How-Its-Transforming-UNI-Price",
+            "created_at": "2023-10-02T06:41:18Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "Uniswap\u2019s rising user activity has this effect on UNI",
+            "published_at": "2023-10-01T18:30:20Z",
+            "slug": "Uniswaps-rising-user-activity-has-this-effect-on-UNI",
+            "currencies": [
+                {
+                    "code": "UNI",
+                    "title": "Uniswap",
+                    "slug": "uniswap",
+                    "url": "https:\/\/cryptopanic.com\/news\/uniswap\/"
+                }
+            ],
+            "id": 18940560,
+            "url": "https:\/\/cryptopanic.com\/news\/18940560\/Uniswaps-rising-user-activity-has-this-effect-on-UNI",
+            "created_at": "2023-10-01T18:30:20Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cointelegraph.com",
+            "source": {
+                "title": "CoinTelegraph",
+                "region": "en",
+                "domain": "cointelegraph.com",
+                "path": null
+            },
+            "title": "Chainlink multisig rules face speculation, Mixin offers $20M bounty: Finance Redefined",
+            "published_at": "2023-09-29T19:00:00Z",
+            "slug": "Chainlink-multisig-rules-face-speculation-Mixin-offers-20M-bounty-Finance-Redefined",
+            "currencies": [
+                {
+                    "code": "LINK",
+                    "title": "Chainlink",
+                    "slug": "chainlink",
+                    "url": "https:\/\/cryptopanic.com\/news\/chainlink\/"
+                },
+                {
+                    "code": "UNI",
+                    "title": "Uniswap",
+                    "slug": "uniswap",
+                    "url": "https:\/\/cryptopanic.com\/news\/uniswap\/"
+                }
+            ],
+            "id": 18938135,
+            "url": "https:\/\/cryptopanic.com\/news\/18938135\/Chainlink-multisig-rules-face-speculation-Mixin-offers-20M-bounty-Finance-Redefined",
+            "created_at": "2023-09-29T19:00:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "Uniswap: Will sellers exploit this roadblock?",
+            "published_at": "2023-09-29T02:30:34Z",
+            "slug": "Uniswap-Will-sellers-exploit-this-roadblock",
+            "currencies": [
+                {
+                    "code": "UNI",
+                    "title": "Uniswap",
+                    "slug": "uniswap",
+                    "url": "https:\/\/cryptopanic.com\/news\/uniswap\/"
+                }
+            ],
+            "id": 18936135,
+            "url": "https:\/\/cryptopanic.com\/news\/18936135\/Uniswap-Will-sellers-exploit-this-roadblock",
+            "created_at": "2023-09-29T02:30:34Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "Calcium Token Explodes 7,400% After Shiba Inu Rejection. Qube Shatters $3.25m Mark",
+            "published_at": "2023-09-28T21:08:02Z",
+            "slug": "Calcium-Token-Explodes-7400-After-Shiba-Inu-Rejection-Qube-Shatters-325m-Mark",
+            "currencies": [
+                {
+                    "code": "USDT",
+                    "title": "Tether",
+                    "slug": "tether",
+                    "url": "https:\/\/cryptopanic.com\/news\/tether\/"
+                },
+                {
+                    "code": "MATIC",
+                    "title": "Polygon",
+                    "slug": "matic-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-network\/"
+                },
+                {
+                    "code": "SHIB",
+                    "title": "Shiba Inu",
+                    "slug": "shiba-inu",
+                    "url": "https:\/\/cryptopanic.com\/news\/shiba-inu\/"
+                },
+                {
+                    "code": "UNI",
+                    "title": "Uniswap",
+                    "slug": "uniswap",
+                    "url": "https:\/\/cryptopanic.com\/news\/uniswap\/"
+                }
+            ],
+            "id": 18935818,
+            "url": "https:\/\/cryptopanic.com\/news\/18935818\/Calcium-Token-Explodes-7400-After-Shiba-Inu-Rejection-Qube-Shatters-325m-Mark",
+            "created_at": "2023-09-28T21:08:02Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "feeds2.benzinga.com",
+            "source": {
+                "title": "Benzinga",
+                "region": "en",
+                "domain": "feeds2.benzinga.com",
+                "path": null
+            },
+            "title": "Cryptocurrency Uniswap Rises More Than 4% In 24 hours",
+            "published_at": "2023-09-28T19:00:36Z",
+            "slug": "Cryptocurrency-Uniswap-Rises-More-Than-4-In-24-hours",
+            "currencies": [
+                {
+                    "code": "UNI",
+                    "title": "Uniswap",
+                    "slug": "uniswap",
+                    "url": "https:\/\/cryptopanic.com\/news\/uniswap\/"
+                }
+            ],
+            "id": 18935586,
+            "url": "https:\/\/cryptopanic.com\/news\/18935586\/Cryptocurrency-Uniswap-Rises-More-Than-4-In-24-hours",
+            "created_at": "2023-09-28T19:00:36Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "If You Missed the Crypto Bull Run These Tokens Are Your Chance: Bitcoin (BTC), Tradecurve Markets (TCRV),\u00a0 Uniswap (UNI)",
+            "published_at": "2023-09-28T12:00:00Z",
+            "slug": "If-You-Missed-the-Crypto-Bull-Run-These-Tokens-Are-Your-Chance-Bitcoin-BTC-Tradecurve-Markets-TCRV-Uniswap-UNI",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "UNI",
+                    "title": "Uniswap",
+                    "slug": "uniswap",
+                    "url": "https:\/\/cryptopanic.com\/news\/uniswap\/"
+                }
+            ],
+            "id": 18934572,
+            "url": "https:\/\/cryptopanic.com\/news\/18934572\/If-You-Missed-the-Crypto-Bull-Run-These-Tokens-Are-Your-Chance-Bitcoin-BTC-Tradecurve-Markets-TCRV-Uniswap-UNI",
+            "created_at": "2023-09-28T12:00:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptodaily.co.uk",
+            "source": {
+                "title": "CryptoDaily",
+                "region": "en",
+                "domain": "cryptodaily.co.uk",
+                "path": null
+            },
+            "title": "Uniswap\u2019s Seeks Funding Amidst Dropping UNI Rates",
+            "published_at": "2023-09-28T10:00:16Z",
+            "slug": "Uniswaps-Seeks-Funding-Amidst-Dropping-UNI-Rates",
+            "currencies": [
+                {
+                    "code": "UNI",
+                    "title": "Uniswap",
+                    "slug": "uniswap",
+                    "url": "https:\/\/cryptopanic.com\/news\/uniswap\/"
+                }
+            ],
+            "id": 18934059,
+            "url": "https:\/\/cryptopanic.com\/news\/18934059\/Uniswaps-Seeks-Funding-Amidst-Dropping-UNI-Rates",
+            "created_at": "2023-09-28T10:00:16Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinspeaker.com",
+            "source": {
+                "title": "Coinspeaker",
+                "region": "en",
+                "domain": "coinspeaker.com",
+                "path": null
+            },
+            "title": "Uniswap Foundation Seeks $62M in Funding",
+            "published_at": "2023-09-28T09:20:24Z",
+            "slug": "Uniswap-Foundation-Seeks-62M-in-Funding",
+            "currencies": [
+                {
+                    "code": "UNI",
+                    "title": "Uniswap",
+                    "slug": "uniswap",
+                    "url": "https:\/\/cryptopanic.com\/news\/uniswap\/"
+                }
+            ],
+            "id": 18933986,
+            "url": "https:\/\/cryptopanic.com\/news\/18933986\/Uniswap-Foundation-Seeks-62M-in-Funding",
+            "created_at": "2023-09-28T09:20:24Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coingabbar.com",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "coingabbar",
+                "region": "en",
+                "domain": "coingabbar.com",
+                "path": null
+            },
+            "title": "Crypto Daily Roundup, 28 Sep: The Latest News in the World of Crypto",
+            "published_at": "2023-09-28T08:30:00Z",
+            "slug": "Crypto-Daily-Roundup-28-Sep-The-Latest-News-in-the-World-of-Crypto",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "USDT",
+                    "title": "Tether",
+                    "slug": "tether",
+                    "url": "https:\/\/cryptopanic.com\/news\/tether\/"
+                },
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                },
+                {
+                    "code": "UNI",
+                    "title": "Uniswap",
+                    "slug": "uniswap",
+                    "url": "https:\/\/cryptopanic.com\/news\/uniswap\/"
+                },
+                {
+                    "code": "AVAX",
+                    "title": "Avalanche",
+                    "slug": "avalanche-2",
+                    "url": "https:\/\/cryptopanic.com\/news\/avalanche-2\/"
+                },
+                {
+                    "code": "ARB",
+                    "title": "Arbitrum",
+                    "slug": "arbitrum",
+                    "url": "https:\/\/cryptopanic.com\/news\/arbitrum\/"
+                },
+                {
+                    "code": "OP",
+                    "title": "Optimism",
+                    "slug": "optimism",
+                    "url": "https:\/\/cryptopanic.com\/news\/optimism\/"
+                },
+                {
+                    "code": "ALGO",
+                    "title": "Algorand",
+                    "slug": "algorand",
+                    "url": "https:\/\/cryptopanic.com\/news\/algorand\/"
+                }
+            ],
+            "id": 18933863,
+            "url": "https:\/\/cryptopanic.com\/news\/18933863\/Crypto-Daily-Roundup-28-Sep-The-Latest-News-in-the-World-of-Crypto",
+            "created_at": "2023-09-28T08:30:00Z"
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "UNI struggles to find a firm footing as Uniswap leaps forward. Assessing\u2026",
+            "published_at": "2023-09-28T06:30:04Z",
+            "slug": "UNI-struggles-to-find-a-firm-footing-as-Uniswap-leaps-forward-Assessing",
+            "currencies": [
+                {
+                    "code": "UNI",
+                    "title": "Uniswap",
+                    "slug": "uniswap",
+                    "url": "https:\/\/cryptopanic.com\/news\/uniswap\/"
+                }
+            ],
+            "id": 18933627,
+            "url": "https:\/\/cryptopanic.com\/news\/18933627\/UNI-struggles-to-find-a-firm-footing-as-Uniswap-leaps-forward-Assessing",
+            "created_at": "2023-09-28T06:30:04Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Uniswap Unveils Funding Plan For Ecosystem Revamp As UNI Price Hits 4-Month Low",
+            "published_at": "2023-09-28T03:00:06Z",
+            "slug": "Uniswap-Unveils-Funding-Plan-For-Ecosystem-Revamp-As-UNI-Price-Hits-4-Month-Low",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "LINK",
+                    "title": "Chainlink",
+                    "slug": "chainlink",
+                    "url": "https:\/\/cryptopanic.com\/news\/chainlink\/"
+                },
+                {
+                    "code": "UNI",
+                    "title": "Uniswap",
+                    "slug": "uniswap",
+                    "url": "https:\/\/cryptopanic.com\/news\/uniswap\/"
+                }
+            ],
+            "id": 18933445,
+            "url": "https:\/\/cryptopanic.com\/news\/18933445\/Uniswap-Unveils-Funding-Plan-For-Ecosystem-Revamp-As-UNI-Price-Hits-4-Month-Low",
+            "created_at": "2023-09-28T03:00:06Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cointelegraph.com",
+            "votes": {
+                "negative": 1,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "CoinTelegraph",
+                "region": "en",
+                "domain": "cointelegraph.com",
+                "path": null
+            },
+            "title": "Uniswap Foundation targets $62M in additional funding",
+            "published_at": "2023-09-27T18:40:00Z",
+            "slug": "Uniswap-Foundation-targets-62M-in-additional-funding",
+            "currencies": [
+                {
+                    "code": "UNI",
+                    "title": "Uniswap",
+                    "slug": "uniswap",
+                    "url": "https:\/\/cryptopanic.com\/news\/uniswap\/"
+                }
+            ],
+            "id": 18932808,
+            "url": "https:\/\/cryptopanic.com\/news\/18932808\/Uniswap-Foundation-targets-62M-in-additional-funding",
+            "created_at": "2023-09-27T18:40:00Z"
+        },
+        {
+            "kind": "news",
+            "domain": "coinjournal.net",
+            "source": {
+                "title": "CoinJournal",
+                "region": "en",
+                "domain": "coinjournal.net",
+                "path": null
+            },
+            "title": "Uniswap Foundation requests $62.37M to fund ecosytem growth",
+            "published_at": "2023-09-27T17:31:05Z",
+            "slug": "Uniswap-Foundation-requests-6237M-to-fund-ecosytem-growth",
+            "currencies": [
+                {
+                    "code": "UNI",
+                    "title": "Uniswap",
+                    "slug": "uniswap",
+                    "url": "https:\/\/cryptopanic.com\/news\/uniswap\/"
+                }
+            ],
+            "id": 18932642,
+            "url": "https:\/\/cryptopanic.com\/news\/18932642\/Uniswap-Foundation-requests-6237M-to-fund-ecosytem-growth",
+            "created_at": "2023-09-27T17:31:05Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "Uniswap (UNI) Holders Deposit 1.7 Million Tokens to Exchanges \u2013 Will it Impact October Prices?",
+            "published_at": "2023-09-26T16:30:00Z",
+            "slug": "Uniswap-UNI-Holders-Deposit-17-Million-Tokens-to-Exchanges-Will-it-Impact-October-Prices",
+            "currencies": [
+                {
+                    "code": "UNI",
+                    "title": "Uniswap",
+                    "slug": "uniswap",
+                    "url": "https:\/\/cryptopanic.com\/news\/uniswap\/"
+                }
+            ],
+            "id": 18929935,
+            "url": "https:\/\/cryptopanic.com\/news\/18929935\/Uniswap-UNI-Holders-Deposit-17-Million-Tokens-to-Exchanges-Will-it-Impact-October-Prices",
+            "created_at": "2023-09-26T16:30:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "medium.com",
+            "source": {
+                "title": "Decred Blog",
+                "region": "en",
+                "domain": "medium.com",
+                "path": null
+            },
+            "title": "Decred Journal\u200a\u2014\u200aAugust 2023",
+            "published_at": "2023-09-26T15:14:45Z",
+            "slug": "Decred-Journal-August-2023",
+            "currencies": [
+                {
+                    "code": "DCR",
+                    "title": "Decred",
+                    "slug": "decred",
+                    "url": "https:\/\/cryptopanic.com\/news\/decred\/"
+                },
+                {
+                    "code": "LTC",
+                    "title": "Litecoin",
+                    "slug": "litecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/litecoin\/"
+                },
+                {
+                    "code": "BCH",
+                    "title": "Bitcoin Cash",
+                    "slug": "bitcoin-cash",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin-cash\/"
+                },
+                {
+                    "code": "UNI",
+                    "title": "Uniswap",
+                    "slug": "uniswap",
+                    "url": "https:\/\/cryptopanic.com\/news\/uniswap\/"
+                },
+                {
+                    "code": "XMR",
+                    "title": "Monero",
+                    "slug": "monero",
+                    "url": "https:\/\/cryptopanic.com\/news\/monero\/"
+                },
+                {
+                    "code": "MKR",
+                    "title": "Maker",
+                    "slug": "maker",
+                    "url": "https:\/\/cryptopanic.com\/news\/maker\/"
+                },
+                {
+                    "code": "OP",
+                    "title": "Optimism",
+                    "slug": "optimism",
+                    "url": "https:\/\/cryptopanic.com\/news\/optimism\/"
+                }
+            ],
+            "id": 18929587,
+            "url": "https:\/\/cryptopanic.com\/news\/18929587\/Decred-Journal-August-2023",
+            "created_at": "2023-09-26T15:14:45Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

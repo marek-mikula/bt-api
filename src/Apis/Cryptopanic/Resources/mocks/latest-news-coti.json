@@ -1,0 +1,827 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=COTI&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "@COTInetwork",
+            "source": {
+                "title": "COTI Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@cotinetwork"
+            },
+            "title": "Calling all creative members! The gCOTI Community Campaign is here! Our awesome group of judges brings you the firs\u2026",
+            "published_at": "2023-07-10T13:06:14Z",
+            "slug": "Calling-all-creative-members-The-gCOTI-Community-Campaign-is-here-Our-awesome-group-of-judges-brings-you-the-firs",
+            "currencies": [
+                {
+                    "code": "COTI",
+                    "title": "COTI",
+                    "slug": "coti",
+                    "url": "https:\/\/cryptopanic.com\/news\/coti\/"
+                },
+                {
+                    "code": "DJED",
+                    "title": "Djed",
+                    "slug": "djed",
+                    "url": "https:\/\/cryptopanic.com\/news\/djed\/"
+                }
+            ],
+            "id": 18754992,
+            "url": "https:\/\/cryptopanic.com\/news\/18754992\/Calling-all-creative-members-The-gCOTI-Community-Campaign-is-here-Our-awesome-group-of-judges-brings-you-the-firs",
+            "created_at": "2023-07-10T13:06:14Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@COTInetwork",
+            "source": {
+                "title": "COTI Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@cotinetwork"
+            },
+            "title": "We are happy to announce an exciting \u2018DJED on BNB\u2019 TG AMA event with special guests from @chain_port and @ThenaFi_\u2026",
+            "published_at": "2023-07-10T09:39:36Z",
+            "slug": "We-are-happy-to-announce-an-exciting-DJED-on-BNB-TG-AMA-event-with-special-guests-from-chain_port-and-ThenaFi_",
+            "currencies": [
+                {
+                    "code": "COTI",
+                    "title": "COTI",
+                    "slug": "coti",
+                    "url": "https:\/\/cryptopanic.com\/news\/coti\/"
+                },
+                {
+                    "code": "DJED",
+                    "title": "Djed",
+                    "slug": "djed",
+                    "url": "https:\/\/cryptopanic.com\/news\/djed\/"
+                }
+            ],
+            "id": 18754993,
+            "url": "https:\/\/cryptopanic.com\/news\/18754993\/We-are-happy-to-announce-an-exciting-DJED-on-BNB-TG-AMA-event-with-special-guests-from-chain_port-and-ThenaFi_",
+            "created_at": "2023-07-10T09:39:36Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@COTInetwork",
+            "source": {
+                "title": "COTI Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@cotinetwork"
+            },
+            "title": "RT @GcotiCC:  So Who wants more $gcoti ?now that $gcoti APY boost is live, Your chance to win massive amounts is coming. Look out for the\u2026",
+            "published_at": "2023-07-08T17:27:47Z",
+            "slug": "RT-GcotiCC-So-Who-wants-more-gcoti-now-that-gcoti-APY-boost-is-live-Your-chance-to-win-massive-amounts-is-coming-Look-out-for-the",
+            "currencies": [
+                {
+                    "code": "COTI",
+                    "title": "COTI",
+                    "slug": "coti",
+                    "url": "https:\/\/cryptopanic.com\/news\/coti\/"
+                },
+                {
+                    "code": "DJED",
+                    "title": "Djed",
+                    "slug": "djed",
+                    "url": "https:\/\/cryptopanic.com\/news\/djed\/"
+                }
+            ],
+            "id": 18744923,
+            "url": "https:\/\/cryptopanic.com\/news\/18744923\/RT-GcotiCC-So-Who-wants-more-gcoti-now-that-gcoti-APY-boost-is-live-Your-chance-to-win-massive-amounts-is-coming-Look-out-for-the",
+            "created_at": "2023-07-08T17:27:47Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@COTInetwork",
+            "source": {
+                "title": "COTI Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@cotinetwork"
+            },
+            "title": "1\/2 The gCOTI APY Boost feature is now LIVE!\nYou can now deposit your gCOTI in the Treasury to boost your base APY\u2026",
+            "published_at": "2023-07-07T17:55:37Z",
+            "slug": "12-The-gCOTI-APY-Boost-feature-is-now-LIVE-You-can-now-deposit-your-gCOTI-in-the-Treasury-to-boost-your-base-APY",
+            "currencies": [
+                {
+                    "code": "COTI",
+                    "title": "COTI",
+                    "slug": "coti",
+                    "url": "https:\/\/cryptopanic.com\/news\/coti\/"
+                },
+                {
+                    "code": "DJED",
+                    "title": "Djed",
+                    "slug": "djed",
+                    "url": "https:\/\/cryptopanic.com\/news\/djed\/"
+                }
+            ],
+            "id": 18739186,
+            "url": "https:\/\/cryptopanic.com\/news\/18739186\/12-The-gCOTI-APY-Boost-feature-is-now-LIVE-You-can-now-deposit-your-gCOTI-in-the-Treasury-to-boost-your-base-APY",
+            "created_at": "2023-07-07T17:55:37Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@COTInetwork",
+            "source": {
+                "title": "COTI Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@cotinetwork"
+            },
+            "title": "Current DJED and SHEN total APRs \n\n$DJED $SHEN @MuesliSwapTeam @wingriderscom @MinswapDEX @ThenaFi_",
+            "published_at": "2023-07-06T16:02:35Z",
+            "slug": "Current-DJED-and-SHEN-total-APRs-DJED-SHEN-MuesliSwapTeam-wingriderscom-MinswapDEX-ThenaFi_",
+            "currencies": [
+                {
+                    "code": "COTI",
+                    "title": "COTI",
+                    "slug": "coti",
+                    "url": "https:\/\/cryptopanic.com\/news\/coti\/"
+                },
+                {
+                    "code": "DJED",
+                    "title": "Djed",
+                    "slug": "djed",
+                    "url": "https:\/\/cryptopanic.com\/news\/djed\/"
+                }
+            ],
+            "id": 18731379,
+            "url": "https:\/\/cryptopanic.com\/news\/18731379\/Current-DJED-and-SHEN-total-APRs-DJED-SHEN-MuesliSwapTeam-wingriderscom-MinswapDEX-ThenaFi_",
+            "created_at": "2023-07-06T16:02:35Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@COTInetwork",
+            "source": {
+                "title": "COTI Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@cotinetwork"
+            },
+            "title": "Get ready! The gCOTI APY Boost feature will be enabled starting next week, allowing users to deposit gCOTI in the T\u2026",
+            "published_at": "2023-06-29T16:08:53Z",
+            "slug": "Get-ready-The-gCOTI-APY-Boost-feature-will-be-enabled-starting-next-week-allowing-users-to-deposit-gCOTI-in-the-T",
+            "currencies": [
+                {
+                    "code": "COTI",
+                    "title": "COTI",
+                    "slug": "coti",
+                    "url": "https:\/\/cryptopanic.com\/news\/coti\/"
+                },
+                {
+                    "code": "DJED",
+                    "title": "Djed",
+                    "slug": "djed",
+                    "url": "https:\/\/cryptopanic.com\/news\/djed\/"
+                }
+            ],
+            "id": 18684405,
+            "url": "https:\/\/cryptopanic.com\/news\/18684405\/Get-ready-The-gCOTI-APY-Boost-feature-will-be-enabled-starting-next-week-allowing-users-to-deposit-gCOTI-in-the-T",
+            "created_at": "2023-06-29T16:08:53Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@COTInetwork",
+            "source": {
+                "title": "COTI Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@cotinetwork"
+            },
+            "title": "1\/4 Dear community, \nWe at COTI are always here, listening to your feedback and taking it into consideration.\nAs me\u2026",
+            "published_at": "2023-06-29T15:08:10Z",
+            "slug": "14-Dear-community-We-at-COTI-are-always-here-listening-to-your-feedback-and-taking-it-into-consideration-As-me",
+            "currencies": [
+                {
+                    "code": "COTI",
+                    "title": "COTI",
+                    "slug": "coti",
+                    "url": "https:\/\/cryptopanic.com\/news\/coti\/"
+                },
+                {
+                    "code": "DJED",
+                    "title": "Djed",
+                    "slug": "djed",
+                    "url": "https:\/\/cryptopanic.com\/news\/djed\/"
+                }
+            ],
+            "id": 18684406,
+            "url": "https:\/\/cryptopanic.com\/news\/18684406\/14-Dear-community-We-at-COTI-are-always-here-listening-to-your-feedback-and-taking-it-into-consideration-As-me",
+            "created_at": "2023-06-29T15:08:10Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@COTInetwork",
+            "source": {
+                "title": "COTI Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@cotinetwork"
+            },
+            "title": "The 1st phase of the gCOTI Community Campaign is here! \nFrom top social media personalities to tool builders and No\u2026",
+            "published_at": "2023-06-27T13:00:06Z",
+            "slug": "The-1st-phase-of-the-gCOTI-Community-Campaign-is-here-From-top-social-media-personalities-to-tool-builders-and-No",
+            "currencies": [
+                {
+                    "code": "COTI",
+                    "title": "COTI",
+                    "slug": "coti",
+                    "url": "https:\/\/cryptopanic.com\/news\/coti\/"
+                },
+                {
+                    "code": "DJED",
+                    "title": "Djed",
+                    "slug": "djed",
+                    "url": "https:\/\/cryptopanic.com\/news\/djed\/"
+                }
+            ],
+            "id": 18668111,
+            "url": "https:\/\/cryptopanic.com\/news\/18668111\/The-1st-phase-of-the-gCOTI-Community-Campaign-is-here-From-top-social-media-personalities-to-tool-builders-and-No",
+            "created_at": "2023-06-27T13:00:06Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@COTInetwork",
+            "source": {
+                "title": "COTI Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@cotinetwork"
+            },
+            "title": "RT @BNBCHAIN: Meet the latest projects launching on BNB Chain ",
+            "published_at": "2023-06-25T08:21:22Z",
+            "slug": "RT-BNBCHAIN-Meet-the-latest-projects-launching-on-BNB-Chain",
+            "currencies": [
+                {
+                    "code": "COTI",
+                    "title": "COTI",
+                    "slug": "coti",
+                    "url": "https:\/\/cryptopanic.com\/news\/coti\/"
+                },
+                {
+                    "code": "DJED",
+                    "title": "Djed",
+                    "slug": "djed",
+                    "url": "https:\/\/cryptopanic.com\/news\/djed\/"
+                }
+            ],
+            "id": 18653667,
+            "url": "https:\/\/cryptopanic.com\/news\/18653667\/RT-BNBCHAIN-Meet-the-latest-projects-launching-on-BNB-Chain",
+            "created_at": "2023-06-25T08:21:22Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@COTInetwork",
+            "source": {
+                "title": "COTI Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@cotinetwork"
+            },
+            "title": "COTI's CEO, @shahafbg talks about recent events in the crypto world, and shares some COTI updates including Ledger,\u2026",
+            "published_at": "2023-06-23T17:20:56Z",
+            "slug": "COTIs-CEO-shahafbg-talks-about-recent-events-in-the-crypto-world-and-shares-some-COTI-updates-including-Ledger",
+            "currencies": [
+                {
+                    "code": "COTI",
+                    "title": "COTI",
+                    "slug": "coti",
+                    "url": "https:\/\/cryptopanic.com\/news\/coti\/"
+                },
+                {
+                    "code": "DJED",
+                    "title": "Djed",
+                    "slug": "djed",
+                    "url": "https:\/\/cryptopanic.com\/news\/djed\/"
+                }
+            ],
+            "id": 18643470,
+            "url": "https:\/\/cryptopanic.com\/news\/18643470\/COTIs-CEO-shahafbg-talks-about-recent-events-in-the-crypto-world-and-shares-some-COTI-updates-including-Ledger",
+            "created_at": "2023-06-23T17:20:56Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@COTInetwork",
+            "source": {
+                "title": "COTI Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@cotinetwork"
+            },
+            "title": "DJED is now LIVE on @BNBCHAIN! You can now bridge your DJED across to BNB chain via @chain_port and start using it\u2026",
+            "published_at": "2023-06-22T13:11:18Z",
+            "slug": "DJED-is-now-LIVE-on-BNBCHAIN-You-can-now-bridge-your-DJED-across-to-BNB-chain-via-chain_port-and-start-using-it",
+            "currencies": [
+                {
+                    "code": "COTI",
+                    "title": "COTI",
+                    "slug": "coti",
+                    "url": "https:\/\/cryptopanic.com\/news\/coti\/"
+                },
+                {
+                    "code": "DJED",
+                    "title": "Djed",
+                    "slug": "djed",
+                    "url": "https:\/\/cryptopanic.com\/news\/djed\/"
+                }
+            ],
+            "id": 18635607,
+            "url": "https:\/\/cryptopanic.com\/news\/18635607\/DJED-is-now-LIVE-on-BNBCHAIN-You-can-now-bridge-your-DJED-across-to-BNB-chain-via-chain_port-and-start-using-it",
+            "created_at": "2023-06-22T13:11:18Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@COTInetwork",
+            "source": {
+                "title": "COTI Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@cotinetwork"
+            },
+            "title": "RT @GcotiCC: Hey $coti fam this is the official judges account for the GCoti campaign , make sure you follow this account for all updates\u2026",
+            "published_at": "2023-06-22T12:11:26Z",
+            "slug": "RT-GcotiCC-Hey-coti-fam-this-is-the-official-judges-account-for-the-GCoti-campaign-make-sure-you-follow-this-account-for-all-updates",
+            "currencies": [
+                {
+                    "code": "COTI",
+                    "title": "COTI",
+                    "slug": "coti",
+                    "url": "https:\/\/cryptopanic.com\/news\/coti\/"
+                },
+                {
+                    "code": "DJED",
+                    "title": "Djed",
+                    "slug": "djed",
+                    "url": "https:\/\/cryptopanic.com\/news\/djed\/"
+                }
+            ],
+            "id": 18635608,
+            "url": "https:\/\/cryptopanic.com\/news\/18635608\/RT-GcotiCC-Hey-coti-fam-this-is-the-official-judges-account-for-the-GCoti-campaign-make-sure-you-follow-this-account-for-all-updates",
+            "created_at": "2023-06-22T12:11:26Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@COTInetwork",
+            "source": {
+                "title": "COTI Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@cotinetwork"
+            },
+            "title": "Thank you to everyone who applied to be a judge on the $gCOTI Community Campaign. But there can be only one winner,\u2026",
+            "published_at": "2023-06-21T12:33:29Z",
+            "slug": "Thank-you-to-everyone-who-applied-to-be-a-judge-on-the-gCOTI-Community-Campaign-But-there-can-be-only-one-winner",
+            "currencies": [
+                {
+                    "code": "COTI",
+                    "title": "COTI",
+                    "slug": "coti",
+                    "url": "https:\/\/cryptopanic.com\/news\/coti\/"
+                },
+                {
+                    "code": "DJED",
+                    "title": "Djed",
+                    "slug": "djed",
+                    "url": "https:\/\/cryptopanic.com\/news\/djed\/"
+                }
+            ],
+            "id": 18626968,
+            "url": "https:\/\/cryptopanic.com\/news\/18626968\/Thank-you-to-everyone-who-applied-to-be-a-judge-on-the-gCOTI-Community-Campaign-But-there-can-be-only-one-winner",
+            "created_at": "2023-06-21T12:33:29Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@COTInetwork",
+            "source": {
+                "title": "COTI Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@cotinetwork"
+            },
+            "title": "There\u2019s only a few hours left to apply to be a judge for the gCOTI Community Campaign! The 12th panel spot is open\u2026",
+            "published_at": "2023-06-20T10:50:36Z",
+            "slug": "Theres-only-a-few-hours-left-to-apply-to-be-a-judge-for-the-gCOTI-Community-Campaign-The-12th-panel-spot-is-open",
+            "currencies": [
+                {
+                    "code": "COTI",
+                    "title": "COTI",
+                    "slug": "coti",
+                    "url": "https:\/\/cryptopanic.com\/news\/coti\/"
+                },
+                {
+                    "code": "DJED",
+                    "title": "Djed",
+                    "slug": "djed",
+                    "url": "https:\/\/cryptopanic.com\/news\/djed\/"
+                }
+            ],
+            "id": 18618996,
+            "url": "https:\/\/cryptopanic.com\/news\/18618996\/Theres-only-a-few-hours-left-to-apply-to-be-a-judge-for-the-gCOTI-Community-Campaign-The-12th-panel-spot-is-open",
+            "created_at": "2023-06-20T10:50:36Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@COTInetwork",
+            "source": {
+                "title": "COTI Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@cotinetwork"
+            },
+            "title": "We\u2019ve been asked \u2018wen Ledger\u2019 countless times, and we are excited to announce that @Ledger Live now supports Native\u2026",
+            "published_at": "2023-06-19T12:17:35Z",
+            "slug": "Weve-been-asked-wen-Ledger-countless-times-and-we-are-excited-to-announce-that-Ledger-Live-now-supports-Native",
+            "currencies": [
+                {
+                    "code": "COTI",
+                    "title": "COTI",
+                    "slug": "coti",
+                    "url": "https:\/\/cryptopanic.com\/news\/coti\/"
+                },
+                {
+                    "code": "DJED",
+                    "title": "Djed",
+                    "slug": "djed",
+                    "url": "https:\/\/cryptopanic.com\/news\/djed\/"
+                }
+            ],
+            "id": 18611005,
+            "url": "https:\/\/cryptopanic.com\/news\/18611005\/Weve-been-asked-wen-Ledger-countless-times-and-we-are-excited-to-announce-that-Ledger-Live-now-supports-Native",
+            "created_at": "2023-06-19T12:17:35Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@COTInetwork",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "COTI Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@cotinetwork"
+            },
+            "title": "The gCOTI Community Campaign is coming!\nWhether you're a content creator, tool builder, or simply have some creativ\u2026",
+            "published_at": "2023-06-15T17:07:50Z",
+            "slug": "The-gCOTI-Community-Campaign-is-coming-Whether-youre-a-content-creator-tool-builder-or-simply-have-some-creativ",
+            "currencies": [
+                {
+                    "code": "COTI",
+                    "title": "COTI",
+                    "slug": "coti",
+                    "url": "https:\/\/cryptopanic.com\/news\/coti\/"
+                },
+                {
+                    "code": "DJED",
+                    "title": "Djed",
+                    "slug": "djed",
+                    "url": "https:\/\/cryptopanic.com\/news\/djed\/"
+                }
+            ],
+            "id": 18585802,
+            "url": "https:\/\/cryptopanic.com\/news\/18585802\/The-gCOTI-Community-Campaign-is-coming-Whether-youre-a-content-creator-tool-builder-or-simply-have-some-creativ",
+            "created_at": "2023-06-15T17:07:50Z"
+        },
+        {
+            "kind": "news",
+            "domain": "@COTInetwork",
+            "source": {
+                "title": "COTI Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@cotinetwork"
+            },
+            "title": "Throughout recent market volatility, DJED\u2019s protocol proved its resilience, maintaining its peg. Changing condition\u2026",
+            "published_at": "2023-06-14T15:41:53Z",
+            "slug": "Throughout-recent-market-volatility-DJEDs-protocol-proved-its-resilience-maintaining-its-peg-Changing-condition",
+            "currencies": [
+                {
+                    "code": "COTI",
+                    "title": "COTI",
+                    "slug": "coti",
+                    "url": "https:\/\/cryptopanic.com\/news\/coti\/"
+                },
+                {
+                    "code": "DJED",
+                    "title": "Djed",
+                    "slug": "djed",
+                    "url": "https:\/\/cryptopanic.com\/news\/djed\/"
+                }
+            ],
+            "id": 18577960,
+            "url": "https:\/\/cryptopanic.com\/news\/18577960\/Throughout-recent-market-volatility-DJEDs-protocol-proved-its-resilience-maintaining-its-peg-Changing-condition",
+            "created_at": "2023-06-14T15:41:53Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@COTInetwork",
+            "source": {
+                "title": "COTI Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@cotinetwork"
+            },
+            "title": "As part of the preparation for Ledger integration on Mainnet, we've deployed it on COTI's Testnet first. We'd like\u2026",
+            "published_at": "2023-06-12T13:27:44Z",
+            "slug": "As-part-of-the-preparation-for-Ledger-integration-on-Mainnet-weve-deployed-it-on-COTIs-Testnet-first-Wed-like",
+            "currencies": [
+                {
+                    "code": "COTI",
+                    "title": "COTI",
+                    "slug": "coti",
+                    "url": "https:\/\/cryptopanic.com\/news\/coti\/"
+                },
+                {
+                    "code": "DJED",
+                    "title": "Djed",
+                    "slug": "djed",
+                    "url": "https:\/\/cryptopanic.com\/news\/djed\/"
+                }
+            ],
+            "id": 18561199,
+            "url": "https:\/\/cryptopanic.com\/news\/18561199\/As-part-of-the-preparation-for-Ledger-integration-on-Mainnet-weve-deployed-it-on-COTIs-Testnet-first-Wed-like",
+            "created_at": "2023-06-12T13:27:44Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@COTInetwork",
+            "source": {
+                "title": "COTI Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@cotinetwork"
+            },
+            "title": "gCOTI update: \n1\/2 In light of recent events, we have decided to temporarily suspend the gCOTI exchange campaign un\u2026",
+            "published_at": "2023-06-11T15:45:25Z",
+            "slug": "gCOTI-update-12-In-light-of-recent-events-we-have-decided-to-temporarily-suspend-the-gCOTI-exchange-campaign-un",
+            "currencies": [
+                {
+                    "code": "COTI",
+                    "title": "COTI",
+                    "slug": "coti",
+                    "url": "https:\/\/cryptopanic.com\/news\/coti\/"
+                },
+                {
+                    "code": "DJED",
+                    "title": "Djed",
+                    "slug": "djed",
+                    "url": "https:\/\/cryptopanic.com\/news\/djed\/"
+                }
+            ],
+            "id": 18555036,
+            "url": "https:\/\/cryptopanic.com\/news\/18555036\/gCOTI-update-12-In-light-of-recent-events-we-have-decided-to-temporarily-suspend-the-gCOTI-exchange-campaign-un",
+            "created_at": "2023-06-11T15:45:25Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@COTInetwork",
+            "source": {
+                "title": "COTI Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@cotinetwork"
+            },
+            "title": "We\u2019ve collated the names of everyone who got a perfect score in the COTI Trustchain Trivia competition and drawn ou\u2026",
+            "published_at": "2023-06-08T19:03:27Z",
+            "slug": "Weve-collated-the-names-of-everyone-who-got-a-perfect-score-in-the-COTI-Trustchain-Trivia-competition-and-drawn-ou",
+            "currencies": [
+                {
+                    "code": "COTI",
+                    "title": "COTI",
+                    "slug": "coti",
+                    "url": "https:\/\/cryptopanic.com\/news\/coti\/"
+                },
+                {
+                    "code": "DJED",
+                    "title": "Djed",
+                    "slug": "djed",
+                    "url": "https:\/\/cryptopanic.com\/news\/djed\/"
+                }
+            ],
+            "id": 18535802,
+            "url": "https:\/\/cryptopanic.com\/news\/18535802\/Weve-collated-the-names-of-everyone-who-got-a-perfect-score-in-the-COTI-Trustchain-Trivia-competition-and-drawn-ou",
+            "created_at": "2023-06-08T19:03:27Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

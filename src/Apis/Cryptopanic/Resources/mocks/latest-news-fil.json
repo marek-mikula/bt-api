@@ -1,0 +1,875 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=FIL&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "I asked ChatGPT to predict Filecoin\u2019s prices as Q4 2023 begins",
+            "published_at": "2023-10-01T14:20:47Z",
+            "slug": "I-asked-ChatGPT-to-predict-Filecoins-prices-as-Q4-2023-begins",
+            "currencies": [
+                {
+                    "code": "FIL",
+                    "title": "Filecoin",
+                    "slug": "filecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/filecoin\/"
+                }
+            ],
+            "id": 18940326,
+            "url": "https:\/\/cryptopanic.com\/news\/18940326\/I-asked-ChatGPT-to-predict-Filecoins-prices-as-Q4-2023-begins",
+            "created_at": "2023-10-01T14:20:47Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinedition.com",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 1,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "coinedition",
+                "region": "en",
+                "domain": "coinedition.com",
+                "path": null
+            },
+            "title": "Is Filecoin a Fraud Orchestrated by ETH Foundation and CCP entities?",
+            "published_at": "2023-09-29T15:32:00Z",
+            "slug": "Is-Filecoin-a-Fraud-Orchestrated-by-ETH-Foundation-and-CCP-entities",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "FIL",
+                    "title": "Filecoin",
+                    "slug": "filecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/filecoin\/"
+                }
+            ],
+            "id": 18937748,
+            "url": "https:\/\/cryptopanic.com\/news\/18937748\/Is-Filecoin-a-Fraud-Orchestrated-by-ETH-Foundation-and-CCP-entities",
+            "created_at": "2023-09-29T15:32:00Z"
+        },
+        {
+            "kind": "news",
+            "domain": "cryptodaily.co.uk",
+            "source": {
+                "title": "CryptoDaily",
+                "region": "en",
+                "domain": "cryptodaily.co.uk",
+                "path": null
+            },
+            "title": "Three Reasons Traders Are Adding Stacks (STX), Kangamoon (KANG) Filecoin (FIL) and to Their Crypto Portfolio",
+            "published_at": "2023-09-28T14:58:55Z",
+            "slug": "Three-Reasons-Traders-Are-Adding-Stacks-STX-Kangamoon-KANG-Filecoin-FIL-and-to-Their-Crypto-Portfolio",
+            "currencies": [
+                {
+                    "code": "FIL",
+                    "title": "Filecoin",
+                    "slug": "filecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/filecoin\/"
+                },
+                {
+                    "code": "STX",
+                    "title": "Stacks",
+                    "slug": "blockstack",
+                    "url": "https:\/\/cryptopanic.com\/news\/blockstack\/"
+                }
+            ],
+            "id": 18934960,
+            "url": "https:\/\/cryptopanic.com\/news\/18934960\/Three-Reasons-Traders-Are-Adding-Stacks-STX-Kangamoon-KANG-Filecoin-FIL-and-to-Their-Crypto-Portfolio",
+            "created_at": "2023-09-28T14:58:55Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptodaily.co.uk",
+            "source": {
+                "title": "CryptoDaily",
+                "region": "en",
+                "domain": "cryptodaily.co.uk",
+                "path": null
+            },
+            "title": "Everlodge (ELDG) Stunds With a Stellar Presale Performance, Lazarus Group Now a Tron (TRX) Whale, BIT Launches Filecoin (FIL) Options Trading",
+            "published_at": "2023-09-28T14:09:11Z",
+            "slug": "Everlodge-ELDG-Stunds-With-a-Stellar-Presale-Performance-Lazarus-Group-Now-a-Tron-TRX-Whale-BIT-Launches-Filecoin-FIL-Options-Trading",
+            "currencies": [
+                {
+                    "code": "TRX",
+                    "title": "TRON",
+                    "slug": "tron",
+                    "url": "https:\/\/cryptopanic.com\/news\/tron\/"
+                },
+                {
+                    "code": "XLM",
+                    "title": "Stellar",
+                    "slug": "stellar",
+                    "url": "https:\/\/cryptopanic.com\/news\/stellar\/"
+                },
+                {
+                    "code": "FIL",
+                    "title": "Filecoin",
+                    "slug": "filecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/filecoin\/"
+                }
+            ],
+            "id": 18934795,
+            "url": "https:\/\/cryptopanic.com\/news\/18934795\/Everlodge-ELDG-Stunds-With-a-Stellar-Presale-Performance-Lazarus-Group-Now-a-Tron-TRX-Whale-BIT-Launches-Filecoin-FIL-Options-Trading",
+            "created_at": "2023-09-28T14:09:11Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "bitcoinist.com",
+            "source": {
+                "title": "Bitcoinist",
+                "region": "en",
+                "domain": "bitcoinist.com",
+                "path": null
+            },
+            "title": "On-chain Investigator Digs Into Ethereum Foundation\u2019s Connection To The Filecoin ICO",
+            "published_at": "2023-09-27T23:00:33Z",
+            "slug": "On-chain-Investigator-Digs-Into-Ethereum-Foundations-Connection-To-The-Filecoin-ICO",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "FIL",
+                    "title": "Filecoin",
+                    "slug": "filecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/filecoin\/"
+                }
+            ],
+            "id": 18933242,
+            "url": "https:\/\/cryptopanic.com\/news\/18933242\/On-chain-Investigator-Digs-Into-Ethereum-Foundations-Connection-To-The-Filecoin-ICO",
+            "created_at": "2023-09-27T23:00:33Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "FIL could offer a buying opportunity if it tests the $3 support. Here\u2019s why\u2026",
+            "published_at": "2023-09-26T05:30:50Z",
+            "slug": "FIL-could-offer-a-buying-opportunity-if-it-tests-the-3-support-Heres-why",
+            "currencies": [
+                {
+                    "code": "FIL",
+                    "title": "Filecoin",
+                    "slug": "filecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/filecoin\/"
+                }
+            ],
+            "id": 18928103,
+            "url": "https:\/\/cryptopanic.com\/news\/18928103\/FIL-could-offer-a-buying-opportunity-if-it-tests-the-3-support-Heres-why",
+            "created_at": "2023-09-26T05:30:50Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "Here\u2019s what ChatGPT says about Filecoin\u2019s upcoming price trajectory",
+            "published_at": "2023-09-24T14:20:05Z",
+            "slug": "Heres-what-ChatGPT-says-about-Filecoins-upcoming-price-trajectory",
+            "currencies": [
+                {
+                    "code": "FIL",
+                    "title": "Filecoin",
+                    "slug": "filecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/filecoin\/"
+                }
+            ],
+            "id": 18924777,
+            "url": "https:\/\/cryptopanic.com\/news\/18924777\/Heres-what-ChatGPT-says-about-Filecoins-upcoming-price-trajectory",
+            "created_at": "2023-09-24T14:20:05Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Privacy For All: Brave To Integrate Zcash Protocol On Native Crypto Wallet",
+            "published_at": "2023-09-22T18:00:43Z",
+            "slug": "Privacy-For-All-Brave-To-Integrate-Zcash-Protocol-On-Native-Crypto-Wallet",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                },
+                {
+                    "code": "FIL",
+                    "title": "Filecoin",
+                    "slug": "filecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/filecoin\/"
+                },
+                {
+                    "code": "ZEC",
+                    "title": "Zcash",
+                    "slug": "zcash",
+                    "url": "https:\/\/cryptopanic.com\/news\/zcash\/"
+                }
+            ],
+            "id": 18922548,
+            "url": "https:\/\/cryptopanic.com\/news\/18922548\/Privacy-For-All-Brave-To-Integrate-Zcash-Protocol-On-Native-Crypto-Wallet",
+            "created_at": "2023-09-22T18:00:43Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinjournal.net",
+            "source": {
+                "title": "CoinJournal",
+                "region": "en",
+                "domain": "coinjournal.net",
+                "path": null
+            },
+            "title": "Brave partners with Electric Coin and Filecoin to advance Web3 privacy",
+            "published_at": "2023-09-22T17:18:38Z",
+            "slug": "Brave-partners-with-Electric-Coin-and-Filecoin-to-advance-Web3-privacy",
+            "currencies": [
+                {
+                    "code": "FIL",
+                    "title": "Filecoin",
+                    "slug": "filecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/filecoin\/"
+                },
+                {
+                    "code": "ZEC",
+                    "title": "Zcash",
+                    "slug": "zcash",
+                    "url": "https:\/\/cryptopanic.com\/news\/zcash\/"
+                }
+            ],
+            "id": 18922443,
+            "url": "https:\/\/cryptopanic.com\/news\/18922443\/Brave-partners-with-Electric-Coin-and-Filecoin-to-advance-Web3-privacy",
+            "created_at": "2023-09-22T17:18:38Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "BIT Exchange Rolls Out Filecoin Options Trading Amid SEC Securities Classification",
+            "published_at": "2023-09-22T06:00:00Z",
+            "slug": "BIT-Exchange-Rolls-Out-Filecoin-Options-Trading-Amid-SEC-Securities-Classification",
+            "currencies": [
+                {
+                    "code": "FIL",
+                    "title": "Filecoin",
+                    "slug": "filecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/filecoin\/"
+                }
+            ],
+            "id": 18920829,
+            "url": "https:\/\/cryptopanic.com\/news\/18920829\/BIT-Exchange-Rolls-Out-Filecoin-Options-Trading-Amid-SEC-Securities-Classification",
+            "created_at": "2023-09-22T06:00:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "feeds2.benzinga.com",
+            "source": {
+                "title": "Benzinga",
+                "region": "en",
+                "domain": "feeds2.benzinga.com",
+                "path": null
+            },
+            "title": "Cryptocurrency Filecoin Decreases More Than 3% Within 24 hours",
+            "published_at": "2023-09-21T15:01:05Z",
+            "slug": "Cryptocurrency-Filecoin-Decreases-More-Than-3-Within-24-hours",
+            "currencies": [
+                {
+                    "code": "FIL",
+                    "title": "Filecoin",
+                    "slug": "filecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/filecoin\/"
+                }
+            ],
+            "id": 18919565,
+            "url": "https:\/\/cryptopanic.com\/news\/18919565\/Cryptocurrency-Filecoin-Decreases-More-Than-3-Within-24-hours",
+            "created_at": "2023-09-21T15:01:05Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "What ChatGPT says about Filecoin\u2019s price at the end of 2023",
+            "published_at": "2023-09-17T14:20:05Z",
+            "slug": "What-ChatGPT-says-about-Filecoins-price-at-the-end-of-2023",
+            "currencies": [
+                {
+                    "code": "FIL",
+                    "title": "Filecoin",
+                    "slug": "filecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/filecoin\/"
+                }
+            ],
+            "id": 18909041,
+            "url": "https:\/\/cryptopanic.com\/news\/18909041\/What-ChatGPT-says-about-Filecoins-price-at-the-end-of-2023",
+            "created_at": "2023-09-17T14:20:05Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "dailyhodl.com",
+            "votes": {
+                "negative": 0,
+                "positive": 2,
+                "important": 1,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 1,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "The Daily Hodl",
+                "region": "en",
+                "domain": "dailyhodl.com",
+                "path": null
+            },
+            "title": "Two Ethereum Rivals Overtake Cardano on One Critical Metric, Says Crypto Analytics Firm Santiment",
+            "published_at": "2023-09-14T11:45:26Z",
+            "slug": "Two-Ethereum-Rivals-Overtake-Cardano-on-One-Critical-Metric-Says-Crypto-Analytics-Firm-Santiment",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "ADA",
+                    "title": "Cardano",
+                    "slug": "cardano",
+                    "url": "https:\/\/cryptopanic.com\/news\/cardano\/"
+                },
+                {
+                    "code": "DOT",
+                    "title": "Polkadot",
+                    "slug": "polkadot",
+                    "url": "https:\/\/cryptopanic.com\/news\/polkadot\/"
+                },
+                {
+                    "code": "LINK",
+                    "title": "Chainlink",
+                    "slug": "chainlink",
+                    "url": "https:\/\/cryptopanic.com\/news\/chainlink\/"
+                },
+                {
+                    "code": "FIL",
+                    "title": "Filecoin",
+                    "slug": "filecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/filecoin\/"
+                },
+                {
+                    "code": "KSM",
+                    "title": "Kusama",
+                    "slug": "kusama",
+                    "url": "https:\/\/cryptopanic.com\/news\/kusama\/"
+                }
+            ],
+            "id": 18902833,
+            "url": "https:\/\/cryptopanic.com\/news\/18902833\/Two-Ethereum-Rivals-Overtake-Cardano-on-One-Critical-Metric-Says-Crypto-Analytics-Firm-Santiment",
+            "created_at": "2023-09-14T11:45:26Z"
+        },
+        {
+            "kind": "news",
+            "domain": "finbold.com",
+            "votes": {
+                "negative": 1,
+                "positive": 1,
+                "important": 1,
+                "liked": 1,
+                "disliked": 1,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 2,
+                "comments": 0
+            },
+            "source": {
+                "title": "Finbold",
+                "region": "en",
+                "domain": "finbold.com",
+                "path": null
+            },
+            "title": "Top 10 cryptocurrencies by GitHub activity in last 30 days",
+            "published_at": "2023-09-14T09:39:54Z",
+            "slug": "Top-10-cryptocurrencies-by-GitHub-activity-in-last-30-days",
+            "currencies": [
+                {
+                    "code": "ADA",
+                    "title": "Cardano",
+                    "slug": "cardano",
+                    "url": "https:\/\/cryptopanic.com\/news\/cardano\/"
+                },
+                {
+                    "code": "DOT",
+                    "title": "Polkadot",
+                    "slug": "polkadot",
+                    "url": "https:\/\/cryptopanic.com\/news\/polkadot\/"
+                },
+                {
+                    "code": "LINK",
+                    "title": "Chainlink",
+                    "slug": "chainlink",
+                    "url": "https:\/\/cryptopanic.com\/news\/chainlink\/"
+                },
+                {
+                    "code": "ATOM",
+                    "title": "Cosmos Hub",
+                    "slug": "cosmos",
+                    "url": "https:\/\/cryptopanic.com\/news\/cosmos\/"
+                },
+                {
+                    "code": "HBAR",
+                    "title": "Hedera",
+                    "slug": "hedera-hashgraph",
+                    "url": "https:\/\/cryptopanic.com\/news\/hedera-hashgraph\/"
+                },
+                {
+                    "code": "FIL",
+                    "title": "Filecoin",
+                    "slug": "filecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/filecoin\/"
+                }
+            ],
+            "id": 18902466,
+            "url": "https:\/\/cryptopanic.com\/news\/18902466\/Top-10-cryptocurrencies-by-GitHub-activity-in-last-30-days",
+            "created_at": "2023-09-14T09:39:54Z"
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "TON Jumps By Nearly 8% Following Wallet Integration On Telegram",
+            "published_at": "2023-09-13T15:00:13Z",
+            "slug": "TON-Jumps-By-Nearly-8-Following-Wallet-Integration-On-Telegram",
+            "currencies": [
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "TON",
+                    "title": "Toncoin",
+                    "slug": "the-open-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/the-open-network\/"
+                },
+                {
+                    "code": "FIL",
+                    "title": "Filecoin",
+                    "slug": "filecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/filecoin\/"
+                }
+            ],
+            "id": 18900715,
+            "url": "https:\/\/cryptopanic.com\/news\/18900715\/TON-Jumps-By-Nearly-8-Following-Wallet-Integration-On-Telegram",
+            "created_at": "2023-09-13T15:00:13Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "How Chainlink, Filecoin are keeping networks in check amid torrid market",
+            "published_at": "2023-09-13T11:30:57Z",
+            "slug": "How-Chainlink-Filecoin-are-keeping-networks-in-check-amid-torrid-market",
+            "currencies": [
+                {
+                    "code": "LINK",
+                    "title": "Chainlink",
+                    "slug": "chainlink",
+                    "url": "https:\/\/cryptopanic.com\/news\/chainlink\/"
+                },
+                {
+                    "code": "FIL",
+                    "title": "Filecoin",
+                    "slug": "filecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/filecoin\/"
+                }
+            ],
+            "id": 18900010,
+            "url": "https:\/\/cryptopanic.com\/news\/18900010\/How-Chainlink-Filecoin-are-keeping-networks-in-check-amid-torrid-market",
+            "created_at": "2023-09-13T11:30:57Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Arthur Hayes Predicts Early 2024 Crypto Bull Run And Ascent Of Filecoin",
+            "published_at": "2023-09-13T08:10:38Z",
+            "slug": "Arthur-Hayes-Predicts-Early-2024-Crypto-Bull-Run-And-Ascent-Of-Filecoin",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "FIL",
+                    "title": "Filecoin",
+                    "slug": "filecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/filecoin\/"
+                }
+            ],
+            "id": 18899465,
+            "url": "https:\/\/cryptopanic.com\/news\/18899465\/Arthur-Hayes-Predicts-Early-2024-Crypto-Bull-Run-And-Ascent-Of-Filecoin",
+            "created_at": "2023-09-13T08:10:38Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 1,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Beyond XRP Euphoria And $0.5 Resistance: Bulls\u2019 Next Steps",
+            "published_at": "2023-09-13T07:00:29Z",
+            "slug": "Beyond-XRP-Euphoria-And-05-Resistance-Bulls-Next-Steps",
+            "currencies": [
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                },
+                {
+                    "code": "LINK",
+                    "title": "Chainlink",
+                    "slug": "chainlink",
+                    "url": "https:\/\/cryptopanic.com\/news\/chainlink\/"
+                },
+                {
+                    "code": "FIL",
+                    "title": "Filecoin",
+                    "slug": "filecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/filecoin\/"
+                }
+            ],
+            "id": 18899304,
+            "url": "https:\/\/cryptopanic.com\/news\/18899304\/Beyond-XRP-Euphoria-And-05-Resistance-Bulls-Next-Steps",
+            "created_at": "2023-09-13T07:00:29Z"
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Chainlink (LINK) Bullish Run Falters: Time To Brace For A Price Dip?",
+            "published_at": "2023-09-12T14:00:49Z",
+            "slug": "Chainlink-LINK-Bullish-Run-Falters-Time-To-Brace-For-A-Price-Dip",
+            "currencies": [
+                {
+                    "code": "LINK",
+                    "title": "Chainlink",
+                    "slug": "chainlink",
+                    "url": "https:\/\/cryptopanic.com\/news\/chainlink\/"
+                },
+                {
+                    "code": "FIL",
+                    "title": "Filecoin",
+                    "slug": "filecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/filecoin\/"
+                }
+            ],
+            "id": 18897604,
+            "url": "https:\/\/cryptopanic.com\/news\/18897604\/Chainlink-LINK-Bullish-Run-Falters-Time-To-Brace-For-A-Price-Dip",
+            "created_at": "2023-09-12T14:00:49Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Can Pepe Coin Bounce Back? Insights On Its Future Post-Critical Support Drop",
+            "published_at": "2023-09-12T09:00:38Z",
+            "slug": "Can-Pepe-Coin-Bounce-Back-Insights-On-Its-Future-Post-Critical-Support-Drop",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "FIL",
+                    "title": "Filecoin",
+                    "slug": "filecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/filecoin\/"
+                }
+            ],
+            "id": 18896377,
+            "url": "https:\/\/cryptopanic.com\/news\/18896377\/Can-Pepe-Coin-Bounce-Back-Insights-On-Its-Future-Post-Critical-Support-Drop",
+            "created_at": "2023-09-12T09:00:38Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

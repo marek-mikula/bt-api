@@ -1,0 +1,1583 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=GRT&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "This Bullish Combination Has Finally Formed For Bitcoin, Rally Ahead?",
+            "published_at": "2023-09-29T17:00:18Z",
+            "slug": "This-Bullish-Combination-Has-Finally-Formed-For-Bitcoin-Rally-Ahead",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "USDT",
+                    "title": "Tether",
+                    "slug": "tether",
+                    "url": "https:\/\/cryptopanic.com\/news\/tether\/"
+                },
+                {
+                    "code": "GRT",
+                    "title": "The Graph",
+                    "slug": "the-graph",
+                    "url": "https:\/\/cryptopanic.com\/news\/the-graph\/"
+                }
+            ],
+            "id": 18937901,
+            "url": "https:\/\/cryptopanic.com\/news\/18937901\/This-Bullish-Combination-Has-Finally-Formed-For-Bitcoin-Rally-Ahead",
+            "created_at": "2023-09-29T17:00:18Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Bitcoin Bull Run May Not Begin Until This Ratio Reverses Trend",
+            "published_at": "2023-09-22T15:00:48Z",
+            "slug": "Bitcoin-Bull-Run-May-Not-Begin-Until-This-Ratio-Reverses-Trend",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "GRT",
+                    "title": "The Graph",
+                    "slug": "the-graph",
+                    "url": "https:\/\/cryptopanic.com\/news\/the-graph\/"
+                }
+            ],
+            "id": 18922123,
+            "url": "https:\/\/cryptopanic.com\/news\/18922123\/Bitcoin-Bull-Run-May-Not-Begin-Until-This-Ratio-Reverses-Trend",
+            "created_at": "2023-09-22T15:00:48Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "\u201cPaper BTC\u201d Is Counteracting A Bullish Bitcoin Supply Shock, Analyst Explains",
+            "published_at": "2023-09-21T21:00:29Z",
+            "slug": "Paper-BTC-Is-Counteracting-A-Bullish-Bitcoin-Supply-Shock-Analyst-Explains",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "GRT",
+                    "title": "The Graph",
+                    "slug": "the-graph",
+                    "url": "https:\/\/cryptopanic.com\/news\/the-graph\/"
+                }
+            ],
+            "id": 18920307,
+            "url": "https:\/\/cryptopanic.com\/news\/18920307\/Paper-BTC-Is-Counteracting-A-Bullish-Bitcoin-Supply-Shock-Analyst-Explains",
+            "created_at": "2023-09-21T21:00:29Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 1,
+                "comments": 0
+            },
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Is Bitcoin Bull Run Coming Soon? What Network Fundamentals Say",
+            "published_at": "2023-09-20T20:00:23Z",
+            "slug": "Is-Bitcoin-Bull-Run-Coming-Soon-What-Network-Fundamentals-Say",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "GRT",
+                    "title": "The Graph",
+                    "slug": "the-graph",
+                    "url": "https:\/\/cryptopanic.com\/news\/the-graph\/"
+                }
+            ],
+            "id": 18917372,
+            "url": "https:\/\/cryptopanic.com\/news\/18917372\/Is-Bitcoin-Bull-Run-Coming-Soon-What-Network-Fundamentals-Say",
+            "created_at": "2023-09-20T20:00:23Z"
+        },
+        {
+            "kind": "news",
+            "domain": "coinedition.com",
+            "source": {
+                "title": "coinedition",
+                "region": "en",
+                "domain": "coinedition.com",
+                "path": null
+            },
+            "title": "The Graph (GRT) Price Prediction 2023-2030: Will GRT Price Hit $0.5 Soon?",
+            "published_at": "2023-09-20T13:40:17Z",
+            "slug": "The-Graph-GRT-Price-Prediction-2023-2030-Will-GRT-Price-Hit-05-Soon",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "GRT",
+                    "title": "The Graph",
+                    "slug": "the-graph",
+                    "url": "https:\/\/cryptopanic.com\/news\/the-graph\/"
+                }
+            ],
+            "id": 18916400,
+            "url": "https:\/\/cryptopanic.com\/news\/18916400\/The-Graph-GRT-Price-Prediction-2023-2030-Will-GRT-Price-Hit-05-Soon",
+            "created_at": "2023-09-20T13:40:17Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "AI Token Trading Fever Still Flat Since Worldcoin Launch",
+            "published_at": "2023-09-11T04:39:36Z",
+            "slug": "AI-Token-Trading-Fever-Still-Flat-Since-Worldcoin-Launch",
+            "currencies": [
+                {
+                    "code": "GRT",
+                    "title": "The Graph",
+                    "slug": "the-graph",
+                    "url": "https:\/\/cryptopanic.com\/news\/the-graph\/"
+                },
+                {
+                    "code": "RNDR",
+                    "title": "Render",
+                    "slug": "render-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/render-token\/"
+                }
+            ],
+            "id": 18893282,
+            "url": "https:\/\/cryptopanic.com\/news\/18893282\/AI-Token-Trading-Fever-Still-Flat-Since-Worldcoin-Launch",
+            "created_at": "2023-09-11T04:39:36Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "votes": {
+                "negative": 3,
+                "positive": 0,
+                "important": 2,
+                "liked": 2,
+                "disliked": 2,
+                "lol": 5,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 1
+            },
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Cardano Whales Sell 1.02 Billion ADA, More Pain Ahead?",
+            "published_at": "2023-09-08T14:00:48Z",
+            "slug": "Cardano-Whales-Sell-102-Billion-ADA-More-Pain-Ahead",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "ADA",
+                    "title": "Cardano",
+                    "slug": "cardano",
+                    "url": "https:\/\/cryptopanic.com\/news\/cardano\/"
+                },
+                {
+                    "code": "DOGE",
+                    "title": "Dogecoin",
+                    "slug": "dogecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/dogecoin\/"
+                },
+                {
+                    "code": "GRT",
+                    "title": "The Graph",
+                    "slug": "the-graph",
+                    "url": "https:\/\/cryptopanic.com\/news\/the-graph\/"
+                }
+            ],
+            "id": 18889295,
+            "url": "https:\/\/cryptopanic.com\/news\/18889295\/Cardano-Whales-Sell-102-Billion-ADA-More-Pain-Ahead",
+            "created_at": "2023-09-08T14:00:48Z"
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "Is Bitcoin Mining Turning Unprofitable? Hash Price Reaches All-Time Low",
+            "published_at": "2023-09-08T11:48:52Z",
+            "slug": "Is-Bitcoin-Mining-Turning-Unprofitable-Hash-Price-Reaches-All-Time-Low",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "GRT",
+                    "title": "The Graph",
+                    "slug": "the-graph",
+                    "url": "https:\/\/cryptopanic.com\/news\/the-graph\/"
+                }
+            ],
+            "id": 18889025,
+            "url": "https:\/\/cryptopanic.com\/news\/18889025\/Is-Bitcoin-Mining-Turning-Unprofitable-Hash-Price-Reaches-All-Time-Low",
+            "created_at": "2023-09-08T11:48:52Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Bitcoin HODLer Dominance Rises To Record Levels, Bullish Sign?",
+            "published_at": "2023-09-06T13:00:13Z",
+            "slug": "Bitcoin-HODLer-Dominance-Rises-To-Record-Levels-Bullish-Sign",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "GRT",
+                    "title": "The Graph",
+                    "slug": "the-graph",
+                    "url": "https:\/\/cryptopanic.com\/news\/the-graph\/"
+                }
+            ],
+            "id": 18883732,
+            "url": "https:\/\/cryptopanic.com\/news\/18883732\/Bitcoin-HODLer-Dominance-Rises-To-Record-Levels-Bullish-Sign",
+            "created_at": "2023-09-06T13:00:13Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Bitcoin Exchange Reserve Shoots Up, Pain Not Over Yet?",
+            "published_at": "2023-08-23T18:00:03Z",
+            "slug": "Bitcoin-Exchange-Reserve-Shoots-Up-Pain-Not-Over-Yet",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "ADA",
+                    "title": "Cardano",
+                    "slug": "cardano",
+                    "url": "https:\/\/cryptopanic.com\/news\/cardano\/"
+                },
+                {
+                    "code": "QNT",
+                    "title": "Quant",
+                    "slug": "quant-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/quant-network\/"
+                },
+                {
+                    "code": "GRT",
+                    "title": "The Graph",
+                    "slug": "the-graph",
+                    "url": "https:\/\/cryptopanic.com\/news\/the-graph\/"
+                }
+            ],
+            "id": 18855013,
+            "url": "https:\/\/cryptopanic.com\/news\/18855013\/Bitcoin-Exchange-Reserve-Shoots-Up-Pain-Not-Over-Yet",
+            "created_at": "2023-08-23T18:00:03Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinedition.com",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 1
+            },
+            "source": {
+                "title": "coinedition",
+                "region": "en",
+                "domain": "coinedition.com",
+                "path": null
+            },
+            "title": "CoinMarketCap\u2019s Top 5 AI Crypto Tokens To Watch in August 2023",
+            "published_at": "2023-08-11T13:16:39Z",
+            "slug": "CoinMarketCaps-Top-5-AI-Crypto-Tokens-To-Watch-in-August-2023",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "GRT",
+                    "title": "The Graph",
+                    "slug": "the-graph",
+                    "url": "https:\/\/cryptopanic.com\/news\/the-graph\/"
+                },
+                {
+                    "code": "INJ",
+                    "title": "Injective",
+                    "slug": "injective-protocol",
+                    "url": "https:\/\/cryptopanic.com\/news\/injective-protocol\/"
+                },
+                {
+                    "code": "RNDR",
+                    "title": "Render",
+                    "slug": "render-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/render-token\/"
+                }
+            ],
+            "id": 18832042,
+            "url": "https:\/\/cryptopanic.com\/news\/18832042\/CoinMarketCaps-Top-5-AI-Crypto-Tokens-To-Watch-in-August-2023",
+            "created_at": "2023-08-11T13:16:39Z"
+        },
+        {
+            "kind": "news",
+            "domain": "dailyhodl.com",
+            "source": {
+                "title": "The Daily Hodl",
+                "region": "en",
+                "domain": "dailyhodl.com",
+                "path": null
+            },
+            "title": "AI Crypto Projects Witness Downtick in Trading Volume After Surge of Buzz Earlier This Year: Market Data Firm",
+            "published_at": "2023-07-30T00:00:29Z",
+            "slug": "AI-Crypto-Projects-Witness-Downtick-in-Trading-Volume-After-Surge-of-Buzz-Earlier-This-Year-Market-Data-Firm",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                },
+                {
+                    "code": "GRT",
+                    "title": "The Graph",
+                    "slug": "the-graph",
+                    "url": "https:\/\/cryptopanic.com\/news\/the-graph\/"
+                },
+                {
+                    "code": "RNDR",
+                    "title": "Render",
+                    "slug": "render-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/render-token\/"
+                }
+            ],
+            "id": 18805061,
+            "url": "https:\/\/cryptopanic.com\/news\/18805061\/AI-Crypto-Projects-Witness-Downtick-in-Trading-Volume-After-Surge-of-Buzz-Earlier-This-Year-Market-Data-Firm",
+            "created_at": "2023-07-30T00:00:29Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "AI Tokens Record Lowest Weekly Volume Since January \u2013 A Sign Of Waning Interest?",
+            "published_at": "2023-07-29T09:09:14Z",
+            "slug": "AI-Tokens-Record-Lowest-Weekly-Volume-Since-January-A-Sign-Of-Waning-Interest",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                },
+                {
+                    "code": "GRT",
+                    "title": "The Graph",
+                    "slug": "the-graph",
+                    "url": "https:\/\/cryptopanic.com\/news\/the-graph\/"
+                },
+                {
+                    "code": "PEPE",
+                    "title": "Pepe",
+                    "slug": "pepe",
+                    "url": "https:\/\/cryptopanic.com\/news\/pepe\/"
+                }
+            ],
+            "id": 18804208,
+            "url": "https:\/\/cryptopanic.com\/news\/18804208\/AI-Tokens-Record-Lowest-Weekly-Volume-Since-January-A-Sign-Of-Waning-Interest",
+            "created_at": "2023-07-29T09:09:14Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptoslate.com",
+            "source": {
+                "title": "CryptoSlate",
+                "region": "en",
+                "domain": "cryptoslate.com",
+                "path": null
+            },
+            "title": "AI tokens see the lowest weekly trading volume this year",
+            "published_at": "2023-07-27T20:15:48Z",
+            "slug": "AI-tokens-see-the-lowest-weekly-trading-volume-this-year",
+            "currencies": [
+                {
+                    "code": "GRT",
+                    "title": "The Graph",
+                    "slug": "the-graph",
+                    "url": "https:\/\/cryptopanic.com\/news\/the-graph\/"
+                },
+                {
+                    "code": "INJ",
+                    "title": "Injective",
+                    "slug": "injective-protocol",
+                    "url": "https:\/\/cryptopanic.com\/news\/injective-protocol\/"
+                },
+                {
+                    "code": "RNDR",
+                    "title": "Render",
+                    "slug": "render-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/render-token\/"
+                }
+            ],
+            "id": 18801257,
+            "url": "https:\/\/cryptopanic.com\/news\/18801257\/AI-tokens-see-the-lowest-weekly-trading-volume-this-year",
+            "created_at": "2023-07-27T20:15:48Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptonews.com",
+            "source": {
+                "title": "Cryptonews",
+                "region": "en",
+                "domain": "cryptonews.com",
+                "path": null
+            },
+            "title": "Best Crypto to Buy Now 24 July \u2013 Flex Coin, ApeCoin, The Graph",
+            "published_at": "2023-07-24T22:01:00Z",
+            "slug": "Best-Crypto-to-Buy-Now-24-July-Flex-Coin-ApeCoin-The-Graph",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "GRT",
+                    "title": "The Graph",
+                    "slug": "the-graph",
+                    "url": "https:\/\/cryptopanic.com\/news\/the-graph\/"
+                }
+            ],
+            "id": 18793682,
+            "url": "https:\/\/cryptopanic.com\/news\/18793682\/Best-Crypto-to-Buy-Now-24-July-Flex-Coin-ApeCoin-The-Graph",
+            "created_at": "2023-07-24T22:01:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptoslate.com",
+            "source": {
+                "title": "CryptoSlate",
+                "region": "en",
+                "domain": "cryptoslate.com",
+                "path": null
+            },
+            "title": "Do personal savings levels correlate with Bitcoin price increases?",
+            "published_at": "2023-07-13T09:01:59Z",
+            "slug": "Do-personal-savings-levels-correlate-with-Bitcoin-price-increases",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "GRT",
+                    "title": "The Graph",
+                    "slug": "the-graph",
+                    "url": "https:\/\/cryptopanic.com\/news\/the-graph\/"
+                }
+            ],
+            "id": 18771096,
+            "url": "https:\/\/cryptopanic.com\/news\/18771096\/Do-personal-savings-levels-correlate-with-Bitcoin-price-increases",
+            "created_at": "2023-07-13T09:01:59Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@graphprotocol",
+            "source": {
+                "title": "The Graph Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@graphprotocol"
+            },
+            "title": "RT @Marcus_Rein_: Hello World with @GraphBuildersDAO \ufe0f this Thursday.\n\nJoin me and other builders in the @graphprotocol ecosystem to shar\u2026",
+            "published_at": "2023-07-11T22:36:34Z",
+            "slug": "RT-Marcus_Rein_-Hello-World-with-GraphBuildersDAO-this-Thursday-Join-me-and-other-builders-in-the-graphprotocol-ecosystem-to-shar",
+            "currencies": [
+                {
+                    "code": "GRT",
+                    "title": "The Graph",
+                    "slug": "the-graph",
+                    "url": "https:\/\/cryptopanic.com\/news\/the-graph\/"
+                }
+            ],
+            "id": 18767611,
+            "url": "https:\/\/cryptopanic.com\/news\/18767611\/RT-Marcus_Rein_-Hello-World-with-GraphBuildersDAO-this-Thursday-Join-me-and-other-builders-in-the-graphprotocol-ecosystem-to-shar",
+            "created_at": "2023-07-11T22:36:34Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@graphprotocol",
+            "source": {
+                "title": "The Graph Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@graphprotocol"
+            },
+            "title": "The countdown to @EthCC &amp; @ethglobal Paris has begun \ud83e\udd73 \n\nThe Graph community will be well represented in Paris with\u2026",
+            "published_at": "2023-07-11T21:01:18Z",
+            "slug": "The-countdown-to-EthCC-amp-ethglobal-Paris-has-begun-The-Graph-community-will-be-well-represented-in-Paris-with",
+            "currencies": [
+                {
+                    "code": "GRT",
+                    "title": "The Graph",
+                    "slug": "the-graph",
+                    "url": "https:\/\/cryptopanic.com\/news\/the-graph\/"
+                }
+            ],
+            "id": 18767612,
+            "url": "https:\/\/cryptopanic.com\/news\/18767612\/The-countdown-to-EthCC-amp-ethglobal-Paris-has-begun-The-Graph-community-will-be-well-represented-in-Paris-with",
+            "created_at": "2023-07-11T21:01:18Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@graphprotocol",
+            "source": {
+                "title": "The Graph Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@graphprotocol"
+            },
+            "title": "RT @Bracket_Labs_: Excited to announce our subgraph is migrating to The Graph Network \n\n@graphprotocol plays an essential role in BracketX\u2026",
+            "published_at": "2023-07-11T19:29:19Z",
+            "slug": "RT-Bracket_Labs_-Excited-to-announce-our-subgraph-is-migrating-to-The-Graph-Network-graphprotocol-plays-an-essential-role-in-BracketX",
+            "currencies": [
+                {
+                    "code": "GRT",
+                    "title": "The Graph",
+                    "slug": "the-graph",
+                    "url": "https:\/\/cryptopanic.com\/news\/the-graph\/"
+                }
+            ],
+            "id": 18767613,
+            "url": "https:\/\/cryptopanic.com\/news\/18767613\/RT-Bracket_Labs_-Excited-to-announce-our-subgraph-is-migrating-to-The-Graph-Network-graphprotocol-plays-an-essential-role-in-BracketX",
+            "created_at": "2023-07-11T19:29:19Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@wormholecrypto",
+            "source": {
+                "title": "TerraUSD (Wormhole) Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@wormholecrypto"
+            },
+            "title": "If they can deploy a bridge with only 3 lines of code, you can too!\n\nCheck out the tutorial below and in our docs \u2026",
+            "published_at": "2023-07-11T15:49:50Z",
+            "slug": "If-they-can-deploy-a-bridge-with-only-3-lines-of-code-you-can-too-Check-out-the-tutorial-below-and-in-our-docs",
+            "currencies": [
+                {
+                    "code": "UST",
+                    "title": "TerraUSD (Wormhole)",
+                    "slug": "terrausd-wormhole",
+                    "url": "https:\/\/cryptopanic.com\/news\/terrausd-wormhole\/"
+                },
+                {
+                    "code": "RAY",
+                    "title": "Raydium (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "SRMSO",
+                    "title": "Serum (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "SBR",
+                    "title": "Saber (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "SOL",
+                    "title": "SOL (Wormhole)",
+                    "slug": "sol-wormhole",
+                    "url": "https:\/\/cryptopanic.com\/news\/sol-wormhole\/"
+                },
+                {
+                    "code": "GRT",
+                    "title": "The Graph (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "ATLAS",
+                    "title": "Star Atlas (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "1INCH",
+                    "title": "1INCH (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "AURY",
+                    "title": "Aurory (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "USDTSO",
+                    "title": "Tether USD (Wormhole)",
+                    "slug": "tether-usd-wormhole",
+                    "url": "https:\/\/cryptopanic.com\/news\/tether-usd-wormhole\/"
+                },
+                {
+                    "code": "USDCSO",
+                    "title": "USD Coin (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "BNB",
+                    "title": "Binance Coin (Wormhole)",
+                    "slug": "binance-coin-wormhole",
+                    "url": "https:\/\/cryptopanic.com\/news\/binance-coin-wormhole\/"
+                },
+                {
+                    "code": "AAVE",
+                    "title": "Aave (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "MSOL",
+                    "title": "Marinade staked SOL (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "AKRO",
+                    "title": "Akropolis (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "ALEPH",
+                    "title": "Aleph.im (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "AMP",
+                    "title": "Amp (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "ALICE",
+                    "title": "My Neighbor Alice (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "AMPL",
+                    "title": "Ampleforth (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "1SOL",
+                    "title": "1sol.io (Wormhole)",
+                    "slug": "1sol-io-wormhole",
+                    "url": "https:\/\/cryptopanic.com\/news\/1sol-io-wormhole\/"
+                },
+                {
+                    "code": "ANKR",
+                    "title": "Ankr Network (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "AUDIO",
+                    "title": "Audius (Wormhole)",
+                    "slug": "audius-wormhole",
+                    "url": "https:\/\/cryptopanic.com\/news\/audius-wormhole\/"
+                },
+                {
+                    "code": "ROSE",
+                    "title": "ROSE (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "JOE",
+                    "title": "JOE (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "AVAX",
+                    "title": "Avalanche (Wormhole)",
+                    "slug": "avalanche-wormhole",
+                    "url": "https:\/\/cryptopanic.com\/news\/avalanche-wormhole\/"
+                },
+                {
+                    "code": "USDTPO",
+                    "title": "Tether USD (PoS) (Wormhole)",
+                    "slug": "tether-usd-pos-wormhole",
+                    "url": "https:\/\/cryptopanic.com\/news\/tether-usd-pos-wormhole\/"
+                },
+                {
+                    "code": "USDCPO",
+                    "title": "USD Coin (PoS) (Wormhole)",
+                    "slug": "usd-coin-pos-wormhole",
+                    "url": "https:\/\/cryptopanic.com\/news\/usd-coin-pos-wormhole\/"
+                },
+                {
+                    "code": "QUICK",
+                    "title": "Quickswap (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "MATICPO",
+                    "title": "MATIC (Wormhole)",
+                    "slug": "matic-wormhole",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-wormhole\/"
+                },
+                {
+                    "code": "USDCAV",
+                    "title": "USD Coin (Wormhole from Avalanche)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "AXSET",
+                    "title": "Axie Infinity Shard (Wormhole)",
+                    "slug": "axie-infinity-shard-wormhole",
+                    "url": "https:\/\/cryptopanic.com\/news\/axie-infinity-shard-wormhole\/"
+                },
+                {
+                    "code": "USDCBS",
+                    "title": "USD Coin (Wormhole from BSC)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "DAIPO",
+                    "title": "Dai Stablecoin (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "CAKE",
+                    "title": "PancakeSwap (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "USDTBS",
+                    "title": "Tether USD (Wormhole from BSC)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "LUNC",
+                    "title": "Terra Classic (Wormhole)",
+                    "slug": "luna-wormhole",
+                    "url": "https:\/\/cryptopanic.com\/news\/luna-wormhole\/"
+                },
+                {
+                    "code": "BUSDET",
+                    "title": "Binance USD (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "BUSDBS",
+                    "title": "Binance USD (Wormhole from BSC)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "STETH",
+                    "title": "Lido Staked Ether (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "AGEUR",
+                    "title": "agEUR (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "YFI",
+                    "title": "yearn.finance (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "YGG",
+                    "title": "Yield Guild Games (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "ZRX",
+                    "title": "0x (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "UNI",
+                    "title": "Uniswap (Wormhole)",
+                    "slug": "uniswap-wormhole",
+                    "url": "https:\/\/cryptopanic.com\/news\/uniswap-wormhole\/"
+                },
+                {
+                    "code": "IBBTC",
+                    "title": "Interest Bearing Bitcoin (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "GOHM",
+                    "title": "Governance OHM (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "SUSHI",
+                    "title": "Sushi (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "TOKE",
+                    "title": "Tokemak (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "SNX",
+                    "title": "Synthetix Network Token (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "SXP",
+                    "title": "Swipe (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "TRIBE",
+                    "title": "Tribe (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "UBXT",
+                    "title": "UpBots (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "SRMET",
+                    "title": "Serum (Wormhole from Ethereum)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "SWAG",
+                    "title": "SWAG Finance (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "SOS",
+                    "title": "OpenDAO (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "SLP",
+                    "title": "Smooth Love Potion (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "UFO",
+                    "title": "UFO Gaming (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "SPELL",
+                    "title": "Spell Token (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "SHIB",
+                    "title": "Shiba Inu (Wormhole)",
+                    "slug": "shiba-inu-wormhole",
+                    "url": "https:\/\/cryptopanic.com\/news\/shiba-inu-wormhole\/"
+                },
+                {
+                    "code": "CEL",
+                    "title": "Celsius (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "RSR",
+                    "title": "Reserve Rights (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "SAND",
+                    "title": "The Sandbox (Wormhole)",
+                    "slug": "the-sandbox-wormhole",
+                    "url": "https:\/\/cryptopanic.com\/news\/the-sandbox-wormhole\/"
+                },
+                {
+                    "code": "PERP",
+                    "title": "Perpetual (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "RGT",
+                    "title": "Rari Governance Token (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "RPL",
+                    "title": "Rocket Pool (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "MIMET",
+                    "title": "Magic Internet Money (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "LINK",
+                    "title": "Chainlink (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "LDO",
+                    "title": "Lido DAO (Wormhole)",
+                    "slug": "lido-dao-wormhole",
+                    "url": "https:\/\/cryptopanic.com\/news\/lido-dao-wormhole\/"
+                },
+                {
+                    "code": "FTT",
+                    "title": "FTX (Wormhole)",
+                    "slug": "ftx-wormhole",
+                    "url": "https:\/\/cryptopanic.com\/news\/ftx-wormhole\/"
+                },
+                {
+                    "code": "DAI",
+                    "title": "DAI (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum (Wormhole)",
+                    "slug": "ethereum-wormhole",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum-wormhole\/"
+                },
+                {
+                    "code": "WBTC",
+                    "title": "Wrapped BTC (Wormhole)",
+                    "slug": "wrapped-btc-wormhole",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-btc-wormhole\/"
+                },
+                {
+                    "code": "PAXG",
+                    "title": "Paxos Gold (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "PEOPLE",
+                    "title": "ConstitutionDAO (Wormhole)",
+                    "slug": "constitutiondao-wormhole",
+                    "url": "https:\/\/cryptopanic.com\/news\/constitutiondao-wormhole\/"
+                },
+                {
+                    "code": "OHM",
+                    "title": "Olympus (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "NXM",
+                    "title": "Nexus Mutual (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "USDCET",
+                    "title": "USD Coin (Wormhole from Ethereum)",
+                    "slug": "usd-coin-wormhole-from-ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/usd-coin-wormhole-from-ethereum\/"
+                },
+                {
+                    "code": "CHZ",
+                    "title": "Chiliz (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "BAT",
+                    "title": "Basic Attention Token (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "USDK",
+                    "title": "USDK (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "BNT",
+                    "title": "Bancor (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "USDTET",
+                    "title": "Tether USD (Wormhole from Ethereum)",
+                    "slug": "tether-usd-wormhole-from-ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/tether-usd-wormhole-from-ethereum\/"
+                },
+                {
+                    "code": "DYDX",
+                    "title": "dYdX (Wormhole)",
+                    "slug": "dydx-wormhole",
+                    "url": "https:\/\/cryptopanic.com\/news\/dydx-wormhole\/"
+                },
+                {
+                    "code": "CVX",
+                    "title": "Convex Finance (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "COMP",
+                    "title": "Compound (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "CREAM",
+                    "title": "Cream (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "CRV",
+                    "title": "Curve DAO Token (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "MATH",
+                    "title": "MATH Token (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "CRO",
+                    "title": "Crypto.com Coin (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "ELON",
+                    "title": "Dogelon Mars (Wormhole)",
+                    "slug": "dogelon-mars-wormhole",
+                    "url": "https:\/\/cryptopanic.com\/news\/dogelon-mars-wormhole\/"
+                },
+                {
+                    "code": "FRAX",
+                    "title": "Frax (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "ENS",
+                    "title": "Ethereum Name Service (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "ENJ",
+                    "title": "Enjin (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "FRONT",
+                    "title": "Frontier Token (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "FTMET",
+                    "title": "Fantom Token (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "LRC",
+                    "title": "LoopringCoin V2 (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "MATICET",
+                    "title": "Matic (Wormhole from Ethereum)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "MANA",
+                    "title": "Decentraland (Wormhole)",
+                    "slug": "decentraland-wormhole",
+                    "url": "https:\/\/cryptopanic.com\/news\/decentraland-wormhole\/"
+                },
+                {
+                    "code": "LUA",
+                    "title": "LuaToken (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "GT",
+                    "title": "GateChain (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "GALA",
+                    "title": "Gala (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "FXS",
+                    "title": "Frax Share (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "HGET",
+                    "title": "Hedget (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "ICE",
+                    "title": "Ice (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "HBTC",
+                    "title": "Huobi BTC (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "HUSD",
+                    "title": "HUSD Stablecoin (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "HXRO",
+                    "title": "Hxro (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "ILV",
+                    "title": "Illuvium (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "KP3R",
+                    "title": "Keep3rV1 (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "KEEP",
+                    "title": "Keep Network (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "CRO",
+                    "title": "Cronos (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "DAO",
+                    "title": "DAO Maker (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "CREDI",
+                    "title": "Credefi (Wormhole)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "USDCARB",
+                    "title": "USD Coin (Wormhole Arb)",
+                    "slug": "usd-coin-wormhole-arb",
+                    "url": "https:\/\/cryptopanic.com\/news\/usd-coin-wormhole-arb\/"
+                },
+                {
+                    "code": "USDCBNB",
+                    "title": "USD Coin (Wormhole BNB)",
+                    "slug": "usd-coin-wormhole-bnb",
+                    "url": "https:\/\/cryptopanic.com\/news\/usd-coin-wormhole-bnb\/"
+                }
+            ],
+            "id": 18767559,
+            "url": "https:\/\/cryptopanic.com\/news\/18767559\/If-they-can-deploy-a-bridge-with-only-3-lines-of-code-you-can-too-Check-out-the-tutorial-below-and-in-our-docs",
+            "created_at": "2023-07-11T15:49:50Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

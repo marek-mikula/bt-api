@@ -1,0 +1,791 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=WAVES&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "@Bridgesplit",
+            "source": {
+                "title": "Fractionalized WAVE-999 Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@bridgesplit"
+            },
+            "title": "RT @yashhsm: Launching the latest \u201cSolana DeFi Ecosystem Map\u201d - ft. LIVE DeFi projects on Solana by category\n\n Stay tuned for a detailed\u2026",
+            "published_at": "2023-04-14T15:58:19Z",
+            "slug": "RT-yashhsm-Launching-the-latest-Solana-DeFi-Ecosystem-Map-ft-LIVE-DeFi-projects-on-Solana-by-category-Stay-tuned-for-a-detailed",
+            "currencies": [
+                {
+                    "code": "WAV",
+                    "title": "Fractionalized WAVE-999",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "DAOJONES",
+                    "title": "Fractionalized SMB-2367",
+                    "slug": "fractionalized-smb-2367",
+                    "url": "https:\/\/cryptopanic.com\/news\/fractionalized-smb-2367\/"
+                },
+                {
+                    "code": "DRGNZ",
+                    "title": "Boryoku Genesis Dragonz Index",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "SAC",
+                    "title": "Stoned Ape Crew Index",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "PLAYA",
+                    "title": "Playground",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "WAVES",
+                    "title": "Playground Waves Floor Index",
+                    "slug": "playground-waves-floor-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/playground-waves-floor-index\/"
+                },
+                {
+                    "code": "IVRY",
+                    "title": "Portals Ivory Index",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "BBI",
+                    "title": "Bridgesplit Brand Index",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "WHALES",
+                    "title": "Catalina Whales Index",
+                    "slug": "catalina-whales-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/catalina-whales-index\/"
+                },
+                {
+                    "code": "DAPE",
+                    "title": "Degenerate Ape Academy Floor Index",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "DPUNKZ",
+                    "title": "Duck Punkz Universe Floor Index",
+                    "slug": "duck-punkz-universe-floor-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/duck-punkz-universe-floor-index\/"
+                },
+                {
+                    "code": "BURR",
+                    "title": "Burrito Boyz Floor Index",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "ABC",
+                    "title": "ABC Floor Index",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "OKAYB",
+                    "title": "Okay Bears Floor Index",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                }
+            ],
+            "id": 18115993,
+            "url": "https:\/\/cryptopanic.com\/news\/18115993\/RT-yashhsm-Launching-the-latest-Solana-DeFi-Ecosystem-Map-ft-LIVE-DeFi-projects-on-Solana-by-category-Stay-tuned-for-a-detailed",
+            "created_at": "2023-04-14T15:58:19Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@wavesprotocol",
+            "source": {
+                "title": "Waves Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@wavesprotocol"
+            },
+            "title": "Hot news from project: the new version of the stablecoin will be also fueled by #Waves blo\u2026",
+            "published_at": "2023-03-14T13:59:37Z",
+            "slug": "Hot-news-from-project-the-new-version-of-the-stablecoin-will-be-also-fueled-by-Waves-blo",
+            "currencies": [
+                {
+                    "code": "WAVES",
+                    "title": "Waves",
+                    "slug": "waves",
+                    "url": "https:\/\/cryptopanic.com\/news\/waves\/"
+                }
+            ],
+            "id": 17876300,
+            "url": "https:\/\/cryptopanic.com\/news\/17876300\/Hot-news-from-project-the-new-version-of-the-stablecoin-will-be-also-fueled-by-Waves-blo",
+            "created_at": "2023-03-14T13:59:37Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@wavesprotocol",
+            "source": {
+                "title": "Waves Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@wavesprotocol"
+            },
+            "title": "RT @waves__labs: 1\/\nWhat\u2019s all the fuss about with Web3? \n\nWe spent 212 hours researching the fundamentals. So you don\u2019t have to. \n\nThe res\u2026",
+            "published_at": "2023-03-13T16:17:17Z",
+            "slug": "RT-waves__labs-1-Whats-all-the-fuss-about-with-Web3-We-spent-212-hours-researching-the-fundamentals-So-you-dont-have-to-The-res",
+            "currencies": [
+                {
+                    "code": "WAVES",
+                    "title": "Waves",
+                    "slug": "waves",
+                    "url": "https:\/\/cryptopanic.com\/news\/waves\/"
+                }
+            ],
+            "id": 17866852,
+            "url": "https:\/\/cryptopanic.com\/news\/17866852\/RT-waves__labs-1-Whats-all-the-fuss-about-with-Web3-We-spent-212-hours-researching-the-fundamentals-So-you-dont-have-to-The-res",
+            "created_at": "2023-03-13T16:17:17Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@wavesprotocol",
+            "source": {
+                "title": "Waves Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@wavesprotocol"
+            },
+            "title": "RT @cryptopepeteam: PepeTeam bridge on Testnet\n\nPlease, take part in #PepeBridge #testing to help us catch bugs, that we could miss\ud83e\udd13\n\nWe h\u2026",
+            "published_at": "2023-03-13T14:22:42Z",
+            "slug": "RT-cryptopepeteam-PepeTeam-bridge-on-Testnet-Please-take-part-in-PepeBridge-testing-to-help-us-catch-bugs-that-we-could-miss-We-h",
+            "currencies": [
+                {
+                    "code": "WAVES",
+                    "title": "Waves",
+                    "slug": "waves",
+                    "url": "https:\/\/cryptopanic.com\/news\/waves\/"
+                }
+            ],
+            "id": 17866370,
+            "url": "https:\/\/cryptopanic.com\/news\/17866370\/RT-cryptopepeteam-PepeTeam-bridge-on-Testnet-Please-take-part-in-PepeBridge-testing-to-help-us-catch-bugs-that-we-could-miss-We-h",
+            "created_at": "2023-03-13T14:22:42Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@wavesprotocol",
+            "source": {
+                "title": "Waves Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@wavesprotocol"
+            },
+            "title": "RT @KeeperWallet: Version 2.13.1 is live! \n\n\ud83e\udde9@puzzle_network NFTs now displayed in the NFT section\n\ufe0fAccurate prices when signing orders\n\u2026",
+            "published_at": "2023-03-13T10:37:48Z",
+            "slug": "RT-KeeperWallet-Version-2131-is-live-puzzle_network-NFTs-now-displayed-in-the-NFT-section-Accurate-prices-when-signing-orders",
+            "currencies": [
+                {
+                    "code": "WAVES",
+                    "title": "Waves",
+                    "slug": "waves",
+                    "url": "https:\/\/cryptopanic.com\/news\/waves\/"
+                }
+            ],
+            "id": 17865607,
+            "url": "https:\/\/cryptopanic.com\/news\/17865607\/RT-KeeperWallet-Version-2131-is-live-puzzle_network-NFTs-now-displayed-in-the-NFT-section-Accurate-prices-when-signing-orders",
+            "created_at": "2023-03-13T10:37:48Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@wavesprotocol",
+            "source": {
+                "title": "Waves Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@wavesprotocol"
+            },
+            "title": "RT @cryptopepeteam: Your $POWER is coming\n\nGenesis Power DAO #fAirdrop snapshot is completed on the Waves blockchain height 3,549,250!\n\nA\u2026",
+            "published_at": "2023-03-13T07:44:45Z",
+            "slug": "RT-cryptopepeteam-Your-POWER-is-coming-Genesis-Power-DAO-fAirdrop-snapshot-is-completed-on-the-Waves-blockchain-height-3549250-A",
+            "currencies": [
+                {
+                    "code": "WAVES",
+                    "title": "Waves",
+                    "slug": "waves",
+                    "url": "https:\/\/cryptopanic.com\/news\/waves\/"
+                }
+            ],
+            "id": 17863096,
+            "url": "https:\/\/cryptopanic.com\/news\/17863096\/RT-cryptopepeteam-Your-POWER-is-coming-Genesis-Power-DAO-fAirdrop-snapshot-is-completed-on-the-Waves-blockchain-height-3549250-A",
+            "created_at": "2023-03-13T07:44:45Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@wavesprotocol",
+            "source": {
+                "title": "Waves Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@wavesprotocol"
+            },
+            "title": "RT @sasha35625: Finally things will start falling into place for #waves ecosystem next week-\n- New bridges coming to Waves\n- $power airdrop\u2026",
+            "published_at": "2023-03-12T14:15:55Z",
+            "slug": "RT-sasha35625-Finally-things-will-start-falling-into-place-for-waves-ecosystem-next-week-New-bridges-coming-to-Waves-power-airdrop",
+            "currencies": [
+                {
+                    "code": "WAVES",
+                    "title": "Waves",
+                    "slug": "waves",
+                    "url": "https:\/\/cryptopanic.com\/news\/waves\/"
+                }
+            ],
+            "id": 17859476,
+            "url": "https:\/\/cryptopanic.com\/news\/17859476\/RT-sasha35625-Finally-things-will-start-falling-into-place-for-waves-ecosystem-next-week-New-bridges-coming-to-Waves-power-airdrop",
+            "created_at": "2023-03-12T14:15:55Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@wavesprotocol",
+            "source": {
+                "title": "Waves Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@wavesprotocol"
+            },
+            "title": "\u23f0Remember to join our weekly AMA with @sasha35625 today! We're going live in 30 minutes! Tune in here",
+            "published_at": "2023-03-10T13:25:32Z",
+            "slug": "Remember-to-join-our-weekly-AMA-with-sasha35625-today-Were-going-live-in-30-minutes-Tune-in-here",
+            "currencies": [
+                {
+                    "code": "WAVES",
+                    "title": "Waves",
+                    "slug": "waves",
+                    "url": "https:\/\/cryptopanic.com\/news\/waves\/"
+                }
+            ],
+            "id": 17844991,
+            "url": "https:\/\/cryptopanic.com\/news\/17844991\/Remember-to-join-our-weekly-AMA-with-sasha35625-today-Were-going-live-in-30-minutes-Tune-in-here",
+            "created_at": "2023-03-10T13:25:32Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@wavesprotocol",
+            "source": {
+                "title": "Waves Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@wavesprotocol"
+            },
+            "title": "RT @PWRDAO:  Genesis fAirdrop Snapshot is COMPLETE! \n\nAll on-chain $WAVES holders as of block height 3549250 will qualify. $POWER distribu\u2026",
+            "published_at": "2023-03-10T09:51:55Z",
+            "slug": "RT-PWRDAO-Genesis-fAirdrop-Snapshot-is-COMPLETE-All-on-chain-WAVES-holders-as-of-block-height-3549250-will-qualify-POWER-distribu",
+            "currencies": [
+                {
+                    "code": "WAVES",
+                    "title": "Waves",
+                    "slug": "waves",
+                    "url": "https:\/\/cryptopanic.com\/news\/waves\/"
+                }
+            ],
+            "id": 17843678,
+            "url": "https:\/\/cryptopanic.com\/news\/17843678\/RT-PWRDAO-Genesis-fAirdrop-Snapshot-is-COMPLETE-All-on-chain-WAVES-holders-as-of-block-height-3549250-will-qualify-POWER-distribu",
+            "created_at": "2023-03-10T09:51:55Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@wavesprotocol",
+            "source": {
+                "title": "Waves Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@wavesprotocol"
+            },
+            "title": "RT @cryptopepeteam: \ud83e\udd13Learn how to #earn the highest #income from $WAVES on the market\n\nHere is the guide\ud83e\udd11\n\n\nHere is\u2026",
+            "published_at": "2023-03-09T18:06:38Z",
+            "slug": "RT-cryptopepeteam-Learn-how-to-earn-the-highest-income-from-WAVES-on-the-market-Here-is-the-guide-Here-is",
+            "currencies": [
+                {
+                    "code": "WAVES",
+                    "title": "Waves",
+                    "slug": "waves",
+                    "url": "https:\/\/cryptopanic.com\/news\/waves\/"
+                }
+            ],
+            "id": 17836128,
+            "url": "https:\/\/cryptopanic.com\/news\/17836128\/RT-cryptopepeteam-Learn-how-to-earn-the-highest-income-from-WAVES-on-the-market-Here-is-the-guide-Here-is",
+            "created_at": "2023-03-09T18:06:38Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@wavesprotocol",
+            "source": {
+                "title": "Waves Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@wavesprotocol"
+            },
+            "title": "Dear community! As usual @sasha35625 will go live for a weekly AMA tomorrow at 9:00 AM (EST)! \u23f0\n\nPrepare your quest\u2026",
+            "published_at": "2023-03-09T15:32:45Z",
+            "slug": "Dear-community-As-usual-sasha35625-will-go-live-for-a-weekly-AMA-tomorrow-at-900-AM-EST-Prepare-your-quest",
+            "currencies": [
+                {
+                    "code": "WAVES",
+                    "title": "Waves",
+                    "slug": "waves",
+                    "url": "https:\/\/cryptopanic.com\/news\/waves\/"
+                }
+            ],
+            "id": 17835563,
+            "url": "https:\/\/cryptopanic.com\/news\/17835563\/Dear-community-As-usual-sasha35625-will-go-live-for-a-weekly-AMA-tomorrow-at-900-AM-EST-Prepare-your-quest",
+            "created_at": "2023-03-09T15:32:45Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@wavesprotocol",
+            "source": {
+                "title": "Waves Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@wavesprotocol"
+            },
+            "title": "RT @sasha35625: $waves shapshot for $power airdrop tomorrow. Only on #waves chain. No CEX's as promised.",
+            "published_at": "2023-03-09T09:39:11Z",
+            "slug": "RT-sasha35625-waves-shapshot-for-power-airdrop-tomorrow-Only-on-waves-chain-No-CEXs-as-promised",
+            "currencies": [
+                {
+                    "code": "WAVES",
+                    "title": "Waves",
+                    "slug": "waves",
+                    "url": "https:\/\/cryptopanic.com\/news\/waves\/"
+                }
+            ],
+            "id": 17833008,
+            "url": "https:\/\/cryptopanic.com\/news\/17833008\/RT-sasha35625-waves-shapshot-for-power-airdrop-tomorrow-Only-on-waves-chain-No-CEXs-as-promised",
+            "created_at": "2023-03-09T09:39:11Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@wavesprotocol",
+            "source": {
+                "title": "Waves Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@wavesprotocol"
+            },
+            "title": "RT @cryptopepeteam: Don't miss out a chance to get some $POWER\n\n3 DAYS left before @PWRDAO #Fairdrop #snapshot!\n\n\ud83e\udd115 DAYS you will get inc\u2026",
+            "published_at": "2023-03-07T17:35:24Z",
+            "slug": "RT-cryptopepeteam-Dont-miss-out-a-chance-to-get-some-POWER-3-DAYS-left-before-PWRDAO-Fairdrop-snapshot-5-DAYS-you-will-get-inc",
+            "currencies": [
+                {
+                    "code": "WAVES",
+                    "title": "Waves",
+                    "slug": "waves",
+                    "url": "https:\/\/cryptopanic.com\/news\/waves\/"
+                }
+            ],
+            "id": 17816119,
+            "url": "https:\/\/cryptopanic.com\/news\/17816119\/RT-cryptopepeteam-Dont-miss-out-a-chance-to-get-some-POWER-3-DAYS-left-before-PWRDAO-Fairdrop-snapshot-5-DAYS-you-will-get-inc",
+            "created_at": "2023-03-07T17:35:24Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@wavesprotocol",
+            "source": {
+                "title": "Waves Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@wavesprotocol"
+            },
+            "title": "RT @wavesducks: Where are #WavesDucks headed? Towards a bright future!\n\nOn their way, they will meet duckanoids, discover the hybridizati\u2026",
+            "published_at": "2023-03-07T17:35:08Z",
+            "slug": "RT-wavesducks-Where-are-WavesDucks-headed-Towards-a-bright-future-On-their-way-they-will-meet-duckanoids-discover-the-hybridizati",
+            "currencies": [
+                {
+                    "code": "WAVES",
+                    "title": "Waves",
+                    "slug": "waves",
+                    "url": "https:\/\/cryptopanic.com\/news\/waves\/"
+                }
+            ],
+            "id": 17816118,
+            "url": "https:\/\/cryptopanic.com\/news\/17816118\/RT-wavesducks-Where-are-WavesDucks-headed-Towards-a-bright-future-On-their-way-they-will-meet-duckanoids-discover-the-hybridizati",
+            "created_at": "2023-03-07T17:35:08Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@wavesprotocol",
+            "source": {
+                "title": "Waves Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@wavesprotocol"
+            },
+            "title": "RT @ExchangeTsunami: #DidYouKnow What fees do we pay when trading on Tsunami Exchange? \ud83e\udd14\n\nFind it out in our new graphics! ",
+            "published_at": "2023-03-07T17:34:55Z",
+            "slug": "RT-ExchangeTsunami-DidYouKnow-What-fees-do-we-pay-when-trading-on-Tsunami-Exchange-Find-it-out-in-our-new-graphics",
+            "currencies": [
+                {
+                    "code": "WAVES",
+                    "title": "Waves",
+                    "slug": "waves",
+                    "url": "https:\/\/cryptopanic.com\/news\/waves\/"
+                }
+            ],
+            "id": 17816117,
+            "url": "https:\/\/cryptopanic.com\/news\/17816117\/RT-ExchangeTsunami-DidYouKnow-What-fees-do-we-pay-when-trading-on-Tsunami-Exchange-Find-it-out-in-our-new-graphics",
+            "created_at": "2023-03-07T17:34:55Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@wavesprotocol",
+            "source": {
+                "title": "Waves Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@wavesprotocol"
+            },
+            "title": "RT @cryptopepeteam: \ud83e\udd29WOW! Have you seen the estimated APY?\n\nAs promised, we have added own $WAVES to the collateral, so now the possible #\u2026",
+            "published_at": "2023-03-06T20:57:14Z",
+            "slug": "RT-cryptopepeteam-WOW-Have-you-seen-the-estimated-APY-As-promised-we-have-added-own-WAVES-to-the-collateral-so-now-the-possible",
+            "currencies": [
+                {
+                    "code": "WAVES",
+                    "title": "Waves",
+                    "slug": "waves",
+                    "url": "https:\/\/cryptopanic.com\/news\/waves\/"
+                }
+            ],
+            "id": 17807294,
+            "url": "https:\/\/cryptopanic.com\/news\/17807294\/RT-cryptopepeteam-WOW-Have-you-seen-the-estimated-APY-As-promised-we-have-added-own-WAVES-to-the-collateral-so-now-the-possible",
+            "created_at": "2023-03-06T20:57:14Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@wavesprotocol",
+            "source": {
+                "title": "Waves Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@wavesprotocol"
+            },
+            "title": "RT @wavesducks:  Duckies, you\u2019ve got 3 days left to join our Marathon of Gifts and 2 goals to expand the prize pool",
+            "published_at": "2023-03-06T11:04:53Z",
+            "slug": "RT-wavesducks-Duckies-youve-got-3-days-left-to-join-our-Marathon-of-Gifts-and-2-goals-to-expand-the-prize-pool",
+            "currencies": [
+                {
+                    "code": "WAVES",
+                    "title": "Waves",
+                    "slug": "waves",
+                    "url": "https:\/\/cryptopanic.com\/news\/waves\/"
+                }
+            ],
+            "id": 17805396,
+            "url": "https:\/\/cryptopanic.com\/news\/17805396\/RT-wavesducks-Duckies-youve-got-3-days-left-to-join-our-Marathon-of-Gifts-and-2-goals-to-expand-the-prize-pool",
+            "created_at": "2023-03-06T11:04:53Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@wavesprotocol",
+            "source": {
+                "title": "Waves Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@wavesprotocol"
+            },
+            "title": " #Waves ecosystem tokens are now available on non-custodial @AmmerWallet!\n\nStore and manage $EGG, $WX, $SWOP,\u2026",
+            "published_at": "2023-03-06T09:18:40Z",
+            "slug": "Waves-ecosystem-tokens-are-now-available-on-non-custodial-AmmerWallet-Store-and-manage-EGG-WX-SWOP",
+            "currencies": [
+                {
+                    "code": "WAVES",
+                    "title": "Waves",
+                    "slug": "waves",
+                    "url": "https:\/\/cryptopanic.com\/news\/waves\/"
+                }
+            ],
+            "id": 17803829,
+            "url": "https:\/\/cryptopanic.com\/news\/17803829\/Waves-ecosystem-tokens-are-now-available-on-non-custodial-AmmerWallet-Store-and-manage-EGG-WX-SWOP",
+            "created_at": "2023-03-06T09:18:40Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@wavesprotocol",
+            "source": {
+                "title": "Waves Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@wavesprotocol"
+            },
+            "title": " Waves ecosystem tokens now available on non-custodial @AmmerWallet!\n\nStore and manage $EGG, $WX, $SWOP, $TSN,\u2026",
+            "published_at": "2023-03-06T09:16:11Z",
+            "slug": "Waves-ecosystem-tokens-now-available-on-non-custodial-AmmerWallet-Store-and-manage-EGG-WX-SWOP-TSN",
+            "currencies": [
+                {
+                    "code": "WAVES",
+                    "title": "Waves",
+                    "slug": "waves",
+                    "url": "https:\/\/cryptopanic.com\/news\/waves\/"
+                }
+            ],
+            "id": 17803782,
+            "url": "https:\/\/cryptopanic.com\/news\/17803782\/Waves-ecosystem-tokens-now-available-on-non-custodial-AmmerWallet-Store-and-manage-EGG-WX-SWOP-TSN",
+            "created_at": "2023-03-06T09:16:11Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@wavesprotocol",
+            "source": {
+                "title": "Waves Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@wavesprotocol"
+            },
+            "title": "RT @waves_africa: Plan to attend our community call with Waves Africa community lead @chukwuka021 \n\nYou will learn about #Waves ecosystem,\u2026",
+            "published_at": "2023-03-06T08:57:08Z",
+            "slug": "RT-waves_africa-Plan-to-attend-our-community-call-with-Waves-Africa-community-lead-chukwuka021-You-will-learn-about-Waves-ecosystem",
+            "currencies": [
+                {
+                    "code": "WAVES",
+                    "title": "Waves",
+                    "slug": "waves",
+                    "url": "https:\/\/cryptopanic.com\/news\/waves\/"
+                }
+            ],
+            "id": 17803503,
+            "url": "https:\/\/cryptopanic.com\/news\/17803503\/RT-waves_africa-Plan-to-attend-our-community-call-with-Waves-Africa-community-lead-chukwuka021-You-will-learn-about-Waves-ecosystem",
+            "created_at": "2023-03-06T08:57:08Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

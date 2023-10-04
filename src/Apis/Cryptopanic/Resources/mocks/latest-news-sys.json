@@ -1,0 +1,827 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=SYS&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "@syscoin",
+            "source": {
+                "title": "Syscoin Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@syscoin"
+            },
+            "title": "RT @Luxy_io: If you're quick enough, you can probably still grab your #SyscoinGold on \ufe0f",
+            "published_at": "2023-03-14T17:59:01Z",
+            "slug": "RT-Luxy_io-If-youre-quick-enough-you-can-probably-still-grab-your-SyscoinGold-on",
+            "currencies": [
+                {
+                    "code": "SYS",
+                    "title": "Syscoin",
+                    "slug": "syscoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/syscoin\/"
+                },
+                {
+                    "code": "WSYS",
+                    "title": "Wrapped Syscoin",
+                    "slug": "wrapped-syscoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-syscoin\/"
+                }
+            ],
+            "id": 17877199,
+            "url": "https:\/\/cryptopanic.com\/news\/17877199\/RT-Luxy_io-If-youre-quick-enough-you-can-probably-still-grab-your-SyscoinGold-on",
+            "created_at": "2023-03-14T17:59:01Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@syscoin",
+            "source": {
+                "title": "Syscoin Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@syscoin"
+            },
+            "title": "Our #SyscoinGold frens get free 1:1 exclusive minting of the upcoming #DystoSoul loyalty #NFT...\n\nThe first proprie\u2026",
+            "published_at": "2023-03-14T17:23:46Z",
+            "slug": "Our-SyscoinGold-frens-get-free-11-exclusive-minting-of-the-upcoming-DystoSoul-loyalty-NFT-The-first-proprie",
+            "currencies": [
+                {
+                    "code": "SYS",
+                    "title": "Syscoin",
+                    "slug": "syscoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/syscoin\/"
+                },
+                {
+                    "code": "WSYS",
+                    "title": "Wrapped Syscoin",
+                    "slug": "wrapped-syscoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-syscoin\/"
+                }
+            ],
+            "id": 17877087,
+            "url": "https:\/\/cryptopanic.com\/news\/17877087\/Our-SyscoinGold-frens-get-free-11-exclusive-minting-of-the-upcoming-DystoSoul-loyalty-NFT-The-first-proprie",
+            "created_at": "2023-03-14T17:23:46Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@syscoin",
+            "source": {
+                "title": "Syscoin Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@syscoin"
+            },
+            "title": "The upgrade to #Syscoin Core 4.4 is now available. All masternode operators, miners, exchanges, and other users of\u2026",
+            "published_at": "2023-03-14T13:42:29Z",
+            "slug": "The-upgrade-to-Syscoin-Core-44-is-now-available-All-masternode-operators-miners-exchanges-and-other-users-of",
+            "currencies": [
+                {
+                    "code": "SYS",
+                    "title": "Syscoin",
+                    "slug": "syscoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/syscoin\/"
+                },
+                {
+                    "code": "WSYS",
+                    "title": "Wrapped Syscoin",
+                    "slug": "wrapped-syscoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-syscoin\/"
+                }
+            ],
+            "id": 17876250,
+            "url": "https:\/\/cryptopanic.com\/news\/17876250\/The-upgrade-to-Syscoin-Core-44-is-now-available-All-masternode-operators-miners-exchanges-and-other-users-of",
+            "created_at": "2023-03-14T13:42:29Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@syscoin",
+            "source": {
+                "title": "Syscoin Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@syscoin"
+            },
+            "title": "RT @realSidhuJag: this will affect almost all bitcoin forks.. not an issue with @syscoin as we just did a release w\u2026",
+            "published_at": "2023-03-14T03:15:44Z",
+            "slug": "RT-realSidhuJag-this-will-affect-almost-all-bitcoin-forks-not-an-issue-with-syscoin-as-we-just-did-a-release-w",
+            "currencies": [
+                {
+                    "code": "SYS",
+                    "title": "Syscoin",
+                    "slug": "syscoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/syscoin\/"
+                },
+                {
+                    "code": "WSYS",
+                    "title": "Wrapped Syscoin",
+                    "slug": "wrapped-syscoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-syscoin\/"
+                }
+            ],
+            "id": 17868460,
+            "url": "https:\/\/cryptopanic.com\/news\/17868460\/RT-realSidhuJag-this-will-affect-almost-all-bitcoin-forks-not-an-issue-with-syscoin-as-we-just-did-a-release-w",
+            "created_at": "2023-03-14T03:15:44Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@syscoin",
+            "source": {
+                "title": "Syscoin Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@syscoin"
+            },
+            "title": "1\/x\nBeyond being the first-to-market L1 DA &amp; compatible with all types of #rollups, #PoDA also features some great\u2026",
+            "published_at": "2023-03-13T22:05:37Z",
+            "slug": "1x-Beyond-being-the-first-to-market-L1-DA-amp-compatible-with-all-types-of-rollups-PoDA-also-features-some-great",
+            "currencies": [
+                {
+                    "code": "SYS",
+                    "title": "Syscoin",
+                    "slug": "syscoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/syscoin\/"
+                },
+                {
+                    "code": "WSYS",
+                    "title": "Wrapped Syscoin",
+                    "slug": "wrapped-syscoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-syscoin\/"
+                }
+            ],
+            "id": 17867904,
+            "url": "https:\/\/cryptopanic.com\/news\/17867904\/1x-Beyond-being-the-first-to-market-L1-DA-amp-compatible-with-all-types-of-rollups-PoDA-also-features-some-great",
+            "created_at": "2023-03-13T22:05:37Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@syscoin",
+            "source": {
+                "title": "Syscoin Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@syscoin"
+            },
+            "title": "1\/x\nIn addition to being the first-to-market L1 DA and compatible with all types of #rollups, #PoDA also features s\u2026",
+            "published_at": "2023-03-13T22:03:06Z",
+            "slug": "1x-In-addition-to-being-the-first-to-market-L1-DA-and-compatible-with-all-types-of-rollups-PoDA-also-features-s",
+            "currencies": [
+                {
+                    "code": "SYS",
+                    "title": "Syscoin",
+                    "slug": "syscoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/syscoin\/"
+                },
+                {
+                    "code": "WSYS",
+                    "title": "Wrapped Syscoin",
+                    "slug": "wrapped-syscoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-syscoin\/"
+                }
+            ],
+            "id": 17867893,
+            "url": "https:\/\/cryptopanic.com\/news\/17867893\/1x-In-addition-to-being-the-first-to-market-L1-DA-and-compatible-with-all-types-of-rollups-PoDA-also-features-s",
+            "created_at": "2023-03-13T22:03:06Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@syscoin",
+            "source": {
+                "title": "Syscoin Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@syscoin"
+            },
+            "title": "RT @proguerra: Curious about bridging fees to the #Syscoin L2 Rollux?\nSyscoin was built to scale and keep costs low. With the 4.4 upgrade a\u2026",
+            "published_at": "2023-03-13T21:32:46Z",
+            "slug": "RT-proguerra-Curious-about-bridging-fees-to-the-Syscoin-L2-Rollux-Syscoin-was-built-to-scale-and-keep-costs-low-With-the-44-upgrade-a",
+            "currencies": [
+                {
+                    "code": "SYS",
+                    "title": "Syscoin",
+                    "slug": "syscoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/syscoin\/"
+                },
+                {
+                    "code": "WSYS",
+                    "title": "Wrapped Syscoin",
+                    "slug": "wrapped-syscoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-syscoin\/"
+                }
+            ],
+            "id": 17867825,
+            "url": "https:\/\/cryptopanic.com\/news\/17867825\/RT-proguerra-Curious-about-bridging-fees-to-the-Syscoin-L2-Rollux-Syscoin-was-built-to-scale-and-keep-costs-low-With-the-44-upgrade-a",
+            "created_at": "2023-03-13T21:32:46Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@syscoin",
+            "source": {
+                "title": "Syscoin Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@syscoin"
+            },
+            "title": "ANNOUNCEMENT \ufe0f\n\nThe blockchain industry's 1st #L1 data availability solution for #rollups is launching!\ud83e\udd47\n\nThe\u2026",
+            "published_at": "2023-03-13T20:59:50Z",
+            "slug": "ANNOUNCEMENT-The-blockchain-industrys-1st-L1-data-availability-solution-for-rollups-is-launching-The",
+            "currencies": [
+                {
+                    "code": "SYS",
+                    "title": "Syscoin",
+                    "slug": "syscoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/syscoin\/"
+                },
+                {
+                    "code": "WSYS",
+                    "title": "Wrapped Syscoin",
+                    "slug": "wrapped-syscoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-syscoin\/"
+                }
+            ],
+            "id": 17867741,
+            "url": "https:\/\/cryptopanic.com\/news\/17867741\/ANNOUNCEMENT-The-blockchain-industrys-1st-L1-data-availability-solution-for-rollups-is-launching-The",
+            "created_at": "2023-03-13T20:59:50Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@syscoin",
+            "source": {
+                "title": "Syscoin Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@syscoin"
+            },
+            "title": "RT @burgerboycrypto: Great night in Dubai for a @syscoin announcement!",
+            "published_at": "2023-03-13T18:56:53Z",
+            "slug": "RT-burgerboycrypto-Great-night-in-Dubai-for-a-syscoin-announcement",
+            "currencies": [
+                {
+                    "code": "SYS",
+                    "title": "Syscoin",
+                    "slug": "syscoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/syscoin\/"
+                },
+                {
+                    "code": "WSYS",
+                    "title": "Wrapped Syscoin",
+                    "slug": "wrapped-syscoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-syscoin\/"
+                }
+            ],
+            "id": 17867399,
+            "url": "https:\/\/cryptopanic.com\/news\/17867399\/RT-burgerboycrypto-Great-night-in-Dubai-for-a-syscoin-announcement",
+            "created_at": "2023-03-13T18:56:53Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@syscoin",
+            "source": {
+                "title": "Syscoin Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@syscoin"
+            },
+            "title": "RT @syscoin: Fun and busy week ahead for $SYS and ecosystem news! Buckle up.\n\nWhen financial worlds seem to be falling apart, #Syscoin open\u2026",
+            "published_at": "2023-03-12T15:41:46Z",
+            "slug": "RT-syscoin-Fun-and-busy-week-ahead-for-SYS-and-ecosystem-news-Buckle-up-When-financial-worlds-seem-to-be-falling-apart-Syscoin-open",
+            "currencies": [
+                {
+                    "code": "SYS",
+                    "title": "Syscoin",
+                    "slug": "syscoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/syscoin\/"
+                },
+                {
+                    "code": "WSYS",
+                    "title": "Wrapped Syscoin",
+                    "slug": "wrapped-syscoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-syscoin\/"
+                }
+            ],
+            "id": 17859626,
+            "url": "https:\/\/cryptopanic.com\/news\/17859626\/RT-syscoin-Fun-and-busy-week-ahead-for-SYS-and-ecosystem-news-Buckle-up-When-financial-worlds-seem-to-be-falling-apart-Syscoin-open",
+            "created_at": "2023-03-12T15:41:46Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@syscoin",
+            "source": {
+                "title": "Syscoin Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@syscoin"
+            },
+            "title": "Fun and busy week ahead for $SYS and ecosystem news! Buckle up.\n\nWhen financial worlds seem to be falling apart,\u2026",
+            "published_at": "2023-03-12T14:00:37Z",
+            "slug": "Fun-and-busy-week-ahead-for-SYS-and-ecosystem-news-Buckle-up-When-financial-worlds-seem-to-be-falling-apart",
+            "currencies": [
+                {
+                    "code": "SYS",
+                    "title": "Syscoin",
+                    "slug": "syscoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/syscoin\/"
+                },
+                {
+                    "code": "WSYS",
+                    "title": "Wrapped Syscoin",
+                    "slug": "wrapped-syscoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-syscoin\/"
+                }
+            ],
+            "id": 17859430,
+            "url": "https:\/\/cryptopanic.com\/news\/17859430\/Fun-and-busy-week-ahead-for-SYS-and-ecosystem-news-Buckle-up-When-financial-worlds-seem-to-be-falling-apart",
+            "created_at": "2023-03-12T14:00:37Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@syscoin",
+            "source": {
+                "title": "Syscoin Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@syscoin"
+            },
+            "title": "RT @realSidhuJag: Now is even more pressing time to try to discover algorithmic stability on blockchain aka \u201cmoney\u201d. We shouldn\u2019t give up\u2026",
+            "published_at": "2023-03-12T03:47:21Z",
+            "slug": "RT-realSidhuJag-Now-is-even-more-pressing-time-to-try-to-discover-algorithmic-stability-on-blockchain-aka-money-We-shouldnt-give-up",
+            "currencies": [
+                {
+                    "code": "SYS",
+                    "title": "Syscoin",
+                    "slug": "syscoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/syscoin\/"
+                },
+                {
+                    "code": "WSYS",
+                    "title": "Wrapped Syscoin",
+                    "slug": "wrapped-syscoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-syscoin\/"
+                }
+            ],
+            "id": 17854993,
+            "url": "https:\/\/cryptopanic.com\/news\/17854993\/RT-realSidhuJag-Now-is-even-more-pressing-time-to-try-to-discover-algorithmic-stability-on-blockchain-aka-money-We-shouldnt-give-up",
+            "created_at": "2023-03-12T03:47:21Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@syscoin",
+            "source": {
+                "title": "Syscoin Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@syscoin"
+            },
+            "title": "Let it be known that #Syscoin and the foundation are unaffected by the #SVBCollapse or other banking troubles of th\u2026",
+            "published_at": "2023-03-11T23:46:39Z",
+            "slug": "Let-it-be-known-that-Syscoin-and-the-foundation-are-unaffected-by-the-SVBCollapse-or-other-banking-troubles-of-th",
+            "currencies": [
+                {
+                    "code": "SYS",
+                    "title": "Syscoin",
+                    "slug": "syscoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/syscoin\/"
+                },
+                {
+                    "code": "WSYS",
+                    "title": "Wrapped Syscoin",
+                    "slug": "wrapped-syscoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-syscoin\/"
+                }
+            ],
+            "id": 17854685,
+            "url": "https:\/\/cryptopanic.com\/news\/17854685\/Let-it-be-known-that-Syscoin-and-the-foundation-are-unaffected-by-the-SVBCollapse-or-other-banking-troubles-of-th",
+            "created_at": "2023-03-11T23:46:39Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@syscoin",
+            "source": {
+                "title": "Syscoin Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@syscoin"
+            },
+            "title": "RT @CrossChainge: The @syscoin community should be really thrilled about this!\n\n$CHNG is the decentralized Binance \n\nNEVM being supported\u2026",
+            "published_at": "2023-03-11T05:55:15Z",
+            "slug": "RT-CrossChainge-The-syscoin-community-should-be-really-thrilled-about-this-CHNG-is-the-decentralized-Binance-NEVM-being-supported",
+            "currencies": [
+                {
+                    "code": "SYS",
+                    "title": "Syscoin",
+                    "slug": "syscoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/syscoin\/"
+                },
+                {
+                    "code": "WSYS",
+                    "title": "Wrapped Syscoin",
+                    "slug": "wrapped-syscoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-syscoin\/"
+                }
+            ],
+            "id": 17847947,
+            "url": "https:\/\/cryptopanic.com\/news\/17847947\/RT-CrossChainge-The-syscoin-community-should-be-really-thrilled-about-this-CHNG-is-the-decentralized-Binance-NEVM-being-supported",
+            "created_at": "2023-03-11T05:55:15Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@syscoin",
+            "source": {
+                "title": "Syscoin Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@syscoin"
+            },
+            "title": "RT @SupraOracles: @SupraOracles is excited to announce its partnership with @syscoin, a dual-layered blockchain.\n\nSyscoin brings together t\u2026",
+            "published_at": "2023-03-10T20:04:32Z",
+            "slug": "RT-SupraOracles-SupraOracles-is-excited-to-announce-its-partnership-with-syscoin-a-dual-layered-blockchain-Syscoin-brings-together-t",
+            "currencies": [
+                {
+                    "code": "SYS",
+                    "title": "Syscoin",
+                    "slug": "syscoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/syscoin\/"
+                },
+                {
+                    "code": "WSYS",
+                    "title": "Wrapped Syscoin",
+                    "slug": "wrapped-syscoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-syscoin\/"
+                }
+            ],
+            "id": 17846307,
+            "url": "https:\/\/cryptopanic.com\/news\/17846307\/RT-SupraOracles-SupraOracles-is-excited-to-announce-its-partnership-with-syscoin-a-dual-layered-blockchain-Syscoin-brings-together-t",
+            "created_at": "2023-03-10T20:04:32Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@syscoin",
+            "source": {
+                "title": "Syscoin Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@syscoin"
+            },
+            "title": "#SyscoinWeekly XIV.\n\n\ufe0f Weekly Video: Why Syscoin is the Ideal Layer 1\n\ufe0f #Syscoin &amp; @SupraOracles visit\u2026",
+            "published_at": "2023-03-08T21:45:56Z",
+            "slug": "SyscoinWeekly-XIV-Weekly-Video-Why-Syscoin-is-the-Ideal-Layer-1-Syscoin-amp-SupraOracles-visit",
+            "currencies": [
+                {
+                    "code": "SYS",
+                    "title": "Syscoin",
+                    "slug": "syscoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/syscoin\/"
+                },
+                {
+                    "code": "WSYS",
+                    "title": "Wrapped Syscoin",
+                    "slug": "wrapped-syscoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-syscoin\/"
+                }
+            ],
+            "id": 17826425,
+            "url": "https:\/\/cryptopanic.com\/news\/17826425\/SyscoinWeekly-XIV-Weekly-Video-Why-Syscoin-is-the-Ideal-Layer-1-Syscoin-amp-SupraOracles-visit",
+            "created_at": "2023-03-08T21:45:56Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@syscoin",
+            "source": {
+                "title": "Syscoin Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@syscoin"
+            },
+            "title": "\"Why #Syscoin is the Ideal Layer 1\"\n\nThere are many reasons to choose Syscoin as your settlement layer. We cover a\u2026",
+            "published_at": "2023-03-08T21:38:06Z",
+            "slug": "Why-Syscoin-is-the-Ideal-Layer-1-There-are-many-reasons-to-choose-Syscoin-as-your-settlement-layer-We-cover-a",
+            "currencies": [
+                {
+                    "code": "SYS",
+                    "title": "Syscoin",
+                    "slug": "syscoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/syscoin\/"
+                },
+                {
+                    "code": "WSYS",
+                    "title": "Wrapped Syscoin",
+                    "slug": "wrapped-syscoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-syscoin\/"
+                }
+            ],
+            "id": 17826399,
+            "url": "https:\/\/cryptopanic.com\/news\/17826399\/Why-Syscoin-is-the-Ideal-Layer-1-There-are-many-reasons-to-choose-Syscoin-as-your-settlement-layer-We-cover-a",
+            "created_at": "2023-03-08T21:38:06Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@syscoin",
+            "source": {
+                "title": "Syscoin Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@syscoin"
+            },
+            "title": "RT @HouseofChimera: How secure is @syscoin?\n\nThe $SYS ecosystem utilizes 4 cornerstones to ensure platform security.\nThe ecosystem utiliz\u2026",
+            "published_at": "2023-03-08T17:53:44Z",
+            "slug": "RT-HouseofChimera-How-secure-is-syscoin-The-SYS-ecosystem-utilizes-4-cornerstones-to-ensure-platform-security-The-ecosystem-utiliz",
+            "currencies": [
+                {
+                    "code": "SYS",
+                    "title": "Syscoin",
+                    "slug": "syscoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/syscoin\/"
+                },
+                {
+                    "code": "WSYS",
+                    "title": "Wrapped Syscoin",
+                    "slug": "wrapped-syscoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-syscoin\/"
+                }
+            ],
+            "id": 17825763,
+            "url": "https:\/\/cryptopanic.com\/news\/17825763\/RT-HouseofChimera-How-secure-is-syscoin-The-SYS-ecosystem-utilizes-4-cornerstones-to-ensure-platform-security-The-ecosystem-utiliz",
+            "created_at": "2023-03-08T17:53:44Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@syscoin",
+            "source": {
+                "title": "Syscoin Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@syscoin"
+            },
+            "title": "Check out what's happening with the latest from @syscoin! \n\n \n\n#L2 #Optimism #rollups",
+            "published_at": "2023-03-01T22:36:46Z",
+            "slug": "Check-out-whats-happening-with-the-latest-from-syscoin-L2-Optimism-rollups",
+            "currencies": [
+                {
+                    "code": "SYS",
+                    "title": "Syscoin",
+                    "slug": "syscoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/syscoin\/"
+                },
+                {
+                    "code": "WSYS",
+                    "title": "Wrapped Syscoin",
+                    "slug": "wrapped-syscoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-syscoin\/"
+                }
+            ],
+            "id": 17766751,
+            "url": "https:\/\/cryptopanic.com\/news\/17766751\/Check-out-whats-happening-with-the-latest-from-syscoin-L2-Optimism-rollups",
+            "created_at": "2023-03-01T22:36:46Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@syscoin",
+            "source": {
+                "title": "Syscoin Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@syscoin"
+            },
+            "title": "RT @JoshRoomsburg: Watch the #ChainLeakPodcast\n\nInterview with @realSidhuJag\nCo-Founder of @Syscoin\n\nStreaming on #YouTube \n\n",
+            "published_at": "2023-02-28T15:15:31Z",
+            "slug": "RT-JoshRoomsburg-Watch-the-ChainLeakPodcast-Interview-with-realSidhuJag-Co-Founder-of-Syscoin-Streaming-on-YouTube",
+            "currencies": [
+                {
+                    "code": "SYS",
+                    "title": "Syscoin",
+                    "slug": "syscoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/syscoin\/"
+                },
+                {
+                    "code": "WSYS",
+                    "title": "Wrapped Syscoin",
+                    "slug": "wrapped-syscoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-syscoin\/"
+                }
+            ],
+            "id": 17755432,
+            "url": "https:\/\/cryptopanic.com\/news\/17755432\/RT-JoshRoomsburg-Watch-the-ChainLeakPodcast-Interview-with-realSidhuJag-Co-Founder-of-Syscoin-Streaming-on-YouTube",
+            "created_at": "2023-02-28T15:15:31Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

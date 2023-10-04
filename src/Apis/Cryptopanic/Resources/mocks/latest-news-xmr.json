@@ -1,0 +1,1013 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=XMR&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "medium.com",
+            "source": {
+                "title": "Byteball Bytes Blog",
+                "region": "en",
+                "domain": "medium.com",
+                "path": null
+            },
+            "title": "How You Can Support Key Open-Source Initiatives With Kivach",
+            "published_at": "2023-10-03T09:18:47Z",
+            "slug": "How-You-Can-Support-Key-Open-Source-Initiatives-With-Kivach",
+            "currencies": [
+                {
+                    "code": "GBYTE",
+                    "title": "Obyte",
+                    "slug": "byteball",
+                    "url": "https:\/\/cryptopanic.com\/news\/byteball\/"
+                },
+                {
+                    "code": "XMR",
+                    "title": "Monero",
+                    "slug": "monero",
+                    "url": "https:\/\/cryptopanic.com\/news\/monero\/"
+                },
+                {
+                    "code": "FLOW",
+                    "title": "Flow",
+                    "slug": "flow",
+                    "url": "https:\/\/cryptopanic.com\/news\/flow\/"
+                }
+            ],
+            "id": 18944075,
+            "url": "https:\/\/cryptopanic.com\/news\/18944075\/How-You-Can-Support-Key-Open-Source-Initiatives-With-Kivach",
+            "created_at": "2023-10-03T09:18:47Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "Rino Makes Enterprise Wallet Free",
+            "published_at": "2023-10-02T12:30:00Z",
+            "slug": "Rino-Makes-Enterprise-Wallet-Free",
+            "currencies": [
+                {
+                    "code": "XMR",
+                    "title": "Monero",
+                    "slug": "monero",
+                    "url": "https:\/\/cryptopanic.com\/news\/monero\/"
+                }
+            ],
+            "id": 18941999,
+            "url": "https:\/\/cryptopanic.com\/news\/18941999\/Rino-Makes-Enterprise-Wallet-Free",
+            "created_at": "2023-10-02T12:30:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "medium.com",
+            "source": {
+                "title": "Byteball Bytes Blog",
+                "region": "en",
+                "domain": "medium.com",
+                "path": null
+            },
+            "title": "5 Crypto-Stealing Malware Threats: How to Stay Safe and Aware",
+            "published_at": "2023-10-01T11:00:01Z",
+            "slug": "5-Crypto-Stealing-Malware-Threats-How-to-Stay-Safe-and-Aware",
+            "currencies": [
+                {
+                    "code": "GBYTE",
+                    "title": "Obyte",
+                    "slug": "byteball",
+                    "url": "https:\/\/cryptopanic.com\/news\/byteball\/"
+                },
+                {
+                    "code": "XMR",
+                    "title": "Monero",
+                    "slug": "monero",
+                    "url": "https:\/\/cryptopanic.com\/news\/monero\/"
+                }
+            ],
+            "id": 18940144,
+            "url": "https:\/\/cryptopanic.com\/news\/18940144\/5-Crypto-Stealing-Malware-Threats-How-to-Stay-Safe-and-Aware",
+            "created_at": "2023-10-01T11:00:01Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "medium.com",
+            "source": {
+                "title": "Decred Blog",
+                "region": "en",
+                "domain": "medium.com",
+                "path": null
+            },
+            "title": "Decred Journal\u200a\u2014\u200aAugust 2023",
+            "published_at": "2023-09-26T15:14:45Z",
+            "slug": "Decred-Journal-August-2023",
+            "currencies": [
+                {
+                    "code": "DCR",
+                    "title": "Decred",
+                    "slug": "decred",
+                    "url": "https:\/\/cryptopanic.com\/news\/decred\/"
+                },
+                {
+                    "code": "LTC",
+                    "title": "Litecoin",
+                    "slug": "litecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/litecoin\/"
+                },
+                {
+                    "code": "BCH",
+                    "title": "Bitcoin Cash",
+                    "slug": "bitcoin-cash",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin-cash\/"
+                },
+                {
+                    "code": "UNI",
+                    "title": "Uniswap",
+                    "slug": "uniswap",
+                    "url": "https:\/\/cryptopanic.com\/news\/uniswap\/"
+                },
+                {
+                    "code": "XMR",
+                    "title": "Monero",
+                    "slug": "monero",
+                    "url": "https:\/\/cryptopanic.com\/news\/monero\/"
+                },
+                {
+                    "code": "MKR",
+                    "title": "Maker",
+                    "slug": "maker",
+                    "url": "https:\/\/cryptopanic.com\/news\/maker\/"
+                },
+                {
+                    "code": "OP",
+                    "title": "Optimism",
+                    "slug": "optimism",
+                    "url": "https:\/\/cryptopanic.com\/news\/optimism\/"
+                }
+            ],
+            "id": 18929587,
+            "url": "https:\/\/cryptopanic.com\/news\/18929587\/Decred-Journal-August-2023",
+            "created_at": "2023-09-26T15:14:45Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coingabbar.com",
+            "source": {
+                "title": "coingabbar",
+                "region": "en",
+                "domain": "coingabbar.com",
+                "path": null
+            },
+            "title": "Bitcoin has the Largest Asset Value at Lazarus Group",
+            "published_at": "2023-09-25T12:30:00Z",
+            "slug": "Bitcoin-has-the-Largest-Asset-Value-at-Lazarus-Group",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "XMR",
+                    "title": "Monero",
+                    "slug": "monero",
+                    "url": "https:\/\/cryptopanic.com\/news\/monero\/"
+                }
+            ],
+            "id": 18926410,
+            "url": "https:\/\/cryptopanic.com\/news\/18926410\/Bitcoin-has-the-Largest-Asset-Value-at-Lazarus-Group",
+            "created_at": "2023-09-25T12:30:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "theblock.co",
+            "votes": {
+                "negative": 0,
+                "positive": 5,
+                "important": 3,
+                "liked": 5,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 2,
+                "comments": 0
+            },
+            "source": {
+                "title": "The Block",
+                "region": "en",
+                "domain": "theblock.co",
+                "path": null
+            },
+            "title": "What is Monero and how does it work? A beginner\u2019s guide to XMR",
+            "published_at": "2023-09-18T11:02:46Z",
+            "slug": "What-is-Monero-and-how-does-it-work-A-beginners-guide-to-XMR",
+            "currencies": [
+                {
+                    "code": "XMR",
+                    "title": "Monero",
+                    "slug": "monero",
+                    "url": "https:\/\/cryptopanic.com\/news\/monero\/"
+                }
+            ],
+            "id": 18910466,
+            "url": "https:\/\/cryptopanic.com\/news\/18910466\/What-is-Monero-and-how-does-it-work-A-beginners-guide-to-XMR",
+            "created_at": "2023-09-18T11:02:46Z"
+        },
+        {
+            "kind": "news",
+            "domain": "bitcoin.com",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "Bitcoin.com",
+                "region": "en",
+                "domain": "bitcoin.com",
+                "path": null
+            },
+            "title": "What is Monero? A Brief History of the World\u2019s Top Privacy Coin",
+            "published_at": "2023-09-11T05:30:12Z",
+            "slug": "What-is-Monero-A-Brief-History-of-the-Worlds-Top-Privacy-Coin",
+            "currencies": [
+                {
+                    "code": "XMR",
+                    "title": "Monero",
+                    "slug": "monero",
+                    "url": "https:\/\/cryptopanic.com\/news\/monero\/"
+                }
+            ],
+            "id": 18893309,
+            "url": "https:\/\/cryptopanic.com\/news\/18893309\/What-is-Monero-A-Brief-History-of-the-Worlds-Top-Privacy-Coin",
+            "created_at": "2023-09-11T05:30:12Z"
+        },
+        {
+            "kind": "news",
+            "domain": "cointelegraph.com",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "CoinTelegraph",
+                "region": "en",
+                "domain": "cointelegraph.com",
+                "path": null
+            },
+            "title": "TON, XLM, XMR, and MKR could attract buyers if Bitcoin rises above $26,500",
+            "published_at": "2023-09-10T18:58:10Z",
+            "slug": "TON-XLM-XMR-and-MKR-could-attract-buyers-if-Bitcoin-rises-above-26500",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "TON",
+                    "title": "Toncoin",
+                    "slug": "the-open-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/the-open-network\/"
+                },
+                {
+                    "code": "XLM",
+                    "title": "Stellar",
+                    "slug": "stellar",
+                    "url": "https:\/\/cryptopanic.com\/news\/stellar\/"
+                },
+                {
+                    "code": "XMR",
+                    "title": "Monero",
+                    "slug": "monero",
+                    "url": "https:\/\/cryptopanic.com\/news\/monero\/"
+                },
+                {
+                    "code": "MKR",
+                    "title": "Maker",
+                    "slug": "maker",
+                    "url": "https:\/\/cryptopanic.com\/news\/maker\/"
+                }
+            ],
+            "id": 18892874,
+            "url": "https:\/\/cryptopanic.com\/news\/18892874\/TON-XLM-XMR-and-MKR-could-attract-buyers-if-Bitcoin-rises-above-26500",
+            "created_at": "2023-09-10T18:58:10Z"
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "XMR bulls stand firm amid a sluggish market: Is a rally on the cards?",
+            "published_at": "2023-09-07T07:30:09Z",
+            "slug": "XMR-bulls-stand-firm-amid-a-sluggish-market-Is-a-rally-on-the-cards",
+            "currencies": [
+                {
+                    "code": "XMR",
+                    "title": "Monero",
+                    "slug": "monero",
+                    "url": "https:\/\/cryptopanic.com\/news\/monero\/"
+                }
+            ],
+            "id": 18885607,
+            "url": "https:\/\/cryptopanic.com\/news\/18885607\/XMR-bulls-stand-firm-amid-a-sluggish-market-Is-a-rally-on-the-cards",
+            "created_at": "2023-09-07T07:30:09Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "votes": {
+                "negative": 1,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Binance Will Halt These 39 Liquidity Mining Pools This Week",
+            "published_at": "2023-08-28T19:00:36Z",
+            "slug": "Binance-Will-Halt-These-39-Liquidity-Mining-Pools-This-Week",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "BNB",
+                    "title": "BNB",
+                    "slug": "binancecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/binancecoin\/"
+                },
+                {
+                    "code": "ADA",
+                    "title": "Cardano",
+                    "slug": "cardano",
+                    "url": "https:\/\/cryptopanic.com\/news\/cardano\/"
+                },
+                {
+                    "code": "TRX",
+                    "title": "TRON",
+                    "slug": "tron",
+                    "url": "https:\/\/cryptopanic.com\/news\/tron\/"
+                },
+                {
+                    "code": "DOT",
+                    "title": "Polkadot",
+                    "slug": "polkadot",
+                    "url": "https:\/\/cryptopanic.com\/news\/polkadot\/"
+                },
+                {
+                    "code": "MATIC",
+                    "title": "Polygon",
+                    "slug": "matic-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-network\/"
+                },
+                {
+                    "code": "WBTC",
+                    "title": "Wrapped Bitcoin",
+                    "slug": "wrapped-bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-bitcoin\/"
+                },
+                {
+                    "code": "AVAX",
+                    "title": "Avalanche",
+                    "slug": "avalanche-2",
+                    "url": "https:\/\/cryptopanic.com\/news\/avalanche-2\/"
+                },
+                {
+                    "code": "XMR",
+                    "title": "Monero",
+                    "slug": "monero",
+                    "url": "https:\/\/cryptopanic.com\/news\/monero\/"
+                },
+                {
+                    "code": "ICP",
+                    "title": "Internet Computer",
+                    "slug": "internet-computer",
+                    "url": "https:\/\/cryptopanic.com\/news\/internet-computer\/"
+                },
+                {
+                    "code": "FIL",
+                    "title": "Filecoin",
+                    "slug": "filecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/filecoin\/"
+                },
+                {
+                    "code": "THETA",
+                    "title": "Theta Network",
+                    "slug": "theta-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/theta-token\/"
+                },
+                {
+                    "code": "APE",
+                    "title": "ApeCoin",
+                    "slug": "apecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/apecoin\/"
+                },
+                {
+                    "code": "NEO",
+                    "title": "NEO",
+                    "slug": "neo",
+                    "url": "https:\/\/cryptopanic.com\/news\/neo\/"
+                },
+                {
+                    "code": "GALA",
+                    "title": "GALA",
+                    "slug": "gala",
+                    "url": "https:\/\/cryptopanic.com\/news\/gala\/"
+                },
+                {
+                    "code": "PAXG",
+                    "title": "PAX Gold",
+                    "slug": "pax-gold",
+                    "url": "https:\/\/cryptopanic.com\/news\/pax-gold\/"
+                },
+                {
+                    "code": "CHZ",
+                    "title": "Chiliz",
+                    "slug": "chiliz",
+                    "url": "https:\/\/cryptopanic.com\/news\/chiliz\/"
+                },
+                {
+                    "code": "PEPE",
+                    "title": "Pepe",
+                    "slug": "pepe",
+                    "url": "https:\/\/cryptopanic.com\/news\/pepe\/"
+                }
+            ],
+            "id": 18864662,
+            "url": "https:\/\/cryptopanic.com\/news\/18864662\/Binance-Will-Halt-These-39-Liquidity-Mining-Pools-This-Week",
+            "created_at": "2023-08-28T19:00:36Z"
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "Monero: A new miner, growing concerns and the current state of the XMR token",
+            "published_at": "2023-08-28T14:30:01Z",
+            "slug": "Monero-A-new-miner-growing-concerns-and-the-current-state-of-the-XMR-token",
+            "currencies": [
+                {
+                    "code": "XMR",
+                    "title": "Monero",
+                    "slug": "monero",
+                    "url": "https:\/\/cryptopanic.com\/news\/monero\/"
+                }
+            ],
+            "id": 18864091,
+            "url": "https:\/\/cryptopanic.com\/news\/18864091\/Monero-A-new-miner-growing-concerns-and-the-current-state-of-the-XMR-token",
+            "created_at": "2023-08-28T14:30:01Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "medium.com",
+            "source": {
+                "title": "Byteball Bytes Blog",
+                "region": "en",
+                "domain": "medium.com",
+                "path": null
+            },
+            "title": "Non-Fungible Tokens (NFTs): Anyone Can Do It and Earn From It",
+            "published_at": "2023-08-28T08:19:06Z",
+            "slug": "Non-Fungible-Tokens-NFTs-Anyone-Can-Do-It-and-Earn-From-It",
+            "currencies": [
+                {
+                    "code": "GBYTE",
+                    "title": "Obyte",
+                    "slug": "byteball",
+                    "url": "https:\/\/cryptopanic.com\/news\/byteball\/"
+                },
+                {
+                    "code": "DOGE",
+                    "title": "Dogecoin",
+                    "slug": "dogecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/dogecoin\/"
+                },
+                {
+                    "code": "LTC",
+                    "title": "Litecoin",
+                    "slug": "litecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/litecoin\/"
+                },
+                {
+                    "code": "XMR",
+                    "title": "Monero",
+                    "slug": "monero",
+                    "url": "https:\/\/cryptopanic.com\/news\/monero\/"
+                },
+                {
+                    "code": "ETC",
+                    "title": "Ethereum Classic",
+                    "slug": "ethereum-classic",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum-classic\/"
+                }
+            ],
+            "id": 18863536,
+            "url": "https:\/\/cryptopanic.com\/news\/18863536\/Non-Fungible-Tokens-NFTs-Anyone-Can-Do-It-and-Earn-From-It",
+            "created_at": "2023-08-28T08:19:06Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "bitcoin.com",
+            "source": {
+                "title": "Bitcoin.com",
+                "region": "en",
+                "domain": "bitcoin.com",
+                "path": null
+            },
+            "title": "Bitmain\u2019s Upcoming Monero ASIC Miner Sparks Anxious Buzz Within XMR Community",
+            "published_at": "2023-08-27T23:30:25Z",
+            "slug": "Bitmains-Upcoming-Monero-ASIC-Miner-Sparks-Anxious-Buzz-Within-XMR-Community",
+            "currencies": [
+                {
+                    "code": "XMR",
+                    "title": "Monero",
+                    "slug": "monero",
+                    "url": "https:\/\/cryptopanic.com\/news\/monero\/"
+                }
+            ],
+            "id": 18862738,
+            "url": "https:\/\/cryptopanic.com\/news\/18862738\/Bitmains-Upcoming-Monero-ASIC-Miner-Sparks-Anxious-Buzz-Within-XMR-Community",
+            "created_at": "2023-08-27T23:30:25Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cointelegraph.com",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 1,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "CoinTelegraph",
+                "region": "en",
+                "domain": "cointelegraph.com",
+                "path": null
+            },
+            "title": "Bitcoin price stability creates lucrative setups in TON, XMR, MNT and QNT",
+            "published_at": "2023-08-27T19:08:27Z",
+            "slug": "Bitcoin-price-stability-creates-lucrative-setups-in-TON-XMR-MNT-and-QNT",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "TON",
+                    "title": "Toncoin",
+                    "slug": "the-open-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/the-open-network\/"
+                },
+                {
+                    "code": "XMR",
+                    "title": "Monero",
+                    "slug": "monero",
+                    "url": "https:\/\/cryptopanic.com\/news\/monero\/"
+                },
+                {
+                    "code": "QNT",
+                    "title": "Quant",
+                    "slug": "quant-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/quant-network\/"
+                },
+                {
+                    "code": "MNT",
+                    "title": "Mantle",
+                    "slug": "mantle",
+                    "url": "https:\/\/cryptopanic.com\/news\/mantle\/"
+                }
+            ],
+            "id": 18862575,
+            "url": "https:\/\/cryptopanic.com\/news\/18862575\/Bitcoin-price-stability-creates-lucrative-setups-in-TON-XMR-MNT-and-QNT",
+            "created_at": "2023-08-27T19:08:27Z"
+        },
+        {
+            "kind": "news",
+            "domain": "medium.com",
+            "source": {
+                "title": "Byteball Bytes Blog",
+                "region": "en",
+                "domain": "medium.com",
+                "path": null
+            },
+            "title": "Exploring the Legality of Crypto, Smart Contracts, and NFTs in 2023",
+            "published_at": "2023-08-26T11:11:36Z",
+            "slug": "Exploring-the-Legality-of-Crypto-Smart-Contracts-and-NFTs-in-2023",
+            "currencies": [
+                {
+                    "code": "GBYTE",
+                    "title": "Obyte",
+                    "slug": "byteball",
+                    "url": "https:\/\/cryptopanic.com\/news\/byteball\/"
+                },
+                {
+                    "code": "XMR",
+                    "title": "Monero",
+                    "slug": "monero",
+                    "url": "https:\/\/cryptopanic.com\/news\/monero\/"
+                }
+            ],
+            "id": 18861109,
+            "url": "https:\/\/cryptopanic.com\/news\/18861109\/Exploring-the-Legality-of-Crypto-Smart-Contracts-and-NFTs-in-2023",
+            "created_at": "2023-08-26T11:11:36Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "What are Altcoins? Definition & Different Types",
+            "published_at": "2023-08-24T16:21:43Z",
+            "slug": "What-are-Altcoins-Definition-Different-Types",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "USDT",
+                    "title": "Tether",
+                    "slug": "tether",
+                    "url": "https:\/\/cryptopanic.com\/news\/tether\/"
+                },
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "DOT",
+                    "title": "Polkadot",
+                    "slug": "polkadot",
+                    "url": "https:\/\/cryptopanic.com\/news\/polkadot\/"
+                },
+                {
+                    "code": "LTC",
+                    "title": "Litecoin",
+                    "slug": "litecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/litecoin\/"
+                },
+                {
+                    "code": "XMR",
+                    "title": "Monero",
+                    "slug": "monero",
+                    "url": "https:\/\/cryptopanic.com\/news\/monero\/"
+                },
+                {
+                    "code": "ARB",
+                    "title": "Arbitrum",
+                    "slug": "arbitrum",
+                    "url": "https:\/\/cryptopanic.com\/news\/arbitrum\/"
+                }
+            ],
+            "id": 18857366,
+            "url": "https:\/\/cryptopanic.com\/news\/18857366\/What-are-Altcoins-Definition-Different-Types",
+            "created_at": "2023-08-24T16:21:43Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "feeds2.benzinga.com",
+            "votes": {
+                "negative": 1,
+                "positive": 0,
+                "important": 1,
+                "liked": 0,
+                "disliked": 1,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "Benzinga",
+                "region": "en",
+                "domain": "feeds2.benzinga.com",
+                "path": null
+            },
+            "title": "Cryptocurrency Monero Down More Than 3% Within 24 hours",
+            "published_at": "2023-08-23T15:00:40Z",
+            "slug": "Cryptocurrency-Monero-Down-More-Than-3-Within-24-hours",
+            "currencies": [
+                {
+                    "code": "XMR",
+                    "title": "Monero",
+                    "slug": "monero",
+                    "url": "https:\/\/cryptopanic.com\/news\/monero\/"
+                }
+            ],
+            "id": 18854786,
+            "url": "https:\/\/cryptopanic.com\/news\/18854786\/Cryptocurrency-Monero-Down-More-Than-3-Within-24-hours",
+            "created_at": "2023-08-23T15:00:40Z"
+        },
+        {
+            "kind": "news",
+            "domain": "cryptodaily.co.uk",
+            "source": {
+                "title": "CryptoDaily",
+                "region": "en",
+                "domain": "cryptodaily.co.uk",
+                "path": null
+            },
+            "title": "FBI Seized Nearly $2M Worth in Crypto in 3 Months",
+            "published_at": "2023-08-21T18:53:00Z",
+            "slug": "FBI-Seized-Nearly-2M-Worth-in-Crypto-in-3-Months",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "USDT",
+                    "title": "Tether",
+                    "slug": "tether",
+                    "url": "https:\/\/cryptopanic.com\/news\/tether\/"
+                },
+                {
+                    "code": "DOGE",
+                    "title": "Dogecoin",
+                    "slug": "dogecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/dogecoin\/"
+                },
+                {
+                    "code": "DAI",
+                    "title": "Dai",
+                    "slug": "dai",
+                    "url": "https:\/\/cryptopanic.com\/news\/dai\/"
+                },
+                {
+                    "code": "XMR",
+                    "title": "Monero",
+                    "slug": "monero",
+                    "url": "https:\/\/cryptopanic.com\/news\/monero\/"
+                }
+            ],
+            "id": 18851260,
+            "url": "https:\/\/cryptopanic.com\/news\/18851260\/FBI-Seized-Nearly-2M-Worth-in-Crypto-in-3-Months",
+            "created_at": "2023-08-21T18:53:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinedition.com",
+            "source": {
+                "title": "coinedition",
+                "region": "en",
+                "domain": "coinedition.com",
+                "path": null
+            },
+            "title": "Can Monero\u2019s (XMR) Social Activity Hike Keep the Price Soaring?",
+            "published_at": "2023-08-21T11:45:00Z",
+            "slug": "Can-Moneros-XMR-Social-Activity-Hike-Keep-the-Price-Soaring",
+            "currencies": [
+                {
+                    "code": "XMR",
+                    "title": "Monero",
+                    "slug": "monero",
+                    "url": "https:\/\/cryptopanic.com\/news\/monero\/"
+                }
+            ],
+            "id": 18850182,
+            "url": "https:\/\/cryptopanic.com\/news\/18850182\/Can-Moneros-XMR-Social-Activity-Hike-Keep-the-Price-Soaring",
+            "created_at": "2023-08-21T11:45:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "What Monero\u2019s northbound momentum tells you",
+            "published_at": "2023-08-21T10:30:06Z",
+            "slug": "What-Moneros-northbound-momentum-tells-you",
+            "currencies": [
+                {
+                    "code": "XMR",
+                    "title": "Monero",
+                    "slug": "monero",
+                    "url": "https:\/\/cryptopanic.com\/news\/monero\/"
+                }
+            ],
+            "id": 18849933,
+            "url": "https:\/\/cryptopanic.com\/news\/18849933\/What-Moneros-northbound-momentum-tells-you",
+            "created_at": "2023-08-21T10:30:06Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

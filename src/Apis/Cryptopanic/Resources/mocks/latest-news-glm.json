@@ -1,0 +1,827 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=GLM&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "@golemproject",
+            "source": {
+                "title": "Golem Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@golemproject"
+            },
+            "title": "Thanks @blockchainrptr for the article! \ud83e\udd1d\n\nIn case you haven't seen the news about our dApp-runner and dApp-manager\u2026",
+            "published_at": "2023-03-11T12:21:28Z",
+            "slug": "Thanks-blockchainrptr-for-the-article-In-case-you-havent-seen-the-news-about-our-dApp-runner-and-dApp-manager",
+            "currencies": [
+                {
+                    "code": "GNT",
+                    "title": "Golem",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "GLM",
+                    "title": "Golem",
+                    "slug": "golem",
+                    "url": "https:\/\/cryptopanic.com\/news\/golem\/"
+                }
+            ],
+            "id": 17853469,
+            "url": "https:\/\/cryptopanic.com\/news\/17853469\/Thanks-blockchainrptr-for-the-article-In-case-you-havent-seen-the-news-about-our-dApp-runner-and-dApp-manager",
+            "created_at": "2023-03-11T12:21:28Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@golemproject",
+            "source": {
+                "title": "Golem Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@golemproject"
+            },
+            "title": "We are thrilled to announce the launch of our new SDK Rewards Program, starting today!\n\nAs part of our commitment t\u2026",
+            "published_at": "2023-03-10T12:20:43Z",
+            "slug": "We-are-thrilled-to-announce-the-launch-of-our-new-SDK-Rewards-Program-starting-today-As-part-of-our-commitment-t",
+            "currencies": [
+                {
+                    "code": "GNT",
+                    "title": "Golem",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "GLM",
+                    "title": "Golem",
+                    "slug": "golem",
+                    "url": "https:\/\/cryptopanic.com\/news\/golem\/"
+                }
+            ],
+            "id": 17844795,
+            "url": "https:\/\/cryptopanic.com\/news\/17844795\/We-are-thrilled-to-announce-the-launch-of-our-new-SDK-Rewards-Program-starting-today-As-part-of-our-commitment-t",
+            "created_at": "2023-03-10T12:20:43Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@golemproject",
+            "source": {
+                "title": "Golem Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@golemproject"
+            },
+            "title": "Exciting news!  \n\nWe've just released Dapp-runner and Dapp-manager. These experimental new tools will make deployi\u2026",
+            "published_at": "2023-03-08T15:44:22Z",
+            "slug": "Exciting-news-Weve-just-released-Dapp-runner-and-Dapp-manager-These-experimental-new-tools-will-make-deployi",
+            "currencies": [
+                {
+                    "code": "GNT",
+                    "title": "Golem",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "GLM",
+                    "title": "Golem",
+                    "slug": "golem",
+                    "url": "https:\/\/cryptopanic.com\/news\/golem\/"
+                }
+            ],
+            "id": 17825369,
+            "url": "https:\/\/cryptopanic.com\/news\/17825369\/Exciting-news-Weve-just-released-Dapp-runner-and-Dapp-manager-These-experimental-new-tools-will-make-deployi",
+            "created_at": "2023-03-08T15:44:22Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@golemproject",
+            "source": {
+                "title": "Golem Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@golemproject"
+            },
+            "title": "Proudly announcing  - our Golem Discord community has hit 7000 members  ! Congrats to our amazing community for\u2026",
+            "published_at": "2023-03-06T12:35:01Z",
+            "slug": "Proudly-announcing-our-Golem-Discord-community-has-hit-7000-members-Congrats-to-our-amazing-community-for",
+            "currencies": [
+                {
+                    "code": "GNT",
+                    "title": "Golem",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "GLM",
+                    "title": "Golem",
+                    "slug": "golem",
+                    "url": "https:\/\/cryptopanic.com\/news\/golem\/"
+                }
+            ],
+            "id": 17805665,
+            "url": "https:\/\/cryptopanic.com\/news\/17805665\/Proudly-announcing-our-Golem-Discord-community-has-hit-7000-members-Congrats-to-our-amazing-community-for",
+            "created_at": "2023-03-06T12:35:01Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@golemproject",
+            "source": {
+                "title": "Golem Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@golemproject"
+            },
+            "title": "Thanks, Przemek, for a great material about our recent project in Golem Network! It's been a pleasure to watch.\n\nIf\u2026",
+            "published_at": "2023-02-23T09:43:16Z",
+            "slug": "Thanks-Przemek-for-a-great-material-about-our-recent-project-in-Golem-Network-Its-been-a-pleasure-to-watch-If",
+            "currencies": [
+                {
+                    "code": "GNT",
+                    "title": "Golem",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "GLM",
+                    "title": "Golem",
+                    "slug": "golem",
+                    "url": "https:\/\/cryptopanic.com\/news\/golem\/"
+                }
+            ],
+            "id": 17714295,
+            "url": "https:\/\/cryptopanic.com\/news\/17714295\/Thanks-Przemek-for-a-great-material-about-our-recent-project-in-Golem-Network-Its-been-a-pleasure-to-watch-If",
+            "created_at": "2023-02-23T09:43:16Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@golemproject",
+            "source": {
+                "title": "Golem Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@golemproject"
+            },
+            "title": "Do you remember our latest post? We are happy to announce we do have a beta version of Discord bot that allows you\u2026",
+            "published_at": "2023-02-22T14:22:08Z",
+            "slug": "Do-you-remember-our-latest-post-We-are-happy-to-announce-we-do-have-a-beta-version-of-Discord-bot-that-allows-you",
+            "currencies": [
+                {
+                    "code": "GNT",
+                    "title": "Golem",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "GLM",
+                    "title": "Golem",
+                    "slug": "golem",
+                    "url": "https:\/\/cryptopanic.com\/news\/golem\/"
+                }
+            ],
+            "id": 17705990,
+            "url": "https:\/\/cryptopanic.com\/news\/17705990\/Do-you-remember-our-latest-post-We-are-happy-to-announce-we-do-have-a-beta-version-of-Discord-bot-that-allows-you",
+            "created_at": "2023-02-22T14:22:08Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@golemproject",
+            "source": {
+                "title": "Golem Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@golemproject"
+            },
+            "title": "Exciting news! Golem Network's new GPU computing proof of concept using Stable Diffusion as a use case is now avail\u2026",
+            "published_at": "2023-02-20T14:15:39Z",
+            "slug": "Exciting-news-Golem-Networks-new-GPU-computing-proof-of-concept-using-Stable-Diffusion-as-a-use-case-is-now-avail",
+            "currencies": [
+                {
+                    "code": "GNT",
+                    "title": "Golem",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "GLM",
+                    "title": "Golem",
+                    "slug": "golem",
+                    "url": "https:\/\/cryptopanic.com\/news\/golem\/"
+                }
+            ],
+            "id": 17687059,
+            "url": "https:\/\/cryptopanic.com\/news\/17687059\/Exciting-news-Golem-Networks-new-GPU-computing-proof-of-concept-using-Stable-Diffusion-as-a-use-case-is-now-avail",
+            "created_at": "2023-02-20T14:15:39Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@golemproject",
+            "source": {
+                "title": "Golem Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@golemproject"
+            },
+            "title": "Hello there \ud83e\udee1\n\nWe decided to release a proof-of-concept using GPU computing by creating a text-to-graphics generato\u2026",
+            "published_at": "2023-02-16T11:55:48Z",
+            "slug": "Hello-there-We-decided-to-release-a-proof-of-concept-using-GPU-computing-by-creating-a-text-to-graphics-generato",
+            "currencies": [
+                {
+                    "code": "GNT",
+                    "title": "Golem",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "GLM",
+                    "title": "Golem",
+                    "slug": "golem",
+                    "url": "https:\/\/cryptopanic.com\/news\/golem\/"
+                }
+            ],
+            "id": 17656638,
+            "url": "https:\/\/cryptopanic.com\/news\/17656638\/Hello-there-We-decided-to-release-a-proof-of-concept-using-GPU-computing-by-creating-a-text-to-graphics-generato",
+            "created_at": "2023-02-16T11:55:48Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@golemproject",
+            "source": {
+                "title": "Golem Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@golemproject"
+            },
+            "title": "Thank you @MoneyMagpie and @Jasmine for writing about #GolemNetwork !",
+            "published_at": "2023-02-09T14:34:34Z",
+            "slug": "Thank-you-MoneyMagpie-and-Jasmine-for-writing-about-GolemNetwork",
+            "currencies": [
+                {
+                    "code": "GNT",
+                    "title": "Golem",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "GLM",
+                    "title": "Golem",
+                    "slug": "golem",
+                    "url": "https:\/\/cryptopanic.com\/news\/golem\/"
+                }
+            ],
+            "id": 17596882,
+            "url": "https:\/\/cryptopanic.com\/news\/17596882\/Thank-you-MoneyMagpie-and-Jasmine-for-writing-about-GolemNetwork",
+            "created_at": "2023-02-09T14:34:34Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@golemproject",
+            "source": {
+                "title": "Golem Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@golemproject"
+            },
+            "title": "Here @golemproject, we believe work can be fun! Check out our new video for a glimpse of the team in action! Our re\u2026",
+            "published_at": "2023-01-31T09:13:45Z",
+            "slug": "Here-golemproject-we-believe-work-can-be-fun-Check-out-our-new-video-for-a-glimpse-of-the-team-in-action-Our-re",
+            "currencies": [
+                {
+                    "code": "GNT",
+                    "title": "Golem",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "GLM",
+                    "title": "Golem",
+                    "slug": "golem",
+                    "url": "https:\/\/cryptopanic.com\/news\/golem\/"
+                }
+            ],
+            "id": 17514131,
+            "url": "https:\/\/cryptopanic.com\/news\/17514131\/Here-golemproject-we-believe-work-can-be-fun-Check-out-our-new-video-for-a-glimpse-of-the-team-in-action-Our-re",
+            "created_at": "2023-01-31T09:13:45Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@golemproject",
+            "source": {
+                "title": "Golem Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@golemproject"
+            },
+            "title": "Hey everyone!\n\nWe're prolonging our contest by one week, which means you still have some time to invent a good name\u2026",
+            "published_at": "2023-01-11T10:21:05Z",
+            "slug": "Hey-everyone-Were-prolonging-our-contest-by-one-week-which-means-you-still-have-some-time-to-invent-a-good-name",
+            "currencies": [
+                {
+                    "code": "GNT",
+                    "title": "Golem",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "GLM",
+                    "title": "Golem",
+                    "slug": "golem",
+                    "url": "https:\/\/cryptopanic.com\/news\/golem\/"
+                }
+            ],
+            "id": 17354366,
+            "url": "https:\/\/cryptopanic.com\/news\/17354366\/Hey-everyone-Were-prolonging-our-contest-by-one-week-which-means-you-still-have-some-time-to-invent-a-good-name",
+            "created_at": "2023-01-11T10:21:05Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@golemproject",
+            "source": {
+                "title": "Golem Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@golemproject"
+            },
+            "title": "You\u2019ve got just 1 day left to choose the new names for our APIs and win a share of $500GLM. We asked our community\u2026",
+            "published_at": "2023-01-10T10:23:25Z",
+            "slug": "Youve-got-just-1-day-left-to-choose-the-new-names-for-our-APIs-and-win-a-share-of-500GLM-We-asked-our-community",
+            "currencies": [
+                {
+                    "code": "GNT",
+                    "title": "Golem",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "GLM",
+                    "title": "Golem",
+                    "slug": "golem",
+                    "url": "https:\/\/cryptopanic.com\/news\/golem\/"
+                }
+            ],
+            "id": 17345303,
+            "url": "https:\/\/cryptopanic.com\/news\/17345303\/Youve-got-just-1-day-left-to-choose-the-new-names-for-our-APIs-and-win-a-share-of-500GLM-We-asked-our-community",
+            "created_at": "2023-01-10T10:23:25Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@golemproject",
+            "source": {
+                "title": "Golem Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@golemproject"
+            },
+            "title": "\ufe0f We are seeing a rise in scams on a website that uses the name Golem. The only official website behind Golem Netw\u2026",
+            "published_at": "2023-01-05T13:08:37Z",
+            "slug": "We-are-seeing-a-rise-in-scams-on-a-website-that-uses-the-name-Golem-The-only-official-website-behind-Golem-Netw",
+            "currencies": [
+                {
+                    "code": "GNT",
+                    "title": "Golem",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "GLM",
+                    "title": "Golem",
+                    "slug": "golem",
+                    "url": "https:\/\/cryptopanic.com\/news\/golem\/"
+                }
+            ],
+            "id": 17310035,
+            "url": "https:\/\/cryptopanic.com\/news\/17310035\/We-are-seeing-a-rise-in-scams-on-a-website-that-uses-the-name-Golem-The-only-official-website-behind-Golem-Netw",
+            "created_at": "2023-01-05T13:08:37Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@golemproject",
+            "source": {
+                "title": "Golem Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@golemproject"
+            },
+            "title": "Choose the new names for our APIs and win big!\ud83e\udd29 We\u2019ve launched a new contest for our community to rename our two AP\u2026",
+            "published_at": "2022-12-28T13:01:17Z",
+            "slug": "Choose-the-new-names-for-our-APIs-and-win-big-Weve-launched-a-new-contest-for-our-community-to-rename-our-two-AP",
+            "currencies": [
+                {
+                    "code": "GNT",
+                    "title": "Golem",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "GLM",
+                    "title": "Golem",
+                    "slug": "golem",
+                    "url": "https:\/\/cryptopanic.com\/news\/golem\/"
+                }
+            ],
+            "id": 17255518,
+            "url": "https:\/\/cryptopanic.com\/news\/17255518\/Choose-the-new-names-for-our-APIs-and-win-big-Weve-launched-a-new-contest-for-our-community-to-rename-our-two-AP",
+            "created_at": "2022-12-28T13:01:17Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@golemproject",
+            "source": {
+                "title": "Golem Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@golemproject"
+            },
+            "title": "Recognise these words? Yes, it's that time of year again! We\u2019ve had a landmark 2022 and we couldn\u2019t have done it wi\u2026",
+            "published_at": "2022-12-23T09:35:47Z",
+            "slug": "Recognise-these-words-Yes-its-that-time-of-year-again-Weve-had-a-landmark-2022-and-we-couldnt-have-done-it-wi",
+            "currencies": [
+                {
+                    "code": "GNT",
+                    "title": "Golem",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "GLM",
+                    "title": "Golem",
+                    "slug": "golem",
+                    "url": "https:\/\/cryptopanic.com\/news\/golem\/"
+                }
+            ],
+            "id": 17223761,
+            "url": "https:\/\/cryptopanic.com\/news\/17223761\/Recognise-these-words-Yes-its-that-time-of-year-again-Weve-had-a-landmark-2022-and-we-couldnt-have-done-it-wi",
+            "created_at": "2022-12-23T09:35:47Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@golemproject",
+            "source": {
+                "title": "Golem Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@golemproject"
+            },
+            "title": "Get ready for one giant leap towards dApps! Our New Network Driver is here. The release of yagna v0.12 Marble Castl\u2026",
+            "published_at": "2022-12-07T14:48:39Z",
+            "slug": "Get-ready-for-one-giant-leap-towards-dApps-Our-New-Network-Driver-is-here-The-release-of-yagna-v012-Marble-Castl",
+            "currencies": [
+                {
+                    "code": "GNT",
+                    "title": "Golem",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "GLM",
+                    "title": "Golem",
+                    "slug": "golem",
+                    "url": "https:\/\/cryptopanic.com\/news\/golem\/"
+                }
+            ],
+            "id": 17093762,
+            "url": "https:\/\/cryptopanic.com\/news\/17093762\/Get-ready-for-one-giant-leap-towards-dApps-Our-New-Network-Driver-is-here-The-release-of-yagna-v012-Marble-Castl",
+            "created_at": "2022-12-07T14:48:39Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@golemproject",
+            "source": {
+                "title": "Golem Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@golemproject"
+            },
+            "title": "We\u2019ve launched 4 new SDK Discord channels! In this video, our Technical Product Manager, Lukasz will tell you more\u2026",
+            "published_at": "2022-11-23T16:37:18Z",
+            "slug": "Weve-launched-4-new-SDK-Discord-channels-In-this-video-our-Technical-Product-Manager-Lukasz-will-tell-you-more",
+            "currencies": [
+                {
+                    "code": "GNT",
+                    "title": "Golem",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "GLM",
+                    "title": "Golem",
+                    "slug": "golem",
+                    "url": "https:\/\/cryptopanic.com\/news\/golem\/"
+                }
+            ],
+            "id": 16976221,
+            "url": "https:\/\/cryptopanic.com\/news\/16976221\/Weve-launched-4-new-SDK-Discord-channels-In-this-video-our-Technical-Product-Manager-Lukasz-will-tell-you-more",
+            "created_at": "2022-11-23T16:37:18Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@golemproject",
+            "source": {
+                "title": "Golem Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@golemproject"
+            },
+            "title": "Do you know the people in this video spend every day thinking about how to create the future? We have a new SDK cha\u2026",
+            "published_at": "2022-11-11T12:39:36Z",
+            "slug": "Do-you-know-the-people-in-this-video-spend-every-day-thinking-about-how-to-create-the-future-We-have-a-new-SDK-cha",
+            "currencies": [
+                {
+                    "code": "GNT",
+                    "title": "Golem",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "GLM",
+                    "title": "Golem",
+                    "slug": "golem",
+                    "url": "https:\/\/cryptopanic.com\/news\/golem\/"
+                }
+            ],
+            "id": 16869654,
+            "url": "https:\/\/cryptopanic.com\/news\/16869654\/Do-you-know-the-people-in-this-video-spend-every-day-thinking-about-how-to-create-the-future-We-have-a-new-SDK-cha",
+            "created_at": "2022-11-11T12:39:36Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@golemproject",
+            "source": {
+                "title": "Golem Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@golemproject"
+            },
+            "title": "Become a part of the #\ud835\ude42\ud835\ude64\ud835\ude61\ud835\ude5a\ud835\ude62\ud835\ude49\ud835\ude5a\ud835\ude69\ud835\ude6c\ud835\ude64\ud835\ude67\ud835\ude60 #\ud835\ude67\ud835\ude5a\ud835\ude6b\ud835\ude64\ud835\ude61\ud835\ude6a\ud835\ude69\ud835\ude5e\ud835\ude64\ud835\ude63, which goes far beyond \ud83e\udda0 the traditionally-defined world of\u2026",
+            "published_at": "2022-11-10T10:58:06Z",
+            "slug": "Become-a-part-of-the-GolemNetwork-revolution-which-goes-far-beyond-the-traditionally-defined-world-of",
+            "currencies": [
+                {
+                    "code": "GNT",
+                    "title": "Golem",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "GLM",
+                    "title": "Golem",
+                    "slug": "golem",
+                    "url": "https:\/\/cryptopanic.com\/news\/golem\/"
+                }
+            ],
+            "id": 16858204,
+            "url": "https:\/\/cryptopanic.com\/news\/16858204\/Become-a-part-of-the-GolemNetwork-revolution-which-goes-far-beyond-the-traditionally-defined-world-of",
+            "created_at": "2022-11-10T10:58:06Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@golemproject",
+            "source": {
+                "title": "Golem Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@golemproject"
+            },
+            "title": "Become a part of the #\ud835\ude42\ud835\ude64\ud835\ude61\ud835\ude5a\ud835\ude62\ud835\ude49\ud835\ude5a\ud835\ude69\ud835\ude6c\ud835\ude64\ud835\ude67\ud835\ude60 #\ud835\ude67\ud835\ude5a\ud835\ude6b\ud835\ude64\ud835\ude61\ud835\ude6a\ud835\ude69\ud835\ude5e\ud835\ude64\ud835\ude63, which goes far beyond \ud83e\udda0 the traditionally-defined world of\u2026",
+            "published_at": "2022-11-09T15:09:45Z",
+            "slug": "Become-a-part-of-the-GolemNetwork-revolution-which-goes-far-beyond-the-traditionally-defined-world-of",
+            "currencies": [
+                {
+                    "code": "GNT",
+                    "title": "Golem",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "GLM",
+                    "title": "Golem",
+                    "slug": "golem",
+                    "url": "https:\/\/cryptopanic.com\/news\/golem\/"
+                }
+            ],
+            "id": 16847519,
+            "url": "https:\/\/cryptopanic.com\/news\/16847519\/Become-a-part-of-the-GolemNetwork-revolution-which-goes-far-beyond-the-traditionally-defined-world-of",
+            "created_at": "2022-11-09T15:09:45Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

@@ -1,0 +1,1019 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=BNB&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "cointelegraph.com",
+            "source": {
+                "title": "CoinTelegraph",
+                "region": "en",
+                "domain": "cointelegraph.com",
+                "path": null
+            },
+            "title": "Price analysis 10\/2: SPX, DXY, BTC, ETH, BNB, XRP, SOL, ADA, DOGE, TON",
+            "published_at": "2023-10-02T18:05:00Z",
+            "slug": "Price-analysis-102-SPX-DXY-BTC-ETH-BNB-XRP-SOL-ADA-DOGE-TON",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                },
+                {
+                    "code": "ADA",
+                    "title": "Cardano",
+                    "slug": "cardano",
+                    "url": "https:\/\/cryptopanic.com\/news\/cardano\/"
+                },
+                {
+                    "code": "DOGE",
+                    "title": "Dogecoin",
+                    "slug": "dogecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/dogecoin\/"
+                },
+                {
+                    "code": "TON",
+                    "title": "Toncoin",
+                    "slug": "the-open-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/the-open-network\/"
+                },
+                {
+                    "code": "BNB",
+                    "title": "OEC Binance Coin",
+                    "slug": "oec-binance-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/oec-binance-coin\/"
+                }
+            ],
+            "id": 18942837,
+            "url": "https:\/\/cryptopanic.com\/news\/18942837\/Price-analysis-102-SPX-DXY-BTC-ETH-BNB-XRP-SOL-ADA-DOGE-TON",
+            "created_at": "2023-10-02T18:05:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "theblock.co",
+            "source": {
+                "title": "The Block",
+                "region": "en",
+                "domain": "theblock.co",
+                "path": null
+            },
+            "title": "Crypto losses hit $685 million in Q3, $1.4 billion year-to-date: Immunefi",
+            "published_at": "2023-10-02T13:00:03Z",
+            "slug": "Crypto-losses-hit-685-million-in-Q3-14-billion-year-to-date-Immunefi",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "BNB",
+                    "title": "BNB",
+                    "slug": "binancecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/binancecoin\/"
+                }
+            ],
+            "id": 18941977,
+            "url": "https:\/\/cryptopanic.com\/news\/18941977\/Crypto-losses-hit-685-million-in-Q3-14-billion-year-to-date-Immunefi",
+            "created_at": "2023-10-02T13:00:03Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "This Crypto Exchange Reportedly Suffered a $13 Million Hack",
+            "published_at": "2023-10-02T12:04:13Z",
+            "slug": "This-Crypto-Exchange-Reportedly-Suffered-a-13-Million-Hack",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "BNB",
+                    "title": "BNB",
+                    "slug": "binancecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/binancecoin\/"
+                },
+                {
+                    "code": "TRX",
+                    "title": "TRON",
+                    "slug": "tron",
+                    "url": "https:\/\/cryptopanic.com\/news\/tron\/"
+                }
+            ],
+            "id": 18942001,
+            "url": "https:\/\/cryptopanic.com\/news\/18942001\/This-Crypto-Exchange-Reportedly-Suffered-a-13-Million-Hack",
+            "created_at": "2023-10-02T12:04:13Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "Will Ethereum and BNB kickstart Q4\u2019s altcoin bull rally?",
+            "published_at": "2023-10-02T02:30:10Z",
+            "slug": "Will-Ethereum-and-BNB-kickstart-Q4s-altcoin-bull-rally",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "BNB",
+                    "title": "BNB",
+                    "slug": "binancecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/binancecoin\/"
+                },
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                },
+                {
+                    "code": "DOGE",
+                    "title": "Dogecoin",
+                    "slug": "dogecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/dogecoin\/"
+                },
+                {
+                    "code": "SHIB",
+                    "title": "Shiba Inu",
+                    "slug": "shiba-inu",
+                    "url": "https:\/\/cryptopanic.com\/news\/shiba-inu\/"
+                },
+                {
+                    "code": "BNB",
+                    "title": "OEC Binance Coin",
+                    "slug": "oec-binance-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/oec-binance-coin\/"
+                }
+            ],
+            "id": 18940914,
+            "url": "https:\/\/cryptopanic.com\/news\/18940914\/Will-Ethereum-and-BNB-kickstart-Q4s-altcoin-bull-rally",
+            "created_at": "2023-10-02T02:30:10Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "dailyhodl.com",
+            "source": {
+                "title": "The Daily Hodl",
+                "region": "en",
+                "domain": "dailyhodl.com",
+                "path": null
+            },
+            "title": "FTX Hacker Holding $300,000,000 in Crypto Suddenly Moves Millions Worth of Assets: On-Chain Data",
+            "published_at": "2023-10-01T20:00:28Z",
+            "slug": "FTX-Hacker-Holding-300000000-in-Crypto-Suddenly-Moves-Millions-Worth-of-Assets-On-Chain-Data",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "USDT",
+                    "title": "Tether",
+                    "slug": "tether",
+                    "url": "https:\/\/cryptopanic.com\/news\/tether\/"
+                },
+                {
+                    "code": "BNB",
+                    "title": "BNB",
+                    "slug": "binancecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/binancecoin\/"
+                },
+                {
+                    "code": "USDC",
+                    "title": "USDC",
+                    "slug": "usd-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/usd-coin\/"
+                },
+                {
+                    "code": "DAI",
+                    "title": "Dai",
+                    "slug": "dai",
+                    "url": "https:\/\/cryptopanic.com\/news\/dai\/"
+                },
+                {
+                    "code": "FTT",
+                    "title": "FTX",
+                    "slug": "ftx-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/ftx-token\/"
+                }
+            ],
+            "id": 18940704,
+            "url": "https:\/\/cryptopanic.com\/news\/18940704\/FTX-Hacker-Holding-300000000-in-Crypto-Suddenly-Moves-Millions-Worth-of-Assets-On-Chain-Data",
+            "created_at": "2023-10-01T20:00:28Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "I asked ChatGPT whether BNB will turn its fortunes around",
+            "published_at": "2023-10-01T13:55:37Z",
+            "slug": "I-asked-ChatGPT-whether-BNB-will-turn-its-fortunes-around",
+            "currencies": [
+                {
+                    "code": "BNB",
+                    "title": "BNB",
+                    "slug": "binancecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/binancecoin\/"
+                }
+            ],
+            "id": 18940295,
+            "url": "https:\/\/cryptopanic.com\/news\/18940295\/I-asked-ChatGPT-whether-BNB-will-turn-its-fortunes-around",
+            "created_at": "2023-10-01T13:55:37Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "Chainlink CCIP integrates with Binance: Assessing LINK\u2019s response",
+            "published_at": "2023-09-30T23:30:36Z",
+            "slug": "Chainlink-CCIP-integrates-with-Binance-Assessing-LINKs-response",
+            "currencies": [
+                {
+                    "code": "BNB",
+                    "title": "BNB",
+                    "slug": "binancecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/binancecoin\/"
+                },
+                {
+                    "code": "LINK",
+                    "title": "Chainlink",
+                    "slug": "chainlink",
+                    "url": "https:\/\/cryptopanic.com\/news\/chainlink\/"
+                }
+            ],
+            "id": 18939691,
+            "url": "https:\/\/cryptopanic.com\/news\/18939691\/Chainlink-CCIP-integrates-with-Binance-Assessing-LINKs-response",
+            "created_at": "2023-09-30T23:30:36Z"
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Tron TVL Balloons To Over $15 Billion: DeFi Growth Evident?",
+            "published_at": "2023-09-30T09:10:11Z",
+            "slug": "Tron-TVL-Balloons-To-Over-15-Billion-DeFi-Growth-Evident",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "BNB",
+                    "title": "BNB",
+                    "slug": "binancecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/binancecoin\/"
+                },
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                },
+                {
+                    "code": "TRX",
+                    "title": "TRON",
+                    "slug": "tron",
+                    "url": "https:\/\/cryptopanic.com\/news\/tron\/"
+                },
+                {
+                    "code": "MKR",
+                    "title": "Maker",
+                    "slug": "maker",
+                    "url": "https:\/\/cryptopanic.com\/news\/maker\/"
+                },
+                {
+                    "code": "CRV",
+                    "title": "Curve DAO",
+                    "slug": "curve-dao-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/curve-dao-token\/"
+                }
+            ],
+            "id": 18938836,
+            "url": "https:\/\/cryptopanic.com\/news\/18938836\/Tron-TVL-Balloons-To-Over-15-Billion-DeFi-Growth-Evident",
+            "created_at": "2023-09-30T09:10:11Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "en.bitcoinsistemi.com",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 2,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "en bitcoinsistemi",
+                "region": "en",
+                "domain": "en.bitcoinsistemi.com",
+                "path": null
+            },
+            "title": "Which Chain is Most Preferred in the US and Europe: BNB or Ethereum? Here are the Regional Preferences",
+            "published_at": "2023-09-30T07:36:05Z",
+            "slug": "Which-Chain-is-Most-Preferred-in-the-US-and-Europe-BNB-or-Ethereum-Here-are-the-Regional-Preferences",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "BNB",
+                    "title": "BNB",
+                    "slug": "binancecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/binancecoin\/"
+                }
+            ],
+            "id": 18938737,
+            "url": "https:\/\/cryptopanic.com\/news\/18938737\/Which-Chain-is-Most-Preferred-in-the-US-and-Europe-BNB-or-Ethereum-Here-are-the-Regional-Preferences",
+            "created_at": "2023-09-30T07:36:05Z"
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 2,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 1
+            },
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Cosmos Has A Grand Plan For 2024: Will It Crush Ethereum?",
+            "published_at": "2023-09-29T22:00:00Z",
+            "slug": "Cosmos-Has-A-Grand-Plan-For-2024-Will-It-Crush-Ethereum",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "BNB",
+                    "title": "BNB",
+                    "slug": "binancecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/binancecoin\/"
+                },
+                {
+                    "code": "MATIC",
+                    "title": "Polygon",
+                    "slug": "matic-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-network\/"
+                },
+                {
+                    "code": "AVAX",
+                    "title": "Avalanche",
+                    "slug": "avalanche-2",
+                    "url": "https:\/\/cryptopanic.com\/news\/avalanche-2\/"
+                },
+                {
+                    "code": "ATOM",
+                    "title": "Cosmos Hub",
+                    "slug": "cosmos",
+                    "url": "https:\/\/cryptopanic.com\/news\/cosmos\/"
+                },
+                {
+                    "code": "OP",
+                    "title": "Optimism",
+                    "slug": "optimism",
+                    "url": "https:\/\/cryptopanic.com\/news\/optimism\/"
+                }
+            ],
+            "id": 18938402,
+            "url": "https:\/\/cryptopanic.com\/news\/18938402\/Cosmos-Has-A-Grand-Plan-For-2024-Will-It-Crush-Ethereum",
+            "created_at": "2023-09-29T22:00:00Z"
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "PancakeSwap v3 deploys on opBNB: Here\u2019s what it entails",
+            "published_at": "2023-09-29T18:30:05Z",
+            "slug": "PancakeSwap-v3-deploys-on-opBNB-Heres-what-it-entails",
+            "currencies": [
+                {
+                    "code": "BNB",
+                    "title": "BNB",
+                    "slug": "binancecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/binancecoin\/"
+                }
+            ],
+            "id": 18938087,
+            "url": "https:\/\/cryptopanic.com\/news\/18938087\/PancakeSwap-v3-deploys-on-opBNB-Heres-what-it-entails",
+            "created_at": "2023-09-29T18:30:05Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cointelegraph.com",
+            "source": {
+                "title": "CoinTelegraph",
+                "region": "en",
+                "domain": "cointelegraph.com",
+                "path": null
+            },
+            "title": "Price analysis 9\/29: BTC, ETH, BNB, XRP, ADA, DOGE, SOL, TON, DOT, MATIC",
+            "published_at": "2023-09-29T16:38:48Z",
+            "slug": "Price-analysis-929-BTC-ETH-BNB-XRP-ADA-DOGE-SOL-TON-DOT-MATIC",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                },
+                {
+                    "code": "ADA",
+                    "title": "Cardano",
+                    "slug": "cardano",
+                    "url": "https:\/\/cryptopanic.com\/news\/cardano\/"
+                },
+                {
+                    "code": "DOGE",
+                    "title": "Dogecoin",
+                    "slug": "dogecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/dogecoin\/"
+                },
+                {
+                    "code": "TON",
+                    "title": "Toncoin",
+                    "slug": "the-open-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/the-open-network\/"
+                },
+                {
+                    "code": "DOT",
+                    "title": "Polkadot",
+                    "slug": "polkadot",
+                    "url": "https:\/\/cryptopanic.com\/news\/polkadot\/"
+                },
+                {
+                    "code": "MATIC",
+                    "title": "Polygon",
+                    "slug": "matic-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-network\/"
+                },
+                {
+                    "code": "BNB",
+                    "title": "OEC Binance Coin",
+                    "slug": "oec-binance-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/oec-binance-coin\/"
+                }
+            ],
+            "id": 18937880,
+            "url": "https:\/\/cryptopanic.com\/news\/18937880\/Price-analysis-929-BTC-ETH-BNB-XRP-ADA-DOGE-SOL-TON-DOT-MATIC",
+            "created_at": "2023-09-29T16:38:48Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "u.today",
+            "source": {
+                "title": "U.Today",
+                "region": "en",
+                "domain": "u.today",
+                "path": null
+            },
+            "title": "Ethereum (ETH) Now Connected to BSC via IBC Bridge",
+            "published_at": "2023-09-29T16:30:00Z",
+            "slug": "Ethereum-ETH-Now-Connected-to-BSC-via-IBC-Bridge",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "BNB",
+                    "title": "BNB",
+                    "slug": "binancecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/binancecoin\/"
+                }
+            ],
+            "id": 18937868,
+            "url": "https:\/\/cryptopanic.com\/news\/18937868\/Ethereum-ETH-Now-Connected-to-BSC-via-IBC-Bridge",
+            "created_at": "2023-09-29T16:30:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Important Events That Could Have A Massive Impact On XRP Price",
+            "published_at": "2023-09-29T13:00:52Z",
+            "slug": "Important-Events-That-Could-Have-A-Massive-Impact-On-XRP-Price",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "BNB",
+                    "title": "BNB",
+                    "slug": "binancecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/binancecoin\/"
+                },
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                }
+            ],
+            "id": 18937321,
+            "url": "https:\/\/cryptopanic.com\/news\/18937321\/Important-Events-That-Could-Have-A-Massive-Impact-On-XRP-Price",
+            "created_at": "2023-09-29T13:00:52Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "theblock.co",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 1,
+                "comments": 2
+            },
+            "source": {
+                "title": "The Block",
+                "region": "en",
+                "domain": "theblock.co",
+                "path": null
+            },
+            "title": "Ethereum dominates web3 developer activity in US, BNB Chain in Europe and Asia: Chainstack",
+            "published_at": "2023-09-29T12:54:02Z",
+            "slug": "Ethereum-dominates-web3-developer-activity-in-US-BNB-Chain-in-Europe-and-Asia-Chainstack",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "BNB",
+                    "title": "BNB",
+                    "slug": "binancecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/binancecoin\/"
+                },
+                {
+                    "code": "MATIC",
+                    "title": "Polygon",
+                    "slug": "matic-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-network\/"
+                },
+                {
+                    "code": "AVAX",
+                    "title": "Avalanche",
+                    "slug": "avalanche-2",
+                    "url": "https:\/\/cryptopanic.com\/news\/avalanche-2\/"
+                }
+            ],
+            "id": 18937275,
+            "url": "https:\/\/cryptopanic.com\/news\/18937275\/Ethereum-dominates-web3-developer-activity-in-US-BNB-Chain-in-Europe-and-Asia-Chainstack",
+            "created_at": "2023-09-29T12:54:02Z"
+        },
+        {
+            "kind": "news",
+            "domain": "feeds2.benzinga.com",
+            "source": {
+                "title": "Benzinga",
+                "region": "en",
+                "domain": "feeds2.benzinga.com",
+                "path": null
+            },
+            "title": "Cross-Chain Interoperability Made Easy With Chainlink Protocol On BNB Chain",
+            "published_at": "2023-09-29T12:00:05Z",
+            "slug": "Cross-Chain-Interoperability-Made-Easy-With-Chainlink-Protocol-On-BNB-Chain",
+            "currencies": [
+                {
+                    "code": "BNB",
+                    "title": "BNB",
+                    "slug": "binancecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/binancecoin\/"
+                },
+                {
+                    "code": "LINK",
+                    "title": "Chainlink",
+                    "slug": "chainlink",
+                    "url": "https:\/\/cryptopanic.com\/news\/chainlink\/"
+                }
+            ],
+            "id": 18937157,
+            "url": "https:\/\/cryptopanic.com\/news\/18937157\/Cross-Chain-Interoperability-Made-Easy-With-Chainlink-Protocol-On-BNB-Chain",
+            "created_at": "2023-09-29T12:00:05Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "en.bitcoinsistemi.com",
+            "votes": {
+                "negative": 0,
+                "positive": 5,
+                "important": 2,
+                "liked": 4,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 3,
+                "comments": 0
+            },
+            "source": {
+                "title": "en bitcoinsistemi",
+                "region": "en",
+                "domain": "en.bitcoinsistemi.com",
+                "path": null
+            },
+            "title": "BNB Chain Announced Integration with This Protocol!",
+            "published_at": "2023-09-29T10:12:06Z",
+            "slug": "BNB-Chain-Announced-Integration-with-This-Protocol",
+            "currencies": [
+                {
+                    "code": "BNB",
+                    "title": "BNB",
+                    "slug": "binancecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/binancecoin\/"
+                }
+            ],
+            "id": 18936846,
+            "url": "https:\/\/cryptopanic.com\/news\/18936846\/BNB-Chain-Announced-Integration-with-This-Protocol",
+            "created_at": "2023-09-29T10:12:06Z"
+        },
+        {
+            "kind": "news",
+            "domain": "coinidol.com",
+            "source": {
+                "title": "Coin Idol",
+                "region": "en",
+                "domain": "coinidol.com",
+                "path": null
+            },
+            "title": "BNB Price Rises, But Misses $216 Barrier",
+            "published_at": "2023-09-29T08:47:00Z",
+            "slug": "BNB-Price-Rises-But-Misses-216-Barrier",
+            "currencies": [
+                {
+                    "code": "BNB",
+                    "title": "BNB",
+                    "slug": "binancecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/binancecoin\/"
+                }
+            ],
+            "id": 18937067,
+            "url": "https:\/\/cryptopanic.com\/news\/18937067\/BNB-Price-Rises-But-Misses-216-Barrier",
+            "created_at": "2023-09-29T08:47:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "BNB remains stuck in this range: What\u2019s next?",
+            "published_at": "2023-09-28T22:30:00Z",
+            "slug": "BNB-remains-stuck-in-this-range-Whats-next",
+            "currencies": [
+                {
+                    "code": "BNB",
+                    "title": "BNB",
+                    "slug": "binancecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/binancecoin\/"
+                },
+                {
+                    "code": "BNB",
+                    "title": "OEC Binance Coin",
+                    "slug": "oec-binance-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/oec-binance-coin\/"
+                }
+            ],
+            "id": 18935912,
+            "url": "https:\/\/cryptopanic.com\/news\/18935912\/BNB-remains-stuck-in-this-range-Whats-next",
+            "created_at": "2023-09-28T22:30:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "Binance halts EUR trading for these users",
+            "published_at": "2023-09-28T14:00:12Z",
+            "slug": "Binance-halts-EUR-trading-for-these-users",
+            "currencies": [
+                {
+                    "code": "BNB",
+                    "title": "BNB",
+                    "slug": "binancecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/binancecoin\/"
+                }
+            ],
+            "id": 18934785,
+            "url": "https:\/\/cryptopanic.com\/news\/18934785\/Binance-halts-EUR-trading-for-these-users",
+            "created_at": "2023-09-28T14:00:12Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

@@ -1,0 +1,731 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=DOCK&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "@docknetwork",
+            "source": {
+                "title": "Dock Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@docknetwork"
+            },
+            "title": "The $DOCK secures the network and it has 3 main purposes:\n\n1) Governance\n2) Network operations\n3) Staking and valid\u2026",
+            "published_at": "2023-07-11T16:59:49Z",
+            "slug": "The-DOCK-secures-the-network-and-it-has-3-main-purposes-1-Governance-2-Network-operations-3-Staking-and-valid",
+            "currencies": [
+                {
+                    "code": "DOCK",
+                    "title": "Dock",
+                    "slug": "dock",
+                    "url": "https:\/\/cryptopanic.com\/news\/dock\/"
+                }
+            ],
+            "id": 18763813,
+            "url": "https:\/\/cryptopanic.com\/news\/18763813\/The-DOCK-secures-the-network-and-it-has-3-main-purposes-1-Governance-2-Network-operations-3-Staking-and-valid",
+            "created_at": "2023-07-11T16:59:49Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@docknetwork",
+            "source": {
+                "title": "Dock Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@docknetwork"
+            },
+            "title": "Listen to Dock's CEO, @N1ckLambert, as he shares insights about our new collaboration with @0xPolygonLabs. \n\nStay t\u2026",
+            "published_at": "2023-07-11T15:00:35Z",
+            "slug": "Listen-to-Docks-CEO-N1ckLambert-as-he-shares-insights-about-our-new-collaboration-with-0xPolygonLabs-Stay-t",
+            "currencies": [
+                {
+                    "code": "DOCK",
+                    "title": "Dock",
+                    "slug": "dock",
+                    "url": "https:\/\/cryptopanic.com\/news\/dock\/"
+                }
+            ],
+            "id": 18763814,
+            "url": "https:\/\/cryptopanic.com\/news\/18763814\/Listen-to-Docks-CEO-N1ckLambert-as-he-shares-insights-about-our-new-collaboration-with-0xPolygonLabs-Stay-t",
+            "created_at": "2023-07-11T15:00:35Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@docknetwork",
+            "source": {
+                "title": "Dock Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@docknetwork"
+            },
+            "title": "Dock's Verifiable Credentials Platform now provides the easiest way to issue @0xPolygonLabs-based Verifiable Creden\u2026",
+            "published_at": "2023-07-11T13:35:21Z",
+            "slug": "Docks-Verifiable-Credentials-Platform-now-provides-the-easiest-way-to-issue-0xPolygonLabs-based-Verifiable-Creden",
+            "currencies": [
+                {
+                    "code": "DOCK",
+                    "title": "Dock",
+                    "slug": "dock",
+                    "url": "https:\/\/cryptopanic.com\/news\/dock\/"
+                }
+            ],
+            "id": 18763815,
+            "url": "https:\/\/cryptopanic.com\/news\/18763815\/Docks-Verifiable-Credentials-Platform-now-provides-the-easiest-way-to-issue-0xPolygonLabs-based-Verifiable-Creden",
+            "created_at": "2023-07-11T13:35:21Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@docknetwork",
+            "source": {
+                "title": "Dock Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@docknetwork"
+            },
+            "title": "RT @0xPolygonLabs: Polygon ID \ud83e\udef1\u200d\ud83e\udef2 @docknetwork\n\nSet your reminder for today\u2019s Spaces:\n\u2192Decentralized Identity\n\u2192What can Verifiable Creden\u2026",
+            "published_at": "2023-07-11T12:18:58Z",
+            "slug": "RT-0xPolygonLabs-Polygon-ID-docknetwork-Set-your-reminder-for-todays-Spaces-Decentralized-Identity-What-can-Verifiable-Creden",
+            "currencies": [
+                {
+                    "code": "DOCK",
+                    "title": "Dock",
+                    "slug": "dock",
+                    "url": "https:\/\/cryptopanic.com\/news\/dock\/"
+                },
+                {
+                    "code": "MATIC",
+                    "title": "Polygon",
+                    "slug": "matic-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-network\/"
+                }
+            ],
+            "id": 18763816,
+            "url": "https:\/\/cryptopanic.com\/news\/18763816\/RT-0xPolygonLabs-Polygon-ID-docknetwork-Set-your-reminder-for-todays-Spaces-Decentralized-Identity-What-can-Verifiable-Creden",
+            "created_at": "2023-07-11T12:18:58Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@docknetwork",
+            "source": {
+                "title": "Dock Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@docknetwork"
+            },
+            "title": "RT @docknetwork: ANNOUNCEMENT\n\n@0xPolygonLabs and @docknetwork collaborate to simplify Verifiable Credential issuance!\n\nDock's Verifiable\u2026",
+            "published_at": "2023-07-11T08:18:43Z",
+            "slug": "RT-docknetwork-ANNOUNCEMENT-0xPolygonLabs-and-docknetwork-collaborate-to-simplify-Verifiable-Credential-issuance-Docks-Verifiable",
+            "currencies": [
+                {
+                    "code": "DOCK",
+                    "title": "Dock",
+                    "slug": "dock",
+                    "url": "https:\/\/cryptopanic.com\/news\/dock\/"
+                }
+            ],
+            "id": 18763817,
+            "url": "https:\/\/cryptopanic.com\/news\/18763817\/RT-docknetwork-ANNOUNCEMENT-0xPolygonLabs-and-docknetwork-collaborate-to-simplify-Verifiable-Credential-issuance-Docks-Verifiable",
+            "created_at": "2023-07-11T08:18:43Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@docknetwork",
+            "source": {
+                "title": "Dock Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@docknetwork"
+            },
+            "title": "RT @IamReyAlejandro: listening to polygon id and dock \ud83e\udd42",
+            "published_at": "2023-07-10T17:16:02Z",
+            "slug": "RT-IamReyAlejandro-listening-to-polygon-id-and-dock",
+            "currencies": [
+                {
+                    "code": "DOCK",
+                    "title": "Dock",
+                    "slug": "dock",
+                    "url": "https:\/\/cryptopanic.com\/news\/dock\/"
+                },
+                {
+                    "code": "MATIC",
+                    "title": "Polygon",
+                    "slug": "matic-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-network\/"
+                }
+            ],
+            "id": 18755706,
+            "url": "https:\/\/cryptopanic.com\/news\/18755706\/RT-IamReyAlejandro-listening-to-polygon-id-and-dock",
+            "created_at": "2023-07-10T17:16:02Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@docknetwork",
+            "source": {
+                "title": "Dock Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@docknetwork"
+            },
+            "title": "Starting!",
+            "published_at": "2023-07-10T17:06:40Z",
+            "slug": "Starting",
+            "currencies": [
+                {
+                    "code": "DOCK",
+                    "title": "Dock",
+                    "slug": "dock",
+                    "url": "https:\/\/cryptopanic.com\/news\/dock\/"
+                }
+            ],
+            "id": 18755707,
+            "url": "https:\/\/cryptopanic.com\/news\/18755707\/Starting",
+            "created_at": "2023-07-10T17:06:40Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@docknetwork",
+            "source": {
+                "title": "Dock Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@docknetwork"
+            },
+            "title": "RT @N1ckLambert: I'm very happy to announce that @0xPolygon and @docknetwork are collaborating to simplify Verifiable Credential issuance!\u2026",
+            "published_at": "2023-07-10T16:41:16Z",
+            "slug": "RT-N1ckLambert-Im-very-happy-to-announce-that-0xPolygon-and-docknetwork-are-collaborating-to-simplify-Verifiable-Credential-issuance",
+            "currencies": [
+                {
+                    "code": "DOCK",
+                    "title": "Dock",
+                    "slug": "dock",
+                    "url": "https:\/\/cryptopanic.com\/news\/dock\/"
+                }
+            ],
+            "id": 18755708,
+            "url": "https:\/\/cryptopanic.com\/news\/18755708\/RT-N1ckLambert-Im-very-happy-to-announce-that-0xPolygon-and-docknetwork-are-collaborating-to-simplify-Verifiable-Credential-issuance",
+            "created_at": "2023-07-10T16:41:16Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@docknetwork",
+            "source": {
+                "title": "Dock Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@docknetwork"
+            },
+            "title": "RT @james_monaghan: Very glad this news is now public! Two great tastes that go great together",
+            "published_at": "2023-07-10T15:56:14Z",
+            "slug": "RT-james_monaghan-Very-glad-this-news-is-now-public-Two-great-tastes-that-go-great-together",
+            "currencies": [
+                {
+                    "code": "DOCK",
+                    "title": "Dock",
+                    "slug": "dock",
+                    "url": "https:\/\/cryptopanic.com\/news\/dock\/"
+                }
+            ],
+            "id": 18755709,
+            "url": "https:\/\/cryptopanic.com\/news\/18755709\/RT-james_monaghan-Very-glad-this-news-is-now-public-Two-great-tastes-that-go-great-together",
+            "created_at": "2023-07-10T15:56:14Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@docknetwork",
+            "source": {
+                "title": "Dock Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@docknetwork"
+            },
+            "title": "RT @ottomorac: See you later today to talk about the collaboration between Polygon ID and @docknetwork ! You can now Issue Polygon ID cred\u2026",
+            "published_at": "2023-07-10T15:38:11Z",
+            "slug": "RT-ottomorac-See-you-later-today-to-talk-about-the-collaboration-between-Polygon-ID-and-docknetwork-You-can-now-Issue-Polygon-ID-cred",
+            "currencies": [
+                {
+                    "code": "DOCK",
+                    "title": "Dock",
+                    "slug": "dock",
+                    "url": "https:\/\/cryptopanic.com\/news\/dock\/"
+                },
+                {
+                    "code": "MATIC",
+                    "title": "Polygon",
+                    "slug": "matic-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-network\/"
+                }
+            ],
+            "id": 18755710,
+            "url": "https:\/\/cryptopanic.com\/news\/18755710\/RT-ottomorac-See-you-later-today-to-talk-about-the-collaboration-between-Polygon-ID-and-docknetwork-You-can-now-Issue-Polygon-ID-cred",
+            "created_at": "2023-07-10T15:38:11Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@docknetwork",
+            "source": {
+                "title": "Dock Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@docknetwork"
+            },
+            "title": "RT @tonyolendo: What if I told you could use Polygon ID to issue Verifiable Credentials in about 5 mins using @docknetwork? Join us as we b\u2026",
+            "published_at": "2023-07-10T15:37:45Z",
+            "slug": "RT-tonyolendo-What-if-I-told-you-could-use-Polygon-ID-to-issue-Verifiable-Credentials-in-about-5-mins-using-docknetwork-Join-us-as-we-b",
+            "currencies": [
+                {
+                    "code": "DOCK",
+                    "title": "Dock",
+                    "slug": "dock",
+                    "url": "https:\/\/cryptopanic.com\/news\/dock\/"
+                },
+                {
+                    "code": "MATIC",
+                    "title": "Polygon",
+                    "slug": "matic-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-network\/"
+                }
+            ],
+            "id": 18755711,
+            "url": "https:\/\/cryptopanic.com\/news\/18755711\/RT-tonyolendo-What-if-I-told-you-could-use-Polygon-ID-to-issue-Verifiable-Credentials-in-about-5-mins-using-docknetwork-Join-us-as-we-b",
+            "created_at": "2023-07-10T15:37:45Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@docknetwork",
+            "source": {
+                "title": "Dock Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@docknetwork"
+            },
+            "title": "RT @0xPolygonLabs: Striving to bring decentralized ID to the masses\n#PolygonID \ud83e\udef1\u200d\ud83e\udef2 @docknetwork",
+            "published_at": "2023-07-10T14:44:04Z",
+            "slug": "RT-0xPolygonLabs-Striving-to-bring-decentralized-ID-to-the-masses-PolygonID-docknetwork",
+            "currencies": [
+                {
+                    "code": "DOCK",
+                    "title": "Dock",
+                    "slug": "dock",
+                    "url": "https:\/\/cryptopanic.com\/news\/dock\/"
+                }
+            ],
+            "id": 18755712,
+            "url": "https:\/\/cryptopanic.com\/news\/18755712\/RT-0xPolygonLabs-Striving-to-bring-decentralized-ID-to-the-masses-PolygonID-docknetwork",
+            "created_at": "2023-07-10T14:44:04Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@docknetwork",
+            "source": {
+                "title": "Dock Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@docknetwork"
+            },
+            "title": "Join us to learn everything about Dock\u2019s collaboration with @0xPolygonLabs!",
+            "published_at": "2023-07-10T14:26:46Z",
+            "slug": "Join-us-to-learn-everything-about-Docks-collaboration-with-0xPolygonLabs",
+            "currencies": [
+                {
+                    "code": "DOCK",
+                    "title": "Dock",
+                    "slug": "dock",
+                    "url": "https:\/\/cryptopanic.com\/news\/dock\/"
+                }
+            ],
+            "id": 18755713,
+            "url": "https:\/\/cryptopanic.com\/news\/18755713\/Join-us-to-learn-everything-about-Docks-collaboration-with-0xPolygonLabs",
+            "created_at": "2023-07-10T14:26:46Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@docknetwork",
+            "source": {
+                "title": "Dock Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@docknetwork"
+            },
+            "title": "ANNOUNCEMENT\n\n@0xPolygonLabs and @docknetwork collaborate to simplify Verifiable Credential issuance!\n\nDock's Ver\u2026",
+            "published_at": "2023-07-10T14:00:19Z",
+            "slug": "ANNOUNCEMENT-0xPolygonLabs-and-docknetwork-collaborate-to-simplify-Verifiable-Credential-issuance-Docks-Ver",
+            "currencies": [
+                {
+                    "code": "DOCK",
+                    "title": "Dock",
+                    "slug": "dock",
+                    "url": "https:\/\/cryptopanic.com\/news\/dock\/"
+                }
+            ],
+            "id": 18755714,
+            "url": "https:\/\/cryptopanic.com\/news\/18755714\/ANNOUNCEMENT-0xPolygonLabs-and-docknetwork-collaborate-to-simplify-Verifiable-Credential-issuance-Docks-Ver",
+            "created_at": "2023-07-10T14:00:19Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@docknetwork",
+            "source": {
+                "title": "Dock Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@docknetwork"
+            },
+            "title": "Announcement: 7 am PST\n\nTwitter Spaces with [secret\ud83e\udd2b]: 10 am PST",
+            "published_at": "2023-07-10T10:11:01Z",
+            "slug": "Announcement-7-am-PST-Twitter-Spaces-with-secret-10-am-PST",
+            "currencies": [
+                {
+                    "code": "DOCK",
+                    "title": "Dock",
+                    "slug": "dock",
+                    "url": "https:\/\/cryptopanic.com\/news\/dock\/"
+                }
+            ],
+            "id": 18755715,
+            "url": "https:\/\/cryptopanic.com\/news\/18755715\/Announcement-7-am-PST-Twitter-Spaces-with-secret-10-am-PST",
+            "created_at": "2023-07-10T10:11:01Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@docknetwork",
+            "source": {
+                "title": "Dock Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@docknetwork"
+            },
+            "title": "Tomorrow ",
+            "published_at": "2023-07-09T11:17:55Z",
+            "slug": "Tomorrow",
+            "currencies": [
+                {
+                    "code": "DOCK",
+                    "title": "Dock",
+                    "slug": "dock",
+                    "url": "https:\/\/cryptopanic.com\/news\/dock\/"
+                }
+            ],
+            "id": 18749435,
+            "url": "https:\/\/cryptopanic.com\/news\/18749435\/Tomorrow",
+            "created_at": "2023-07-09T11:17:55Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@docknetwork",
+            "source": {
+                "title": "Dock Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@docknetwork"
+            },
+            "title": "RT @docknetwork: The $DOCK token allows you to participate in decision-making via governance, contribute to securing the network, and earn\u2026",
+            "published_at": "2023-07-08T13:21:43Z",
+            "slug": "RT-docknetwork-The-DOCK-token-allows-you-to-participate-in-decision-making-via-governance-contribute-to-securing-the-network-and-earn",
+            "currencies": [
+                {
+                    "code": "DOCK",
+                    "title": "Dock",
+                    "slug": "dock",
+                    "url": "https:\/\/cryptopanic.com\/news\/dock\/"
+                }
+            ],
+            "id": 18745297,
+            "url": "https:\/\/cryptopanic.com\/news\/18745297\/RT-docknetwork-The-DOCK-token-allows-you-to-participate-in-decision-making-via-governance-contribute-to-securing-the-network-and-earn",
+            "created_at": "2023-07-08T13:21:43Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@docknetwork",
+            "source": {
+                "title": "Dock Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@docknetwork"
+            },
+            "title": "RT @docknetwork: Think your online privacy is a lost cause? \n\nNot with Zero Knowledge Proofs.\n\nZKPs allow you to prove information without\u2026",
+            "published_at": "2023-07-08T13:21:36Z",
+            "slug": "RT-docknetwork-Think-your-online-privacy-is-a-lost-cause-Not-with-Zero-Knowledge-Proofs-ZKPs-allow-you-to-prove-information-without",
+            "currencies": [
+                {
+                    "code": "DOCK",
+                    "title": "Dock",
+                    "slug": "dock",
+                    "url": "https:\/\/cryptopanic.com\/news\/dock\/"
+                }
+            ],
+            "id": 18745298,
+            "url": "https:\/\/cryptopanic.com\/news\/18745298\/RT-docknetwork-Think-your-online-privacy-is-a-lost-cause-Not-with-Zero-Knowledge-Proofs-ZKPs-allow-you-to-prove-information-without",
+            "created_at": "2023-07-08T13:21:36Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@docknetwork",
+            "source": {
+                "title": "Dock Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@docknetwork"
+            },
+            "title": "RT @docknetwork: Verifiable Credentials are a great solution to privacy concerns for banking verifications!  \n\nVCs make processes like KYC\u2026",
+            "published_at": "2023-07-08T13:21:35Z",
+            "slug": "RT-docknetwork-Verifiable-Credentials-are-a-great-solution-to-privacy-concerns-for-banking-verifications-VCs-make-processes-like-KYC",
+            "currencies": [
+                {
+                    "code": "DOCK",
+                    "title": "Dock",
+                    "slug": "dock",
+                    "url": "https:\/\/cryptopanic.com\/news\/dock\/"
+                }
+            ],
+            "id": 18745299,
+            "url": "https:\/\/cryptopanic.com\/news\/18745299\/RT-docknetwork-Verifiable-Credentials-are-a-great-solution-to-privacy-concerns-for-banking-verifications-VCs-make-processes-like-KYC",
+            "created_at": "2023-07-08T13:21:35Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@docknetwork",
+            "source": {
+                "title": "Dock Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@docknetwork"
+            },
+            "title": "Who's excited for Monday?",
+            "published_at": "2023-07-07T17:56:34Z",
+            "slug": "Whos-excited-for-Monday",
+            "currencies": [
+                {
+                    "code": "DOCK",
+                    "title": "Dock",
+                    "slug": "dock",
+                    "url": "https:\/\/cryptopanic.com\/news\/dock\/"
+                }
+            ],
+            "id": 18739738,
+            "url": "https:\/\/cryptopanic.com\/news\/18739738\/Whos-excited-for-Monday",
+            "created_at": "2023-07-07T17:56:34Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

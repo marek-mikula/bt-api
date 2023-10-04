@@ -1,0 +1,977 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=CRV&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "coinedition.com",
+            "source": {
+                "title": "coinedition",
+                "region": "en",
+                "domain": "coinedition.com",
+                "path": null
+            },
+            "title": "Crypto Prices Today: BTC, SOL, CRV, PEPE All Record 24H Losses",
+            "published_at": "2023-10-03T08:55:00Z",
+            "slug": "Crypto-Prices-Today-BTC-SOL-CRV-PEPE-All-Record-24H-Losses",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "CRV",
+                    "title": "Curve DAO",
+                    "slug": "curve-dao-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/curve-dao-token\/"
+                }
+            ],
+            "id": 18943948,
+            "url": "https:\/\/cryptopanic.com\/news\/18943948\/Crypto-Prices-Today-BTC-SOL-CRV-PEPE-All-Record-24H-Losses",
+            "created_at": "2023-10-03T08:55:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "votes": {
+                "negative": 2,
+                "positive": 4,
+                "important": 1,
+                "liked": 2,
+                "disliked": 2,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 1,
+                "comments": 0
+            },
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Solana Rebound Potential: Is $30 The Next Target?",
+            "published_at": "2023-10-02T09:42:20Z",
+            "slug": "Solana-Rebound-Potential-Is-30-The-Next-Target",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "UNI",
+                    "title": "Uniswap",
+                    "slug": "uniswap",
+                    "url": "https:\/\/cryptopanic.com\/news\/uniswap\/"
+                },
+                {
+                    "code": "CRV",
+                    "title": "Curve DAO",
+                    "slug": "curve-dao-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/curve-dao-token\/"
+                }
+            ],
+            "id": 18941471,
+            "url": "https:\/\/cryptopanic.com\/news\/18941471\/Solana-Rebound-Potential-Is-30-The-Next-Target",
+            "created_at": "2023-10-02T09:42:20Z"
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Uniswap Soaring User Engagement: How It\u2019s Transforming UNI Price?",
+            "published_at": "2023-10-02T06:41:18Z",
+            "slug": "Uniswap-Soaring-User-Engagement-How-Its-Transforming-UNI-Price",
+            "currencies": [
+                {
+                    "code": "UNI",
+                    "title": "Uniswap",
+                    "slug": "uniswap",
+                    "url": "https:\/\/cryptopanic.com\/news\/uniswap\/"
+                },
+                {
+                    "code": "MKR",
+                    "title": "Maker",
+                    "slug": "maker",
+                    "url": "https:\/\/cryptopanic.com\/news\/maker\/"
+                },
+                {
+                    "code": "OP",
+                    "title": "Optimism",
+                    "slug": "optimism",
+                    "url": "https:\/\/cryptopanic.com\/news\/optimism\/"
+                },
+                {
+                    "code": "CRV",
+                    "title": "Curve DAO",
+                    "slug": "curve-dao-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/curve-dao-token\/"
+                }
+            ],
+            "id": 18941126,
+            "url": "https:\/\/cryptopanic.com\/news\/18941126\/Uniswap-Soaring-User-Engagement-How-Its-Transforming-UNI-Price",
+            "created_at": "2023-10-02T06:41:18Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "livebitcoinnews.com",
+            "source": {
+                "title": "Live Bitcoin News",
+                "region": "en",
+                "domain": "livebitcoinnews.com",
+                "path": null
+            },
+            "title": "Binance Invests a Lot of Money into Curve\u2019s Stable Asset",
+            "published_at": "2023-10-01T17:00:58Z",
+            "slug": "Binance-Invests-a-Lot-of-Money-into-Curves-Stable-Asset",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "CRV",
+                    "title": "Curve DAO",
+                    "slug": "curve-dao-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/curve-dao-token\/"
+                }
+            ],
+            "id": 18940476,
+            "url": "https:\/\/cryptopanic.com\/news\/18940476\/Binance-Invests-a-Lot-of-Money-into-Curves-Stable-Asset",
+            "created_at": "2023-10-01T17:00:58Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinidol.com",
+            "source": {
+                "title": "Coin Idol",
+                "region": "en",
+                "domain": "coinidol.com",
+                "path": null
+            },
+            "title": "Weekly Cryptocurrency Market Analysis: Prices Hold Steady as Bitcoin make Strong Comeback",
+            "published_at": "2023-10-01T12:22:00Z",
+            "slug": "Weekly-Cryptocurrency-Market-Analysis-Prices-Hold-Steady-as-Bitcoin-make-Strong-Comeback",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "MKR",
+                    "title": "Maker",
+                    "slug": "maker",
+                    "url": "https:\/\/cryptopanic.com\/news\/maker\/"
+                },
+                {
+                    "code": "THETA",
+                    "title": "Theta Network",
+                    "slug": "theta-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/theta-token\/"
+                },
+                {
+                    "code": "CRV",
+                    "title": "Curve DAO",
+                    "slug": "curve-dao-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/curve-dao-token\/"
+                }
+            ],
+            "id": 18940822,
+            "url": "https:\/\/cryptopanic.com\/news\/18940822\/Weekly-Cryptocurrency-Market-Analysis-Prices-Hold-Steady-as-Bitcoin-make-Strong-Comeback",
+            "created_at": "2023-10-01T12:22:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 2
+            },
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "XRP Price Threatened As Ripple Unlocks 1 Billion Coins",
+            "published_at": "2023-10-01T11:20:30Z",
+            "slug": "XRP-Price-Threatened-As-Ripple-Unlocks-1-Billion-Coins",
+            "currencies": [
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                },
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "MKR",
+                    "title": "Maker",
+                    "slug": "maker",
+                    "url": "https:\/\/cryptopanic.com\/news\/maker\/"
+                },
+                {
+                    "code": "CRV",
+                    "title": "Curve DAO",
+                    "slug": "curve-dao-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/curve-dao-token\/"
+                }
+            ],
+            "id": 18940105,
+            "url": "https:\/\/cryptopanic.com\/news\/18940105\/XRP-Price-Threatened-As-Ripple-Unlocks-1-Billion-Coins",
+            "created_at": "2023-10-01T11:20:30Z"
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 1,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Bitcoin Cash Bulls Charge: 13% Price Rally Driven By Fresh Demand",
+            "published_at": "2023-10-01T06:07:49Z",
+            "slug": "Bitcoin-Cash-Bulls-Charge-13-Price-Rally-Driven-By-Fresh-Demand",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "BCH",
+                    "title": "Bitcoin Cash",
+                    "slug": "bitcoin-cash",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin-cash\/"
+                },
+                {
+                    "code": "MKR",
+                    "title": "Maker",
+                    "slug": "maker",
+                    "url": "https:\/\/cryptopanic.com\/news\/maker\/"
+                },
+                {
+                    "code": "CRV",
+                    "title": "Curve DAO",
+                    "slug": "curve-dao-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/curve-dao-token\/"
+                }
+            ],
+            "id": 18939866,
+            "url": "https:\/\/cryptopanic.com\/news\/18939866\/Bitcoin-Cash-Bulls-Charge-13-Price-Rally-Driven-By-Fresh-Demand",
+            "created_at": "2023-10-01T06:07:49Z"
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "votes": {
+                "negative": 0,
+                "positive": 2,
+                "important": 0,
+                "liked": 2,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Crypto CEO Very Bullish On XRP Price, Sets Make Or Break Point",
+            "published_at": "2023-09-30T15:00:56Z",
+            "slug": "Crypto-CEO-Very-Bullish-On-XRP-Price-Sets-Make-Or-Break-Point",
+            "currencies": [
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                },
+                {
+                    "code": "MKR",
+                    "title": "Maker",
+                    "slug": "maker",
+                    "url": "https:\/\/cryptopanic.com\/news\/maker\/"
+                },
+                {
+                    "code": "CRV",
+                    "title": "Curve DAO",
+                    "slug": "curve-dao-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/curve-dao-token\/"
+                }
+            ],
+            "id": 18939300,
+            "url": "https:\/\/cryptopanic.com\/news\/18939300\/Crypto-CEO-Very-Bullish-On-XRP-Price-Sets-Make-Or-Break-Point",
+            "created_at": "2023-09-30T15:00:56Z"
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "votes": {
+                "negative": 5,
+                "positive": 6,
+                "important": 2,
+                "liked": 4,
+                "disliked": 6,
+                "lol": 3,
+                "toxic": 0,
+                "saved": 1,
+                "comments": 0
+            },
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "The Most Impressive Highlights From The Cardano Development Report",
+            "published_at": "2023-09-30T12:00:43Z",
+            "slug": "The-Most-Impressive-Highlights-From-The-Cardano-Development-Report",
+            "currencies": [
+                {
+                    "code": "ADA",
+                    "title": "Cardano",
+                    "slug": "cardano",
+                    "url": "https:\/\/cryptopanic.com\/news\/cardano\/"
+                },
+                {
+                    "code": "TRX",
+                    "title": "TRON",
+                    "slug": "tron",
+                    "url": "https:\/\/cryptopanic.com\/news\/tron\/"
+                },
+                {
+                    "code": "CRV",
+                    "title": "Curve DAO",
+                    "slug": "curve-dao-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/curve-dao-token\/"
+                }
+            ],
+            "id": 18939058,
+            "url": "https:\/\/cryptopanic.com\/news\/18939058\/The-Most-Impressive-Highlights-From-The-Cardano-Development-Report",
+            "created_at": "2023-09-30T12:00:43Z"
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Tron TVL Balloons To Over $15 Billion: DeFi Growth Evident?",
+            "published_at": "2023-09-30T09:10:11Z",
+            "slug": "Tron-TVL-Balloons-To-Over-15-Billion-DeFi-Growth-Evident",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "BNB",
+                    "title": "BNB",
+                    "slug": "binancecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/binancecoin\/"
+                },
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                },
+                {
+                    "code": "TRX",
+                    "title": "TRON",
+                    "slug": "tron",
+                    "url": "https:\/\/cryptopanic.com\/news\/tron\/"
+                },
+                {
+                    "code": "MKR",
+                    "title": "Maker",
+                    "slug": "maker",
+                    "url": "https:\/\/cryptopanic.com\/news\/maker\/"
+                },
+                {
+                    "code": "CRV",
+                    "title": "Curve DAO",
+                    "slug": "curve-dao-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/curve-dao-token\/"
+                }
+            ],
+            "id": 18938836,
+            "url": "https:\/\/cryptopanic.com\/news\/18938836\/Tron-TVL-Balloons-To-Over-15-Billion-DeFi-Growth-Evident",
+            "created_at": "2023-09-30T09:10:11Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Bitcoin News: BTC Price Drops To $2,700 On Binance, CZ Explains Why",
+            "published_at": "2023-09-29T12:00:18Z",
+            "slug": "Bitcoin-News-BTC-Price-Drops-To-2700-On-Binance-CZ-Explains-Why",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "CRV",
+                    "title": "Curve DAO",
+                    "slug": "curve-dao-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/curve-dao-token\/"
+                }
+            ],
+            "id": 18937091,
+            "url": "https:\/\/cryptopanic.com\/news\/18937091\/Bitcoin-News-BTC-Price-Drops-To-2700-On-Binance-CZ-Explains-Why",
+            "created_at": "2023-09-29T12:00:18Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "CRV Price Surges 16% \u2013 What\u2019s The Next Move For Curve DAO Token?",
+            "published_at": "2023-09-29T10:30:38Z",
+            "slug": "CRV-Price-Surges-16-Whats-The-Next-Move-For-Curve-DAO-Token",
+            "currencies": [
+                {
+                    "code": "MKR",
+                    "title": "Maker",
+                    "slug": "maker",
+                    "url": "https:\/\/cryptopanic.com\/news\/maker\/"
+                },
+                {
+                    "code": "CRV",
+                    "title": "Curve DAO",
+                    "slug": "curve-dao-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/curve-dao-token\/"
+                }
+            ],
+            "id": 18936878,
+            "url": "https:\/\/cryptopanic.com\/news\/18936878\/CRV-Price-Surges-16-Whats-The-Next-Move-For-Curve-DAO-Token",
+            "created_at": "2023-09-29T10:30:38Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Curve (CRV) Is Up 20%, But This Whale May End The Run",
+            "published_at": "2023-09-27T22:30:53Z",
+            "slug": "Curve-CRV-Is-Up-20-But-This-Whale-May-End-The-Run",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "CRV",
+                    "title": "Curve DAO",
+                    "slug": "curve-dao-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/curve-dao-token\/"
+                }
+            ],
+            "id": 18933204,
+            "url": "https:\/\/cryptopanic.com\/news\/18933204\/Curve-CRV-Is-Up-20-But-This-Whale-May-End-The-Run",
+            "created_at": "2023-09-27T22:30:53Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Curve Founder Michael Egorov Clears Aave Loan, Reduces Total Debt To $42.7 Million",
+            "published_at": "2023-09-27T21:30:26Z",
+            "slug": "Curve-Founder-Michael-Egorov-Clears-Aave-Loan-Reduces-Total-Debt-To-427-Million",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "USDT",
+                    "title": "Tether",
+                    "slug": "tether",
+                    "url": "https:\/\/cryptopanic.com\/news\/tether\/"
+                },
+                {
+                    "code": "AAVE",
+                    "title": "Aave",
+                    "slug": "aave",
+                    "url": "https:\/\/cryptopanic.com\/news\/aave\/"
+                },
+                {
+                    "code": "CRV",
+                    "title": "Curve DAO",
+                    "slug": "curve-dao-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/curve-dao-token\/"
+                }
+            ],
+            "id": 18933109,
+            "url": "https:\/\/cryptopanic.com\/news\/18933109\/Curve-Founder-Michael-Egorov-Clears-Aave-Loan-Reduces-Total-Debt-To-427-Million",
+            "created_at": "2023-09-27T21:30:26Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Chainlink (LINK) Brushes Off Market Downtrend, Scores 11% In Last Week",
+            "published_at": "2023-09-27T19:00:16Z",
+            "slug": "Chainlink-LINK-Brushes-Off-Market-Downtrend-Scores-11-In-Last-Week",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "BNB",
+                    "title": "BNB",
+                    "slug": "binancecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/binancecoin\/"
+                },
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                },
+                {
+                    "code": "LINK",
+                    "title": "Chainlink",
+                    "slug": "chainlink",
+                    "url": "https:\/\/cryptopanic.com\/news\/chainlink\/"
+                },
+                {
+                    "code": "CRV",
+                    "title": "Curve DAO",
+                    "slug": "curve-dao-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/curve-dao-token\/"
+                }
+            ],
+            "id": 18932851,
+            "url": "https:\/\/cryptopanic.com\/news\/18932851\/Chainlink-LINK-Brushes-Off-Market-Downtrend-Scores-11-In-Last-Week",
+            "created_at": "2023-09-27T19:00:16Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coingape.com",
+            "source": {
+                "title": "CoinGape",
+                "region": "en",
+                "domain": "coingape.com",
+                "path": null
+            },
+            "title": "What\u2019s Next for $CRV Price After 34% Surge In a Fortnight?",
+            "published_at": "2023-09-27T17:08:45Z",
+            "slug": "Whats-Next-for-CRV-Price-After-34-Surge-In-a-Fortnight",
+            "currencies": [
+                {
+                    "code": "CRV",
+                    "title": "Curve DAO",
+                    "slug": "curve-dao-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/curve-dao-token\/"
+                }
+            ],
+            "id": 18932572,
+            "url": "https:\/\/cryptopanic.com\/news\/18932572\/Whats-Next-for-CRV-Price-After-34-Surge-In-a-Fortnight",
+            "created_at": "2023-09-27T17:08:45Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptodaily.co.uk",
+            "source": {
+                "title": "CryptoDaily",
+                "region": "en",
+                "domain": "cryptodaily.co.uk",
+                "path": null
+            },
+            "title": "Shiba Inu Price Prediction: Everlodge and Curve DAO Set the Pace but Who Has Most Potential?",
+            "published_at": "2023-09-27T13:40:45Z",
+            "slug": "Shiba-Inu-Price-Prediction-Everlodge-and-Curve-DAO-Set-the-Pace-but-Who-Has-Most-Potential",
+            "currencies": [
+                {
+                    "code": "SHIB",
+                    "title": "Shiba Inu",
+                    "slug": "shiba-inu",
+                    "url": "https:\/\/cryptopanic.com\/news\/shiba-inu\/"
+                },
+                {
+                    "code": "CRV",
+                    "title": "Curve DAO",
+                    "slug": "curve-dao-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/curve-dao-token\/"
+                }
+            ],
+            "id": 18932052,
+            "url": "https:\/\/cryptopanic.com\/news\/18932052\/Shiba-Inu-Price-Prediction-Everlodge-and-Curve-DAO-Set-the-Pace-but-Who-Has-Most-Potential",
+            "created_at": "2023-09-27T13:40:45Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinedition.com",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 1,
+                "comments": 0
+            },
+            "source": {
+                "title": "coinedition",
+                "region": "en",
+                "domain": "coinedition.com",
+                "path": null
+            },
+            "title": "6 Cryptos That Could Boom as Their Supplies Enter Self-Custody",
+            "published_at": "2023-09-27T12:15:51Z",
+            "slug": "6-Cryptos-That-Could-Boom-as-Their-Supplies-Enter-Self-Custody",
+            "currencies": [
+                {
+                    "code": "INJ",
+                    "title": "Injective",
+                    "slug": "injective-protocol",
+                    "url": "https:\/\/cryptopanic.com\/news\/injective-protocol\/"
+                },
+                {
+                    "code": "CRV",
+                    "title": "Curve DAO",
+                    "slug": "curve-dao-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/curve-dao-token\/"
+                }
+            ],
+            "id": 18931761,
+            "url": "https:\/\/cryptopanic.com\/news\/18931761\/6-Cryptos-That-Could-Boom-as-Their-Supplies-Enter-Self-Custody",
+            "created_at": "2023-09-27T12:15:51Z"
+        },
+        {
+            "kind": "news",
+            "domain": "coindesk.com",
+            "source": {
+                "title": "CoinDesk",
+                "region": "en",
+                "domain": "coindesk.com",
+                "path": null
+            },
+            "title": "Curve Founder Michael Egorov Deposits $35M CRV to Settle Debt on Aave",
+            "published_at": "2023-09-27T12:05:39Z",
+            "slug": "Curve-Founder-Michael-Egorov-Deposits-35M-CRV-to-Settle-Debt-on-Aave",
+            "currencies": [
+                {
+                    "code": "AAVE",
+                    "title": "Aave",
+                    "slug": "aave",
+                    "url": "https:\/\/cryptopanic.com\/news\/aave\/"
+                },
+                {
+                    "code": "CRV",
+                    "title": "Curve DAO",
+                    "slug": "curve-dao-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/curve-dao-token\/"
+                },
+                {
+                    "code": "LEND",
+                    "title": "Aave [OLD]",
+                    "slug": "ethlend",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethlend\/"
+                }
+            ],
+            "id": 18931754,
+            "url": "https:\/\/cryptopanic.com\/news\/18931754\/Curve-Founder-Michael-Egorov-Deposits-35M-CRV-to-Settle-Debt-on-Aave",
+            "created_at": "2023-09-27T12:05:39Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "Curve Finance whales spark volume surge, bullish momentum",
+            "published_at": "2023-09-25T20:30:11Z",
+            "slug": "Curve-Finance-whales-spark-volume-surge-bullish-momentum",
+            "currencies": [
+                {
+                    "code": "CRV",
+                    "title": "Curve DAO",
+                    "slug": "curve-dao-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/curve-dao-token\/"
+                }
+            ],
+            "id": 18927549,
+            "url": "https:\/\/cryptopanic.com\/news\/18927549\/Curve-Finance-whales-spark-volume-surge-bullish-momentum",
+            "created_at": "2023-09-25T20:30:11Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

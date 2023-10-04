@@ -1,0 +1,845 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=FARM&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "@harvest_finance",
+            "source": {
+                "title": "Harvest Finance Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@harvest_finance"
+            },
+            "title": "Our friends and partners at @widolabs enabled full @GammaStrategies x @QuickswapDEX coverage today \ud83e\udd1d\n\nYou can now d\u2026",
+            "published_at": "2023-07-11T14:10:40Z",
+            "slug": "Our-friends-and-partners-at-widolabs-enabled-full-GammaStrategies-x-QuickswapDEX-coverage-today-You-can-now-d",
+            "currencies": [
+                {
+                    "code": "FARM",
+                    "title": "Harvest Finance",
+                    "slug": "harvest-finance",
+                    "url": "https:\/\/cryptopanic.com\/news\/harvest-finance\/"
+                },
+                {
+                    "code": "IFARM",
+                    "title": "iFARM",
+                    "slug": "ifarm",
+                    "url": "https:\/\/cryptopanic.com\/news\/ifarm\/"
+                }
+            ],
+            "id": 18764726,
+            "url": "https:\/\/cryptopanic.com\/news\/18764726\/Our-friends-and-partners-at-widolabs-enabled-full-GammaStrategies-x-QuickswapDEX-coverage-today-You-can-now-d",
+            "created_at": "2023-07-11T14:10:40Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@harvest_finance",
+            "source": {
+                "title": "Harvest Finance Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@harvest_finance"
+            },
+            "title": "Harvest Summer is here ft. @zealy_io quests with a total pool of $2500 in $FARM prizes! \n\n30 users get to win $75 e\u2026",
+            "published_at": "2023-07-11T10:14:58Z",
+            "slug": "Harvest-Summer-is-here-ft-zealy_io-quests-with-a-total-pool-of-2500-in-FARM-prizes-30-users-get-to-win-75-e",
+            "currencies": [
+                {
+                    "code": "FARM",
+                    "title": "Harvest Finance",
+                    "slug": "harvest-finance",
+                    "url": "https:\/\/cryptopanic.com\/news\/harvest-finance\/"
+                },
+                {
+                    "code": "IFARM",
+                    "title": "iFARM",
+                    "slug": "ifarm",
+                    "url": "https:\/\/cryptopanic.com\/news\/ifarm\/"
+                }
+            ],
+            "id": 18764728,
+            "url": "https:\/\/cryptopanic.com\/news\/18764728\/Harvest-Summer-is-here-ft-zealy_io-quests-with-a-total-pool-of-2500-in-FARM-prizes-30-users-get-to-win-75-e",
+            "created_at": "2023-07-11T10:14:58Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@harvest_finance",
+            "source": {
+                "title": "Harvest Finance Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@harvest_finance"
+            },
+            "title": "Congrats to our friends at Spectra on their rebranding and Beta rollout!\n\nFarmers are excited about what we can bui\u2026",
+            "published_at": "2023-07-10T18:11:56Z",
+            "slug": "Congrats-to-our-friends-at-Spectra-on-their-rebranding-and-Beta-rollout-Farmers-are-excited-about-what-we-can-bui",
+            "currencies": [
+                {
+                    "code": "FARM",
+                    "title": "Harvest Finance",
+                    "slug": "harvest-finance",
+                    "url": "https:\/\/cryptopanic.com\/news\/harvest-finance\/"
+                },
+                {
+                    "code": "IFARM",
+                    "title": "iFARM",
+                    "slug": "ifarm",
+                    "url": "https:\/\/cryptopanic.com\/news\/ifarm\/"
+                }
+            ],
+            "id": 18756574,
+            "url": "https:\/\/cryptopanic.com\/news\/18756574\/Congrats-to-our-friends-at-Spectra-on-their-rebranding-and-Beta-rollout-Farmers-are-excited-about-what-we-can-bui",
+            "created_at": "2023-07-10T18:11:56Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@harvest_finance",
+            "source": {
+                "title": "Harvest Finance Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@harvest_finance"
+            },
+            "title": "Congrats on the $50M TVL milestone! \n\nA reminder to all $OETH holders that you can now maximize its APY by putting\u2026",
+            "published_at": "2023-07-06T12:37:39Z",
+            "slug": "Congrats-on-the-50M-TVL-milestone-A-reminder-to-all-OETH-holders-that-you-can-now-maximize-its-APY-by-putting",
+            "currencies": [
+                {
+                    "code": "FARM",
+                    "title": "Harvest Finance",
+                    "slug": "harvest-finance",
+                    "url": "https:\/\/cryptopanic.com\/news\/harvest-finance\/"
+                },
+                {
+                    "code": "IFARM",
+                    "title": "iFARM",
+                    "slug": "ifarm",
+                    "url": "https:\/\/cryptopanic.com\/news\/ifarm\/"
+                }
+            ],
+            "id": 18732877,
+            "url": "https:\/\/cryptopanic.com\/news\/18732877\/Congrats-on-the-50M-TVL-milestone-A-reminder-to-all-OETH-holders-that-you-can-now-maximize-its-APY-by-putting",
+            "created_at": "2023-07-06T12:37:39Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@harvest_finance",
+            "source": {
+                "title": "Harvest Finance Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@harvest_finance"
+            },
+            "title": "Mark your calendars to hear Harvest's Foreman @smokatokey tuning in for @therollupco mega spaces event with 70 DeFi\u2026",
+            "published_at": "2023-07-06T07:27:14Z",
+            "slug": "Mark-your-calendars-to-hear-Harvests-Foreman-smokatokey-tuning-in-for-therollupco-mega-spaces-event-with-70-DeFi",
+            "currencies": [
+                {
+                    "code": "FARM",
+                    "title": "Harvest Finance",
+                    "slug": "harvest-finance",
+                    "url": "https:\/\/cryptopanic.com\/news\/harvest-finance\/"
+                },
+                {
+                    "code": "IFARM",
+                    "title": "iFARM",
+                    "slug": "ifarm",
+                    "url": "https:\/\/cryptopanic.com\/news\/ifarm\/"
+                }
+            ],
+            "id": 18724415,
+            "url": "https:\/\/cryptopanic.com\/news\/18724415\/Mark-your-calendars-to-hear-Harvests-Foreman-smokatokey-tuning-in-for-therollupco-mega-spaces-event-with-70-DeFi",
+            "created_at": "2023-07-06T07:27:14Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@harvest_finance",
+            "source": {
+                "title": "Harvest Finance Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@harvest_finance"
+            },
+            "title": "Fact: Harvest has 0% deposit and withdrawal fees on all networks - Polygon, Arbitrum, and Mainnet.\n\nThis new additi\u2026",
+            "published_at": "2023-07-05T11:22:10Z",
+            "slug": "Fact-Harvest-has-0-deposit-and-withdrawal-fees-on-all-networks-Polygon-Arbitrum-and-Mainnet-This-new-additi",
+            "currencies": [
+                {
+                    "code": "FARM",
+                    "title": "Harvest Finance",
+                    "slug": "harvest-finance",
+                    "url": "https:\/\/cryptopanic.com\/news\/harvest-finance\/"
+                },
+                {
+                    "code": "IFARM",
+                    "title": "iFARM",
+                    "slug": "ifarm",
+                    "url": "https:\/\/cryptopanic.com\/news\/ifarm\/"
+                }
+            ],
+            "id": 18724416,
+            "url": "https:\/\/cryptopanic.com\/news\/18724416\/Fact-Harvest-has-0-deposit-and-withdrawal-fees-on-all-networks-Polygon-Arbitrum-and-Mainnet-This-new-additi",
+            "created_at": "2023-07-05T11:22:10Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@harvest_finance",
+            "source": {
+                "title": "Harvest Finance Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@harvest_finance"
+            },
+            "title": "Our Camelot section now has 100% @widolabs coverage, making Harvest the only DeFi platform that allows any token de\u2026",
+            "published_at": "2023-07-04T16:42:12Z",
+            "slug": "Our-Camelot-section-now-has-100-widolabs-coverage-making-Harvest-the-only-DeFi-platform-that-allows-any-token-de",
+            "currencies": [
+                {
+                    "code": "FARM",
+                    "title": "Harvest Finance",
+                    "slug": "harvest-finance",
+                    "url": "https:\/\/cryptopanic.com\/news\/harvest-finance\/"
+                },
+                {
+                    "code": "IFARM",
+                    "title": "iFARM",
+                    "slug": "ifarm",
+                    "url": "https:\/\/cryptopanic.com\/news\/ifarm\/"
+                }
+            ],
+            "id": 18716597,
+            "url": "https:\/\/cryptopanic.com\/news\/18716597\/Our-Camelot-section-now-has-100-widolabs-coverage-making-Harvest-the-only-DeFi-platform-that-allows-any-token-de",
+            "created_at": "2023-07-04T16:42:12Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@harvest_finance",
+            "source": {
+                "title": "Harvest Finance Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@harvest_finance"
+            },
+            "title": "As members of the Round Table and Integration Partners of @CamelotDEX, we are excited to see the discussion on the\u2026",
+            "published_at": "2023-07-03T14:59:23Z",
+            "slug": "As-members-of-the-Round-Table-and-Integration-Partners-of-CamelotDEX-we-are-excited-to-see-the-discussion-on-the",
+            "currencies": [
+                {
+                    "code": "FARM",
+                    "title": "Harvest Finance",
+                    "slug": "harvest-finance",
+                    "url": "https:\/\/cryptopanic.com\/news\/harvest-finance\/"
+                },
+                {
+                    "code": "IFARM",
+                    "title": "iFARM",
+                    "slug": "ifarm",
+                    "url": "https:\/\/cryptopanic.com\/news\/ifarm\/"
+                }
+            ],
+            "id": 18709400,
+            "url": "https:\/\/cryptopanic.com\/news\/18709400\/As-members-of-the-Round-Table-and-Integration-Partners-of-CamelotDEX-we-are-excited-to-see-the-discussion-on-the",
+            "created_at": "2023-07-03T14:59:23Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@harvest_finance",
+            "source": {
+                "title": "Harvest Finance Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@harvest_finance"
+            },
+            "title": "Slowly but surely, farmers discover this hidden gem to earn more on the novel $crvUSD stablecoin. \n\nFrom $0 to $100\u2026",
+            "published_at": "2023-06-29T13:44:16Z",
+            "slug": "Slowly-but-surely-farmers-discover-this-hidden-gem-to-earn-more-on-the-novel-crvUSD-stablecoin-From-0-to-100",
+            "currencies": [
+                {
+                    "code": "FARM",
+                    "title": "Harvest Finance",
+                    "slug": "harvest-finance",
+                    "url": "https:\/\/cryptopanic.com\/news\/harvest-finance\/"
+                },
+                {
+                    "code": "IFARM",
+                    "title": "iFARM",
+                    "slug": "ifarm",
+                    "url": "https:\/\/cryptopanic.com\/news\/ifarm\/"
+                }
+            ],
+            "id": 18685974,
+            "url": "https:\/\/cryptopanic.com\/news\/18685974\/Slowly-but-surely-farmers-discover-this-hidden-gem-to-earn-more-on-the-novel-crvUSD-stablecoin-From-0-to-100",
+            "created_at": "2023-06-29T13:44:16Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@harvest_finance",
+            "source": {
+                "title": "Harvest Finance Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@harvest_finance"
+            },
+            "title": "Today, with @TheTNetwork we'd like to unveil a unique Bitcoin farm for $tBTC &amp; $WBTC.\n\nFarmers stay fully exposed t\u2026",
+            "published_at": "2023-06-28T15:31:34Z",
+            "slug": "Today-with-TheTNetwork-wed-like-to-unveil-a-unique-Bitcoin-farm-for-tBTC-amp-WBTC-Farmers-stay-fully-exposed-t",
+            "currencies": [
+                {
+                    "code": "FARM",
+                    "title": "Harvest Finance",
+                    "slug": "harvest-finance",
+                    "url": "https:\/\/cryptopanic.com\/news\/harvest-finance\/"
+                },
+                {
+                    "code": "IFARM",
+                    "title": "iFARM",
+                    "slug": "ifarm",
+                    "url": "https:\/\/cryptopanic.com\/news\/ifarm\/"
+                }
+            ],
+            "id": 18677967,
+            "url": "https:\/\/cryptopanic.com\/news\/18677967\/Today-with-TheTNetwork-wed-like-to-unveil-a-unique-Bitcoin-farm-for-tBTC-amp-WBTC-Farmers-stay-fully-exposed-t",
+            "created_at": "2023-06-28T15:31:34Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@harvest_finance",
+            "source": {
+                "title": "Harvest Finance Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@harvest_finance"
+            },
+            "title": "As #DeSci increases in popularity, we are excited to introduce two new $GENE &amp; $GNOME farms on arbitrum with our lo\u2026",
+            "published_at": "2023-06-27T12:13:59Z",
+            "slug": "As-DeSci-increases-in-popularity-we-are-excited-to-introduce-two-new-GENE-amp-GNOME-farms-on-arbitrum-with-our-lo",
+            "currencies": [
+                {
+                    "code": "FARM",
+                    "title": "Harvest Finance",
+                    "slug": "harvest-finance",
+                    "url": "https:\/\/cryptopanic.com\/news\/harvest-finance\/"
+                },
+                {
+                    "code": "IFARM",
+                    "title": "iFARM",
+                    "slug": "ifarm",
+                    "url": "https:\/\/cryptopanic.com\/news\/ifarm\/"
+                },
+                {
+                    "code": "ARB",
+                    "title": "Arbitrum",
+                    "slug": "arbitrum",
+                    "url": "https:\/\/cryptopanic.com\/news\/arbitrum\/"
+                }
+            ],
+            "id": 18669707,
+            "url": "https:\/\/cryptopanic.com\/news\/18669707\/As-DeSci-increases-in-popularity-we-are-excited-to-introduce-two-new-GENE-amp-GNOME-farms-on-arbitrum-with-our-lo",
+            "created_at": "2023-06-27T12:13:59Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@harvest_finance",
+            "source": {
+                "title": "Harvest Finance Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@harvest_finance"
+            },
+            "title": "RT @EthCC:  #EthCC Speakers \n\n@smokatokey from Harvest Finance\n\nTrack: Web 3.0 Culture &amp; Governance\n\n\ud83e\udd0d\ufe0f",
+            "published_at": "2023-06-26T06:37:19Z",
+            "slug": "RT-EthCC-EthCC-Speakers-smokatokey-from-Harvest-Finance-Track-Web-30-Culture-amp-Governance",
+            "currencies": [
+                {
+                    "code": "FARM",
+                    "title": "Harvest Finance",
+                    "slug": "harvest-finance",
+                    "url": "https:\/\/cryptopanic.com\/news\/harvest-finance\/"
+                },
+                {
+                    "code": "IFARM",
+                    "title": "iFARM",
+                    "slug": "ifarm",
+                    "url": "https:\/\/cryptopanic.com\/news\/ifarm\/"
+                }
+            ],
+            "id": 18654544,
+            "url": "https:\/\/cryptopanic.com\/news\/18654544\/RT-EthCC-EthCC-Speakers-smokatokey-from-Harvest-Finance-Track-Web-30-Culture-amp-Governance",
+            "created_at": "2023-06-26T06:37:19Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@harvest_finance",
+            "source": {
+                "title": "Harvest Finance Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@harvest_finance"
+            },
+            "title": "GM @GMX_IO \ud83e\udee1\n\nMeet our farm for GMX - USDC LPs, the latest addition to our dedicated @CamelotDEX section. \n\nA place\u2026",
+            "published_at": "2023-06-23T17:47:15Z",
+            "slug": "GM-GMX_IO-Meet-our-farm-for-GMX-USDC-LPs-the-latest-addition-to-our-dedicated-CamelotDEX-section-A-place",
+            "currencies": [
+                {
+                    "code": "FARM",
+                    "title": "Harvest Finance",
+                    "slug": "harvest-finance",
+                    "url": "https:\/\/cryptopanic.com\/news\/harvest-finance\/"
+                },
+                {
+                    "code": "IFARM",
+                    "title": "iFARM",
+                    "slug": "ifarm",
+                    "url": "https:\/\/cryptopanic.com\/news\/ifarm\/"
+                },
+                {
+                    "code": "GMX",
+                    "title": "GMX",
+                    "slug": "gmx",
+                    "url": "https:\/\/cryptopanic.com\/news\/gmx\/"
+                }
+            ],
+            "id": 18644811,
+            "url": "https:\/\/cryptopanic.com\/news\/18644811\/GM-GMX_IO-Meet-our-farm-for-GMX-USDC-LPs-the-latest-addition-to-our-dedicated-CamelotDEX-section-A-place",
+            "created_at": "2023-06-23T17:47:15Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@harvest_finance",
+            "source": {
+                "title": "Harvest Finance Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@harvest_finance"
+            },
+            "title": "As it nears $200K TVL, the $jEUR - $PAR farm will be boosted with @mimo_labs's $MIMO rewards for the next 2 weeks!\u2026",
+            "published_at": "2023-06-23T13:13:28Z",
+            "slug": "As-it-nears-200K-TVL-the-jEUR-PAR-farm-will-be-boosted-with-mimo_labss-MIMO-rewards-for-the-next-2-weeks",
+            "currencies": [
+                {
+                    "code": "FARM",
+                    "title": "Harvest Finance",
+                    "slug": "harvest-finance",
+                    "url": "https:\/\/cryptopanic.com\/news\/harvest-finance\/"
+                },
+                {
+                    "code": "IFARM",
+                    "title": "iFARM",
+                    "slug": "ifarm",
+                    "url": "https:\/\/cryptopanic.com\/news\/ifarm\/"
+                }
+            ],
+            "id": 18644812,
+            "url": "https:\/\/cryptopanic.com\/news\/18644812\/As-it-nears-200K-TVL-the-jEUR-PAR-farm-will-be-boosted-with-mimo_labss-MIMO-rewards-for-the-next-2-weeks",
+            "created_at": "2023-06-23T13:13:28Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@harvest_finance",
+            "source": {
+                "title": "Harvest Finance Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@harvest_finance"
+            },
+            "title": "RT @CamelotDEX: @arbitrum @pendle_fi @Penpiexyz_io @SperaxUSD @Rodeo_Finance As one of DeFi's OG protocols, @harvest_finance recently launc\u2026",
+            "published_at": "2023-06-23T10:17:38Z",
+            "slug": "RT-CamelotDEX-arbitrum-pendle_fi-Penpiexyz_io-SperaxUSD-Rodeo_Finance-As-one-of-DeFis-OG-protocols-harvest_finance-recently-launc",
+            "currencies": [
+                {
+                    "code": "FARM",
+                    "title": "Harvest Finance",
+                    "slug": "harvest-finance",
+                    "url": "https:\/\/cryptopanic.com\/news\/harvest-finance\/"
+                },
+                {
+                    "code": "IFARM",
+                    "title": "iFARM",
+                    "slug": "ifarm",
+                    "url": "https:\/\/cryptopanic.com\/news\/ifarm\/"
+                }
+            ],
+            "id": 18644813,
+            "url": "https:\/\/cryptopanic.com\/news\/18644813\/RT-CamelotDEX-arbitrum-pendle_fi-Penpiexyz_io-SperaxUSD-Rodeo_Finance-As-one-of-DeFis-OG-protocols-harvest_finance-recently-launc",
+            "created_at": "2023-06-23T10:17:38Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@harvest_finance",
+            "source": {
+                "title": "Harvest Finance Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@harvest_finance"
+            },
+            "title": "We're still here, building.\n\n\u2022 New App\n\u2022 Fee Reductions on Arbitrum &amp; Mainnet\n\u2022 Round Table Member of @CamelotDEX\n\u2022\u2026",
+            "published_at": "2023-06-22T08:04:28Z",
+            "slug": "Were-still-here-building-New-App-Fee-Reductions-on-Arbitrum-amp-Mainnet-Round-Table-Member-of-CamelotDEX",
+            "currencies": [
+                {
+                    "code": "FARM",
+                    "title": "Harvest Finance",
+                    "slug": "harvest-finance",
+                    "url": "https:\/\/cryptopanic.com\/news\/harvest-finance\/"
+                },
+                {
+                    "code": "IFARM",
+                    "title": "iFARM",
+                    "slug": "ifarm",
+                    "url": "https:\/\/cryptopanic.com\/news\/ifarm\/"
+                },
+                {
+                    "code": "ARB",
+                    "title": "Arbitrum",
+                    "slug": "arbitrum",
+                    "url": "https:\/\/cryptopanic.com\/news\/arbitrum\/"
+                }
+            ],
+            "id": 18637211,
+            "url": "https:\/\/cryptopanic.com\/news\/18637211\/Were-still-here-building-New-App-Fee-Reductions-on-Arbitrum-amp-Mainnet-Round-Table-Member-of-CamelotDEX",
+            "created_at": "2023-06-22T08:04:28Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@harvest_finance",
+            "source": {
+                "title": "Harvest Finance Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@harvest_finance"
+            },
+            "title": "Excited to share that Harvest is now available on @safe Apps. \n\nYou can now access our platform from the comfort of\u2026",
+            "published_at": "2023-06-21T12:57:29Z",
+            "slug": "Excited-to-share-that-Harvest-is-now-available-on-safe-Apps-You-can-now-access-our-platform-from-the-comfort-of",
+            "currencies": [
+                {
+                    "code": "FARM",
+                    "title": "Harvest Finance",
+                    "slug": "harvest-finance",
+                    "url": "https:\/\/cryptopanic.com\/news\/harvest-finance\/"
+                },
+                {
+                    "code": "IFARM",
+                    "title": "iFARM",
+                    "slug": "ifarm",
+                    "url": "https:\/\/cryptopanic.com\/news\/ifarm\/"
+                }
+            ],
+            "id": 18628617,
+            "url": "https:\/\/cryptopanic.com\/news\/18628617\/Excited-to-share-that-Harvest-is-now-available-on-safe-Apps-You-can-now-access-our-platform-from-the-comfort-of",
+            "created_at": "2023-06-21T12:57:29Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@harvest_finance",
+            "source": {
+                "title": "Harvest Finance Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@harvest_finance"
+            },
+            "title": "Good morning farmers \ufe0f",
+            "published_at": "2023-06-21T08:19:21Z",
+            "slug": "Good-morning-farmers",
+            "currencies": [
+                {
+                    "code": "FARM",
+                    "title": "Harvest Finance",
+                    "slug": "harvest-finance",
+                    "url": "https:\/\/cryptopanic.com\/news\/harvest-finance\/"
+                },
+                {
+                    "code": "IFARM",
+                    "title": "iFARM",
+                    "slug": "ifarm",
+                    "url": "https:\/\/cryptopanic.com\/news\/ifarm\/"
+                }
+            ],
+            "id": 18628618,
+            "url": "https:\/\/cryptopanic.com\/news\/18628618\/Good-morning-farmers",
+            "created_at": "2023-06-21T08:19:21Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@harvest_finance",
+            "source": {
+                "title": "Harvest Finance Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@harvest_finance"
+            },
+            "title": "No better place to park stablecoins these days than our USDR \u2022 aDAI \u2022 aUSDC \u2022 aUSDT farm at 23% APY.\n\nThe best part\u2026",
+            "published_at": "2023-06-20T13:28:30Z",
+            "slug": "No-better-place-to-park-stablecoins-these-days-than-our-USDR-aDAI-aUSDC-aUSDT-farm-at-23-APY-The-best-part",
+            "currencies": [
+                {
+                    "code": "FARM",
+                    "title": "Harvest Finance",
+                    "slug": "harvest-finance",
+                    "url": "https:\/\/cryptopanic.com\/news\/harvest-finance\/"
+                },
+                {
+                    "code": "IFARM",
+                    "title": "iFARM",
+                    "slug": "ifarm",
+                    "url": "https:\/\/cryptopanic.com\/news\/ifarm\/"
+                }
+            ],
+            "id": 18620632,
+            "url": "https:\/\/cryptopanic.com\/news\/18620632\/No-better-place-to-park-stablecoins-these-days-than-our-USDR-aDAI-aUSDC-aUSDT-farm-at-23-APY-The-best-part",
+            "created_at": "2023-06-20T13:28:30Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@harvest_finance",
+            "source": {
+                "title": "Harvest Finance Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@harvest_finance"
+            },
+            "title": "RT @0xNanoly: Welcome @harvest_finance !\n\nSo excited to monitor the most promising community-built platform on #Ethereum #Polygon and #Arbi\u2026",
+            "published_at": "2023-06-20T06:48:20Z",
+            "slug": "RT-0xNanoly-Welcome-harvest_finance-So-excited-to-monitor-the-most-promising-community-built-platform-on-Ethereum-Polygon-and-Arbi",
+            "currencies": [
+                {
+                    "code": "FARM",
+                    "title": "Harvest Finance",
+                    "slug": "harvest-finance",
+                    "url": "https:\/\/cryptopanic.com\/news\/harvest-finance\/"
+                },
+                {
+                    "code": "IFARM",
+                    "title": "iFARM",
+                    "slug": "ifarm",
+                    "url": "https:\/\/cryptopanic.com\/news\/ifarm\/"
+                }
+            ],
+            "id": 18612524,
+            "url": "https:\/\/cryptopanic.com\/news\/18612524\/RT-0xNanoly-Welcome-harvest_finance-So-excited-to-monitor-the-most-promising-community-built-platform-on-Ethereum-Polygon-and-Arbi",
+            "created_at": "2023-06-20T06:48:20Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

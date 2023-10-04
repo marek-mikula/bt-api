@@ -1,0 +1,935 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=ETC&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "Ethereum Classic reclaims $16: Will traders go long?",
+            "published_at": "2023-10-02T04:30:17Z",
+            "slug": "Ethereum-Classic-reclaims-16-Will-traders-go-long",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "ETC",
+                    "title": "Ethereum Classic",
+                    "slug": "ethereum-classic",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum-classic\/"
+                }
+            ],
+            "id": 18940994,
+            "url": "https:\/\/cryptopanic.com\/news\/18940994\/Ethereum-Classic-reclaims-16-Will-traders-go-long",
+            "created_at": "2023-10-02T04:30:17Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "I asked ChatGPT about Ethereum Classic as 2024 draws near",
+            "published_at": "2023-10-01T13:50:14Z",
+            "slug": "I-asked-ChatGPT-about-Ethereum-Classic-as-2024-draws-near",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "ETC",
+                    "title": "Ethereum Classic",
+                    "slug": "ethereum-classic",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum-classic\/"
+                }
+            ],
+            "id": 18940291,
+            "url": "https:\/\/cryptopanic.com\/news\/18940291\/I-asked-ChatGPT-about-Ethereum-Classic-as-2024-draws-near",
+            "created_at": "2023-10-01T13:50:14Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "What ChatGPT says about Ethereum Classic as 2023 draws to a close",
+            "published_at": "2023-09-24T13:50:14Z",
+            "slug": "What-ChatGPT-says-about-Ethereum-Classic-as-2023-draws-to-a-close",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "ETC",
+                    "title": "Ethereum Classic",
+                    "slug": "ethereum-classic",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum-classic\/"
+                }
+            ],
+            "id": 18924734,
+            "url": "https:\/\/cryptopanic.com\/news\/18924734\/What-ChatGPT-says-about-Ethereum-Classic-as-2023-draws-to-a-close",
+            "created_at": "2023-09-24T13:50:14Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "en.bitcoinsistemi.com",
+            "source": {
+                "title": "en bitcoinsistemi",
+                "region": "en",
+                "domain": "en.bitcoinsistemi.com",
+                "path": null
+            },
+            "title": "Litecoin, Ethereum Classic, and Tradecurve Markets: ChatGPT\u2019s Top Picks for September 2023\u2019s Best Altcoins",
+            "published_at": "2023-09-21T09:57:46Z",
+            "slug": "Litecoin-Ethereum-Classic-and-Tradecurve-Markets-ChatGPTs-Top-Picks-for-September-2023s-Best-Altcoins",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "LTC",
+                    "title": "Litecoin",
+                    "slug": "litecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/litecoin\/"
+                },
+                {
+                    "code": "ETC",
+                    "title": "Ethereum Classic",
+                    "slug": "ethereum-classic",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum-classic\/"
+                }
+            ],
+            "id": 18918553,
+            "url": "https:\/\/cryptopanic.com\/news\/18918553\/Litecoin-Ethereum-Classic-and-Tradecurve-Markets-ChatGPTs-Top-Picks-for-September-2023s-Best-Altcoins",
+            "created_at": "2023-09-21T09:57:46Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "bitcoin.com",
+            "source": {
+                "title": "Bitcoin.com",
+                "region": "en",
+                "domain": "bitcoin.com",
+                "path": null
+            },
+            "title": "New York Shrinks List of Pre-Approved Crypto \u2014 DOGE, XRP Among Coins Removed",
+            "published_at": "2023-09-19T23:30:21Z",
+            "slug": "New-York-Shrinks-List-of-Pre-Approved-Crypto-DOGE-XRP-Among-Coins-Removed",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                },
+                {
+                    "code": "ETC",
+                    "title": "Ethereum Classic",
+                    "slug": "ethereum-classic",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum-classic\/"
+                }
+            ],
+            "id": 18914888,
+            "url": "https:\/\/cryptopanic.com\/news\/18914888\/New-York-Shrinks-List-of-Pre-Approved-Crypto-DOGE-XRP-Among-Coins-Removed",
+            "created_at": "2023-09-19T23:30:21Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "I asked ChatGPT if Ethereum Classic can recover from its bearish movement",
+            "published_at": "2023-09-17T13:50:41Z",
+            "slug": "I-asked-ChatGPT-if-Ethereum-Classic-can-recover-from-its-bearish-movement",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "ETC",
+                    "title": "Ethereum Classic",
+                    "slug": "ethereum-classic",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum-classic\/"
+                }
+            ],
+            "id": 18908989,
+            "url": "https:\/\/cryptopanic.com\/news\/18908989\/I-asked-ChatGPT-if-Ethereum-Classic-can-recover-from-its-bearish-movement",
+            "created_at": "2023-09-17T13:50:41Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "Ethereum Classic [ETC] nears key roadblock \u2014 Is a reversal likely?",
+            "published_at": "2023-09-16T04:30:00Z",
+            "slug": "Ethereum-Classic-ETC-nears-key-roadblock-Is-a-reversal-likely",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "ETC",
+                    "title": "Ethereum Classic",
+                    "slug": "ethereum-classic",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum-classic\/"
+                }
+            ],
+            "id": 18907392,
+            "url": "https:\/\/cryptopanic.com\/news\/18907392\/Ethereum-Classic-ETC-nears-key-roadblock-Is-a-reversal-likely",
+            "created_at": "2023-09-16T04:30:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "ChatGPT analyzes whether Ethereum Classic can reach upwards of $150 anytime soon",
+            "published_at": "2023-09-10T13:50:58Z",
+            "slug": "ChatGPT-analyzes-whether-Ethereum-Classic-can-reach-upwards-of-150-anytime-soon",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "ETC",
+                    "title": "Ethereum Classic",
+                    "slug": "ethereum-classic",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum-classic\/"
+                }
+            ],
+            "id": 18892573,
+            "url": "https:\/\/cryptopanic.com\/news\/18892573\/ChatGPT-analyzes-whether-Ethereum-Classic-can-reach-upwards-of-150-anytime-soon",
+            "created_at": "2023-09-10T13:50:58Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "Ethereum and Ethereum Classic Prices Pump Following Grayscale Victory, With LPX Token Also Surging",
+            "published_at": "2023-08-30T11:30:00Z",
+            "slug": "Ethereum-and-Ethereum-Classic-Prices-Pump-Following-Grayscale-Victory-With-LPX-Token-Also-Surging",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "ETC",
+                    "title": "Ethereum Classic",
+                    "slug": "ethereum-classic",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum-classic\/"
+                }
+            ],
+            "id": 18868781,
+            "url": "https:\/\/cryptopanic.com\/news\/18868781\/Ethereum-and-Ethereum-Classic-Prices-Pump-Following-Grayscale-Victory-With-LPX-Token-Also-Surging",
+            "created_at": "2023-08-30T11:30:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "medium.com",
+            "source": {
+                "title": "Byteball Bytes Blog",
+                "region": "en",
+                "domain": "medium.com",
+                "path": null
+            },
+            "title": "Non-Fungible Tokens (NFTs): Anyone Can Do It and Earn From It",
+            "published_at": "2023-08-28T08:19:06Z",
+            "slug": "Non-Fungible-Tokens-NFTs-Anyone-Can-Do-It-and-Earn-From-It",
+            "currencies": [
+                {
+                    "code": "GBYTE",
+                    "title": "Obyte",
+                    "slug": "byteball",
+                    "url": "https:\/\/cryptopanic.com\/news\/byteball\/"
+                },
+                {
+                    "code": "DOGE",
+                    "title": "Dogecoin",
+                    "slug": "dogecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/dogecoin\/"
+                },
+                {
+                    "code": "LTC",
+                    "title": "Litecoin",
+                    "slug": "litecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/litecoin\/"
+                },
+                {
+                    "code": "XMR",
+                    "title": "Monero",
+                    "slug": "monero",
+                    "url": "https:\/\/cryptopanic.com\/news\/monero\/"
+                },
+                {
+                    "code": "ETC",
+                    "title": "Ethereum Classic",
+                    "slug": "ethereum-classic",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum-classic\/"
+                }
+            ],
+            "id": 18863536,
+            "url": "https:\/\/cryptopanic.com\/news\/18863536\/Non-Fungible-Tokens-NFTs-Anyone-Can-Do-It-and-Earn-From-It",
+            "created_at": "2023-08-28T08:19:06Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "I asked ChatGPT to forecast Ethereum Classic\u2019s price",
+            "published_at": "2023-08-27T13:50:58Z",
+            "slug": "I-asked-ChatGPT-to-forecast-Ethereum-Classics-price",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "ETC",
+                    "title": "Ethereum Classic",
+                    "slug": "ethereum-classic",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum-classic\/"
+                }
+            ],
+            "id": 18862313,
+            "url": "https:\/\/cryptopanic.com\/news\/18862313\/I-asked-ChatGPT-to-forecast-Ethereum-Classics-price",
+            "created_at": "2023-08-27T13:50:58Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "ETC rebounds \u2013 Is the recovery sustainable?",
+            "published_at": "2023-08-25T00:30:08Z",
+            "slug": "ETC-rebounds-Is-the-recovery-sustainable",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "ETC",
+                    "title": "Ethereum Classic",
+                    "slug": "ethereum-classic",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum-classic\/"
+                }
+            ],
+            "id": 18858156,
+            "url": "https:\/\/cryptopanic.com\/news\/18858156\/ETC-rebounds-Is-the-recovery-sustainable",
+            "created_at": "2023-08-25T00:30:08Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "bitcoin.com",
+            "source": {
+                "title": "Bitcoin.com",
+                "region": "en",
+                "domain": "bitcoin.com",
+                "path": null
+            },
+            "title": "Biggest Movers: LTC, ETC Rebound on Monday, Despite Bearish Sentiment",
+            "published_at": "2023-08-21T16:30:48Z",
+            "slug": "Biggest-Movers-LTC-ETC-Rebound-on-Monday-Despite-Bearish-Sentiment",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "LTC",
+                    "title": "Litecoin",
+                    "slug": "litecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/litecoin\/"
+                },
+                {
+                    "code": "ETC",
+                    "title": "Ethereum Classic",
+                    "slug": "ethereum-classic",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum-classic\/"
+                }
+            ],
+            "id": 18850971,
+            "url": "https:\/\/cryptopanic.com\/news\/18850971\/Biggest-Movers-LTC-ETC-Rebound-on-Monday-Despite-Bearish-Sentiment",
+            "created_at": "2023-08-21T16:30:48Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "I asked ChatGPT when Ethereum Classic will hit $50, the answer confused me",
+            "published_at": "2023-08-20T13:50:09Z",
+            "slug": "I-asked-ChatGPT-when-Ethereum-Classic-will-hit-50-the-answer-confused-me",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "ETC",
+                    "title": "Ethereum Classic",
+                    "slug": "ethereum-classic",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum-classic\/"
+                }
+            ],
+            "id": 18848673,
+            "url": "https:\/\/cryptopanic.com\/news\/18848673\/I-asked-ChatGPT-when-Ethereum-Classic-will-hit-50-the-answer-confused-me",
+            "created_at": "2023-08-20T13:50:09Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "What\u2019s next after ETC smashes this critical support level",
+            "published_at": "2023-08-19T05:30:04Z",
+            "slug": "Whats-next-after-ETC-smashes-this-critical-support-level",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "ETC",
+                    "title": "Ethereum Classic",
+                    "slug": "ethereum-classic",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum-classic\/"
+                }
+            ],
+            "id": 18847141,
+            "url": "https:\/\/cryptopanic.com\/news\/18847141\/Whats-next-after-ETC-smashes-this-critical-support-level",
+            "created_at": "2023-08-19T05:30:04Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "I asked ChatGPT about Ethereum Classic, the AI bot predicted a 3x rally",
+            "published_at": "2023-08-13T13:50:52Z",
+            "slug": "I-asked-ChatGPT-about-Ethereum-Classic-the-AI-bot-predicted-a-3x-rally",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "ETC",
+                    "title": "Ethereum Classic",
+                    "slug": "ethereum-classic",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum-classic\/"
+                }
+            ],
+            "id": 18834594,
+            "url": "https:\/\/cryptopanic.com\/news\/18834594\/I-asked-ChatGPT-about-Ethereum-Classic-the-AI-bot-predicted-a-3x-rally",
+            "created_at": "2023-08-13T13:50:52Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "votes": {
+                "negative": 0,
+                "positive": 2,
+                "important": 1,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 1,
+                "comments": 0
+            },
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "San Francisco\u2019s SoFi Bank Reveals Significant Holdings In BTC, ETH, And DOGE",
+            "published_at": "2023-08-11T14:00:08Z",
+            "slug": "San-Franciscos-SoFi-Bank-Reveals-Significant-Holdings-In-BTC-ETH-And-DOGE",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "DOGE",
+                    "title": "Dogecoin",
+                    "slug": "dogecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/dogecoin\/"
+                },
+                {
+                    "code": "ADA",
+                    "title": "Cardano",
+                    "slug": "cardano",
+                    "url": "https:\/\/cryptopanic.com\/news\/cardano\/"
+                },
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "LTC",
+                    "title": "Litecoin",
+                    "slug": "litecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/litecoin\/"
+                },
+                {
+                    "code": "ETC",
+                    "title": "Ethereum Classic",
+                    "slug": "ethereum-classic",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum-classic\/"
+                }
+            ],
+            "id": 18832134,
+            "url": "https:\/\/cryptopanic.com\/news\/18832134\/San-Franciscos-SoFi-Bank-Reveals-Significant-Holdings-In-BTC-ETH-And-DOGE",
+            "created_at": "2023-08-11T14:00:08Z"
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Bitcoin Funds Witness Largest Weekly Outflows Since March: Report",
+            "published_at": "2023-08-08T05:00:02Z",
+            "slug": "Bitcoin-Funds-Witness-Largest-Weekly-Outflows-Since-March-Report",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "LTC",
+                    "title": "Litecoin",
+                    "slug": "litecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/litecoin\/"
+                },
+                {
+                    "code": "UNI",
+                    "title": "Uniswap",
+                    "slug": "uniswap",
+                    "url": "https:\/\/cryptopanic.com\/news\/uniswap\/"
+                },
+                {
+                    "code": "ETC",
+                    "title": "Ethereum Classic",
+                    "slug": "ethereum-classic",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum-classic\/"
+                }
+            ],
+            "id": 18824497,
+            "url": "https:\/\/cryptopanic.com\/news\/18824497\/Bitcoin-Funds-Witness-Largest-Weekly-Outflows-Since-March-Report",
+            "created_at": "2023-08-08T05:00:02Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "Here\u2019s how Ethereum Classic is navigating the current market",
+            "published_at": "2023-07-24T20:30:09Z",
+            "slug": "Heres-how-Ethereum-Classic-is-navigating-the-current-market",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "ETC",
+                    "title": "Ethereum Classic",
+                    "slug": "ethereum-classic",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum-classic\/"
+                }
+            ],
+            "id": 18793518,
+            "url": "https:\/\/cryptopanic.com\/news\/18793518\/Heres-how-Ethereum-Classic-is-navigating-the-current-market",
+            "created_at": "2023-07-24T20:30:09Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinedition.com",
+            "source": {
+                "title": "coinedition",
+                "region": "en",
+                "domain": "coinedition.com",
+                "path": null
+            },
+            "title": "Terra Luna Classic (LUNC) Vs. Ethereum Classic (ETC) Price Prediction: Golteum (GLTM) Presale Prepares To Dominate The Market",
+            "published_at": "2023-07-24T14:09:09Z",
+            "slug": "Terra-Luna-Classic-LUNC-Vs-Ethereum-Classic-ETC-Price-Prediction-Golteum-GLTM-Presale-Prepares-To-Dominate-The-Market",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "ETC",
+                    "title": "Ethereum Classic",
+                    "slug": "ethereum-classic",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum-classic\/"
+                },
+                {
+                    "code": "LUNC",
+                    "title": "Terra Luna Classic",
+                    "slug": "terra-luna",
+                    "url": "https:\/\/cryptopanic.com\/news\/terra-luna\/"
+                }
+            ],
+            "id": 18793025,
+            "url": "https:\/\/cryptopanic.com\/news\/18793025\/Terra-Luna-Classic-LUNC-Vs-Ethereum-Classic-ETC-Price-Prediction-Golteum-GLTM-Presale-Prepares-To-Dominate-The-Market",
+            "created_at": "2023-07-24T14:09:09Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

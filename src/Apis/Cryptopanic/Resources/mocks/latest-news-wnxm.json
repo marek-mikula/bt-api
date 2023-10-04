@@ -1,0 +1,839 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=WNXM&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "@NexusMutual",
+            "source": {
+                "title": "Wrapped NXM Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@nexusmutual"
+            },
+            "title": "Join us in 15 minutes for our bi-weekly community call! \ufe0f Nexus Mutual Discord: \n\ufe0fCommunit\u2026",
+            "published_at": "2023-07-11T12:45:00Z",
+            "slug": "Join-us-in-15-minutes-for-our-bi-weekly-community-call-Nexus-Mutual-Discord-Communit",
+            "currencies": [
+                {
+                    "code": "WNXM",
+                    "title": "Wrapped NXM",
+                    "slug": "wrapped-nxm",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-nxm\/"
+                },
+                {
+                    "code": "NXM",
+                    "title": "Nexus Mutual",
+                    "slug": "nxm",
+                    "url": "https:\/\/cryptopanic.com\/news\/nxm\/"
+                }
+            ],
+            "id": 18768195,
+            "url": "https:\/\/cryptopanic.com\/news\/18768195\/Join-us-in-15-minutes-for-our-bi-weekly-community-call-Nexus-Mutual-Discord-Communit",
+            "created_at": "2023-07-11T12:45:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@NexusMutual",
+            "source": {
+                "title": "Wrapped NXM Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@nexusmutual"
+            },
+            "title": "Join us in 45 minutes for our bi-weekly community call! \ufe0f Nexus Mutual Discord: \n\ufe0fCommunit\u2026",
+            "published_at": "2023-07-11T12:15:00Z",
+            "slug": "Join-us-in-45-minutes-for-our-bi-weekly-community-call-Nexus-Mutual-Discord-Communit",
+            "currencies": [
+                {
+                    "code": "WNXM",
+                    "title": "Wrapped NXM",
+                    "slug": "wrapped-nxm",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-nxm\/"
+                },
+                {
+                    "code": "NXM",
+                    "title": "Nexus Mutual",
+                    "slug": "nxm",
+                    "url": "https:\/\/cryptopanic.com\/news\/nxm\/"
+                }
+            ],
+            "id": 18768196,
+            "url": "https:\/\/cryptopanic.com\/news\/18768196\/Join-us-in-45-minutes-for-our-bi-weekly-community-call-Nexus-Mutual-Discord-Communit",
+            "created_at": "2023-07-11T12:15:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@NexusMutual",
+            "source": {
+                "title": "Wrapped NXM Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@nexusmutual"
+            },
+            "title": "RT @NexusMutualDAO: \ufe0f NMDP Open for Voting \ufe0f\n\nMembers can review and vote on the following NMDP:\n\ufe0f from Monday (10 July) at 10am EST \/ 3\u2026",
+            "published_at": "2023-07-10T18:23:06Z",
+            "slug": "RT-NexusMutualDAO-NMDP-Open-for-Voting-Members-can-review-and-vote-on-the-following-NMDP-from-Monday-10-July-at-10am-EST-3",
+            "currencies": [
+                {
+                    "code": "WNXM",
+                    "title": "Wrapped NXM",
+                    "slug": "wrapped-nxm",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-nxm\/"
+                },
+                {
+                    "code": "NXM",
+                    "title": "Nexus Mutual",
+                    "slug": "nxm",
+                    "url": "https:\/\/cryptopanic.com\/news\/nxm\/"
+                }
+            ],
+            "id": 18759926,
+            "url": "https:\/\/cryptopanic.com\/news\/18759926\/RT-NexusMutualDAO-NMDP-Open-for-Voting-Members-can-review-and-vote-on-the-following-NMDP-from-Monday-10-July-at-10am-EST-3",
+            "created_at": "2023-07-10T18:23:06Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@NexusMutual",
+            "source": {
+                "title": "Wrapped NXM Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@nexusmutual"
+            },
+            "title": "RT @OpenCoverDeFi:  ICYMI: @MorphoLabs is now live on OpenCover\ufe0f\n\nProtect your Morpho positions with @NexusMutual\nwithout paying any L1 f\u2026",
+            "published_at": "2023-07-10T16:33:14Z",
+            "slug": "RT-OpenCoverDeFi-ICYMI-MorphoLabs-is-now-live-on-OpenCover-Protect-your-Morpho-positions-with-NexusMutual-without-paying-any-L1-f",
+            "currencies": [
+                {
+                    "code": "WNXM",
+                    "title": "Wrapped NXM",
+                    "slug": "wrapped-nxm",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-nxm\/"
+                },
+                {
+                    "code": "NXM",
+                    "title": "Nexus Mutual",
+                    "slug": "nxm",
+                    "url": "https:\/\/cryptopanic.com\/news\/nxm\/"
+                }
+            ],
+            "id": 18759927,
+            "url": "https:\/\/cryptopanic.com\/news\/18759927\/RT-OpenCoverDeFi-ICYMI-MorphoLabs-is-now-live-on-OpenCover-Protect-your-Morpho-positions-with-NexusMutual-without-paying-any-L1-f",
+            "created_at": "2023-07-10T16:33:14Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@NexusMutual",
+            "source": {
+                "title": "Wrapped NXM Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@nexusmutual"
+            },
+            "title": "RT @NexusMutualDAO: The latest issue of The Hedge is out \n Enzyme &amp; Rocket Pool investment NMPIPs \n Updating Protocol Cover wording NMPI\u2026",
+            "published_at": "2023-07-06T14:18:22Z",
+            "slug": "RT-NexusMutualDAO-The-latest-issue-of-The-Hedge-is-out-Enzyme-amp-Rocket-Pool-investment-NMPIPs-Updating-Protocol-Cover-wording-NMPI",
+            "currencies": [
+                {
+                    "code": "WNXM",
+                    "title": "Wrapped NXM",
+                    "slug": "wrapped-nxm",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-nxm\/"
+                },
+                {
+                    "code": "NXM",
+                    "title": "Nexus Mutual",
+                    "slug": "nxm",
+                    "url": "https:\/\/cryptopanic.com\/news\/nxm\/"
+                },
+                {
+                    "code": "RPL",
+                    "title": "Rocket Pool",
+                    "slug": "rocket-pool",
+                    "url": "https:\/\/cryptopanic.com\/news\/rocket-pool\/"
+                }
+            ],
+            "id": 18736342,
+            "url": "https:\/\/cryptopanic.com\/news\/18736342\/RT-NexusMutualDAO-The-latest-issue-of-The-Hedge-is-out-Enzyme-amp-Rocket-Pool-investment-NMPIPs-Updating-Protocol-Cover-wording-NMPI",
+            "created_at": "2023-07-06T14:18:22Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@NexusMutual",
+            "source": {
+                "title": "Wrapped NXM Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@nexusmutual"
+            },
+            "title": "RT @OpenCoverDeFi: \ufe0f NEW COVER LISTED \ufe0f\n\n\ud83e\udd8b @MorphoLabs is now live on OpenCover.\n\nProtect your Morpho positions with @NexusMutual without\u2026",
+            "published_at": "2023-07-05T14:26:39Z",
+            "slug": "RT-OpenCoverDeFi-NEW-COVER-LISTED-MorphoLabs-is-now-live-on-OpenCover-Protect-your-Morpho-positions-with-NexusMutual-without",
+            "currencies": [
+                {
+                    "code": "WNXM",
+                    "title": "Wrapped NXM",
+                    "slug": "wrapped-nxm",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-nxm\/"
+                },
+                {
+                    "code": "NXM",
+                    "title": "Nexus Mutual",
+                    "slug": "nxm",
+                    "url": "https:\/\/cryptopanic.com\/news\/nxm\/"
+                }
+            ],
+            "id": 18727720,
+            "url": "https:\/\/cryptopanic.com\/news\/18727720\/RT-OpenCoverDeFi-NEW-COVER-LISTED-MorphoLabs-is-now-live-on-OpenCover-Protect-your-Morpho-positions-with-NexusMutual-without",
+            "created_at": "2023-07-05T14:26:39Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@NexusMutual",
+            "source": {
+                "title": "Wrapped NXM Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@nexusmutual"
+            },
+            "title": "RT @NexusMutualDAO: The latest issue of The Hedge is out \n\ufe0f @ChorusOne ETH Staking Cover Partnership\n New Protocol Cover listings now av\u2026",
+            "published_at": "2023-06-29T16:11:46Z",
+            "slug": "RT-NexusMutualDAO-The-latest-issue-of-The-Hedge-is-out-ChorusOne-ETH-Staking-Cover-Partnership-New-Protocol-Cover-listings-now-av",
+            "currencies": [
+                {
+                    "code": "WNXM",
+                    "title": "Wrapped NXM",
+                    "slug": "wrapped-nxm",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-nxm\/"
+                },
+                {
+                    "code": "NXM",
+                    "title": "Nexus Mutual",
+                    "slug": "nxm",
+                    "url": "https:\/\/cryptopanic.com\/news\/nxm\/"
+                }
+            ],
+            "id": 18689295,
+            "url": "https:\/\/cryptopanic.com\/news\/18689295\/RT-NexusMutualDAO-The-latest-issue-of-The-Hedge-is-out-ChorusOne-ETH-Staking-Cover-Partnership-New-Protocol-Cover-listings-now-av",
+            "created_at": "2023-06-29T16:11:46Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@NexusMutual",
+            "source": {
+                "title": "Wrapped NXM Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@nexusmutual"
+            },
+            "title": "RT @Blockworks_: NEWS: Chorus One is partnering with Nexus Mutual to offer insurance coverage to protect users against slashing",
+            "published_at": "2023-06-29T13:59:37Z",
+            "slug": "RT-Blockworks_-NEWS-Chorus-One-is-partnering-with-Nexus-Mutual-to-offer-insurance-coverage-to-protect-users-against-slashing",
+            "currencies": [
+                {
+                    "code": "WNXM",
+                    "title": "Wrapped NXM",
+                    "slug": "wrapped-nxm",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-nxm\/"
+                },
+                {
+                    "code": "NXM",
+                    "title": "Nexus Mutual",
+                    "slug": "nxm",
+                    "url": "https:\/\/cryptopanic.com\/news\/nxm\/"
+                }
+            ],
+            "id": 18689296,
+            "url": "https:\/\/cryptopanic.com\/news\/18689296\/RT-Blockworks_-NEWS-Chorus-One-is-partnering-with-Nexus-Mutual-to-offer-insurance-coverage-to-protect-users-against-slashing",
+            "created_at": "2023-06-29T13:59:37Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@NexusMutual",
+            "source": {
+                "title": "Wrapped NXM Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@nexusmutual"
+            },
+            "title": "We're excited to partner with @ChorusOne and protect their customers with ETH Staking Cover!\n\nChorus One is the fir\u2026",
+            "published_at": "2023-06-29T13:58:14Z",
+            "slug": "Were-excited-to-partner-with-ChorusOne-and-protect-their-customers-with-ETH-Staking-Cover-Chorus-One-is-the-fir",
+            "currencies": [
+                {
+                    "code": "WNXM",
+                    "title": "Wrapped NXM",
+                    "slug": "wrapped-nxm",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-nxm\/"
+                },
+                {
+                    "code": "NXM",
+                    "title": "Nexus Mutual",
+                    "slug": "nxm",
+                    "url": "https:\/\/cryptopanic.com\/news\/nxm\/"
+                }
+            ],
+            "id": 18689297,
+            "url": "https:\/\/cryptopanic.com\/news\/18689297\/Were-excited-to-partner-with-ChorusOne-and-protect-their-customers-with-ETH-Staking-Cover-Chorus-One-is-the-fir",
+            "created_at": "2023-06-29T13:58:14Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@NexusMutual",
+            "source": {
+                "title": "Wrapped NXM Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@nexusmutual"
+            },
+            "title": "RT @NexusMutualDAO: \ufe0f Signaling Votes (4 of 4) \ufe0f\n\n@0xloth posted an RFC, where he proposed members allocate 4848 ETH from the capital poo\u2026",
+            "published_at": "2023-06-26T17:07:11Z",
+            "slug": "RT-NexusMutualDAO-Signaling-Votes-4-of-4-0xloth-posted-an-RFC-where-he-proposed-members-allocate-4848-ETH-from-the-capital-poo",
+            "currencies": [
+                {
+                    "code": "WNXM",
+                    "title": "Wrapped NXM",
+                    "slug": "wrapped-nxm",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-nxm\/"
+                },
+                {
+                    "code": "NXM",
+                    "title": "Nexus Mutual",
+                    "slug": "nxm",
+                    "url": "https:\/\/cryptopanic.com\/news\/nxm\/"
+                }
+            ],
+            "id": 18664929,
+            "url": "https:\/\/cryptopanic.com\/news\/18664929\/RT-NexusMutualDAO-Signaling-Votes-4-of-4-0xloth-posted-an-RFC-where-he-proposed-members-allocate-4848-ETH-from-the-capital-poo",
+            "created_at": "2023-06-26T17:07:11Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@NexusMutual",
+            "source": {
+                "title": "Wrapped NXM Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@nexusmutual"
+            },
+            "title": "RT @NexusMutualDAO: \ufe0f Signaling Votes (3 of 4) \ufe0f\n\n@0xUisce has posted a 2nd signaling vote that is dependent on the result of the 1st vot\u2026",
+            "published_at": "2023-06-26T17:07:09Z",
+            "slug": "RT-NexusMutualDAO-Signaling-Votes-3-of-4-0xUisce-has-posted-a-2nd-signaling-vote-that-is-dependent-on-the-result-of-the-1st-vot",
+            "currencies": [
+                {
+                    "code": "WNXM",
+                    "title": "Wrapped NXM",
+                    "slug": "wrapped-nxm",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-nxm\/"
+                },
+                {
+                    "code": "NXM",
+                    "title": "Nexus Mutual",
+                    "slug": "nxm",
+                    "url": "https:\/\/cryptopanic.com\/news\/nxm\/"
+                }
+            ],
+            "id": 18664930,
+            "url": "https:\/\/cryptopanic.com\/news\/18664930\/RT-NexusMutualDAO-Signaling-Votes-3-of-4-0xUisce-has-posted-a-2nd-signaling-vote-that-is-dependent-on-the-result-of-the-1st-vot",
+            "created_at": "2023-06-26T17:07:09Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@NexusMutual",
+            "source": {
+                "title": "Wrapped NXM Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@nexusmutual"
+            },
+            "title": "RT @NexusMutualDAO: \ufe0f Signaling Votes (2 of 4) \ufe0f\n\n@0xUisce posted an RFC, where they've proposed members allocate ETH from the capital po\u2026",
+            "published_at": "2023-06-26T17:07:07Z",
+            "slug": "RT-NexusMutualDAO-Signaling-Votes-2-of-4-0xUisce-posted-an-RFC-where-theyve-proposed-members-allocate-ETH-from-the-capital-po",
+            "currencies": [
+                {
+                    "code": "WNXM",
+                    "title": "Wrapped NXM",
+                    "slug": "wrapped-nxm",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-nxm\/"
+                },
+                {
+                    "code": "NXM",
+                    "title": "Nexus Mutual",
+                    "slug": "nxm",
+                    "url": "https:\/\/cryptopanic.com\/news\/nxm\/"
+                }
+            ],
+            "id": 18664931,
+            "url": "https:\/\/cryptopanic.com\/news\/18664931\/RT-NexusMutualDAO-Signaling-Votes-2-of-4-0xUisce-posted-an-RFC-where-theyve-proposed-members-allocate-ETH-from-the-capital-po",
+            "created_at": "2023-06-26T17:07:07Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@NexusMutual",
+            "source": {
+                "title": "Wrapped NXM Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@nexusmutual"
+            },
+            "title": "RT @NexusMutualDAO: \ufe0f Signaling Vote (1 of 4) \ufe0f\n\nThe Avantgarde team posted an RFC, where they've proposed members allocate 6624 wETH fro\u2026",
+            "published_at": "2023-06-26T17:07:05Z",
+            "slug": "RT-NexusMutualDAO-Signaling-Vote-1-of-4-The-Avantgarde-team-posted-an-RFC-where-theyve-proposed-members-allocate-6624-wETH-fro",
+            "currencies": [
+                {
+                    "code": "WNXM",
+                    "title": "Wrapped NXM",
+                    "slug": "wrapped-nxm",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-nxm\/"
+                },
+                {
+                    "code": "NXM",
+                    "title": "Nexus Mutual",
+                    "slug": "nxm",
+                    "url": "https:\/\/cryptopanic.com\/news\/nxm\/"
+                }
+            ],
+            "id": 18664932,
+            "url": "https:\/\/cryptopanic.com\/news\/18664932\/RT-NexusMutualDAO-Signaling-Vote-1-of-4-The-Avantgarde-team-posted-an-RFC-where-theyve-proposed-members-allocate-6624-wETH-fro",
+            "created_at": "2023-06-26T17:07:05Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@NexusMutual",
+            "source": {
+                "title": "Wrapped NXM Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@nexusmutual"
+            },
+            "title": "RT @NexusMutualDAO: \ufe0f Investment Signaling Votes \ufe0f\n\nThe Morpho, Avantgarde and Enzyme, and Rocket Pool communities have all posted RFC pr\u2026",
+            "published_at": "2023-06-26T17:07:01Z",
+            "slug": "RT-NexusMutualDAO-Investment-Signaling-Votes-The-Morpho-Avantgarde-and-Enzyme-and-Rocket-Pool-communities-have-all-posted-RFC-pr",
+            "currencies": [
+                {
+                    "code": "WNXM",
+                    "title": "Wrapped NXM",
+                    "slug": "wrapped-nxm",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-nxm\/"
+                },
+                {
+                    "code": "NXM",
+                    "title": "Nexus Mutual",
+                    "slug": "nxm",
+                    "url": "https:\/\/cryptopanic.com\/news\/nxm\/"
+                },
+                {
+                    "code": "RPL",
+                    "title": "Rocket Pool",
+                    "slug": "rocket-pool",
+                    "url": "https:\/\/cryptopanic.com\/news\/rocket-pool\/"
+                }
+            ],
+            "id": 18664933,
+            "url": "https:\/\/cryptopanic.com\/news\/18664933\/RT-NexusMutualDAO-Investment-Signaling-Votes-The-Morpho-Avantgarde-and-Enzyme-and-Rocket-Pool-communities-have-all-posted-RFC-pr",
+            "created_at": "2023-06-26T17:07:01Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@NexusMutual",
+            "source": {
+                "title": "Wrapped NXM Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@nexusmutual"
+            },
+            "title": "\ufe0f New Listing \ufe0f\n\nAave V3 is now listed on Nexus Mutual!\n\nEnjoy peace of mind when you protect your crypto deposit\u2026",
+            "published_at": "2023-06-21T13:30:05Z",
+            "slug": "New-Listing-Aave-V3-is-now-listed-on-Nexus-Mutual-Enjoy-peace-of-mind-when-you-protect-your-crypto-deposit",
+            "currencies": [
+                {
+                    "code": "WNXM",
+                    "title": "Wrapped NXM",
+                    "slug": "wrapped-nxm",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-nxm\/"
+                },
+                {
+                    "code": "NXM",
+                    "title": "Nexus Mutual",
+                    "slug": "nxm",
+                    "url": "https:\/\/cryptopanic.com\/news\/nxm\/"
+                }
+            ],
+            "id": 18632418,
+            "url": "https:\/\/cryptopanic.com\/news\/18632418\/New-Listing-Aave-V3-is-now-listed-on-Nexus-Mutual-Enjoy-peace-of-mind-when-you-protect-your-crypto-deposit",
+            "created_at": "2023-06-21T13:30:05Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@NexusMutual",
+            "source": {
+                "title": "Wrapped NXM Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@nexusmutual"
+            },
+            "title": "Join us in 15 minutes for our bi-weekly community call!\n\ufe0f Nexus Mutual Discord: \n\ufe0fCommunit\u2026",
+            "published_at": "2023-06-20T12:45:00Z",
+            "slug": "Join-us-in-15-minutes-for-our-bi-weekly-community-call-Nexus-Mutual-Discord-Communit",
+            "currencies": [
+                {
+                    "code": "WNXM",
+                    "title": "Wrapped NXM",
+                    "slug": "wrapped-nxm",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-nxm\/"
+                },
+                {
+                    "code": "NXM",
+                    "title": "Nexus Mutual",
+                    "slug": "nxm",
+                    "url": "https:\/\/cryptopanic.com\/news\/nxm\/"
+                }
+            ],
+            "id": 18632419,
+            "url": "https:\/\/cryptopanic.com\/news\/18632419\/Join-us-in-15-minutes-for-our-bi-weekly-community-call-Nexus-Mutual-Discord-Communit",
+            "created_at": "2023-06-20T12:45:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@NexusMutual",
+            "source": {
+                "title": "Wrapped NXM Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@nexusmutual"
+            },
+            "title": "Join us in 1 hour for our bi-weekly community call! \n\ufe0f Nexus Mutual Discord: \n\ufe0fCommunity C\u2026",
+            "published_at": "2023-06-20T12:00:03Z",
+            "slug": "Join-us-in-1-hour-for-our-bi-weekly-community-call-Nexus-Mutual-Discord-Community-C",
+            "currencies": [
+                {
+                    "code": "WNXM",
+                    "title": "Wrapped NXM",
+                    "slug": "wrapped-nxm",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-nxm\/"
+                },
+                {
+                    "code": "NXM",
+                    "title": "Nexus Mutual",
+                    "slug": "nxm",
+                    "url": "https:\/\/cryptopanic.com\/news\/nxm\/"
+                }
+            ],
+            "id": 18632420,
+            "url": "https:\/\/cryptopanic.com\/news\/18632420\/Join-us-in-1-hour-for-our-bi-weekly-community-call-Nexus-Mutual-Discord-Community-C",
+            "created_at": "2023-06-20T12:00:03Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@NexusMutual",
+            "source": {
+                "title": "Wrapped NXM Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@nexusmutual"
+            },
+            "title": "RT @bright_union: @NexusMutual members take note! The Bright Union platform now enables you to purchase #DeFi coverage through our app, ut\u2026",
+            "published_at": "2023-06-15T12:55:56Z",
+            "slug": "RT-bright_union-NexusMutual-members-take-note-The-Bright-Union-platform-now-enables-you-to-purchase-DeFi-coverage-through-our-app-ut",
+            "currencies": [
+                {
+                    "code": "WNXM",
+                    "title": "Wrapped NXM",
+                    "slug": "wrapped-nxm",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-nxm\/"
+                },
+                {
+                    "code": "NXM",
+                    "title": "Nexus Mutual",
+                    "slug": "nxm",
+                    "url": "https:\/\/cryptopanic.com\/news\/nxm\/"
+                }
+            ],
+            "id": 18591810,
+            "url": "https:\/\/cryptopanic.com\/news\/18591810\/RT-bright_union-NexusMutual-members-take-note-The-Bright-Union-platform-now-enables-you-to-purchase-DeFi-coverage-through-our-app-ut",
+            "created_at": "2023-06-15T12:55:56Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@NexusMutual",
+            "source": {
+                "title": "Wrapped NXM Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@nexusmutual"
+            },
+            "title": "The latest issue of The Hedge is out\u00a0\n\n\ufe0f\u00a0A recap of the mutual's roadmap\n\u00a0Investment request for comments\n\u00a0Rece\u2026",
+            "published_at": "2023-06-15T10:57:18Z",
+            "slug": "The-latest-issue-of-The-Hedge-is-out-A-recap-of-the-mutuals-roadmap-Investment-request-for-comments-Rece",
+            "currencies": [
+                {
+                    "code": "WNXM",
+                    "title": "Wrapped NXM",
+                    "slug": "wrapped-nxm",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-nxm\/"
+                },
+                {
+                    "code": "NXM",
+                    "title": "Nexus Mutual",
+                    "slug": "nxm",
+                    "url": "https:\/\/cryptopanic.com\/news\/nxm\/"
+                }
+            ],
+            "id": 18591811,
+            "url": "https:\/\/cryptopanic.com\/news\/18591811\/The-latest-issue-of-The-Hedge-is-out-A-recap-of-the-mutuals-roadmap-Investment-request-for-comments-Rece",
+            "created_at": "2023-06-15T10:57:18Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@NexusMutual",
+            "source": {
+                "title": "Wrapped NXM Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@nexusmutual"
+            },
+            "title": "RT @OpenCoverDeFi:  Tired of DeFi hacks? So are we.\n\nWe're making $250+ million of underwriting capital from @NexusMutual available on L2\u2026",
+            "published_at": "2023-06-14T15:02:01Z",
+            "slug": "RT-OpenCoverDeFi-Tired-of-DeFi-hacks-So-are-we-Were-making-250-million-of-underwriting-capital-from-NexusMutual-available-on-L2",
+            "currencies": [
+                {
+                    "code": "WNXM",
+                    "title": "Wrapped NXM",
+                    "slug": "wrapped-nxm",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-nxm\/"
+                },
+                {
+                    "code": "NXM",
+                    "title": "Nexus Mutual",
+                    "slug": "nxm",
+                    "url": "https:\/\/cryptopanic.com\/news\/nxm\/"
+                }
+            ],
+            "id": 18591812,
+            "url": "https:\/\/cryptopanic.com\/news\/18591812\/RT-OpenCoverDeFi-Tired-of-DeFi-hacks-So-are-we-Were-making-250-million-of-underwriting-capital-from-NexusMutual-available-on-L2",
+            "created_at": "2023-06-14T15:02:01Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

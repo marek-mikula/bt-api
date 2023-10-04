@@ -1,0 +1,851 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=USDC&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "cryptopotato.com",
+            "source": {
+                "title": "Feed - Cryptopotato.Com",
+                "region": "en",
+                "domain": "cryptopotato.com",
+                "path": null
+            },
+            "title": "Coinbase Will Delist a Massive 80 Trading Pairs on October 16th",
+            "published_at": "2023-10-03T07:58:14Z",
+            "slug": "Coinbase-Will-Delist-a-Massive-80-Trading-Pairs-on-October-16th",
+            "currencies": [
+                {
+                    "code": "USDC",
+                    "title": "USDC",
+                    "slug": "usd-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/usd-coin\/"
+                }
+            ],
+            "id": 18943793,
+            "url": "https:\/\/cryptopanic.com\/news\/18943793\/Coinbase-Will-Delist-a-Massive-80-Trading-Pairs-on-October-16th",
+            "created_at": "2023-10-03T07:58:14Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "dailyhodl.com",
+            "source": {
+                "title": "The Daily Hodl",
+                "region": "en",
+                "domain": "dailyhodl.com",
+                "path": null
+            },
+            "title": "Circle Says Stablecoins Are Not Securities, Argues SEC Has No Jurisdiction Over Dollar-Pegged Crypto Assets",
+            "published_at": "2023-10-02T17:58:03Z",
+            "slug": "Circle-Says-Stablecoins-Are-Not-Securities-Argues-SEC-Has-No-Jurisdiction-Over-Dollar-Pegged-Crypto-Assets",
+            "currencies": [
+                {
+                    "code": "USDC",
+                    "title": "USDC",
+                    "slug": "usd-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/usd-coin\/"
+                }
+            ],
+            "id": 18942819,
+            "url": "https:\/\/cryptopanic.com\/news\/18942819\/Circle-Says-Stablecoins-Are-Not-Securities-Argues-SEC-Has-No-Jurisdiction-Over-Dollar-Pegged-Crypto-Assets",
+            "created_at": "2023-10-02T17:58:03Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 1,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "Coinbase Obtains Major Payment Licence from the Central Bank of Singapore",
+            "published_at": "2023-10-02T06:35:09Z",
+            "slug": "Coinbase-Obtains-Major-Payment-Licence-from-the-Central-Bank-of-Singapore",
+            "currencies": [
+                {
+                    "code": "USDC",
+                    "title": "USDC",
+                    "slug": "usd-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/usd-coin\/"
+                }
+            ],
+            "id": 18941112,
+            "url": "https:\/\/cryptopanic.com\/news\/18941112\/Coinbase-Obtains-Major-Payment-Licence-from-the-Central-Bank-of-Singapore",
+            "created_at": "2023-10-02T06:35:09Z"
+        },
+        {
+            "kind": "news",
+            "domain": "dailyhodl.com",
+            "source": {
+                "title": "The Daily Hodl",
+                "region": "en",
+                "domain": "dailyhodl.com",
+                "path": null
+            },
+            "title": "FTX Hacker Holding $300,000,000 in Crypto Suddenly Moves Millions Worth of Assets: On-Chain Data",
+            "published_at": "2023-10-01T20:00:28Z",
+            "slug": "FTX-Hacker-Holding-300000000-in-Crypto-Suddenly-Moves-Millions-Worth-of-Assets-On-Chain-Data",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "USDT",
+                    "title": "Tether",
+                    "slug": "tether",
+                    "url": "https:\/\/cryptopanic.com\/news\/tether\/"
+                },
+                {
+                    "code": "BNB",
+                    "title": "BNB",
+                    "slug": "binancecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/binancecoin\/"
+                },
+                {
+                    "code": "USDC",
+                    "title": "USDC",
+                    "slug": "usd-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/usd-coin\/"
+                },
+                {
+                    "code": "DAI",
+                    "title": "Dai",
+                    "slug": "dai",
+                    "url": "https:\/\/cryptopanic.com\/news\/dai\/"
+                },
+                {
+                    "code": "FTT",
+                    "title": "FTX",
+                    "slug": "ftx-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/ftx-token\/"
+                }
+            ],
+            "id": 18940704,
+            "url": "https:\/\/cryptopanic.com\/news\/18940704\/FTX-Hacker-Holding-300000000-in-Crypto-Suddenly-Moves-Millions-Worth-of-Assets-On-Chain-Data",
+            "created_at": "2023-10-01T20:00:28Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinedition.com",
+            "source": {
+                "title": "coinedition",
+                "region": "en",
+                "domain": "coinedition.com",
+                "path": null
+            },
+            "title": "Stablecoins Are Not Securities: Circle Argues in Favor of Binance",
+            "published_at": "2023-10-01T11:33:00Z",
+            "slug": "Stablecoins-Are-Not-Securities-Circle-Argues-in-Favor-of-Binance",
+            "currencies": [
+                {
+                    "code": "USDC",
+                    "title": "USDC",
+                    "slug": "usd-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/usd-coin\/"
+                }
+            ],
+            "id": 18940132,
+            "url": "https:\/\/cryptopanic.com\/news\/18940132\/Stablecoins-Are-Not-Securities-Circle-Argues-in-Favor-of-Binance",
+            "created_at": "2023-10-01T11:33:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "Assessing Polygon\u2019s state ahead of USDC\u2019s integration",
+            "published_at": "2023-09-30T02:30:43Z",
+            "slug": "Assessing-Polygons-state-ahead-of-USDCs-integration",
+            "currencies": [
+                {
+                    "code": "USDC",
+                    "title": "USDC",
+                    "slug": "usd-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/usd-coin\/"
+                },
+                {
+                    "code": "MATIC",
+                    "title": "Polygon",
+                    "slug": "matic-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-network\/"
+                }
+            ],
+            "id": 18938581,
+            "url": "https:\/\/cryptopanic.com\/news\/18938581\/Assessing-Polygons-state-ahead-of-USDCs-integration",
+            "created_at": "2023-09-30T02:30:43Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coingabbar.com",
+            "source": {
+                "title": "coingabbar",
+                "region": "en",
+                "domain": "coingabbar.com",
+                "path": null
+            },
+            "title": "24 Crypto Update, 29 Sep: Crypto market remained relatively stable",
+            "published_at": "2023-09-30T01:30:00Z",
+            "slug": "24-Crypto-Update-29-Sep-Crypto-market-remained-relatively-stable",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "USDC",
+                    "title": "USDC",
+                    "slug": "usd-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/usd-coin\/"
+                },
+                {
+                    "code": "MATIC",
+                    "title": "Polygon",
+                    "slug": "matic-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-network\/"
+                },
+                {
+                    "code": "LTC",
+                    "title": "Litecoin",
+                    "slug": "litecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/litecoin\/"
+                },
+                {
+                    "code": "MKR",
+                    "title": "Maker",
+                    "slug": "maker",
+                    "url": "https:\/\/cryptopanic.com\/news\/maker\/"
+                },
+                {
+                    "code": "FLOW",
+                    "title": "Flow",
+                    "slug": "flow",
+                    "url": "https:\/\/cryptopanic.com\/news\/flow\/"
+                },
+                {
+                    "code": "GALA",
+                    "title": "GALA",
+                    "slug": "gala",
+                    "url": "https:\/\/cryptopanic.com\/news\/gala\/"
+                }
+            ],
+            "id": 18938693,
+            "url": "https:\/\/cryptopanic.com\/news\/18938693\/24-Crypto-Update-29-Sep-Crypto-market-remained-relatively-stable",
+            "created_at": "2023-09-30T01:30:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "dailycoin.com",
+            "source": {
+                "title": "Dailycoin",
+                "region": "en",
+                "domain": "dailycoin.com",
+                "path": null
+            },
+            "title": "Stablecoin Dominance Wanes: Will MiCA End Them?",
+            "published_at": "2023-09-29T19:05:00Z",
+            "slug": "Stablecoin-Dominance-Wanes-Will-MiCA-End-Them",
+            "currencies": [
+                {
+                    "code": "USDT",
+                    "title": "Tether",
+                    "slug": "tether",
+                    "url": "https:\/\/cryptopanic.com\/news\/tether\/"
+                },
+                {
+                    "code": "USDC",
+                    "title": "USDC",
+                    "slug": "usd-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/usd-coin\/"
+                }
+            ],
+            "id": 18938153,
+            "url": "https:\/\/cryptopanic.com\/news\/18938153\/Stablecoin-Dominance-Wanes-Will-MiCA-End-Them",
+            "created_at": "2023-09-29T19:05:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptopotato.com",
+            "source": {
+                "title": "Feed - Cryptopotato.Com",
+                "region": "en",
+                "domain": "cryptopotato.com",
+                "path": null
+            },
+            "title": "Circle Claims Stablecoins are Not Securities in Binance Lawsuit",
+            "published_at": "2023-09-29T19:04:49Z",
+            "slug": "Circle-Claims-Stablecoins-are-Not-Securities-in-Binance-Lawsuit",
+            "currencies": [
+                {
+                    "code": "USDC",
+                    "title": "USDC",
+                    "slug": "usd-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/usd-coin\/"
+                },
+                {
+                    "code": "BUSD",
+                    "title": "BUSD",
+                    "slug": "binance-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/binance-usd\/"
+                }
+            ],
+            "id": 18938154,
+            "url": "https:\/\/cryptopanic.com\/news\/18938154\/Circle-Claims-Stablecoins-are-Not-Securities-in-Binance-Lawsuit",
+            "created_at": "2023-09-29T19:04:49Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "decrypt.co",
+            "source": {
+                "title": "Decrypt",
+                "region": "en",
+                "domain": "decrypt.co",
+                "path": null
+            },
+            "title": "Stablecoins Aren't Securities, Says Circle in SEC Lawsuits Against Binance",
+            "published_at": "2023-09-29T16:03:59Z",
+            "slug": "Stablecoins-Arent-Securities-Says-Circle-in-SEC-Lawsuits-Against-Binance",
+            "currencies": [
+                {
+                    "code": "USDC",
+                    "title": "USDC",
+                    "slug": "usd-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/usd-coin\/"
+                },
+                {
+                    "code": "BUSD",
+                    "title": "BUSD",
+                    "slug": "binance-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/binance-usd\/"
+                }
+            ],
+            "id": 18937810,
+            "url": "https:\/\/cryptopanic.com\/news\/18937810\/Stablecoins-Arent-Securities-Says-Circle-in-SEC-Lawsuits-Against-Binance",
+            "created_at": "2023-09-29T16:03:59Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "dailycoin.com",
+            "votes": {
+                "negative": 0,
+                "positive": 2,
+                "important": 1,
+                "liked": 2,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 1,
+                "comments": 1
+            },
+            "source": {
+                "title": "Dailycoin",
+                "region": "en",
+                "domain": "dailycoin.com",
+                "path": null
+            },
+            "title": "USDC's Circle Takes a Stand in SEC Lawsuit Against Binance",
+            "published_at": "2023-09-29T13:35:00Z",
+            "slug": "USDCs-Circle-Takes-a-Stand-in-SEC-Lawsuit-Against-Binance",
+            "currencies": [
+                {
+                    "code": "USDC",
+                    "title": "USDC",
+                    "slug": "usd-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/usd-coin\/"
+                }
+            ],
+            "id": 18937401,
+            "url": "https:\/\/cryptopanic.com\/news\/18937401\/USDCs-Circle-Takes-a-Stand-in-SEC-Lawsuit-Against-Binance",
+            "created_at": "2023-09-29T13:35:00Z"
+        },
+        {
+            "kind": "news",
+            "domain": "coindesk.com",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 1,
+                "comments": 0
+            },
+            "source": {
+                "title": "CoinDesk",
+                "region": "en",
+                "domain": "coindesk.com",
+                "path": null
+            },
+            "title": "Circle Rolls Out Open-Source Protocol to Help Build Tokenized Credit Markets",
+            "published_at": "2023-09-29T13:00:00Z",
+            "slug": "Circle-Rolls-Out-Open-Source-Protocol-to-Help-Build-Tokenized-Credit-Markets",
+            "currencies": [
+                {
+                    "code": "USDC",
+                    "title": "USDC",
+                    "slug": "usd-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/usd-coin\/"
+                }
+            ],
+            "id": 18937305,
+            "url": "https:\/\/cryptopanic.com\/news\/18937305\/Circle-Rolls-Out-Open-Source-Protocol-to-Help-Build-Tokenized-Credit-Markets",
+            "created_at": "2023-09-29T13:00:00Z"
+        },
+        {
+            "kind": "news",
+            "domain": "cryptoslate.com",
+            "source": {
+                "title": "CryptoSlate",
+                "region": "en",
+                "domain": "cryptoslate.com",
+                "path": null
+            },
+            "title": "Circle steps in with amicus brief in Binance SEC battle over stablecoin classification",
+            "published_at": "2023-09-29T12:30:29Z",
+            "slug": "Circle-steps-in-with-amicus-brief-in-Binance-SEC-battle-over-stablecoin-classification",
+            "currencies": [
+                {
+                    "code": "USDC",
+                    "title": "USDC",
+                    "slug": "usd-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/usd-coin\/"
+                },
+                {
+                    "code": "BUSD",
+                    "title": "BUSD",
+                    "slug": "binance-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/binance-usd\/"
+                }
+            ],
+            "id": 18937205,
+            "url": "https:\/\/cryptopanic.com\/news\/18937205\/Circle-steps-in-with-amicus-brief-in-Binance-SEC-battle-over-stablecoin-classification",
+            "created_at": "2023-09-29T12:30:29Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "theblock.co",
+            "source": {
+                "title": "The Block",
+                "region": "en",
+                "domain": "theblock.co",
+                "path": null
+            },
+            "title": "Stablecoin issuer Circle weighs in on SEC case against Binance",
+            "published_at": "2023-09-29T07:48:58Z",
+            "slug": "Stablecoin-issuer-Circle-weighs-in-on-SEC-case-against-Binance",
+            "currencies": [
+                {
+                    "code": "USDC",
+                    "title": "USDC",
+                    "slug": "usd-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/usd-coin\/"
+                },
+                {
+                    "code": "BUSD",
+                    "title": "BUSD",
+                    "slug": "binance-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/binance-usd\/"
+                }
+            ],
+            "id": 18936459,
+            "url": "https:\/\/cryptopanic.com\/news\/18936459\/Stablecoin-issuer-Circle-weighs-in-on-SEC-case-against-Binance",
+            "created_at": "2023-09-29T07:48:58Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coindesk.com",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "CoinDesk",
+                "region": "en",
+                "domain": "coindesk.com",
+                "path": null
+            },
+            "title": "Circle Intervenes in Binance\u2019s SEC Case, Argues Stablecoins Aren't Securities",
+            "published_at": "2023-09-29T06:22:33Z",
+            "slug": "Circle-Intervenes-in-Binances-SEC-Case-Argues-Stablecoins-Arent-Securities",
+            "currencies": [
+                {
+                    "code": "USDC",
+                    "title": "USDC",
+                    "slug": "usd-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/usd-coin\/"
+                }
+            ],
+            "id": 18936338,
+            "url": "https:\/\/cryptopanic.com\/news\/18936338\/Circle-Intervenes-in-Binances-SEC-Case-Argues-Stablecoins-Arent-Securities",
+            "created_at": "2023-09-29T06:22:33Z"
+        },
+        {
+            "kind": "news",
+            "domain": "dailyhodl.com",
+            "source": {
+                "title": "The Daily Hodl",
+                "region": "en",
+                "domain": "dailyhodl.com",
+                "path": null
+            },
+            "title": "Coinbase Secures Approval To Offer Pepertual Futures Crypto Trading to Non-US Customers",
+            "published_at": "2023-09-28T18:41:30Z",
+            "slug": "Coinbase-Secures-Approval-To-Offer-Pepertual-Futures-Crypto-Trading-to-Non-US-Customers",
+            "currencies": [
+                {
+                    "code": "USDC",
+                    "title": "USDC",
+                    "slug": "usd-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/usd-coin\/"
+                }
+            ],
+            "id": 18935532,
+            "url": "https:\/\/cryptopanic.com\/news\/18935532\/Coinbase-Secures-Approval-To-Offer-Pepertual-Futures-Crypto-Trading-to-Non-US-Customers",
+            "created_at": "2023-09-28T18:41:30Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "dailycoin.com",
+            "source": {
+                "title": "Dailycoin",
+                "region": "en",
+                "domain": "dailycoin.com",
+                "path": null
+            },
+            "title": "Snook Expands to Arbitrum, Launches USDC Rewards and More",
+            "published_at": "2023-09-28T14:15:52Z",
+            "slug": "Snook-Expands-to-Arbitrum-Launches-USDC-Rewards-and-More",
+            "currencies": [
+                {
+                    "code": "USDC",
+                    "title": "USDC",
+                    "slug": "usd-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/usd-coin\/"
+                }
+            ],
+            "id": 18934840,
+            "url": "https:\/\/cryptopanic.com\/news\/18934840\/Snook-Expands-to-Arbitrum-Launches-USDC-Rewards-and-More",
+            "created_at": "2023-09-28T14:15:52Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "theblock.co",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 1,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "The Block",
+                "region": "en",
+                "domain": "theblock.co",
+                "path": null
+            },
+            "title": "Ledn expands crypto savings product to ether with up to 2% yield",
+            "published_at": "2023-09-28T13:21:59Z",
+            "slug": "Ledn-expands-crypto-savings-product-to-ether-with-up-to-2-yield",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "USDT",
+                    "title": "Tether",
+                    "slug": "tether",
+                    "url": "https:\/\/cryptopanic.com\/news\/tether\/"
+                },
+                {
+                    "code": "USDC",
+                    "title": "USDC",
+                    "slug": "usd-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/usd-coin\/"
+                }
+            ],
+            "id": 18934667,
+            "url": "https:\/\/cryptopanic.com\/news\/18934667\/Ledn-expands-crypto-savings-product-to-ether-with-up-to-2-yield",
+            "created_at": "2023-09-28T13:21:59Z"
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 2,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 1,
+                "comments": 1
+            },
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "MoneyGram Will Soon Let Customers Swap Fiat and USDC Stablecoins Via New Crypto Wallet",
+            "published_at": "2023-09-27T09:45:00Z",
+            "slug": "MoneyGram-Will-Soon-Let-Customers-Swap-Fiat-and-USDC-Stablecoins-Via-New-Crypto-Wallet",
+            "currencies": [
+                {
+                    "code": "USDC",
+                    "title": "USDC",
+                    "slug": "usd-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/usd-coin\/"
+                },
+                {
+                    "code": "XLM",
+                    "title": "Stellar",
+                    "slug": "stellar",
+                    "url": "https:\/\/cryptopanic.com\/news\/stellar\/"
+                }
+            ],
+            "id": 18931430,
+            "url": "https:\/\/cryptopanic.com\/news\/18931430\/MoneyGram-Will-Soon-Let-Customers-Swap-Fiat-and-USDC-Stablecoins-Via-New-Crypto-Wallet",
+            "created_at": "2023-09-27T09:45:00Z"
+        },
+        {
+            "kind": "news",
+            "domain": "coinspeaker.com",
+            "source": {
+                "title": "Coinspeaker",
+                "region": "en",
+                "domain": "coinspeaker.com",
+                "path": null
+            },
+            "title": "Circle and SDF Launch EURC on Stellar Network to Enhance European Remittance Network",
+            "published_at": "2023-09-27T07:53:36Z",
+            "slug": "Circle-and-SDF-Launch-EURC-on-Stellar-Network-to-Enhance-European-Remittance-Network",
+            "currencies": [
+                {
+                    "code": "USDC",
+                    "title": "USDC",
+                    "slug": "usd-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/usd-coin\/"
+                },
+                {
+                    "code": "XLM",
+                    "title": "Stellar",
+                    "slug": "stellar",
+                    "url": "https:\/\/cryptopanic.com\/news\/stellar\/"
+                }
+            ],
+            "id": 18931040,
+            "url": "https:\/\/cryptopanic.com\/news\/18931040\/Circle-and-SDF-Launch-EURC-on-Stellar-Network-to-Enhance-European-Remittance-Network",
+            "created_at": "2023-09-27T07:53:36Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

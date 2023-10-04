@@ -1,0 +1,1031 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=DASH&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "coinspeaker.com",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 1,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "Coinspeaker",
+                "region": "en",
+                "domain": "coinspeaker.com",
+                "path": null
+            },
+            "title": "Bank of Spain Approves eToro Registration as Virtual Asset Exchange",
+            "published_at": "2023-07-28T12:54:34Z",
+            "slug": "Bank-of-Spain-Approves-eToro-Registration-as-Virtual-Asset-Exchange",
+            "currencies": [
+                {
+                    "code": "MATIC",
+                    "title": "Polygon",
+                    "slug": "matic-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-network\/"
+                },
+                {
+                    "code": "DASH",
+                    "title": "Dash",
+                    "slug": "dash",
+                    "url": "https:\/\/cryptopanic.com\/news\/dash\/"
+                }
+            ],
+            "id": 18802696,
+            "url": "https:\/\/cryptopanic.com\/news\/18802696\/Bank-of-Spain-Approves-eToro-Registration-as-Virtual-Asset-Exchange",
+            "created_at": "2023-07-28T12:54:34Z"
+        },
+        {
+            "kind": "news",
+            "domain": "bitcoin.com",
+            "source": {
+                "title": "Bitcoin.com",
+                "region": "en",
+                "domain": "bitcoin.com",
+                "path": null
+            },
+            "title": "SEC\u2019s Classification of So-Called Crypto Securities Amounts to $98 Billion in Combined Value",
+            "published_at": "2023-07-19T14:07:52Z",
+            "slug": "SECs-Classification-of-So-Called-Crypto-Securities-Amounts-to-98-Billion-in-Combined-Value",
+            "currencies": [
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                },
+                {
+                    "code": "BNB",
+                    "title": "BNB",
+                    "slug": "binancecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/binancecoin\/"
+                },
+                {
+                    "code": "ADA",
+                    "title": "Cardano",
+                    "slug": "cardano",
+                    "url": "https:\/\/cryptopanic.com\/news\/cardano\/"
+                },
+                {
+                    "code": "MATIC",
+                    "title": "Polygon",
+                    "slug": "matic-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-network\/"
+                },
+                {
+                    "code": "BUSD",
+                    "title": "Binance USD",
+                    "slug": "binance-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/binance-usd\/"
+                },
+                {
+                    "code": "ATOM",
+                    "title": "Cosmos Hub",
+                    "slug": "cosmos",
+                    "url": "https:\/\/cryptopanic.com\/news\/cosmos\/"
+                },
+                {
+                    "code": "FIL",
+                    "title": "Filecoin",
+                    "slug": "filecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/filecoin\/"
+                },
+                {
+                    "code": "NEAR",
+                    "title": "NEAR Protocol",
+                    "slug": "near",
+                    "url": "https:\/\/cryptopanic.com\/news\/near\/"
+                },
+                {
+                    "code": "ALGO",
+                    "title": "Algorand",
+                    "slug": "algorand",
+                    "url": "https:\/\/cryptopanic.com\/news\/algorand\/"
+                },
+                {
+                    "code": "DASH",
+                    "title": "Dash",
+                    "slug": "dash",
+                    "url": "https:\/\/cryptopanic.com\/news\/dash\/"
+                },
+                {
+                    "code": "BNB",
+                    "title": "OEC Binance Coin",
+                    "slug": "oec-binance-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/oec-binance-coin\/"
+                }
+            ],
+            "id": 18783697,
+            "url": "https:\/\/cryptopanic.com\/news\/18783697\/SECs-Classification-of-So-Called-Crypto-Securities-Amounts-to-98-Billion-in-Combined-Value",
+            "created_at": "2023-07-19T14:07:52Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "bitcoin.com",
+            "source": {
+                "title": "Bitcoin.com",
+                "region": "en",
+                "domain": "bitcoin.com",
+                "path": null
+            },
+            "title": "Monero Maintains Stability Amid Crypto Market Volatility, Remains Top Privacy Token With $3B Market Cap",
+            "published_at": "2023-07-08T16:30:03Z",
+            "slug": "Monero-Maintains-Stability-Amid-Crypto-Market-Volatility-Remains-Top-Privacy-Token-With-3B-Market-Cap",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "XMR",
+                    "title": "Monero",
+                    "slug": "monero",
+                    "url": "https:\/\/cryptopanic.com\/news\/monero\/"
+                },
+                {
+                    "code": "DASH",
+                    "title": "Dash",
+                    "slug": "dash",
+                    "url": "https:\/\/cryptopanic.com\/news\/dash\/"
+                }
+            ],
+            "id": 18744038,
+            "url": "https:\/\/cryptopanic.com\/news\/18744038\/Monero-Maintains-Stability-Amid-Crypto-Market-Volatility-Remains-Top-Privacy-Token-With-3B-Market-Cap",
+            "created_at": "2023-07-08T16:30:03Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Exmo_Com",
+            "source": {
+                "title": "EXMO Coin Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@exmo_com"
+            },
+            "title": "Seven cryptos to be delisted on 20th July \ufe0f\n\nWe're going to delist CRON, WAVES, BTG, XEM, DCR, ZEC and DASH this m\u2026",
+            "published_at": "2023-07-07T06:19:41Z",
+            "slug": "Seven-cryptos-to-be-delisted-on-20th-July-Were-going-to-delist-CRON-WAVES-BTG-XEM-DCR-ZEC-and-DASH-this-m",
+            "currencies": [
+                {
+                    "code": "EXM",
+                    "title": "EXMO Coin",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "EXM",
+                    "title": "EXMO Coin",
+                    "slug": "exmo-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/exmo-coin\/"
+                },
+                {
+                    "code": "DASH",
+                    "title": "Dash",
+                    "slug": "dash",
+                    "url": "https:\/\/cryptopanic.com\/news\/dash\/"
+                }
+            ],
+            "id": 18732198,
+            "url": "https:\/\/cryptopanic.com\/news\/18732198\/Seven-cryptos-to-be-delisted-on-20th-July-Were-going-to-delist-CRON-WAVES-BTG-XEM-DCR-ZEC-and-DASH-this-m",
+            "created_at": "2023-07-07T06:19:41Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@OceanexOfficial",
+            "source": {
+                "title": "OceanEx Token Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@oceanexofficial"
+            },
+            "title": "The DASH wallet maintenance has been completed. OceanEx has resumed the deposit and withdrawal function of DASH.\u2026",
+            "published_at": "2023-07-06T07:25:34Z",
+            "slug": "The-DASH-wallet-maintenance-has-been-completed-OceanEx-has-resumed-the-deposit-and-withdrawal-function-of-DASH",
+            "currencies": [
+                {
+                    "code": "OCE",
+                    "title": "OceanEX Token",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "OCE",
+                    "title": "OceanEX",
+                    "slug": "oceanex",
+                    "url": "https:\/\/cryptopanic.com\/news\/oceanex\/"
+                },
+                {
+                    "code": "DASH",
+                    "title": "Dash",
+                    "slug": "dash",
+                    "url": "https:\/\/cryptopanic.com\/news\/dash\/"
+                }
+            ],
+            "id": 18725753,
+            "url": "https:\/\/cryptopanic.com\/news\/18725753\/The-DASH-wallet-maintenance-has-been-completed-OceanEx-has-resumed-the-deposit-and-withdrawal-function-of-DASH",
+            "created_at": "2023-07-06T07:25:34Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@OceanexOfficial",
+            "source": {
+                "title": "OceanEx Token Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@oceanexofficial"
+            },
+            "title": "Due to our wallet's service Maintenance, deposit and withdrawal of DASH have been suspended starting from 10:10, J\u2026",
+            "published_at": "2023-07-06T02:19:05Z",
+            "slug": "Due-to-our-wallets-service-Maintenance-deposit-and-withdrawal-of-DASH-have-been-suspended-starting-from-1010-J",
+            "currencies": [
+                {
+                    "code": "OCE",
+                    "title": "OceanEX Token",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "OCE",
+                    "title": "OceanEX",
+                    "slug": "oceanex",
+                    "url": "https:\/\/cryptopanic.com\/news\/oceanex\/"
+                },
+                {
+                    "code": "DASH",
+                    "title": "Dash",
+                    "slug": "dash",
+                    "url": "https:\/\/cryptopanic.com\/news\/dash\/"
+                }
+            ],
+            "id": 18725754,
+            "url": "https:\/\/cryptopanic.com\/news\/18725754\/Due-to-our-wallets-service-Maintenance-deposit-and-withdrawal-of-DASH-have-been-suspended-starting-from-1010-J",
+            "created_at": "2023-07-06T02:19:05Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@dash2_trade",
+            "source": {
+                "title": "Dash 2 Trade Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@dash2_trade"
+            },
+            "title": "Dash 2 Trade Development Update: \n04.07.2023\n\nDatabase load reduced, CDK adopted, sticky header added, time counter\u2026",
+            "published_at": "2023-07-05T09:49:53Z",
+            "slug": "Dash-2-Trade-Development-Update-04072023-Database-load-reduced-CDK-adopted-sticky-header-added-time-counter",
+            "currencies": [
+                {
+                    "code": "D2T",
+                    "title": "Dash 2 Trade",
+                    "slug": "dash-2-trade",
+                    "url": "https:\/\/cryptopanic.com\/news\/dash-2-trade\/"
+                },
+                {
+                    "code": "DASH",
+                    "title": "Dash",
+                    "slug": "dash",
+                    "url": "https:\/\/cryptopanic.com\/news\/dash\/"
+                }
+            ],
+            "id": 18723306,
+            "url": "https:\/\/cryptopanic.com\/news\/18723306\/Dash-2-Trade-Development-Update-04072023-Database-load-reduced-CDK-adopted-sticky-header-added-time-counter",
+            "created_at": "2023-07-05T09:49:53Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinedition.com",
+            "source": {
+                "title": "coinedition",
+                "region": "en",
+                "domain": "coinedition.com",
+                "path": null
+            },
+            "title": "Critics Accuse SEC of Delays, Political Influence in Crypto Regulations",
+            "published_at": "2023-07-03T08:59:00Z",
+            "slug": "Critics-Accuse-SEC-of-Delays-Political-Influence-in-Crypto-Regulations",
+            "currencies": [
+                {
+                    "code": "DASH",
+                    "title": "Dash",
+                    "slug": "dash",
+                    "url": "https:\/\/cryptopanic.com\/news\/dash\/"
+                }
+            ],
+            "id": 18704108,
+            "url": "https:\/\/cryptopanic.com\/news\/18704108\/Critics-Accuse-SEC-of-Delays-Political-Influence-in-Crypto-Regulations",
+            "created_at": "2023-07-03T08:59:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@thorstarter",
+            "source": {
+                "title": "Thorstarter Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@thorstarter"
+            },
+            "title": "RT @RuneofThor: DASH integration dropping any day now\n\nDASH &gt; 400m MC\nif even a fraction of their ecosystem hungers for native swaps\n+ a\u2026",
+            "published_at": "2023-07-01T18:12:56Z",
+            "slug": "RT-RuneofThor-DASH-integration-dropping-any-day-now-DASH-gt-400m-MC-if-even-a-fraction-of-their-ecosystem-hungers-for-native-swaps-a",
+            "currencies": [
+                {
+                    "code": "XRUNE",
+                    "title": "Thorstarter",
+                    "slug": "thorstarter",
+                    "url": "https:\/\/cryptopanic.com\/news\/thorstarter\/"
+                },
+                {
+                    "code": "DASH",
+                    "title": "Dash",
+                    "slug": "dash",
+                    "url": "https:\/\/cryptopanic.com\/news\/dash\/"
+                }
+            ],
+            "id": 18700311,
+            "url": "https:\/\/cryptopanic.com\/news\/18700311\/RT-RuneofThor-DASH-integration-dropping-any-day-now-DASH-gt-400m-MC-if-even-a-fraction-of-their-ecosystem-hungers-for-native-swaps-a",
+            "created_at": "2023-07-01T18:12:56Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Maya_Protocol",
+            "source": {
+                "title": "CACAO Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@maya_protocol"
+            },
+            "title": "RT @readhoot: Dash community have you ever wondered how to purchase $DASH without an exchange?\n\n@Maya_Protocol's $DASH pool is on the verge\u2026",
+            "published_at": "2023-06-30T18:39:23Z",
+            "slug": "RT-readhoot-Dash-community-have-you-ever-wondered-how-to-purchase-DASH-without-an-exchange-Maya_Protocols-DASH-pool-is-on-the-verge",
+            "currencies": [
+                {
+                    "code": "CACAO",
+                    "title": "Maya Protocol",
+                    "slug": "cacao",
+                    "url": "https:\/\/cryptopanic.com\/news\/cacao\/"
+                },
+                {
+                    "code": "DASH",
+                    "title": "Dash",
+                    "slug": "dash",
+                    "url": "https:\/\/cryptopanic.com\/news\/dash\/"
+                }
+            ],
+            "id": 18692376,
+            "url": "https:\/\/cryptopanic.com\/news\/18692376\/RT-readhoot-Dash-community-have-you-ever-wondered-how-to-purchase-DASH-without-an-exchange-Maya_Protocols-DASH-pool-is-on-the-verge",
+            "created_at": "2023-06-30T18:39:23Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@VulcanForged",
+            "source": {
+                "title": "Vulcan Forged Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@vulcanforged"
+            },
+            "title": "RT @Kaid_oh: Mad dash over in the @VulcanForged marketplace to snatch up these beauties.\n\nFun sale and lots of buzz in the discord!\n\n$PYR @\u2026",
+            "published_at": "2023-06-28T18:29:15Z",
+            "slug": "RT-Kaid_oh-Mad-dash-over-in-the-VulcanForged-marketplace-to-snatch-up-these-beauties-Fun-sale-and-lots-of-buzz-in-the-discord-PYR",
+            "currencies": [
+                {
+                    "code": "PYR",
+                    "title": "Vulcan Forged",
+                    "slug": "vulcan-forged",
+                    "url": "https:\/\/cryptopanic.com\/news\/vulcan-forged\/"
+                },
+                {
+                    "code": "LAVA",
+                    "title": "Vulcan Forged LAVA",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "DASH",
+                    "title": "Dash",
+                    "slug": "dash",
+                    "url": "https:\/\/cryptopanic.com\/news\/dash\/"
+                }
+            ],
+            "id": 18681259,
+            "url": "https:\/\/cryptopanic.com\/news\/18681259\/RT-Kaid_oh-Mad-dash-over-in-the-VulcanForged-marketplace-to-snatch-up-these-beauties-Fun-sale-and-lots-of-buzz-in-the-discord-PYR",
+            "created_at": "2023-06-28T18:29:15Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptopotato.com",
+            "source": {
+                "title": "Feed - Cryptopotato.Com",
+                "region": "en",
+                "domain": "cryptopotato.com",
+                "path": null
+            },
+            "title": "Horizen Protocol Confirms ZEN to Lose Privacy Coin Status",
+            "published_at": "2023-06-28T12:15:20Z",
+            "slug": "Horizen-Protocol-Confirms-ZEN-to-Lose-Privacy-Coin-Status",
+            "currencies": [
+                {
+                    "code": "XMR",
+                    "title": "Monero",
+                    "slug": "monero",
+                    "url": "https:\/\/cryptopanic.com\/news\/monero\/"
+                },
+                {
+                    "code": "DASH",
+                    "title": "Dash",
+                    "slug": "dash",
+                    "url": "https:\/\/cryptopanic.com\/news\/dash\/"
+                },
+                {
+                    "code": "ZEC",
+                    "title": "Zcash",
+                    "slug": "zcash",
+                    "url": "https:\/\/cryptopanic.com\/news\/zcash\/"
+                }
+            ],
+            "id": 18673927,
+            "url": "https:\/\/cryptopanic.com\/news\/18673927\/Horizen-Protocol-Confirms-ZEN-to-Lose-Privacy-Coin-Status",
+            "created_at": "2023-06-28T12:15:20Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptodaily.co.uk",
+            "source": {
+                "title": "CryptoDaily",
+                "region": "en",
+                "domain": "cryptodaily.co.uk",
+                "path": null
+            },
+            "title": "Binance Reverses Plans To Delist Specific Privacy Coins In Europe",
+            "published_at": "2023-06-27T08:00:00Z",
+            "slug": "Binance-Reverses-Plans-To-Delist-Specific-Privacy-Coins-In-Europe",
+            "currencies": [
+                {
+                    "code": "DASH",
+                    "title": "Dash",
+                    "slug": "dash",
+                    "url": "https:\/\/cryptopanic.com\/news\/dash\/"
+                }
+            ],
+            "id": 18662226,
+            "url": "https:\/\/cryptopanic.com\/news\/18662226\/Binance-Reverses-Plans-To-Delist-Specific-Privacy-Coins-In-Europe",
+            "created_at": "2023-06-27T08:00:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@DeFi_Land",
+            "source": {
+                "title": "DeFi Land Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@defi_land"
+            },
+            "title": "GM from the Alpaca Dash office - the best view in the entire web3.",
+            "published_at": "2023-06-26T12:40:43Z",
+            "slug": "GM-from-the-Alpaca-Dash-office-the-best-view-in-the-entire-web3",
+            "currencies": [
+                {
+                    "code": "DFL",
+                    "title": "DeFi Land",
+                    "slug": "defi-land",
+                    "url": "https:\/\/cryptopanic.com\/news\/defi-land\/"
+                },
+                {
+                    "code": "GOLDY",
+                    "title": "DeFi Land Gold",
+                    "slug": "defi-land-gold",
+                    "url": "https:\/\/cryptopanic.com\/news\/defi-land-gold\/"
+                },
+                {
+                    "code": "DASH",
+                    "title": "Dash",
+                    "slug": "dash",
+                    "url": "https:\/\/cryptopanic.com\/news\/dash\/"
+                }
+            ],
+            "id": 18660394,
+            "url": "https:\/\/cryptopanic.com\/news\/18660394\/GM-from-the-Alpaca-Dash-office-the-best-view-in-the-entire-web3",
+            "created_at": "2023-06-26T12:40:43Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinspeaker.com",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "Coinspeaker",
+                "region": "en",
+                "domain": "coinspeaker.com",
+                "path": null
+            },
+            "title": "Binance Rescinds Decision to Delist Privacy Coins as It Complies with EU Regulations",
+            "published_at": "2023-06-26T12:25:02Z",
+            "slug": "Binance-Rescinds-Decision-to-Delist-Privacy-Coins-as-It-Complies-with-EU-Regulations",
+            "currencies": [
+                {
+                    "code": "XMR",
+                    "title": "Monero",
+                    "slug": "monero",
+                    "url": "https:\/\/cryptopanic.com\/news\/monero\/"
+                },
+                {
+                    "code": "DASH",
+                    "title": "Dash",
+                    "slug": "dash",
+                    "url": "https:\/\/cryptopanic.com\/news\/dash\/"
+                },
+                {
+                    "code": "ZEC",
+                    "title": "Zcash",
+                    "slug": "zcash",
+                    "url": "https:\/\/cryptopanic.com\/news\/zcash\/"
+                },
+                {
+                    "code": "DCR",
+                    "title": "Decred",
+                    "slug": "decred",
+                    "url": "https:\/\/cryptopanic.com\/news\/decred\/"
+                },
+                {
+                    "code": "XVG",
+                    "title": "Verge",
+                    "slug": "verge",
+                    "url": "https:\/\/cryptopanic.com\/news\/verge\/"
+                }
+            ],
+            "id": 18657284,
+            "url": "https:\/\/cryptopanic.com\/news\/18657284\/Binance-Rescinds-Decision-to-Delist-Privacy-Coins-as-It-Complies-with-EU-Regulations",
+            "created_at": "2023-06-26T12:25:02Z"
+        },
+        {
+            "kind": "news",
+            "domain": "@Maya_Protocol",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 1,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "CACAO Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@maya_protocol"
+            },
+            "title": "Are you familiar with $DASH yet? With unique privacy, speed, and governance features, @Dashpay has been rocking the\u2026",
+            "published_at": "2023-06-24T01:38:42Z",
+            "slug": "Are-you-familiar-with-DASH-yet-With-unique-privacy-speed-and-governance-features-Dashpay-has-been-rocking-the",
+            "currencies": [
+                {
+                    "code": "CACAO",
+                    "title": "Maya Protocol",
+                    "slug": "cacao",
+                    "url": "https:\/\/cryptopanic.com\/news\/cacao\/"
+                },
+                {
+                    "code": "DASH",
+                    "title": "Dash",
+                    "slug": "dash",
+                    "url": "https:\/\/cryptopanic.com\/news\/dash\/"
+                }
+            ],
+            "id": 18643453,
+            "url": "https:\/\/cryptopanic.com\/news\/18643453\/Are-you-familiar-with-DASH-yet-With-unique-privacy-speed-and-governance-features-Dashpay-has-been-rocking-the",
+            "created_at": "2023-06-24T01:38:42Z"
+        },
+        {
+            "kind": "news",
+            "domain": "coinjournal.net",
+            "source": {
+                "title": "CoinJournal",
+                "region": "en",
+                "domain": "coinjournal.net",
+                "path": null
+            },
+            "title": "Dash (DASH) completes its block reward \u201cHalving\u201d",
+            "published_at": "2023-06-23T15:53:44Z",
+            "slug": "Dash-DASH-completes-its-block-reward-Halving",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "DASH",
+                    "title": "Dash",
+                    "slug": "dash",
+                    "url": "https:\/\/cryptopanic.com\/news\/dash\/"
+                }
+            ],
+            "id": 18641785,
+            "url": "https:\/\/cryptopanic.com\/news\/18641785\/Dash-DASH-completes-its-block-reward-Halving",
+            "created_at": "2023-06-23T15:53:44Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "u.today",
+            "source": {
+                "title": "U.Today",
+                "region": "en",
+                "domain": "u.today",
+                "path": null
+            },
+            "title": "Dash (DASH) Completes Halving, Litecoin and Bitcoin Next",
+            "published_at": "2023-06-23T12:08:00Z",
+            "slug": "Dash-DASH-Completes-Halving-Litecoin-and-Bitcoin-Next",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "LTC",
+                    "title": "Litecoin",
+                    "slug": "litecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/litecoin\/"
+                },
+                {
+                    "code": "DASH",
+                    "title": "Dash",
+                    "slug": "dash",
+                    "url": "https:\/\/cryptopanic.com\/news\/dash\/"
+                }
+            ],
+            "id": 18641285,
+            "url": "https:\/\/cryptopanic.com\/news\/18641285\/Dash-DASH-Completes-Halving-Litecoin-and-Bitcoin-Next",
+            "created_at": "2023-06-23T12:08:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "medium.com",
+            "source": {
+                "title": "Decred Blog",
+                "region": "en",
+                "domain": "medium.com",
+                "path": null
+            },
+            "title": "Decred Journal\u200a\u2014\u200aMay 2023",
+            "published_at": "2023-06-22T20:01:44Z",
+            "slug": "Decred-Journal-May-2023",
+            "currencies": [
+                {
+                    "code": "DCR",
+                    "title": "Decred",
+                    "slug": "decred",
+                    "url": "https:\/\/cryptopanic.com\/news\/decred\/"
+                },
+                {
+                    "code": "DOGE",
+                    "title": "Dogecoin",
+                    "slug": "dogecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/dogecoin\/"
+                },
+                {
+                    "code": "LTC",
+                    "title": "Litecoin",
+                    "slug": "litecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/litecoin\/"
+                },
+                {
+                    "code": "MATIC",
+                    "title": "Polygon",
+                    "slug": "matic-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-network\/"
+                },
+                {
+                    "code": "AVAX",
+                    "title": "Avalanche",
+                    "slug": "avalanche-2",
+                    "url": "https:\/\/cryptopanic.com\/news\/avalanche-2\/"
+                },
+                {
+                    "code": "UNI",
+                    "title": "Uniswap",
+                    "slug": "uniswap",
+                    "url": "https:\/\/cryptopanic.com\/news\/uniswap\/"
+                },
+                {
+                    "code": "AAVE",
+                    "title": "Aave",
+                    "slug": "aave",
+                    "url": "https:\/\/cryptopanic.com\/news\/aave\/"
+                },
+                {
+                    "code": "MKR",
+                    "title": "Maker",
+                    "slug": "maker",
+                    "url": "https:\/\/cryptopanic.com\/news\/maker\/"
+                },
+                {
+                    "code": "HT",
+                    "title": "Huobi",
+                    "slug": "huobi-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/huobi-token\/"
+                },
+                {
+                    "code": "DASH",
+                    "title": "Dash",
+                    "slug": "dash",
+                    "url": "https:\/\/cryptopanic.com\/news\/dash\/"
+                }
+            ],
+            "id": 18657888,
+            "url": "https:\/\/cryptopanic.com\/news\/18657888\/Decred-Journal-May-2023",
+            "created_at": "2023-06-22T20:01:44Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Top Litecoin Casino of 2023: Your Guide to LTC Gambling",
+            "published_at": "2023-06-22T08:52:53Z",
+            "slug": "Top-Litecoin-Casino-of-2023-Your-Guide-to-LTC-Gambling",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "USDT",
+                    "title": "Tether",
+                    "slug": "tether",
+                    "url": "https:\/\/cryptopanic.com\/news\/tether\/"
+                },
+                {
+                    "code": "DOGE",
+                    "title": "Dogecoin",
+                    "slug": "dogecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/dogecoin\/"
+                },
+                {
+                    "code": "TRX",
+                    "title": "TRON",
+                    "slug": "tron",
+                    "url": "https:\/\/cryptopanic.com\/news\/tron\/"
+                },
+                {
+                    "code": "LTC",
+                    "title": "Litecoin",
+                    "slug": "litecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/litecoin\/"
+                },
+                {
+                    "code": "UNI",
+                    "title": "Uniswap",
+                    "slug": "uniswap",
+                    "url": "https:\/\/cryptopanic.com\/news\/uniswap\/"
+                },
+                {
+                    "code": "BCH",
+                    "title": "Bitcoin Cash",
+                    "slug": "bitcoin-cash",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin-cash\/"
+                },
+                {
+                    "code": "DASH",
+                    "title": "Dash",
+                    "slug": "dash",
+                    "url": "https:\/\/cryptopanic.com\/news\/dash\/"
+                }
+            ],
+            "id": 18630512,
+            "url": "https:\/\/cryptopanic.com\/news\/18630512\/Top-Litecoin-Casino-of-2023-Your-Guide-to-LTC-Gambling",
+            "created_at": "2023-06-22T08:52:53Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

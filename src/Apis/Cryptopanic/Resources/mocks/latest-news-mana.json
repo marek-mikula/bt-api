@@ -1,0 +1,1187 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=MANA&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "Can whales rescue MANA from its dwindling price action",
+            "published_at": "2023-09-27T01:30:15Z",
+            "slug": "Can-whales-rescue-MANA-from-its-dwindling-price-action",
+            "currencies": [
+                {
+                    "code": "MANA",
+                    "title": "Decentraland",
+                    "slug": "decentraland",
+                    "url": "https:\/\/cryptopanic.com\/news\/decentraland\/"
+                }
+            ],
+            "id": 18930601,
+            "url": "https:\/\/cryptopanic.com\/news\/18930601\/Can-whales-rescue-MANA-from-its-dwindling-price-action",
+            "created_at": "2023-09-27T01:30:15Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinedition.com",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "coinedition",
+                "region": "en",
+                "domain": "coinedition.com",
+                "path": null
+            },
+            "title": "Bankruptcies on the Rise: Temporary Adjustment or Ominous Sign?",
+            "published_at": "2023-09-25T07:58:58Z",
+            "slug": "Bankruptcies-on-the-Rise-Temporary-Adjustment-or-Ominous-Sign",
+            "currencies": [
+                {
+                    "code": "MANA",
+                    "title": "Decentraland",
+                    "slug": "decentraland",
+                    "url": "https:\/\/cryptopanic.com\/news\/decentraland\/"
+                }
+            ],
+            "id": 18925691,
+            "url": "https:\/\/cryptopanic.com\/news\/18925691\/Bankruptcies-on-the-Rise-Temporary-Adjustment-or-Ominous-Sign",
+            "created_at": "2023-09-25T07:58:58Z"
+        },
+        {
+            "kind": "news",
+            "domain": "trustnodes.com",
+            "source": {
+                "title": "Trustnodes",
+                "region": "en",
+                "domain": "trustnodes.com",
+                "path": null
+            },
+            "title": "Did FTX Manipulate GameStop\u2019s Price?",
+            "published_at": "2023-09-12T14:10:35Z",
+            "slug": "Did-FTX-Manipulate-GameStops-Price",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "MANA",
+                    "title": "Decentraland",
+                    "slug": "decentraland",
+                    "url": "https:\/\/cryptopanic.com\/news\/decentraland\/"
+                }
+            ],
+            "id": 18897610,
+            "url": "https:\/\/cryptopanic.com\/news\/18897610\/Did-FTX-Manipulate-GameStops-Price",
+            "created_at": "2023-09-12T14:10:35Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 0,
+                "disliked": 1,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 1
+            },
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "Trouble in the Metaverse: 99% of Play-to-Earn Investors Now Counting Their Losses",
+            "published_at": "2023-09-02T15:13:34Z",
+            "slug": "Trouble-in-the-Metaverse-99-of-Play-to-Earn-Investors-Now-Counting-Their-Losses",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "SAND",
+                    "title": "The Sandbox",
+                    "slug": "the-sandbox",
+                    "url": "https:\/\/cryptopanic.com\/news\/the-sandbox\/"
+                },
+                {
+                    "code": "AXS",
+                    "title": "Axie Infinity",
+                    "slug": "axie-infinity",
+                    "url": "https:\/\/cryptopanic.com\/news\/axie-infinity\/"
+                },
+                {
+                    "code": "MANA",
+                    "title": "Decentraland",
+                    "slug": "decentraland",
+                    "url": "https:\/\/cryptopanic.com\/news\/decentraland\/"
+                }
+            ],
+            "id": 18875958,
+            "url": "https:\/\/cryptopanic.com\/news\/18875958\/Trouble-in-the-Metaverse-99-of-Play-to-Earn-Investors-Now-Counting-Their-Losses",
+            "created_at": "2023-09-02T15:13:34Z"
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "Beyond the Metaverse: Unveiling the Expansive Universe of SENSO and Sensorium",
+            "published_at": "2023-09-01T12:51:17Z",
+            "slug": "Beyond-the-Metaverse-Unveiling-the-Expansive-Universe-of-SENSO-and-Sensorium",
+            "currencies": [
+                {
+                    "code": "MANA",
+                    "title": "Decentraland",
+                    "slug": "decentraland",
+                    "url": "https:\/\/cryptopanic.com\/news\/decentraland\/"
+                }
+            ],
+            "id": 18874124,
+            "url": "https:\/\/cryptopanic.com\/news\/18874124\/Beyond-the-Metaverse-Unveiling-the-Expansive-Universe-of-SENSO-and-Sensorium",
+            "created_at": "2023-09-01T12:51:17Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "The Aftermath: Fate of Cryptos Deemed Securities by the SEC",
+            "published_at": "2023-08-25T14:54:55Z",
+            "slug": "The-Aftermath-Fate-of-Cryptos-Deemed-Securities-by-the-SEC",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                },
+                {
+                    "code": "ADA",
+                    "title": "Cardano",
+                    "slug": "cardano",
+                    "url": "https:\/\/cryptopanic.com\/news\/cardano\/"
+                },
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "MATIC",
+                    "title": "Polygon",
+                    "slug": "matic-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-network\/"
+                },
+                {
+                    "code": "BUSD",
+                    "title": "Binance USD",
+                    "slug": "binance-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/binance-usd\/"
+                },
+                {
+                    "code": "ATOM",
+                    "title": "Cosmos Hub",
+                    "slug": "cosmos",
+                    "url": "https:\/\/cryptopanic.com\/news\/cosmos\/"
+                },
+                {
+                    "code": "ICP",
+                    "title": "Internet Computer",
+                    "slug": "internet-computer",
+                    "url": "https:\/\/cryptopanic.com\/news\/internet-computer\/"
+                },
+                {
+                    "code": "FIL",
+                    "title": "Filecoin",
+                    "slug": "filecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/filecoin\/"
+                },
+                {
+                    "code": "NEAR",
+                    "title": "NEAR Protocol",
+                    "slug": "near",
+                    "url": "https:\/\/cryptopanic.com\/news\/near\/"
+                },
+                {
+                    "code": "ALGO",
+                    "title": "Algorand",
+                    "slug": "algorand",
+                    "url": "https:\/\/cryptopanic.com\/news\/algorand\/"
+                },
+                {
+                    "code": "SAND",
+                    "title": "The Sandbox",
+                    "slug": "the-sandbox",
+                    "url": "https:\/\/cryptopanic.com\/news\/the-sandbox\/"
+                },
+                {
+                    "code": "AXS",
+                    "title": "Axie Infinity",
+                    "slug": "axie-infinity",
+                    "url": "https:\/\/cryptopanic.com\/news\/axie-infinity\/"
+                },
+                {
+                    "code": "MANA",
+                    "title": "Decentraland",
+                    "slug": "decentraland",
+                    "url": "https:\/\/cryptopanic.com\/news\/decentraland\/"
+                },
+                {
+                    "code": "FLOW",
+                    "title": "Flow",
+                    "slug": "flow",
+                    "url": "https:\/\/cryptopanic.com\/news\/flow\/"
+                }
+            ],
+            "id": 18859934,
+            "url": "https:\/\/cryptopanic.com\/news\/18859934\/The-Aftermath-Fate-of-Cryptos-Deemed-Securities-by-the-SEC",
+            "created_at": "2023-08-25T14:54:55Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "votes": {
+                "negative": 0,
+                "positive": 2,
+                "important": 2,
+                "liked": 2,
+                "disliked": 0,
+                "lol": 1,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Shiba Inu Bulls On The Horizon? Substantial Selling Pressure Seen Dropping",
+            "published_at": "2023-08-16T07:18:07Z",
+            "slug": "Shiba-Inu-Bulls-On-The-Horizon-Substantial-Selling-Pressure-Seen-Dropping",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "DOGE",
+                    "title": "Dogecoin",
+                    "slug": "dogecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/dogecoin\/"
+                },
+                {
+                    "code": "MATIC",
+                    "title": "Polygon",
+                    "slug": "matic-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-network\/"
+                },
+                {
+                    "code": "SHIB",
+                    "title": "Shiba Inu",
+                    "slug": "shiba-inu",
+                    "url": "https:\/\/cryptopanic.com\/news\/shiba-inu\/"
+                },
+                {
+                    "code": "LINK",
+                    "title": "Chainlink",
+                    "slug": "chainlink",
+                    "url": "https:\/\/cryptopanic.com\/news\/chainlink\/"
+                },
+                {
+                    "code": "MANA",
+                    "title": "Decentraland",
+                    "slug": "decentraland",
+                    "url": "https:\/\/cryptopanic.com\/news\/decentraland\/"
+                },
+                {
+                    "code": "CHZ",
+                    "title": "Chiliz",
+                    "slug": "chiliz",
+                    "url": "https:\/\/cryptopanic.com\/news\/chiliz\/"
+                }
+            ],
+            "id": 18839803,
+            "url": "https:\/\/cryptopanic.com\/news\/18839803\/Shiba-Inu-Bulls-On-The-Horizon-Substantial-Selling-Pressure-Seen-Dropping",
+            "created_at": "2023-08-16T07:18:07Z"
+        },
+        {
+            "kind": "news",
+            "domain": "bitcoinist.com",
+            "source": {
+                "title": "Bitcoinist",
+                "region": "en",
+                "domain": "bitcoinist.com",
+                "path": null
+            },
+            "title": "Despite SEC\u2019s Legal Onslaught, These Altcoins Have Witnessed Resurgence in Trading Volume",
+            "published_at": "2023-08-15T19:00:48Z",
+            "slug": "Despite-SECs-Legal-Onslaught-These-Altcoins-Have-Witnessed-Resurgence-in-Trading-Volume",
+            "currencies": [
+                {
+                    "code": "ADA",
+                    "title": "Cardano",
+                    "slug": "cardano",
+                    "url": "https:\/\/cryptopanic.com\/news\/cardano\/"
+                },
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "MATIC",
+                    "title": "Polygon",
+                    "slug": "matic-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-network\/"
+                },
+                {
+                    "code": "FIL",
+                    "title": "Filecoin",
+                    "slug": "filecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/filecoin\/"
+                },
+                {
+                    "code": "ALGO",
+                    "title": "Algorand",
+                    "slug": "algorand",
+                    "url": "https:\/\/cryptopanic.com\/news\/algorand\/"
+                },
+                {
+                    "code": "SAND",
+                    "title": "The Sandbox",
+                    "slug": "the-sandbox",
+                    "url": "https:\/\/cryptopanic.com\/news\/the-sandbox\/"
+                },
+                {
+                    "code": "AXS",
+                    "title": "Axie Infinity",
+                    "slug": "axie-infinity",
+                    "url": "https:\/\/cryptopanic.com\/news\/axie-infinity\/"
+                },
+                {
+                    "code": "MANA",
+                    "title": "Decentraland",
+                    "slug": "decentraland",
+                    "url": "https:\/\/cryptopanic.com\/news\/decentraland\/"
+                },
+                {
+                    "code": "FLOW",
+                    "title": "Flow",
+                    "slug": "flow",
+                    "url": "https:\/\/cryptopanic.com\/news\/flow\/"
+                }
+            ],
+            "id": 18839071,
+            "url": "https:\/\/cryptopanic.com\/news\/18839071\/Despite-SECs-Legal-Onslaught-These-Altcoins-Have-Witnessed-Resurgence-in-Trading-Volume",
+            "created_at": "2023-08-15T19:00:48Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Voyager Sells 1.4 Trillion Shiba Inu, But There\u2019s Good News For SHIB",
+            "published_at": "2023-08-15T08:25:08Z",
+            "slug": "Voyager-Sells-14-Trillion-Shiba-Inu-But-Theres-Good-News-For-SHIB",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "MATIC",
+                    "title": "Polygon",
+                    "slug": "matic-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-network\/"
+                },
+                {
+                    "code": "SHIB",
+                    "title": "Shiba Inu",
+                    "slug": "shiba-inu",
+                    "url": "https:\/\/cryptopanic.com\/news\/shiba-inu\/"
+                },
+                {
+                    "code": "LINK",
+                    "title": "Chainlink",
+                    "slug": "chainlink",
+                    "url": "https:\/\/cryptopanic.com\/news\/chainlink\/"
+                },
+                {
+                    "code": "FTM",
+                    "title": "Fantom",
+                    "slug": "fantom",
+                    "url": "https:\/\/cryptopanic.com\/news\/fantom\/"
+                },
+                {
+                    "code": "MANA",
+                    "title": "Decentraland",
+                    "slug": "decentraland",
+                    "url": "https:\/\/cryptopanic.com\/news\/decentraland\/"
+                },
+                {
+                    "code": "GALA",
+                    "title": "GALA",
+                    "slug": "gala",
+                    "url": "https:\/\/cryptopanic.com\/news\/gala\/"
+                }
+            ],
+            "id": 18837691,
+            "url": "https:\/\/cryptopanic.com\/news\/18837691\/Voyager-Sells-14-Trillion-Shiba-Inu-But-Theres-Good-News-For-SHIB",
+            "created_at": "2023-08-15T08:25:08Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptodaily.co.uk",
+            "source": {
+                "title": "CryptoDaily",
+                "region": "en",
+                "domain": "cryptodaily.co.uk",
+                "path": null
+            },
+            "title": "Bitstamp To Suspend Tokens Identified As Securities By SEC",
+            "published_at": "2023-08-10T13:30:00Z",
+            "slug": "Bitstamp-To-Suspend-Tokens-Identified-As-Securities-By-SEC",
+            "currencies": [
+                {
+                    "code": "ADA",
+                    "title": "Cardano",
+                    "slug": "cardano",
+                    "url": "https:\/\/cryptopanic.com\/news\/cardano\/"
+                },
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "MATIC",
+                    "title": "Polygon",
+                    "slug": "matic-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-network\/"
+                },
+                {
+                    "code": "NEAR",
+                    "title": "NEAR Protocol",
+                    "slug": "near",
+                    "url": "https:\/\/cryptopanic.com\/news\/near\/"
+                },
+                {
+                    "code": "ALGO",
+                    "title": "Algorand",
+                    "slug": "algorand",
+                    "url": "https:\/\/cryptopanic.com\/news\/algorand\/"
+                },
+                {
+                    "code": "SAND",
+                    "title": "The Sandbox",
+                    "slug": "the-sandbox",
+                    "url": "https:\/\/cryptopanic.com\/news\/the-sandbox\/"
+                },
+                {
+                    "code": "AXS",
+                    "title": "Axie Infinity",
+                    "slug": "axie-infinity",
+                    "url": "https:\/\/cryptopanic.com\/news\/axie-infinity\/"
+                },
+                {
+                    "code": "MANA",
+                    "title": "Decentraland",
+                    "slug": "decentraland",
+                    "url": "https:\/\/cryptopanic.com\/news\/decentraland\/"
+                },
+                {
+                    "code": "CHZ",
+                    "title": "Chiliz",
+                    "slug": "chiliz",
+                    "url": "https:\/\/cryptopanic.com\/news\/chiliz\/"
+                }
+            ],
+            "id": 18829804,
+            "url": "https:\/\/cryptopanic.com\/news\/18829804\/Bitstamp-To-Suspend-Tokens-Identified-As-Securities-By-SEC",
+            "created_at": "2023-08-10T13:30:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "decrypt.co",
+            "source": {
+                "title": "Decrypt",
+                "region": "en",
+                "domain": "decrypt.co",
+                "path": null
+            },
+            "title": "How Decentraland Is Using AI to Make the Metaverse Feel More Alive",
+            "published_at": "2023-08-09T19:22:52Z",
+            "slug": "How-Decentraland-Is-Using-AI-to-Make-the-Metaverse-Feel-More-Alive",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "MANA",
+                    "title": "Decentraland",
+                    "slug": "decentraland",
+                    "url": "https:\/\/cryptopanic.com\/news\/decentraland\/"
+                }
+            ],
+            "id": 18828070,
+            "url": "https:\/\/cryptopanic.com\/news\/18828070\/How-Decentraland-Is-Using-AI-to-Make-the-Metaverse-Feel-More-Alive",
+            "created_at": "2023-08-09T19:22:52Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptonews.com",
+            "source": {
+                "title": "Cryptonews",
+                "region": "en",
+                "domain": "cryptonews.com",
+                "path": null
+            },
+            "title": "Bitstamp Exchange to Suspend Trading of Several Popular Altcoins Due to US Regulatory Concerns \u2013 What Coins are Included?",
+            "published_at": "2023-08-09T15:27:00Z",
+            "slug": "Bitstamp-Exchange-to-Suspend-Trading-of-Several-Popular-Altcoins-Due-to-US-Regulatory-Concerns-What-Coins-are-Included",
+            "currencies": [
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "MATIC",
+                    "title": "Polygon",
+                    "slug": "matic-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-network\/"
+                },
+                {
+                    "code": "NEAR",
+                    "title": "NEAR Protocol",
+                    "slug": "near",
+                    "url": "https:\/\/cryptopanic.com\/news\/near\/"
+                },
+                {
+                    "code": "SAND",
+                    "title": "The Sandbox",
+                    "slug": "the-sandbox",
+                    "url": "https:\/\/cryptopanic.com\/news\/the-sandbox\/"
+                },
+                {
+                    "code": "AXS",
+                    "title": "Axie Infinity",
+                    "slug": "axie-infinity",
+                    "url": "https:\/\/cryptopanic.com\/news\/axie-infinity\/"
+                },
+                {
+                    "code": "MANA",
+                    "title": "Decentraland",
+                    "slug": "decentraland",
+                    "url": "https:\/\/cryptopanic.com\/news\/decentraland\/"
+                },
+                {
+                    "code": "CHZ",
+                    "title": "Chiliz",
+                    "slug": "chiliz",
+                    "url": "https:\/\/cryptopanic.com\/news\/chiliz\/"
+                }
+            ],
+            "id": 18827574,
+            "url": "https:\/\/cryptopanic.com\/news\/18827574\/Bitstamp-Exchange-to-Suspend-Trading-of-Several-Popular-Altcoins-Due-to-US-Regulatory-Concerns-What-Coins-are-Included",
+            "created_at": "2023-08-09T15:27:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinedition.com",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "coinedition",
+                "region": "en",
+                "domain": "coinedition.com",
+                "path": null
+            },
+            "title": "Bitstamp Halts Trading For Multiple Altcoins Following SEC Ruling",
+            "published_at": "2023-08-09T12:40:00Z",
+            "slug": "Bitstamp-Halts-Trading-For-Multiple-Altcoins-Following-SEC-Ruling",
+            "currencies": [
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "MATIC",
+                    "title": "Polygon",
+                    "slug": "matic-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-network\/"
+                },
+                {
+                    "code": "NEAR",
+                    "title": "NEAR Protocol",
+                    "slug": "near",
+                    "url": "https:\/\/cryptopanic.com\/news\/near\/"
+                },
+                {
+                    "code": "SAND",
+                    "title": "The Sandbox",
+                    "slug": "the-sandbox",
+                    "url": "https:\/\/cryptopanic.com\/news\/the-sandbox\/"
+                },
+                {
+                    "code": "AXS",
+                    "title": "Axie Infinity",
+                    "slug": "axie-infinity",
+                    "url": "https:\/\/cryptopanic.com\/news\/axie-infinity\/"
+                },
+                {
+                    "code": "MANA",
+                    "title": "Decentraland",
+                    "slug": "decentraland",
+                    "url": "https:\/\/cryptopanic.com\/news\/decentraland\/"
+                },
+                {
+                    "code": "CHZ",
+                    "title": "Chiliz",
+                    "slug": "chiliz",
+                    "url": "https:\/\/cryptopanic.com\/news\/chiliz\/"
+                }
+            ],
+            "id": 18827057,
+            "url": "https:\/\/cryptopanic.com\/news\/18827057\/Bitstamp-Halts-Trading-For-Multiple-Altcoins-Following-SEC-Ruling",
+            "created_at": "2023-08-09T12:40:00Z"
+        },
+        {
+            "kind": "news",
+            "domain": "theblock.co",
+            "source": {
+                "title": "The Block",
+                "region": "en",
+                "domain": "theblock.co",
+                "path": null
+            },
+            "title": "Bitstamp to halt trading in Polygon, Solana and other tokens in the US",
+            "published_at": "2023-08-09T11:55:00Z",
+            "slug": "Bitstamp-to-halt-trading-in-Polygon-Solana-and-other-tokens-in-the-US",
+            "currencies": [
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "MATIC",
+                    "title": "Polygon",
+                    "slug": "matic-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-network\/"
+                },
+                {
+                    "code": "SAND",
+                    "title": "The Sandbox",
+                    "slug": "the-sandbox",
+                    "url": "https:\/\/cryptopanic.com\/news\/the-sandbox\/"
+                },
+                {
+                    "code": "MANA",
+                    "title": "Decentraland",
+                    "slug": "decentraland",
+                    "url": "https:\/\/cryptopanic.com\/news\/decentraland\/"
+                }
+            ],
+            "id": 18826939,
+            "url": "https:\/\/cryptopanic.com\/news\/18826939\/Bitstamp-to-halt-trading-in-Polygon-Solana-and-other-tokens-in-the-US",
+            "created_at": "2023-08-09T11:55:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptoslate.com",
+            "source": {
+                "title": "CryptoSlate",
+                "region": "en",
+                "domain": "cryptoslate.com",
+                "path": null
+            },
+            "title": "Bitstamp to halt U.S. trading of seven tokens identified as securities by SEC in Coinbase, Binance cases",
+            "published_at": "2023-08-09T05:00:09Z",
+            "slug": "Bitstamp-to-halt-US-trading-of-seven-tokens-identified-as-securities-by-SEC-in-Coinbase-Binance-cases",
+            "currencies": [
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "MATIC",
+                    "title": "Polygon",
+                    "slug": "matic-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-network\/"
+                },
+                {
+                    "code": "NEAR",
+                    "title": "NEAR Protocol",
+                    "slug": "near",
+                    "url": "https:\/\/cryptopanic.com\/news\/near\/"
+                },
+                {
+                    "code": "SAND",
+                    "title": "The Sandbox",
+                    "slug": "the-sandbox",
+                    "url": "https:\/\/cryptopanic.com\/news\/the-sandbox\/"
+                },
+                {
+                    "code": "AXS",
+                    "title": "Axie Infinity",
+                    "slug": "axie-infinity",
+                    "url": "https:\/\/cryptopanic.com\/news\/axie-infinity\/"
+                },
+                {
+                    "code": "MANA",
+                    "title": "Decentraland",
+                    "slug": "decentraland",
+                    "url": "https:\/\/cryptopanic.com\/news\/decentraland\/"
+                },
+                {
+                    "code": "CHZ",
+                    "title": "Chiliz",
+                    "slug": "chiliz",
+                    "url": "https:\/\/cryptopanic.com\/news\/chiliz\/"
+                }
+            ],
+            "id": 18826166,
+            "url": "https:\/\/cryptopanic.com\/news\/18826166\/Bitstamp-to-halt-US-trading-of-seven-tokens-identified-as-securities-by-SEC-in-Coinbase-Binance-cases",
+            "created_at": "2023-08-09T05:00:09Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "trustnodes.com",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 1,
+                "liked": 2,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "Trustnodes",
+                "region": "en",
+                "domain": "trustnodes.com",
+                "path": null
+            },
+            "title": "Futurist Web3 Conference to be Held on Decentraland Metaverse",
+            "published_at": "2023-08-06T07:18:48Z",
+            "slug": "Futurist-Web3-Conference-to-be-Held-on-Decentraland-Metaverse",
+            "currencies": [
+                {
+                    "code": "MANA",
+                    "title": "Decentraland",
+                    "slug": "decentraland",
+                    "url": "https:\/\/cryptopanic.com\/news\/decentraland\/"
+                }
+            ],
+            "id": 18820149,
+            "url": "https:\/\/cryptopanic.com\/news\/18820149\/Futurist-Web3-Conference-to-be-Held-on-Decentraland-Metaverse",
+            "created_at": "2023-08-06T07:18:48Z"
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "P2E game tokens decline massively, is this the reason?",
+            "published_at": "2023-08-02T12:30:09Z",
+            "slug": "P2E-game-tokens-decline-massively-is-this-the-reason",
+            "currencies": [
+                {
+                    "code": "MANA",
+                    "title": "Decentraland",
+                    "slug": "decentraland",
+                    "url": "https:\/\/cryptopanic.com\/news\/decentraland\/"
+                }
+            ],
+            "id": 18812454,
+            "url": "https:\/\/cryptopanic.com\/news\/18812454\/P2E-game-tokens-decline-massively-is-this-the-reason",
+            "created_at": "2023-08-02T12:30:09Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Cardano (ADA) Price Remains Muted Despite Significant Milestones, Why?",
+            "published_at": "2023-07-28T23:00:32Z",
+            "slug": "Cardano-ADA-Price-Remains-Muted-Despite-Significant-Milestones-Why",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "ADA",
+                    "title": "Cardano",
+                    "slug": "cardano",
+                    "url": "https:\/\/cryptopanic.com\/news\/cardano\/"
+                },
+                {
+                    "code": "DOGE",
+                    "title": "Dogecoin",
+                    "slug": "dogecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/dogecoin\/"
+                },
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "DOT",
+                    "title": "Polkadot",
+                    "slug": "polkadot",
+                    "url": "https:\/\/cryptopanic.com\/news\/polkadot\/"
+                },
+                {
+                    "code": "ATOM",
+                    "title": "Cosmos Hub",
+                    "slug": "cosmos",
+                    "url": "https:\/\/cryptopanic.com\/news\/cosmos\/"
+                },
+                {
+                    "code": "ICP",
+                    "title": "Internet Computer",
+                    "slug": "internet-computer",
+                    "url": "https:\/\/cryptopanic.com\/news\/internet-computer\/"
+                },
+                {
+                    "code": "HBAR",
+                    "title": "Hedera",
+                    "slug": "hedera-hashgraph",
+                    "url": "https:\/\/cryptopanic.com\/news\/hedera-hashgraph\/"
+                },
+                {
+                    "code": "MANA",
+                    "title": "Decentraland",
+                    "slug": "decentraland",
+                    "url": "https:\/\/cryptopanic.com\/news\/decentraland\/"
+                }
+            ],
+            "id": 18803825,
+            "url": "https:\/\/cryptopanic.com\/news\/18803825\/Cardano-ADA-Price-Remains-Muted-Despite-Significant-Milestones-Why",
+            "created_at": "2023-07-28T23:00:32Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "The Metaverse flop and its continued impact on AXS, SAND, and MANA",
+            "published_at": "2023-07-19T12:30:51Z",
+            "slug": "The-Metaverse-flop-and-its-continued-impact-on-AXS-SAND-and-MANA",
+            "currencies": [
+                {
+                    "code": "AXS",
+                    "title": "Axie Infinity",
+                    "slug": "axie-infinity",
+                    "url": "https:\/\/cryptopanic.com\/news\/axie-infinity\/"
+                },
+                {
+                    "code": "MANA",
+                    "title": "Decentraland",
+                    "slug": "decentraland",
+                    "url": "https:\/\/cryptopanic.com\/news\/decentraland\/"
+                }
+            ],
+            "id": 18783395,
+            "url": "https:\/\/cryptopanic.com\/news\/18783395\/The-Metaverse-flop-and-its-continued-impact-on-AXS-SAND-and-MANA",
+            "created_at": "2023-07-19T12:30:51Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinedition.com",
+            "source": {
+                "title": "coinedition",
+                "region": "en",
+                "domain": "coinedition.com",
+                "path": null
+            },
+            "title": "MANA Enters Into a Mini Rally and May Break $0.4266 Today",
+            "published_at": "2023-07-16T10:40:00Z",
+            "slug": "MANA-Enters-Into-a-Mini-Rally-and-May-Break-04266-Today",
+            "currencies": [
+                {
+                    "code": "MANA",
+                    "title": "Decentraland",
+                    "slug": "decentraland",
+                    "url": "https:\/\/cryptopanic.com\/news\/decentraland\/"
+                }
+            ],
+            "id": 18777055,
+            "url": "https:\/\/cryptopanic.com\/news\/18777055\/MANA-Enters-Into-a-Mini-Rally-and-May-Break-04266-Today",
+            "created_at": "2023-07-16T10:40:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}
