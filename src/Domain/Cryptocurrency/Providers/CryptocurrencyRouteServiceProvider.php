@@ -25,7 +25,7 @@ class CryptocurrencyRouteServiceProvider extends RouteServiceProvider
         Route::bind('cryptocurrency', static function (string $value): Currency {
             /** @var Currency $cryptocurrency */
             $cryptocurrency = Currency::query()
-                ->where('is_fiat', '=', 0)
+                ->crypto()
                 ->findOrFail((int) $value);
 
             return $cryptocurrency;

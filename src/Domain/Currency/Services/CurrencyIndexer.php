@@ -9,6 +9,7 @@ use App\Models\Currency;
 use Domain\Currency\Data\BinanceCurrencyData;
 use Illuminate\Support\Arr;
 use Illuminate\Support\Collection;
+use Illuminate\Support\Str;
 
 class CurrencyIndexer
 {
@@ -131,9 +132,9 @@ class CurrencyIndexer
 
             /** @var Currency $model */
             $model = Currency::query()->updateOrCreate([
-                'symbol' => $fiat->symbol,
+                'symbol' => Str::upper($fiat->symbol),
             ], [
-                'symbol' => $fiat->symbol,
+                'symbol' => Str::upper($fiat->symbol),
                 'name' => (string) $meta['name'],
                 'is_fiat' => 1,
                 'cmc_id' => (int) $meta['id'],
@@ -213,9 +214,9 @@ class CurrencyIndexer
 
             /** @var Currency $model */
             $model = Currency::query()->updateOrCreate([
-                'symbol' => $crypto->symbol,
+                'symbol' => Str::upper($crypto->symbol),
             ], [
-                'symbol' => $crypto->symbol,
+                'symbol' => Str::upper($crypto->symbol),
                 'name' => $crypto->name,
                 'is_fiat' => 0,
                 'cmc_id' => (int) $meta['id'],

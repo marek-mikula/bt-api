@@ -6,7 +6,7 @@ use Apis\Coinmarketcap\Http\CoinmarketcapApi;
 use Apis\Cryptopanic\Http\CryptopanicApi;
 use App\Models\Currency;
 use App\Models\User;
-use App\Repositories\Cryptocurrency\CurrencyRepositoryInterface;
+use App\Repositories\Currency\CurrencyRepositoryInterface;
 use App\Repositories\WhaleAlert\WhaleAlertRepositoryInterface;
 use Domain\Cryptocurrency\Data\CryptocurrencyListData;
 use Domain\Cryptocurrency\Data\CryptocurrencyShowData;
@@ -31,16 +31,14 @@ class CryptocurrencyService
             $page = 1;
         }
 
-        $cryptocurrencies = $this->currencyRepository->cryptocurrencies(
+        $cryptocurrencies = $this->currencyRepository->cryptocurrenciesIndex(
             page: $page,
             perPage: $perPage
         );
 
-        $ids = $cryptocurrencies->pluck('cmc_id');
-
         // retrieve current quotes for given IDs
 
-        $quotes = $this->coinmarketcapApi->quotes($ids->all())
+        $quotes = $this->coinmarketcapApi->quotes(id: $cryptocurrencies->pluck('cmc_id')->all())
             ->collect('data');
 
         return $cryptocurrencies
@@ -109,10 +107,14 @@ class CryptocurrencyService
                 'url' => (string) $item['url'],
                 'createdAt' => (string) $item['created_at'],
                 'publishedAt' => (string) $item['published_at'],
+                'sourceName' => (string) $item['source']['title'],
+                'sourceUrl' => "https://www.{$item['source']['domain']}",
             ]));
 
         return CryptocurrencyShowData::from([
             'currency' => $cryptocurrency,
+            'news' => $news,
+            'whaleAlerts' => $whaleAlerts,
             'quote' => [
                 'currency' => $quoteCurrency,
                 'infiniteSupply' => (bool) $quote['infinite_supply'],
@@ -130,8 +132,6 @@ class CryptocurrencyService
                 'volume24h' => floatval($quote['quote'][$quoteCurrency]['volume_24h']),
                 'volumeChange24h' => floatval($quote['quote'][$quoteCurrency]['volume_change_24h']) / 100,
             ],
-            'news' => $news,
-            'whaleAlerts' => $whaleAlerts,
         ]);
     }
 }

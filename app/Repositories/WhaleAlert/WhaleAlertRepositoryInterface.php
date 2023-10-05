@@ -10,6 +10,9 @@ use Illuminate\Support\Collection;
 
 interface WhaleAlertRepositoryInterface
 {
+    /**
+     * @return LengthAwarePaginator<WhaleAlert>
+     */
     public function index(int $page, int $perPage = 100): LengthAwarePaginator;
 
     /**

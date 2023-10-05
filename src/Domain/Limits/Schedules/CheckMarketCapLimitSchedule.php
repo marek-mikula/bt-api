@@ -86,7 +86,7 @@ class CheckMarketCapLimitSchedule extends BaseSchedule
         // we will need the quotes for
 
         $ids = Currency::query()
-            ->where('is_fiat', '=', 0)
+            ->crypto()
             ->whereHas('assets', function (Builder $q) use ($limitQuery): void {
                 $q->whereIn('user_id', $limitQuery->clone()->select('user_id'));
             })

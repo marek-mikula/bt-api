@@ -22,7 +22,7 @@ class SearchService
     public function search(string $q): Collection
     {
         $currencies = Currency::query()
-            ->where('is_fiat', '=', 0)
+            ->crypto()
             ->where(function (Builder $query) use ($q): void {
                 $query
                     ->where('name', 'like', "%{$q}%")

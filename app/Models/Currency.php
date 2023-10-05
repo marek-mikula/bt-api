@@ -2,10 +2,12 @@
 
 namespace App\Models;
 
+use App\Models\Query\CurrencyQuery;
 use Carbon\Carbon;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\HasMany;
+use Illuminate\Database\Query\Builder;
 use Illuminate\Support\Collection;
 
 /**
@@ -19,6 +21,8 @@ use Illuminate\Support\Collection;
  * @property Carbon $created_at
  * @property Carbon $updated_at
  * @property-read Collection<Asset> $assets
+ *
+ * @method static CurrencyQuery query()
  */
 class Currency extends Model
 {
@@ -56,5 +60,15 @@ class Currency extends Model
     public function assets(): HasMany
     {
         return $this->hasMany(Asset::class, 'currency_id', 'id');
+    }
+
+    /**
+     * @param  Builder  $query
+     *
+     * @see Currency::query()
+     */
+    public function newEloquentBuilder($query): CurrencyQuery
+    {
+        return new CurrencyQuery($query);
     }
 }

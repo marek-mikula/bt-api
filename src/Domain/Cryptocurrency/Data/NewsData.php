@@ -25,6 +25,8 @@ class NewsData extends BaseData
             type: Carbon::class
         )]
         public readonly Carbon $publishedAt,
+        public readonly string $sourceName,
+        public readonly string $sourceUrl,
     ) {
     }
 }

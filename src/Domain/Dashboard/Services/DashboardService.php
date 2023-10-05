@@ -3,13 +3,17 @@
 namespace Domain\Dashboard\Services;
 
 use Apis\Coinmarketcap\Http\CoinmarketcapApi;
+use App\Models\Currency;
+use App\Repositories\Currency\CurrencyRepositoryInterface;
 use Domain\Dashboard\Data\DashboardMarketMetrics;
 use Domain\Dashboard\Data\DashboardToken;
+use Exception;
 use Illuminate\Support\Collection;
 
 class DashboardService
 {
     public function __construct(
+        private readonly CurrencyRepositoryInterface $currencyRepository,
         private readonly CoinmarketcapApi $coinmarketcapApi,
     ) {
     }
@@ -23,27 +27,26 @@ class DashboardService
     public function getCryptocurrenciesByMarketCap(int $num = 10): Collection
     {
         // get the biggest tokens by market cap
-        $tokens = $this->coinmarketcapApi->latestByCap(perPage: $num)
+        $currencies = $this->currencyRepository->topCryptocurrencies(count: $num);
+
+        // get quotes for currencies
+        $quotes = $this->coinmarketcapApi->quotes(id: $currencies->pluck('cmc_id')->all())
             ->collect('data');
 
-        // get metadata for each token
-        $metadata = $this->coinmarketcapApi->coinMetadata($tokens->pluck('id')->all())
-            ->collect('data');
+        return $currencies->map(static function (Currency $currency) use ($quotes): DashboardToken {
+            /** @var array|null $quote */
+            $quote = $quotes->get($currency->cmc_id);
 
-        // map objects to data objects
-        return $tokens->map(static function (array $token) use ($metadata): DashboardToken {
-            $quoteCurrency = (string) collect($token['quote'])->keys()->first();
+            if (! $quote) {
+                throw new Exception("Missing quote for CMC ID {$currency->cmc_id}.");
+            }
 
-            $tokenMetadata = $metadata->get((int) $token['id'], '');
+            $quoteCurrency = (string) collect($quote['quote'])->keys()->first();
 
             return DashboardToken::from([
-                'id' => (int) $token['id'],
-                'name' => (string) $token['name'],
-                'symbol' => (string) $token['symbol'],
-                'slug' => (string) $token['slug'],
+                'currency' => $currency,
                 'quoteCurrency' => $quoteCurrency,
-                'quotePrice' => floatval($token['quote'][$quoteCurrency]['price']),
-                'iconUrl' => (string) ($tokenMetadata['logo'] ?? ''),
+                'quotePrice' => floatval($quote['quote'][$quoteCurrency]['price']),
             ]);
         });
     }
