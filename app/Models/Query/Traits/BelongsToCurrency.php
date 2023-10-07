@@ -10,13 +10,13 @@ use App\Models\Query\BaseQuery;
  */
 trait BelongsToCurrency
 {
-    public function ofCurrency(Currency|int $currency): static
+    public function ofCurrency(Currency|int $currency, string $column = 'currency_id'): static
     {
-        return $this->ofCurrencyId($currency instanceof Currency ? $currency->id : $currency);
+        return $this->ofCurrencyId($currency instanceof Currency ? $currency->id : $currency, $column);
     }
 
-    public function ofCurrencyId(int $currencyId): static
+    public function ofCurrencyId(int $currencyId, string $column = 'currency_id'): static
     {
-        return $this->where('currency_id', '=', $currencyId);
+        return $this->where($column, '=', $currencyId);
     }
 }

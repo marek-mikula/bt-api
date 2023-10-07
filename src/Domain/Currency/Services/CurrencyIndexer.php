@@ -6,7 +6,9 @@ use Apis\Binance\Data\KeyPairData;
 use Apis\Binance\Http\BinanceApi;
 use Apis\Coinmarketcap\Http\CoinmarketcapApi;
 use App\Models\Currency;
+use App\Models\CurrencyPair;
 use Domain\Currency\Data\BinanceCurrencyData;
+use Domain\Currency\Data\BinancePairData;
 use Illuminate\Support\Arr;
 use Illuminate\Support\Collection;
 use Illuminate\Support\Str;
@@ -44,13 +46,11 @@ class CurrencyIndexer
         /** @var Collection<BinanceCurrencyData> $currencies */
         $currencies = $this->binanceApi->wallet->allCoins(KeyPairData::admin())
             ->collect()
-            ->map(static function (array $item): BinanceCurrencyData {
-                return BinanceCurrencyData::from([
-                    'symbol' => (string) $item['coin'],
-                    'name' => (string) $item['name'],
-                    'isFiat' => (bool) $item['isLegalMoney'],
-                ]);
-            });
+            ->map(static fn (array $item): BinanceCurrencyData => BinanceCurrencyData::from([
+                'symbol' => (string) $item['coin'],
+                'name' => (string) $item['name'],
+                'isFiat' => (bool) $item['isLegalMoney'],
+            ]));
 
         // process fiats
 
@@ -74,6 +74,10 @@ class CurrencyIndexer
         Currency::query()
             ->whereNotIn('id', $ids->all())
             ->delete();
+
+        // now index all current trading pairs
+
+        $this->indexPairs();
     }
 
     /**
@@ -96,9 +100,7 @@ class CurrencyIndexer
 
         $map = $this->coinmarketcapApi->mapFiat(perPage: 5000)
             ->collect('data')
-            ->filter(static function (array $item) use ($symbols): bool {
-                return $symbols->contains($item['symbol']);
-            });
+            ->filter(static fn (array $item): bool => $symbols->contains($item['symbol']));
 
         $duplicates = $map->pluck('symbol')->duplicates();
 
@@ -134,7 +136,6 @@ class CurrencyIndexer
             $model = Currency::query()->updateOrCreate([
                 'symbol' => Str::upper($fiat->symbol),
             ], [
-                'symbol' => Str::upper($fiat->symbol),
                 'name' => (string) $meta['name'],
                 'is_fiat' => 1,
                 'cmc_id' => (int) $meta['id'],
@@ -216,7 +217,6 @@ class CurrencyIndexer
             $model = Currency::query()->updateOrCreate([
                 'symbol' => Str::upper($crypto->symbol),
             ], [
-                'symbol' => Str::upper($crypto->symbol),
                 'name' => $crypto->name,
                 'is_fiat' => 0,
                 'cmc_id' => (int) $meta['id'],
@@ -235,5 +235,86 @@ class CurrencyIndexer
         }
 
         return $result;
+    }
+
+    private function indexPairs(): void
+    {
+        // this collection will hold all the
+        // updated/inserted IDs of currency pair
+        // models for further use
+
+        $ids = collect();
+
+        // this collection will hold all the
+        // updated/inserted IDs of base currency
+        // models for further use
+
+        $baseCurrencyIds = collect();
+
+        // pull all trading symbols from Binance API
+        // and group them by base asset
+
+        /** @var Collection<Collection<BinancePairData>> $symbolGroups */
+        $symbolGroups = $this->binanceApi->marketData->exchangeInfo()
+            ->collect('symbols')
+            ->map(static fn (array $item): BinancePairData => BinancePairData::from([
+                'symbol' => (string) $item['symbol'],
+                'baseAsset' => (string) $item['baseAsset'],
+                'quoteAsset' => (string) $item['quoteAsset'],
+            ]))
+            ->groupBy('baseAsset');
+
+        foreach ($symbolGroups as $baseAsset => $quoteAssets) {
+            /** @var Currency|null $baseAsset */
+            $baseAsset = Currency::query()
+                ->crypto()
+                ->ofSymbol($baseAsset)->first();
+
+            // asset is probably not supported
+
+            if (! $baseAsset) {
+                continue;
+            }
+
+            /** @var Collection<Currency> $quoteAssets */
+            $quoteAssets = Currency::query()
+                ->crypto()
+                ->ofSymbols($quoteAssets->pluck('quoteAsset'))
+                ->get();
+
+            // none of any quote asset is supported
+
+            if ($quoteAssets->isEmpty()) {
+                continue;
+            }
+
+            foreach ($quoteAssets as $quoteAsset) {
+                /** @var CurrencyPair $model */
+                $model = CurrencyPair::query()->updateOrCreate([
+                    'base_currency_id' => $baseAsset->id,
+                    'quote_currency_id' => $quoteAsset->id,
+                ], [
+                    'symbol' => $baseAsset->symbol.$quoteAsset->symbol,
+                ]);
+
+                $ids->push($model->id);
+            }
+
+            $baseCurrencyIds->push($baseAsset->id);
+        }
+
+        // delete not updated pairs from DB
+
+        CurrencyPair::query()
+            ->whereNotIn('id', $ids->all())
+            ->delete();
+
+        // delete currencies which don't have
+        // any trading pairs
+
+        Currency::query()
+            ->crypto()
+            ->whereNotIn('id', $baseCurrencyIds->all())
+            ->delete();
     }
 }

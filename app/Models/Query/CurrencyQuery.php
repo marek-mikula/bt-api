@@ -3,6 +3,7 @@
 namespace App\Models\Query;
 
 use App\Models\Currency;
+use Illuminate\Support\Arr;
 use Illuminate\Support\Collection;
 use Illuminate\Support\Str;
 
@@ -23,7 +24,7 @@ class CurrencyQuery extends BaseQuery
 
     public function ofSymbol(string $symbol): CurrencyQuery
     {
-        return $this->where('symbol', '=', Str::upper($symbol));
+        return $this->ofSymbols(Arr::wrap($symbol));
     }
 
     public function ofSymbols(array|Collection $symbols): CurrencyQuery

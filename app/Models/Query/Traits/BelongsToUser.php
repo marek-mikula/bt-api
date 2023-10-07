@@ -10,13 +10,13 @@ use App\Models\User;
  */
 trait BelongsToUser
 {
-    public function ofUser(User|int $user): static
+    public function ofUser(User|int $user, string $column = 'user_id'): static
     {
-        return $this->ofUserId($user instanceof User ? $user->id : $user);
+        return $this->ofUserId($user instanceof User ? $user->id : $user, $column);
     }
 
-    public function ofUserId(int $userId): static
+    public function ofUserId(int $userId, string $column = 'user_id'): static
     {
-        return $this->where('user_id', '=', $userId);
+        return $this->where($column, '=', $userId);
     }
 }
