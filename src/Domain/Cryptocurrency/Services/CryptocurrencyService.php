@@ -80,6 +80,9 @@ class CryptocurrencyService
         int $whaleAlertsCount = 5,
         int $newsCount = 5,
     ): CryptocurrencyShowData {
+        // load needed relationships
+        $cryptocurrency->loadMissing('quoteCurrencies');
+
         // retrieve current quotes for given currency
 
         $quote = $this->coinmarketcapApi->quotes($cryptocurrency->cmc_id)

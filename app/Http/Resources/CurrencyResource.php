@@ -23,6 +23,16 @@ class CurrencyResource extends JsonResource
             $meta['urls'] = Arr::map($meta['urls'], static fn (array $value): ?string => Arr::first($value));
         }
 
+        $pivot = [];
+
+        // include pivot data if any
+
+        if ($this->resource->pivot) {
+            $pivot = [
+                'symbol' => $this->resource->pivot->symbol,
+            ];
+        }
+
         return [
             'id' => $this->resource->id,
             'cmcId' => $this->resource->cmc_id,
@@ -30,6 +40,8 @@ class CurrencyResource extends JsonResource
             'name' => $this->resource->name,
             'isFiat' => $this->resource->is_fiat,
             'meta' => $meta,
+            'pivot' => $this->when(! empty($pivot), $pivot),
+            'quotes' => new CurrencyResourceCollection($this->whenLoaded('quoteCurrencies')),
         ];
     }
 }
