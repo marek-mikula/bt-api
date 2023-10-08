@@ -39,4 +39,13 @@ class CryptocurrencyController extends ApiController
             'cryptocurrency' => new DataResource($data),
         ]);
     }
+
+    public function quote(Currency $cryptocurrency): JsonResponse
+    {
+        $quote = $this->service->getQuote($cryptocurrency);
+
+        return $this->sendJsonResponse(code: ResponseCodeEnum::OK, data: [
+            'quote' => $quote,
+        ]);
+    }
 }
