@@ -50,7 +50,7 @@ class SyncAssetsJob extends BaseJob
 
         /** @var Collection<Currency> $currencies */
         $currencies = Currency::query()
-            ->whereIn('symbol', $assets->pluck('asset')->all())
+            ->ofSymbols($assets->pluck('asset'))
             ->get();
 
         $processedIds = collect();

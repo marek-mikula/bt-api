@@ -1,0 +1,941 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=KLAY&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "coinidol.com",
+            "source": {
+                "title": "Coin Idol",
+                "region": "en",
+                "domain": "coinidol.com",
+                "path": null
+            },
+            "title": "Weekly Cryptocurrency Market Analysis: Altcoins Fall As Bears Drive Down Prices",
+            "published_at": "2023-09-21T08:28:00Z",
+            "slug": "Weekly-Cryptocurrency-Market-Analysis-Altcoins-Fall-As-Bears-Drive-Down-Prices",
+            "currencies": [
+                {
+                    "code": "XLM",
+                    "title": "Stellar",
+                    "slug": "stellar",
+                    "url": "https:\/\/cryptopanic.com\/news\/stellar\/"
+                },
+                {
+                    "code": "KLAY",
+                    "title": "Klaytn",
+                    "slug": "klay-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/klay-token\/"
+                }
+            ],
+            "id": 18918807,
+            "url": "https:\/\/cryptopanic.com\/news\/18918807\/Weekly-Cryptocurrency-Market-Analysis-Altcoins-Fall-As-Bears-Drive-Down-Prices",
+            "created_at": "2023-09-21T08:28:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "What\u2019s Next for Klaytn (KLAY) After Price Hits Three-Year Low?",
+            "published_at": "2023-09-21T07:45:00Z",
+            "slug": "Whats-Next-for-Klaytn-KLAY-After-Price-Hits-Three-Year-Low",
+            "currencies": [
+                {
+                    "code": "KLAY",
+                    "title": "Klaytn",
+                    "slug": "klay-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/klay-token\/"
+                }
+            ],
+            "id": 18918421,
+            "url": "https:\/\/cryptopanic.com\/news\/18918421\/Whats-Next-for-Klaytn-KLAY-After-Price-Hits-Three-Year-Low",
+            "created_at": "2023-09-21T07:45:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinspeaker.com",
+            "source": {
+                "title": "Coinspeaker",
+                "region": "en",
+                "domain": "coinspeaker.com",
+                "path": null
+            },
+            "title": "Klaytn Foundation Aims to Deliver Positive Social Change through Financial Accessibility and Tokenization",
+            "published_at": "2023-09-12T18:10:08Z",
+            "slug": "Klaytn-Foundation-Aims-to-Deliver-Positive-Social-Change-through-Financial-Accessibility-and-Tokenization",
+            "currencies": [
+                {
+                    "code": "KLAY",
+                    "title": "Klaytn",
+                    "slug": "klay-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/klay-token\/"
+                }
+            ],
+            "id": 18898319,
+            "url": "https:\/\/cryptopanic.com\/news\/18898319\/Klaytn-Foundation-Aims-to-Deliver-Positive-Social-Change-through-Financial-Accessibility-and-Tokenization",
+            "created_at": "2023-09-12T18:10:08Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptodaily.co.uk",
+            "source": {
+                "title": "CryptoDaily",
+                "region": "en",
+                "domain": "cryptodaily.co.uk",
+                "path": null
+            },
+            "title": "Klaytn Foundation Welcomes Two New Partners In Its RWA Tokenization Program",
+            "published_at": "2023-09-12T14:26:01Z",
+            "slug": "Klaytn-Foundation-Welcomes-Two-New-Partners-In-Its-RWA-Tokenization-Program",
+            "currencies": [
+                {
+                    "code": "KLAY",
+                    "title": "Klaytn",
+                    "slug": "klay-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/klay-token\/"
+                }
+            ],
+            "id": 18897664,
+            "url": "https:\/\/cryptopanic.com\/news\/18897664\/Klaytn-Foundation-Welcomes-Two-New-Partners-In-Its-RWA-Tokenization-Program",
+            "created_at": "2023-09-12T14:26:01Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@klaytn_official",
+            "source": {
+                "title": "Klaytn Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@klaytn_official"
+            },
+            "title": "The @zealy_io campaign for our #PoH Community has ended. A huge thanks to everyone for making it a huge success -\u2026",
+            "published_at": "2023-07-12T07:00:01Z",
+            "slug": "The-zealy_io-campaign-for-our-PoH-Community-has-ended-A-huge-thanks-to-everyone-for-making-it-a-huge-success-",
+            "currencies": [
+                {
+                    "code": "KLAY",
+                    "title": "Klaytn",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "KLAY",
+                    "title": "Klaytn",
+                    "slug": "klay-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/klay-token\/"
+                },
+                {
+                    "code": "WKLAY",
+                    "title": "Wrapped KLAY",
+                    "slug": "wrapped-klay",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-klay\/"
+                }
+            ],
+            "id": 18765211,
+            "url": "https:\/\/cryptopanic.com\/news\/18765211\/The-zealy_io-campaign-for-our-PoH-Community-has-ended-A-huge-thanks-to-everyone-for-making-it-a-huge-success-",
+            "created_at": "2023-07-12T07:00:01Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@klaytn_official",
+            "source": {
+                "title": "Klaytn Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@klaytn_official"
+            },
+            "title": "Welcome @altverseai to the #Klaytn gaming ecosystem! Games on Klaytn now have another platform to build their playe\u2026",
+            "published_at": "2023-07-12T03:23:59Z",
+            "slug": "Welcome-altverseai-to-the-Klaytn-gaming-ecosystem-Games-on-Klaytn-now-have-another-platform-to-build-their-playe",
+            "currencies": [
+                {
+                    "code": "KLAY",
+                    "title": "Klaytn",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "KLAY",
+                    "title": "Klaytn",
+                    "slug": "klay-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/klay-token\/"
+                },
+                {
+                    "code": "WKLAY",
+                    "title": "Wrapped KLAY",
+                    "slug": "wrapped-klay",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-klay\/"
+                }
+            ],
+            "id": 18765212,
+            "url": "https:\/\/cryptopanic.com\/news\/18765212\/Welcome-altverseai-to-the-Klaytn-gaming-ecosystem-Games-on-Klaytn-now-have-another-platform-to-build-their-playe",
+            "created_at": "2023-07-12T03:23:59Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@klaytn_official",
+            "source": {
+                "title": "Klaytn Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@klaytn_official"
+            },
+            "title": "RT @PlayonKlaytn:  @SuperWalk_ and @iskra_world have set new records! They\u2019re now 3rd and 8th in the trending ranking of all chains on @de\u2026",
+            "published_at": "2023-07-11T15:24:39Z",
+            "slug": "RT-PlayonKlaytn-SuperWalk_-and-iskra_world-have-set-new-records-Theyre-now-3rd-and-8th-in-the-trending-ranking-of-all-chains-on-de",
+            "currencies": [
+                {
+                    "code": "KLAY",
+                    "title": "Klaytn",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "KLAY",
+                    "title": "Klaytn",
+                    "slug": "klay-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/klay-token\/"
+                },
+                {
+                    "code": "WKLAY",
+                    "title": "Wrapped KLAY",
+                    "slug": "wrapped-klay",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-klay\/"
+                }
+            ],
+            "id": 18765213,
+            "url": "https:\/\/cryptopanic.com\/news\/18765213\/RT-PlayonKlaytn-SuperWalk_-and-iskra_world-have-set-new-records-Theyre-now-3rd-and-8th-in-the-trending-ranking-of-all-chains-on-de",
+            "created_at": "2023-07-11T15:24:39Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@klaytn_official",
+            "source": {
+                "title": "Klaytn Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@klaytn_official"
+            },
+            "title": "Join @ashwanimodimodi, #Klaytn Foundation's Ecosystem Product Lead as he talks about Web3 Onboarding Solutions on\u2026",
+            "published_at": "2023-07-11T11:31:01Z",
+            "slug": "Join-ashwanimodimodi-Klaytn-Foundations-Ecosystem-Product-Lead-as-he-talks-about-Web3-Onboarding-Solutions-on",
+            "currencies": [
+                {
+                    "code": "KLAY",
+                    "title": "Klaytn",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "KLAY",
+                    "title": "Klaytn",
+                    "slug": "klay-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/klay-token\/"
+                },
+                {
+                    "code": "WKLAY",
+                    "title": "Wrapped KLAY",
+                    "slug": "wrapped-klay",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-klay\/"
+                }
+            ],
+            "id": 18765214,
+            "url": "https:\/\/cryptopanic.com\/news\/18765214\/Join-ashwanimodimodi-Klaytn-Foundations-Ecosystem-Product-Lead-as-he-talks-about-Web3-Onboarding-Solutions-on",
+            "created_at": "2023-07-11T11:31:01Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@klaytn_official",
+            "source": {
+                "title": "Klaytn Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@klaytn_official"
+            },
+            "title": "RT @BuildonKlaytn: For those of you curious about KIP-113 and KIP-114 or wish to learn more about BLS Signatures, our #Klaytn Dev Ambassado\u2026",
+            "published_at": "2023-07-11T09:05:34Z",
+            "slug": "RT-BuildonKlaytn-For-those-of-you-curious-about-KIP-113-and-KIP-114-or-wish-to-learn-more-about-BLS-Signatures-our-Klaytn-Dev-Ambassado",
+            "currencies": [
+                {
+                    "code": "KLAY",
+                    "title": "Klaytn",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "KLAY",
+                    "title": "Klaytn",
+                    "slug": "klay-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/klay-token\/"
+                },
+                {
+                    "code": "WKLAY",
+                    "title": "Wrapped KLAY",
+                    "slug": "wrapped-klay",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-klay\/"
+                }
+            ],
+            "id": 18765215,
+            "url": "https:\/\/cryptopanic.com\/news\/18765215\/RT-BuildonKlaytn-For-those-of-you-curious-about-KIP-113-and-KIP-114-or-wish-to-learn-more-about-BLS-Signatures-our-Klaytn-Dev-Ambassado",
+            "created_at": "2023-07-11T09:05:34Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@klaytn_official",
+            "source": {
+                "title": "Klaytn Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@klaytn_official"
+            },
+            "title": "RT @PlayonKlaytn: We hit 1K gamers in just two weeks thanks to your amazing support!\u00a0 We\u2019ll continue sharing both informative and meme-ta\u2026",
+            "published_at": "2023-07-11T07:56:22Z",
+            "slug": "RT-PlayonKlaytn-We-hit-1K-gamers-in-just-two-weeks-thanks-to-your-amazing-support-Well-continue-sharing-both-informative-and-meme-ta",
+            "currencies": [
+                {
+                    "code": "KLAY",
+                    "title": "Klaytn",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "KLAY",
+                    "title": "Klaytn",
+                    "slug": "klay-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/klay-token\/"
+                },
+                {
+                    "code": "WKLAY",
+                    "title": "Wrapped KLAY",
+                    "slug": "wrapped-klay",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-klay\/"
+                }
+            ],
+            "id": 18757039,
+            "url": "https:\/\/cryptopanic.com\/news\/18757039\/RT-PlayonKlaytn-We-hit-1K-gamers-in-just-two-weeks-thanks-to-your-amazing-support-Well-continue-sharing-both-informative-and-meme-ta",
+            "created_at": "2023-07-11T07:56:22Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@klaytn_official",
+            "source": {
+                "title": "Klaytn Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@klaytn_official"
+            },
+            "title": "Congratulations @klaydice, looking forward to more awesome games on #Klaytn!",
+            "published_at": "2023-07-11T02:15:25Z",
+            "slug": "Congratulations-klaydice-looking-forward-to-more-awesome-games-on-Klaytn",
+            "currencies": [
+                {
+                    "code": "KLAY",
+                    "title": "Klaytn",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "KLAY",
+                    "title": "Klaytn",
+                    "slug": "klay-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/klay-token\/"
+                },
+                {
+                    "code": "WKLAY",
+                    "title": "Wrapped KLAY",
+                    "slug": "wrapped-klay",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-klay\/"
+                }
+            ],
+            "id": 18757040,
+            "url": "https:\/\/cryptopanic.com\/news\/18757040\/Congratulations-klaydice-looking-forward-to-more-awesome-games-on-Klaytn",
+            "created_at": "2023-07-11T02:15:25Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@klaytn_official",
+            "source": {
+                "title": "Klaytn Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@klaytn_official"
+            },
+            "title": "RT @PlayonKlaytn: What do you value most in a W3 game?",
+            "published_at": "2023-07-10T10:15:50Z",
+            "slug": "RT-PlayonKlaytn-What-do-you-value-most-in-a-W3-game",
+            "currencies": [
+                {
+                    "code": "KLAY",
+                    "title": "Klaytn",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "KLAY",
+                    "title": "Klaytn",
+                    "slug": "klay-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/klay-token\/"
+                },
+                {
+                    "code": "WKLAY",
+                    "title": "Wrapped KLAY",
+                    "slug": "wrapped-klay",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-klay\/"
+                }
+            ],
+            "id": 18757041,
+            "url": "https:\/\/cryptopanic.com\/news\/18757041\/RT-PlayonKlaytn-What-do-you-value-most-in-a-W3-game",
+            "created_at": "2023-07-10T10:15:50Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@klaytn_official",
+            "source": {
+                "title": "Klaytn Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@klaytn_official"
+            },
+            "title": "RT @PlayonKlaytn:  Web3 gamers, join our #luckydraw for a chance to win one of 20 Hardware Wallets worth $3000! \n\nTo enter:\n1\ufe0f\u20e3 Follow @Pl\u2026",
+            "published_at": "2023-07-10T06:02:56Z",
+            "slug": "RT-PlayonKlaytn-Web3-gamers-join-our-luckydraw-for-a-chance-to-win-one-of-20-Hardware-Wallets-worth-3000-To-enter-1-Follow-Pl",
+            "currencies": [
+                {
+                    "code": "KLAY",
+                    "title": "Klaytn",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "KLAY",
+                    "title": "Klaytn",
+                    "slug": "klay-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/klay-token\/"
+                },
+                {
+                    "code": "WKLAY",
+                    "title": "Wrapped KLAY",
+                    "slug": "wrapped-klay",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-klay\/"
+                }
+            ],
+            "id": 18750203,
+            "url": "https:\/\/cryptopanic.com\/news\/18750203\/RT-PlayonKlaytn-Web3-gamers-join-our-luckydraw-for-a-chance-to-win-one-of-20-Hardware-Wallets-worth-3000-To-enter-1-Follow-Pl",
+            "created_at": "2023-07-10T06:02:56Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@klaytn_official",
+            "source": {
+                "title": "Klaytn Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@klaytn_official"
+            },
+            "title": "RT @NeopinOfficial: \ud83c\udde6\ud83c\uddeaSECOND of 3 BIG Surprise Cards: NEOPLY joins Innovation Programme of Abu Dhabi Investment Office! NEOPIN will be one\u2026",
+            "published_at": "2023-07-10T05:26:40Z",
+            "slug": "RT-NeopinOfficial-SECOND-of-3-BIG-Surprise-Cards-NEOPLY-joins-Innovation-Programme-of-Abu-Dhabi-Investment-Office-NEOPIN-will-be-one",
+            "currencies": [
+                {
+                    "code": "KLAY",
+                    "title": "Klaytn",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "KLAY",
+                    "title": "Klaytn",
+                    "slug": "klay-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/klay-token\/"
+                },
+                {
+                    "code": "WKLAY",
+                    "title": "Wrapped KLAY",
+                    "slug": "wrapped-klay",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-klay\/"
+                }
+            ],
+            "id": 18750204,
+            "url": "https:\/\/cryptopanic.com\/news\/18750204\/RT-NeopinOfficial-SECOND-of-3-BIG-Surprise-Cards-NEOPLY-joins-Innovation-Programme-of-Abu-Dhabi-Investment-Office-NEOPIN-will-be-one",
+            "created_at": "2023-07-10T05:26:40Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@klaytn_official",
+            "source": {
+                "title": "Klaytn Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@klaytn_official"
+            },
+            "title": "RT @PlayonKlaytn: Klaytn and gaming projects are showcasing W3 #PlayonKlaytn in HCMC!\n\nStay tuned to see how we're expanding and bringing i\u2026",
+            "published_at": "2023-07-10T05:09:59Z",
+            "slug": "RT-PlayonKlaytn-Klaytn-and-gaming-projects-are-showcasing-W3-PlayonKlaytn-in-HCMC-Stay-tuned-to-see-how-were-expanding-and-bringing-i",
+            "currencies": [
+                {
+                    "code": "KLAY",
+                    "title": "Klaytn",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "KLAY",
+                    "title": "Klaytn",
+                    "slug": "klay-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/klay-token\/"
+                },
+                {
+                    "code": "WKLAY",
+                    "title": "Wrapped KLAY",
+                    "slug": "wrapped-klay",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-klay\/"
+                }
+            ],
+            "id": 18750205,
+            "url": "https:\/\/cryptopanic.com\/news\/18750205\/RT-PlayonKlaytn-Klaytn-and-gaming-projects-are-showcasing-W3-PlayonKlaytn-in-HCMC-Stay-tuned-to-see-how-were-expanding-and-bringing-i",
+            "created_at": "2023-07-10T05:09:59Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@DeFiKingdoms",
+            "source": {
+                "title": "DeFi Kingdoms Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@defikingdoms"
+            },
+            "title": "RT @vadym_everstake: 2\/3 Klaytn is one of the biggest blockchains in gaming, with currently 3 #KLAY-based games being featured in a weekly\u2026",
+            "published_at": "2023-07-07T14:18:54Z",
+            "slug": "RT-vadym_everstake-23-Klaytn-is-one-of-the-biggest-blockchains-in-gaming-with-currently-3-KLAY-based-games-being-featured-in-a-weekly",
+            "currencies": [
+                {
+                    "code": "JEWEL",
+                    "title": "DeFi Kingdoms",
+                    "slug": "defi-kingdoms",
+                    "url": "https:\/\/cryptopanic.com\/news\/defi-kingdoms\/"
+                },
+                {
+                    "code": "DFKTEARS",
+                    "title": "Gaia's Tears",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "CRYSTAL",
+                    "title": "DeFi Kingdoms Crystal",
+                    "slug": "defi-kingdoms-crystal",
+                    "url": "https:\/\/cryptopanic.com\/news\/defi-kingdoms-crystal\/"
+                },
+                {
+                    "code": "WJEWEL",
+                    "title": "WJEWEL",
+                    "slug": "wjewel",
+                    "url": "https:\/\/cryptopanic.com\/news\/wjewel\/"
+                },
+                {
+                    "code": "XJEWEL",
+                    "title": "xJEWEL",
+                    "slug": "xjewel",
+                    "url": "https:\/\/cryptopanic.com\/news\/xjewel\/"
+                },
+                {
+                    "code": "DFKGREENEGG",
+                    "title": "Green Pet Egg",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "DFKGREGG",
+                    "title": "Grey Pet Egg",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "JADE",
+                    "title": "DeFi Kingdoms Jade",
+                    "slug": "jade",
+                    "url": "https:\/\/cryptopanic.com\/news\/jade\/"
+                },
+                {
+                    "code": "KLAY",
+                    "title": "Klaytn",
+                    "slug": "klay-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/klay-token\/"
+                }
+            ],
+            "id": 18739617,
+            "url": "https:\/\/cryptopanic.com\/news\/18739617\/RT-vadym_everstake-23-Klaytn-is-one-of-the-biggest-blockchains-in-gaming-with-currently-3-KLAY-based-games-being-featured-in-a-weekly",
+            "created_at": "2023-07-07T14:18:54Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@klaytn_official",
+            "source": {
+                "title": "Klaytn Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@klaytn_official"
+            },
+            "title": "RT @PlayonKlaytn: Proud to announce that #Klaytn games have entered the Top 10 across all chains on @DappRadar \n\n@SuperWalk_ and @DeFiKing\u2026",
+            "published_at": "2023-07-07T10:06:46Z",
+            "slug": "RT-PlayonKlaytn-Proud-to-announce-that-Klaytn-games-have-entered-the-Top-10-across-all-chains-on-DappRadar-SuperWalk_-and-DeFiKing",
+            "currencies": [
+                {
+                    "code": "KLAY",
+                    "title": "Klaytn",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "KLAY",
+                    "title": "Klaytn",
+                    "slug": "klay-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/klay-token\/"
+                },
+                {
+                    "code": "WKLAY",
+                    "title": "Wrapped KLAY",
+                    "slug": "wrapped-klay",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-klay\/"
+                }
+            ],
+            "id": 18740878,
+            "url": "https:\/\/cryptopanic.com\/news\/18740878\/RT-PlayonKlaytn-Proud-to-announce-that-Klaytn-games-have-entered-the-Top-10-across-all-chains-on-DappRadar-SuperWalk_-and-DeFiKing",
+            "created_at": "2023-07-07T10:06:46Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@klaytn_official",
+            "source": {
+                "title": "Klaytn Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@klaytn_official"
+            },
+            "title": "RT @BuildonKlaytn: Calling \ud83c\uddf0\ud83c\uddf7Develpoer! Master #Klaytn development in just 5 weeks with #KlaytnBootcamp\ud83e\uddbe\n\nLearn Klaytn basics, #web3klaytn\u2026",
+            "published_at": "2023-07-07T09:33:45Z",
+            "slug": "RT-BuildonKlaytn-Calling-Develpoer-Master-Klaytn-development-in-just-5-weeks-with-KlaytnBootcamp-Learn-Klaytn-basics-web3klaytn",
+            "currencies": [
+                {
+                    "code": "KLAY",
+                    "title": "Klaytn",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "KLAY",
+                    "title": "Klaytn",
+                    "slug": "klay-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/klay-token\/"
+                },
+                {
+                    "code": "WKLAY",
+                    "title": "Wrapped KLAY",
+                    "slug": "wrapped-klay",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-klay\/"
+                }
+            ],
+            "id": 18740879,
+            "url": "https:\/\/cryptopanic.com\/news\/18740879\/RT-BuildonKlaytn-Calling-Develpoer-Master-Klaytn-development-in-just-5-weeks-with-KlaytnBootcamp-Learn-Klaytn-basics-web3klaytn",
+            "created_at": "2023-07-07T09:33:45Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@klaytn_official",
+            "source": {
+                "title": "Klaytn Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@klaytn_official"
+            },
+            "title": " Missed our recent #KlaytnTownhall? Watch the recordings now!\n\nIf you couldn't attend our June 27 &amp; June 28 Townha\u2026",
+            "published_at": "2023-07-07T09:23:21Z",
+            "slug": "Missed-our-recent-KlaytnTownhall-Watch-the-recordings-now-If-you-couldnt-attend-our-June-27-amp-June-28-Townha",
+            "currencies": [
+                {
+                    "code": "KLAY",
+                    "title": "Klaytn",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "KLAY",
+                    "title": "Klaytn",
+                    "slug": "klay-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/klay-token\/"
+                },
+                {
+                    "code": "WKLAY",
+                    "title": "Wrapped KLAY",
+                    "slug": "wrapped-klay",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-klay\/"
+                }
+            ],
+            "id": 18740880,
+            "url": "https:\/\/cryptopanic.com\/news\/18740880\/Missed-our-recent-KlaytnTownhall-Watch-the-recordings-now-If-you-couldnt-attend-our-June-27-amp-June-28-Townha",
+            "created_at": "2023-07-07T09:23:21Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@klaytn_official",
+            "source": {
+                "title": "Klaytn Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@klaytn_official"
+            },
+            "title": "#Klaytn's IRL meetup in \ud83c\uddf8\ud83c\uddec is happening soon!\n\nJuly 26 at 4 pm SGT\n\nEver wondered what Decentralized Finance (DeF\u2026",
+            "published_at": "2023-07-07T09:20:50Z",
+            "slug": "Klaytns-IRL-meetup-in-is-happening-soon-July-26-at-4-pm-SGT-Ever-wondered-what-Decentralized-Finance-DeF",
+            "currencies": [
+                {
+                    "code": "KLAY",
+                    "title": "Klaytn",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "KLAY",
+                    "title": "Klaytn",
+                    "slug": "klay-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/klay-token\/"
+                },
+                {
+                    "code": "WKLAY",
+                    "title": "Wrapped KLAY",
+                    "slug": "wrapped-klay",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-klay\/"
+                }
+            ],
+            "id": 18740881,
+            "url": "https:\/\/cryptopanic.com\/news\/18740881\/Klaytns-IRL-meetup-in-is-happening-soon-July-26-at-4-pm-SGT-Ever-wondered-what-Decentralized-Finance-DeF",
+            "created_at": "2023-07-07T09:20:50Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

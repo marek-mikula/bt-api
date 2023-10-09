@@ -15,7 +15,6 @@ use Apis\Binance\Http\Client\WalletClientMock;
 use Apis\Binance\Http\Endpoints\MarketDataEndpoints;
 use Apis\Binance\Http\Endpoints\SpotEndpoints;
 use Apis\Binance\Http\Endpoints\WalletEndpoints;
-use Apis\Binance\Services\BinanceAuthenticator;
 use Apis\Binance\Services\BinanceKeyValidator;
 use Apis\Binance\Services\BinanceLimiter;
 use Illuminate\Contracts\Support\DeferrableProvider;
@@ -36,7 +35,6 @@ class BinanceApiDeferredServiceProvider extends ServiceProvider implements Defer
         SpotEndpoints::class,
 
         // services
-        BinanceAuthenticator::class,
         BinanceKeyValidator::class,
         BinanceLimiter::class,
     ];

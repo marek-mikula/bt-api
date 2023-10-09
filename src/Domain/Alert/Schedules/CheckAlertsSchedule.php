@@ -21,7 +21,8 @@ class CheckAlertsSchedule extends BaseSchedule
         $query = Alert::query()
             ->where('date_at', '=', $date)
             ->where(static function (Builder $query) use ($time): void {
-                $query->whereNull('time_at')
+                $query
+                    ->whereNull('time_at')
                     ->orWhere('time_at', '<=', $time);
             })
             ->whereNull('queued_at')

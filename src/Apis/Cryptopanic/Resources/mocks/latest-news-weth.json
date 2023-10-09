@@ -1,0 +1,195 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=WETH&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "@TrustlessOnBTC",
+            "source": {
+                "title": "Good Morning Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@trustlessonbtc"
+            },
+            "title": "We've moved. Follow us at @NewBitcoinCity.",
+            "published_at": "2023-05-23T14:47:08Z",
+            "slug": "Weve-moved-Follow-us-at-NewBitcoinCity",
+            "currencies": [
+                {
+                    "code": "WETH",
+                    "title": "Wrapped ETH (Trustless Bridge)",
+                    "slug": "wrapped-eth-trustless-bridge",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-eth-trustless-bridge\/"
+                },
+                {
+                    "code": "GM",
+                    "title": "Good Morning",
+                    "slug": "good-morning",
+                    "url": "https:\/\/cryptopanic.com\/news\/good-morning\/"
+                },
+                {
+                    "code": "WBTC",
+                    "title": "Wrapped BTC (Trustless Bridge)",
+                    "slug": "wrapped-btc-trustless-bridge",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-btc-trustless-bridge\/"
+                }
+            ],
+            "id": 18419237,
+            "url": "https:\/\/cryptopanic.com\/news\/18419237\/Weve-moved-Follow-us-at-NewBitcoinCity",
+            "created_at": "2023-05-23T14:47:08Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@TrustlessOnBTC",
+            "source": {
+                "title": "Good Morning Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@trustlessonbtc"
+            },
+            "title": "RT @NewBitcoinCity: $GM! Here are our recent updates:\n\n0.1 TC claimed from should now be enough to cover gas fee f\u2026",
+            "published_at": "2023-05-23T14:46:33Z",
+            "slug": "RT-NewBitcoinCity-GM-Here-are-our-recent-updates-01-TC-claimed-from-should-now-be-enough-to-cover-gas-fee-f",
+            "currencies": [
+                {
+                    "code": "WETH",
+                    "title": "Wrapped ETH (Trustless Bridge)",
+                    "slug": "wrapped-eth-trustless-bridge",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-eth-trustless-bridge\/"
+                },
+                {
+                    "code": "GM",
+                    "title": "Good Morning",
+                    "slug": "good-morning",
+                    "url": "https:\/\/cryptopanic.com\/news\/good-morning\/"
+                },
+                {
+                    "code": "WBTC",
+                    "title": "Wrapped BTC (Trustless Bridge)",
+                    "slug": "wrapped-btc-trustless-bridge",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-btc-trustless-bridge\/"
+                }
+            ],
+            "id": 18419239,
+            "url": "https:\/\/cryptopanic.com\/news\/18419239\/RT-NewBitcoinCity-GM-Here-are-our-recent-updates-01-TC-claimed-from-should-now-be-enough-to-cover-gas-fee-f",
+            "created_at": "2023-05-23T14:46:33Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@TrustlessOnBTC",
+            "source": {
+                "title": "Good Morning Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@trustlessonbtc"
+            },
+            "title": "RT @punk3700: Loving these new Solaris outputs. #WIP\n\nA gift for $GM holders. GM from different neighborhoods of New Bitcoin City.\n\n http\u2026",
+            "published_at": "2023-05-23T14:46:29Z",
+            "slug": "RT-punk3700-Loving-these-new-Solaris-outputs-WIP-A-gift-for-GM-holders-GM-from-different-neighborhoods-of-New-Bitcoin-City-http",
+            "currencies": [
+                {
+                    "code": "WETH",
+                    "title": "Wrapped ETH (Trustless Bridge)",
+                    "slug": "wrapped-eth-trustless-bridge",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-eth-trustless-bridge\/"
+                },
+                {
+                    "code": "GM",
+                    "title": "Good Morning",
+                    "slug": "good-morning",
+                    "url": "https:\/\/cryptopanic.com\/news\/good-morning\/"
+                },
+                {
+                    "code": "WBTC",
+                    "title": "Wrapped BTC (Trustless Bridge)",
+                    "slug": "wrapped-btc-trustless-bridge",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-btc-trustless-bridge\/"
+                }
+            ],
+            "id": 18419242,
+            "url": "https:\/\/cryptopanic.com\/news\/18419242\/RT-punk3700-Loving-these-new-Solaris-outputs-WIP-A-gift-for-GM-holders-GM-from-different-neighborhoods-of-New-Bitcoin-City-http",
+            "created_at": "2023-05-23T14:46:29Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@TrustlessOnBTC",
+            "source": {
+                "title": "Good Morning Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@trustlessonbtc"
+            },
+            "title": "RT @NewBitcoinCity:  1 $TM will be sent to all current $GM holders as a thank for your support!!\n\nA snapshot at Block 8784 (current TC Blo\u2026",
+            "published_at": "2023-05-23T14:46:21Z",
+            "slug": "RT-NewBitcoinCity-1-TM-will-be-sent-to-all-current-GM-holders-as-a-thank-for-your-support-A-snapshot-at-Block-8784-current-TC-Blo",
+            "currencies": [
+                {
+                    "code": "WETH",
+                    "title": "Wrapped ETH (Trustless Bridge)",
+                    "slug": "wrapped-eth-trustless-bridge",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-eth-trustless-bridge\/"
+                },
+                {
+                    "code": "GM",
+                    "title": "Good Morning",
+                    "slug": "good-morning",
+                    "url": "https:\/\/cryptopanic.com\/news\/good-morning\/"
+                },
+                {
+                    "code": "WBTC",
+                    "title": "Wrapped BTC (Trustless Bridge)",
+                    "slug": "wrapped-btc-trustless-bridge",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-btc-trustless-bridge\/"
+                }
+            ],
+            "id": 18419247,
+            "url": "https:\/\/cryptopanic.com\/news\/18419247\/RT-NewBitcoinCity-1-TM-will-be-sent-to-all-current-GM-holders-as-a-thank-for-your-support-A-snapshot-at-Block-8784-current-TC-Blo",
+            "created_at": "2023-05-23T14:46:21Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

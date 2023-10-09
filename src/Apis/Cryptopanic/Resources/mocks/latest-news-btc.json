@@ -1,0 +1,773 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=BTC&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "decrypt.co",
+            "source": {
+                "title": "Decrypt",
+                "region": "en",
+                "domain": "decrypt.co",
+                "path": null
+            },
+            "title": "Bitcoin Is Coming to Cosmos With New Nomics Bridge",
+            "published_at": "2023-10-03T12:30:22Z",
+            "slug": "Bitcoin-Is-Coming-to-Cosmos-With-New-Nomics-Bridge",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                }
+            ],
+            "id": 18944487,
+            "url": "https:\/\/cryptopanic.com\/news\/18944487\/Bitcoin-Is-Coming-to-Cosmos-With-New-Nomics-Bridge",
+            "created_at": "2023-10-03T12:30:22Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptopotato.com",
+            "source": {
+                "title": "Feed - Cryptopotato.Com",
+                "region": "en",
+                "domain": "cryptopotato.com",
+                "path": null
+            },
+            "title": "BTC Exchange Reserve Plunges to 5-Year Levels as Investor Cohorts Position for Bull Market: Bitfinex",
+            "published_at": "2023-10-03T12:20:55Z",
+            "slug": "BTC-Exchange-Reserve-Plunges-to-5-Year-Levels-as-Investor-Cohorts-Position-for-Bull-Market-Bitfinex",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                }
+            ],
+            "id": 18944456,
+            "url": "https:\/\/cryptopanic.com\/news\/18944456\/BTC-Exchange-Reserve-Plunges-to-5-Year-Levels-as-Investor-Cohorts-Position-for-Bull-Market-Bitfinex",
+            "created_at": "2023-10-03T12:20:55Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinspeaker.com",
+            "source": {
+                "title": "Coinspeaker",
+                "region": "en",
+                "domain": "coinspeaker.com",
+                "path": null
+            },
+            "title": "Bitcoin Price Takes Dive Under $28,000 amid Profit Taking and Macro Setup",
+            "published_at": "2023-10-03T12:11:01Z",
+            "slug": "Bitcoin-Price-Takes-Dive-Under-28000-amid-Profit-Taking-and-Macro-Setup",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                }
+            ],
+            "id": 18944439,
+            "url": "https:\/\/cryptopanic.com\/news\/18944439\/Bitcoin-Price-Takes-Dive-Under-28000-amid-Profit-Taking-and-Macro-Setup",
+            "created_at": "2023-10-03T12:11:01Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptoglobe.com",
+            "source": {
+                "title": "CryptoGlobe",
+                "region": "en",
+                "domain": "cryptoglobe.com",
+                "path": null
+            },
+            "title": "Bitcoin Educator Dan Held Says \u2018Speculation Is the Utility\u2019: A Report From CCDAS 2023",
+            "published_at": "2023-10-03T12:08:52Z",
+            "slug": "Bitcoin-Educator-Dan-Held-Says-Speculation-Is-the-Utility-A-Report-From-CCDAS-2023",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                }
+            ],
+            "id": 18944440,
+            "url": "https:\/\/cryptopanic.com\/news\/18944440\/Bitcoin-Educator-Dan-Held-Says-Speculation-Is-the-Utility-A-Report-From-CCDAS-2023",
+            "created_at": "2023-10-03T12:08:52Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "bitcoinist.com",
+            "source": {
+                "title": "Bitcoinist",
+                "region": "en",
+                "domain": "bitcoinist.com",
+                "path": null
+            },
+            "title": "Bitwise CIO Positions Ethereum As Leading Investment Over Bitcoin: Here\u2019s Why",
+            "published_at": "2023-10-03T12:00:50Z",
+            "slug": "Bitwise-CIO-Positions-Ethereum-As-Leading-Investment-Over-Bitcoin-Heres-Why",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                }
+            ],
+            "id": 18944387,
+            "url": "https:\/\/cryptopanic.com\/news\/18944387\/Bitwise-CIO-Positions-Ethereum-As-Leading-Investment-Over-Bitcoin-Heres-Why",
+            "created_at": "2023-10-03T12:00:50Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Crypto Watchlist For October: Altcoins To Keep On Your Radar",
+            "published_at": "2023-10-03T12:00:36Z",
+            "slug": "Crypto-Watchlist-For-October-Altcoins-To-Keep-On-Your-Radar",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "DAI",
+                    "title": "Dai",
+                    "slug": "dai",
+                    "url": "https:\/\/cryptopanic.com\/news\/dai\/"
+                },
+                {
+                    "code": "MKR",
+                    "title": "Maker",
+                    "slug": "maker",
+                    "url": "https:\/\/cryptopanic.com\/news\/maker\/"
+                },
+                {
+                    "code": "ARB",
+                    "title": "Arbitrum",
+                    "slug": "arbitrum",
+                    "url": "https:\/\/cryptopanic.com\/news\/arbitrum\/"
+                }
+            ],
+            "id": 18944397,
+            "url": "https:\/\/cryptopanic.com\/news\/18944397\/Crypto-Watchlist-For-October-Altcoins-To-Keep-On-Your-Radar",
+            "created_at": "2023-10-03T12:00:36Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "u.today",
+            "votes": {
+                "negative": 1,
+                "positive": 0,
+                "important": 1,
+                "liked": 0,
+                "disliked": 1,
+                "lol": 1,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 1
+            },
+            "source": {
+                "title": "U.Today",
+                "region": "en",
+                "domain": "u.today",
+                "path": null
+            },
+            "title": "Bitcoin May Plunge to $10,000, Bloomberg's Chief Expert Assumes",
+            "published_at": "2023-10-03T11:56:00Z",
+            "slug": "Bitcoin-May-Plunge-to-10000-Bloombergs-Chief-Expert-Assumes",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                }
+            ],
+            "id": 18944372,
+            "url": "https:\/\/cryptopanic.com\/news\/18944372\/Bitcoin-May-Plunge-to-10000-Bloombergs-Chief-Expert-Assumes",
+            "created_at": "2023-10-03T11:56:00Z"
+        },
+        {
+            "kind": "news",
+            "domain": "dailyhodl.com",
+            "source": {
+                "title": "The Daily Hodl",
+                "region": "en",
+                "domain": "dailyhodl.com",
+                "path": null
+            },
+            "title": "InvestAnswers Unveils \u2018Max Upside\u2019 Price Target for Bitcoin (BTC) in 2025",
+            "published_at": "2023-10-03T11:45:43Z",
+            "slug": "InvestAnswers-Unveils-Max-Upside-Price-Target-for-Bitcoin-BTC-in-2025",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                }
+            ],
+            "id": 18944355,
+            "url": "https:\/\/cryptopanic.com\/news\/18944355\/InvestAnswers-Unveils-Max-Upside-Price-Target-for-Bitcoin-BTC-in-2025",
+            "created_at": "2023-10-03T11:45:43Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "dailycoin.com",
+            "votes": {
+                "negative": 1,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 1,
+                "lol": 2,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 1
+            },
+            "source": {
+                "title": "Dailycoin",
+                "region": "en",
+                "domain": "dailycoin.com",
+                "path": null
+            },
+            "title": "Satoshi Nakamoto Breaks 5-Year Hiatus, But Is It Really Him?",
+            "published_at": "2023-10-03T11:35:00Z",
+            "slug": "Satoshi-Nakamoto-Breaks-5-Year-Hiatus-But-Is-It-Really-Him",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                }
+            ],
+            "id": 18944326,
+            "url": "https:\/\/cryptopanic.com\/news\/18944326\/Satoshi-Nakamoto-Breaks-5-Year-Hiatus-But-Is-It-Really-Him",
+            "created_at": "2023-10-03T11:35:00Z"
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "Sygnum Secures Crypto Brokerage License From Singapore\u2019s MAS",
+            "published_at": "2023-10-03T11:30:00Z",
+            "slug": "Sygnum-Secures-Crypto-Brokerage-License-From-Singapores-MAS",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                }
+            ],
+            "id": 18944435,
+            "url": "https:\/\/cryptopanic.com\/news\/18944435\/Sygnum-Secures-Crypto-Brokerage-License-From-Singapores-MAS",
+            "created_at": "2023-10-03T11:30:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "en.bitcoinsistemi.com",
+            "source": {
+                "title": "en bitcoinsistemi",
+                "region": "en",
+                "domain": "en.bitcoinsistemi.com",
+                "path": null
+            },
+            "title": "What is the reason for the decline in Bitcoin? Is BTC Rally Near? Analysts Evaluated!",
+            "published_at": "2023-10-03T11:29:07Z",
+            "slug": "What-is-the-reason-for-the-decline-in-Bitcoin-Is-BTC-Rally-Near-Analysts-Evaluated",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                }
+            ],
+            "id": 18944319,
+            "url": "https:\/\/cryptopanic.com\/news\/18944319\/What-is-the-reason-for-the-decline-in-Bitcoin-Is-BTC-Rally-Near-Analysts-Evaluated",
+            "created_at": "2023-10-03T11:29:07Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Bitcoin Creator Satoshi Nakamoto Sparks Speculation As Cryptic Email, X Account Resurfaces",
+            "published_at": "2023-10-03T11:00:29Z",
+            "slug": "Bitcoin-Creator-Satoshi-Nakamoto-Sparks-Speculation-As-Cryptic-Email-X-Account-Resurfaces",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                }
+            ],
+            "id": 18944258,
+            "url": "https:\/\/cryptopanic.com\/news\/18944258\/Bitcoin-Creator-Satoshi-Nakamoto-Sparks-Speculation-As-Cryptic-Email-X-Account-Resurfaces",
+            "created_at": "2023-10-03T11:00:29Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "bitcoinist.com",
+            "source": {
+                "title": "Bitcoinist",
+                "region": "en",
+                "domain": "bitcoinist.com",
+                "path": null
+            },
+            "title": "A Crypto Recession Looming? Commodity Strategist Raises The Red Flag",
+            "published_at": "2023-10-03T11:00:23Z",
+            "slug": "A-Crypto-Recession-Looming-Commodity-Strategist-Raises-The-Red-Flag",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                }
+            ],
+            "id": 18944253,
+            "url": "https:\/\/cryptopanic.com\/news\/18944253\/A-Crypto-Recession-Looming-Commodity-Strategist-Raises-The-Red-Flag",
+            "created_at": "2023-10-03T11:00:23Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinspeaker.com",
+            "source": {
+                "title": "Coinspeaker",
+                "region": "en",
+                "domain": "coinspeaker.com",
+                "path": null
+            },
+            "title": "Ethereum Futures ETFs Underwhelm on First Day of Trading",
+            "published_at": "2023-10-03T10:47:57Z",
+            "slug": "Ethereum-Futures-ETFs-Underwhelm-on-First-Day-of-Trading",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                }
+            ],
+            "id": 18944192,
+            "url": "https:\/\/cryptopanic.com\/news\/18944192\/Ethereum-Futures-ETFs-Underwhelm-on-First-Day-of-Trading",
+            "created_at": "2023-10-03T10:47:57Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "en.bitcoinsistemi.com",
+            "source": {
+                "title": "en bitcoinsistemi",
+                "region": "en",
+                "domain": "en.bitcoinsistemi.com",
+                "path": null
+            },
+            "title": "This Altcoin Announced Burning, Its Price Mobilized!",
+            "published_at": "2023-10-03T10:41:06Z",
+            "slug": "This-Altcoin-Announced-Burning-Its-Price-Mobilized",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                }
+            ],
+            "id": 18944206,
+            "url": "https:\/\/cryptopanic.com\/news\/18944206\/This-Altcoin-Announced-Burning-Its-Price-Mobilized",
+            "created_at": "2023-10-03T10:41:06Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinedition.com",
+            "source": {
+                "title": "coinedition",
+                "region": "en",
+                "domain": "coinedition.com",
+                "path": null
+            },
+            "title": "Bitcoin (BTC) Exchange Supply Hits 6-Year Low: Is $30K Close?",
+            "published_at": "2023-10-03T10:37:09Z",
+            "slug": "Bitcoin-BTC-Exchange-Supply-Hits-6-Year-Low-Is-30K-Close",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                }
+            ],
+            "id": 18944181,
+            "url": "https:\/\/cryptopanic.com\/news\/18944181\/Bitcoin-BTC-Exchange-Supply-Hits-6-Year-Low-Is-30K-Close",
+            "created_at": "2023-10-03T10:37:09Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "feeds2.benzinga.com",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 3,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 3
+            },
+            "source": {
+                "title": "Benzinga",
+                "region": "en",
+                "domain": "feeds2.benzinga.com",
+                "path": null
+            },
+            "title": "Bitcoin's 'Fake Pump Seems Over:' Crypto Analyst Capo Predicts Price Drop To $12K",
+            "published_at": "2023-10-03T10:22:30Z",
+            "slug": "Bitcoins-Fake-Pump-Seems-Over-Crypto-Analyst-Capo-Predicts-Price-Drop-To-12K",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                }
+            ],
+            "id": 18944174,
+            "url": "https:\/\/cryptopanic.com\/news\/18944174\/Bitcoins-Fake-Pump-Seems-Over-Crypto-Analyst-Capo-Predicts-Price-Drop-To-12K",
+            "created_at": "2023-10-03T10:22:30Z"
+        },
+        {
+            "kind": "news",
+            "domain": "bitcoinist.com",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 1,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 2,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 2
+            },
+            "source": {
+                "title": "Bitcoinist",
+                "region": "en",
+                "domain": "bitcoinist.com",
+                "path": null
+            },
+            "title": "This Is Why The XRP Price Fell To $0.50",
+            "published_at": "2023-10-03T10:00:32Z",
+            "slug": "This-Is-Why-The-XRP-Price-Fell-To-050",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                }
+            ],
+            "id": 18944098,
+            "url": "https:\/\/cryptopanic.com\/news\/18944098\/This-Is-Why-The-XRP-Price-Fell-To-050",
+            "created_at": "2023-10-03T10:00:32Z"
+        },
+        {
+            "kind": "news",
+            "domain": "coingape.com",
+            "source": {
+                "title": "CoinGape",
+                "region": "en",
+                "domain": "coingape.com",
+                "path": null
+            },
+            "title": "Is This Bitcoin Rally A Trap? On-chain Analysis",
+            "published_at": "2023-10-03T09:59:23Z",
+            "slug": "Is-This-Bitcoin-Rally-A-Trap-On-chain-Analysis",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                }
+            ],
+            "id": 18944077,
+            "url": "https:\/\/cryptopanic.com\/news\/18944077\/Is-This-Bitcoin-Rally-A-Trap-On-chain-Analysis",
+            "created_at": "2023-10-03T09:59:23Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "livebitcoinnews.com",
+            "source": {
+                "title": "Live Bitcoin News",
+                "region": "en",
+                "domain": "livebitcoinnews.com",
+                "path": null
+            },
+            "title": "How To Play At A Casino For Free",
+            "published_at": "2023-10-03T09:46:33Z",
+            "slug": "How-To-Play-At-A-Casino-For-Free",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                }
+            ],
+            "id": 18944058,
+            "url": "https:\/\/cryptopanic.com\/news\/18944058\/How-To-Play-At-A-Casino-For-Free",
+            "created_at": "2023-10-03T09:46:33Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

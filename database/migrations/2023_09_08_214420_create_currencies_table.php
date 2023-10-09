@@ -13,7 +13,7 @@ return new class extends Migration
             $table->string('symbol');
             $table->string('name');
             $table->boolean('is_fiat')->default(false);
-            $table->unsignedBigInteger('coinmarketcap_id');
+            $table->unsignedBigInteger('cmc_id');
             $table->unsignedBigInteger('cmc_rank')->nullable();
             $table->json('meta');
             $table->timestamps();

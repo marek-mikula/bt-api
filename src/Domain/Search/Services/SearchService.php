@@ -22,7 +22,7 @@ class SearchService
     public function search(string $q): Collection
     {
         $currencies = Currency::query()
-            ->where('is_fiat', '=', 0)
+            ->crypto()
             ->where(function (Builder $query) use ($q): void {
                 $query
                     ->where('name', 'like', "%{$q}%")
@@ -38,7 +38,7 @@ class SearchService
             return collect();
         }
 
-        $ids = $currencies->pluck('coinmarketcap_id');
+        $ids = $currencies->pluck('cmc_id');
 
         // retrieve current quotes for found
         // currencies
@@ -49,7 +49,7 @@ class SearchService
         return $currencies
             ->map(function (Currency $currency) use ($quotes): SearchResult {
                 /** @var array $quote */
-                $quote = $quotes->get($currency->coinmarketcap_id);
+                $quote = $quotes->get($currency->cmc_id);
 
                 $quoteCurrency = (string) collect($quote['quote'])->keys()->first();
 

@@ -1,0 +1,827 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=EFI&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "@enjin",
+            "source": {
+                "title": "Enjin Coin Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@enjin"
+            },
+            "title": "AlterVerse is on a mission to bring 1 million games to the Enjin Ecosystem. \ud83e\udd2f",
+            "published_at": "2023-07-10T13:12:06Z",
+            "slug": "AlterVerse-is-on-a-mission-to-bring-1-million-games-to-the-Enjin-Ecosystem",
+            "currencies": [
+                {
+                    "code": "ENJ",
+                    "title": "Enjin Coin",
+                    "slug": "enjincoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/enjincoin\/"
+                },
+                {
+                    "code": "EFI",
+                    "title": "Efinity",
+                    "slug": "efinity",
+                    "url": "https:\/\/cryptopanic.com\/news\/efinity\/"
+                }
+            ],
+            "id": 18755892,
+            "url": "https:\/\/cryptopanic.com\/news\/18755892\/AlterVerse-is-on-a-mission-to-bring-1-million-games-to-the-Enjin-Ecosystem",
+            "created_at": "2023-07-10T13:12:06Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@enjin",
+            "source": {
+                "title": "Enjin Coin Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@enjin"
+            },
+            "title": "Meet the new Enjin Platform: the world's most powerful &amp; advanced framework for building NFT platforms and integrat\u2026",
+            "published_at": "2023-06-30T16:34:22Z",
+            "slug": "Meet-the-new-Enjin-Platform-the-worlds-most-powerful-amp-advanced-framework-for-building-NFT-platforms-and-integrat",
+            "currencies": [
+                {
+                    "code": "ENJ",
+                    "title": "Enjin Coin",
+                    "slug": "enjincoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/enjincoin\/"
+                },
+                {
+                    "code": "EFI",
+                    "title": "Efinity",
+                    "slug": "efinity",
+                    "url": "https:\/\/cryptopanic.com\/news\/efinity\/"
+                }
+            ],
+            "id": 18693196,
+            "url": "https:\/\/cryptopanic.com\/news\/18693196\/Meet-the-new-Enjin-Platform-the-worlds-most-powerful-amp-advanced-framework-for-building-NFT-platforms-and-integrat",
+            "created_at": "2023-06-30T16:34:22Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@enjin",
+            "source": {
+                "title": "Enjin Coin Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@enjin"
+            },
+            "title": "RT @efinityio: The governance proposal regarding the migration of the Efinity parachain to the Enjin Blockchain and the associated token sw\u2026",
+            "published_at": "2023-06-30T09:47:15Z",
+            "slug": "RT-efinityio-The-governance-proposal-regarding-the-migration-of-the-Efinity-parachain-to-the-Enjin-Blockchain-and-the-associated-token-sw",
+            "currencies": [
+                {
+                    "code": "ENJ",
+                    "title": "Enjin Coin",
+                    "slug": "enjincoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/enjincoin\/"
+                },
+                {
+                    "code": "EFI",
+                    "title": "Efinity",
+                    "slug": "efinity",
+                    "url": "https:\/\/cryptopanic.com\/news\/efinity\/"
+                }
+            ],
+            "id": 18693197,
+            "url": "https:\/\/cryptopanic.com\/news\/18693197\/RT-efinityio-The-governance-proposal-regarding-the-migration-of-the-Efinity-parachain-to-the-Enjin-Blockchain-and-the-associated-token-sw",
+            "created_at": "2023-06-30T09:47:15Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@enjin",
+            "source": {
+                "title": "Enjin Coin Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@enjin"
+            },
+            "title": "RT @efinityio: \ufe0f It's the last day to vote for the future of Efinity! Check out the FAQ below for everything you need to know.\n\ufe0f",
+            "published_at": "2023-06-29T09:04:55Z",
+            "slug": "RT-efinityio-Its-the-last-day-to-vote-for-the-future-of-Efinity-Check-out-the-FAQ-below-for-everything-you-need-to-know",
+            "currencies": [
+                {
+                    "code": "ENJ",
+                    "title": "Enjin Coin",
+                    "slug": "enjincoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/enjincoin\/"
+                },
+                {
+                    "code": "EFI",
+                    "title": "Efinity",
+                    "slug": "efinity",
+                    "url": "https:\/\/cryptopanic.com\/news\/efinity\/"
+                }
+            ],
+            "id": 18685306,
+            "url": "https:\/\/cryptopanic.com\/news\/18685306\/RT-efinityio-Its-the-last-day-to-vote-for-the-future-of-Efinity-Check-out-the-FAQ-below-for-everything-you-need-to-know",
+            "created_at": "2023-06-29T09:04:55Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@enjin",
+            "source": {
+                "title": "Enjin Coin Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@enjin"
+            },
+            "title": "RT @efinityio: 1\/2 GM! Kicking off another amazing week. Who's excited for Friday's voting results announcement?  Be sure to cast your vot\u2026",
+            "published_at": "2023-06-28T15:03:45Z",
+            "slug": "RT-efinityio-12-GM-Kicking-off-another-amazing-week-Whos-excited-for-Fridays-voting-results-announcement-Be-sure-to-cast-your-vot",
+            "currencies": [
+                {
+                    "code": "ENJ",
+                    "title": "Enjin Coin",
+                    "slug": "enjincoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/enjincoin\/"
+                },
+                {
+                    "code": "EFI",
+                    "title": "Efinity",
+                    "slug": "efinity",
+                    "url": "https:\/\/cryptopanic.com\/news\/efinity\/"
+                }
+            ],
+            "id": 18677223,
+            "url": "https:\/\/cryptopanic.com\/news\/18677223\/RT-efinityio-12-GM-Kicking-off-another-amazing-week-Whos-excited-for-Fridays-voting-results-announcement-Be-sure-to-cast-your-vot",
+            "created_at": "2023-06-28T15:03:45Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@enjin",
+            "source": {
+                "title": "Enjin Coin Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@enjin"
+            },
+            "title": "RT @EnjinSupport: Resolved: This incident has been resolved. For any related concerns, kindly reach us at . Thank yo\u2026",
+            "published_at": "2023-06-27T08:44:18Z",
+            "slug": "RT-EnjinSupport-Resolved-This-incident-has-been-resolved-For-any-related-concerns-kindly-reach-us-at-Thank-yo",
+            "currencies": [
+                {
+                    "code": "ENJ",
+                    "title": "Enjin Coin",
+                    "slug": "enjincoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/enjincoin\/"
+                },
+                {
+                    "code": "EFI",
+                    "title": "Efinity",
+                    "slug": "efinity",
+                    "url": "https:\/\/cryptopanic.com\/news\/efinity\/"
+                }
+            ],
+            "id": 18668985,
+            "url": "https:\/\/cryptopanic.com\/news\/18668985\/RT-EnjinSupport-Resolved-This-incident-has-been-resolved-For-any-related-concerns-kindly-reach-us-at-Thank-yo",
+            "created_at": "2023-06-27T08:44:18Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@enjin",
+            "source": {
+                "title": "Enjin Coin Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@enjin"
+            },
+            "title": "RT @nft_io: Partial outage notice on Efinity Beams.",
+            "published_at": "2023-06-27T01:31:15Z",
+            "slug": "RT-nft_io-Partial-outage-notice-on-Efinity-Beams",
+            "currencies": [
+                {
+                    "code": "ENJ",
+                    "title": "Enjin Coin",
+                    "slug": "enjincoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/enjincoin\/"
+                },
+                {
+                    "code": "EFI",
+                    "title": "Efinity",
+                    "slug": "efinity",
+                    "url": "https:\/\/cryptopanic.com\/news\/efinity\/"
+                }
+            ],
+            "id": 18660712,
+            "url": "https:\/\/cryptopanic.com\/news\/18660712\/RT-nft_io-Partial-outage-notice-on-Efinity-Beams",
+            "created_at": "2023-06-27T01:31:15Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@enjin",
+            "source": {
+                "title": "Enjin Coin Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@enjin"
+            },
+            "title": "GM to everyone, especially to those who can tweak blurry QR codes.\n\nTry the Beam #NFT QR code distribution system.\u2026",
+            "published_at": "2023-06-27T00:41:35Z",
+            "slug": "GM-to-everyone-especially-to-those-who-can-tweak-blurry-QR-codes-Try-the-Beam-NFT-QR-code-distribution-system",
+            "currencies": [
+                {
+                    "code": "ENJ",
+                    "title": "Enjin Coin",
+                    "slug": "enjincoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/enjincoin\/"
+                },
+                {
+                    "code": "EFI",
+                    "title": "Efinity",
+                    "slug": "efinity",
+                    "url": "https:\/\/cryptopanic.com\/news\/efinity\/"
+                }
+            ],
+            "id": 18660713,
+            "url": "https:\/\/cryptopanic.com\/news\/18660713\/GM-to-everyone-especially-to-those-who-can-tweak-blurry-QR-codes-Try-the-Beam-NFT-QR-code-distribution-system",
+            "created_at": "2023-06-27T00:41:35Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@enjin",
+            "source": {
+                "title": "Enjin Coin Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@enjin"
+            },
+            "title": "GM GM GM kings! \"always remember #Enjin is KING!\" sounds like the perfect battle cry for mass adoption!\n\nLet's star\u2026",
+            "published_at": "2023-06-26T12:06:47Z",
+            "slug": "GM-GM-GM-kings-always-remember-Enjin-is-KING-sounds-like-the-perfect-battle-cry-for-mass-adoption-Lets-star",
+            "currencies": [
+                {
+                    "code": "ENJ",
+                    "title": "Enjin Coin",
+                    "slug": "enjincoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/enjincoin\/"
+                },
+                {
+                    "code": "EFI",
+                    "title": "Efinity",
+                    "slug": "efinity",
+                    "url": "https:\/\/cryptopanic.com\/news\/efinity\/"
+                }
+            ],
+            "id": 18660714,
+            "url": "https:\/\/cryptopanic.com\/news\/18660714\/GM-GM-GM-kings-always-remember-Enjin-is-KING-sounds-like-the-perfect-battle-cry-for-mass-adoption-Lets-star",
+            "created_at": "2023-06-26T12:06:47Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@enjin",
+            "source": {
+                "title": "Enjin Coin Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@enjin"
+            },
+            "title": "What a way to start the week!",
+            "published_at": "2023-06-26T08:35:17Z",
+            "slug": "What-a-way-to-start-the-week",
+            "currencies": [
+                {
+                    "code": "ENJ",
+                    "title": "Enjin Coin",
+                    "slug": "enjincoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/enjincoin\/"
+                },
+                {
+                    "code": "EFI",
+                    "title": "Efinity",
+                    "slug": "efinity",
+                    "url": "https:\/\/cryptopanic.com\/news\/efinity\/"
+                }
+            ],
+            "id": 18660715,
+            "url": "https:\/\/cryptopanic.com\/news\/18660715\/What-a-way-to-start-the-week",
+            "created_at": "2023-06-26T08:35:17Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@enjin",
+            "source": {
+                "title": "Enjin Coin Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@enjin"
+            },
+            "title": "RT @ScottieTash: #Enjin Blobby BEAM GIVEAWAY \nBy: Hillbilly NFTs\n10k Blobbys in this giveaway!\nSimply Scan the QR code below!\n\ufe0f+Retwee\u2026",
+            "published_at": "2023-06-26T02:31:58Z",
+            "slug": "RT-ScottieTash-Enjin-Blobby-BEAM-GIVEAWAY-By-Hillbilly-NFTs-10k-Blobbys-in-this-giveaway-Simply-Scan-the-QR-code-below-Retwee",
+            "currencies": [
+                {
+                    "code": "ENJ",
+                    "title": "Enjin Coin",
+                    "slug": "enjincoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/enjincoin\/"
+                },
+                {
+                    "code": "EFI",
+                    "title": "Efinity",
+                    "slug": "efinity",
+                    "url": "https:\/\/cryptopanic.com\/news\/efinity\/"
+                }
+            ],
+            "id": 18654124,
+            "url": "https:\/\/cryptopanic.com\/news\/18654124\/RT-ScottieTash-Enjin-Blobby-BEAM-GIVEAWAY-By-Hillbilly-NFTs-10k-Blobbys-in-this-giveaway-Simply-Scan-the-QR-code-below-Retwee",
+            "created_at": "2023-06-26T02:31:58Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@enjin",
+            "source": {
+                "title": "Enjin Coin Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@enjin"
+            },
+            "title": "Inside scoop? Epic journey? \n\nSounds like a great weekend ahead for the community!",
+            "published_at": "2023-06-23T13:37:33Z",
+            "slug": "Inside-scoop-Epic-journey-Sounds-like-a-great-weekend-ahead-for-the-community",
+            "currencies": [
+                {
+                    "code": "ENJ",
+                    "title": "Enjin Coin",
+                    "slug": "enjincoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/enjincoin\/"
+                },
+                {
+                    "code": "EFI",
+                    "title": "Efinity",
+                    "slug": "efinity",
+                    "url": "https:\/\/cryptopanic.com\/news\/efinity\/"
+                }
+            ],
+            "id": 18644240,
+            "url": "https:\/\/cryptopanic.com\/news\/18644240\/Inside-scoop-Epic-journey-Sounds-like-a-great-weekend-ahead-for-the-community",
+            "created_at": "2023-06-23T13:37:33Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@enjin",
+            "source": {
+                "title": "Enjin Coin Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@enjin"
+            },
+            "title": "RT @efinityio: ERC20 EFI voting on GP-2023-06-14 now available",
+            "published_at": "2023-06-18T16:31:57Z",
+            "slug": "RT-efinityio-ERC20-EFI-voting-on-GP-2023-06-14-now-available",
+            "currencies": [
+                {
+                    "code": "ENJ",
+                    "title": "Enjin Coin",
+                    "slug": "enjincoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/enjincoin\/"
+                },
+                {
+                    "code": "EFI",
+                    "title": "Efinity",
+                    "slug": "efinity",
+                    "url": "https:\/\/cryptopanic.com\/news\/efinity\/"
+                }
+            ],
+            "id": 18605667,
+            "url": "https:\/\/cryptopanic.com\/news\/18605667\/RT-efinityio-ERC20-EFI-voting-on-GP-2023-06-14-now-available",
+            "created_at": "2023-06-18T16:31:57Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@enjin",
+            "source": {
+                "title": "Enjin Coin Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@enjin"
+            },
+            "title": "RT @ScottieTash: A great read with some great insights on how the #Enjin blockchain benefits developers. I suggest everyone in the #Enjin c\u2026",
+            "published_at": "2023-06-17T08:48:48Z",
+            "slug": "RT-ScottieTash-A-great-read-with-some-great-insights-on-how-the-Enjin-blockchain-benefits-developers-I-suggest-everyone-in-the-Enjin-c",
+            "currencies": [
+                {
+                    "code": "ENJ",
+                    "title": "Enjin Coin",
+                    "slug": "enjincoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/enjincoin\/"
+                },
+                {
+                    "code": "EFI",
+                    "title": "Efinity",
+                    "slug": "efinity",
+                    "url": "https:\/\/cryptopanic.com\/news\/efinity\/"
+                }
+            ],
+            "id": 18601254,
+            "url": "https:\/\/cryptopanic.com\/news\/18601254\/RT-ScottieTash-A-great-read-with-some-great-insights-on-how-the-Enjin-blockchain-benefits-developers-I-suggest-everyone-in-the-Enjin-c",
+            "created_at": "2023-06-17T08:48:48Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@enjin",
+            "source": {
+                "title": "Enjin Coin Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@enjin"
+            },
+            "title": "RT @enjin:  NEW Adopter Alert!\n\nWe are thrilled to announce Etherscape (@samthebay) to the Enjin ecosystem! \n\nTheir adoption signifies a\u2026",
+            "published_at": "2023-06-17T08:48:08Z",
+            "slug": "RT-enjin-NEW-Adopter-Alert-We-are-thrilled-to-announce-Etherscape-samthebay-to-the-Enjin-ecosystem-Their-adoption-signifies-a",
+            "currencies": [
+                {
+                    "code": "ENJ",
+                    "title": "Enjin Coin",
+                    "slug": "enjincoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/enjincoin\/"
+                },
+                {
+                    "code": "EFI",
+                    "title": "Efinity",
+                    "slug": "efinity",
+                    "url": "https:\/\/cryptopanic.com\/news\/efinity\/"
+                }
+            ],
+            "id": 18601256,
+            "url": "https:\/\/cryptopanic.com\/news\/18601256\/RT-enjin-NEW-Adopter-Alert-We-are-thrilled-to-announce-Etherscape-samthebay-to-the-Enjin-ecosystem-Their-adoption-signifies-a",
+            "created_at": "2023-06-17T08:48:08Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@enjin",
+            "source": {
+                "title": "Enjin Coin Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@enjin"
+            },
+            "title": "RT @SamTheBay: Hey Everyone! There has been a lot of energy and discussion around changes in the @enjin and @efinityio blockchains. If you\u2026",
+            "published_at": "2023-06-17T01:07:47Z",
+            "slug": "RT-SamTheBay-Hey-Everyone-There-has-been-a-lot-of-energy-and-discussion-around-changes-in-the-enjin-and-efinityio-blockchains-If-you",
+            "currencies": [
+                {
+                    "code": "ENJ",
+                    "title": "Enjin Coin",
+                    "slug": "enjincoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/enjincoin\/"
+                },
+                {
+                    "code": "EFI",
+                    "title": "Efinity",
+                    "slug": "efinity",
+                    "url": "https:\/\/cryptopanic.com\/news\/efinity\/"
+                }
+            ],
+            "id": 18595605,
+            "url": "https:\/\/cryptopanic.com\/news\/18595605\/RT-SamTheBay-Hey-Everyone-There-has-been-a-lot-of-energy-and-discussion-around-changes-in-the-enjin-and-efinityio-blockchains-If-you",
+            "created_at": "2023-06-17T01:07:47Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@enjin",
+            "source": {
+                "title": "Enjin Coin Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@enjin"
+            },
+            "title": " NEW Adopter Alert!\n\nWe are thrilled to announce Etherscape (@samthebay) to the Enjin ecosystem! \n\nTheir adoption\u2026",
+            "published_at": "2023-06-16T21:26:14Z",
+            "slug": "NEW-Adopter-Alert-We-are-thrilled-to-announce-Etherscape-samthebay-to-the-Enjin-ecosystem-Their-adoption",
+            "currencies": [
+                {
+                    "code": "ENJ",
+                    "title": "Enjin Coin",
+                    "slug": "enjincoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/enjincoin\/"
+                },
+                {
+                    "code": "EFI",
+                    "title": "Efinity",
+                    "slug": "efinity",
+                    "url": "https:\/\/cryptopanic.com\/news\/efinity\/"
+                }
+            ],
+            "id": 18595606,
+            "url": "https:\/\/cryptopanic.com\/news\/18595606\/NEW-Adopter-Alert-We-are-thrilled-to-announce-Etherscape-samthebay-to-the-Enjin-ecosystem-Their-adoption",
+            "created_at": "2023-06-16T21:26:14Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@enjin",
+            "source": {
+                "title": "Enjin Coin Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@enjin"
+            },
+            "title": "What say you community?\n\nCan we get this #Beam fan up to 1,000 today?",
+            "published_at": "2023-06-16T15:01:58Z",
+            "slug": "What-say-you-community-Can-we-get-this-Beam-fan-up-to-1000-today",
+            "currencies": [
+                {
+                    "code": "ENJ",
+                    "title": "Enjin Coin",
+                    "slug": "enjincoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/enjincoin\/"
+                },
+                {
+                    "code": "EFI",
+                    "title": "Efinity",
+                    "slug": "efinity",
+                    "url": "https:\/\/cryptopanic.com\/news\/efinity\/"
+                }
+            ],
+            "id": 18595607,
+            "url": "https:\/\/cryptopanic.com\/news\/18595607\/What-say-you-community-Can-we-get-this-Beam-fan-up-to-1000-today",
+            "created_at": "2023-06-16T15:01:58Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@enjin",
+            "source": {
+                "title": "Enjin Coin Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@enjin"
+            },
+            "title": "RT @efinityio: Proposal GP-2023-06-14: Migration of Efinity Chain to Enjin Blockchain and Token Swap.\nAll $EFI holders are encouraged to ac\u2026",
+            "published_at": "2023-06-15T03:20:27Z",
+            "slug": "RT-efinityio-Proposal-GP-2023-06-14-Migration-of-Efinity-Chain-to-Enjin-Blockchain-and-Token-Swap-All-EFI-holders-are-encouraged-to-ac",
+            "currencies": [
+                {
+                    "code": "ENJ",
+                    "title": "Enjin Coin",
+                    "slug": "enjincoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/enjincoin\/"
+                },
+                {
+                    "code": "EFI",
+                    "title": "Efinity",
+                    "slug": "efinity",
+                    "url": "https:\/\/cryptopanic.com\/news\/efinity\/"
+                }
+            ],
+            "id": 18578921,
+            "url": "https:\/\/cryptopanic.com\/news\/18578921\/RT-efinityio-Proposal-GP-2023-06-14-Migration-of-Efinity-Chain-to-Enjin-Blockchain-and-Token-Swap-All-EFI-holders-are-encouraged-to-ac",
+            "created_at": "2023-06-15T03:20:27Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@enjin",
+            "source": {
+                "title": "Enjin Coin Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@enjin"
+            },
+            "title": "RT @enjin: You've heard it right! The Enjin Blockchain and Efinity Matrixchain is here! \n\nCheck out the FAQ blog below for everything you n\u2026",
+            "published_at": "2023-06-14T08:18:48Z",
+            "slug": "RT-enjin-Youve-heard-it-right-The-Enjin-Blockchain-and-Efinity-Matrixchain-is-here-Check-out-the-FAQ-blog-below-for-everything-you-n",
+            "currencies": [
+                {
+                    "code": "ENJ",
+                    "title": "Enjin Coin",
+                    "slug": "enjincoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/enjincoin\/"
+                },
+                {
+                    "code": "EFI",
+                    "title": "Efinity",
+                    "slug": "efinity",
+                    "url": "https:\/\/cryptopanic.com\/news\/efinity\/"
+                }
+            ],
+            "id": 18578922,
+            "url": "https:\/\/cryptopanic.com\/news\/18578922\/RT-enjin-Youve-heard-it-right-The-Enjin-Blockchain-and-Efinity-Matrixchain-is-here-Check-out-the-FAQ-blog-below-for-everything-you-n",
+            "created_at": "2023-06-14T08:18:48Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

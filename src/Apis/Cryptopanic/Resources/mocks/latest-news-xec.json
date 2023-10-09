@@ -1,0 +1,917 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=XEC&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "cryptodaily.co.uk",
+            "source": {
+                "title": "CryptoDaily",
+                "region": "en",
+                "domain": "cryptodaily.co.uk",
+                "path": null
+            },
+            "title": "Let's Compare KuCoin Token (KCS) and eCash (XEC) to Shiba Budz (BUDZ)",
+            "published_at": "2023-09-26T18:53:35Z",
+            "slug": "Lets-Compare-KuCoin-Token-KCS-and-eCash-XEC-to-Shiba-Budz-BUDZ",
+            "currencies": [
+                {
+                    "code": "XEC",
+                    "title": "eCash",
+                    "slug": "ecash",
+                    "url": "https:\/\/cryptopanic.com\/news\/ecash\/"
+                },
+                {
+                    "code": "KCS",
+                    "title": "KuCoin",
+                    "slug": "kucoin-shares",
+                    "url": "https:\/\/cryptopanic.com\/news\/kucoin-shares\/"
+                }
+            ],
+            "id": 18930065,
+            "url": "https:\/\/cryptopanic.com\/news\/18930065\/Lets-Compare-KuCoin-Token-KCS-and-eCash-XEC-to-Shiba-Budz-BUDZ",
+            "created_at": "2023-09-26T18:53:35Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "bitcoinmagazine.com",
+            "source": {
+                "title": "Bitcoin Magazine",
+                "region": "en",
+                "domain": "bitcoinmagazine.com",
+                "path": null
+            },
+            "title": "How-To Guide: Running an Ecash Mint",
+            "published_at": "2023-09-25T23:14:55Z",
+            "slug": "How-To-Guide-Running-an-Ecash-Mint",
+            "currencies": [
+                {
+                    "code": "XEC",
+                    "title": "eCash",
+                    "slug": "ecash",
+                    "url": "https:\/\/cryptopanic.com\/news\/ecash\/"
+                }
+            ],
+            "id": 18927774,
+            "url": "https:\/\/cryptopanic.com\/news\/18927774\/How-To-Guide-Running-an-Ecash-Mint",
+            "created_at": "2023-09-25T23:14:55Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "bitcoinmagazine.com",
+            "source": {
+                "title": "Bitcoin Magazine",
+                "region": "en",
+                "domain": "bitcoinmagazine.com",
+                "path": null
+            },
+            "title": "Ideal Banking",
+            "published_at": "2023-09-21T22:00:02Z",
+            "slug": "Ideal-Banking",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "XEC",
+                    "title": "eCash",
+                    "slug": "ecash",
+                    "url": "https:\/\/cryptopanic.com\/news\/ecash\/"
+                }
+            ],
+            "id": 18920377,
+            "url": "https:\/\/cryptopanic.com\/news\/18920377\/Ideal-Banking",
+            "created_at": "2023-09-21T22:00:02Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coingabbar.com",
+            "source": {
+                "title": "coingabbar",
+                "region": "en",
+                "domain": "coingabbar.com",
+                "path": null
+            },
+            "title": "24 Crypto, 19 Sep: Crypto flat before Federal Reserve rate decision",
+            "published_at": "2023-09-20T01:30:00Z",
+            "slug": "24-Crypto-19-Sep-Crypto-flat-before-Federal-Reserve-rate-decision",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                },
+                {
+                    "code": "TON",
+                    "title": "Toncoin",
+                    "slug": "the-open-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/the-open-network\/"
+                },
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "XEC",
+                    "title": "eCash",
+                    "slug": "ecash",
+                    "url": "https:\/\/cryptopanic.com\/news\/ecash\/"
+                }
+            ],
+            "id": 18915246,
+            "url": "https:\/\/cryptopanic.com\/news\/18915246\/24-Crypto-19-Sep-Crypto-flat-before-Federal-Reserve-rate-decision",
+            "created_at": "2023-09-20T01:30:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Stellar To Release Protocol 20 Testnet Upgrade, Will XLM Rally?",
+            "published_at": "2023-09-19T22:00:41Z",
+            "slug": "Stellar-To-Release-Protocol-20-Testnet-Upgrade-Will-XLM-Rally",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "XLM",
+                    "title": "Stellar",
+                    "slug": "stellar",
+                    "url": "https:\/\/cryptopanic.com\/news\/stellar\/"
+                },
+                {
+                    "code": "ARB",
+                    "title": "Arbitrum",
+                    "slug": "arbitrum",
+                    "url": "https:\/\/cryptopanic.com\/news\/arbitrum\/"
+                },
+                {
+                    "code": "XEC",
+                    "title": "eCash",
+                    "slug": "ecash",
+                    "url": "https:\/\/cryptopanic.com\/news\/ecash\/"
+                }
+            ],
+            "id": 18914805,
+            "url": "https:\/\/cryptopanic.com\/news\/18914805\/Stellar-To-Release-Protocol-20-Testnet-Upgrade-Will-XLM-Rally",
+            "created_at": "2023-09-19T22:00:41Z"
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "XEC Token Spikes Over 17% In The Last Week, Can It Sustain Rally?",
+            "published_at": "2023-09-19T14:00:50Z",
+            "slug": "XEC-Token-Spikes-Over-17-In-The-Last-Week-Can-It-Sustain-Rally",
+            "currencies": [
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                },
+                {
+                    "code": "SHIB",
+                    "title": "Shiba Inu",
+                    "slug": "shiba-inu",
+                    "url": "https:\/\/cryptopanic.com\/news\/shiba-inu\/"
+                },
+                {
+                    "code": "XEC",
+                    "title": "eCash",
+                    "slug": "ecash",
+                    "url": "https:\/\/cryptopanic.com\/news\/ecash\/"
+                }
+            ],
+            "id": 18913743,
+            "url": "https:\/\/cryptopanic.com\/news\/18913743\/XEC-Token-Spikes-Over-17-In-The-Last-Week-Can-It-Sustain-Rally",
+            "created_at": "2023-09-19T14:00:50Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "feeds2.benzinga.com",
+            "source": {
+                "title": "Benzinga",
+                "region": "en",
+                "domain": "feeds2.benzinga.com",
+                "path": null
+            },
+            "title": "Bitcoin Edges Lower But Remains Above This Key Level; eCash Emerges As Top Gainer",
+            "published_at": "2023-09-19T13:43:50Z",
+            "slug": "Bitcoin-Edges-Lower-But-Remains-Above-This-Key-Level-eCash-Emerges-As-Top-Gainer",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "XEC",
+                    "title": "eCash",
+                    "slug": "ecash",
+                    "url": "https:\/\/cryptopanic.com\/news\/ecash\/"
+                }
+            ],
+            "id": 18913690,
+            "url": "https:\/\/cryptopanic.com\/news\/18913690\/Bitcoin-Edges-Lower-But-Remains-Above-This-Key-Level-eCash-Emerges-As-Top-Gainer",
+            "created_at": "2023-09-19T13:43:50Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinedition.com",
+            "source": {
+                "title": "coinedition",
+                "region": "en",
+                "domain": "coinedition.com",
+                "path": null
+            },
+            "title": "Crypto Market Today: Bitcoin, Solana, eCash Break Resistance in Bullish Move",
+            "published_at": "2023-09-19T11:40:28Z",
+            "slug": "Crypto-Market-Today-Bitcoin-Solana-eCash-Break-Resistance-in-Bullish-Move",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "XEC",
+                    "title": "eCash",
+                    "slug": "ecash",
+                    "url": "https:\/\/cryptopanic.com\/news\/ecash\/"
+                }
+            ],
+            "id": 18913288,
+            "url": "https:\/\/cryptopanic.com\/news\/18913288\/Crypto-Market-Today-Bitcoin-Solana-eCash-Break-Resistance-in-Bullish-Move",
+            "created_at": "2023-09-19T11:40:28Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Bitcoin_ABC",
+            "source": {
+                "title": "Bitcoin Cash ABC [IOU] Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@bitcoin_abc"
+            },
+            "title": "Bitcoin ABC 0.27.9 is now available!\n\nThis release brings a new RPC as well as minor fixes and performance improvem\u2026",
+            "published_at": "2023-07-11T20:12:11Z",
+            "slug": "Bitcoin-ABC-0279-is-now-available-This-release-brings-a-new-RPC-as-well-as-minor-fixes-and-performance-improvem",
+            "currencies": [
+                {
+                    "code": "BCHABC",
+                    "title": "Bitcoin Cash ABC [IOU]",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "XEC",
+                    "title": "eCash",
+                    "slug": "ecash",
+                    "url": "https:\/\/cryptopanic.com\/news\/ecash\/"
+                }
+            ],
+            "id": 18762991,
+            "url": "https:\/\/cryptopanic.com\/news\/18762991\/Bitcoin-ABC-0279-is-now-available-This-release-brings-a-new-RPC-as-well-as-minor-fixes-and-performance-improvem",
+            "created_at": "2023-07-11T20:12:11Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GiftoMetaverse",
+            "source": {
+                "title": "Gifto Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@giftometaverse"
+            },
+            "title": "RT @Satoshi_Talks: Top 10 gainers in the last 24H\n\n1. $PRO - 58% \n2. $GXC - 39% \n3. $BTS - 32% \n4. $MOB - 25% \n5. $GFI - 22% \n6. $XEC - 20\u2026",
+            "published_at": "2023-07-10T02:29:52Z",
+            "slug": "RT-Satoshi_Talks-Top-10-gainers-in-the-last-24H-1-PRO-58-2-GXC-39-3-BTS-32-4-MOB-25-5-GFI-22-6-XEC-20",
+            "currencies": [
+                {
+                    "code": "GFT",
+                    "title": "Gifto",
+                    "slug": "gifto",
+                    "url": "https:\/\/cryptopanic.com\/news\/gifto\/"
+                },
+                {
+                    "code": "XEC",
+                    "title": "eCash",
+                    "slug": "ecash",
+                    "url": "https:\/\/cryptopanic.com\/news\/ecash\/"
+                }
+            ],
+            "id": 18749890,
+            "url": "https:\/\/cryptopanic.com\/news\/18749890\/RT-Satoshi_Talks-Top-10-gainers-in-the-last-24H-1-PRO-58-2-GXC-39-3-BTS-32-4-MOB-25-5-GFI-22-6-XEC-20",
+            "created_at": "2023-07-10T02:29:52Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cointelegraph.com",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "CoinTelegraph",
+                "region": "en",
+                "domain": "cointelegraph.com",
+                "path": null
+            },
+            "title": "Bitcoin forks BCH, BSV and XEC soared last month, but are the gains organic and sustainable?",
+            "published_at": "2023-07-06T19:20:14Z",
+            "slug": "Bitcoin-forks-BCH-BSV-and-XEC-soared-last-month-but-are-the-gains-organic-and-sustainable",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "BSV",
+                    "title": "Bitcoin SV",
+                    "slug": "bitcoin-cash-sv",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin-cash-sv\/"
+                },
+                {
+                    "code": "XEC",
+                    "title": "eCash",
+                    "slug": "ecash",
+                    "url": "https:\/\/cryptopanic.com\/news\/ecash\/"
+                },
+                {
+                    "code": "KAS",
+                    "title": "Kaspa",
+                    "slug": "kaspa",
+                    "url": "https:\/\/cryptopanic.com\/news\/kaspa\/"
+                }
+            ],
+            "id": 18729840,
+            "url": "https:\/\/cryptopanic.com\/news\/18729840\/Bitcoin-forks-BCH-BSV-and-XEC-soared-last-month-but-are-the-gains-organic-and-sustainable",
+            "created_at": "2023-07-06T19:20:14Z"
+        },
+        {
+            "kind": "news",
+            "domain": "@TradeStrikeBVI",
+            "source": {
+                "title": "StrikeX Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@tradestrikebvi"
+            },
+            "title": "RT @GenxAnalytics: BIGGEST MOST TRENDING ON-FIRE #CRYPTO\n\n\ud83e\uddd1\u200dMost Visits\n\ufe0fHighest Searches\n\n@CoinMarketCap\n\n$PRO $BTS $XEC $CFG $MOB $ST\u2026",
+            "published_at": "2023-07-06T09:21:10Z",
+            "slug": "RT-GenxAnalytics-BIGGEST-MOST-TRENDING-ON-FIRE-CRYPTO-Most-Visits-Highest-Searches-CoinMarketCap-PRO-BTS-XEC-CFG-MOB-ST",
+            "currencies": [
+                {
+                    "code": "STRX",
+                    "title": "StrikeX",
+                    "slug": "strikecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/strikecoin\/"
+                },
+                {
+                    "code": "XEC",
+                    "title": "eCash",
+                    "slug": "ecash",
+                    "url": "https:\/\/cryptopanic.com\/news\/ecash\/"
+                }
+            ],
+            "id": 18726951,
+            "url": "https:\/\/cryptopanic.com\/news\/18726951\/RT-GenxAnalytics-BIGGEST-MOST-TRENDING-ON-FIRE-CRYPTO-Most-Visits-Highest-Searches-CoinMarketCap-PRO-BTS-XEC-CFG-MOB-ST",
+            "created_at": "2023-07-06T09:21:10Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptopotato.com",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "Feed - Cryptopotato.Com",
+                "region": "en",
+                "domain": "cryptopotato.com",
+                "path": null
+            },
+            "title": "Bitcoin Cash Jumps 8% Daily, Bitcoin Challenges $31K Again (Market Watch)",
+            "published_at": "2023-07-06T08:55:35Z",
+            "slug": "Bitcoin-Cash-Jumps-8-Daily-Bitcoin-Challenges-31K-Again-Market-Watch",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "BCH",
+                    "title": "Bitcoin Cash",
+                    "slug": "bitcoin-cash",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin-cash\/"
+                },
+                {
+                    "code": "XEC",
+                    "title": "eCash",
+                    "slug": "ecash",
+                    "url": "https:\/\/cryptopanic.com\/news\/ecash\/"
+                }
+            ],
+            "id": 18726148,
+            "url": "https:\/\/cryptopanic.com\/news\/18726148\/Bitcoin-Cash-Jumps-8-Daily-Bitcoin-Challenges-31K-Again-Market-Watch",
+            "created_at": "2023-07-06T08:55:35Z"
+        },
+        {
+            "kind": "news",
+            "domain": "@gate_io",
+            "source": {
+                "title": "Ethereum PoS on Gate.io Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gate_io"
+            },
+            "title": " Weekly Gainers - July 3rd  \n\n7D Price Change  \n1\ufe0f\u20e3 $COMP +81.7%\n2\ufe0f\u20e3 $XEC +55.7%\n3\ufe0f\u20e3\u2026",
+            "published_at": "2023-07-03T09:00:01Z",
+            "slug": "Weekly-Gainers-July-3rd-7D-Price-Change-1-COMP-817-2-XEC-557-3",
+            "currencies": [
+                {
+                    "code": "ETHS",
+                    "title": "Ethereum PoS on Gate.io",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "ETHW",
+                    "title": "Ethereum PoW on Gate.io",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "IPUNKS",
+                    "title": "CryptoPunks Fraction Token",
+                    "slug": "cryptopunks-fraction-toke",
+                    "url": "https:\/\/cryptopanic.com\/news\/cryptopunks-fraction-toke\/"
+                },
+                {
+                    "code": "XEC",
+                    "title": "eCash",
+                    "slug": "ecash",
+                    "url": "https:\/\/cryptopanic.com\/news\/ecash\/"
+                },
+                {
+                    "code": "COMP",
+                    "title": "Compound",
+                    "slug": "compound-governance-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/compound-governance-token\/"
+                }
+            ],
+            "id": 18708807,
+            "url": "https:\/\/cryptopanic.com\/news\/18708807\/Weekly-Gainers-July-3rd-7D-Price-Change-1-COMP-817-2-XEC-557-3",
+            "created_at": "2023-07-03T09:00:01Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@BitOnyx_AI",
+            "source": {
+                "title": "BitOnyx Token Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@bitonyx_ai"
+            },
+            "title": "eCash (XEC) cryptocurrency showed a big surge in trading of 58% for the day.\nTrading now at $0.0000365, eCash has s\u2026",
+            "published_at": "2023-06-30T19:26:14Z",
+            "slug": "eCash-XEC-cryptocurrency-showed-a-big-surge-in-trading-of-58-for-the-day-Trading-now-at-00000365-eCash-has-s",
+            "currencies": [
+                {
+                    "code": "BTNYX",
+                    "title": "BitOnyx",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "XEC",
+                    "title": "eCash",
+                    "slug": "ecash",
+                    "url": "https:\/\/cryptopanic.com\/news\/ecash\/"
+                }
+            ],
+            "id": 18692190,
+            "url": "https:\/\/cryptopanic.com\/news\/18692190\/eCash-XEC-cryptocurrency-showed-a-big-surge-in-trading-of-58-for-the-day-Trading-now-at-00000365-eCash-has-s",
+            "created_at": "2023-06-30T19:26:14Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptonews.com",
+            "votes": {
+                "negative": 0,
+                "positive": 3,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "Cryptonews",
+                "region": "en",
+                "domain": "cryptonews.com",
+                "path": null
+            },
+            "title": "Best Crypto to Buy Now 30 June \u2013 Bitcoin Cash, Synthetix Network, Pepe",
+            "published_at": "2023-06-30T18:51:00Z",
+            "slug": "Best-Crypto-to-Buy-Now-30-June-Bitcoin-Cash-Synthetix-Network-Pepe",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "XEC",
+                    "title": "eCash",
+                    "slug": "ecash",
+                    "url": "https:\/\/cryptopanic.com\/news\/ecash\/"
+                },
+                {
+                    "code": "PEPE",
+                    "title": "Pepe",
+                    "slug": "pepe",
+                    "url": "https:\/\/cryptopanic.com\/news\/pepe\/"
+                }
+            ],
+            "id": 18691049,
+            "url": "https:\/\/cryptopanic.com\/news\/18691049\/Best-Crypto-to-Buy-Now-30-June-Bitcoin-Cash-Synthetix-Network-Pepe",
+            "created_at": "2023-06-30T18:51:00Z"
+        },
+        {
+            "kind": "news",
+            "domain": "finbold.com",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 1,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 1,
+                "comments": 0
+            },
+            "source": {
+                "title": "Finbold",
+                "region": "en",
+                "domain": "finbold.com",
+                "path": null
+            },
+            "title": "eCash price prediction as XEC soars 55% in a day; When is the next leg up?",
+            "published_at": "2023-06-30T12:48:53Z",
+            "slug": "eCash-price-prediction-as-XEC-soars-55-in-a-day-When-is-the-next-leg-up",
+            "currencies": [
+                {
+                    "code": "XEC",
+                    "title": "eCash",
+                    "slug": "ecash",
+                    "url": "https:\/\/cryptopanic.com\/news\/ecash\/"
+                }
+            ],
+            "id": 18690104,
+            "url": "https:\/\/cryptopanic.com\/news\/18690104\/eCash-price-prediction-as-XEC-soars-55-in-a-day-When-is-the-next-leg-up",
+            "created_at": "2023-06-30T12:48:53Z"
+        },
+        {
+            "kind": "news",
+            "domain": "@humansdotai",
+            "source": {
+                "title": "Humans.ai Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@humansdotai"
+            },
+            "title": "RT @esatoshiclub:  Top 10 gainers in the last 24H\n\n1. $CEL - 44%\n2. $XEC - 42%\n3. $BCH - 31%\n4. $COMP - 26%\n5. $VGX - 24%\n6. $WWY - 19%\n7.\u2026",
+            "published_at": "2023-06-30T09:51:49Z",
+            "slug": "RT-esatoshiclub-Top-10-gainers-in-the-last-24H-1-CEL-44-2-XEC-42-3-BCH-31-4-COMP-26-5-VGX-24-6-WWY-19-7",
+            "currencies": [
+                {
+                    "code": "HEART",
+                    "title": "Humans.ai",
+                    "slug": "humans-ai",
+                    "url": "https:\/\/cryptopanic.com\/news\/humans-ai\/"
+                },
+                {
+                    "code": "BCH",
+                    "title": "Bitcoin Cash",
+                    "slug": "bitcoin-cash",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin-cash\/"
+                },
+                {
+                    "code": "XEC",
+                    "title": "eCash",
+                    "slug": "ecash",
+                    "url": "https:\/\/cryptopanic.com\/news\/ecash\/"
+                },
+                {
+                    "code": "COMP",
+                    "title": "Compound",
+                    "slug": "compound-governance-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/compound-governance-token\/"
+                }
+            ],
+            "id": 18693899,
+            "url": "https:\/\/cryptopanic.com\/news\/18693899\/RT-esatoshiclub-Top-10-gainers-in-the-last-24H-1-CEL-44-2-XEC-42-3-BCH-31-4-COMP-26-5-VGX-24-6-WWY-19-7",
+            "created_at": "2023-06-30T09:51:49Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Bitcoin_ABC",
+            "source": {
+                "title": "Bitcoin Cash ABC [IOU] Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@bitcoin_abc"
+            },
+            "title": "Bitcoin ABC 0.27.8 is now available! \n\nThis is a maintenance release with minor fixes and improvements. \n\nDownload\u2026",
+            "published_at": "2023-06-27T19:00:08Z",
+            "slug": "Bitcoin-ABC-0278-is-now-available-This-is-a-maintenance-release-with-minor-fixes-and-improvements-Download",
+            "currencies": [
+                {
+                    "code": "BCHABC",
+                    "title": "Bitcoin Cash ABC [IOU]",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "XEC",
+                    "title": "eCash",
+                    "slug": "ecash",
+                    "url": "https:\/\/cryptopanic.com\/news\/ecash\/"
+                }
+            ],
+            "id": 18667919,
+            "url": "https:\/\/cryptopanic.com\/news\/18667919\/Bitcoin-ABC-0278-is-now-available-This-is-a-maintenance-release-with-minor-fixes-and-improvements-Download",
+            "created_at": "2023-06-27T19:00:08Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Bitcoin_ABC",
+            "source": {
+                "title": "Bitcoin Cash ABC [IOU] Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@bitcoin_abc"
+            },
+            "title": "Bitcoin ABC 0.27.7 is now available! \n\nThis release brings some RPC updates and several under the hood improvements\u2026",
+            "published_at": "2023-06-14T16:18:46Z",
+            "slug": "Bitcoin-ABC-0277-is-now-available-This-release-brings-some-RPC-updates-and-several-under-the-hood-improvements",
+            "currencies": [
+                {
+                    "code": "BCHABC",
+                    "title": "Bitcoin Cash ABC [IOU]",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "XEC",
+                    "title": "eCash",
+                    "slug": "ecash",
+                    "url": "https:\/\/cryptopanic.com\/news\/ecash\/"
+                }
+            ],
+            "id": 18577757,
+            "url": "https:\/\/cryptopanic.com\/news\/18577757\/Bitcoin-ABC-0277-is-now-available-This-release-brings-some-RPC-updates-and-several-under-the-hood-improvements",
+            "created_at": "2023-06-14T16:18:46Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

@@ -1,0 +1,707 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=VGX&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "@Ethos_io",
+            "source": {
+                "title": "Ethos Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@ethos_io"
+            },
+            "title": "RT @Ethos_io_DeFi: Set a reminder for our upcoming Space!\n\nEthos Connect: Ep3 Wednesday Open Chat\n\nListen in to learn more about the app, p\u2026",
+            "published_at": "2023-07-11T15:30:37Z",
+            "slug": "RT-Ethos_io_DeFi-Set-a-reminder-for-our-upcoming-Space-Ethos-Connect-Ep3-Wednesday-Open-Chat-Listen-in-to-learn-more-about-the-app-p",
+            "currencies": [
+                {
+                    "code": "VGX",
+                    "title": "Voyager Token",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18764120,
+            "url": "https:\/\/cryptopanic.com\/news\/18764120\/RT-Ethos_io_DeFi-Set-a-reminder-for-our-upcoming-Space-Ethos-Connect-Ep3-Wednesday-Open-Chat-Listen-in-to-learn-more-about-the-app-p",
+            "created_at": "2023-07-11T15:30:37Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Ethos_io",
+            "source": {
+                "title": "Ethos Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@ethos_io"
+            },
+            "title": "RT @Ethos_io_DeFi:  Contest Update \n\nWe've added 3 more activities to our Independence from CeFi Contest, and one of them is worth TRIPLE\u2026",
+            "published_at": "2023-07-10T11:06:38Z",
+            "slug": "RT-Ethos_io_DeFi-Contest-Update-Weve-added-3-more-activities-to-our-Independence-from-CeFi-Contest-and-one-of-them-is-worth-TRIPLE",
+            "currencies": [
+                {
+                    "code": "VGX",
+                    "title": "Voyager Token",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18756056,
+            "url": "https:\/\/cryptopanic.com\/news\/18756056\/RT-Ethos_io_DeFi-Contest-Update-Weve-added-3-more-activities-to-our-Independence-from-CeFi-Contest-and-one-of-them-is-worth-TRIPLE",
+            "created_at": "2023-07-10T11:06:38Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Ethos_io",
+            "source": {
+                "title": "Ethos Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@ethos_io"
+            },
+            "title": "RT @Ethos_io_DeFi: Set a reminder for our upcoming Space!\nEthos Connect: Ep2 - Wednesday Open Chat\n@Ethos_io #Ethos_io",
+            "published_at": "2023-07-05T21:59:44Z",
+            "slug": "RT-Ethos_io_DeFi-Set-a-reminder-for-our-upcoming-Space-Ethos-Connect-Ep2-Wednesday-Open-Chat-Ethos_io-Ethos_io",
+            "currencies": [
+                {
+                    "code": "VGX",
+                    "title": "Voyager Token",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18723821,
+            "url": "https:\/\/cryptopanic.com\/news\/18723821\/RT-Ethos_io_DeFi-Set-a-reminder-for-our-upcoming-Space-Ethos-Connect-Ep2-Wednesday-Open-Chat-Ethos_io-Ethos_io",
+            "created_at": "2023-07-05T21:59:44Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Ethos_io",
+            "source": {
+                "title": "Ethos Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@ethos_io"
+            },
+            "title": "RT @Ethos_io: To celebrate the launch of the #Ethos_io Self-Custody Vault, we'd like to present our Independence from CeFi contest.  \n\nCom\u2026",
+            "published_at": "2023-07-03T12:31:31Z",
+            "slug": "RT-Ethos_io-To-celebrate-the-launch-of-the-Ethos_io-Self-Custody-Vault-wed-like-to-present-our-Independence-from-CeFi-contest-Com",
+            "currencies": [
+                {
+                    "code": "VGX",
+                    "title": "Voyager Token",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18708825,
+            "url": "https:\/\/cryptopanic.com\/news\/18708825\/RT-Ethos_io-To-celebrate-the-launch-of-the-Ethos_io-Self-Custody-Vault-wed-like-to-present-our-Independence-from-CeFi-contest-Com",
+            "created_at": "2023-07-03T12:31:31Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Ethos_io",
+            "source": {
+                "title": "Ethos Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@ethos_io"
+            },
+            "title": "With the launch of the #Ethos_io Self-Custody Vault, there's sure to be many questions about the Ethos Token as wel\u2026",
+            "published_at": "2023-06-29T23:30:28Z",
+            "slug": "With-the-launch-of-the-Ethos_io-Self-Custody-Vault-theres-sure-to-be-many-questions-about-the-Ethos-Token-as-wel",
+            "currencies": [
+                {
+                    "code": "VGX",
+                    "title": "Voyager Token",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18685406,
+            "url": "https:\/\/cryptopanic.com\/news\/18685406\/With-the-launch-of-the-Ethos_io-Self-Custody-Vault-theres-sure-to-be-many-questions-about-the-Ethos-Token-as-wel",
+            "created_at": "2023-06-29T23:30:28Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Ethos_io",
+            "source": {
+                "title": "Ethos Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@ethos_io"
+            },
+            "title": "To celebrate the launch of the #Ethos_io Self-Custody Vault, we'd like to present our Independence from CeFi contes\u2026",
+            "published_at": "2023-06-29T18:30:28Z",
+            "slug": "To-celebrate-the-launch-of-the-Ethos_io-Self-Custody-Vault-wed-like-to-present-our-Independence-from-CeFi-contes",
+            "currencies": [
+                {
+                    "code": "VGX",
+                    "title": "Voyager Token",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18685407,
+            "url": "https:\/\/cryptopanic.com\/news\/18685407\/To-celebrate-the-launch-of-the-Ethos_io-Self-Custody-Vault-wed-like-to-present-our-Independence-from-CeFi-contes",
+            "created_at": "2023-06-29T18:30:28Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Ethos_io",
+            "source": {
+                "title": "Ethos Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@ethos_io"
+            },
+            "title": "We thought launching on July 4 would be a great way to say thank you on a day imbued with freedom.\nWe also thought\u2026",
+            "published_at": "2023-06-29T13:02:51Z",
+            "slug": "We-thought-launching-on-July-4-would-be-a-great-way-to-say-thank-you-on-a-day-imbued-with-freedom-We-also-thought",
+            "currencies": [
+                {
+                    "code": "VGX",
+                    "title": "Voyager Token",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18685408,
+            "url": "https:\/\/cryptopanic.com\/news\/18685408\/We-thought-launching-on-July-4-would-be-a-great-way-to-say-thank-you-on-a-day-imbued-with-freedom-We-also-thought",
+            "created_at": "2023-06-29T13:02:51Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Ethos_io",
+            "source": {
+                "title": "Ethos Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@ethos_io"
+            },
+            "title": "With Ethos, you can easily self-broadcast your transactions live on-chain without risking your assets on a centrali\u2026",
+            "published_at": "2023-06-27T21:30:24Z",
+            "slug": "With-Ethos-you-can-easily-self-broadcast-your-transactions-live-on-chain-without-risking-your-assets-on-a-centrali",
+            "currencies": [
+                {
+                    "code": "VGX",
+                    "title": "Voyager Token",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18669090,
+            "url": "https:\/\/cryptopanic.com\/news\/18669090\/With-Ethos-you-can-easily-self-broadcast-your-transactions-live-on-chain-without-risking-your-assets-on-a-centrali",
+            "created_at": "2023-06-27T21:30:24Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Ethos_io",
+            "source": {
+                "title": "Ethos Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@ethos_io"
+            },
+            "title": "RT @Ethos_io_DeFi: Good morning \nNext Wednesday at 8:00pm ET, we'll be hosting a Space with co-host @noahkaufmanmd.\nIt will be an open cha\u2026",
+            "published_at": "2023-06-27T18:27:42Z",
+            "slug": "RT-Ethos_io_DeFi-Good-morning-Next-Wednesday-at-800pm-ET-well-be-hosting-a-Space-with-co-host-noahkaufmanmd-It-will-be-an-open-cha",
+            "currencies": [
+                {
+                    "code": "VGX",
+                    "title": "Voyager Token",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18669091,
+            "url": "https:\/\/cryptopanic.com\/news\/18669091\/RT-Ethos_io_DeFi-Good-morning-Next-Wednesday-at-800pm-ET-well-be-hosting-a-Space-with-co-host-noahkaufmanmd-It-will-be-an-open-cha",
+            "created_at": "2023-06-27T18:27:42Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Ethos_io",
+            "source": {
+                "title": "Ethos Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@ethos_io"
+            },
+            "title": "The Ethos #web3 architecture is engineered from the ground up to be a gateway for new chains, protocols, and financ\u2026",
+            "published_at": "2023-06-26T21:30:13Z",
+            "slug": "The-Ethos-web3-architecture-is-engineered-from-the-ground-up-to-be-a-gateway-for-new-chains-protocols-and-financ",
+            "currencies": [
+                {
+                    "code": "VGX",
+                    "title": "Voyager Token",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18660838,
+            "url": "https:\/\/cryptopanic.com\/news\/18660838\/The-Ethos-web3-architecture-is-engineered-from-the-ground-up-to-be-a-gateway-for-new-chains-protocols-and-financ",
+            "created_at": "2023-06-26T21:30:13Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Ethos_io",
+            "source": {
+                "title": "Ethos Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@ethos_io"
+            },
+            "title": "Creating a Self-Custody Yield program is effortless.\nBuild your own custom #DeFi liquidity strategy, or implement a\u2026",
+            "published_at": "2023-06-25T17:00:16Z",
+            "slug": "Creating-a-Self-Custody-Yield-program-is-effortless-Build-your-own-custom-DeFi-liquidity-strategy-or-implement-a",
+            "currencies": [
+                {
+                    "code": "VGX",
+                    "title": "Voyager Token",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18654203,
+            "url": "https:\/\/cryptopanic.com\/news\/18654203\/Creating-a-Self-Custody-Yield-program-is-effortless-Build-your-own-custom-DeFi-liquidity-strategy-or-implement-a",
+            "created_at": "2023-06-25T17:00:16Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Ethos_io",
+            "source": {
+                "title": "Ethos Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@ethos_io"
+            },
+            "title": "We've redefined how you manage your keys. Patent-pending Magic Key technology makes 24-word seed phrases a thing of\u2026",
+            "published_at": "2023-06-24T17:00:54Z",
+            "slug": "Weve-redefined-how-you-manage-your-keys-Patent-pending-Magic-Key-technology-makes-24-word-seed-phrases-a-thing-of",
+            "currencies": [
+                {
+                    "code": "VGX",
+                    "title": "Voyager Token",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18649983,
+            "url": "https:\/\/cryptopanic.com\/news\/18649983\/Weve-redefined-how-you-manage-your-keys-Patent-pending-Magic-Key-technology-makes-24-word-seed-phrases-a-thing-of",
+            "created_at": "2023-06-24T17:00:54Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Ethos_io",
+            "source": {
+                "title": "Ethos Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@ethos_io"
+            },
+            "title": "Social Recovery allows your friends, family, and even yourself to act as social guardians, instantly blocking an un\u2026",
+            "published_at": "2023-06-23T19:02:07Z",
+            "slug": "Social-Recovery-allows-your-friends-family-and-even-yourself-to-act-as-social-guardians-instantly-blocking-an-un",
+            "currencies": [
+                {
+                    "code": "VGX",
+                    "title": "Voyager Token",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18644302,
+            "url": "https:\/\/cryptopanic.com\/news\/18644302\/Social-Recovery-allows-your-friends-family-and-even-yourself-to-act-as-social-guardians-instantly-blocking-an-un",
+            "created_at": "2023-06-23T19:02:07Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Ethos_io",
+            "source": {
+                "title": "Ethos Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@ethos_io"
+            },
+            "title": "With the Ethos Loyalty Program, you can earn #crypto rewards and rebates and level up to higher membership tiers ju\u2026",
+            "published_at": "2023-06-22T19:01:38Z",
+            "slug": "With-the-Ethos-Loyalty-Program-you-can-earn-crypto-rewards-and-rebates-and-level-up-to-higher-membership-tiers-ju",
+            "currencies": [
+                {
+                    "code": "VGX",
+                    "title": "Voyager Token",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18636569,
+            "url": "https:\/\/cryptopanic.com\/news\/18636569\/With-the-Ethos-Loyalty-Program-you-can-earn-crypto-rewards-and-rebates-and-level-up-to-higher-membership-tiers-ju",
+            "created_at": "2023-06-22T19:01:38Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Ethos_io",
+            "source": {
+                "title": "Ethos Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@ethos_io"
+            },
+            "title": "Ethos has real-time data, analytics, top news headlines, and prices from dozens of sources.  \n\nAll the latest info\u2026",
+            "published_at": "2023-06-21T22:00:07Z",
+            "slug": "Ethos-has-real-time-data-analytics-top-news-headlines-and-prices-from-dozens-of-sources-All-the-latest-info",
+            "currencies": [
+                {
+                    "code": "VGX",
+                    "title": "Voyager Token",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18628005,
+            "url": "https:\/\/cryptopanic.com\/news\/18628005\/Ethos-has-real-time-data-analytics-top-news-headlines-and-prices-from-dozens-of-sources-All-the-latest-info",
+            "created_at": "2023-06-21T22:00:07Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Ethos_io",
+            "source": {
+                "title": "Ethos Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@ethos_io"
+            },
+            "title": "The Ethos Vault transforms your mobile phone into a hardware wallet by storing your keys on your phone's offline se\u2026",
+            "published_at": "2023-06-20T23:05:34Z",
+            "slug": "The-Ethos-Vault-transforms-your-mobile-phone-into-a-hardware-wallet-by-storing-your-keys-on-your-phones-offline-se",
+            "currencies": [
+                {
+                    "code": "VGX",
+                    "title": "Voyager Token",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18620024,
+            "url": "https:\/\/cryptopanic.com\/news\/18620024\/The-Ethos-Vault-transforms-your-mobile-phone-into-a-hardware-wallet-by-storing-your-keys-on-your-phones-offline-se",
+            "created_at": "2023-06-20T23:05:34Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Ethos_io",
+            "source": {
+                "title": "Ethos Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@ethos_io"
+            },
+            "title": "RT @shingolavine: Getting very close to @Ethos_io application launch. Ethos app is planned to be available during the @investvoyager withdr\u2026",
+            "published_at": "2023-06-20T11:29:00Z",
+            "slug": "RT-shingolavine-Getting-very-close-to-Ethos_io-application-launch-Ethos-app-is-planned-to-be-available-during-the-investvoyager-withdr",
+            "currencies": [
+                {
+                    "code": "VGX",
+                    "title": "Voyager Token",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18620025,
+            "url": "https:\/\/cryptopanic.com\/news\/18620025\/RT-shingolavine-Getting-very-close-to-Ethos_io-application-launch-Ethos-app-is-planned-to-be-available-during-the-investvoyager-withdr",
+            "created_at": "2023-06-20T11:29:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Ethos_io",
+            "source": {
+                "title": "Ethos Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@ethos_io"
+            },
+            "title": "TGIF!  \n\nToday we've emailed our first #Ethos_io Flash Friday Update. Inside this weekly newsletter, you'll find a\u2026",
+            "published_at": "2023-05-26T20:00:20Z",
+            "slug": "TGIF-Today-weve-emailed-our-first-Ethos_io-Flash-Friday-Update-Inside-this-weekly-newsletter-youll-find-a",
+            "currencies": [
+                {
+                    "code": "VGX",
+                    "title": "Voyager Token",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18441149,
+            "url": "https:\/\/cryptopanic.com\/news\/18441149\/TGIF-Today-weve-emailed-our-first-Ethos_io-Flash-Friday-Update-Inside-this-weekly-newsletter-youll-find-a",
+            "created_at": "2023-05-26T20:00:20Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Ethos_io",
+            "source": {
+                "title": "Ethos Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@ethos_io"
+            },
+            "title": "Hardware Wallet Security has been a hot topic recently.\nIn our latest Blog post, we break it down, explain the tech\u2026",
+            "published_at": "2023-05-25T14:01:10Z",
+            "slug": "Hardware-Wallet-Security-has-been-a-hot-topic-recently-In-our-latest-Blog-post-we-break-it-down-explain-the-tech",
+            "currencies": [
+                {
+                    "code": "VGX",
+                    "title": "Voyager Token",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18432765,
+            "url": "https:\/\/cryptopanic.com\/news\/18432765\/Hardware-Wallet-Security-has-been-a-hot-topic-recently-In-our-latest-Blog-post-we-break-it-down-explain-the-tech",
+            "created_at": "2023-05-25T14:01:10Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Ethos_io",
+            "source": {
+                "title": "Ethos Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@ethos_io"
+            },
+            "title": " We're happy to announce the 2nd batch of Ethos Beta downloads has just been rolled out to nearly 1000 Product Cou\u2026",
+            "published_at": "2023-05-11T14:30:04Z",
+            "slug": "Were-happy-to-announce-the-2nd-batch-of-Ethos-Beta-downloads-has-just-been-rolled-out-to-nearly-1000-Product-Cou",
+            "currencies": [
+                {
+                    "code": "VGX",
+                    "title": "Voyager Token",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18321461,
+            "url": "https:\/\/cryptopanic.com\/news\/18321461\/Were-happy-to-announce-the-2nd-batch-of-Ethos-Beta-downloads-has-just-been-rolled-out-to-nearly-1000-Product-Cou",
+            "created_at": "2023-05-11T14:30:04Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

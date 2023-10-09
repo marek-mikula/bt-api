@@ -1,0 +1,893 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=MATIC&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "coinedition.com",
+            "source": {
+                "title": "coinedition",
+                "region": "en",
+                "domain": "coinedition.com",
+                "path": null
+            },
+            "title": "Top 5 Layer 2 Tokens by Market Capitalization",
+            "published_at": "2023-10-03T07:09:08Z",
+            "slug": "Top-5-Layer-2-Tokens-by-Market-Capitalization",
+            "currencies": [
+                {
+                    "code": "MATIC",
+                    "title": "Polygon",
+                    "slug": "matic-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-network\/"
+                }
+            ],
+            "id": 18943710,
+            "url": "https:\/\/cryptopanic.com\/news\/18943710\/Top-5-Layer-2-Tokens-by-Market-Capitalization",
+            "created_at": "2023-10-03T07:09:08Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "MATIC Price Hits 1-Month Peak as Google Becomes Official Polygon Validator",
+            "published_at": "2023-10-02T16:00:00Z",
+            "slug": "MATIC-Price-Hits-1-Month-Peak-as-Google-Becomes-Official-Polygon-Validator",
+            "currencies": [
+                {
+                    "code": "MATIC",
+                    "title": "Polygon",
+                    "slug": "matic-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-network\/"
+                }
+            ],
+            "id": 18942672,
+            "url": "https:\/\/cryptopanic.com\/news\/18942672\/MATIC-Price-Hits-1-Month-Peak-as-Google-Becomes-Official-Polygon-Validator",
+            "created_at": "2023-10-02T16:00:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "bitcoinist.com",
+            "source": {
+                "title": "Bitcoinist",
+                "region": "en",
+                "domain": "bitcoinist.com",
+                "path": null
+            },
+            "title": "Huge Surges: Polygon (MATIC) Soars After Dragon Fruit Upgrade,  Everlodge (ELDG) Continues to Deliver Impressive Returns and Uniswap (UNI) Hits 200M Transactions Milestone!",
+            "published_at": "2023-10-02T08:07:54Z",
+            "slug": "Huge-Surges-Polygon-MATIC-Soars-After-Dragon-Fruit-Upgrade-Everlodge-ELDG-Continues-to-Deliver-Impressive-Returns-and-Uniswap-UNI-Hits-200M-Transactions-Milestone",
+            "currencies": [
+                {
+                    "code": "MATIC",
+                    "title": "Polygon",
+                    "slug": "matic-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-network\/"
+                },
+                {
+                    "code": "UNI",
+                    "title": "Uniswap",
+                    "slug": "uniswap",
+                    "url": "https:\/\/cryptopanic.com\/news\/uniswap\/"
+                }
+            ],
+            "id": 18941349,
+            "url": "https:\/\/cryptopanic.com\/news\/18941349\/Huge-Surges-Polygon-MATIC-Soars-After-Dragon-Fruit-Upgrade-Everlodge-ELDG-Continues-to-Deliver-Impressive-Returns-and-Uniswap-UNI-Hits-200M-Transactions-Milestone",
+            "created_at": "2023-10-02T08:07:54Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptointelligence.co.uk",
+            "source": {
+                "title": "cryptointelligence",
+                "region": "en",
+                "domain": "cryptointelligence.co.uk",
+                "path": null
+            },
+            "title": "Google Cloud Joins Polygon Network as Validator, Boosting Blockchain Security",
+            "published_at": "2023-10-01T17:30:00Z",
+            "slug": "Google-Cloud-Joins-Polygon-Network-as-Validator-Boosting-Blockchain-Security",
+            "currencies": [
+                {
+                    "code": "MATIC",
+                    "title": "Polygon",
+                    "slug": "matic-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-network\/"
+                }
+            ],
+            "id": 18940503,
+            "url": "https:\/\/cryptopanic.com\/news\/18940503\/Google-Cloud-Joins-Polygon-Network-as-Validator-Boosting-Blockchain-Security",
+            "created_at": "2023-10-01T17:30:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "I probed ChatGPT about MATIC\u2019s journey at the tail end of 2023",
+            "published_at": "2023-10-01T14:02:47Z",
+            "slug": "I-probed-ChatGPT-about-MATICs-journey-at-the-tail-end-of-2023",
+            "currencies": [
+                {
+                    "code": "MATIC",
+                    "title": "Polygon",
+                    "slug": "matic-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-network\/"
+                }
+            ],
+            "id": 18940311,
+            "url": "https:\/\/cryptopanic.com\/news\/18940311\/I-probed-ChatGPT-about-MATICs-journey-at-the-tail-end-of-2023",
+            "created_at": "2023-10-01T14:02:47Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "feeds2.benzinga.com",
+            "source": {
+                "title": "Benzinga",
+                "region": "en",
+                "domain": "feeds2.benzinga.com",
+                "path": null
+            },
+            "title": "Google Cloud Joins The List of 100-Plus Validators On Polygon's Network",
+            "published_at": "2023-09-30T19:16:38Z",
+            "slug": "Google-Cloud-Joins-The-List-of-100-Plus-Validators-On-Polygons-Network",
+            "currencies": [
+                {
+                    "code": "MATIC",
+                    "title": "Polygon",
+                    "slug": "matic-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-network\/"
+                }
+            ],
+            "id": 18939544,
+            "url": "https:\/\/cryptopanic.com\/news\/18939544\/Google-Cloud-Joins-The-List-of-100-Plus-Validators-On-Polygons-Network",
+            "created_at": "2023-09-30T19:16:38Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "dailyhodl.com",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 1,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 1,
+                "comments": 0
+            },
+            "source": {
+                "title": "The Daily Hodl",
+                "region": "en",
+                "domain": "dailyhodl.com",
+                "path": null
+            },
+            "title": "Google Cloud Now a Polygon (MATIC) Network Validator Nearly a Year After Unveiling Same Service for Solana (SOL)",
+            "published_at": "2023-09-30T18:45:12Z",
+            "slug": "Google-Cloud-Now-a-Polygon-MATIC-Network-Validator-Nearly-a-Year-After-Unveiling-Same-Service-for-Solana-SOL",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "MATIC",
+                    "title": "Polygon",
+                    "slug": "matic-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-network\/"
+                }
+            ],
+            "id": 18939515,
+            "url": "https:\/\/cryptopanic.com\/news\/18939515\/Google-Cloud-Now-a-Polygon-MATIC-Network-Validator-Nearly-a-Year-After-Unveiling-Same-Service-for-Solana-SOL",
+            "created_at": "2023-09-30T18:45:12Z"
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "Polygon zkEVM registers growth, but there\u2019s more to the story",
+            "published_at": "2023-09-30T18:30:00Z",
+            "slug": "Polygon-zkEVM-registers-growth-but-theres-more-to-the-story",
+            "currencies": [
+                {
+                    "code": "MATIC",
+                    "title": "Polygon",
+                    "slug": "matic-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-network\/"
+                }
+            ],
+            "id": 18939495,
+            "url": "https:\/\/cryptopanic.com\/news\/18939495\/Polygon-zkEVM-registers-growth-but-theres-more-to-the-story",
+            "created_at": "2023-09-30T18:30:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "Google Cloud Joins Polygon as Validator, Stakes Over 10,000 MATIC",
+            "published_at": "2023-09-30T12:30:00Z",
+            "slug": "Google-Cloud-Joins-Polygon-as-Validator-Stakes-Over-10000-MATIC",
+            "currencies": [
+                {
+                    "code": "MATIC",
+                    "title": "Polygon",
+                    "slug": "matic-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-network\/"
+                }
+            ],
+            "id": 18939085,
+            "url": "https:\/\/cryptopanic.com\/news\/18939085\/Google-Cloud-Joins-Polygon-as-Validator-Stakes-Over-10000-MATIC",
+            "created_at": "2023-09-30T12:30:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinedition.com",
+            "source": {
+                "title": "coinedition",
+                "region": "en",
+                "domain": "coinedition.com",
+                "path": null
+            },
+            "title": "LINK, MATIC, ETH Rise as Altcoin Market Gets Capital Injection",
+            "published_at": "2023-09-30T09:48:00Z",
+            "slug": "LINK-MATIC-ETH-Rise-as-Altcoin-Market-Gets-Capital-Injection",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "MATIC",
+                    "title": "Polygon",
+                    "slug": "matic-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-network\/"
+                },
+                {
+                    "code": "LINK",
+                    "title": "Chainlink",
+                    "slug": "chainlink",
+                    "url": "https:\/\/cryptopanic.com\/news\/chainlink\/"
+                },
+                {
+                    "code": "XLM",
+                    "title": "Stellar",
+                    "slug": "stellar",
+                    "url": "https:\/\/cryptopanic.com\/news\/stellar\/"
+                }
+            ],
+            "id": 18938881,
+            "url": "https:\/\/cryptopanic.com\/news\/18938881\/LINK-MATIC-ETH-Rise-as-Altcoin-Market-Gets-Capital-Injection",
+            "created_at": "2023-09-30T09:48:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinedition.com",
+            "source": {
+                "title": "coinedition",
+                "region": "en",
+                "domain": "coinedition.com",
+                "path": null
+            },
+            "title": "Polygon Sees Google Cloud Enter Its Pool of Network Validators",
+            "published_at": "2023-09-30T09:05:00Z",
+            "slug": "Polygon-Sees-Google-Cloud-Enter-Its-Pool-of-Network-Validators",
+            "currencies": [
+                {
+                    "code": "MATIC",
+                    "title": "Polygon",
+                    "slug": "matic-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-network\/"
+                }
+            ],
+            "id": 18938838,
+            "url": "https:\/\/cryptopanic.com\/news\/18938838\/Polygon-Sees-Google-Cloud-Enter-Its-Pool-of-Network-Validators",
+            "created_at": "2023-09-30T09:05:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coingabbar.com",
+            "source": {
+                "title": "coingabbar",
+                "region": "en",
+                "domain": "coingabbar.com",
+                "path": null
+            },
+            "title": "Crypto Daily Roundup, 30 Sep: Signs of crypto market recovery",
+            "published_at": "2023-09-30T08:30:00Z",
+            "slug": "Crypto-Daily-Roundup-30-Sep-Signs-of-crypto-market-recovery",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                },
+                {
+                    "code": "MATIC",
+                    "title": "Polygon",
+                    "slug": "matic-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-network\/"
+                },
+                {
+                    "code": "SHIB",
+                    "title": "Shiba Inu",
+                    "slug": "shiba-inu",
+                    "url": "https:\/\/cryptopanic.com\/news\/shiba-inu\/"
+                },
+                {
+                    "code": "MKR",
+                    "title": "Maker",
+                    "slug": "maker",
+                    "url": "https:\/\/cryptopanic.com\/news\/maker\/"
+                },
+                {
+                    "code": "GT",
+                    "title": "Gate",
+                    "slug": "gatechain-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/gatechain-token\/"
+                }
+            ],
+            "id": 18938801,
+            "url": "https:\/\/cryptopanic.com\/news\/18938801\/Crypto-Daily-Roundup-30-Sep-Signs-of-crypto-market-recovery",
+            "created_at": "2023-09-30T08:30:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "MATIC may take a while to respond to this Polygon news. Here\u2019s why\u2026",
+            "published_at": "2023-09-30T06:30:41Z",
+            "slug": "MATIC-may-take-a-while-to-respond-to-this-Polygon-news-Heres-why",
+            "currencies": [
+                {
+                    "code": "MATIC",
+                    "title": "Polygon",
+                    "slug": "matic-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-network\/"
+                }
+            ],
+            "id": 18938698,
+            "url": "https:\/\/cryptopanic.com\/news\/18938698\/MATIC-may-take-a-while-to-respond-to-this-Polygon-news-Heres-why",
+            "created_at": "2023-09-30T06:30:41Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "Assessing Polygon\u2019s state ahead of USDC\u2019s integration",
+            "published_at": "2023-09-30T02:30:43Z",
+            "slug": "Assessing-Polygons-state-ahead-of-USDCs-integration",
+            "currencies": [
+                {
+                    "code": "USDC",
+                    "title": "USDC",
+                    "slug": "usd-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/usd-coin\/"
+                },
+                {
+                    "code": "MATIC",
+                    "title": "Polygon",
+                    "slug": "matic-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-network\/"
+                }
+            ],
+            "id": 18938581,
+            "url": "https:\/\/cryptopanic.com\/news\/18938581\/Assessing-Polygons-state-ahead-of-USDCs-integration",
+            "created_at": "2023-09-30T02:30:43Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coingape.com",
+            "source": {
+                "title": "CoinGape",
+                "region": "en",
+                "domain": "coingape.com",
+                "path": null
+            },
+            "title": "Bitwise To Launch Bitcoin Ethereum Strategy ETF On October 2",
+            "published_at": "2023-09-30T01:38:49Z",
+            "slug": "Bitwise-To-Launch-Bitcoin-Ethereum-Strategy-ETF-On-October-2",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "MATIC",
+                    "title": "Polygon",
+                    "slug": "matic-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-network\/"
+                }
+            ],
+            "id": 18938554,
+            "url": "https:\/\/cryptopanic.com\/news\/18938554\/Bitwise-To-Launch-Bitcoin-Ethereum-Strategy-ETF-On-October-2",
+            "created_at": "2023-09-30T01:38:49Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coingabbar.com",
+            "source": {
+                "title": "coingabbar",
+                "region": "en",
+                "domain": "coingabbar.com",
+                "path": null
+            },
+            "title": "24 Crypto Update, 29 Sep: Crypto market remained relatively stable",
+            "published_at": "2023-09-30T01:30:00Z",
+            "slug": "24-Crypto-Update-29-Sep-Crypto-market-remained-relatively-stable",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "USDC",
+                    "title": "USDC",
+                    "slug": "usd-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/usd-coin\/"
+                },
+                {
+                    "code": "MATIC",
+                    "title": "Polygon",
+                    "slug": "matic-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-network\/"
+                },
+                {
+                    "code": "LTC",
+                    "title": "Litecoin",
+                    "slug": "litecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/litecoin\/"
+                },
+                {
+                    "code": "MKR",
+                    "title": "Maker",
+                    "slug": "maker",
+                    "url": "https:\/\/cryptopanic.com\/news\/maker\/"
+                },
+                {
+                    "code": "FLOW",
+                    "title": "Flow",
+                    "slug": "flow",
+                    "url": "https:\/\/cryptopanic.com\/news\/flow\/"
+                },
+                {
+                    "code": "GALA",
+                    "title": "GALA",
+                    "slug": "gala",
+                    "url": "https:\/\/cryptopanic.com\/news\/gala\/"
+                }
+            ],
+            "id": 18938693,
+            "url": "https:\/\/cryptopanic.com\/news\/18938693\/24-Crypto-Update-29-Sep-Crypto-market-remained-relatively-stable",
+            "created_at": "2023-09-30T01:30:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 2,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 1
+            },
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Cosmos Has A Grand Plan For 2024: Will It Crush Ethereum?",
+            "published_at": "2023-09-29T22:00:00Z",
+            "slug": "Cosmos-Has-A-Grand-Plan-For-2024-Will-It-Crush-Ethereum",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "BNB",
+                    "title": "BNB",
+                    "slug": "binancecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/binancecoin\/"
+                },
+                {
+                    "code": "MATIC",
+                    "title": "Polygon",
+                    "slug": "matic-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-network\/"
+                },
+                {
+                    "code": "AVAX",
+                    "title": "Avalanche",
+                    "slug": "avalanche-2",
+                    "url": "https:\/\/cryptopanic.com\/news\/avalanche-2\/"
+                },
+                {
+                    "code": "ATOM",
+                    "title": "Cosmos Hub",
+                    "slug": "cosmos",
+                    "url": "https:\/\/cryptopanic.com\/news\/cosmos\/"
+                },
+                {
+                    "code": "OP",
+                    "title": "Optimism",
+                    "slug": "optimism",
+                    "url": "https:\/\/cryptopanic.com\/news\/optimism\/"
+                }
+            ],
+            "id": 18938402,
+            "url": "https:\/\/cryptopanic.com\/news\/18938402\/Cosmos-Has-A-Grand-Plan-For-2024-Will-It-Crush-Ethereum",
+            "created_at": "2023-09-29T22:00:00Z"
+        },
+        {
+            "kind": "news",
+            "domain": "coingape.com",
+            "source": {
+                "title": "CoinGape",
+                "region": "en",
+                "domain": "coingape.com",
+                "path": null
+            },
+            "title": "September Check: Polygon Lands Google Cloud as its Latest Validator",
+            "published_at": "2023-09-29T21:32:51Z",
+            "slug": "September-Check-Polygon-Lands-Google-Cloud-as-its-Latest-Validator",
+            "currencies": [
+                {
+                    "code": "MATIC",
+                    "title": "Polygon",
+                    "slug": "matic-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-network\/"
+                }
+            ],
+            "id": 18938378,
+            "url": "https:\/\/cryptopanic.com\/news\/18938378\/September-Check-Polygon-Lands-Google-Cloud-as-its-Latest-Validator",
+            "created_at": "2023-09-29T21:32:51Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptoslate.com",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "CryptoSlate",
+                "region": "en",
+                "domain": "cryptoslate.com",
+                "path": null
+            },
+            "title": "Polygon adds Google Cloud to its validator set",
+            "published_at": "2023-09-29T20:20:48Z",
+            "slug": "Polygon-adds-Google-Cloud-to-its-validator-set",
+            "currencies": [
+                {
+                    "code": "MATIC",
+                    "title": "Polygon",
+                    "slug": "matic-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-network\/"
+                }
+            ],
+            "id": 18938270,
+            "url": "https:\/\/cryptopanic.com\/news\/18938270\/Polygon-adds-Google-Cloud-to-its-validator-set",
+            "created_at": "2023-09-29T20:20:48Z"
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "MATIC Price Downtrend Halted As Google Cloud Joins Polygon Network",
+            "published_at": "2023-09-29T19:30:59Z",
+            "slug": "MATIC-Price-Downtrend-Halted-As-Google-Cloud-Joins-Polygon-Network",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "MATIC",
+                    "title": "Polygon",
+                    "slug": "matic-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-network\/"
+                }
+            ],
+            "id": 18938207,
+            "url": "https:\/\/cryptopanic.com\/news\/18938207\/MATIC-Price-Downtrend-Halted-As-Google-Cloud-Joins-Polygon-Network",
+            "created_at": "2023-09-29T19:30:59Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

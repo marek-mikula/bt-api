@@ -1,0 +1,869 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=COMP&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "Compound rallies 23% within a day, should buyers await a retracement?",
+            "published_at": "2023-09-29T06:30:00Z",
+            "slug": "Compound-rallies-23-within-a-day-should-buyers-await-a-retracement",
+            "currencies": [
+                {
+                    "code": "COMP",
+                    "title": "Compound",
+                    "slug": "compound-governance-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/compound-governance-token\/"
+                }
+            ],
+            "id": 18936335,
+            "url": "https:\/\/cryptopanic.com\/news\/18936335\/Compound-rallies-23-within-a-day-should-buyers-await-a-retracement",
+            "created_at": "2023-09-29T06:30:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cointelegraph.com",
+            "source": {
+                "title": "CoinTelegraph",
+                "region": "en",
+                "domain": "cointelegraph.com",
+                "path": null
+            },
+            "title": "DeFi group petitions to stop \u2018patent troll\u2019 targeting DeFi protocols",
+            "published_at": "2023-09-12T06:09:00Z",
+            "slug": "DeFi-group-petitions-to-stop-patent-troll-targeting-DeFi-protocols",
+            "currencies": [
+                {
+                    "code": "COMP",
+                    "title": "Compound",
+                    "slug": "compound-governance-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/compound-governance-token\/"
+                }
+            ],
+            "id": 18896004,
+            "url": "https:\/\/cryptopanic.com\/news\/18896004\/DeFi-group-petitions-to-stop-patent-troll-targeting-DeFi-protocols",
+            "created_at": "2023-09-12T06:09:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "Charting Compound\u2019s path forward amid Base partnership",
+            "published_at": "2023-08-16T11:30:14Z",
+            "slug": "Charting-Compounds-path-forward-amid-Base-partnership",
+            "currencies": [
+                {
+                    "code": "COMP",
+                    "title": "Compound",
+                    "slug": "compound-governance-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/compound-governance-token\/"
+                }
+            ],
+            "id": 18840376,
+            "url": "https:\/\/cryptopanic.com\/news\/18840376\/Charting-Compounds-path-forward-amid-Base-partnership",
+            "created_at": "2023-08-16T11:30:14Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinidol.com",
+            "source": {
+                "title": "Coin Idol",
+                "region": "en",
+                "domain": "coinidol.com",
+                "path": null
+            },
+            "title": "Weekly Cryptocurrency Market Analysis: Altcoins Are In A Range While Waiting For A Possible Upswing",
+            "published_at": "2023-08-11T10:20:00Z",
+            "slug": "Weekly-Cryptocurrency-Market-Analysis-Altcoins-Are-In-A-Range-While-Waiting-For-A-Possible-Upswing",
+            "currencies": [
+                {
+                    "code": "OP",
+                    "title": "Optimism",
+                    "slug": "optimism",
+                    "url": "https:\/\/cryptopanic.com\/news\/optimism\/"
+                },
+                {
+                    "code": "COMP",
+                    "title": "Compound",
+                    "slug": "compound-governance-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/compound-governance-token\/"
+                }
+            ],
+            "id": 18832124,
+            "url": "https:\/\/cryptopanic.com\/news\/18832124\/Weekly-Cryptocurrency-Market-Analysis-Altcoins-Are-In-A-Range-While-Waiting-For-A-Possible-Upswing",
+            "created_at": "2023-08-11T10:20:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "Compound prices dip as investors take profits following a brief jump",
+            "published_at": "2023-08-07T22:30:35Z",
+            "slug": "Compound-prices-dip-as-investors-take-profits-following-a-brief-jump",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "COMP",
+                    "title": "Compound",
+                    "slug": "compound-governance-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/compound-governance-token\/"
+                }
+            ],
+            "id": 18823357,
+            "url": "https:\/\/cryptopanic.com\/news\/18823357\/Compound-prices-dip-as-investors-take-profits-following-a-brief-jump",
+            "created_at": "2023-08-07T22:30:35Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "votes": {
+                "negative": 1,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 1,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Compound (COMP) Bears Take Full Control As Price Dips 20% In 7 Days",
+            "published_at": "2023-08-06T13:50:57Z",
+            "slug": "Compound-COMP-Bears-Take-Full-Control-As-Price-Dips-20-In-7-Days",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                },
+                {
+                    "code": "COMP",
+                    "title": "Compound",
+                    "slug": "compound-governance-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/compound-governance-token\/"
+                }
+            ],
+            "id": 18820564,
+            "url": "https:\/\/cryptopanic.com\/news\/18820564\/Compound-COMP-Bears-Take-Full-Control-As-Price-Dips-20-In-7-Days",
+            "created_at": "2023-08-06T13:50:57Z"
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Binance Approves Shiba Inu As Collateral: What Does This Signal For SHIB\u2019s Future?",
+            "published_at": "2023-08-04T11:50:46Z",
+            "slug": "Binance-Approves-Shiba-Inu-As-Collateral-What-Does-This-Signal-For-SHIBs-Future",
+            "currencies": [
+                {
+                    "code": "SHIB",
+                    "title": "Shiba Inu",
+                    "slug": "shiba-inu",
+                    "url": "https:\/\/cryptopanic.com\/news\/shiba-inu\/"
+                },
+                {
+                    "code": "COMP",
+                    "title": "Compound",
+                    "slug": "compound-governance-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/compound-governance-token\/"
+                }
+            ],
+            "id": 18817406,
+            "url": "https:\/\/cryptopanic.com\/news\/18817406\/Binance-Approves-Shiba-Inu-As-Collateral-What-Does-This-Signal-For-SHIBs-Future",
+            "created_at": "2023-08-04T11:50:46Z"
+        },
+        {
+            "kind": "news",
+            "domain": "coingape.com",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "CoinGape",
+                "region": "en",
+                "domain": "coingape.com",
+                "path": null
+            },
+            "title": "Binance Announces Shiba Inu As Collateral Asset, Shibarium\u2019s BONE Listing Coming?",
+            "published_at": "2023-08-04T06:59:56Z",
+            "slug": "Binance-Announces-Shiba-Inu-As-Collateral-Asset-Shibariums-BONE-Listing-Coming",
+            "currencies": [
+                {
+                    "code": "SHIB",
+                    "title": "Shiba Inu",
+                    "slug": "shiba-inu",
+                    "url": "https:\/\/cryptopanic.com\/news\/shiba-inu\/"
+                },
+                {
+                    "code": "THETA",
+                    "title": "Theta Network",
+                    "slug": "theta-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/theta-token\/"
+                },
+                {
+                    "code": "COMP",
+                    "title": "Compound",
+                    "slug": "compound-governance-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/compound-governance-token\/"
+                }
+            ],
+            "id": 18816734,
+            "url": "https:\/\/cryptopanic.com\/news\/18816734\/Binance-Announces-Shiba-Inu-As-Collateral-Asset-Shibariums-BONE-Listing-Coming",
+            "created_at": "2023-08-04T06:59:56Z"
+        },
+        {
+            "kind": "news",
+            "domain": "coinedition.com",
+            "source": {
+                "title": "coinedition",
+                "region": "en",
+                "domain": "coinedition.com",
+                "path": null
+            },
+            "title": "Whale Activity for AAVE, APE, COMP, IMX, LDO, MDT Spikes",
+            "published_at": "2023-08-03T13:22:12Z",
+            "slug": "Whale-Activity-for-AAVE-APE-COMP-IMX-LDO-MDT-Spikes",
+            "currencies": [
+                {
+                    "code": "LDO",
+                    "title": "Lido DAO",
+                    "slug": "lido-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/lido-dao\/"
+                },
+                {
+                    "code": "AAVE",
+                    "title": "Aave",
+                    "slug": "aave",
+                    "url": "https:\/\/cryptopanic.com\/news\/aave\/"
+                },
+                {
+                    "code": "APE",
+                    "title": "ApeCoin",
+                    "slug": "apecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/apecoin\/"
+                },
+                {
+                    "code": "COMP",
+                    "title": "Compound",
+                    "slug": "compound-governance-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/compound-governance-token\/"
+                }
+            ],
+            "id": 18815157,
+            "url": "https:\/\/cryptopanic.com\/news\/18815157\/Whale-Activity-for-AAVE-APE-COMP-IMX-LDO-MDT-Spikes",
+            "created_at": "2023-08-03T13:22:12Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cointelegraph.com",
+            "source": {
+                "title": "CoinTelegraph",
+                "region": "en",
+                "domain": "cointelegraph.com",
+                "path": null
+            },
+            "title": "Protocol to identify \u2018systemically important\u2019 blockchain banks could help prevent a market crash: Study",
+            "published_at": "2023-08-02T21:00:00Z",
+            "slug": "Protocol-to-identify-systemically-important-blockchain-banks-could-help-prevent-a-market-crash-Study",
+            "currencies": [
+                {
+                    "code": "COMP",
+                    "title": "Compound",
+                    "slug": "compound-governance-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/compound-governance-token\/"
+                },
+                {
+                    "code": "LEND",
+                    "title": "Aave [OLD]",
+                    "slug": "ethlend",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethlend\/"
+                }
+            ],
+            "id": 18813550,
+            "url": "https:\/\/cryptopanic.com\/news\/18813550\/Protocol-to-identify-systemically-important-blockchain-banks-could-help-prevent-a-market-crash-Study",
+            "created_at": "2023-08-02T21:00:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ethereumworldnews.com",
+            "source": {
+                "title": "Ethereum World News",
+                "region": "en",
+                "domain": "ethereumworldnews.com",
+                "path": null
+            },
+            "title": "COMP and MKR lead altcoin rally as regulatory uncertainty rallies",
+            "published_at": "2023-08-02T14:07:34Z",
+            "slug": "COMP-and-MKR-lead-altcoin-rally-as-regulatory-uncertainty-rallies",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "UNI",
+                    "title": "Uniswap",
+                    "slug": "uniswap",
+                    "url": "https:\/\/cryptopanic.com\/news\/uniswap\/"
+                },
+                {
+                    "code": "MKR",
+                    "title": "Maker",
+                    "slug": "maker",
+                    "url": "https:\/\/cryptopanic.com\/news\/maker\/"
+                },
+                {
+                    "code": "COMP",
+                    "title": "Compound",
+                    "slug": "compound-governance-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/compound-governance-token\/"
+                }
+            ],
+            "id": 18812705,
+            "url": "https:\/\/cryptopanic.com\/news\/18812705\/COMP-and-MKR-lead-altcoin-rally-as-regulatory-uncertainty-rallies",
+            "created_at": "2023-08-02T14:07:34Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "MKR, COMP lead DeFi revival against rough patch",
+            "published_at": "2023-08-01T11:30:51Z",
+            "slug": "MKR-COMP-lead-DeFi-revival-against-rough-patch",
+            "currencies": [
+                {
+                    "code": "COMP",
+                    "title": "Compound",
+                    "slug": "compound-governance-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/compound-governance-token\/"
+                }
+            ],
+            "id": 18809595,
+            "url": "https:\/\/cryptopanic.com\/news\/18809595\/MKR-COMP-lead-DeFi-revival-against-rough-patch",
+            "created_at": "2023-08-01T11:30:51Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "votes": {
+                "negative": 1,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Ethereum DeFi Coins Plunge As Curve Concerns Threaten Major Market Crash",
+            "published_at": "2023-08-01T07:45:41Z",
+            "slug": "Ethereum-DeFi-Coins-Plunge-As-Curve-Concerns-Threaten-Major-Market-Crash",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "AAVE",
+                    "title": "Aave",
+                    "slug": "aave",
+                    "url": "https:\/\/cryptopanic.com\/news\/aave\/"
+                },
+                {
+                    "code": "FRAX",
+                    "title": "Frax",
+                    "slug": "frax",
+                    "url": "https:\/\/cryptopanic.com\/news\/frax\/"
+                },
+                {
+                    "code": "CRV",
+                    "title": "Curve DAO",
+                    "slug": "curve-dao-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/curve-dao-token\/"
+                },
+                {
+                    "code": "COMP",
+                    "title": "Compound",
+                    "slug": "compound-governance-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/compound-governance-token\/"
+                },
+                {
+                    "code": "LEND",
+                    "title": "Aave [OLD]",
+                    "slug": "ethlend",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethlend\/"
+                }
+            ],
+            "id": 18809093,
+            "url": "https:\/\/cryptopanic.com\/news\/18809093\/Ethereum-DeFi-Coins-Plunge-As-Curve-Concerns-Threaten-Major-Market-Crash",
+            "created_at": "2023-08-01T07:45:41Z"
+        },
+        {
+            "kind": "news",
+            "domain": "coindesk.com",
+            "source": {
+                "title": "CoinDesk",
+                "region": "en",
+                "domain": "coindesk.com",
+                "path": null
+            },
+            "title": "First Mover Asia: BTC, ETH Stable While COMP and AAVE in the Red",
+            "published_at": "2023-08-01T01:06:08Z",
+            "slug": "First-Mover-Asia-BTC-ETH-Stable-While-COMP-and-AAVE-in-the-Red",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "LTC",
+                    "title": "Litecoin",
+                    "slug": "litecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/litecoin\/"
+                },
+                {
+                    "code": "AAVE",
+                    "title": "Aave",
+                    "slug": "aave",
+                    "url": "https:\/\/cryptopanic.com\/news\/aave\/"
+                },
+                {
+                    "code": "COMP",
+                    "title": "Compound",
+                    "slug": "compound-governance-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/compound-governance-token\/"
+                }
+            ],
+            "id": 18808697,
+            "url": "https:\/\/cryptopanic.com\/news\/18808697\/First-Mover-Asia-BTC-ETH-Stable-While-COMP-and-AAVE-in-the-Red",
+            "created_at": "2023-08-01T01:06:08Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinedition.com",
+            "votes": {
+                "negative": 1,
+                "positive": 0,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "coinedition",
+                "region": "en",
+                "domain": "coinedition.com",
+                "path": null
+            },
+            "title": "Compound (COMP) Defies Bearish Trends With a 3+% Price Ascent",
+            "published_at": "2023-07-31T13:08:00Z",
+            "slug": "Compound-COMP-Defies-Bearish-Trends-With-a-3-Price-Ascent",
+            "currencies": [
+                {
+                    "code": "COMP",
+                    "title": "Compound",
+                    "slug": "compound-governance-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/compound-governance-token\/"
+                }
+            ],
+            "id": 18807633,
+            "url": "https:\/\/cryptopanic.com\/news\/18807633\/Compound-COMP-Defies-Bearish-Trends-With-a-3-Price-Ascent",
+            "created_at": "2023-07-31T13:08:00Z"
+        },
+        {
+            "kind": "news",
+            "domain": "u.today",
+            "source": {
+                "title": "U.Today",
+                "region": "en",
+                "domain": "u.today",
+                "path": null
+            },
+            "title": "Compound (COMP) up 9%, Here's Possible Reason",
+            "published_at": "2023-07-31T08:07:00Z",
+            "slug": "Compound-COMP-up-9-Heres-Possible-Reason",
+            "currencies": [
+                {
+                    "code": "COMP",
+                    "title": "Compound",
+                    "slug": "compound-governance-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/compound-governance-token\/"
+                }
+            ],
+            "id": 18806557,
+            "url": "https:\/\/cryptopanic.com\/news\/18806557\/Compound-COMP-up-9-Heres-Possible-Reason",
+            "created_at": "2023-07-31T08:07:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Ripple Report Foresees Blockchain Saving Financial Institutions $10 Billion By 2030",
+            "published_at": "2023-07-30T12:54:38Z",
+            "slug": "Ripple-Report-Foresees-Blockchain-Saving-Financial-Institutions-10-Billion-By-2030",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                },
+                {
+                    "code": "COMP",
+                    "title": "Compound",
+                    "slug": "compound-governance-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/compound-governance-token\/"
+                }
+            ],
+            "id": 18805521,
+            "url": "https:\/\/cryptopanic.com\/news\/18805521\/Ripple-Report-Foresees-Blockchain-Saving-Financial-Institutions-10-Billion-By-2030",
+            "created_at": "2023-07-30T12:54:38Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "Compound offers a buying opportunity at this price",
+            "published_at": "2023-07-28T01:30:05Z",
+            "slug": "Compound-offers-a-buying-opportunity-at-this-price",
+            "currencies": [
+                {
+                    "code": "COMP",
+                    "title": "Compound",
+                    "slug": "compound-governance-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/compound-governance-token\/"
+                }
+            ],
+            "id": 18801640,
+            "url": "https:\/\/cryptopanic.com\/news\/18801640\/Compound-offers-a-buying-opportunity-at-this-price",
+            "created_at": "2023-07-28T01:30:05Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "FOMC Delivers Expected 0.25% Rate Hike, Bitcoin Holds Steady Above $29,000",
+            "published_at": "2023-07-26T20:15:46Z",
+            "slug": "FOMC-Delivers-Expected-025-Rate-Hike-Bitcoin-Holds-Steady-Above-29000",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "COMP",
+                    "title": "Compound",
+                    "slug": "compound-governance-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/compound-governance-token\/"
+                }
+            ],
+            "id": 18798784,
+            "url": "https:\/\/cryptopanic.com\/news\/18798784\/FOMC-Delivers-Expected-025-Rate-Hike-Bitcoin-Holds-Steady-Above-29000",
+            "created_at": "2023-07-26T20:15:46Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Compound (COMP) Bulls Strengthen Market Control With 13% Rally",
+            "published_at": "2023-07-26T18:00:14Z",
+            "slug": "Compound-COMP-Bulls-Strengthen-Market-Control-With-13-Rally",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "COMP",
+                    "title": "Compound",
+                    "slug": "compound-governance-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/compound-governance-token\/"
+                }
+            ],
+            "id": 18798500,
+            "url": "https:\/\/cryptopanic.com\/news\/18798500\/Compound-COMP-Bulls-Strengthen-Market-Control-With-13-Rally",
+            "created_at": "2023-07-26T18:00:14Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

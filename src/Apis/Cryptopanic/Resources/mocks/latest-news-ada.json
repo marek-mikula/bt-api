@@ -1,0 +1,857 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=ADA&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "u.today",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 1,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 2,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "U.Today",
+                "region": "en",
+                "domain": "u.today",
+                "path": null
+            },
+            "title": "Cardano (ADA) Has Potential to Move up During Short Profit Window: Santiment",
+            "published_at": "2023-10-03T10:53:00Z",
+            "slug": "Cardano-ADA-Has-Potential-to-Move-up-During-Short-Profit-Window-Santiment",
+            "currencies": [
+                {
+                    "code": "ADA",
+                    "title": "Cardano",
+                    "slug": "cardano",
+                    "url": "https:\/\/cryptopanic.com\/news\/cardano\/"
+                }
+            ],
+            "id": 18944226,
+            "url": "https:\/\/cryptopanic.com\/news\/18944226\/Cardano-ADA-Has-Potential-to-Move-up-During-Short-Profit-Window-Santiment",
+            "created_at": "2023-10-03T10:53:00Z"
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "votes": {
+                "negative": 0,
+                "positive": 2,
+                "important": 0,
+                "liked": 3,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 1,
+                "comments": 0
+            },
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Solana Outperforms 2 Top Altcoins \u2013 Its Ripple Effect On Prices",
+            "published_at": "2023-10-03T09:09:24Z",
+            "slug": "Solana-Outperforms-2-Top-Altcoins-Its-Ripple-Effect-On-Prices",
+            "currencies": [
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "ADA",
+                    "title": "Cardano",
+                    "slug": "cardano",
+                    "url": "https:\/\/cryptopanic.com\/news\/cardano\/"
+                },
+                {
+                    "code": "DOGE",
+                    "title": "Dogecoin",
+                    "slug": "dogecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/dogecoin\/"
+                },
+                {
+                    "code": "OP",
+                    "title": "Optimism",
+                    "slug": "optimism",
+                    "url": "https:\/\/cryptopanic.com\/news\/optimism\/"
+                }
+            ],
+            "id": 18943946,
+            "url": "https:\/\/cryptopanic.com\/news\/18943946\/Solana-Outperforms-2-Top-Altcoins-Its-Ripple-Effect-On-Prices",
+            "created_at": "2023-10-03T09:09:24Z"
+        },
+        {
+            "kind": "news",
+            "domain": "livebitcoinnews.com",
+            "source": {
+                "title": "Live Bitcoin News",
+                "region": "en",
+                "domain": "livebitcoinnews.com",
+                "path": null
+            },
+            "title": "Cardano (ADA) Price Analysis: Bulls Aim More Upsides Above $0.27",
+            "published_at": "2023-10-03T05:58:30Z",
+            "slug": "Cardano-ADA-Price-Analysis-Bulls-Aim-More-Upsides-Above-027",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ADA",
+                    "title": "Cardano",
+                    "slug": "cardano",
+                    "url": "https:\/\/cryptopanic.com\/news\/cardano\/"
+                }
+            ],
+            "id": 18943616,
+            "url": "https:\/\/cryptopanic.com\/news\/18943616\/Cardano-ADA-Price-Analysis-Bulls-Aim-More-Upsides-Above-027",
+            "created_at": "2023-10-03T05:58:30Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 1,
+                "comments": 0
+            },
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "Solana flips Cardano and Dogecoin: What\u2019s next?",
+            "published_at": "2023-10-03T01:30:46Z",
+            "slug": "Solana-flips-Cardano-and-Dogecoin-Whats-next",
+            "currencies": [
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "ADA",
+                    "title": "Cardano",
+                    "slug": "cardano",
+                    "url": "https:\/\/cryptopanic.com\/news\/cardano\/"
+                }
+            ],
+            "id": 18943401,
+            "url": "https:\/\/cryptopanic.com\/news\/18943401\/Solana-flips-Cardano-and-Dogecoin-Whats-next",
+            "created_at": "2023-10-03T01:30:46Z"
+        },
+        {
+            "kind": "news",
+            "domain": "zycrypto.com",
+            "votes": {
+                "negative": 7,
+                "positive": 12,
+                "important": 3,
+                "liked": 9,
+                "disliked": 6,
+                "lol": 9,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 7
+            },
+            "source": {
+                "title": "ZyCrypto",
+                "region": "en",
+                "domain": "zycrypto.com",
+                "path": null
+            },
+            "title": "Cardano Looking Incredibly Bullish As ADA Price Boost Proves Formidable Amid Solid Potential",
+            "published_at": "2023-10-02T20:17:05Z",
+            "slug": "Cardano-Looking-Incredibly-Bullish-As-ADA-Price-Boost-Proves-Formidable-Amid-Solid-Potential",
+            "currencies": [
+                {
+                    "code": "ADA",
+                    "title": "Cardano",
+                    "slug": "cardano",
+                    "url": "https:\/\/cryptopanic.com\/news\/cardano\/"
+                }
+            ],
+            "id": 18943068,
+            "url": "https:\/\/cryptopanic.com\/news\/18943068\/Cardano-Looking-Incredibly-Bullish-As-ADA-Price-Boost-Proves-Formidable-Amid-Solid-Potential",
+            "created_at": "2023-10-02T20:17:05Z"
+        },
+        {
+            "kind": "news",
+            "domain": "cointelegraph.com",
+            "source": {
+                "title": "CoinTelegraph",
+                "region": "en",
+                "domain": "cointelegraph.com",
+                "path": null
+            },
+            "title": "Price analysis 10\/2: SPX, DXY, BTC, ETH, BNB, XRP, SOL, ADA, DOGE, TON",
+            "published_at": "2023-10-02T18:05:00Z",
+            "slug": "Price-analysis-102-SPX-DXY-BTC-ETH-BNB-XRP-SOL-ADA-DOGE-TON",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                },
+                {
+                    "code": "ADA",
+                    "title": "Cardano",
+                    "slug": "cardano",
+                    "url": "https:\/\/cryptopanic.com\/news\/cardano\/"
+                },
+                {
+                    "code": "DOGE",
+                    "title": "Dogecoin",
+                    "slug": "dogecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/dogecoin\/"
+                },
+                {
+                    "code": "TON",
+                    "title": "Toncoin",
+                    "slug": "the-open-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/the-open-network\/"
+                },
+                {
+                    "code": "BNB",
+                    "title": "OEC Binance Coin",
+                    "slug": "oec-binance-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/oec-binance-coin\/"
+                }
+            ],
+            "id": 18942837,
+            "url": "https:\/\/cryptopanic.com\/news\/18942837\/Price-analysis-102-SPX-DXY-BTC-ETH-BNB-XRP-SOL-ADA-DOGE-TON",
+            "created_at": "2023-10-02T18:05:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "zycrypto.com",
+            "source": {
+                "title": "ZyCrypto",
+                "region": "en",
+                "domain": "zycrypto.com",
+                "path": null
+            },
+            "title": "China May Be Reconsidering Its Stance on Crypto and Hong Kong Could Be A Testing Ground: Chainalysis Report",
+            "published_at": "2023-10-02T16:51:08Z",
+            "slug": "China-May-Be-Reconsidering-Its-Stance-on-Crypto-and-Hong-Kong-Could-Be-A-Testing-Ground-Chainalysis-Report",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ADA",
+                    "title": "Cardano",
+                    "slug": "cardano",
+                    "url": "https:\/\/cryptopanic.com\/news\/cardano\/"
+                }
+            ],
+            "id": 18942691,
+            "url": "https:\/\/cryptopanic.com\/news\/18942691\/China-May-Be-Reconsidering-Its-Stance-on-Crypto-and-Hong-Kong-Could-Be-A-Testing-Ground-Chainalysis-Report",
+            "created_at": "2023-10-02T16:51:08Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "zycrypto.com",
+            "source": {
+                "title": "ZyCrypto",
+                "region": "en",
+                "domain": "zycrypto.com",
+                "path": null
+            },
+            "title": "Coinbase\u2019s Regulatory Win: Full Operating License Secured In Singapore",
+            "published_at": "2023-10-02T16:24:44Z",
+            "slug": "Coinbases-Regulatory-Win-Full-Operating-License-Secured-In-Singapore",
+            "currencies": [
+                {
+                    "code": "ADA",
+                    "title": "Cardano",
+                    "slug": "cardano",
+                    "url": "https:\/\/cryptopanic.com\/news\/cardano\/"
+                }
+            ],
+            "id": 18942611,
+            "url": "https:\/\/cryptopanic.com\/news\/18942611\/Coinbases-Regulatory-Win-Full-Operating-License-Secured-In-Singapore",
+            "created_at": "2023-10-02T16:24:44Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "zycrypto.com",
+            "source": {
+                "title": "ZyCrypto",
+                "region": "en",
+                "domain": "zycrypto.com",
+                "path": null
+            },
+            "title": "Market hype after Bitcoin crossed $28,000 suggests promising weeks are ahead",
+            "published_at": "2023-10-02T16:02:55Z",
+            "slug": "Market-hype-after-Bitcoin-crossed-28000-suggests-promising-weeks-are-ahead",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ADA",
+                    "title": "Cardano",
+                    "slug": "cardano",
+                    "url": "https:\/\/cryptopanic.com\/news\/cardano\/"
+                }
+            ],
+            "id": 18942565,
+            "url": "https:\/\/cryptopanic.com\/news\/18942565\/Market-hype-after-Bitcoin-crossed-28000-suggests-promising-weeks-are-ahead",
+            "created_at": "2023-10-02T16:02:55Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "u.today",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 1,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "U.Today",
+                "region": "en",
+                "domain": "u.today",
+                "path": null
+            },
+            "title": "Cardano (ADA) Launchpad Coinecta Kicks Off",
+            "published_at": "2023-10-02T15:43:00Z",
+            "slug": "Cardano-ADA-Launchpad-Coinecta-Kicks-Off",
+            "currencies": [
+                {
+                    "code": "ADA",
+                    "title": "Cardano",
+                    "slug": "cardano",
+                    "url": "https:\/\/cryptopanic.com\/news\/cardano\/"
+                }
+            ],
+            "id": 18942504,
+            "url": "https:\/\/cryptopanic.com\/news\/18942504\/Cardano-ADA-Launchpad-Coinecta-Kicks-Off",
+            "created_at": "2023-10-02T15:43:00Z"
+        },
+        {
+            "kind": "news",
+            "domain": "zycrypto.com",
+            "source": {
+                "title": "ZyCrypto",
+                "region": "en",
+                "domain": "zycrypto.com",
+                "path": null
+            },
+            "title": "Cathie Wood More bullish than ever that Bitcoin will tap $1.5 million",
+            "published_at": "2023-10-02T15:38:06Z",
+            "slug": "Cathie-Wood-More-bullish-than-ever-that-Bitcoin-will-tap-15-million",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "ADA",
+                    "title": "Cardano",
+                    "slug": "cardano",
+                    "url": "https:\/\/cryptopanic.com\/news\/cardano\/"
+                }
+            ],
+            "id": 18942481,
+            "url": "https:\/\/cryptopanic.com\/news\/18942481\/Cathie-Wood-More-bullish-than-ever-that-Bitcoin-will-tap-15-million",
+            "created_at": "2023-10-02T15:38:06Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "What went down with Cardano as ADA tried to put up a show",
+            "published_at": "2023-10-02T15:30:02Z",
+            "slug": "What-went-down-with-Cardano-as-ADA-tried-to-put-up-a-show",
+            "currencies": [
+                {
+                    "code": "ADA",
+                    "title": "Cardano",
+                    "slug": "cardano",
+                    "url": "https:\/\/cryptopanic.com\/news\/cardano\/"
+                }
+            ],
+            "id": 18942427,
+            "url": "https:\/\/cryptopanic.com\/news\/18942427\/What-went-down-with-Cardano-as-ADA-tried-to-put-up-a-show",
+            "created_at": "2023-10-02T15:30:02Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 1,
+                "comments": 0
+            },
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Bitcoin News: Analysts Reveal Forecasts For October As BTC Price Pushes Past $28,000",
+            "published_at": "2023-10-02T13:00:45Z",
+            "slug": "Bitcoin-News-Analysts-Reveal-Forecasts-For-October-As-BTC-Price-Pushes-Past-28000",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "USDT",
+                    "title": "Tether",
+                    "slug": "tether",
+                    "url": "https:\/\/cryptopanic.com\/news\/tether\/"
+                },
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                },
+                {
+                    "code": "ADA",
+                    "title": "Cardano",
+                    "slug": "cardano",
+                    "url": "https:\/\/cryptopanic.com\/news\/cardano\/"
+                }
+            ],
+            "id": 18942018,
+            "url": "https:\/\/cryptopanic.com\/news\/18942018\/Bitcoin-News-Analysts-Reveal-Forecasts-For-October-As-BTC-Price-Pushes-Past-28000",
+            "created_at": "2023-10-02T13:00:45Z"
+        },
+        {
+            "kind": "news",
+            "domain": "cryptoglobe.com",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 1,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "CryptoGlobe",
+                "region": "en",
+                "domain": "cryptoglobe.com",
+                "path": null
+            },
+            "title": "$ADA: Crypto Influencer Discusses the Future of Digital Economy and Cardano\u2019s Role",
+            "published_at": "2023-10-02T10:55:47Z",
+            "slug": "ADA-Crypto-Influencer-Discusses-the-Future-of-Digital-Economy-and-Cardanos-Role",
+            "currencies": [
+                {
+                    "code": "ADA",
+                    "title": "Cardano",
+                    "slug": "cardano",
+                    "url": "https:\/\/cryptopanic.com\/news\/cardano\/"
+                }
+            ],
+            "id": 18941670,
+            "url": "https:\/\/cryptopanic.com\/news\/18941670\/ADA-Crypto-Influencer-Discusses-the-Future-of-Digital-Economy-and-Cardanos-Role",
+            "created_at": "2023-10-02T10:55:47Z"
+        },
+        {
+            "kind": "news",
+            "domain": "coinedition.com",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 1,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 2
+            },
+            "source": {
+                "title": "coinedition",
+                "region": "en",
+                "domain": "coinedition.com",
+                "path": null
+            },
+            "title": "\u2018Is BlackRock Looking Into Cardano?\u2019 Discusses Crypto Twitter",
+            "published_at": "2023-10-02T10:54:16Z",
+            "slug": "Is-BlackRock-Looking-Into-Cardano-Discusses-Crypto-Twitter",
+            "currencies": [
+                {
+                    "code": "ADA",
+                    "title": "Cardano",
+                    "slug": "cardano",
+                    "url": "https:\/\/cryptopanic.com\/news\/cardano\/"
+                }
+            ],
+            "id": 18941656,
+            "url": "https:\/\/cryptopanic.com\/news\/18941656\/Is-BlackRock-Looking-Into-Cardano-Discusses-Crypto-Twitter",
+            "created_at": "2023-10-02T10:54:16Z"
+        },
+        {
+            "kind": "news",
+            "domain": "coingape.com",
+            "source": {
+                "title": "CoinGape",
+                "region": "en",
+                "domain": "coingape.com",
+                "path": null
+            },
+            "title": "Solana On An Unstoppable Rally to $25, DeFi TVL At 2023 High",
+            "published_at": "2023-10-02T07:54:46Z",
+            "slug": "Solana-On-An-Unstoppable-Rally-to-25-DeFi-TVL-At-2023-High",
+            "currencies": [
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "ADA",
+                    "title": "Cardano",
+                    "slug": "cardano",
+                    "url": "https:\/\/cryptopanic.com\/news\/cardano\/"
+                },
+                {
+                    "code": "DOGE",
+                    "title": "Dogecoin",
+                    "slug": "dogecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/dogecoin\/"
+                }
+            ],
+            "id": 18941232,
+            "url": "https:\/\/cryptopanic.com\/news\/18941232\/Solana-On-An-Unstoppable-Rally-to-25-DeFi-TVL-At-2023-High",
+            "created_at": "2023-10-02T07:54:46Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptopotato.com",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 1,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "Feed - Cryptopotato.Com",
+                "region": "en",
+                "domain": "cryptopotato.com",
+                "path": null
+            },
+            "title": "Massive Activity on Cardano-Based Minswap Pushes Key Metrics Near ATHs",
+            "published_at": "2023-10-01T14:28:12Z",
+            "slug": "Massive-Activity-on-Cardano-Based-Minswap-Pushes-Key-Metrics-Near-ATHs",
+            "currencies": [
+                {
+                    "code": "ADA",
+                    "title": "Cardano",
+                    "slug": "cardano",
+                    "url": "https:\/\/cryptopanic.com\/news\/cardano\/"
+                }
+            ],
+            "id": 18940329,
+            "url": "https:\/\/cryptopanic.com\/news\/18940329\/Massive-Activity-on-Cardano-Based-Minswap-Pushes-Key-Metrics-Near-ATHs",
+            "created_at": "2023-10-01T14:28:12Z"
+        },
+        {
+            "kind": "news",
+            "domain": "coinedition.com",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 1,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 1,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "coinedition",
+                "region": "en",
+                "domain": "coinedition.com",
+                "path": null
+            },
+            "title": "ADA Could Reach $26 During Next Bull Run, Predicts Analyst",
+            "published_at": "2023-10-01T13:06:00Z",
+            "slug": "ADA-Could-Reach-26-During-Next-Bull-Run-Predicts-Analyst",
+            "currencies": [
+                {
+                    "code": "ADA",
+                    "title": "Cardano",
+                    "slug": "cardano",
+                    "url": "https:\/\/cryptopanic.com\/news\/cardano\/"
+                }
+            ],
+            "id": 18940244,
+            "url": "https:\/\/cryptopanic.com\/news\/18940244\/ADA-Could-Reach-26-During-Next-Bull-Run-Predicts-Analyst",
+            "created_at": "2023-10-01T13:06:00Z"
+        },
+        {
+            "kind": "news",
+            "domain": "coinedition.com",
+            "source": {
+                "title": "coinedition",
+                "region": "en",
+                "domain": "coinedition.com",
+                "path": null
+            },
+            "title": "BTC, ADA and XRP May Lead the Charge in the Next Bull Run",
+            "published_at": "2023-10-01T12:37:00Z",
+            "slug": "BTC-ADA-and-XRP-May-Lead-the-Charge-in-the-Next-Bull-Run",
+            "currencies": [
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                },
+                {
+                    "code": "ADA",
+                    "title": "Cardano",
+                    "slug": "cardano",
+                    "url": "https:\/\/cryptopanic.com\/news\/cardano\/"
+                }
+            ],
+            "id": 18940205,
+            "url": "https:\/\/cryptopanic.com\/news\/18940205\/BTC-ADA-and-XRP-May-Lead-the-Charge-in-the-Next-Bull-Run",
+            "created_at": "2023-10-01T12:37:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "After Strong September Growth, Are Maker and Inqubeta Top Alternatives to Xrp and Cardano?",
+            "published_at": "2023-10-01T09:00:00Z",
+            "slug": "After-Strong-September-Growth-Are-Maker-and-Inqubeta-Top-Alternatives-to-Xrp-and-Cardano",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                },
+                {
+                    "code": "ADA",
+                    "title": "Cardano",
+                    "slug": "cardano",
+                    "url": "https:\/\/cryptopanic.com\/news\/cardano\/"
+                },
+                {
+                    "code": "DAI",
+                    "title": "Dai",
+                    "slug": "dai",
+                    "url": "https:\/\/cryptopanic.com\/news\/dai\/"
+                },
+                {
+                    "code": "MKR",
+                    "title": "Maker",
+                    "slug": "maker",
+                    "url": "https:\/\/cryptopanic.com\/news\/maker\/"
+                }
+            ],
+            "id": 18940050,
+            "url": "https:\/\/cryptopanic.com\/news\/18940050\/After-Strong-September-Growth-Are-Maker-and-Inqubeta-Top-Alternatives-to-Xrp-and-Cardano",
+            "created_at": "2023-10-01T09:00:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

@@ -1,0 +1,725 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=GNO&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "cointelegraph.com",
+            "source": {
+                "title": "CoinTelegraph",
+                "region": "en",
+                "domain": "cointelegraph.com",
+                "path": null
+            },
+            "title": "PayPal USD: Boon for Ethereum but not decentralization, says community",
+            "published_at": "2023-08-08T01:32:28Z",
+            "slug": "PayPal-USD-Boon-for-Ethereum-but-not-decentralization-says-community",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "GNO",
+                    "title": "Gnosis",
+                    "slug": "gnosis",
+                    "url": "https:\/\/cryptopanic.com\/news\/gnosis\/"
+                }
+            ],
+            "id": 18823513,
+            "url": "https:\/\/cryptopanic.com\/news\/18823513\/PayPal-USD-Boon-for-Ethereum-but-not-decentralization-says-community",
+            "created_at": "2023-08-08T01:32:28Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cointelegraph.com",
+            "source": {
+                "title": "CoinTelegraph",
+                "region": "en",
+                "domain": "cointelegraph.com",
+                "path": null
+            },
+            "title": "Optimism transactions surpass Arbitrum, but what\u2019s behind the uptick in users?",
+            "published_at": "2023-08-03T20:30:00Z",
+            "slug": "Optimism-transactions-surpass-Arbitrum-but-whats-behind-the-uptick-in-users",
+            "currencies": [
+                {
+                    "code": "ARB",
+                    "title": "Arbitrum",
+                    "slug": "arbitrum",
+                    "url": "https:\/\/cryptopanic.com\/news\/arbitrum\/"
+                },
+                {
+                    "code": "OP",
+                    "title": "Optimism",
+                    "slug": "optimism",
+                    "url": "https:\/\/cryptopanic.com\/news\/optimism\/"
+                },
+                {
+                    "code": "GNO",
+                    "title": "Gnosis",
+                    "slug": "gnosis",
+                    "url": "https:\/\/cryptopanic.com\/news\/gnosis\/"
+                }
+            ],
+            "id": 18816111,
+            "url": "https:\/\/cryptopanic.com\/news\/18816111\/Optimism-transactions-surpass-Arbitrum-but-whats-behind-the-uptick-in-users",
+            "created_at": "2023-08-03T20:30:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GnosisDAO",
+            "source": {
+                "title": "Gnosis Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gnosisdao"
+            },
+            "title": "RT @CirclesUBI: Join us this Friday for the Twitter Space hosted by @CirclesUBI and @proofofhumanity on our recent @GnosisDAO proposal! 12p\u2026",
+            "published_at": "2023-07-11T16:32:55Z",
+            "slug": "RT-CirclesUBI-Join-us-this-Friday-for-the-Twitter-Space-hosted-by-CirclesUBI-and-proofofhumanity-on-our-recent-GnosisDAO-proposal-12p",
+            "currencies": [
+                {
+                    "code": "GNO",
+                    "title": "Gnosis",
+                    "slug": "gnosis",
+                    "url": "https:\/\/cryptopanic.com\/news\/gnosis\/"
+                }
+            ],
+            "id": 18764620,
+            "url": "https:\/\/cryptopanic.com\/news\/18764620\/RT-CirclesUBI-Join-us-this-Friday-for-the-Twitter-Space-hosted-by-CirclesUBI-and-proofofhumanity-on-our-recent-GnosisDAO-proposal-12p",
+            "created_at": "2023-07-11T16:32:55Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GnosisDAO",
+            "source": {
+                "title": "Gnosis Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gnosisdao"
+            },
+            "title": "RT @CoWSwap: MEV Blocker \ufe0f The best MEV protection under the sun! ",
+            "published_at": "2023-07-11T08:38:23Z",
+            "slug": "RT-CoWSwap-MEV-Blocker-The-best-MEV-protection-under-the-sun",
+            "currencies": [
+                {
+                    "code": "GNO",
+                    "title": "Gnosis",
+                    "slug": "gnosis",
+                    "url": "https:\/\/cryptopanic.com\/news\/gnosis\/"
+                }
+            ],
+            "id": 18764621,
+            "url": "https:\/\/cryptopanic.com\/news\/18764621\/RT-CoWSwap-MEV-Blocker-The-best-MEV-protection-under-the-sun",
+            "created_at": "2023-07-11T08:38:23Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GnosisDAO",
+            "source": {
+                "title": "Gnosis Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gnosisdao"
+            },
+            "title": "Join us for the next GnosisDAO Community Call on the GnosisDAO Twitter Spaces.\n\nw\/ ecosystem updates and we'll be j\u2026",
+            "published_at": "2023-07-10T18:32:35Z",
+            "slug": "Join-us-for-the-next-GnosisDAO-Community-Call-on-the-GnosisDAO-Twitter-Spaces-w-ecosystem-updates-and-well-be-j",
+            "currencies": [
+                {
+                    "code": "GNO",
+                    "title": "Gnosis",
+                    "slug": "gnosis",
+                    "url": "https:\/\/cryptopanic.com\/news\/gnosis\/"
+                }
+            ],
+            "id": 18756475,
+            "url": "https:\/\/cryptopanic.com\/news\/18756475\/Join-us-for-the-next-GnosisDAO-Community-Call-on-the-GnosisDAO-Twitter-Spaces-w-ecosystem-updates-and-well-be-j",
+            "created_at": "2023-07-10T18:32:35Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GnosisDAO",
+            "source": {
+                "title": "Gnosis Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gnosisdao"
+            },
+            "title": "RT @GnosisGuild: @GnosisDAO, a haven for our art,\nExploring realms where innovation imparts.\nGovernance elevated, bridges we span,\nTraditio\u2026",
+            "published_at": "2023-07-10T15:19:36Z",
+            "slug": "RT-GnosisGuild-GnosisDAO-a-haven-for-our-art-Exploring-realms-where-innovation-imparts-Governance-elevated-bridges-we-span-Traditio",
+            "currencies": [
+                {
+                    "code": "GNO",
+                    "title": "Gnosis",
+                    "slug": "gnosis",
+                    "url": "https:\/\/cryptopanic.com\/news\/gnosis\/"
+                }
+            ],
+            "id": 18756476,
+            "url": "https:\/\/cryptopanic.com\/news\/18756476\/RT-GnosisGuild-GnosisDAO-a-haven-for-our-art-Exploring-realms-where-innovation-imparts-Governance-elevated-bridges-we-span-Traditio",
+            "created_at": "2023-07-10T15:19:36Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GnosisDAO",
+            "source": {
+                "title": "Gnosis Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gnosisdao"
+            },
+            "title": "RT @GnosisGuild: collaboration lies at the heart of our work \ud83e\udd0d\n\nread about our recent partnerships &amp; collaborations in our new Q2 report\n\nt\u2026",
+            "published_at": "2023-07-10T15:19:24Z",
+            "slug": "RT-GnosisGuild-collaboration-lies-at-the-heart-of-our-work-read-about-our-recent-partnerships-amp-collaborations-in-our-new-Q2-report-t",
+            "currencies": [
+                {
+                    "code": "GNO",
+                    "title": "Gnosis",
+                    "slug": "gnosis",
+                    "url": "https:\/\/cryptopanic.com\/news\/gnosis\/"
+                }
+            ],
+            "id": 18756477,
+            "url": "https:\/\/cryptopanic.com\/news\/18756477\/RT-GnosisGuild-collaboration-lies-at-the-heart-of-our-work-read-about-our-recent-partnerships-amp-collaborations-in-our-new-Q2-report-t",
+            "created_at": "2023-07-10T15:19:24Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GnosisDAO",
+            "source": {
+                "title": "Gnosis Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gnosisdao"
+            },
+            "title": "RT @dappcon_berlin: \ud83e\udee1 Early bird ticket sales are closing today! \ud83e\udee1\n\n Grab your #DappCon23 ticket NOW! \n\n\ufe0f",
+            "published_at": "2023-07-10T13:53:36Z",
+            "slug": "RT-dappcon_berlin-Early-bird-ticket-sales-are-closing-today-Grab-your-DappCon23-ticket-NOW",
+            "currencies": [
+                {
+                    "code": "GNO",
+                    "title": "Gnosis",
+                    "slug": "gnosis",
+                    "url": "https:\/\/cryptopanic.com\/news\/gnosis\/"
+                }
+            ],
+            "id": 18756478,
+            "url": "https:\/\/cryptopanic.com\/news\/18756478\/RT-dappcon_berlin-Early-bird-ticket-sales-are-closing-today-Grab-your-DappCon23-ticket-NOW",
+            "created_at": "2023-07-10T13:53:36Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GnosisDAO",
+            "source": {
+                "title": "Gnosis Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gnosisdao"
+            },
+            "title": "GIP-88 is live on Snapshot!\n\n\u00a0 Voting closes in 7 days on Jul 17, 2023\n\nShould Gnosis Chain provide liquidity fo\u2026",
+            "published_at": "2023-07-10T13:30:18Z",
+            "slug": "GIP-88-is-live-on-Snapshot-Voting-closes-in-7-days-on-Jul-17-2023-Should-Gnosis-Chain-provide-liquidity-fo",
+            "currencies": [
+                {
+                    "code": "GNO",
+                    "title": "Gnosis",
+                    "slug": "gnosis",
+                    "url": "https:\/\/cryptopanic.com\/news\/gnosis\/"
+                }
+            ],
+            "id": 18756479,
+            "url": "https:\/\/cryptopanic.com\/news\/18756479\/GIP-88-is-live-on-Snapshot-Voting-closes-in-7-days-on-Jul-17-2023-Should-Gnosis-Chain-provide-liquidity-fo",
+            "created_at": "2023-07-10T13:30:18Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GnosisDAO",
+            "source": {
+                "title": "Gnosis Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gnosisdao"
+            },
+            "title": "Hello Wise Owls!\n\n@EthCC kicks off next week in Paris. \ud83c\uddeb\ud83c\uddf7 @gnosischain is sponsoring the important event. Gnosis t\u2026",
+            "published_at": "2023-07-10T10:58:23Z",
+            "slug": "Hello-Wise-Owls-EthCC-kicks-off-next-week-in-Paris-gnosischain-is-sponsoring-the-important-event-Gnosis-t",
+            "currencies": [
+                {
+                    "code": "GNO",
+                    "title": "Gnosis",
+                    "slug": "gnosis",
+                    "url": "https:\/\/cryptopanic.com\/news\/gnosis\/"
+                }
+            ],
+            "id": 18756480,
+            "url": "https:\/\/cryptopanic.com\/news\/18756480\/Hello-Wise-Owls-EthCC-kicks-off-next-week-in-Paris-gnosischain-is-sponsoring-the-important-event-Gnosis-t",
+            "created_at": "2023-07-10T10:58:23Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GnosisDAO",
+            "source": {
+                "title": "Gnosis Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gnosisdao"
+            },
+            "title": "RT @dappcon_berlin:  DappCon Siegessaule Sponsors \n\nDelighted to announce @CoWSwap as a sponsor for @dappcon_berlin this year! \n\nCoW Swap\u2026",
+            "published_at": "2023-07-08T15:26:30Z",
+            "slug": "RT-dappcon_berlin-DappCon-Siegessaule-Sponsors-Delighted-to-announce-CoWSwap-as-a-sponsor-for-dappcon_berlin-this-year-CoW-Swap",
+            "currencies": [
+                {
+                    "code": "GNO",
+                    "title": "Gnosis",
+                    "slug": "gnosis",
+                    "url": "https:\/\/cryptopanic.com\/news\/gnosis\/"
+                }
+            ],
+            "id": 18745676,
+            "url": "https:\/\/cryptopanic.com\/news\/18745676\/RT-dappcon_berlin-DappCon-Siegessaule-Sponsors-Delighted-to-announce-CoWSwap-as-a-sponsor-for-dappcon_berlin-this-year-CoW-Swap",
+            "created_at": "2023-07-08T15:26:30Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GnosisDAO",
+            "source": {
+                "title": "Gnosis Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gnosisdao"
+            },
+            "title": "RT @Blockworks_: NEWS: Gnosis and spinoff digital asset manager Safe have been busy",
+            "published_at": "2023-07-07T22:06:37Z",
+            "slug": "RT-Blockworks_-NEWS-Gnosis-and-spinoff-digital-asset-manager-Safe-have-been-busy",
+            "currencies": [
+                {
+                    "code": "GNO",
+                    "title": "Gnosis",
+                    "slug": "gnosis",
+                    "url": "https:\/\/cryptopanic.com\/news\/gnosis\/"
+                }
+            ],
+            "id": 18740393,
+            "url": "https:\/\/cryptopanic.com\/news\/18740393\/RT-Blockworks_-NEWS-Gnosis-and-spinoff-digital-asset-manager-Safe-have-been-busy",
+            "created_at": "2023-07-07T22:06:37Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GnosisDAO",
+            "source": {
+                "title": "Gnosis Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gnosisdao"
+            },
+            "title": "RT @gnosischain: We are pleased to announce that all client updates are ready for the upcoming Shapella hard-fork! \ud83e\udee1\n\nEpoch: 648704 \nSlot:\u2026",
+            "published_at": "2023-07-07T22:06:08Z",
+            "slug": "RT-gnosischain-We-are-pleased-to-announce-that-all-client-updates-are-ready-for-the-upcoming-Shapella-hard-fork-Epoch-648704-Slot",
+            "currencies": [
+                {
+                    "code": "GNO",
+                    "title": "Gnosis",
+                    "slug": "gnosis",
+                    "url": "https:\/\/cryptopanic.com\/news\/gnosis\/"
+                }
+            ],
+            "id": 18740394,
+            "url": "https:\/\/cryptopanic.com\/news\/18740394\/RT-gnosischain-We-are-pleased-to-announce-that-all-client-updates-are-ready-for-the-upcoming-Shapella-hard-fork-Epoch-648704-Slot",
+            "created_at": "2023-07-07T22:06:08Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GnosisDAO",
+            "source": {
+                "title": "Gnosis Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gnosisdao"
+            },
+            "title": "RT @gnosischain: @gnosischain has a high number of solo-stakers!\n\nWe're forging a robust community of solo-stakers who are operating node\u2026",
+            "published_at": "2023-07-07T22:06:03Z",
+            "slug": "RT-gnosischain-gnosischain-has-a-high-number-of-solo-stakers-Were-forging-a-robust-community-of-solo-stakers-who-are-operating-node",
+            "currencies": [
+                {
+                    "code": "GNO",
+                    "title": "Gnosis",
+                    "slug": "gnosis",
+                    "url": "https:\/\/cryptopanic.com\/news\/gnosis\/"
+                }
+            ],
+            "id": 18740395,
+            "url": "https:\/\/cryptopanic.com\/news\/18740395\/RT-gnosischain-gnosischain-has-a-high-number-of-solo-stakers-Were-forging-a-robust-community-of-solo-stakers-who-are-operating-node",
+            "created_at": "2023-07-07T22:06:03Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GnosisDAO",
+            "source": {
+                "title": "Gnosis Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gnosisdao"
+            },
+            "title": "RT @gnosischain: Gnosis Chain Weekly \u00b7 07 July 2023\n\n+ Shapella Client Updates + \n\nw\/ updates from @GnosisDAO @gnosisbuilders @GnosisGuild\u2026",
+            "published_at": "2023-07-07T17:55:50Z",
+            "slug": "RT-gnosischain-Gnosis-Chain-Weekly-07-July-2023-Shapella-Client-Updates-w-updates-from-GnosisDAO-gnosisbuilders-GnosisGuild",
+            "currencies": [
+                {
+                    "code": "GNO",
+                    "title": "Gnosis",
+                    "slug": "gnosis",
+                    "url": "https:\/\/cryptopanic.com\/news\/gnosis\/"
+                }
+            ],
+            "id": 18740396,
+            "url": "https:\/\/cryptopanic.com\/news\/18740396\/RT-gnosischain-Gnosis-Chain-Weekly-07-July-2023-Shapella-Client-Updates-w-updates-from-GnosisDAO-gnosisbuilders-GnosisGuild",
+            "created_at": "2023-07-07T17:55:50Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GnosisDAO",
+            "source": {
+                "title": "Gnosis Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gnosisdao"
+            },
+            "title": "RT @GnosisGuild: grant your NFTs some agency \ud83e\ude84\n\ntoken-bound accounts are on the way #mech6551",
+            "published_at": "2023-07-07T17:55:26Z",
+            "slug": "RT-GnosisGuild-grant-your-NFTs-some-agency-token-bound-accounts-are-on-the-way-mech6551",
+            "currencies": [
+                {
+                    "code": "GNO",
+                    "title": "Gnosis",
+                    "slug": "gnosis",
+                    "url": "https:\/\/cryptopanic.com\/news\/gnosis\/"
+                }
+            ],
+            "id": 18740397,
+            "url": "https:\/\/cryptopanic.com\/news\/18740397\/RT-GnosisGuild-grant-your-NFTs-some-agency-token-bound-accounts-are-on-the-way-mech6551",
+            "created_at": "2023-07-07T17:55:26Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GnosisDAO",
+            "source": {
+                "title": "Gnosis Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gnosisdao"
+            },
+            "title": "RT @gnosischain: Hello wise validatooooors! \ud83e\udd89\n\nJoin us our validator meetup before the Shapella update rolls out! We'll be delving into the\u2026",
+            "published_at": "2023-07-06T19:50:39Z",
+            "slug": "RT-gnosischain-Hello-wise-validatooooors-Join-us-our-validator-meetup-before-the-Shapella-update-rolls-out-Well-be-delving-into-the",
+            "currencies": [
+                {
+                    "code": "GNO",
+                    "title": "Gnosis",
+                    "slug": "gnosis",
+                    "url": "https:\/\/cryptopanic.com\/news\/gnosis\/"
+                }
+            ],
+            "id": 18732775,
+            "url": "https:\/\/cryptopanic.com\/news\/18732775\/RT-gnosischain-Hello-wise-validatooooors-Join-us-our-validator-meetup-before-the-Shapella-update-rolls-out-Well-be-delving-into-the",
+            "created_at": "2023-07-06T19:50:39Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GnosisDAO",
+            "source": {
+                "title": "Gnosis Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gnosisdao"
+            },
+            "title": "RT @GnosisGuild: \ud808\udd99 gnosis guild Q2 2023 report\n\nit's critical that the work produced by gnosis guild can integrate with the labor of others\u2026",
+            "published_at": "2023-07-06T15:56:44Z",
+            "slug": "RT-GnosisGuild-gnosis-guild-Q2-2023-report-its-critical-that-the-work-produced-by-gnosis-guild-can-integrate-with-the-labor-of-others",
+            "currencies": [
+                {
+                    "code": "GNO",
+                    "title": "Gnosis",
+                    "slug": "gnosis",
+                    "url": "https:\/\/cryptopanic.com\/news\/gnosis\/"
+                }
+            ],
+            "id": 18732776,
+            "url": "https:\/\/cryptopanic.com\/news\/18732776\/RT-GnosisGuild-gnosis-guild-Q2-2023-report-its-critical-that-the-work-produced-by-gnosis-guild-can-integrate-with-the-labor-of-others",
+            "created_at": "2023-07-06T15:56:44Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GnosisDAO",
+            "source": {
+                "title": "Gnosis Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gnosisdao"
+            },
+            "title": "Early bird ticket sale for @dappcon_berlin is extended by 5 more days!\n\n",
+            "published_at": "2023-07-06T12:36:41Z",
+            "slug": "Early-bird-ticket-sale-for-dappcon_berlin-is-extended-by-5-more-days",
+            "currencies": [
+                {
+                    "code": "GNO",
+                    "title": "Gnosis",
+                    "slug": "gnosis",
+                    "url": "https:\/\/cryptopanic.com\/news\/gnosis\/"
+                }
+            ],
+            "id": 18732777,
+            "url": "https:\/\/cryptopanic.com\/news\/18732777\/Early-bird-ticket-sale-for-dappcon_berlin-is-extended-by-5-more-days",
+            "created_at": "2023-07-06T12:36:41Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GnosisDAO",
+            "source": {
+                "title": "Gnosis Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gnosisdao"
+            },
+            "title": "RT @gnosischain: Hello wise validators! \ud83e\udd89\n\n\ufe0f Please schedule time between July 5th and July 30th to update your nodes! EL and CL client up\u2026",
+            "published_at": "2023-07-06T12:03:01Z",
+            "slug": "RT-gnosischain-Hello-wise-validators-Please-schedule-time-between-July-5th-and-July-30th-to-update-your-nodes-EL-and-CL-client-up",
+            "currencies": [
+                {
+                    "code": "GNO",
+                    "title": "Gnosis",
+                    "slug": "gnosis",
+                    "url": "https:\/\/cryptopanic.com\/news\/gnosis\/"
+                }
+            ],
+            "id": 18732778,
+            "url": "https:\/\/cryptopanic.com\/news\/18732778\/RT-gnosischain-Hello-wise-validators-Please-schedule-time-between-July-5th-and-July-30th-to-update-your-nodes-EL-and-CL-client-up",
+            "created_at": "2023-07-06T12:03:01Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

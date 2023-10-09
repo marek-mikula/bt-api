@@ -1,0 +1,827 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=REI&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "@GXChainGlobal",
+            "source": {
+                "title": "GXChain Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gxchainglobal"
+            },
+            "title": "Excited to announce our integration with @trycarbonio to pave the way for a more accessible and private blockchain\u2026",
+            "published_at": "2023-07-12T07:18:30Z",
+            "slug": "Excited-to-announce-our-integration-with-trycarbonio-to-pave-the-way-for-a-more-accessible-and-private-blockchain",
+            "currencies": [
+                {
+                    "code": "GXC",
+                    "title": "GXChain",
+                    "slug": "gxchain",
+                    "url": "https:\/\/cryptopanic.com\/news\/gxchain\/"
+                },
+                {
+                    "code": "REI",
+                    "title": "REI Network",
+                    "slug": "rei-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/rei-network\/"
+                }
+            ],
+            "id": 18764475,
+            "url": "https:\/\/cryptopanic.com\/news\/18764475\/Excited-to-announce-our-integration-with-trycarbonio-to-pave-the-way-for-a-more-accessible-and-private-blockchain",
+            "created_at": "2023-07-12T07:18:30Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GXChainGlobal",
+            "source": {
+                "title": "GXChain Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gxchainglobal"
+            },
+            "title": "Let's breaking boundaries in the #Web3 revolution! @DSpace_DAO #REI",
+            "published_at": "2023-07-12T07:05:51Z",
+            "slug": "Lets-breaking-boundaries-in-the-Web3-revolution-DSpace_DAO-REI",
+            "currencies": [
+                {
+                    "code": "GXC",
+                    "title": "GXChain",
+                    "slug": "gxchain",
+                    "url": "https:\/\/cryptopanic.com\/news\/gxchain\/"
+                },
+                {
+                    "code": "REI",
+                    "title": "REI Network",
+                    "slug": "rei-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/rei-network\/"
+                }
+            ],
+            "id": 18764476,
+            "url": "https:\/\/cryptopanic.com\/news\/18764476\/Lets-breaking-boundaries-in-the-Web3-revolution-DSpace_DAO-REI",
+            "created_at": "2023-07-12T07:05:51Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GXChainGlobal",
+            "source": {
+                "title": "GXChain Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gxchainglobal"
+            },
+            "title": "\ufe0f#REINetwork Weekly Report - 11 July 2023\n\n#BLS Signature Aggregation now goes live on REI Network\nREI Network e\u2026",
+            "published_at": "2023-07-11T10:32:35Z",
+            "slug": "REINetwork-Weekly-Report-11-July-2023-BLS-Signature-Aggregation-now-goes-live-on-REI-Network-REI-Network-e",
+            "currencies": [
+                {
+                    "code": "GXC",
+                    "title": "GXChain",
+                    "slug": "gxchain",
+                    "url": "https:\/\/cryptopanic.com\/news\/gxchain\/"
+                },
+                {
+                    "code": "REI",
+                    "title": "REI Network",
+                    "slug": "rei-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/rei-network\/"
+                }
+            ],
+            "id": 18764477,
+            "url": "https:\/\/cryptopanic.com\/news\/18764477\/REINetwork-Weekly-Report-11-July-2023-BLS-Signature-Aggregation-now-goes-live-on-REI-Network-REI-Network-e",
+            "created_at": "2023-07-11T10:32:35Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GXChainGlobal",
+            "source": {
+                "title": "GXChain Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gxchainglobal"
+            },
+            "title": "#BLS Signature Aggregation now goes live on REI Network!\n\nDevelopers who have already run the validator: the BLS p\u2026",
+            "published_at": "2023-07-11T10:16:19Z",
+            "slug": "BLS-Signature-Aggregation-now-goes-live-on-REI-Network-Developers-who-have-already-run-the-validator-the-BLS-p",
+            "currencies": [
+                {
+                    "code": "GXC",
+                    "title": "GXChain",
+                    "slug": "gxchain",
+                    "url": "https:\/\/cryptopanic.com\/news\/gxchain\/"
+                },
+                {
+                    "code": "REI",
+                    "title": "REI Network",
+                    "slug": "rei-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/rei-network\/"
+                }
+            ],
+            "id": 18764478,
+            "url": "https:\/\/cryptopanic.com\/news\/18764478\/BLS-Signature-Aggregation-now-goes-live-on-REI-Network-Developers-who-have-already-run-the-validator-the-BLS-p",
+            "created_at": "2023-07-11T10:16:19Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GXChainGlobal",
+            "source": {
+                "title": "GXChain Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gxchainglobal"
+            },
+            "title": "Welcome to #REI ecosystem @DeVerse_DV!",
+            "published_at": "2023-07-11T09:26:24Z",
+            "slug": "Welcome-to-REI-ecosystem-DeVerse_DV",
+            "currencies": [
+                {
+                    "code": "GXC",
+                    "title": "GXChain",
+                    "slug": "gxchain",
+                    "url": "https:\/\/cryptopanic.com\/news\/gxchain\/"
+                },
+                {
+                    "code": "REI",
+                    "title": "REI Network",
+                    "slug": "rei-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/rei-network\/"
+                }
+            ],
+            "id": 18764479,
+            "url": "https:\/\/cryptopanic.com\/news\/18764479\/Welcome-to-REI-ecosystem-DeVerse_DV",
+            "created_at": "2023-07-11T09:26:24Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GXChainGlobal",
+            "source": {
+                "title": "GXChain Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gxchainglobal"
+            },
+            "title": "RT @Defi_Eagle: \ud83e\udd1d @GXChainGlobal has expanded its purchasing options with @Bitpanda_Global, allowing users to buy with Euros.\n \n #Bitpanda\u2026",
+            "published_at": "2023-07-10T02:41:25Z",
+            "slug": "RT-Defi_Eagle-GXChainGlobal-has-expanded-its-purchasing-options-with-Bitpanda_Global-allowing-users-to-buy-with-Euros-Bitpanda",
+            "currencies": [
+                {
+                    "code": "GXC",
+                    "title": "GXChain",
+                    "slug": "gxchain",
+                    "url": "https:\/\/cryptopanic.com\/news\/gxchain\/"
+                },
+                {
+                    "code": "REI",
+                    "title": "REI Network",
+                    "slug": "rei-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/rei-network\/"
+                }
+            ],
+            "id": 18749811,
+            "url": "https:\/\/cryptopanic.com\/news\/18749811\/RT-Defi_Eagle-GXChainGlobal-has-expanded-its-purchasing-options-with-Bitpanda_Global-allowing-users-to-buy-with-Euros-Bitpanda",
+            "created_at": "2023-07-10T02:41:25Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GXChainGlobal",
+            "source": {
+                "title": "GXChain Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gxchainglobal"
+            },
+            "title": " Exciting news! We are thrilled to announce that #REI now offers a new channel for purchasing with Euros. Thanks t\u2026",
+            "published_at": "2023-07-08T12:36:47Z",
+            "slug": "Exciting-news-We-are-thrilled-to-announce-that-REI-now-offers-a-new-channel-for-purchasing-with-Euros-Thanks-t",
+            "currencies": [
+                {
+                    "code": "GXC",
+                    "title": "GXChain",
+                    "slug": "gxchain",
+                    "url": "https:\/\/cryptopanic.com\/news\/gxchain\/"
+                },
+                {
+                    "code": "REI",
+                    "title": "REI Network",
+                    "slug": "rei-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/rei-network\/"
+                }
+            ],
+            "id": 18745623,
+            "url": "https:\/\/cryptopanic.com\/news\/18745623\/Exciting-news-We-are-thrilled-to-announce-that-REI-now-offers-a-new-channel-for-purchasing-with-Euros-Thanks-t",
+            "created_at": "2023-07-08T12:36:47Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GXChainGlobal",
+            "source": {
+                "title": "GXChain Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gxchainglobal"
+            },
+            "title": "Welcome to #REI ecosystem! @xwinnergame",
+            "published_at": "2023-07-06T09:22:44Z",
+            "slug": "Welcome-to-REI-ecosystem-xwinnergame",
+            "currencies": [
+                {
+                    "code": "GXC",
+                    "title": "GXChain",
+                    "slug": "gxchain",
+                    "url": "https:\/\/cryptopanic.com\/news\/gxchain\/"
+                },
+                {
+                    "code": "REI",
+                    "title": "REI Network",
+                    "slug": "rei-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/rei-network\/"
+                }
+            ],
+            "id": 18732653,
+            "url": "https:\/\/cryptopanic.com\/news\/18732653\/Welcome-to-REI-ecosystem-xwinnergame",
+            "created_at": "2023-07-06T09:22:44Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GXChainGlobal",
+            "source": {
+                "title": "GXChain Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gxchainglobal"
+            },
+            "title": "RT @SmartBSCNews:  @Mor_tonn announced their latest partnership with @GXChainGlobal \n\n #REI was developed for the evolution trend of the\u2026",
+            "published_at": "2023-07-06T02:51:33Z",
+            "slug": "RT-SmartBSCNews-Mor_tonn-announced-their-latest-partnership-with-GXChainGlobal-REI-was-developed-for-the-evolution-trend-of-the",
+            "currencies": [
+                {
+                    "code": "GXC",
+                    "title": "GXChain",
+                    "slug": "gxchain",
+                    "url": "https:\/\/cryptopanic.com\/news\/gxchain\/"
+                },
+                {
+                    "code": "REI",
+                    "title": "REI Network",
+                    "slug": "rei-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/rei-network\/"
+                }
+            ],
+            "id": 18724173,
+            "url": "https:\/\/cryptopanic.com\/news\/18724173\/RT-SmartBSCNews-Mor_tonn-announced-their-latest-partnership-with-GXChainGlobal-REI-was-developed-for-the-evolution-trend-of-the",
+            "created_at": "2023-07-06T02:51:33Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GXChainGlobal",
+            "source": {
+                "title": "GXChain Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gxchainglobal"
+            },
+            "title": "Happy to support @mor_tonn with the high-performance blockchain infrastructure of REI Network.",
+            "published_at": "2023-07-05T08:15:19Z",
+            "slug": "Happy-to-support-mor_tonn-with-the-high-performance-blockchain-infrastructure-of-REI-Network",
+            "currencies": [
+                {
+                    "code": "GXC",
+                    "title": "GXChain",
+                    "slug": "gxchain",
+                    "url": "https:\/\/cryptopanic.com\/news\/gxchain\/"
+                },
+                {
+                    "code": "REI",
+                    "title": "REI Network",
+                    "slug": "rei-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/rei-network\/"
+                }
+            ],
+            "id": 18724174,
+            "url": "https:\/\/cryptopanic.com\/news\/18724174\/Happy-to-support-mor_tonn-with-the-high-performance-blockchain-infrastructure-of-REI-Network",
+            "created_at": "2023-07-05T08:15:19Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GXChainGlobal",
+            "source": {
+                "title": "GXChain Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gxchainglobal"
+            },
+            "title": "RT @SmartBSCNews: \ud83e\udd38 @BitPad_BRC20 has teamed up with @GXChainGlobal \n\n\ud83e\udd38 #Bitpad, the innovative Bitcoin-based launchpad, marketplace and br\u2026",
+            "published_at": "2023-07-05T02:44:49Z",
+            "slug": "RT-SmartBSCNews-BitPad_BRC20-has-teamed-up-with-GXChainGlobal-Bitpad-the-innovative-Bitcoin-based-launchpad-marketplace-and-br",
+            "currencies": [
+                {
+                    "code": "GXC",
+                    "title": "GXChain",
+                    "slug": "gxchain",
+                    "url": "https:\/\/cryptopanic.com\/news\/gxchain\/"
+                },
+                {
+                    "code": "REI",
+                    "title": "REI Network",
+                    "slug": "rei-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/rei-network\/"
+                }
+            ],
+            "id": 18716402,
+            "url": "https:\/\/cryptopanic.com\/news\/18716402\/RT-SmartBSCNews-BitPad_BRC20-has-teamed-up-with-GXChainGlobal-Bitpad-the-innovative-Bitcoin-based-launchpad-marketplace-and-br",
+            "created_at": "2023-07-05T02:44:49Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GXChainGlobal",
+            "source": {
+                "title": "GXChain Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gxchainglobal"
+            },
+            "title": "\ufe0f#REINetwork Weekly Report - 4 July 2023\n\nTwitter space with @metabitofficial, @GetaverseGlobal, and @airdao_cn\n\u2026",
+            "published_at": "2023-07-04T10:02:38Z",
+            "slug": "REINetwork-Weekly-Report-4-July-2023-Twitter-space-with-metabitofficial-GetaverseGlobal-and-airdao_cn",
+            "currencies": [
+                {
+                    "code": "GXC",
+                    "title": "GXChain",
+                    "slug": "gxchain",
+                    "url": "https:\/\/cryptopanic.com\/news\/gxchain\/"
+                },
+                {
+                    "code": "REI",
+                    "title": "REI Network",
+                    "slug": "rei-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/rei-network\/"
+                }
+            ],
+            "id": 18716403,
+            "url": "https:\/\/cryptopanic.com\/news\/18716403\/REINetwork-Weekly-Report-4-July-2023-Twitter-space-with-metabitofficial-GetaverseGlobal-and-airdao_cn",
+            "created_at": "2023-07-04T10:02:38Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GXChainGlobal",
+            "source": {
+                "title": "GXChain Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gxchainglobal"
+            },
+            "title": "We recognize the potential of MPC wallets for enhancing asset management and network development. REI Network plans\u2026",
+            "published_at": "2023-07-04T08:05:19Z",
+            "slug": "We-recognize-the-potential-of-MPC-wallets-for-enhancing-asset-management-and-network-development-REI-Network-plans",
+            "currencies": [
+                {
+                    "code": "GXC",
+                    "title": "GXChain",
+                    "slug": "gxchain",
+                    "url": "https:\/\/cryptopanic.com\/news\/gxchain\/"
+                },
+                {
+                    "code": "REI",
+                    "title": "REI Network",
+                    "slug": "rei-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/rei-network\/"
+                }
+            ],
+            "id": 18716404,
+            "url": "https:\/\/cryptopanic.com\/news\/18716404\/We-recognize-the-potential-of-MPC-wallets-for-enhancing-asset-management-and-network-development-REI-Network-plans",
+            "created_at": "2023-07-04T08:05:19Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GXChainGlobal",
+            "source": {
+                "title": "GXChain Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gxchainglobal"
+            },
+            "title": "\ud83e\udd1d Thrilled to announce the partnership with @BitPad_BRC20!\n\n#REINetwork, an EVM-compatible blockchain, meets the fu\u2026",
+            "published_at": "2023-07-04T03:42:14Z",
+            "slug": "Thrilled-to-announce-the-partnership-with-BitPad_BRC20-REINetwork-an-EVM-compatible-blockchain-meets-the-fu",
+            "currencies": [
+                {
+                    "code": "GXC",
+                    "title": "GXChain",
+                    "slug": "gxchain",
+                    "url": "https:\/\/cryptopanic.com\/news\/gxchain\/"
+                },
+                {
+                    "code": "REI",
+                    "title": "REI Network",
+                    "slug": "rei-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/rei-network\/"
+                }
+            ],
+            "id": 18709123,
+            "url": "https:\/\/cryptopanic.com\/news\/18709123\/Thrilled-to-announce-the-partnership-with-BitPad_BRC20-REINetwork-an-EVM-compatible-blockchain-meets-the-fu",
+            "created_at": "2023-07-04T03:42:14Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GXChainGlobal",
+            "source": {
+                "title": "GXChain Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gxchainglobal"
+            },
+            "title": "Join us for an amazing talk with @metabitofficial, @GetaverseGlobal, and @airdao_cn today!",
+            "published_at": "2023-06-30T06:46:46Z",
+            "slug": "Join-us-for-an-amazing-talk-with-metabitofficial-GetaverseGlobal-and-airdao_cn-today",
+            "currencies": [
+                {
+                    "code": "GXC",
+                    "title": "GXChain",
+                    "slug": "gxchain",
+                    "url": "https:\/\/cryptopanic.com\/news\/gxchain\/"
+                },
+                {
+                    "code": "REI",
+                    "title": "REI Network",
+                    "slug": "rei-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/rei-network\/"
+                }
+            ],
+            "id": 18685733,
+            "url": "https:\/\/cryptopanic.com\/news\/18685733\/Join-us-for-an-amazing-talk-with-metabitofficial-GetaverseGlobal-and-airdao_cn-today",
+            "created_at": "2023-06-30T06:46:46Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GXChainGlobal",
+            "source": {
+                "title": "GXChain Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gxchainglobal"
+            },
+            "title": "\ud83e\udd1dWelcome to #REI ecosystem!",
+            "published_at": "2023-06-30T03:21:26Z",
+            "slug": "Welcome-to-REI-ecosystem",
+            "currencies": [
+                {
+                    "code": "GXC",
+                    "title": "GXChain",
+                    "slug": "gxchain",
+                    "url": "https:\/\/cryptopanic.com\/news\/gxchain\/"
+                },
+                {
+                    "code": "REI",
+                    "title": "REI Network",
+                    "slug": "rei-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/rei-network\/"
+                }
+            ],
+            "id": 18685734,
+            "url": "https:\/\/cryptopanic.com\/news\/18685734\/Welcome-to-REI-ecosystem",
+            "created_at": "2023-06-30T03:21:26Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GXChainGlobal",
+            "source": {
+                "title": "GXChain Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gxchainglobal"
+            },
+            "title": "\u23f0Set your reminder!",
+            "published_at": "2023-06-30T02:52:00Z",
+            "slug": "Set-your-reminder",
+            "currencies": [
+                {
+                    "code": "GXC",
+                    "title": "GXChain",
+                    "slug": "gxchain",
+                    "url": "https:\/\/cryptopanic.com\/news\/gxchain\/"
+                },
+                {
+                    "code": "REI",
+                    "title": "REI Network",
+                    "slug": "rei-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/rei-network\/"
+                }
+            ],
+            "id": 18685735,
+            "url": "https:\/\/cryptopanic.com\/news\/18685735\/Set-your-reminder",
+            "created_at": "2023-06-30T02:52:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GXChainGlobal",
+            "source": {
+                "title": "GXChain Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gxchainglobal"
+            },
+            "title": "As a crosschain protocol serving the REI Network, @nerve_network builds a stable, decentralized, gas-free, high-TP\u2026",
+            "published_at": "2023-06-29T03:28:49Z",
+            "slug": "As-a-crosschain-protocol-serving-the-REI-Network-nerve_network-builds-a-stable-decentralized-gas-free-high-TP",
+            "currencies": [
+                {
+                    "code": "GXC",
+                    "title": "GXChain",
+                    "slug": "gxchain",
+                    "url": "https:\/\/cryptopanic.com\/news\/gxchain\/"
+                },
+                {
+                    "code": "REI",
+                    "title": "REI Network",
+                    "slug": "rei-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/rei-network\/"
+                }
+            ],
+            "id": 18677708,
+            "url": "https:\/\/cryptopanic.com\/news\/18677708\/As-a-crosschain-protocol-serving-the-REI-Network-nerve_network-builds-a-stable-decentralized-gas-free-high-TP",
+            "created_at": "2023-06-29T03:28:49Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GXChainGlobal",
+            "source": {
+                "title": "GXChain Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gxchainglobal"
+            },
+            "title": "\ufe0f#REINetwork Weekly Report - 28 June 2023\n\n@nerve_network builds crosschain bridge for REI community\nThe testne\u2026",
+            "published_at": "2023-06-28T09:48:18Z",
+            "slug": "REINetwork-Weekly-Report-28-June-2023-nerve_network-builds-crosschain-bridge-for-REI-community-The-testne",
+            "currencies": [
+                {
+                    "code": "GXC",
+                    "title": "GXChain",
+                    "slug": "gxchain",
+                    "url": "https:\/\/cryptopanic.com\/news\/gxchain\/"
+                },
+                {
+                    "code": "REI",
+                    "title": "REI Network",
+                    "slug": "rei-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/rei-network\/"
+                }
+            ],
+            "id": 18677709,
+            "url": "https:\/\/cryptopanic.com\/news\/18677709\/REINetwork-Weekly-Report-28-June-2023-nerve_network-builds-crosschain-bridge-for-REI-community-The-testne",
+            "created_at": "2023-06-28T09:48:18Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GXChainGlobal",
+            "source": {
+                "title": "GXChain Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gxchainglobal"
+            },
+            "title": "RT @nerve_network: Bridge Tokens from @GXChainGlobal across the chains effortlessly\ufe0f\n\nNerve has fully supported #REINetwork. Now calling f\u2026",
+            "published_at": "2023-06-28T06:45:23Z",
+            "slug": "RT-nerve_network-Bridge-Tokens-from-GXChainGlobal-across-the-chains-effortlessly-Nerve-has-fully-supported-REINetwork-Now-calling-f",
+            "currencies": [
+                {
+                    "code": "GXC",
+                    "title": "GXChain",
+                    "slug": "gxchain",
+                    "url": "https:\/\/cryptopanic.com\/news\/gxchain\/"
+                },
+                {
+                    "code": "REI",
+                    "title": "REI Network",
+                    "slug": "rei-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/rei-network\/"
+                }
+            ],
+            "id": 18669463,
+            "url": "https:\/\/cryptopanic.com\/news\/18669463\/RT-nerve_network-Bridge-Tokens-from-GXChainGlobal-across-the-chains-effortlessly-Nerve-has-fully-supported-REINetwork-Now-calling-f",
+            "created_at": "2023-06-28T06:45:23Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

@@ -1,0 +1,1805 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=BAL&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "@Balancer",
+            "source": {
+                "title": "Balancer Boosted Aave USD Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@balancer"
+            },
+            "title": "RT @CoingraphNews: JUST IN: Several DeFi protocols join 8020 Initiative, aiming to increase liquidity &amp; reduce slippage. Holders can stake\u2026",
+            "published_at": "2023-07-12T03:04:13Z",
+            "slug": "RT-CoingraphNews-JUST-IN-Several-DeFi-protocols-join-8020-Initiative-aiming-to-increase-liquidity-amp-reduce-slippage-Holders-can-stake",
+            "currencies": [
+                {
+                    "code": "BAL",
+                    "title": "Balancer",
+                    "slug": "balancer",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer\/"
+                },
+                {
+                    "code": "BB-A-USD",
+                    "title": "Balancer Boosted Aave USD",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "BB-A-USDC",
+                    "title": "Balancer Boosted Aave USDC",
+                    "slug": "balancer-boosted-aave-usdc",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-usdc\/"
+                },
+                {
+                    "code": "BB-A-USDT",
+                    "title": "Balancer Boosted Aave USDT",
+                    "slug": "balancer-boosted-aave-usdt",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-usdt\/"
+                },
+                {
+                    "code": "BB-A-DAI",
+                    "title": "Balancer Boosted Aave DAI",
+                    "slug": "balancer-boosted-aave-dai",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-dai\/"
+                },
+                {
+                    "code": "B-80BAL-20WETH",
+                    "title": "Balancer 80 BAL 20 WETH",
+                    "slug": "balancer-80-bal-20-weth",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-80-bal-20-weth\/"
+                },
+                {
+                    "code": "20WETH-80BAL",
+                    "title": "20WETH-80BAL",
+                    "slug": "20weth-80bal",
+                    "url": "https:\/\/cryptopanic.com\/news\/20weth-80bal\/"
+                },
+                {
+                    "code": "BB-A-WETH",
+                    "title": "Balancer Aave v3 Boosted Pool (WETH)",
+                    "slug": "balancer-boosted-aave-weth",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-weth\/"
+                },
+                {
+                    "code": "MATICX-BB-A-WMAT",
+                    "title": "Balancer MaticX Boosted Aave WMATIC",
+                    "slug": "balancer-maticx-boosted-aave-wmatic",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-maticx-boosted-aave-wmatic\/"
+                },
+                {
+                    "code": "BB-A-WMATIC",
+                    "title": "Balancer Aave Boosted WMATIC",
+                    "slug": "balancer-aave-boosted-wmatic",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-aave-boosted-wmatic\/"
+                }
+            ],
+            "id": 18762835,
+            "url": "https:\/\/cryptopanic.com\/news\/18762835\/RT-CoingraphNews-JUST-IN-Several-DeFi-protocols-join-8020-Initiative-aiming-to-increase-liquidity-amp-reduce-slippage-Holders-can-stake",
+            "created_at": "2023-07-12T03:04:13Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Balancer",
+            "source": {
+                "title": "Balancer Boosted Aave USD Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@balancer"
+            },
+            "title": "The time has come!\n\nAll $OP users can now harness a supercharged Balancer technology liquidity layer.\n \nCheck it o\u2026",
+            "published_at": "2023-07-12T02:16:49Z",
+            "slug": "The-time-has-come-All-OP-users-can-now-harness-a-supercharged-Balancer-technology-liquidity-layer-Check-it-o",
+            "currencies": [
+                {
+                    "code": "BAL",
+                    "title": "Balancer",
+                    "slug": "balancer",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer\/"
+                },
+                {
+                    "code": "BB-A-USD",
+                    "title": "Balancer Boosted Aave USD",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "BB-A-USDC",
+                    "title": "Balancer Boosted Aave USDC",
+                    "slug": "balancer-boosted-aave-usdc",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-usdc\/"
+                },
+                {
+                    "code": "BB-A-USDT",
+                    "title": "Balancer Boosted Aave USDT",
+                    "slug": "balancer-boosted-aave-usdt",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-usdt\/"
+                },
+                {
+                    "code": "BB-A-DAI",
+                    "title": "Balancer Boosted Aave DAI",
+                    "slug": "balancer-boosted-aave-dai",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-dai\/"
+                },
+                {
+                    "code": "B-80BAL-20WETH",
+                    "title": "Balancer 80 BAL 20 WETH",
+                    "slug": "balancer-80-bal-20-weth",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-80-bal-20-weth\/"
+                },
+                {
+                    "code": "20WETH-80BAL",
+                    "title": "20WETH-80BAL",
+                    "slug": "20weth-80bal",
+                    "url": "https:\/\/cryptopanic.com\/news\/20weth-80bal\/"
+                },
+                {
+                    "code": "BB-A-WETH",
+                    "title": "Balancer Aave v3 Boosted Pool (WETH)",
+                    "slug": "balancer-boosted-aave-weth",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-weth\/"
+                },
+                {
+                    "code": "MATICX-BB-A-WMAT",
+                    "title": "Balancer MaticX Boosted Aave WMATIC",
+                    "slug": "balancer-maticx-boosted-aave-wmatic",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-maticx-boosted-aave-wmatic\/"
+                },
+                {
+                    "code": "BB-A-WMATIC",
+                    "title": "Balancer Aave Boosted WMATIC",
+                    "slug": "balancer-aave-boosted-wmatic",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-aave-boosted-wmatic\/"
+                },
+                {
+                    "code": "OP",
+                    "title": "Optimism",
+                    "slug": "optimism",
+                    "url": "https:\/\/cryptopanic.com\/news\/optimism\/"
+                }
+            ],
+            "id": 18762836,
+            "url": "https:\/\/cryptopanic.com\/news\/18762836\/The-time-has-come-All-OP-users-can-now-harness-a-supercharged-Balancer-technology-liquidity-layer-Check-it-o",
+            "created_at": "2023-07-12T02:16:49Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Balancer",
+            "source": {
+                "title": "Balancer Boosted Aave USD Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@balancer"
+            },
+            "title": "RT @AuraFinance: The multichain mission has gone OP!\n\nAura is live on @optimismFND mainnet. \n\n@ what you ",
+            "published_at": "2023-07-12T00:28:23Z",
+            "slug": "RT-AuraFinance-The-multichain-mission-has-gone-OP-Aura-is-live-on-optimismFND-mainnet-what-you",
+            "currencies": [
+                {
+                    "code": "BAL",
+                    "title": "Balancer",
+                    "slug": "balancer",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer\/"
+                },
+                {
+                    "code": "BB-A-USD",
+                    "title": "Balancer Boosted Aave USD",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "BB-A-USDC",
+                    "title": "Balancer Boosted Aave USDC",
+                    "slug": "balancer-boosted-aave-usdc",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-usdc\/"
+                },
+                {
+                    "code": "BB-A-USDT",
+                    "title": "Balancer Boosted Aave USDT",
+                    "slug": "balancer-boosted-aave-usdt",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-usdt\/"
+                },
+                {
+                    "code": "BB-A-DAI",
+                    "title": "Balancer Boosted Aave DAI",
+                    "slug": "balancer-boosted-aave-dai",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-dai\/"
+                },
+                {
+                    "code": "B-80BAL-20WETH",
+                    "title": "Balancer 80 BAL 20 WETH",
+                    "slug": "balancer-80-bal-20-weth",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-80-bal-20-weth\/"
+                },
+                {
+                    "code": "20WETH-80BAL",
+                    "title": "20WETH-80BAL",
+                    "slug": "20weth-80bal",
+                    "url": "https:\/\/cryptopanic.com\/news\/20weth-80bal\/"
+                },
+                {
+                    "code": "BB-A-WETH",
+                    "title": "Balancer Aave v3 Boosted Pool (WETH)",
+                    "slug": "balancer-boosted-aave-weth",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-weth\/"
+                },
+                {
+                    "code": "MATICX-BB-A-WMAT",
+                    "title": "Balancer MaticX Boosted Aave WMATIC",
+                    "slug": "balancer-maticx-boosted-aave-wmatic",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-maticx-boosted-aave-wmatic\/"
+                },
+                {
+                    "code": "BB-A-WMATIC",
+                    "title": "Balancer Aave Boosted WMATIC",
+                    "slug": "balancer-aave-boosted-wmatic",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-aave-boosted-wmatic\/"
+                }
+            ],
+            "id": 18762837,
+            "url": "https:\/\/cryptopanic.com\/news\/18762837\/RT-AuraFinance-The-multichain-mission-has-gone-OP-Aura-is-live-on-optimismFND-mainnet-what-you",
+            "created_at": "2023-07-12T00:28:23Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Balancer",
+            "source": {
+                "title": "Balancer Boosted Aave USD Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@balancer"
+            },
+            "title": "Welcome @staderlabs_eth to the Liquid Staked $ETH world! \n\nWith Rate Providers and Interconnected Vault Architectur\u2026",
+            "published_at": "2023-07-11T12:01:50Z",
+            "slug": "Welcome-staderlabs_eth-to-the-Liquid-Staked-ETH-world-With-Rate-Providers-and-Interconnected-Vault-Architectur",
+            "currencies": [
+                {
+                    "code": "BAL",
+                    "title": "Balancer",
+                    "slug": "balancer",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer\/"
+                },
+                {
+                    "code": "BB-A-USD",
+                    "title": "Balancer Boosted Aave USD",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "BB-A-USDC",
+                    "title": "Balancer Boosted Aave USDC",
+                    "slug": "balancer-boosted-aave-usdc",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-usdc\/"
+                },
+                {
+                    "code": "BB-A-USDT",
+                    "title": "Balancer Boosted Aave USDT",
+                    "slug": "balancer-boosted-aave-usdt",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-usdt\/"
+                },
+                {
+                    "code": "BB-A-DAI",
+                    "title": "Balancer Boosted Aave DAI",
+                    "slug": "balancer-boosted-aave-dai",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-dai\/"
+                },
+                {
+                    "code": "B-80BAL-20WETH",
+                    "title": "Balancer 80 BAL 20 WETH",
+                    "slug": "balancer-80-bal-20-weth",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-80-bal-20-weth\/"
+                },
+                {
+                    "code": "20WETH-80BAL",
+                    "title": "20WETH-80BAL",
+                    "slug": "20weth-80bal",
+                    "url": "https:\/\/cryptopanic.com\/news\/20weth-80bal\/"
+                },
+                {
+                    "code": "BB-A-WETH",
+                    "title": "Balancer Aave v3 Boosted Pool (WETH)",
+                    "slug": "balancer-boosted-aave-weth",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-weth\/"
+                },
+                {
+                    "code": "MATICX-BB-A-WMAT",
+                    "title": "Balancer MaticX Boosted Aave WMATIC",
+                    "slug": "balancer-maticx-boosted-aave-wmatic",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-maticx-boosted-aave-wmatic\/"
+                },
+                {
+                    "code": "BB-A-WMATIC",
+                    "title": "Balancer Aave Boosted WMATIC",
+                    "slug": "balancer-aave-boosted-wmatic",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-aave-boosted-wmatic\/"
+                }
+            ],
+            "id": 18762838,
+            "url": "https:\/\/cryptopanic.com\/news\/18762838\/Welcome-staderlabs_eth-to-the-Liquid-Staked-ETH-world-With-Rate-Providers-and-Interconnected-Vault-Architectur",
+            "created_at": "2023-07-11T12:01:50Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Balancer",
+            "source": {
+                "title": "Balancer Boosted Aave USD Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@balancer"
+            },
+            "title": "RT @Cryptovoxam: A new governance token system is gaining traction.\n\nIt leverages @Balancer weighted pools to achieve:\n\n\u2022 Deeper Liquidity\u2026",
+            "published_at": "2023-07-11T07:00:25Z",
+            "slug": "RT-Cryptovoxam-A-new-governance-token-system-is-gaining-traction-It-leverages-Balancer-weighted-pools-to-achieve-Deeper-Liquidity",
+            "currencies": [
+                {
+                    "code": "BAL",
+                    "title": "Balancer",
+                    "slug": "balancer",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer\/"
+                },
+                {
+                    "code": "BB-A-USD",
+                    "title": "Balancer Boosted Aave USD",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "BB-A-USDC",
+                    "title": "Balancer Boosted Aave USDC",
+                    "slug": "balancer-boosted-aave-usdc",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-usdc\/"
+                },
+                {
+                    "code": "BB-A-USDT",
+                    "title": "Balancer Boosted Aave USDT",
+                    "slug": "balancer-boosted-aave-usdt",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-usdt\/"
+                },
+                {
+                    "code": "BB-A-DAI",
+                    "title": "Balancer Boosted Aave DAI",
+                    "slug": "balancer-boosted-aave-dai",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-dai\/"
+                },
+                {
+                    "code": "B-80BAL-20WETH",
+                    "title": "Balancer 80 BAL 20 WETH",
+                    "slug": "balancer-80-bal-20-weth",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-80-bal-20-weth\/"
+                },
+                {
+                    "code": "20WETH-80BAL",
+                    "title": "20WETH-80BAL",
+                    "slug": "20weth-80bal",
+                    "url": "https:\/\/cryptopanic.com\/news\/20weth-80bal\/"
+                },
+                {
+                    "code": "BB-A-WETH",
+                    "title": "Balancer Aave v3 Boosted Pool (WETH)",
+                    "slug": "balancer-boosted-aave-weth",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-weth\/"
+                },
+                {
+                    "code": "MATICX-BB-A-WMAT",
+                    "title": "Balancer MaticX Boosted Aave WMATIC",
+                    "slug": "balancer-maticx-boosted-aave-wmatic",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-maticx-boosted-aave-wmatic\/"
+                },
+                {
+                    "code": "BB-A-WMATIC",
+                    "title": "Balancer Aave Boosted WMATIC",
+                    "slug": "balancer-aave-boosted-wmatic",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-aave-boosted-wmatic\/"
+                }
+            ],
+            "id": 18762839,
+            "url": "https:\/\/cryptopanic.com\/news\/18762839\/RT-Cryptovoxam-A-new-governance-token-system-is-gaining-traction-It-leverages-Balancer-weighted-pools-to-achieve-Deeper-Liquidity",
+            "created_at": "2023-07-11T07:00:25Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Balancer",
+            "source": {
+                "title": "Balancer Boosted Aave USD Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@balancer"
+            },
+            "title": "Balancer Community Hall Q2 Retrospective\n\nJoin the Balancer DAO service providers for a quarterly recap of their wo\u2026",
+            "published_at": "2023-07-11T04:18:01Z",
+            "slug": "Balancer-Community-Hall-Q2-Retrospective-Join-the-Balancer-DAO-service-providers-for-a-quarterly-recap-of-their-wo",
+            "currencies": [
+                {
+                    "code": "BAL",
+                    "title": "Balancer",
+                    "slug": "balancer",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer\/"
+                },
+                {
+                    "code": "BB-A-USD",
+                    "title": "Balancer Boosted Aave USD",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "BB-A-USDC",
+                    "title": "Balancer Boosted Aave USDC",
+                    "slug": "balancer-boosted-aave-usdc",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-usdc\/"
+                },
+                {
+                    "code": "BB-A-USDT",
+                    "title": "Balancer Boosted Aave USDT",
+                    "slug": "balancer-boosted-aave-usdt",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-usdt\/"
+                },
+                {
+                    "code": "BB-A-DAI",
+                    "title": "Balancer Boosted Aave DAI",
+                    "slug": "balancer-boosted-aave-dai",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-dai\/"
+                },
+                {
+                    "code": "B-80BAL-20WETH",
+                    "title": "Balancer 80 BAL 20 WETH",
+                    "slug": "balancer-80-bal-20-weth",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-80-bal-20-weth\/"
+                },
+                {
+                    "code": "20WETH-80BAL",
+                    "title": "20WETH-80BAL",
+                    "slug": "20weth-80bal",
+                    "url": "https:\/\/cryptopanic.com\/news\/20weth-80bal\/"
+                },
+                {
+                    "code": "BB-A-WETH",
+                    "title": "Balancer Aave v3 Boosted Pool (WETH)",
+                    "slug": "balancer-boosted-aave-weth",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-weth\/"
+                },
+                {
+                    "code": "MATICX-BB-A-WMAT",
+                    "title": "Balancer MaticX Boosted Aave WMATIC",
+                    "slug": "balancer-maticx-boosted-aave-wmatic",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-maticx-boosted-aave-wmatic\/"
+                },
+                {
+                    "code": "BB-A-WMATIC",
+                    "title": "Balancer Aave Boosted WMATIC",
+                    "slug": "balancer-aave-boosted-wmatic",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-aave-boosted-wmatic\/"
+                }
+            ],
+            "id": 18754654,
+            "url": "https:\/\/cryptopanic.com\/news\/18754654\/Balancer-Community-Hall-Q2-Retrospective-Join-the-Balancer-DAO-service-providers-for-a-quarterly-recap-of-their-wo",
+            "created_at": "2023-07-11T04:18:01Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Balancer",
+            "source": {
+                "title": "Balancer Boosted Aave USD Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@balancer"
+            },
+            "title": "RT @CoWSwap: ~30 m ago @AaveAave DAO withdrew aBAL &amp; aWETH to enter directly into a @Balancer LP via @CoWSwap!\n\nThey leveraged smart orders\u2026",
+            "published_at": "2023-07-11T01:09:35Z",
+            "slug": "RT-CoWSwap-30-m-ago-AaveAave-DAO-withdrew-aBAL-amp-aWETH-to-enter-directly-into-a-Balancer-LP-via-CoWSwap-They-leveraged-smart-orders",
+            "currencies": [
+                {
+                    "code": "BAL",
+                    "title": "Balancer",
+                    "slug": "balancer",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer\/"
+                },
+                {
+                    "code": "BB-A-USD",
+                    "title": "Balancer Boosted Aave USD",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "BB-A-USDC",
+                    "title": "Balancer Boosted Aave USDC",
+                    "slug": "balancer-boosted-aave-usdc",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-usdc\/"
+                },
+                {
+                    "code": "BB-A-USDT",
+                    "title": "Balancer Boosted Aave USDT",
+                    "slug": "balancer-boosted-aave-usdt",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-usdt\/"
+                },
+                {
+                    "code": "BB-A-DAI",
+                    "title": "Balancer Boosted Aave DAI",
+                    "slug": "balancer-boosted-aave-dai",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-dai\/"
+                },
+                {
+                    "code": "B-80BAL-20WETH",
+                    "title": "Balancer 80 BAL 20 WETH",
+                    "slug": "balancer-80-bal-20-weth",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-80-bal-20-weth\/"
+                },
+                {
+                    "code": "20WETH-80BAL",
+                    "title": "20WETH-80BAL",
+                    "slug": "20weth-80bal",
+                    "url": "https:\/\/cryptopanic.com\/news\/20weth-80bal\/"
+                },
+                {
+                    "code": "BB-A-WETH",
+                    "title": "Balancer Aave v3 Boosted Pool (WETH)",
+                    "slug": "balancer-boosted-aave-weth",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-weth\/"
+                },
+                {
+                    "code": "MATICX-BB-A-WMAT",
+                    "title": "Balancer MaticX Boosted Aave WMATIC",
+                    "slug": "balancer-maticx-boosted-aave-wmatic",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-maticx-boosted-aave-wmatic\/"
+                },
+                {
+                    "code": "BB-A-WMATIC",
+                    "title": "Balancer Aave Boosted WMATIC",
+                    "slug": "balancer-aave-boosted-wmatic",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-aave-boosted-wmatic\/"
+                }
+            ],
+            "id": 18754655,
+            "url": "https:\/\/cryptopanic.com\/news\/18754655\/RT-CoWSwap-30-m-ago-AaveAave-DAO-withdrew-aBAL-amp-aWETH-to-enter-directly-into-a-Balancer-LP-via-CoWSwap-They-leveraged-smart-orders",
+            "created_at": "2023-07-11T01:09:35Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Balancer",
+            "source": {
+                "title": "Balancer Boosted Aave USD Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@balancer"
+            },
+            "title": "Good Tech, Bad Human?\n\nIt\u2019s not that simple...\n\nA \ud83e\uddf5",
+            "published_at": "2023-07-10T15:00:26Z",
+            "slug": "Good-Tech-Bad-Human-Its-not-that-simple-A",
+            "currencies": [
+                {
+                    "code": "BAL",
+                    "title": "Balancer",
+                    "slug": "balancer",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer\/"
+                },
+                {
+                    "code": "BB-A-USD",
+                    "title": "Balancer Boosted Aave USD",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "BB-A-USDC",
+                    "title": "Balancer Boosted Aave USDC",
+                    "slug": "balancer-boosted-aave-usdc",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-usdc\/"
+                },
+                {
+                    "code": "BB-A-USDT",
+                    "title": "Balancer Boosted Aave USDT",
+                    "slug": "balancer-boosted-aave-usdt",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-usdt\/"
+                },
+                {
+                    "code": "BB-A-DAI",
+                    "title": "Balancer Boosted Aave DAI",
+                    "slug": "balancer-boosted-aave-dai",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-dai\/"
+                },
+                {
+                    "code": "B-80BAL-20WETH",
+                    "title": "Balancer 80 BAL 20 WETH",
+                    "slug": "balancer-80-bal-20-weth",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-80-bal-20-weth\/"
+                },
+                {
+                    "code": "20WETH-80BAL",
+                    "title": "20WETH-80BAL",
+                    "slug": "20weth-80bal",
+                    "url": "https:\/\/cryptopanic.com\/news\/20weth-80bal\/"
+                },
+                {
+                    "code": "BB-A-WETH",
+                    "title": "Balancer Aave v3 Boosted Pool (WETH)",
+                    "slug": "balancer-boosted-aave-weth",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-weth\/"
+                },
+                {
+                    "code": "MATICX-BB-A-WMAT",
+                    "title": "Balancer MaticX Boosted Aave WMATIC",
+                    "slug": "balancer-maticx-boosted-aave-wmatic",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-maticx-boosted-aave-wmatic\/"
+                },
+                {
+                    "code": "BB-A-WMATIC",
+                    "title": "Balancer Aave Boosted WMATIC",
+                    "slug": "balancer-aave-boosted-wmatic",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-aave-boosted-wmatic\/"
+                }
+            ],
+            "id": 18754656,
+            "url": "https:\/\/cryptopanic.com\/news\/18754656\/Good-Tech-Bad-Human-Its-not-that-simple-A",
+            "created_at": "2023-07-10T15:00:26Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Balancer",
+            "source": {
+                "title": "Balancer Boosted Aave USD Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@balancer"
+            },
+            "title": "RT @beethoven_x: Coasting through $OP City in the $BEETS Chopper. \n\nA bright purple hue lies hidden amongst the busy streets. \n\nI wonder wh\u2026",
+            "published_at": "2023-07-10T13:23:42Z",
+            "slug": "RT-beethoven_x-Coasting-through-OP-City-in-the-BEETS-Chopper-A-bright-purple-hue-lies-hidden-amongst-the-busy-streets-I-wonder-wh",
+            "currencies": [
+                {
+                    "code": "BAL",
+                    "title": "Balancer",
+                    "slug": "balancer",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer\/"
+                },
+                {
+                    "code": "BB-A-USD",
+                    "title": "Balancer Boosted Aave USD",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "BB-A-USDC",
+                    "title": "Balancer Boosted Aave USDC",
+                    "slug": "balancer-boosted-aave-usdc",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-usdc\/"
+                },
+                {
+                    "code": "BB-A-USDT",
+                    "title": "Balancer Boosted Aave USDT",
+                    "slug": "balancer-boosted-aave-usdt",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-usdt\/"
+                },
+                {
+                    "code": "BB-A-DAI",
+                    "title": "Balancer Boosted Aave DAI",
+                    "slug": "balancer-boosted-aave-dai",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-dai\/"
+                },
+                {
+                    "code": "B-80BAL-20WETH",
+                    "title": "Balancer 80 BAL 20 WETH",
+                    "slug": "balancer-80-bal-20-weth",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-80-bal-20-weth\/"
+                },
+                {
+                    "code": "20WETH-80BAL",
+                    "title": "20WETH-80BAL",
+                    "slug": "20weth-80bal",
+                    "url": "https:\/\/cryptopanic.com\/news\/20weth-80bal\/"
+                },
+                {
+                    "code": "BB-A-WETH",
+                    "title": "Balancer Aave v3 Boosted Pool (WETH)",
+                    "slug": "balancer-boosted-aave-weth",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-weth\/"
+                },
+                {
+                    "code": "MATICX-BB-A-WMAT",
+                    "title": "Balancer MaticX Boosted Aave WMATIC",
+                    "slug": "balancer-maticx-boosted-aave-wmatic",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-maticx-boosted-aave-wmatic\/"
+                },
+                {
+                    "code": "BB-A-WMATIC",
+                    "title": "Balancer Aave Boosted WMATIC",
+                    "slug": "balancer-aave-boosted-wmatic",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-aave-boosted-wmatic\/"
+                },
+                {
+                    "code": "OP",
+                    "title": "Optimism",
+                    "slug": "optimism",
+                    "url": "https:\/\/cryptopanic.com\/news\/optimism\/"
+                }
+            ],
+            "id": 18754657,
+            "url": "https:\/\/cryptopanic.com\/news\/18754657\/RT-beethoven_x-Coasting-through-OP-City-in-the-BEETS-Chopper-A-bright-purple-hue-lies-hidden-amongst-the-busy-streets-I-wonder-wh",
+            "created_at": "2023-07-10T13:23:42Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Balancer",
+            "source": {
+                "title": "Balancer Boosted Aave USD Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@balancer"
+            },
+            "title": "Balancer is booming.\n\nCross-chain boosts, The 8020 Initiative, Ecosystem updates, and more!\n\nDive into the latest e\u2026",
+            "published_at": "2023-07-10T13:03:24Z",
+            "slug": "Balancer-is-booming-Cross-chain-boosts-The-8020-Initiative-Ecosystem-updates-and-more-Dive-into-the-latest-e",
+            "currencies": [
+                {
+                    "code": "BAL",
+                    "title": "Balancer",
+                    "slug": "balancer",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer\/"
+                },
+                {
+                    "code": "BB-A-USD",
+                    "title": "Balancer Boosted Aave USD",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "BB-A-USDC",
+                    "title": "Balancer Boosted Aave USDC",
+                    "slug": "balancer-boosted-aave-usdc",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-usdc\/"
+                },
+                {
+                    "code": "BB-A-USDT",
+                    "title": "Balancer Boosted Aave USDT",
+                    "slug": "balancer-boosted-aave-usdt",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-usdt\/"
+                },
+                {
+                    "code": "BB-A-DAI",
+                    "title": "Balancer Boosted Aave DAI",
+                    "slug": "balancer-boosted-aave-dai",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-dai\/"
+                },
+                {
+                    "code": "B-80BAL-20WETH",
+                    "title": "Balancer 80 BAL 20 WETH",
+                    "slug": "balancer-80-bal-20-weth",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-80-bal-20-weth\/"
+                },
+                {
+                    "code": "20WETH-80BAL",
+                    "title": "20WETH-80BAL",
+                    "slug": "20weth-80bal",
+                    "url": "https:\/\/cryptopanic.com\/news\/20weth-80bal\/"
+                },
+                {
+                    "code": "BB-A-WETH",
+                    "title": "Balancer Aave v3 Boosted Pool (WETH)",
+                    "slug": "balancer-boosted-aave-weth",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-weth\/"
+                },
+                {
+                    "code": "MATICX-BB-A-WMAT",
+                    "title": "Balancer MaticX Boosted Aave WMATIC",
+                    "slug": "balancer-maticx-boosted-aave-wmatic",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-maticx-boosted-aave-wmatic\/"
+                },
+                {
+                    "code": "BB-A-WMATIC",
+                    "title": "Balancer Aave Boosted WMATIC",
+                    "slug": "balancer-aave-boosted-wmatic",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-aave-boosted-wmatic\/"
+                }
+            ],
+            "id": 18754658,
+            "url": "https:\/\/cryptopanic.com\/news\/18754658\/Balancer-is-booming-Cross-chain-boosts-The-8020-Initiative-Ecosystem-updates-and-more-Dive-into-the-latest-e",
+            "created_at": "2023-07-10T13:03:24Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Balancer",
+            "source": {
+                "title": "Balancer Boosted Aave USD Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@balancer"
+            },
+            "title": "RT @_khanhamzah: $rETH liquidity on @Balancer zkEVM almost doubled over last few days. \n\nwonder what the @Rocket_Pool community being cooki\u2026",
+            "published_at": "2023-07-10T10:49:21Z",
+            "slug": "RT-_khanhamzah-rETH-liquidity-on-Balancer-zkEVM-almost-doubled-over-last-few-days-wonder-what-the-Rocket_Pool-community-being-cooki",
+            "currencies": [
+                {
+                    "code": "BAL",
+                    "title": "Balancer",
+                    "slug": "balancer",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer\/"
+                },
+                {
+                    "code": "BB-A-USD",
+                    "title": "Balancer Boosted Aave USD",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "BB-A-USDC",
+                    "title": "Balancer Boosted Aave USDC",
+                    "slug": "balancer-boosted-aave-usdc",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-usdc\/"
+                },
+                {
+                    "code": "BB-A-USDT",
+                    "title": "Balancer Boosted Aave USDT",
+                    "slug": "balancer-boosted-aave-usdt",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-usdt\/"
+                },
+                {
+                    "code": "BB-A-DAI",
+                    "title": "Balancer Boosted Aave DAI",
+                    "slug": "balancer-boosted-aave-dai",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-dai\/"
+                },
+                {
+                    "code": "B-80BAL-20WETH",
+                    "title": "Balancer 80 BAL 20 WETH",
+                    "slug": "balancer-80-bal-20-weth",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-80-bal-20-weth\/"
+                },
+                {
+                    "code": "20WETH-80BAL",
+                    "title": "20WETH-80BAL",
+                    "slug": "20weth-80bal",
+                    "url": "https:\/\/cryptopanic.com\/news\/20weth-80bal\/"
+                },
+                {
+                    "code": "BB-A-WETH",
+                    "title": "Balancer Aave v3 Boosted Pool (WETH)",
+                    "slug": "balancer-boosted-aave-weth",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-weth\/"
+                },
+                {
+                    "code": "MATICX-BB-A-WMAT",
+                    "title": "Balancer MaticX Boosted Aave WMATIC",
+                    "slug": "balancer-maticx-boosted-aave-wmatic",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-maticx-boosted-aave-wmatic\/"
+                },
+                {
+                    "code": "BB-A-WMATIC",
+                    "title": "Balancer Aave Boosted WMATIC",
+                    "slug": "balancer-aave-boosted-wmatic",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-aave-boosted-wmatic\/"
+                }
+            ],
+            "id": 18754659,
+            "url": "https:\/\/cryptopanic.com\/news\/18754659\/RT-_khanhamzah-rETH-liquidity-on-Balancer-zkEVM-almost-doubled-over-last-few-days-wonder-what-the-Rocket_Pool-community-being-cooki",
+            "created_at": "2023-07-10T10:49:21Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Balancer",
+            "source": {
+                "title": "Balancer Boosted Aave USD Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@balancer"
+            },
+            "title": "As the ratio of $ETH staked surges to 19.89%, The Balancer Liquid Staked Token flywheel continues to facilitate the\u2026",
+            "published_at": "2023-07-08T12:00:16Z",
+            "slug": "As-the-ratio-of-ETH-staked-surges-to-1989-The-Balancer-Liquid-Staked-Token-flywheel-continues-to-facilitate-the",
+            "currencies": [
+                {
+                    "code": "BAL",
+                    "title": "Balancer",
+                    "slug": "balancer",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer\/"
+                },
+                {
+                    "code": "BB-A-USD",
+                    "title": "Balancer Boosted Aave USD",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "BB-A-USDC",
+                    "title": "Balancer Boosted Aave USDC",
+                    "slug": "balancer-boosted-aave-usdc",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-usdc\/"
+                },
+                {
+                    "code": "BB-A-USDT",
+                    "title": "Balancer Boosted Aave USDT",
+                    "slug": "balancer-boosted-aave-usdt",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-usdt\/"
+                },
+                {
+                    "code": "BB-A-DAI",
+                    "title": "Balancer Boosted Aave DAI",
+                    "slug": "balancer-boosted-aave-dai",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-dai\/"
+                },
+                {
+                    "code": "B-80BAL-20WETH",
+                    "title": "Balancer 80 BAL 20 WETH",
+                    "slug": "balancer-80-bal-20-weth",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-80-bal-20-weth\/"
+                },
+                {
+                    "code": "20WETH-80BAL",
+                    "title": "20WETH-80BAL",
+                    "slug": "20weth-80bal",
+                    "url": "https:\/\/cryptopanic.com\/news\/20weth-80bal\/"
+                },
+                {
+                    "code": "BB-A-WETH",
+                    "title": "Balancer Aave v3 Boosted Pool (WETH)",
+                    "slug": "balancer-boosted-aave-weth",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-weth\/"
+                },
+                {
+                    "code": "MATICX-BB-A-WMAT",
+                    "title": "Balancer MaticX Boosted Aave WMATIC",
+                    "slug": "balancer-maticx-boosted-aave-wmatic",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-maticx-boosted-aave-wmatic\/"
+                },
+                {
+                    "code": "BB-A-WMATIC",
+                    "title": "Balancer Aave Boosted WMATIC",
+                    "slug": "balancer-aave-boosted-wmatic",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-aave-boosted-wmatic\/"
+                }
+            ],
+            "id": 18744736,
+            "url": "https:\/\/cryptopanic.com\/news\/18744736\/As-the-ratio-of-ETH-staked-surges-to-1989-The-Balancer-Liquid-Staked-Token-flywheel-continues-to-facilitate-the",
+            "created_at": "2023-07-08T12:00:16Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Balancer",
+            "source": {
+                "title": "Balancer Boosted Aave USD Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@balancer"
+            },
+            "title": "RT @Timeless_Fi: We proudly present that Timeless has joined the #8020Initiative\n\nThe 80\/20 technology enables $LIT  liquidity providers o\u2026",
+            "published_at": "2023-07-08T11:05:44Z",
+            "slug": "RT-Timeless_Fi-We-proudly-present-that-Timeless-has-joined-the-8020Initiative-The-8020-technology-enables-LIT-liquidity-providers-o",
+            "currencies": [
+                {
+                    "code": "BAL",
+                    "title": "Balancer",
+                    "slug": "balancer",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer\/"
+                },
+                {
+                    "code": "BB-A-USD",
+                    "title": "Balancer Boosted Aave USD",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "BB-A-USDC",
+                    "title": "Balancer Boosted Aave USDC",
+                    "slug": "balancer-boosted-aave-usdc",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-usdc\/"
+                },
+                {
+                    "code": "BB-A-USDT",
+                    "title": "Balancer Boosted Aave USDT",
+                    "slug": "balancer-boosted-aave-usdt",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-usdt\/"
+                },
+                {
+                    "code": "BB-A-DAI",
+                    "title": "Balancer Boosted Aave DAI",
+                    "slug": "balancer-boosted-aave-dai",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-dai\/"
+                },
+                {
+                    "code": "B-80BAL-20WETH",
+                    "title": "Balancer 80 BAL 20 WETH",
+                    "slug": "balancer-80-bal-20-weth",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-80-bal-20-weth\/"
+                },
+                {
+                    "code": "20WETH-80BAL",
+                    "title": "20WETH-80BAL",
+                    "slug": "20weth-80bal",
+                    "url": "https:\/\/cryptopanic.com\/news\/20weth-80bal\/"
+                },
+                {
+                    "code": "BB-A-WETH",
+                    "title": "Balancer Aave v3 Boosted Pool (WETH)",
+                    "slug": "balancer-boosted-aave-weth",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-weth\/"
+                },
+                {
+                    "code": "MATICX-BB-A-WMAT",
+                    "title": "Balancer MaticX Boosted Aave WMATIC",
+                    "slug": "balancer-maticx-boosted-aave-wmatic",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-maticx-boosted-aave-wmatic\/"
+                },
+                {
+                    "code": "BB-A-WMATIC",
+                    "title": "Balancer Aave Boosted WMATIC",
+                    "slug": "balancer-aave-boosted-wmatic",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-aave-boosted-wmatic\/"
+                }
+            ],
+            "id": 18744737,
+            "url": "https:\/\/cryptopanic.com\/news\/18744737\/RT-Timeless_Fi-We-proudly-present-that-Timeless-has-joined-the-8020Initiative-The-8020-technology-enables-LIT-liquidity-providers-o",
+            "created_at": "2023-07-08T11:05:44Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Balancer",
+            "source": {
+                "title": "Balancer Boosted Aave USD Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@balancer"
+            },
+            "title": "RT @AuraFinance: The AIP to deploy on @optimismFND\u2019s OP Mainnet is now live. \n\nVote now at",
+            "published_at": "2023-07-08T00:59:30Z",
+            "slug": "RT-AuraFinance-The-AIP-to-deploy-on-optimismFNDs-OP-Mainnet-is-now-live-Vote-now-at",
+            "currencies": [
+                {
+                    "code": "BAL",
+                    "title": "Balancer",
+                    "slug": "balancer",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer\/"
+                },
+                {
+                    "code": "BB-A-USD",
+                    "title": "Balancer Boosted Aave USD",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "BB-A-USDC",
+                    "title": "Balancer Boosted Aave USDC",
+                    "slug": "balancer-boosted-aave-usdc",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-usdc\/"
+                },
+                {
+                    "code": "BB-A-USDT",
+                    "title": "Balancer Boosted Aave USDT",
+                    "slug": "balancer-boosted-aave-usdt",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-usdt\/"
+                },
+                {
+                    "code": "BB-A-DAI",
+                    "title": "Balancer Boosted Aave DAI",
+                    "slug": "balancer-boosted-aave-dai",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-dai\/"
+                },
+                {
+                    "code": "B-80BAL-20WETH",
+                    "title": "Balancer 80 BAL 20 WETH",
+                    "slug": "balancer-80-bal-20-weth",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-80-bal-20-weth\/"
+                },
+                {
+                    "code": "20WETH-80BAL",
+                    "title": "20WETH-80BAL",
+                    "slug": "20weth-80bal",
+                    "url": "https:\/\/cryptopanic.com\/news\/20weth-80bal\/"
+                },
+                {
+                    "code": "BB-A-WETH",
+                    "title": "Balancer Aave v3 Boosted Pool (WETH)",
+                    "slug": "balancer-boosted-aave-weth",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-weth\/"
+                },
+                {
+                    "code": "MATICX-BB-A-WMAT",
+                    "title": "Balancer MaticX Boosted Aave WMATIC",
+                    "slug": "balancer-maticx-boosted-aave-wmatic",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-maticx-boosted-aave-wmatic\/"
+                },
+                {
+                    "code": "BB-A-WMATIC",
+                    "title": "Balancer Aave Boosted WMATIC",
+                    "slug": "balancer-aave-boosted-wmatic",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-aave-boosted-wmatic\/"
+                },
+                {
+                    "code": "OP",
+                    "title": "Optimism",
+                    "slug": "optimism",
+                    "url": "https:\/\/cryptopanic.com\/news\/optimism\/"
+                }
+            ],
+            "id": 18738905,
+            "url": "https:\/\/cryptopanic.com\/news\/18738905\/RT-AuraFinance-The-AIP-to-deploy-on-optimismFNDs-OP-Mainnet-is-now-live-Vote-now-at",
+            "created_at": "2023-07-08T00:59:30Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Balancer",
+            "source": {
+                "title": "Balancer Boosted Aave USD Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@balancer"
+            },
+            "title": "Cross-chain veBAL boosts are now LIVE!\n\nYou can now sync your $veBAL governance position and earn up to a 2.5x liqu\u2026",
+            "published_at": "2023-07-07T08:34:23Z",
+            "slug": "Cross-chain-veBAL-boosts-are-now-LIVE-You-can-now-sync-your-veBAL-governance-position-and-earn-up-to-a-25x-liqu",
+            "currencies": [
+                {
+                    "code": "BAL",
+                    "title": "Balancer",
+                    "slug": "balancer",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer\/"
+                },
+                {
+                    "code": "BB-A-USD",
+                    "title": "Balancer Boosted Aave USD",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "BB-A-USDC",
+                    "title": "Balancer Boosted Aave USDC",
+                    "slug": "balancer-boosted-aave-usdc",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-usdc\/"
+                },
+                {
+                    "code": "BB-A-USDT",
+                    "title": "Balancer Boosted Aave USDT",
+                    "slug": "balancer-boosted-aave-usdt",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-usdt\/"
+                },
+                {
+                    "code": "BB-A-DAI",
+                    "title": "Balancer Boosted Aave DAI",
+                    "slug": "balancer-boosted-aave-dai",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-dai\/"
+                },
+                {
+                    "code": "B-80BAL-20WETH",
+                    "title": "Balancer 80 BAL 20 WETH",
+                    "slug": "balancer-80-bal-20-weth",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-80-bal-20-weth\/"
+                },
+                {
+                    "code": "20WETH-80BAL",
+                    "title": "20WETH-80BAL",
+                    "slug": "20weth-80bal",
+                    "url": "https:\/\/cryptopanic.com\/news\/20weth-80bal\/"
+                },
+                {
+                    "code": "BB-A-WETH",
+                    "title": "Balancer Aave v3 Boosted Pool (WETH)",
+                    "slug": "balancer-boosted-aave-weth",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-weth\/"
+                },
+                {
+                    "code": "MATICX-BB-A-WMAT",
+                    "title": "Balancer MaticX Boosted Aave WMATIC",
+                    "slug": "balancer-maticx-boosted-aave-wmatic",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-maticx-boosted-aave-wmatic\/"
+                },
+                {
+                    "code": "BB-A-WMATIC",
+                    "title": "Balancer Aave Boosted WMATIC",
+                    "slug": "balancer-aave-boosted-wmatic",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-aave-boosted-wmatic\/"
+                }
+            ],
+            "id": 18738906,
+            "url": "https:\/\/cryptopanic.com\/news\/18738906\/Cross-chain-veBAL-boosts-are-now-LIVE-You-can-now-sync-your-veBAL-governance-position-and-earn-up-to-a-25x-liqu",
+            "created_at": "2023-07-07T08:34:23Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Balancer",
+            "source": {
+                "title": "Balancer Boosted Aave USD Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@balancer"
+            },
+            "title": "RT @paraswap: We proudly present that ParaSwap has joined the #8020Initiative\n\nThe 80\/20 technology enables $PSP liquidity providers on the\u2026",
+            "published_at": "2023-07-06T14:09:46Z",
+            "slug": "RT-paraswap-We-proudly-present-that-ParaSwap-has-joined-the-8020Initiative-The-8020-technology-enables-PSP-liquidity-providers-on-the",
+            "currencies": [
+                {
+                    "code": "BAL",
+                    "title": "Balancer",
+                    "slug": "balancer",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer\/"
+                },
+                {
+                    "code": "BB-A-USD",
+                    "title": "Balancer Boosted Aave USD",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "BB-A-USDC",
+                    "title": "Balancer Boosted Aave USDC",
+                    "slug": "balancer-boosted-aave-usdc",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-usdc\/"
+                },
+                {
+                    "code": "BB-A-USDT",
+                    "title": "Balancer Boosted Aave USDT",
+                    "slug": "balancer-boosted-aave-usdt",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-usdt\/"
+                },
+                {
+                    "code": "BB-A-DAI",
+                    "title": "Balancer Boosted Aave DAI",
+                    "slug": "balancer-boosted-aave-dai",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-dai\/"
+                },
+                {
+                    "code": "B-80BAL-20WETH",
+                    "title": "Balancer 80 BAL 20 WETH",
+                    "slug": "balancer-80-bal-20-weth",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-80-bal-20-weth\/"
+                },
+                {
+                    "code": "20WETH-80BAL",
+                    "title": "20WETH-80BAL",
+                    "slug": "20weth-80bal",
+                    "url": "https:\/\/cryptopanic.com\/news\/20weth-80bal\/"
+                },
+                {
+                    "code": "BB-A-WETH",
+                    "title": "Balancer Aave v3 Boosted Pool (WETH)",
+                    "slug": "balancer-boosted-aave-weth",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-weth\/"
+                },
+                {
+                    "code": "MATICX-BB-A-WMAT",
+                    "title": "Balancer MaticX Boosted Aave WMATIC",
+                    "slug": "balancer-maticx-boosted-aave-wmatic",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-maticx-boosted-aave-wmatic\/"
+                },
+                {
+                    "code": "BB-A-WMATIC",
+                    "title": "Balancer Aave Boosted WMATIC",
+                    "slug": "balancer-aave-boosted-wmatic",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-aave-boosted-wmatic\/"
+                }
+            ],
+            "id": 18731028,
+            "url": "https:\/\/cryptopanic.com\/news\/18731028\/RT-paraswap-We-proudly-present-that-ParaSwap-has-joined-the-8020Initiative-The-8020-technology-enables-PSP-liquidity-providers-on-the",
+            "created_at": "2023-07-06T14:09:46Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Balancer",
+            "source": {
+                "title": "Balancer Boosted Aave USD Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@balancer"
+            },
+            "title": "RT @AlchemixFi:  We're proud to present that Alchemix has joined the #8020initiative!\n\nThe @Balancer model will serve as the primary liqui\u2026",
+            "published_at": "2023-07-06T14:02:34Z",
+            "slug": "RT-AlchemixFi-Were-proud-to-present-that-Alchemix-has-joined-the-8020initiative-The-Balancer-model-will-serve-as-the-primary-liqui",
+            "currencies": [
+                {
+                    "code": "BAL",
+                    "title": "Balancer",
+                    "slug": "balancer",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer\/"
+                },
+                {
+                    "code": "BB-A-USD",
+                    "title": "Balancer Boosted Aave USD",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "BB-A-USDC",
+                    "title": "Balancer Boosted Aave USDC",
+                    "slug": "balancer-boosted-aave-usdc",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-usdc\/"
+                },
+                {
+                    "code": "BB-A-USDT",
+                    "title": "Balancer Boosted Aave USDT",
+                    "slug": "balancer-boosted-aave-usdt",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-usdt\/"
+                },
+                {
+                    "code": "BB-A-DAI",
+                    "title": "Balancer Boosted Aave DAI",
+                    "slug": "balancer-boosted-aave-dai",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-dai\/"
+                },
+                {
+                    "code": "B-80BAL-20WETH",
+                    "title": "Balancer 80 BAL 20 WETH",
+                    "slug": "balancer-80-bal-20-weth",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-80-bal-20-weth\/"
+                },
+                {
+                    "code": "20WETH-80BAL",
+                    "title": "20WETH-80BAL",
+                    "slug": "20weth-80bal",
+                    "url": "https:\/\/cryptopanic.com\/news\/20weth-80bal\/"
+                },
+                {
+                    "code": "BB-A-WETH",
+                    "title": "Balancer Aave v3 Boosted Pool (WETH)",
+                    "slug": "balancer-boosted-aave-weth",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-weth\/"
+                },
+                {
+                    "code": "MATICX-BB-A-WMAT",
+                    "title": "Balancer MaticX Boosted Aave WMATIC",
+                    "slug": "balancer-maticx-boosted-aave-wmatic",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-maticx-boosted-aave-wmatic\/"
+                },
+                {
+                    "code": "BB-A-WMATIC",
+                    "title": "Balancer Aave Boosted WMATIC",
+                    "slug": "balancer-aave-boosted-wmatic",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-aave-boosted-wmatic\/"
+                }
+            ],
+            "id": 18731029,
+            "url": "https:\/\/cryptopanic.com\/news\/18731029\/RT-AlchemixFi-Were-proud-to-present-that-Alchemix-has-joined-the-8020initiative-The-Balancer-model-will-serve-as-the-primary-liqui",
+            "created_at": "2023-07-06T14:02:34Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Balancer",
+            "source": {
+                "title": "Balancer Boosted Aave USD Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@balancer"
+            },
+            "title": "\"For the first time in governance history, as the sum of staked tokens grows, the available trading liquidity incre\u2026",
+            "published_at": "2023-07-06T14:01:29Z",
+            "slug": "For-the-first-time-in-governance-history-as-the-sum-of-staked-tokens-grows-the-available-trading-liquidity-incre",
+            "currencies": [
+                {
+                    "code": "BAL",
+                    "title": "Balancer",
+                    "slug": "balancer",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer\/"
+                },
+                {
+                    "code": "BB-A-USD",
+                    "title": "Balancer Boosted Aave USD",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "BB-A-USDC",
+                    "title": "Balancer Boosted Aave USDC",
+                    "slug": "balancer-boosted-aave-usdc",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-usdc\/"
+                },
+                {
+                    "code": "BB-A-USDT",
+                    "title": "Balancer Boosted Aave USDT",
+                    "slug": "balancer-boosted-aave-usdt",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-usdt\/"
+                },
+                {
+                    "code": "BB-A-DAI",
+                    "title": "Balancer Boosted Aave DAI",
+                    "slug": "balancer-boosted-aave-dai",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-dai\/"
+                },
+                {
+                    "code": "B-80BAL-20WETH",
+                    "title": "Balancer 80 BAL 20 WETH",
+                    "slug": "balancer-80-bal-20-weth",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-80-bal-20-weth\/"
+                },
+                {
+                    "code": "20WETH-80BAL",
+                    "title": "20WETH-80BAL",
+                    "slug": "20weth-80bal",
+                    "url": "https:\/\/cryptopanic.com\/news\/20weth-80bal\/"
+                },
+                {
+                    "code": "BB-A-WETH",
+                    "title": "Balancer Aave v3 Boosted Pool (WETH)",
+                    "slug": "balancer-boosted-aave-weth",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-weth\/"
+                },
+                {
+                    "code": "MATICX-BB-A-WMAT",
+                    "title": "Balancer MaticX Boosted Aave WMATIC",
+                    "slug": "balancer-maticx-boosted-aave-wmatic",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-maticx-boosted-aave-wmatic\/"
+                },
+                {
+                    "code": "BB-A-WMATIC",
+                    "title": "Balancer Aave Boosted WMATIC",
+                    "slug": "balancer-aave-boosted-wmatic",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-aave-boosted-wmatic\/"
+                }
+            ],
+            "id": 18731030,
+            "url": "https:\/\/cryptopanic.com\/news\/18731030\/For-the-first-time-in-governance-history-as-the-sum-of-staked-tokens-grows-the-available-trading-liquidity-incre",
+            "created_at": "2023-07-06T14:01:29Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Balancer",
+            "source": {
+                "title": "Balancer Boosted Aave USD Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@balancer"
+            },
+            "title": "RT @y2kfinance: We\u2019re proud to present that Y2K Finance has joined the #8020Initiative. \n\nWe believe the Balancer model helps our users bal\u2026",
+            "published_at": "2023-07-06T10:02:40Z",
+            "slug": "RT-y2kfinance-Were-proud-to-present-that-Y2K-Finance-has-joined-the-8020Initiative-We-believe-the-Balancer-model-helps-our-users-bal",
+            "currencies": [
+                {
+                    "code": "BAL",
+                    "title": "Balancer",
+                    "slug": "balancer",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer\/"
+                },
+                {
+                    "code": "BB-A-USD",
+                    "title": "Balancer Boosted Aave USD",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "BB-A-USDC",
+                    "title": "Balancer Boosted Aave USDC",
+                    "slug": "balancer-boosted-aave-usdc",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-usdc\/"
+                },
+                {
+                    "code": "BB-A-USDT",
+                    "title": "Balancer Boosted Aave USDT",
+                    "slug": "balancer-boosted-aave-usdt",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-usdt\/"
+                },
+                {
+                    "code": "BB-A-DAI",
+                    "title": "Balancer Boosted Aave DAI",
+                    "slug": "balancer-boosted-aave-dai",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-dai\/"
+                },
+                {
+                    "code": "B-80BAL-20WETH",
+                    "title": "Balancer 80 BAL 20 WETH",
+                    "slug": "balancer-80-bal-20-weth",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-80-bal-20-weth\/"
+                },
+                {
+                    "code": "20WETH-80BAL",
+                    "title": "20WETH-80BAL",
+                    "slug": "20weth-80bal",
+                    "url": "https:\/\/cryptopanic.com\/news\/20weth-80bal\/"
+                },
+                {
+                    "code": "BB-A-WETH",
+                    "title": "Balancer Aave v3 Boosted Pool (WETH)",
+                    "slug": "balancer-boosted-aave-weth",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-weth\/"
+                },
+                {
+                    "code": "MATICX-BB-A-WMAT",
+                    "title": "Balancer MaticX Boosted Aave WMATIC",
+                    "slug": "balancer-maticx-boosted-aave-wmatic",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-maticx-boosted-aave-wmatic\/"
+                },
+                {
+                    "code": "BB-A-WMATIC",
+                    "title": "Balancer Aave Boosted WMATIC",
+                    "slug": "balancer-aave-boosted-wmatic",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-aave-boosted-wmatic\/"
+                }
+            ],
+            "id": 18731031,
+            "url": "https:\/\/cryptopanic.com\/news\/18731031\/RT-y2kfinance-Were-proud-to-present-that-Y2K-Finance-has-joined-the-8020Initiative-We-believe-the-Balancer-model-helps-our-users-bal",
+            "created_at": "2023-07-06T10:02:40Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Balancer",
+            "source": {
+                "title": "Balancer Boosted Aave USD Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@balancer"
+            },
+            "title": "RT @OathFoundation: We\u2019re proud to present that @OathFoundation &amp; @EthosReserve have joined the #8020Initiative. \n\nBonded OATH (bOATH) is t\u2026",
+            "published_at": "2023-07-06T10:02:36Z",
+            "slug": "RT-OathFoundation-Were-proud-to-present-that-OathFoundation-amp-EthosReserve-have-joined-the-8020Initiative-Bonded-OATH-bOATH-is-t",
+            "currencies": [
+                {
+                    "code": "BAL",
+                    "title": "Balancer",
+                    "slug": "balancer",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer\/"
+                },
+                {
+                    "code": "BB-A-USD",
+                    "title": "Balancer Boosted Aave USD",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "BB-A-USDC",
+                    "title": "Balancer Boosted Aave USDC",
+                    "slug": "balancer-boosted-aave-usdc",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-usdc\/"
+                },
+                {
+                    "code": "BB-A-USDT",
+                    "title": "Balancer Boosted Aave USDT",
+                    "slug": "balancer-boosted-aave-usdt",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-usdt\/"
+                },
+                {
+                    "code": "BB-A-DAI",
+                    "title": "Balancer Boosted Aave DAI",
+                    "slug": "balancer-boosted-aave-dai",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-dai\/"
+                },
+                {
+                    "code": "B-80BAL-20WETH",
+                    "title": "Balancer 80 BAL 20 WETH",
+                    "slug": "balancer-80-bal-20-weth",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-80-bal-20-weth\/"
+                },
+                {
+                    "code": "20WETH-80BAL",
+                    "title": "20WETH-80BAL",
+                    "slug": "20weth-80bal",
+                    "url": "https:\/\/cryptopanic.com\/news\/20weth-80bal\/"
+                },
+                {
+                    "code": "BB-A-WETH",
+                    "title": "Balancer Aave v3 Boosted Pool (WETH)",
+                    "slug": "balancer-boosted-aave-weth",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-boosted-aave-weth\/"
+                },
+                {
+                    "code": "MATICX-BB-A-WMAT",
+                    "title": "Balancer MaticX Boosted Aave WMATIC",
+                    "slug": "balancer-maticx-boosted-aave-wmatic",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-maticx-boosted-aave-wmatic\/"
+                },
+                {
+                    "code": "BB-A-WMATIC",
+                    "title": "Balancer Aave Boosted WMATIC",
+                    "slug": "balancer-aave-boosted-wmatic",
+                    "url": "https:\/\/cryptopanic.com\/news\/balancer-aave-boosted-wmatic\/"
+                }
+            ],
+            "id": 18731032,
+            "url": "https:\/\/cryptopanic.com\/news\/18731032\/RT-OathFoundation-Were-proud-to-present-that-OathFoundation-amp-EthosReserve-have-joined-the-8020Initiative-Bonded-OATH-bOATH-is-t",
+            "created_at": "2023-07-06T10:02:36Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

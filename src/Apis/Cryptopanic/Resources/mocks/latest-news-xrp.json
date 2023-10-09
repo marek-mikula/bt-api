@@ -1,0 +1,821 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=XRP&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "u.today",
+            "source": {
+                "title": "U.Today",
+                "region": "en",
+                "domain": "u.today",
+                "path": null
+            },
+            "title": "XRP Ledger Smart Contract Platform Provides Key Update on Launch",
+            "published_at": "2023-10-03T12:30:00Z",
+            "slug": "XRP-Ledger-Smart-Contract-Platform-Provides-Key-Update-on-Launch",
+            "currencies": [
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                }
+            ],
+            "id": 18944461,
+            "url": "https:\/\/cryptopanic.com\/news\/18944461\/XRP-Ledger-Smart-Contract-Platform-Provides-Key-Update-on-Launch",
+            "created_at": "2023-10-03T12:30:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "October\u2019s Hottest Crypto Picks: Xrp (Xrp), Avalanche (Avax), and Everlodge (Eldg) Set to Ignite!",
+            "published_at": "2023-10-03T12:00:00Z",
+            "slug": "Octobers-Hottest-Crypto-Picks-Xrp-Xrp-Avalanche-Avax-and-Everlodge-Eldg-Set-to-Ignite",
+            "currencies": [
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                },
+                {
+                    "code": "AVAX",
+                    "title": "Avalanche",
+                    "slug": "avalanche-2",
+                    "url": "https:\/\/cryptopanic.com\/news\/avalanche-2\/"
+                }
+            ],
+            "id": 18944433,
+            "url": "https:\/\/cryptopanic.com\/news\/18944433\/Octobers-Hottest-Crypto-Picks-Xrp-Xrp-Avalanche-Avax-and-Everlodge-Eldg-Set-to-Ignite",
+            "created_at": "2023-10-03T12:00:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "finbold.com",
+            "votes": {
+                "negative": 1,
+                "positive": 1,
+                "important": 1,
+                "liked": 1,
+                "disliked": 1,
+                "lol": 1,
+                "toxic": 0,
+                "saved": 1,
+                "comments": 0
+            },
+            "source": {
+                "title": "Finbold",
+                "region": "en",
+                "domain": "finbold.com",
+                "path": null
+            },
+            "title": "Ripple keeps 20% of 1 billion tokens unlocked this month; XRP price impact",
+            "published_at": "2023-10-03T11:40:51Z",
+            "slug": "Ripple-keeps-20-of-1-billion-tokens-unlocked-this-month-XRP-price-impact",
+            "currencies": [
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                }
+            ],
+            "id": 18944353,
+            "url": "https:\/\/cryptopanic.com\/news\/18944353\/Ripple-keeps-20-of-1-billion-tokens-unlocked-this-month-XRP-price-impact",
+            "created_at": "2023-10-03T11:40:51Z"
+        },
+        {
+            "kind": "news",
+            "domain": "u.today",
+            "source": {
+                "title": "U.Today",
+                "region": "en",
+                "domain": "u.today",
+                "path": null
+            },
+            "title": "Shiba Inu, XRP Holders Should Pay Attention to This Binance Announcement",
+            "published_at": "2023-10-03T11:10:00Z",
+            "slug": "Shiba-Inu-XRP-Holders-Should-Pay-Attention-to-This-Binance-Announcement",
+            "currencies": [
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                },
+                {
+                    "code": "SHIB",
+                    "title": "Shiba Inu",
+                    "slug": "shiba-inu",
+                    "url": "https:\/\/cryptopanic.com\/news\/shiba-inu\/"
+                }
+            ],
+            "id": 18944259,
+            "url": "https:\/\/cryptopanic.com\/news\/18944259\/Shiba-Inu-XRP-Holders-Should-Pay-Attention-to-This-Binance-Announcement",
+            "created_at": "2023-10-03T11:10:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Bitcoin Creator Satoshi Nakamoto Sparks Speculation As Cryptic Email, X Account Resurfaces",
+            "published_at": "2023-10-03T11:00:29Z",
+            "slug": "Bitcoin-Creator-Satoshi-Nakamoto-Sparks-Speculation-As-Cryptic-Email-X-Account-Resurfaces",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                }
+            ],
+            "id": 18944258,
+            "url": "https:\/\/cryptopanic.com\/news\/18944258\/Bitcoin-Creator-Satoshi-Nakamoto-Sparks-Speculation-As-Cryptic-Email-X-Account-Resurfaces",
+            "created_at": "2023-10-03T11:00:29Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "bitcoinist.com",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 1,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 2,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 2
+            },
+            "source": {
+                "title": "Bitcoinist",
+                "region": "en",
+                "domain": "bitcoinist.com",
+                "path": null
+            },
+            "title": "This Is Why The XRP Price Fell To $0.50",
+            "published_at": "2023-10-03T10:00:32Z",
+            "slug": "This-Is-Why-The-XRP-Price-Fell-To-050",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                }
+            ],
+            "id": 18944098,
+            "url": "https:\/\/cryptopanic.com\/news\/18944098\/This-Is-Why-The-XRP-Price-Fell-To-050",
+            "created_at": "2023-10-03T10:00:32Z"
+        },
+        {
+            "kind": "news",
+            "domain": "cryptopotato.com",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 1,
+                "comments": 0
+            },
+            "source": {
+                "title": "Feed - Cryptopotato.Com",
+                "region": "en",
+                "domain": "cryptopotato.com",
+                "path": null
+            },
+            "title": "We Asked ChatGPT if XRP Will Be a Top 3 Crypto in 2024 if Ripple Wins SEC Case",
+            "published_at": "2023-10-03T09:48:11Z",
+            "slug": "We-Asked-ChatGPT-if-XRP-Will-Be-a-Top-3-Crypto-in-2024-if-Ripple-Wins-SEC-Case",
+            "currencies": [
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                }
+            ],
+            "id": 18944055,
+            "url": "https:\/\/cryptopanic.com\/news\/18944055\/We-Asked-ChatGPT-if-XRP-Will-Be-a-Top-3-Crypto-in-2024-if-Ripple-Wins-SEC-Case",
+            "created_at": "2023-10-03T09:48:11Z"
+        },
+        {
+            "kind": "news",
+            "domain": "u.today",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 2,
+                "liked": 2,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 1,
+                "comments": 1
+            },
+            "source": {
+                "title": "U.Today",
+                "region": "en",
+                "domain": "u.today",
+                "path": null
+            },
+            "title": "XRP Lawyer Destroyed 'Expert' Who Blamed Binance in FTX Crash, CZ Reacts",
+            "published_at": "2023-10-03T09:41:00Z",
+            "slug": "XRP-Lawyer-Destroyed-Expert-Who-Blamed-Binance-in-FTX-Crash-CZ-Reacts",
+            "currencies": [
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                }
+            ],
+            "id": 18944062,
+            "url": "https:\/\/cryptopanic.com\/news\/18944062\/XRP-Lawyer-Destroyed-Expert-Who-Blamed-Binance-in-FTX-Crash-CZ-Reacts",
+            "created_at": "2023-10-03T09:41:00Z"
+        },
+        {
+            "kind": "news",
+            "domain": "cryptopotato.com",
+            "source": {
+                "title": "Feed - Cryptopotato.Com",
+                "region": "en",
+                "domain": "cryptopotato.com",
+                "path": null
+            },
+            "title": "One Million XRP Bought at $0.005 in 2014: Ripple CTO Reveals Interesting Purchase",
+            "published_at": "2023-10-03T07:44:59Z",
+            "slug": "One-Million-XRP-Bought-at-0005-in-2014-Ripple-CTO-Reveals-Interesting-Purchase",
+            "currencies": [
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                }
+            ],
+            "id": 18943778,
+            "url": "https:\/\/cryptopanic.com\/news\/18943778\/One-Million-XRP-Bought-at-0005-in-2014-Ripple-CTO-Reveals-Interesting-Purchase",
+            "created_at": "2023-10-03T07:44:59Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Crypto Analyst Predicts XRP Price To Hit $0.66 This Week",
+            "published_at": "2023-10-03T07:39:43Z",
+            "slug": "Crypto-Analyst-Predicts-XRP-Price-To-Hit-066-This-Week",
+            "currencies": [
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                },
+                {
+                    "code": "OP",
+                    "title": "Optimism",
+                    "slug": "optimism",
+                    "url": "https:\/\/cryptopanic.com\/news\/optimism\/"
+                }
+            ],
+            "id": 18943763,
+            "url": "https:\/\/cryptopanic.com\/news\/18943763\/Crypto-Analyst-Predicts-XRP-Price-To-Hit-066-This-Week",
+            "created_at": "2023-10-03T07:39:43Z"
+        },
+        {
+            "kind": "news",
+            "domain": "u.today",
+            "source": {
+                "title": "U.Today",
+                "region": "en",
+                "domain": "u.today",
+                "path": null
+            },
+            "title": "Ripple CTO Reveals Father\u2019s Massive XRP Buy",
+            "published_at": "2023-10-03T05:56:57Z",
+            "slug": "Ripple-CTO-Reveals-Fathers-Massive-XRP-Buy",
+            "currencies": [
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                }
+            ],
+            "id": 18943646,
+            "url": "https:\/\/cryptopanic.com\/news\/18943646\/Ripple-CTO-Reveals-Fathers-Massive-XRP-Buy",
+            "created_at": "2023-10-03T05:56:57Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "XRP Price Prediction \u2013 Why Bulls May Have A Chance For Fresh Bullish Streak?",
+            "published_at": "2023-10-03T05:54:07Z",
+            "slug": "XRP-Price-Prediction-Why-Bulls-May-Have-A-Chance-For-Fresh-Bullish-Streak",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                }
+            ],
+            "id": 18943618,
+            "url": "https:\/\/cryptopanic.com\/news\/18943618\/XRP-Price-Prediction-Why-Bulls-May-Have-A-Chance-For-Fresh-Bullish-Streak",
+            "created_at": "2023-10-03T05:54:07Z"
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Firewood Unleashed: Is This the Game-Changer For Avalanche (AVAX) To Hit $20?",
+            "published_at": "2023-10-03T02:00:23Z",
+            "slug": "Firewood-Unleashed-Is-This-the-Game-Changer-For-Avalanche-AVAX-To-Hit-20",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                },
+                {
+                    "code": "AVAX",
+                    "title": "Avalanche",
+                    "slug": "avalanche-2",
+                    "url": "https:\/\/cryptopanic.com\/news\/avalanche-2\/"
+                }
+            ],
+            "id": 18943418,
+            "url": "https:\/\/cryptopanic.com\/news\/18943418\/Firewood-Unleashed-Is-This-the-Game-Changer-For-Avalanche-AVAX-To-Hit-20",
+            "created_at": "2023-10-03T02:00:23Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Is Your Crypto at Risk? FBI Issues Dire Warning Over \u2018Phantom Hacker\u2019",
+            "published_at": "2023-10-03T01:00:28Z",
+            "slug": "Is-Your-Crypto-at-Risk-FBI-Issues-Dire-Warning-Over-Phantom-Hacker",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                }
+            ],
+            "id": 18943369,
+            "url": "https:\/\/cryptopanic.com\/news\/18943369\/Is-Your-Crypto-at-Risk-FBI-Issues-Dire-Warning-Over-Phantom-Hacker",
+            "created_at": "2023-10-03T01:00:28Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Crypto Fund Flows: Bitcoin Leads As Solana Follows, But Why\u2019s Ethereum Left Behind?",
+            "published_at": "2023-10-03T00:00:57Z",
+            "slug": "Crypto-Fund-Flows-Bitcoin-Leads-As-Solana-Follows-But-Whys-Ethereum-Left-Behind",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                },
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                }
+            ],
+            "id": 18943335,
+            "url": "https:\/\/cryptopanic.com\/news\/18943335\/Crypto-Fund-Flows-Bitcoin-Leads-As-Solana-Follows-But-Whys-Ethereum-Left-Behind",
+            "created_at": "2023-10-03T00:00:57Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "bitcoinist.com",
+            "votes": {
+                "negative": 1,
+                "positive": 1,
+                "important": 1,
+                "liked": 1,
+                "disliked": 1,
+                "lol": 6,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "Bitcoinist",
+                "region": "en",
+                "domain": "bitcoinist.com",
+                "path": null
+            },
+            "title": "Crypto Expert Says XRP Price Will Surge 1100% To New All-Time High, Here\u2019s When",
+            "published_at": "2023-10-02T23:00:07Z",
+            "slug": "Crypto-Expert-Says-XRP-Price-Will-Surge-1100-To-New-All-Time-High-Heres-When",
+            "currencies": [
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                }
+            ],
+            "id": 18943278,
+            "url": "https:\/\/cryptopanic.com\/news\/18943278\/Crypto-Expert-Says-XRP-Price-Will-Surge-1100-To-New-All-Time-High-Heres-When",
+            "created_at": "2023-10-02T23:00:07Z"
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Will Ethereum Flip Bitcoin? Crypto Analyst Explains How",
+            "published_at": "2023-10-02T22:00:05Z",
+            "slug": "Will-Ethereum-Flip-Bitcoin-Crypto-Analyst-Explains-How",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                }
+            ],
+            "id": 18943203,
+            "url": "https:\/\/cryptopanic.com\/news\/18943203\/Will-Ethereum-Flip-Bitcoin-Crypto-Analyst-Explains-How",
+            "created_at": "2023-10-02T22:00:05Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Is Bitcoin\u2019s Bottom In Sight? Expert Analysis Says Yes",
+            "published_at": "2023-10-02T21:00:24Z",
+            "slug": "Is-Bitcoins-Bottom-In-Sight-Expert-Analysis-Says-Yes",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                },
+                {
+                    "code": "LINK",
+                    "title": "Chainlink",
+                    "slug": "chainlink",
+                    "url": "https:\/\/cryptopanic.com\/news\/chainlink\/"
+                }
+            ],
+            "id": 18943123,
+            "url": "https:\/\/cryptopanic.com\/news\/18943123\/Is-Bitcoins-Bottom-In-Sight-Expert-Analysis-Says-Yes",
+            "created_at": "2023-10-02T21:00:24Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Pro-XRP Lawyer Reveals The Impact Of SEC\u2019s Lawsuit Against Ripple",
+            "published_at": "2023-10-02T19:00:46Z",
+            "slug": "Pro-XRP-Lawyer-Reveals-The-Impact-Of-SECs-Lawsuit-Against-Ripple",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                }
+            ],
+            "id": 18942959,
+            "url": "https:\/\/cryptopanic.com\/news\/18942959\/Pro-XRP-Lawyer-Reveals-The-Impact-Of-SECs-Lawsuit-Against-Ripple",
+            "created_at": "2023-10-02T19:00:46Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coingape.com",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 1
+            },
+            "source": {
+                "title": "CoinGape",
+                "region": "en",
+                "domain": "coingape.com",
+                "path": null
+            },
+            "title": "XRP Lawyer Questions Craig Wright\u2019s Claims As Satoshi Nakamoto",
+            "published_at": "2023-10-02T18:20:02Z",
+            "slug": "XRP-Lawyer-Questions-Craig-Wrights-Claims-As-Satoshi-Nakamoto",
+            "currencies": [
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                }
+            ],
+            "id": 18942879,
+            "url": "https:\/\/cryptopanic.com\/news\/18942879\/XRP-Lawyer-Questions-Craig-Wrights-Claims-As-Satoshi-Nakamoto",
+            "created_at": "2023-10-02T18:20:02Z"
+        }
+    ]
+}

@@ -1,0 +1,827 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=UNFI&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "@unifiprotocol",
+            "source": {
+                "title": "Unifi Protocol DAO Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@unifiprotocol"
+            },
+            "title": "Unifi governance updates are live!\n\nCheck it out at",
+            "published_at": "2023-06-12T20:41:14Z",
+            "slug": "Unifi-governance-updates-are-live-Check-it-out-at",
+            "currencies": [
+                {
+                    "code": "UNFI",
+                    "title": "Unifi Protocol DAO",
+                    "slug": "unifi-protocol-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/unifi-protocol-dao\/"
+                },
+                {
+                    "code": "UP",
+                    "title": "UniFi Protocol",
+                    "slug": "unifi-protocol",
+                    "url": "https:\/\/cryptopanic.com\/news\/unifi-protocol\/"
+                }
+            ],
+            "id": 18566055,
+            "url": "https:\/\/cryptopanic.com\/news\/18566055\/Unifi-governance-updates-are-live-Check-it-out-at",
+            "created_at": "2023-06-12T20:41:14Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@unifiprotocol",
+            "source": {
+                "title": "Unifi Protocol DAO Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@unifiprotocol"
+            },
+            "title": "Unifi Update:\n\nThe Unifi DAO Community is transitioning into a new Staking Ecosystem.\n\n[1\/3]",
+            "published_at": "2023-06-08T22:41:21Z",
+            "slug": "Unifi-Update-The-Unifi-DAO-Community-is-transitioning-into-a-new-Staking-Ecosystem-13",
+            "currencies": [
+                {
+                    "code": "UNFI",
+                    "title": "Unifi Protocol DAO",
+                    "slug": "unifi-protocol-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/unifi-protocol-dao\/"
+                },
+                {
+                    "code": "UP",
+                    "title": "UniFi Protocol",
+                    "slug": "unifi-protocol",
+                    "url": "https:\/\/cryptopanic.com\/news\/unifi-protocol\/"
+                }
+            ],
+            "id": 18540716,
+            "url": "https:\/\/cryptopanic.com\/news\/18540716\/Unifi-Update-The-Unifi-DAO-Community-is-transitioning-into-a-new-Staking-Ecosystem-13",
+            "created_at": "2023-06-08T22:41:21Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@unifiprotocol",
+            "source": {
+                "title": "Unifi Protocol DAO Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@unifiprotocol"
+            },
+            "title": "ICYMI (1\/4)\n1. The UNIFI DAO gains on-chain control over contracts implemented on Tally. Certain IP (ie front end)\u2026",
+            "published_at": "2023-02-28T16:04:42Z",
+            "slug": "ICYMI-14-1-The-UNIFI-DAO-gains-on-chain-control-over-contracts-implemented-on-Tally-Certain-IP-ie-front-end",
+            "currencies": [
+                {
+                    "code": "UNFI",
+                    "title": "Unifi Protocol DAO",
+                    "slug": "unifi-protocol-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/unifi-protocol-dao\/"
+                },
+                {
+                    "code": "UP",
+                    "title": "UniFi Protocol",
+                    "slug": "unifi-protocol",
+                    "url": "https:\/\/cryptopanic.com\/news\/unifi-protocol\/"
+                }
+            ],
+            "id": 17763664,
+            "url": "https:\/\/cryptopanic.com\/news\/17763664\/ICYMI-14-1-The-UNIFI-DAO-gains-on-chain-control-over-contracts-implemented-on-Tally-Certain-IP-ie-front-end",
+            "created_at": "2023-02-28T16:04:42Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@unifiprotocol",
+            "source": {
+                "title": "Unifi Protocol DAO Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@unifiprotocol"
+            },
+            "title": "Watercooler Chat # 38 (February 24, 2023)",
+            "published_at": "2023-02-24T18:02:20Z",
+            "slug": "Watercooler-Chat-38-February-24-2023",
+            "currencies": [
+                {
+                    "code": "UNFI",
+                    "title": "Unifi Protocol DAO",
+                    "slug": "unifi-protocol-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/unifi-protocol-dao\/"
+                },
+                {
+                    "code": "UP",
+                    "title": "UniFi Protocol",
+                    "slug": "unifi-protocol",
+                    "url": "https:\/\/cryptopanic.com\/news\/unifi-protocol\/"
+                }
+            ],
+            "id": 17743856,
+            "url": "https:\/\/cryptopanic.com\/news\/17743856\/Watercooler-Chat-38-February-24-2023",
+            "created_at": "2023-02-24T18:02:20Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@unifiprotocol",
+            "source": {
+                "title": "Unifi Protocol DAO Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@unifiprotocol"
+            },
+            "title": "Watercooler will be streaming in about ~90 mins\n\n @juliun_b will be answering many Qs we collected this past week:\u2026",
+            "published_at": "2023-02-24T16:39:23Z",
+            "slug": "Watercooler-will-be-streaming-in-about-90-mins-juliun_b-will-be-answering-many-Qs-we-collected-this-past-week",
+            "currencies": [
+                {
+                    "code": "UNFI",
+                    "title": "Unifi Protocol DAO",
+                    "slug": "unifi-protocol-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/unifi-protocol-dao\/"
+                },
+                {
+                    "code": "UP",
+                    "title": "UniFi Protocol",
+                    "slug": "unifi-protocol",
+                    "url": "https:\/\/cryptopanic.com\/news\/unifi-protocol\/"
+                }
+            ],
+            "id": 17743857,
+            "url": "https:\/\/cryptopanic.com\/news\/17743857\/Watercooler-will-be-streaming-in-about-90-mins-juliun_b-will-be-answering-many-Qs-we-collected-this-past-week",
+            "created_at": "2023-02-24T16:39:23Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@unifiprotocol",
+            "source": {
+                "title": "Unifi Protocol DAO Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@unifiprotocol"
+            },
+            "title": "Reminder! Watercooler tomorrow \n\nWe are working on some very innovative implementations using @tallyxyz &amp;\u2026",
+            "published_at": "2023-02-23T16:56:03Z",
+            "slug": "Reminder-Watercooler-tomorrow-We-are-working-on-some-very-innovative-implementations-using-tallyxyz-amp",
+            "currencies": [
+                {
+                    "code": "UNFI",
+                    "title": "Unifi Protocol DAO",
+                    "slug": "unifi-protocol-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/unifi-protocol-dao\/"
+                },
+                {
+                    "code": "UP",
+                    "title": "UniFi Protocol",
+                    "slug": "unifi-protocol",
+                    "url": "https:\/\/cryptopanic.com\/news\/unifi-protocol\/"
+                }
+            ],
+            "id": 17724407,
+            "url": "https:\/\/cryptopanic.com\/news\/17724407\/Reminder-Watercooler-tomorrow-We-are-working-on-some-very-innovative-implementations-using-tallyxyz-amp",
+            "created_at": "2023-02-23T16:56:03Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@unifiprotocol",
+            "source": {
+                "title": "Unifi Protocol DAO Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@unifiprotocol"
+            },
+            "title": " Special Watercooler on Friday, February 24 at 10AM PT!!\n\nYou do not want to miss this one\n\nWhat's in store for th\u2026",
+            "published_at": "2023-02-20T22:56:14Z",
+            "slug": "Special-Watercooler-on-Friday-February-24-at-10AM-PT-You-do-not-want-to-miss-this-one-Whats-in-store-for-th",
+            "currencies": [
+                {
+                    "code": "UNFI",
+                    "title": "Unifi Protocol DAO",
+                    "slug": "unifi-protocol-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/unifi-protocol-dao\/"
+                },
+                {
+                    "code": "UP",
+                    "title": "UniFi Protocol",
+                    "slug": "unifi-protocol",
+                    "url": "https:\/\/cryptopanic.com\/news\/unifi-protocol\/"
+                }
+            ],
+            "id": 17694778,
+            "url": "https:\/\/cryptopanic.com\/news\/17694778\/Special-Watercooler-on-Friday-February-24-at-10AM-PT-You-do-not-want-to-miss-this-one-Whats-in-store-for-th",
+            "created_at": "2023-02-20T22:56:14Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@unifiprotocol",
+            "source": {
+                "title": "Unifi Protocol DAO Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@unifiprotocol"
+            },
+            "title": "The $UNFI DAO is on a mission to fully decentralize itself!\n\nWe have a vision to hand over minting rights of #UNFI\u2026",
+            "published_at": "2023-01-06T16:26:08Z",
+            "slug": "The-UNFI-DAO-is-on-a-mission-to-fully-decentralize-itself-We-have-a-vision-to-hand-over-minting-rights-of-UNFI",
+            "currencies": [
+                {
+                    "code": "UNFI",
+                    "title": "Unifi Protocol DAO",
+                    "slug": "unifi-protocol-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/unifi-protocol-dao\/"
+                },
+                {
+                    "code": "UP",
+                    "title": "UniFi Protocol",
+                    "slug": "unifi-protocol",
+                    "url": "https:\/\/cryptopanic.com\/news\/unifi-protocol\/"
+                }
+            ],
+            "id": 17325465,
+            "url": "https:\/\/cryptopanic.com\/news\/17325465\/The-UNFI-DAO-is-on-a-mission-to-fully-decentralize-itself-We-have-a-vision-to-hand-over-minting-rights-of-UNFI",
+            "created_at": "2023-01-06T16:26:08Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@unifiprotocol",
+            "source": {
+                "title": "Unifi Protocol DAO Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@unifiprotocol"
+            },
+            "title": "New year, true DAO...\n\nExciting updates coming next week \n\nHappy New Year's and we'll see you in 2023 \ud83e\udd73\n\n$UNFI\u2026",
+            "published_at": "2022-12-31T18:37:47Z",
+            "slug": "New-year-true-DAO-Exciting-updates-coming-next-week-Happy-New-Years-and-well-see-you-in-2023-UNFI",
+            "currencies": [
+                {
+                    "code": "UNFI",
+                    "title": "Unifi Protocol DAO",
+                    "slug": "unifi-protocol-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/unifi-protocol-dao\/"
+                },
+                {
+                    "code": "UP",
+                    "title": "UniFi Protocol",
+                    "slug": "unifi-protocol",
+                    "url": "https:\/\/cryptopanic.com\/news\/unifi-protocol\/"
+                }
+            ],
+            "id": 17281983,
+            "url": "https:\/\/cryptopanic.com\/news\/17281983\/New-year-true-DAO-Exciting-updates-coming-next-week-Happy-New-Years-and-well-see-you-in-2023-UNFI",
+            "created_at": "2022-12-31T18:37:47Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@unifiprotocol",
+            "source": {
+                "title": "Unifi Protocol DAO Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@unifiprotocol"
+            },
+            "title": "Which will help blockchain adoption the most?",
+            "published_at": "2022-12-14T22:09:46Z",
+            "slug": "Which-will-help-blockchain-adoption-the-most",
+            "currencies": [
+                {
+                    "code": "UNFI",
+                    "title": "Unifi Protocol DAO",
+                    "slug": "unifi-protocol-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/unifi-protocol-dao\/"
+                },
+                {
+                    "code": "UP",
+                    "title": "UniFi Protocol",
+                    "slug": "unifi-protocol",
+                    "url": "https:\/\/cryptopanic.com\/news\/unifi-protocol\/"
+                }
+            ],
+            "id": 17159496,
+            "url": "https:\/\/cryptopanic.com\/news\/17159496\/Which-will-help-blockchain-adoption-the-most",
+            "created_at": "2022-12-14T22:09:46Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@unifiprotocol",
+            "source": {
+                "title": "Unifi Protocol DAO Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@unifiprotocol"
+            },
+            "title": "Users can now fully redeem their $UPbnb \ud83e\udd17\n\nFor security purposes, the reserve funds will gradually be sent to the\u2026",
+            "published_at": "2022-12-12T15:41:11Z",
+            "slug": "Users-can-now-fully-redeem-their-UPbnb-For-security-purposes-the-reserve-funds-will-gradually-be-sent-to-the",
+            "currencies": [
+                {
+                    "code": "UNFI",
+                    "title": "Unifi Protocol DAO",
+                    "slug": "unifi-protocol-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/unifi-protocol-dao\/"
+                },
+                {
+                    "code": "UP",
+                    "title": "UniFi Protocol",
+                    "slug": "unifi-protocol",
+                    "url": "https:\/\/cryptopanic.com\/news\/unifi-protocol\/"
+                }
+            ],
+            "id": 17140135,
+            "url": "https:\/\/cryptopanic.com\/news\/17140135\/Users-can-now-fully-redeem-their-UPbnb-For-security-purposes-the-reserve-funds-will-gradually-be-sent-to-the",
+            "created_at": "2022-12-12T15:41:11Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@unifiprotocol",
+            "source": {
+                "title": "Unifi Protocol DAO Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@unifiprotocol"
+            },
+            "title": "#FeatureFriday \n\nUsers will now be able to fully redeem their #UPbnb for the whole of next week!\n\nAre you participa\u2026",
+            "published_at": "2022-12-09T19:36:21Z",
+            "slug": "FeatureFriday-Users-will-now-be-able-to-fully-redeem-their-UPbnb-for-the-whole-of-next-week-Are-you-participa",
+            "currencies": [
+                {
+                    "code": "UNFI",
+                    "title": "Unifi Protocol DAO",
+                    "slug": "unifi-protocol-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/unifi-protocol-dao\/"
+                },
+                {
+                    "code": "UP",
+                    "title": "UniFi Protocol",
+                    "slug": "unifi-protocol",
+                    "url": "https:\/\/cryptopanic.com\/news\/unifi-protocol\/"
+                }
+            ],
+            "id": 17119532,
+            "url": "https:\/\/cryptopanic.com\/news\/17119532\/FeatureFriday-Users-will-now-be-able-to-fully-redeem-their-UPbnb-for-the-whole-of-next-week-Are-you-participa",
+            "created_at": "2022-12-09T19:36:21Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@unifiprotocol",
+            "source": {
+                "title": "Unifi Protocol DAO Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@unifiprotocol"
+            },
+            "title": "Is #Crypto speculation different to gambling?",
+            "published_at": "2022-12-07T17:38:14Z",
+            "slug": "Is-Crypto-speculation-different-to-gambling",
+            "currencies": [
+                {
+                    "code": "UNFI",
+                    "title": "Unifi Protocol DAO",
+                    "slug": "unifi-protocol-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/unifi-protocol-dao\/"
+                },
+                {
+                    "code": "UP",
+                    "title": "UniFi Protocol",
+                    "slug": "unifi-protocol",
+                    "url": "https:\/\/cryptopanic.com\/news\/unifi-protocol\/"
+                }
+            ],
+            "id": 17101698,
+            "url": "https:\/\/cryptopanic.com\/news\/17101698\/Is-Crypto-speculation-different-to-gambling",
+            "created_at": "2022-12-07T17:38:14Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@unifiprotocol",
+            "source": {
+                "title": "Unifi Protocol DAO Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@unifiprotocol"
+            },
+            "title": "Some community members have expressed that 1 day for redeeming $UPbnb is not long enough and that some users may mi\u2026",
+            "published_at": "2022-12-06T20:15:05Z",
+            "slug": "Some-community-members-have-expressed-that-1-day-for-redeeming-UPbnb-is-not-long-enough-and-that-some-users-may-mi",
+            "currencies": [
+                {
+                    "code": "UNFI",
+                    "title": "Unifi Protocol DAO",
+                    "slug": "unifi-protocol-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/unifi-protocol-dao\/"
+                },
+                {
+                    "code": "UP",
+                    "title": "UniFi Protocol",
+                    "slug": "unifi-protocol",
+                    "url": "https:\/\/cryptopanic.com\/news\/unifi-protocol\/"
+                }
+            ],
+            "id": 17092239,
+            "url": "https:\/\/cryptopanic.com\/news\/17092239\/Some-community-members-have-expressed-that-1-day-for-redeeming-UPbnb-is-not-long-enough-and-that-some-users-may-mi",
+            "created_at": "2022-12-06T20:15:05Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@unifiprotocol",
+            "source": {
+                "title": "Unifi Protocol DAO Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@unifiprotocol"
+            },
+            "title": "#FeatureFriday\n\nFor one day only, users will be able to fully redeem their #UPbnb!\n\nWe've always said $UP is a secu\u2026",
+            "published_at": "2022-12-02T22:01:52Z",
+            "slug": "FeatureFriday-For-one-day-only-users-will-be-able-to-fully-redeem-their-UPbnb-Weve-always-said-UP-is-a-secu",
+            "currencies": [
+                {
+                    "code": "UNFI",
+                    "title": "Unifi Protocol DAO",
+                    "slug": "unifi-protocol-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/unifi-protocol-dao\/"
+                },
+                {
+                    "code": "UP",
+                    "title": "UniFi Protocol",
+                    "slug": "unifi-protocol",
+                    "url": "https:\/\/cryptopanic.com\/news\/unifi-protocol\/"
+                }
+            ],
+            "id": 17061508,
+            "url": "https:\/\/cryptopanic.com\/news\/17061508\/FeatureFriday-For-one-day-only-users-will-be-able-to-fully-redeem-their-UPbnb-Weve-always-said-UP-is-a-secu",
+            "created_at": "2022-12-02T22:01:52Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@unifiprotocol",
+            "source": {
+                "title": "Unifi Protocol DAO Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@unifiprotocol"
+            },
+            "title": "As of today, #uTrade is officially no longer being supported.\n\nUsers can still withdraw liquidity @\u2026",
+            "published_at": "2022-12-01T21:12:11Z",
+            "slug": "As-of-today-uTrade-is-officially-no-longer-being-supported-Users-can-still-withdraw-liquidity",
+            "currencies": [
+                {
+                    "code": "UNFI",
+                    "title": "Unifi Protocol DAO",
+                    "slug": "unifi-protocol-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/unifi-protocol-dao\/"
+                },
+                {
+                    "code": "UP",
+                    "title": "UniFi Protocol",
+                    "slug": "unifi-protocol",
+                    "url": "https:\/\/cryptopanic.com\/news\/unifi-protocol\/"
+                }
+            ],
+            "id": 17052973,
+            "url": "https:\/\/cryptopanic.com\/news\/17052973\/As-of-today-uTrade-is-officially-no-longer-being-supported-Users-can-still-withdraw-liquidity",
+            "created_at": "2022-12-01T21:12:11Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@unifiprotocol",
+            "source": {
+                "title": "Unifi Protocol DAO Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@unifiprotocol"
+            },
+            "title": "Check out this week's #WatercoolerWednesday with @Juliun_b below!\n\nWhat's discussed:\n\n- #uTrade no longer supported\u2026",
+            "published_at": "2022-11-30T17:36:19Z",
+            "slug": "Check-out-this-weeks-WatercoolerWednesday-with-Juliun_b-below-Whats-discussed-uTrade-no-longer-supported",
+            "currencies": [
+                {
+                    "code": "UNFI",
+                    "title": "Unifi Protocol DAO",
+                    "slug": "unifi-protocol-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/unifi-protocol-dao\/"
+                },
+                {
+                    "code": "UP",
+                    "title": "UniFi Protocol",
+                    "slug": "unifi-protocol",
+                    "url": "https:\/\/cryptopanic.com\/news\/unifi-protocol\/"
+                }
+            ],
+            "id": 17043380,
+            "url": "https:\/\/cryptopanic.com\/news\/17043380\/Check-out-this-weeks-WatercoolerWednesday-with-Juliun_b-below-Whats-discussed-uTrade-no-longer-supported",
+            "created_at": "2022-11-30T17:36:19Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@unifiprotocol",
+            "source": {
+                "title": "Unifi Protocol DAO Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@unifiprotocol"
+            },
+            "title": "Trading and depositing liquidity on #uTrade will be suspended from Dec 1st on all blockchains apart from #Icon &amp;\u2026",
+            "published_at": "2022-11-29T21:03:38Z",
+            "slug": "Trading-and-depositing-liquidity-on-uTrade-will-be-suspended-from-Dec-1st-on-all-blockchains-apart-from-Icon-amp",
+            "currencies": [
+                {
+                    "code": "UNFI",
+                    "title": "Unifi Protocol DAO",
+                    "slug": "unifi-protocol-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/unifi-protocol-dao\/"
+                },
+                {
+                    "code": "UP",
+                    "title": "UniFi Protocol",
+                    "slug": "unifi-protocol",
+                    "url": "https:\/\/cryptopanic.com\/news\/unifi-protocol\/"
+                }
+            ],
+            "id": 17032986,
+            "url": "https:\/\/cryptopanic.com\/news\/17032986\/Trading-and-depositing-liquidity-on-uTrade-will-be-suspended-from-Dec-1st-on-all-blockchains-apart-from-Icon-amp",
+            "created_at": "2022-11-29T21:03:38Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@unifiprotocol",
+            "source": {
+                "title": "Unifi Protocol DAO Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@unifiprotocol"
+            },
+            "title": "Who checked out the proof of reserves for #UP?\u200d\ufe0f\n\nMajor AMM's and #DeFi platforms are now being utilised to incre\u2026",
+            "published_at": "2022-11-28T20:31:12Z",
+            "slug": "Who-checked-out-the-proof-of-reserves-for-UP-Major-AMMs-and-DeFi-platforms-are-now-being-utilised-to-incre",
+            "currencies": [
+                {
+                    "code": "UNFI",
+                    "title": "Unifi Protocol DAO",
+                    "slug": "unifi-protocol-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/unifi-protocol-dao\/"
+                },
+                {
+                    "code": "UP",
+                    "title": "UniFi Protocol",
+                    "slug": "unifi-protocol",
+                    "url": "https:\/\/cryptopanic.com\/news\/unifi-protocol\/"
+                }
+            ],
+            "id": 17023095,
+            "url": "https:\/\/cryptopanic.com\/news\/17023095\/Who-checked-out-the-proof-of-reserves-for-UP-Major-AMMs-and-DeFi-platforms-are-now-being-utilised-to-incre",
+            "created_at": "2022-11-28T20:31:12Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@unifiprotocol",
+            "source": {
+                "title": "Unifi Protocol DAO Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@unifiprotocol"
+            },
+            "title": "At #Unifi, we take great pride in the partnerships we have built over the years. \n\nIt's great to see\u2026",
+            "published_at": "2022-11-28T15:30:52Z",
+            "slug": "At-Unifi-we-take-great-pride-in-the-partnerships-we-have-built-over-the-years-Its-great-to-see",
+            "currencies": [
+                {
+                    "code": "UNFI",
+                    "title": "Unifi Protocol DAO",
+                    "slug": "unifi-protocol-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/unifi-protocol-dao\/"
+                },
+                {
+                    "code": "UP",
+                    "title": "UniFi Protocol",
+                    "slug": "unifi-protocol",
+                    "url": "https:\/\/cryptopanic.com\/news\/unifi-protocol\/"
+                }
+            ],
+            "id": 17023096,
+            "url": "https:\/\/cryptopanic.com\/news\/17023096\/At-Unifi-we-take-great-pride-in-the-partnerships-we-have-built-over-the-years-Its-great-to-see",
+            "created_at": "2022-11-28T15:30:52Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

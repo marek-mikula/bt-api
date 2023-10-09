@@ -1,0 +1,893 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=USDT&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "cointelegraph.com",
+            "source": {
+                "title": "CoinTelegraph",
+                "region": "en",
+                "domain": "cointelegraph.com",
+                "path": null
+            },
+            "title": "Tether treasury receives two $50M USDT lump sums from Bitfinex",
+            "published_at": "2023-10-02T14:03:30Z",
+            "slug": "Tether-treasury-receives-two-50M-USDT-lump-sums-from-Bitfinex",
+            "currencies": [
+                {
+                    "code": "USDT",
+                    "title": "Tether",
+                    "slug": "tether",
+                    "url": "https:\/\/cryptopanic.com\/news\/tether\/"
+                }
+            ],
+            "id": 18942209,
+            "url": "https:\/\/cryptopanic.com\/news\/18942209\/Tether-treasury-receives-two-50M-USDT-lump-sums-from-Bitfinex",
+            "created_at": "2023-10-02T14:03:30Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 1,
+                "comments": 0
+            },
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Bitcoin News: Analysts Reveal Forecasts For October As BTC Price Pushes Past $28,000",
+            "published_at": "2023-10-02T13:00:45Z",
+            "slug": "Bitcoin-News-Analysts-Reveal-Forecasts-For-October-As-BTC-Price-Pushes-Past-28000",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "USDT",
+                    "title": "Tether",
+                    "slug": "tether",
+                    "url": "https:\/\/cryptopanic.com\/news\/tether\/"
+                },
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                },
+                {
+                    "code": "ADA",
+                    "title": "Cardano",
+                    "slug": "cardano",
+                    "url": "https:\/\/cryptopanic.com\/news\/cardano\/"
+                }
+            ],
+            "id": 18942018,
+            "url": "https:\/\/cryptopanic.com\/news\/18942018\/Bitcoin-News-Analysts-Reveal-Forecasts-For-October-As-BTC-Price-Pushes-Past-28000",
+            "created_at": "2023-10-02T13:00:45Z"
+        },
+        {
+            "kind": "news",
+            "domain": "dailyhodl.com",
+            "source": {
+                "title": "The Daily Hodl",
+                "region": "en",
+                "domain": "dailyhodl.com",
+                "path": null
+            },
+            "title": "FTX Hacker Holding $300,000,000 in Crypto Suddenly Moves Millions Worth of Assets: On-Chain Data",
+            "published_at": "2023-10-01T20:00:28Z",
+            "slug": "FTX-Hacker-Holding-300000000-in-Crypto-Suddenly-Moves-Millions-Worth-of-Assets-On-Chain-Data",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "USDT",
+                    "title": "Tether",
+                    "slug": "tether",
+                    "url": "https:\/\/cryptopanic.com\/news\/tether\/"
+                },
+                {
+                    "code": "BNB",
+                    "title": "BNB",
+                    "slug": "binancecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/binancecoin\/"
+                },
+                {
+                    "code": "USDC",
+                    "title": "USDC",
+                    "slug": "usd-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/usd-coin\/"
+                },
+                {
+                    "code": "DAI",
+                    "title": "Dai",
+                    "slug": "dai",
+                    "url": "https:\/\/cryptopanic.com\/news\/dai\/"
+                },
+                {
+                    "code": "FTT",
+                    "title": "FTX",
+                    "slug": "ftx-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/ftx-token\/"
+                }
+            ],
+            "id": 18940704,
+            "url": "https:\/\/cryptopanic.com\/news\/18940704\/FTX-Hacker-Holding-300000000-in-Crypto-Suddenly-Moves-Millions-Worth-of-Assets-On-Chain-Data",
+            "created_at": "2023-10-01T20:00:28Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "u.today",
+            "source": {
+                "title": "U.Today",
+                "region": "en",
+                "domain": "u.today",
+                "path": null
+            },
+            "title": "Major Exchange Experienced $116 Million in Outflow in Ethereum, Bitcoin and USDT",
+            "published_at": "2023-10-01T13:09:00Z",
+            "slug": "Major-Exchange-Experienced-116-Million-in-Outflow-in-Ethereum-Bitcoin-and-USDT",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "USDT",
+                    "title": "Tether",
+                    "slug": "tether",
+                    "url": "https:\/\/cryptopanic.com\/news\/tether\/"
+                },
+                {
+                    "code": "KCS",
+                    "title": "KuCoin",
+                    "slug": "kucoin-shares",
+                    "url": "https:\/\/cryptopanic.com\/news\/kucoin-shares\/"
+                }
+            ],
+            "id": 18940243,
+            "url": "https:\/\/cryptopanic.com\/news\/18940243\/Major-Exchange-Experienced-116-Million-in-Outflow-in-Ethereum-Bitcoin-and-USDT",
+            "created_at": "2023-10-01T13:09:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "Bitcoin (BTC) September Performance Ignites Hope \u2013 Bullish October on the Horizon?",
+            "published_at": "2023-09-30T10:26:28Z",
+            "slug": "Bitcoin-BTC-September-Performance-Ignites-Hope-Bullish-October-on-the-Horizon",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "USDT",
+                    "title": "Tether",
+                    "slug": "tether",
+                    "url": "https:\/\/cryptopanic.com\/news\/tether\/"
+                }
+            ],
+            "id": 18938999,
+            "url": "https:\/\/cryptopanic.com\/news\/18938999\/Bitcoin-BTC-September-Performance-Ignites-Hope-Bullish-October-on-the-Horizon",
+            "created_at": "2023-09-30T10:26:28Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "Are Bitcoin\u2019s long-term prospects brighter than you imagine?",
+            "published_at": "2023-09-29T21:30:10Z",
+            "slug": "Are-Bitcoins-long-term-prospects-brighter-than-you-imagine",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "USDT",
+                    "title": "Tether",
+                    "slug": "tether",
+                    "url": "https:\/\/cryptopanic.com\/news\/tether\/"
+                }
+            ],
+            "id": 18938376,
+            "url": "https:\/\/cryptopanic.com\/news\/18938376\/Are-Bitcoins-long-term-prospects-brighter-than-you-imagine",
+            "created_at": "2023-09-29T21:30:10Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "dailycoin.com",
+            "source": {
+                "title": "Dailycoin",
+                "region": "en",
+                "domain": "dailycoin.com",
+                "path": null
+            },
+            "title": "Stablecoin Dominance Wanes: Will MiCA End Them?",
+            "published_at": "2023-09-29T19:05:00Z",
+            "slug": "Stablecoin-Dominance-Wanes-Will-MiCA-End-Them",
+            "currencies": [
+                {
+                    "code": "USDT",
+                    "title": "Tether",
+                    "slug": "tether",
+                    "url": "https:\/\/cryptopanic.com\/news\/tether\/"
+                },
+                {
+                    "code": "USDC",
+                    "title": "USDC",
+                    "slug": "usd-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/usd-coin\/"
+                }
+            ],
+            "id": 18938153,
+            "url": "https:\/\/cryptopanic.com\/news\/18938153\/Stablecoin-Dominance-Wanes-Will-MiCA-End-Them",
+            "created_at": "2023-09-29T19:05:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "This Bullish Combination Has Finally Formed For Bitcoin, Rally Ahead?",
+            "published_at": "2023-09-29T17:00:18Z",
+            "slug": "This-Bullish-Combination-Has-Finally-Formed-For-Bitcoin-Rally-Ahead",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "USDT",
+                    "title": "Tether",
+                    "slug": "tether",
+                    "url": "https:\/\/cryptopanic.com\/news\/tether\/"
+                },
+                {
+                    "code": "GRT",
+                    "title": "The Graph",
+                    "slug": "the-graph",
+                    "url": "https:\/\/cryptopanic.com\/news\/the-graph\/"
+                }
+            ],
+            "id": 18937901,
+            "url": "https:\/\/cryptopanic.com\/news\/18937901\/This-Bullish-Combination-Has-Finally-Formed-For-Bitcoin-Rally-Ahead",
+            "created_at": "2023-09-29T17:00:18Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptointelligence.co.uk",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 1,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 1,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 1
+            },
+            "source": {
+                "title": "cryptointelligence",
+                "region": "en",
+                "domain": "cryptointelligence.co.uk",
+                "path": null
+            },
+            "title": "Binance Urges European Users to Convert Euros to Tether Amidst Banking Partner Loss",
+            "published_at": "2023-09-29T14:35:18Z",
+            "slug": "Binance-Urges-European-Users-to-Convert-Euros-to-Tether-Amidst-Banking-Partner-Loss",
+            "currencies": [
+                {
+                    "code": "USDT",
+                    "title": "Tether",
+                    "slug": "tether",
+                    "url": "https:\/\/cryptopanic.com\/news\/tether\/"
+                }
+            ],
+            "id": 18937574,
+            "url": "https:\/\/cryptopanic.com\/news\/18937574\/Binance-Urges-European-Users-to-Convert-Euros-to-Tether-Amidst-Banking-Partner-Loss",
+            "created_at": "2023-09-29T14:35:18Z"
+        },
+        {
+            "kind": "news",
+            "domain": "cryptopotato.com",
+            "source": {
+                "title": "Feed - Cryptopotato.Com",
+                "region": "en",
+                "domain": "cryptopotato.com",
+                "path": null
+            },
+            "title": "Is This Really Bullish for Bitcoin? Select Group of BTC Holders Increased Their Holdings Recently",
+            "published_at": "2023-09-29T11:21:19Z",
+            "slug": "Is-This-Really-Bullish-for-Bitcoin-Select-Group-of-BTC-Holders-Increased-Their-Holdings-Recently",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "USDT",
+                    "title": "Tether",
+                    "slug": "tether",
+                    "url": "https:\/\/cryptopanic.com\/news\/tether\/"
+                }
+            ],
+            "id": 18937012,
+            "url": "https:\/\/cryptopanic.com\/news\/18937012\/Is-This-Really-Bullish-for-Bitcoin-Select-Group-of-BTC-Holders-Increased-Their-Holdings-Recently",
+            "created_at": "2023-09-29T11:21:19Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coingabbar.com",
+            "source": {
+                "title": "coingabbar",
+                "region": "en",
+                "domain": "coingabbar.com",
+                "path": null
+            },
+            "title": "Crypto Daily Roundup,29 Sep: Is Valkyrie's ETH ETF launching tomorrow?",
+            "published_at": "2023-09-29T09:30:00Z",
+            "slug": "Crypto-Daily-Roundup29-Sep-Is-Valkyries-ETH-ETF-launching-tomorrow",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "USDT",
+                    "title": "Tether",
+                    "slug": "tether",
+                    "url": "https:\/\/cryptopanic.com\/news\/tether\/"
+                },
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                },
+                {
+                    "code": "DOGE",
+                    "title": "Dogecoin",
+                    "slug": "dogecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/dogecoin\/"
+                }
+            ],
+            "id": 18936708,
+            "url": "https:\/\/cryptopanic.com\/news\/18936708\/Crypto-Daily-Roundup29-Sep-Is-Valkyries-ETH-ETF-launching-tomorrow",
+            "created_at": "2023-09-29T09:30:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Why Is Bitcoin Price Up Today? Insights From Leading Analysts",
+            "published_at": "2023-09-29T08:10:17Z",
+            "slug": "Why-Is-Bitcoin-Price-Up-Today-Insights-From-Leading-Analysts",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "USDT",
+                    "title": "Tether",
+                    "slug": "tether",
+                    "url": "https:\/\/cryptopanic.com\/news\/tether\/"
+                }
+            ],
+            "id": 18936502,
+            "url": "https:\/\/cryptopanic.com\/news\/18936502\/Why-Is-Bitcoin-Price-Up-Today-Insights-From-Leading-Analysts",
+            "created_at": "2023-09-29T08:10:17Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "livebitcoinnews.com",
+            "source": {
+                "title": "Live Bitcoin News",
+                "region": "en",
+                "domain": "livebitcoinnews.com",
+                "path": null
+            },
+            "title": "Tether Uplifts Crypto World with 750M USDT Swap from Tron to Ethereum",
+            "published_at": "2023-09-29T05:24:04Z",
+            "slug": "Tether-Uplifts-Crypto-World-with-750M-USDT-Swap-from-Tron-to-Ethereum",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "USDT",
+                    "title": "Tether",
+                    "slug": "tether",
+                    "url": "https:\/\/cryptopanic.com\/news\/tether\/"
+                },
+                {
+                    "code": "TRX",
+                    "title": "TRON",
+                    "slug": "tron",
+                    "url": "https:\/\/cryptopanic.com\/news\/tron\/"
+                }
+            ],
+            "id": 18936288,
+            "url": "https:\/\/cryptopanic.com\/news\/18936288\/Tether-Uplifts-Crypto-World-with-750M-USDT-Swap-from-Tron-to-Ethereum",
+            "created_at": "2023-09-29T05:24:04Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "bitcoin.com",
+            "source": {
+                "title": "Bitcoin.com",
+                "region": "en",
+                "domain": "bitcoin.com",
+                "path": null
+            },
+            "title": "Binance Advises Paysafe Users to Convert Euro Balances to Tether",
+            "published_at": "2023-09-28T22:30:49Z",
+            "slug": "Binance-Advises-Paysafe-Users-to-Convert-Euro-Balances-to-Tether",
+            "currencies": [
+                {
+                    "code": "USDT",
+                    "title": "Tether",
+                    "slug": "tether",
+                    "url": "https:\/\/cryptopanic.com\/news\/tether\/"
+                }
+            ],
+            "id": 18935922,
+            "url": "https:\/\/cryptopanic.com\/news\/18935922\/Binance-Advises-Paysafe-Users-to-Convert-Euro-Balances-to-Tether",
+            "created_at": "2023-09-28T22:30:49Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "Calcium Token Explodes 7,400% After Shiba Inu Rejection. Qube Shatters $3.25m Mark",
+            "published_at": "2023-09-28T21:08:02Z",
+            "slug": "Calcium-Token-Explodes-7400-After-Shiba-Inu-Rejection-Qube-Shatters-325m-Mark",
+            "currencies": [
+                {
+                    "code": "USDT",
+                    "title": "Tether",
+                    "slug": "tether",
+                    "url": "https:\/\/cryptopanic.com\/news\/tether\/"
+                },
+                {
+                    "code": "MATIC",
+                    "title": "Polygon",
+                    "slug": "matic-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-network\/"
+                },
+                {
+                    "code": "SHIB",
+                    "title": "Shiba Inu",
+                    "slug": "shiba-inu",
+                    "url": "https:\/\/cryptopanic.com\/news\/shiba-inu\/"
+                },
+                {
+                    "code": "UNI",
+                    "title": "Uniswap",
+                    "slug": "uniswap",
+                    "url": "https:\/\/cryptopanic.com\/news\/uniswap\/"
+                }
+            ],
+            "id": 18935818,
+            "url": "https:\/\/cryptopanic.com\/news\/18935818\/Calcium-Token-Explodes-7400-After-Shiba-Inu-Rejection-Qube-Shatters-325m-Mark",
+            "created_at": "2023-09-28T21:08:02Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "bitcoin.com",
+            "source": {
+                "title": "Bitcoin.com",
+                "region": "en",
+                "domain": "bitcoin.com",
+                "path": null
+            },
+            "title": "MetaExpand Launchpad on LBank Ends with 52,186,338 USDT in Investment, Attracts Substantial Interest; UMM to be Listed on LBank",
+            "published_at": "2023-09-28T17:00:30Z",
+            "slug": "MetaExpand-Launchpad-on-LBank-Ends-with-52186338-USDT-in-Investment-Attracts-Substantial-Interest-UMM-to-be-Listed-on-LBank",
+            "currencies": [
+                {
+                    "code": "USDT",
+                    "title": "Tether",
+                    "slug": "tether",
+                    "url": "https:\/\/cryptopanic.com\/news\/tether\/"
+                }
+            ],
+            "id": 18935325,
+            "url": "https:\/\/cryptopanic.com\/news\/18935325\/MetaExpand-Launchpad-on-LBank-Ends-with-52186338-USDT-in-Investment-Attracts-Substantial-Interest-UMM-to-be-Listed-on-LBank",
+            "created_at": "2023-09-28T17:00:30Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "feeds2.benzinga.com",
+            "source": {
+                "title": "Benzinga",
+                "region": "en",
+                "domain": "feeds2.benzinga.com",
+                "path": null
+            },
+            "title": "Binance's Paysafe Partnership Ends, Users Advised To Convert EUR Balances To USDT",
+            "published_at": "2023-09-28T16:59:49Z",
+            "slug": "Binances-Paysafe-Partnership-Ends-Users-Advised-To-Convert-EUR-Balances-To-USDT",
+            "currencies": [
+                {
+                    "code": "USDT",
+                    "title": "Tether",
+                    "slug": "tether",
+                    "url": "https:\/\/cryptopanic.com\/news\/tether\/"
+                }
+            ],
+            "id": 18935351,
+            "url": "https:\/\/cryptopanic.com\/news\/18935351\/Binances-Paysafe-Partnership-Ends-Users-Advised-To-Convert-EUR-Balances-To-USDT",
+            "created_at": "2023-09-28T16:59:49Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "What USDT\u2019s rising dominance means for the stablecoin sector",
+            "published_at": "2023-09-28T15:30:59Z",
+            "slug": "What-USDTs-rising-dominance-means-for-the-stablecoin-sector",
+            "currencies": [
+                {
+                    "code": "USDT",
+                    "title": "Tether",
+                    "slug": "tether",
+                    "url": "https:\/\/cryptopanic.com\/news\/tether\/"
+                }
+            ],
+            "id": 18935093,
+            "url": "https:\/\/cryptopanic.com\/news\/18935093\/What-USDTs-rising-dominance-means-for-the-stablecoin-sector",
+            "created_at": "2023-09-28T15:30:59Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "LBank concludes its launchpad for MetaExpand with 52,186,338 USDT",
+            "published_at": "2023-09-28T14:45:25Z",
+            "slug": "LBank-concludes-its-launchpad-for-MetaExpand-with-52186338-USDT",
+            "currencies": [
+                {
+                    "code": "USDT",
+                    "title": "Tether",
+                    "slug": "tether",
+                    "url": "https:\/\/cryptopanic.com\/news\/tether\/"
+                }
+            ],
+            "id": 18934934,
+            "url": "https:\/\/cryptopanic.com\/news\/18934934\/LBank-concludes-its-launchpad-for-MetaExpand-with-52186338-USDT",
+            "created_at": "2023-09-28T14:45:25Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cointelegraph.com",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "CoinTelegraph",
+                "region": "en",
+                "domain": "cointelegraph.com",
+                "path": null
+            },
+            "title": "Bitcoin lender Ledn to roll out ETH, USDT interest accounts",
+            "published_at": "2023-09-28T13:56:55Z",
+            "slug": "Bitcoin-lender-Ledn-to-roll-out-ETH-USDT-interest-accounts",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "USDT",
+                    "title": "Tether",
+                    "slug": "tether",
+                    "url": "https:\/\/cryptopanic.com\/news\/tether\/"
+                }
+            ],
+            "id": 18934738,
+            "url": "https:\/\/cryptopanic.com\/news\/18934738\/Bitcoin-lender-Ledn-to-roll-out-ETH-USDT-interest-accounts",
+            "created_at": "2023-09-28T13:56:55Z"
+        }
+    ]
+}

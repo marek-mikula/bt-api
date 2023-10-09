@@ -1,0 +1,851 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=QNT&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Bitcoin MPI Forms Death Cross, End of The Rally?",
+            "published_at": "2023-10-02T18:00:35Z",
+            "slug": "Bitcoin-MPI-Forms-Death-Cross-End-of-The-Rally",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "LINK",
+                    "title": "Chainlink",
+                    "slug": "chainlink",
+                    "url": "https:\/\/cryptopanic.com\/news\/chainlink\/"
+                },
+                {
+                    "code": "QNT",
+                    "title": "Quant",
+                    "slug": "quant-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/quant-network\/"
+                }
+            ],
+            "id": 18942813,
+            "url": "https:\/\/cryptopanic.com\/news\/18942813\/Bitcoin-MPI-Forms-Death-Cross-End-of-The-Rally",
+            "created_at": "2023-10-02T18:00:35Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Bitcoin Price Skyrockets Past $28,000, Here\u2019s Why",
+            "published_at": "2023-10-02T08:00:35Z",
+            "slug": "Bitcoin-Price-Skyrockets-Past-28000-Heres-Why",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "QNT",
+                    "title": "Quant",
+                    "slug": "quant-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/quant-network\/"
+                }
+            ],
+            "id": 18941247,
+            "url": "https:\/\/cryptopanic.com\/news\/18941247\/Bitcoin-Price-Skyrockets-Past-28000-Heres-Why",
+            "created_at": "2023-10-02T08:00:35Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinidol.com",
+            "source": {
+                "title": "Coin Idol",
+                "region": "en",
+                "domain": "coinidol.com",
+                "path": null
+            },
+            "title": "Quant Hits Another Low And Recovers Over $90",
+            "published_at": "2023-10-01T07:23:00Z",
+            "slug": "Quant-Hits-Another-Low-And-Recovers-Over-90",
+            "currencies": [
+                {
+                    "code": "QNT",
+                    "title": "Quant",
+                    "slug": "quant-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/quant-network\/"
+                }
+            ],
+            "id": 18940079,
+            "url": "https:\/\/cryptopanic.com\/news\/18940079\/Quant-Hits-Another-Low-And-Recovers-Over-90",
+            "created_at": "2023-10-01T07:23:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Bitcoin Bearish Signal: Long-Term Holders Deposit To Exchanges",
+            "published_at": "2023-09-27T17:00:20Z",
+            "slug": "Bitcoin-Bearish-Signal-Long-Term-Holders-Deposit-To-Exchanges",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "QNT",
+                    "title": "Quant",
+                    "slug": "quant-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/quant-network\/"
+                }
+            ],
+            "id": 18932552,
+            "url": "https:\/\/cryptopanic.com\/news\/18932552\/Bitcoin-Bearish-Signal-Long-Term-Holders-Deposit-To-Exchanges",
+            "created_at": "2023-09-27T17:00:20Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinedition.com",
+            "source": {
+                "title": "coinedition",
+                "region": "en",
+                "domain": "coinedition.com",
+                "path": null
+            },
+            "title": "BTC\u2019s Trading Volume Plummets to Historic Lows \u2013 What Does It Mean for Investors?",
+            "published_at": "2023-09-26T10:28:36Z",
+            "slug": "BTCs-Trading-Volume-Plummets-to-Historic-Lows-What-Does-It-Mean-for-Investors",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "QNT",
+                    "title": "Quant",
+                    "slug": "quant-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/quant-network\/"
+                }
+            ],
+            "id": 18928707,
+            "url": "https:\/\/cryptopanic.com\/news\/18928707\/BTCs-Trading-Volume-Plummets-to-Historic-Lows-What-Does-It-Mean-for-Investors",
+            "created_at": "2023-09-26T10:28:36Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "Terra Classic Community Votes to Halt USTC Minting as SEC Moves to Depose Do Kwon",
+            "published_at": "2023-09-24T18:50:00Z",
+            "slug": "Terra-Classic-Community-Votes-to-Halt-USTC-Minting-as-SEC-Moves-to-Depose-Do-Kwon",
+            "currencies": [
+                {
+                    "code": "QNT",
+                    "title": "Quant",
+                    "slug": "quant-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/quant-network\/"
+                },
+                {
+                    "code": "LUNC",
+                    "title": "Terra Luna Classic",
+                    "slug": "terra-luna",
+                    "url": "https:\/\/cryptopanic.com\/news\/terra-luna\/"
+                }
+            ],
+            "id": 18925061,
+            "url": "https:\/\/cryptopanic.com\/news\/18925061\/Terra-Classic-Community-Votes-to-Halt-USTC-Minting-as-SEC-Moves-to-Depose-Do-Kwon",
+            "created_at": "2023-09-24T18:50:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinidol.com",
+            "source": {
+                "title": "Coin Idol",
+                "region": "en",
+                "domain": "coinidol.com",
+                "path": null
+            },
+            "title": "Quant Gains Ground And Recaptures $90 Support",
+            "published_at": "2023-09-23T09:51:00Z",
+            "slug": "Quant-Gains-Ground-And-Recaptures-90-Support",
+            "currencies": [
+                {
+                    "code": "QNT",
+                    "title": "Quant",
+                    "slug": "quant-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/quant-network\/"
+                }
+            ],
+            "id": 18923635,
+            "url": "https:\/\/cryptopanic.com\/news\/18923635\/Quant-Gains-Ground-And-Recaptures-90-Support",
+            "created_at": "2023-09-23T09:51:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coingape.com",
+            "source": {
+                "title": "CoinGape",
+                "region": "en",
+                "domain": "coingape.com",
+                "path": null
+            },
+            "title": "Terra Luna Classic (LUNC) Proposal For USTC Burn By Binance Officially Passed",
+            "published_at": "2023-09-20T12:49:16Z",
+            "slug": "Terra-Luna-Classic-LUNC-Proposal-For-USTC-Burn-By-Binance-Officially-Passed",
+            "currencies": [
+                {
+                    "code": "QNT",
+                    "title": "Quant",
+                    "slug": "quant-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/quant-network\/"
+                },
+                {
+                    "code": "LUNC",
+                    "title": "Terra Luna Classic",
+                    "slug": "terra-luna",
+                    "url": "https:\/\/cryptopanic.com\/news\/terra-luna\/"
+                }
+            ],
+            "id": 18916218,
+            "url": "https:\/\/cryptopanic.com\/news\/18916218\/Terra-Luna-Classic-LUNC-Proposal-For-USTC-Burn-By-Binance-Officially-Passed",
+            "created_at": "2023-09-20T12:49:16Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinidol.com",
+            "source": {
+                "title": "Coin Idol",
+                "region": "en",
+                "domain": "coinidol.com",
+                "path": null
+            },
+            "title": "Quant Experiences Bearish Fatigue On Reaching $90 Low",
+            "published_at": "2023-09-19T07:00:00Z",
+            "slug": "Quant-Experiences-Bearish-Fatigue-On-Reaching-90-Low",
+            "currencies": [
+                {
+                    "code": "QNT",
+                    "title": "Quant",
+                    "slug": "quant-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/quant-network\/"
+                }
+            ],
+            "id": 18913053,
+            "url": "https:\/\/cryptopanic.com\/news\/18913053\/Quant-Experiences-Bearish-Fatigue-On-Reaching-90-Low",
+            "created_at": "2023-09-19T07:00:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coingape.com",
+            "source": {
+                "title": "CoinGape",
+                "region": "en",
+                "domain": "coingape.com",
+                "path": null
+            },
+            "title": "Binance To Help Terra Luna Classic (LUNC) Community Repeg USTC To $1?",
+            "published_at": "2023-09-15T14:15:12Z",
+            "slug": "Binance-To-Help-Terra-Luna-Classic-LUNC-Community-Repeg-USTC-To-1",
+            "currencies": [
+                {
+                    "code": "QNT",
+                    "title": "Quant",
+                    "slug": "quant-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/quant-network\/"
+                },
+                {
+                    "code": "LUNC",
+                    "title": "Terra Luna Classic",
+                    "slug": "terra-luna",
+                    "url": "https:\/\/cryptopanic.com\/news\/terra-luna\/"
+                }
+            ],
+            "id": 18906244,
+            "url": "https:\/\/cryptopanic.com\/news\/18906244\/Binance-To-Help-Terra-Luna-Classic-LUNC-Community-Repeg-USTC-To-1",
+            "created_at": "2023-09-15T14:15:12Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinidol.com",
+            "source": {
+                "title": "Coin Idol",
+                "region": "en",
+                "domain": "coinidol.com",
+                "path": null
+            },
+            "title": "Quant Retests Support At $98 And Fears Further Decline",
+            "published_at": "2023-09-12T05:37:00Z",
+            "slug": "Quant-Retests-Support-At-98-And-Fears-Further-Decline",
+            "currencies": [
+                {
+                    "code": "QNT",
+                    "title": "Quant",
+                    "slug": "quant-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/quant-network\/"
+                }
+            ],
+            "id": 18896298,
+            "url": "https:\/\/cryptopanic.com\/news\/18896298\/Quant-Retests-Support-At-98-And-Fears-Further-Decline",
+            "created_at": "2023-09-12T05:37:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coingape.com",
+            "source": {
+                "title": "CoinGape",
+                "region": "en",
+                "domain": "coingape.com",
+                "path": null
+            },
+            "title": "Terra Luna Classic Validators Divided On Proposal To Revive USTC And LUNC To $1",
+            "published_at": "2023-09-11T14:12:40Z",
+            "slug": "Terra-Luna-Classic-Validators-Divided-On-Proposal-To-Revive-USTC-And-LUNC-To-1",
+            "currencies": [
+                {
+                    "code": "QNT",
+                    "title": "Quant",
+                    "slug": "quant-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/quant-network\/"
+                },
+                {
+                    "code": "LUNC",
+                    "title": "Terra Luna Classic",
+                    "slug": "terra-luna",
+                    "url": "https:\/\/cryptopanic.com\/news\/terra-luna\/"
+                }
+            ],
+            "id": 18894417,
+            "url": "https:\/\/cryptopanic.com\/news\/18894417\/Terra-Luna-Classic-Validators-Divided-On-Proposal-To-Revive-USTC-And-LUNC-To-1",
+            "created_at": "2023-09-11T14:12:40Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Bitcoin Could Decline Further Before A Rebound, Here\u2019s Why",
+            "published_at": "2023-09-07T14:09:02Z",
+            "slug": "Bitcoin-Could-Decline-Further-Before-A-Rebound-Heres-Why",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "QNT",
+                    "title": "Quant",
+                    "slug": "quant-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/quant-network\/"
+                }
+            ],
+            "id": 18886614,
+            "url": "https:\/\/cryptopanic.com\/news\/18886614\/Bitcoin-Could-Decline-Further-Before-A-Rebound-Heres-Why",
+            "created_at": "2023-09-07T14:09:02Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Bitcoin MVRV At Critical Support Line, Will Retest Be Successful?",
+            "published_at": "2023-09-06T16:00:13Z",
+            "slug": "Bitcoin-MVRV-At-Critical-Support-Line-Will-Retest-Be-Successful",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "QNT",
+                    "title": "Quant",
+                    "slug": "quant-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/quant-network\/"
+                }
+            ],
+            "id": 18884269,
+            "url": "https:\/\/cryptopanic.com\/news\/18884269\/Bitcoin-MVRV-At-Critical-Support-Line-Will-Retest-Be-Successful",
+            "created_at": "2023-09-06T16:00:13Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinidol.com",
+            "source": {
+                "title": "Coin Idol",
+                "region": "en",
+                "domain": "coinidol.com",
+                "path": null
+            },
+            "title": "Quant Returns Above The Support Of The Range of $97",
+            "published_at": "2023-09-04T12:32:00Z",
+            "slug": "Quant-Returns-Above-The-Support-Of-The-Range-of-97",
+            "currencies": [
+                {
+                    "code": "QNT",
+                    "title": "Quant",
+                    "slug": "quant-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/quant-network\/"
+                }
+            ],
+            "id": 18878909,
+            "url": "https:\/\/cryptopanic.com\/news\/18878909\/Quant-Returns-Above-The-Support-Of-The-Range-of-97",
+            "created_at": "2023-09-04T12:32:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "This Metric Hinted At The Bitcoin Retrace In Advance",
+            "published_at": "2023-09-01T19:00:36Z",
+            "slug": "This-Metric-Hinted-At-The-Bitcoin-Retrace-In-Advance",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "USDT",
+                    "title": "Tether",
+                    "slug": "tether",
+                    "url": "https:\/\/cryptopanic.com\/news\/tether\/"
+                },
+                {
+                    "code": "USDC",
+                    "title": "USD Coin",
+                    "slug": "usd-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/usd-coin\/"
+                },
+                {
+                    "code": "QNT",
+                    "title": "Quant",
+                    "slug": "quant-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/quant-network\/"
+                }
+            ],
+            "id": 18874888,
+            "url": "https:\/\/cryptopanic.com\/news\/18874888\/This-Metric-Hinted-At-The-Bitcoin-Retrace-In-Advance",
+            "created_at": "2023-09-01T19:00:36Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Bitcoin Plunges To $26,000 As Miners Sell Big",
+            "published_at": "2023-09-01T15:00:48Z",
+            "slug": "Bitcoin-Plunges-To-26000-As-Miners-Sell-Big",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "QNT",
+                    "title": "Quant",
+                    "slug": "quant-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/quant-network\/"
+                },
+                {
+                    "code": "FLOW",
+                    "title": "Flow",
+                    "slug": "flow",
+                    "url": "https:\/\/cryptopanic.com\/news\/flow\/"
+                }
+            ],
+            "id": 18874410,
+            "url": "https:\/\/cryptopanic.com\/news\/18874410\/Bitcoin-Plunges-To-26000-As-Miners-Sell-Big",
+            "created_at": "2023-09-01T15:00:48Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coingape.com",
+            "source": {
+                "title": "CoinGape",
+                "region": "en",
+                "domain": "coingape.com",
+                "path": null
+            },
+            "title": "Terra Luna Classic USTC Repeg Team\u2019s Proposal Officially Passed, LUNC & USTC To $1?",
+            "published_at": "2023-09-01T11:46:09Z",
+            "slug": "Terra-Luna-Classic-USTC-Repeg-Teams-Proposal-Officially-Passed-LUNC-USTC-To-1",
+            "currencies": [
+                {
+                    "code": "QNT",
+                    "title": "Quant",
+                    "slug": "quant-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/quant-network\/"
+                },
+                {
+                    "code": "LUNC",
+                    "title": "Terra Luna Classic",
+                    "slug": "terra-luna",
+                    "url": "https:\/\/cryptopanic.com\/news\/terra-luna\/"
+                }
+            ],
+            "id": 18873786,
+            "url": "https:\/\/cryptopanic.com\/news\/18873786\/Terra-Luna-Classic-USTC-Repeg-Teams-Proposal-Officially-Passed-LUNC-USTC-To-1",
+            "created_at": "2023-09-01T11:46:09Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinidol.com",
+            "source": {
+                "title": "Coin Idol",
+                "region": "en",
+                "domain": "coinidol.com",
+                "path": null
+            },
+            "title": "Quant Rises Upward In The Face Of Rejection At $105",
+            "published_at": "2023-08-28T06:41:00Z",
+            "slug": "Quant-Rises-Upward-In-The-Face-Of-Rejection-At-105",
+            "currencies": [
+                {
+                    "code": "QNT",
+                    "title": "Quant",
+                    "slug": "quant-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/quant-network\/"
+                }
+            ],
+            "id": 18863381,
+            "url": "https:\/\/cryptopanic.com\/news\/18863381\/Quant-Rises-Upward-In-The-Face-Of-Rejection-At-105",
+            "created_at": "2023-08-28T06:41:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cointelegraph.com",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 1,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "CoinTelegraph",
+                "region": "en",
+                "domain": "cointelegraph.com",
+                "path": null
+            },
+            "title": "Bitcoin price stability creates lucrative setups in TON, XMR, MNT and QNT",
+            "published_at": "2023-08-27T19:08:27Z",
+            "slug": "Bitcoin-price-stability-creates-lucrative-setups-in-TON-XMR-MNT-and-QNT",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "TON",
+                    "title": "Toncoin",
+                    "slug": "the-open-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/the-open-network\/"
+                },
+                {
+                    "code": "XMR",
+                    "title": "Monero",
+                    "slug": "monero",
+                    "url": "https:\/\/cryptopanic.com\/news\/monero\/"
+                },
+                {
+                    "code": "QNT",
+                    "title": "Quant",
+                    "slug": "quant-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/quant-network\/"
+                },
+                {
+                    "code": "MNT",
+                    "title": "Mantle",
+                    "slug": "mantle",
+                    "url": "https:\/\/cryptopanic.com\/news\/mantle\/"
+                }
+            ],
+            "id": 18862575,
+            "url": "https:\/\/cryptopanic.com\/news\/18862575\/Bitcoin-price-stability-creates-lucrative-setups-in-TON-XMR-MNT-and-QNT",
+            "created_at": "2023-08-27T19:08:27Z"
+        }
+    ]
+}

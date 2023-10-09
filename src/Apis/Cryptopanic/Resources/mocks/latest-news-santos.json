@@ -1,0 +1,42 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=SANTOS&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "@SantosFC",
+            "source": {
+                "title": "Santos FC Fan Token Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@santosfc"
+            },
+            "title": "Brabo! #JP34",
+            "published_at": "2021-12-03T00:21:09Z",
+            "slug": "Brabo-JP34",
+            "currencies": [
+                {
+                    "code": "SANTOS",
+                    "title": "Santos FC Fan Token",
+                    "slug": "santos-fc-fan-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/santos-fc-fan-token\/"
+                }
+            ],
+            "id": 13551299,
+            "url": "https:\/\/cryptopanic.com\/news\/13551299\/Brabo-JP34",
+            "created_at": "2021-12-03T00:21:09Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

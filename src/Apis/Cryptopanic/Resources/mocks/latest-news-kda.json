@@ -1,0 +1,707 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=KDA&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "@kadena_io",
+            "source": {
+                "title": "Kadena Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@kadena_io"
+            },
+            "title": "RT @eckoWALLET: eckoWALLET v2.6.3 is Now Live!\n\nWhats \ud83c\udd95?:\n- NFT Integration\n\nWe don't stop building! \n\nStore your favourite @kadena_io NFT'\u2026",
+            "published_at": "2023-07-11T14:17:23Z",
+            "slug": "RT-eckoWALLET-eckoWALLET-v263-is-Now-Live-Whats-NFT-Integration-We-dont-stop-building-Store-your-favourite-kadena_io-NFT",
+            "currencies": [
+                {
+                    "code": "KDA",
+                    "title": "Kadena",
+                    "slug": "kadena",
+                    "url": "https:\/\/cryptopanic.com\/news\/kadena\/"
+                }
+            ],
+            "id": 18765146,
+            "url": "https:\/\/cryptopanic.com\/news\/18765146\/RT-eckoWALLET-eckoWALLET-v263-is-Now-Live-Whats-NFT-Integration-We-dont-stop-building-Store-your-favourite-kadena_io-NFT",
+            "created_at": "2023-07-11T14:17:23Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@kadena_io",
+            "source": {
+                "title": "Kadena Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@kadena_io"
+            },
+            "title": "RT @Randynamic_4: Next week, @kadena_io will be attending @EthCC in Paris!! \n\nHuge shoutout to @Straatemans for designing the coolest k:apy\u2026",
+            "published_at": "2023-07-11T12:28:14Z",
+            "slug": "RT-Randynamic_4-Next-week-kadena_io-will-be-attending-EthCC-in-Paris-Huge-shoutout-to-Straatemans-for-designing-the-coolest-kapy",
+            "currencies": [
+                {
+                    "code": "KDA",
+                    "title": "Kadena",
+                    "slug": "kadena",
+                    "url": "https:\/\/cryptopanic.com\/news\/kadena\/"
+                }
+            ],
+            "id": 18765147,
+            "url": "https:\/\/cryptopanic.com\/news\/18765147\/RT-Randynamic_4-Next-week-kadena_io-will-be-attending-EthCC-in-Paris-Huge-shoutout-to-Straatemans-for-designing-the-coolest-kapy",
+            "created_at": "2023-07-11T12:28:14Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@kadena_io",
+            "source": {
+                "title": "Kadena Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@kadena_io"
+            },
+            "title": "Join @kadena_io's President and Founder @wjmartino for an exciting edition of the #KadenaCampfire on Wed (7\/12) at\u2026",
+            "published_at": "2023-07-10T16:53:45Z",
+            "slug": "Join-kadena_ios-President-and-Founder-wjmartino-for-an-exciting-edition-of-the-KadenaCampfire-on-Wed-712-at",
+            "currencies": [
+                {
+                    "code": "KDA",
+                    "title": "Kadena",
+                    "slug": "kadena",
+                    "url": "https:\/\/cryptopanic.com\/news\/kadena\/"
+                }
+            ],
+            "id": 18756981,
+            "url": "https:\/\/cryptopanic.com\/news\/18756981\/Join-kadena_ios-President-and-Founder-wjmartino-for-an-exciting-edition-of-the-KadenaCampfire-on-Wed-712-at",
+            "created_at": "2023-07-10T16:53:45Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@kadena_io",
+            "source": {
+                "title": "Kadena Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@kadena_io"
+            },
+            "title": "RT @KDAMiningClub: BREAKING: @Kadena_io Monthly Active Developers Reaches ATH\n\nKadena, the industry\u2019s only scalable layer-1 Proof of Work (\u2026",
+            "published_at": "2023-07-09T21:43:08Z",
+            "slug": "RT-KDAMiningClub-BREAKING-Kadena_io-Monthly-Active-Developers-Reaches-ATH-Kadena-the-industrys-only-scalable-layer-1-Proof-of-Work",
+            "currencies": [
+                {
+                    "code": "KDA",
+                    "title": "Kadena",
+                    "slug": "kadena",
+                    "url": "https:\/\/cryptopanic.com\/news\/kadena\/"
+                }
+            ],
+            "id": 18750174,
+            "url": "https:\/\/cryptopanic.com\/news\/18750174\/RT-KDAMiningClub-BREAKING-Kadena_io-Monthly-Active-Developers-Reaches-ATH-Kadena-the-industrys-only-scalable-layer-1-Proof-of-Work",
+            "created_at": "2023-07-09T21:43:08Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@kadena_io",
+            "source": {
+                "title": "Kadena Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@kadena_io"
+            },
+            "title": "Which industries do you think could benefit the most from implementing #blockchain technology, and how?",
+            "published_at": "2023-07-08T14:00:00Z",
+            "slug": "Which-industries-do-you-think-could-benefit-the-most-from-implementing-blockchain-technology-and-how",
+            "currencies": [
+                {
+                    "code": "KDA",
+                    "title": "Kadena",
+                    "slug": "kadena",
+                    "url": "https:\/\/cryptopanic.com\/news\/kadena\/"
+                }
+            ],
+            "id": 18745934,
+            "url": "https:\/\/cryptopanic.com\/news\/18745934\/Which-industries-do-you-think-could-benefit-the-most-from-implementing-blockchain-technology-and-how",
+            "created_at": "2023-07-08T14:00:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@kadena_io",
+            "source": {
+                "title": "Kadena Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@kadena_io"
+            },
+            "title": "RT @LinxWallet: With pride, we can officially say now that Linx Wallet is a @kadena_io grantee! \n\nGetting support from Kadena emphasizes th\u2026",
+            "published_at": "2023-07-07T14:15:21Z",
+            "slug": "RT-LinxWallet-With-pride-we-can-officially-say-now-that-Linx-Wallet-is-a-kadena_io-grantee-Getting-support-from-Kadena-emphasizes-th",
+            "currencies": [
+                {
+                    "code": "KDA",
+                    "title": "Kadena",
+                    "slug": "kadena",
+                    "url": "https:\/\/cryptopanic.com\/news\/kadena\/"
+                }
+            ],
+            "id": 18740828,
+            "url": "https:\/\/cryptopanic.com\/news\/18740828\/RT-LinxWallet-With-pride-we-can-officially-say-now-that-Linx-Wallet-is-a-kadena_io-grantee-Getting-support-from-Kadena-emphasizes-th",
+            "created_at": "2023-07-07T14:15:21Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@kadena_io",
+            "source": {
+                "title": "Kadena Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@kadena_io"
+            },
+            "title": "RT @KadenaEcosystem: \ud83e\udd2f Last 25k transactions cost $1 in gas fees! @Kadena_io reimagines blockchain with Chainweb - a multi-chain architectu\u2026",
+            "published_at": "2023-07-07T10:42:09Z",
+            "slug": "RT-KadenaEcosystem-Last-25k-transactions-cost-1-in-gas-fees-Kadena_io-reimagines-blockchain-with-Chainweb-a-multi-chain-architectu",
+            "currencies": [
+                {
+                    "code": "KDA",
+                    "title": "Kadena",
+                    "slug": "kadena",
+                    "url": "https:\/\/cryptopanic.com\/news\/kadena\/"
+                }
+            ],
+            "id": 18740829,
+            "url": "https:\/\/cryptopanic.com\/news\/18740829\/RT-KadenaEcosystem-Last-25k-transactions-cost-1-in-gas-fees-Kadena_io-reimagines-blockchain-with-Chainweb-a-multi-chain-architectu",
+            "created_at": "2023-07-07T10:42:09Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@kadena_io",
+            "source": {
+                "title": "Kadena Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@kadena_io"
+            },
+            "title": "RT @Randynamic_4: Just had an exhilarating meeting with @davyengone about the revamped ! A new design, we tackled n\u2026",
+            "published_at": "2023-07-07T10:33:50Z",
+            "slug": "RT-Randynamic_4-Just-had-an-exhilarating-meeting-with-davyengone-about-the-revamped-A-new-design-we-tackled-n",
+            "currencies": [
+                {
+                    "code": "KDA",
+                    "title": "Kadena",
+                    "slug": "kadena",
+                    "url": "https:\/\/cryptopanic.com\/news\/kadena\/"
+                }
+            ],
+            "id": 18740830,
+            "url": "https:\/\/cryptopanic.com\/news\/18740830\/RT-Randynamic_4-Just-had-an-exhilarating-meeting-with-davyengone-about-the-revamped-A-new-design-we-tackled-n",
+            "created_at": "2023-07-07T10:33:50Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@kadena_io",
+            "source": {
+                "title": "Kadena Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@kadena_io"
+            },
+            "title": "RT @SirLensALot: .@kadena_io\u2019s pace of progress has been incredible in Q2, with game-changing developments like #Marmalade leading the way.\u2026",
+            "published_at": "2023-07-06T23:48:15Z",
+            "slug": "RT-SirLensALot-kadena_ios-pace-of-progress-has-been-incredible-in-Q2-with-game-changing-developments-like-Marmalade-leading-the-way",
+            "currencies": [
+                {
+                    "code": "KDA",
+                    "title": "Kadena",
+                    "slug": "kadena",
+                    "url": "https:\/\/cryptopanic.com\/news\/kadena\/"
+                }
+            ],
+            "id": 18733264,
+            "url": "https:\/\/cryptopanic.com\/news\/18733264\/RT-SirLensALot-kadena_ios-pace-of-progress-has-been-incredible-in-Q2-with-game-changing-developments-like-Marmalade-leading-the-way",
+            "created_at": "2023-07-06T23:48:15Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@kadena_io",
+            "source": {
+                "title": "Kadena Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@kadena_io"
+            },
+            "title": "RT @bezanastasia: Scaling the team! Building more tech! Always grateful to be working with this group @kadena_io",
+            "published_at": "2023-07-06T20:01:35Z",
+            "slug": "RT-bezanastasia-Scaling-the-team-Building-more-tech-Always-grateful-to-be-working-with-this-group-kadena_io",
+            "currencies": [
+                {
+                    "code": "KDA",
+                    "title": "Kadena",
+                    "slug": "kadena",
+                    "url": "https:\/\/cryptopanic.com\/news\/kadena\/"
+                }
+            ],
+            "id": 18733265,
+            "url": "https:\/\/cryptopanic.com\/news\/18733265\/RT-bezanastasia-Scaling-the-team-Building-more-tech-Always-grateful-to-be-working-with-this-group-kadena_io",
+            "created_at": "2023-07-06T20:01:35Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@kadena_io",
+            "source": {
+                "title": "Kadena Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@kadena_io"
+            },
+            "title": "The release of @kadena_io's Q2 newsletter is here!\n\nLots of exciting news developments over Q2 (did we mention #L2,\u2026",
+            "published_at": "2023-07-06T16:49:32Z",
+            "slug": "The-release-of-kadena_ios-Q2-newsletter-is-here-Lots-of-exciting-news-developments-over-Q2-did-we-mention-L2",
+            "currencies": [
+                {
+                    "code": "KDA",
+                    "title": "Kadena",
+                    "slug": "kadena",
+                    "url": "https:\/\/cryptopanic.com\/news\/kadena\/"
+                }
+            ],
+            "id": 18733266,
+            "url": "https:\/\/cryptopanic.com\/news\/18733266\/The-release-of-kadena_ios-Q2-newsletter-is-here-Lots-of-exciting-news-developments-over-Q2-did-we-mention-L2",
+            "created_at": "2023-07-06T16:49:32Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@kadena_io",
+            "source": {
+                "title": "Kadena Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@kadena_io"
+            },
+            "title": "Learn about @kadena_io's unique scaling architecture, allowing 25,000 transactions to cost just $1 in gas fees \u2026",
+            "published_at": "2023-07-06T10:14:02Z",
+            "slug": "Learn-about-kadena_ios-unique-scaling-architecture-allowing-25000-transactions-to-cost-just-1-in-gas-fees",
+            "currencies": [
+                {
+                    "code": "KDA",
+                    "title": "Kadena",
+                    "slug": "kadena",
+                    "url": "https:\/\/cryptopanic.com\/news\/kadena\/"
+                }
+            ],
+            "id": 18733267,
+            "url": "https:\/\/cryptopanic.com\/news\/18733267\/Learn-about-kadena_ios-unique-scaling-architecture-allowing-25000-transactions-to-cost-just-1-in-gas-fees",
+            "created_at": "2023-07-06T10:14:02Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@kadena_io",
+            "source": {
+                "title": "Kadena Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@kadena_io"
+            },
+            "title": "RT @Randynamic_4: Thrilled to witness @andortang unleashing his writing prowess to enlighten us about #Pact. Kudos on a fantastic job! It's\u2026",
+            "published_at": "2023-07-06T08:17:18Z",
+            "slug": "RT-Randynamic_4-Thrilled-to-witness-andortang-unleashing-his-writing-prowess-to-enlighten-us-about-Pact-Kudos-on-a-fantastic-job-Its",
+            "currencies": [
+                {
+                    "code": "KDA",
+                    "title": "Kadena",
+                    "slug": "kadena",
+                    "url": "https:\/\/cryptopanic.com\/news\/kadena\/"
+                }
+            ],
+            "id": 18733268,
+            "url": "https:\/\/cryptopanic.com\/news\/18733268\/RT-Randynamic_4-Thrilled-to-witness-andortang-unleashing-his-writing-prowess-to-enlighten-us-about-Pact-Kudos-on-a-fantastic-job-Its",
+            "created_at": "2023-07-06T08:17:18Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@kadena_io",
+            "source": {
+                "title": "Kadena Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@kadena_io"
+            },
+            "title": "RT @KadenaCommunity: \ufe0f\ud835\udde4\ud835\udde8\ud835\udddc\ud835\uddd6\ud835\uddde \ud835\udde6\ud835\udde8\ud835\udde0\ud835\udde0\ud835\uddd4\ud835\udde5\ud835\uddec\ufe0f\n\nCouldn't make it to the 20th edition of the #KadenaCampfire with @BlockchainDoug? \n\nHere is a quic\u2026",
+            "published_at": "2023-07-06T07:02:46Z",
+            "slug": "RT-KadenaCommunity-QUICK-SUMMARY-Couldnt-make-it-to-the-20th-edition-of-the-KadenaCampfire-with-BlockchainDoug-Here-is-a-quic",
+            "currencies": [
+                {
+                    "code": "KDA",
+                    "title": "Kadena",
+                    "slug": "kadena",
+                    "url": "https:\/\/cryptopanic.com\/news\/kadena\/"
+                }
+            ],
+            "id": 18724805,
+            "url": "https:\/\/cryptopanic.com\/news\/18724805\/RT-KadenaCommunity-QUICK-SUMMARY-Couldnt-make-it-to-the-20th-edition-of-the-KadenaCampfire-with-BlockchainDoug-Here-is-a-quic",
+            "created_at": "2023-07-06T07:02:46Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@kadena_io",
+            "source": {
+                "title": "Kadena Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@kadena_io"
+            },
+            "title": "Formal Verification is a powerful tool for smart contract development on the @kadena_io blockchain. Here\u2019s a guide\u2026",
+            "published_at": "2023-07-05T16:16:25Z",
+            "slug": "Formal-Verification-is-a-powerful-tool-for-smart-contract-development-on-the-kadena_io-blockchain-Heres-a-guide",
+            "currencies": [
+                {
+                    "code": "KDA",
+                    "title": "Kadena",
+                    "slug": "kadena",
+                    "url": "https:\/\/cryptopanic.com\/news\/kadena\/"
+                }
+            ],
+            "id": 18724806,
+            "url": "https:\/\/cryptopanic.com\/news\/18724806\/Formal-Verification-is-a-powerful-tool-for-smart-contract-development-on-the-kadena_io-blockchain-Heres-a-guide",
+            "created_at": "2023-07-05T16:16:25Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@kadena_io",
+            "source": {
+                "title": "Kadena Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@kadena_io"
+            },
+            "title": "Kadena Campfire: Community Call #20 - ft. Doug Beardsley",
+            "published_at": "2023-07-05T16:00:06Z",
+            "slug": "Kadena-Campfire-Community-Call-20-ft-Doug-Beardsley",
+            "currencies": [
+                {
+                    "code": "KDA",
+                    "title": "Kadena",
+                    "slug": "kadena",
+                    "url": "https:\/\/cryptopanic.com\/news\/kadena\/"
+                }
+            ],
+            "id": 18724807,
+            "url": "https:\/\/cryptopanic.com\/news\/18724807\/Kadena-Campfire-Community-Call-20-ft-Doug-Beardsley",
+            "created_at": "2023-07-05T16:00:06Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@kadena_io",
+            "source": {
+                "title": "Kadena Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@kadena_io"
+            },
+            "title": "T-1 hour! \n\nBring some snacks &amp; your questions and gather for today's #KadenaCampfire with @BlockchainDoug \n\nYout\u2026",
+            "published_at": "2023-07-05T15:00:32Z",
+            "slug": "T-1-hour-Bring-some-snacks-amp-your-questions-and-gather-for-todays-KadenaCampfire-with-BlockchainDoug-Yout",
+            "currencies": [
+                {
+                    "code": "KDA",
+                    "title": "Kadena",
+                    "slug": "kadena",
+                    "url": "https:\/\/cryptopanic.com\/news\/kadena\/"
+                }
+            ],
+            "id": 18724808,
+            "url": "https:\/\/cryptopanic.com\/news\/18724808\/T-1-hour-Bring-some-snacks-amp-your-questions-and-gather-for-todays-KadenaCampfire-with-BlockchainDoug-Yout",
+            "created_at": "2023-07-05T15:00:32Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@kadena_io",
+            "source": {
+                "title": "Kadena Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@kadena_io"
+            },
+            "title": "RT @KadenaCommunity: We keep it going ... \ud83e\udea9\n\n$KDA #Kadena",
+            "published_at": "2023-07-05T11:35:21Z",
+            "slug": "RT-KadenaCommunity-We-keep-it-going-KDA-Kadena",
+            "currencies": [
+                {
+                    "code": "KDA",
+                    "title": "Kadena",
+                    "slug": "kadena",
+                    "url": "https:\/\/cryptopanic.com\/news\/kadena\/"
+                }
+            ],
+            "id": 18724809,
+            "url": "https:\/\/cryptopanic.com\/news\/18724809\/RT-KadenaCommunity-We-keep-it-going-KDA-Kadena",
+            "created_at": "2023-07-05T11:35:21Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@kadena_io",
+            "source": {
+                "title": "Kadena Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@kadena_io"
+            },
+            "title": "Join us for the 20th edition of the #KadenaCampfire with @BlockchainDoug and @tbenst on Wed (7\/5) at 4 PM UTC!\n\nLea\u2026",
+            "published_at": "2023-07-04T17:48:05Z",
+            "slug": "Join-us-for-the-20th-edition-of-the-KadenaCampfire-with-BlockchainDoug-and-tbenst-on-Wed-75-at-4-PM-UTC-Lea",
+            "currencies": [
+                {
+                    "code": "KDA",
+                    "title": "Kadena",
+                    "slug": "kadena",
+                    "url": "https:\/\/cryptopanic.com\/news\/kadena\/"
+                }
+            ],
+            "id": 18716983,
+            "url": "https:\/\/cryptopanic.com\/news\/18716983\/Join-us-for-the-20th-edition-of-the-KadenaCampfire-with-BlockchainDoug-and-tbenst-on-Wed-75-at-4-PM-UTC-Lea",
+            "created_at": "2023-07-04T17:48:05Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@kadena_io",
+            "source": {
+                "title": "Kadena Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@kadena_io"
+            },
+            "title": "RT @vuejsforge: The heat is ON \n\n Forge Episode 4, powered by @kadena_io, is happening on August 2-3!\n\nBuild a @vuejs blockchain cro\u2026",
+            "published_at": "2023-07-04T17:20:18Z",
+            "slug": "RT-vuejsforge-The-heat-is-ON-Forge-Episode-4-powered-by-kadena_io-is-happening-on-August-2-3-Build-a-vuejs-blockchain-cro",
+            "currencies": [
+                {
+                    "code": "KDA",
+                    "title": "Kadena",
+                    "slug": "kadena",
+                    "url": "https:\/\/cryptopanic.com\/news\/kadena\/"
+                }
+            ],
+            "id": 18716984,
+            "url": "https:\/\/cryptopanic.com\/news\/18716984\/RT-vuejsforge-The-heat-is-ON-Forge-Episode-4-powered-by-kadena_io-is-happening-on-August-2-3-Build-a-vuejs-blockchain-cro",
+            "created_at": "2023-07-04T17:20:18Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

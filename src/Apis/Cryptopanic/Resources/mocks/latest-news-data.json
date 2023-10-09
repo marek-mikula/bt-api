@@ -1,0 +1,1955 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=DATA&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "@indexcoop",
+            "source": {
+                "title": "Index Cooperative Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@indexcoop"
+            },
+            "title": "RT @indexcoop: \ud835\udc13\ud835\udc21\ud835\udc1e \ud835\udc12\ud835\udc2d\ud835\udc1a\ud835\udc2d\ud835\udc1e \ud835\udc0e\ud835\udc1f \ud835\udc13\ud835\udc21\ud835\udc1e \ud835\udc0e\ud835\udc27\ud835\udc1c\ud835\udc21\ud835\udc1a\ud835\udc22\ud835\udc27 \ud835\udc12\ud835\udc2d\ud835\udc2b\ud835\udc2e\ud835\udc1c\ud835\udc2d\ud835\udc2e\ud835\udc2b\ud835\udc1e\ud835\udc1d \ud835\udc0f\ud835\udc2b\ud835\udc28\ud835\udc1d\ud835\udc2e\ud835\udc1c\ud835\udc2d \ud835\udc0c\ud835\udc1a\ud835\udc2b\ud835\udc24\ud835\udc1e\ud835\udc2d is here ",
+            "published_at": "2023-07-11T22:45:21Z",
+            "slug": "RT-indexcoop-The-State-Of-The-Onchain-Structured-Product-Market-is-here",
+            "currencies": [
+                {
+                    "code": "DPI",
+                    "title": "DeFi Pulse Index",
+                    "slug": "defipulse-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/defipulse-index\/"
+                },
+                {
+                    "code": "INDEX",
+                    "title": "Index Cooperative",
+                    "slug": "index-cooperative",
+                    "url": "https:\/\/cryptopanic.com\/news\/index-cooperative\/"
+                },
+                {
+                    "code": "ETH2X-FLI",
+                    "title": "Index Coop - ETH 2x Flexible Leverage Index",
+                    "slug": "eth-2x-flexible-leverage-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/eth-2x-flexible-leverage-index\/"
+                },
+                {
+                    "code": "MVI",
+                    "title": "Metaverse Index",
+                    "slug": "metaverse-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/metaverse-index\/"
+                },
+                {
+                    "code": "BTC2X-FLI",
+                    "title": "BTC 2x Flexible Leverage Index",
+                    "slug": "btc-2x-flexible-leverage-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/btc-2x-flexible-leverage-index\/"
+                },
+                {
+                    "code": "BED",
+                    "title": "Bankless BED Index",
+                    "slug": "bankless-bed-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/bankless-bed-index\/"
+                },
+                {
+                    "code": "DATA",
+                    "title": "Data Economy Index",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "ETH2X-FLI-P",
+                    "title": "Index Coop - ETH 2x Flexible Leverage Index (Polygon)",
+                    "slug": "index-coop-eth-2x-flexible-leverage-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/index-coop-eth-2x-flexible-leverage-index\/"
+                },
+                {
+                    "code": "GMI",
+                    "title": "Bankless DeFi Innovation Index",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "MATIC2X-FLI-P",
+                    "title": "Index Coop - MATIC 2x Flexible Leverage Index",
+                    "slug": "index-coop-matic-2x-flexible-leverage-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/index-coop-matic-2x-flexible-leverage-index\/"
+                },
+                {
+                    "code": "IMATIC-FLI-P",
+                    "title": "Index Coop - Inverse MATIC Flexible Leverage Index",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "IETH-FLI-P",
+                    "title": "Index Coop - Inverse ETH Flexible Leverage Index",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "IBTC-FLI-P",
+                    "title": "Inverse BTC Flexible Leverage Index",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "BTC2X-FLI-P",
+                    "title": "BTC 2x Flexible Leverage Index (Polygon)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "ICETH",
+                    "title": "Interest Compounding ETH Index",
+                    "slug": "interest-compounding-eth-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/interest-compounding-eth-index\/"
+                }
+            ],
+            "id": 18764968,
+            "url": "https:\/\/cryptopanic.com\/news\/18764968\/RT-indexcoop-The-State-Of-The-Onchain-Structured-Product-Market-is-here",
+            "created_at": "2023-07-11T22:45:21Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@indexcoop",
+            "source": {
+                "title": "Index Cooperative Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@indexcoop"
+            },
+            "title": "What are the top protocols for \ud835\uddfc\ud835\uddfb\ud835\uddf0\ud835\uddf5\ud835\uddee\ud835\uddf6\ud835\uddfb \ud835\ude00\ud835\ude01\ud835\uddff\ud835\ude02\ud835\uddf0\ud835\ude01\ud835\ude02\ud835\uddff\ud835\uddf2\ud835\uddf1 \ud835\uddfd\ud835\uddff\ud835\uddfc\ud835\uddf1\ud835\ude02\ud835\uddf0\ud835\ude01\ud835\ude00? \n\nNot all of them are darlings of crypto twitter, the\u2026",
+            "published_at": "2023-07-11T21:00:16Z",
+            "slug": "What-are-the-top-protocols-for-onchain-structured-products-Not-all-of-them-are-darlings-of-crypto-twitter-the",
+            "currencies": [
+                {
+                    "code": "DPI",
+                    "title": "DeFi Pulse Index",
+                    "slug": "defipulse-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/defipulse-index\/"
+                },
+                {
+                    "code": "INDEX",
+                    "title": "Index Cooperative",
+                    "slug": "index-cooperative",
+                    "url": "https:\/\/cryptopanic.com\/news\/index-cooperative\/"
+                },
+                {
+                    "code": "ETH2X-FLI",
+                    "title": "Index Coop - ETH 2x Flexible Leverage Index",
+                    "slug": "eth-2x-flexible-leverage-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/eth-2x-flexible-leverage-index\/"
+                },
+                {
+                    "code": "MVI",
+                    "title": "Metaverse Index",
+                    "slug": "metaverse-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/metaverse-index\/"
+                },
+                {
+                    "code": "BTC2X-FLI",
+                    "title": "BTC 2x Flexible Leverage Index",
+                    "slug": "btc-2x-flexible-leverage-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/btc-2x-flexible-leverage-index\/"
+                },
+                {
+                    "code": "BED",
+                    "title": "Bankless BED Index",
+                    "slug": "bankless-bed-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/bankless-bed-index\/"
+                },
+                {
+                    "code": "DATA",
+                    "title": "Data Economy Index",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "ETH2X-FLI-P",
+                    "title": "Index Coop - ETH 2x Flexible Leverage Index (Polygon)",
+                    "slug": "index-coop-eth-2x-flexible-leverage-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/index-coop-eth-2x-flexible-leverage-index\/"
+                },
+                {
+                    "code": "GMI",
+                    "title": "Bankless DeFi Innovation Index",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "MATIC2X-FLI-P",
+                    "title": "Index Coop - MATIC 2x Flexible Leverage Index",
+                    "slug": "index-coop-matic-2x-flexible-leverage-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/index-coop-matic-2x-flexible-leverage-index\/"
+                },
+                {
+                    "code": "IMATIC-FLI-P",
+                    "title": "Index Coop - Inverse MATIC Flexible Leverage Index",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "IETH-FLI-P",
+                    "title": "Index Coop - Inverse ETH Flexible Leverage Index",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "IBTC-FLI-P",
+                    "title": "Inverse BTC Flexible Leverage Index",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "BTC2X-FLI-P",
+                    "title": "BTC 2x Flexible Leverage Index (Polygon)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "ICETH",
+                    "title": "Interest Compounding ETH Index",
+                    "slug": "interest-compounding-eth-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/interest-compounding-eth-index\/"
+                }
+            ],
+            "id": 18764969,
+            "url": "https:\/\/cryptopanic.com\/news\/18764969\/What-are-the-top-protocols-for-onchain-structured-products-Not-all-of-them-are-darlings-of-crypto-twitter-the",
+            "created_at": "2023-07-11T21:00:16Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@indexcoop",
+            "source": {
+                "title": "Index Cooperative Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@indexcoop"
+            },
+            "title": "RT @DeFi_Dad: Looks like something many of us should read ",
+            "published_at": "2023-07-11T20:43:44Z",
+            "slug": "RT-DeFi_Dad-Looks-like-something-many-of-us-should-read",
+            "currencies": [
+                {
+                    "code": "DPI",
+                    "title": "DeFi Pulse Index",
+                    "slug": "defipulse-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/defipulse-index\/"
+                },
+                {
+                    "code": "INDEX",
+                    "title": "Index Cooperative",
+                    "slug": "index-cooperative",
+                    "url": "https:\/\/cryptopanic.com\/news\/index-cooperative\/"
+                },
+                {
+                    "code": "ETH2X-FLI",
+                    "title": "Index Coop - ETH 2x Flexible Leverage Index",
+                    "slug": "eth-2x-flexible-leverage-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/eth-2x-flexible-leverage-index\/"
+                },
+                {
+                    "code": "MVI",
+                    "title": "Metaverse Index",
+                    "slug": "metaverse-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/metaverse-index\/"
+                },
+                {
+                    "code": "BTC2X-FLI",
+                    "title": "BTC 2x Flexible Leverage Index",
+                    "slug": "btc-2x-flexible-leverage-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/btc-2x-flexible-leverage-index\/"
+                },
+                {
+                    "code": "BED",
+                    "title": "Bankless BED Index",
+                    "slug": "bankless-bed-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/bankless-bed-index\/"
+                },
+                {
+                    "code": "DATA",
+                    "title": "Data Economy Index",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "ETH2X-FLI-P",
+                    "title": "Index Coop - ETH 2x Flexible Leverage Index (Polygon)",
+                    "slug": "index-coop-eth-2x-flexible-leverage-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/index-coop-eth-2x-flexible-leverage-index\/"
+                },
+                {
+                    "code": "GMI",
+                    "title": "Bankless DeFi Innovation Index",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "MATIC2X-FLI-P",
+                    "title": "Index Coop - MATIC 2x Flexible Leverage Index",
+                    "slug": "index-coop-matic-2x-flexible-leverage-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/index-coop-matic-2x-flexible-leverage-index\/"
+                },
+                {
+                    "code": "IMATIC-FLI-P",
+                    "title": "Index Coop - Inverse MATIC Flexible Leverage Index",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "IETH-FLI-P",
+                    "title": "Index Coop - Inverse ETH Flexible Leverage Index",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "IBTC-FLI-P",
+                    "title": "Inverse BTC Flexible Leverage Index",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "BTC2X-FLI-P",
+                    "title": "BTC 2x Flexible Leverage Index (Polygon)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "ICETH",
+                    "title": "Interest Compounding ETH Index",
+                    "slug": "interest-compounding-eth-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/interest-compounding-eth-index\/"
+                }
+            ],
+            "id": 18764970,
+            "url": "https:\/\/cryptopanic.com\/news\/18764970\/RT-DeFi_Dad-Looks-like-something-many-of-us-should-read",
+            "created_at": "2023-07-11T20:43:44Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@indexcoop",
+            "source": {
+                "title": "Index Cooperative Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@indexcoop"
+            },
+            "title": "RT @indexcoop: The onchain structured product space is a \ud835\udc8f\ud835\udc86\ud835\udc98 \ud835\udc6b\ud835\udc86\ud835\udc6d\ud835\udc8a \ud835\udc94\ud835\udc86\ud835\udc84\ud835\udc95\ud835\udc90\ud835\udc93 that includes:\n\n- Onchain yield products\n- Indices\n- Derivative pr\u2026",
+            "published_at": "2023-07-11T17:50:51Z",
+            "slug": "RT-indexcoop-The-onchain-structured-product-space-is-a-new-DeFi-sector-that-includes-Onchain-yield-products-Indices-Derivative-pr",
+            "currencies": [
+                {
+                    "code": "DPI",
+                    "title": "DeFi Pulse Index",
+                    "slug": "defipulse-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/defipulse-index\/"
+                },
+                {
+                    "code": "INDEX",
+                    "title": "Index Cooperative",
+                    "slug": "index-cooperative",
+                    "url": "https:\/\/cryptopanic.com\/news\/index-cooperative\/"
+                },
+                {
+                    "code": "ETH2X-FLI",
+                    "title": "Index Coop - ETH 2x Flexible Leverage Index",
+                    "slug": "eth-2x-flexible-leverage-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/eth-2x-flexible-leverage-index\/"
+                },
+                {
+                    "code": "MVI",
+                    "title": "Metaverse Index",
+                    "slug": "metaverse-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/metaverse-index\/"
+                },
+                {
+                    "code": "BTC2X-FLI",
+                    "title": "BTC 2x Flexible Leverage Index",
+                    "slug": "btc-2x-flexible-leverage-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/btc-2x-flexible-leverage-index\/"
+                },
+                {
+                    "code": "BED",
+                    "title": "Bankless BED Index",
+                    "slug": "bankless-bed-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/bankless-bed-index\/"
+                },
+                {
+                    "code": "DATA",
+                    "title": "Data Economy Index",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "ETH2X-FLI-P",
+                    "title": "Index Coop - ETH 2x Flexible Leverage Index (Polygon)",
+                    "slug": "index-coop-eth-2x-flexible-leverage-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/index-coop-eth-2x-flexible-leverage-index\/"
+                },
+                {
+                    "code": "GMI",
+                    "title": "Bankless DeFi Innovation Index",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "MATIC2X-FLI-P",
+                    "title": "Index Coop - MATIC 2x Flexible Leverage Index",
+                    "slug": "index-coop-matic-2x-flexible-leverage-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/index-coop-matic-2x-flexible-leverage-index\/"
+                },
+                {
+                    "code": "IMATIC-FLI-P",
+                    "title": "Index Coop - Inverse MATIC Flexible Leverage Index",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "IETH-FLI-P",
+                    "title": "Index Coop - Inverse ETH Flexible Leverage Index",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "IBTC-FLI-P",
+                    "title": "Inverse BTC Flexible Leverage Index",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "BTC2X-FLI-P",
+                    "title": "BTC 2x Flexible Leverage Index (Polygon)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "ICETH",
+                    "title": "Interest Compounding ETH Index",
+                    "slug": "interest-compounding-eth-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/interest-compounding-eth-index\/"
+                }
+            ],
+            "id": 18764971,
+            "url": "https:\/\/cryptopanic.com\/news\/18764971\/RT-indexcoop-The-onchain-structured-product-space-is-a-new-DeFi-sector-that-includes-Onchain-yield-products-Indices-Derivative-pr",
+            "created_at": "2023-07-11T17:50:51Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@streamr",
+            "source": {
+                "title": "Streamr DATAcoin Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@streamr"
+            },
+            "title": "How does tech from #Streamr, @ArweaveEco, and @KYVENetwork work together \ud83e\uddbe to make Log Store possible? @usher_web3'\u2026",
+            "published_at": "2023-07-11T16:20:34Z",
+            "slug": "How-does-tech-from-Streamr-ArweaveEco-and-KYVENetwork-work-together-to-make-Log-Store-possible-usher_web3",
+            "currencies": [
+                {
+                    "code": "DATA",
+                    "title": "Streamr",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "XDATA",
+                    "title": "Streamr XDATA",
+                    "slug": "streamr-xdata",
+                    "url": "https:\/\/cryptopanic.com\/news\/streamr-xdata\/"
+                },
+                {
+                    "code": "DATA",
+                    "title": "Streamr",
+                    "slug": "streamr",
+                    "url": "https:\/\/cryptopanic.com\/news\/streamr\/"
+                }
+            ],
+            "id": 18767351,
+            "url": "https:\/\/cryptopanic.com\/news\/18767351\/How-does-tech-from-Streamr-ArweaveEco-and-KYVENetwork-work-together-to-make-Log-Store-possible-usher_web3",
+            "created_at": "2023-07-11T16:20:34Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@indexcoop",
+            "source": {
+                "title": "Index Cooperative Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@indexcoop"
+            },
+            "title": "\ud835\udc13\ud835\udc21\ud835\udc1e \ud835\udc12\ud835\udc2d\ud835\udc1a\ud835\udc2d\ud835\udc1e \ud835\udc0e\ud835\udc1f \ud835\udc13\ud835\udc21\ud835\udc1e \ud835\udc0e\ud835\udc27\ud835\udc1c\ud835\udc21\ud835\udc1a\ud835\udc22\ud835\udc27 \ud835\udc12\ud835\udc2d\ud835\udc2b\ud835\udc2e\ud835\udc1c\ud835\udc2d\ud835\udc2e\ud835\udc2b\ud835\udc1e\ud835\udc1d \ud835\udc0f\ud835\udc2b\ud835\udc28\ud835\udc1d\ud835\udc2e\ud835\udc1c\ud835\udc2d \ud835\udc0c\ud835\udc1a\ud835\udc2b\ud835\udc24\ud835\udc1e\ud835\udc2d is here ",
+            "published_at": "2023-07-11T15:50:25Z",
+            "slug": "The-State-Of-The-Onchain-Structured-Product-Market-is-here",
+            "currencies": [
+                {
+                    "code": "DPI",
+                    "title": "DeFi Pulse Index",
+                    "slug": "defipulse-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/defipulse-index\/"
+                },
+                {
+                    "code": "INDEX",
+                    "title": "Index Cooperative",
+                    "slug": "index-cooperative",
+                    "url": "https:\/\/cryptopanic.com\/news\/index-cooperative\/"
+                },
+                {
+                    "code": "ETH2X-FLI",
+                    "title": "Index Coop - ETH 2x Flexible Leverage Index",
+                    "slug": "eth-2x-flexible-leverage-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/eth-2x-flexible-leverage-index\/"
+                },
+                {
+                    "code": "MVI",
+                    "title": "Metaverse Index",
+                    "slug": "metaverse-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/metaverse-index\/"
+                },
+                {
+                    "code": "BTC2X-FLI",
+                    "title": "BTC 2x Flexible Leverage Index",
+                    "slug": "btc-2x-flexible-leverage-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/btc-2x-flexible-leverage-index\/"
+                },
+                {
+                    "code": "BED",
+                    "title": "Bankless BED Index",
+                    "slug": "bankless-bed-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/bankless-bed-index\/"
+                },
+                {
+                    "code": "DATA",
+                    "title": "Data Economy Index",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "ETH2X-FLI-P",
+                    "title": "Index Coop - ETH 2x Flexible Leverage Index (Polygon)",
+                    "slug": "index-coop-eth-2x-flexible-leverage-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/index-coop-eth-2x-flexible-leverage-index\/"
+                },
+                {
+                    "code": "GMI",
+                    "title": "Bankless DeFi Innovation Index",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "MATIC2X-FLI-P",
+                    "title": "Index Coop - MATIC 2x Flexible Leverage Index",
+                    "slug": "index-coop-matic-2x-flexible-leverage-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/index-coop-matic-2x-flexible-leverage-index\/"
+                },
+                {
+                    "code": "IMATIC-FLI-P",
+                    "title": "Index Coop - Inverse MATIC Flexible Leverage Index",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "IETH-FLI-P",
+                    "title": "Index Coop - Inverse ETH Flexible Leverage Index",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "IBTC-FLI-P",
+                    "title": "Inverse BTC Flexible Leverage Index",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "BTC2X-FLI-P",
+                    "title": "BTC 2x Flexible Leverage Index (Polygon)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "ICETH",
+                    "title": "Interest Compounding ETH Index",
+                    "slug": "interest-compounding-eth-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/interest-compounding-eth-index\/"
+                }
+            ],
+            "id": 18764972,
+            "url": "https:\/\/cryptopanic.com\/news\/18764972\/The-State-Of-The-Onchain-Structured-Product-Market-is-here",
+            "created_at": "2023-07-11T15:50:25Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@indexcoop",
+            "source": {
+                "title": "Index Cooperative Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@indexcoop"
+            },
+            "title": "RT @CoinDesk: SCOOP: @indexcoop told CoinDesk it is working to improve the protocol and related infrastructure in an effort to overcome the\u2026",
+            "published_at": "2023-07-11T13:57:32Z",
+            "slug": "RT-CoinDesk-SCOOP-indexcoop-told-CoinDesk-it-is-working-to-improve-the-protocol-and-related-infrastructure-in-an-effort-to-overcome-the",
+            "currencies": [
+                {
+                    "code": "DPI",
+                    "title": "DeFi Pulse Index",
+                    "slug": "defipulse-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/defipulse-index\/"
+                },
+                {
+                    "code": "INDEX",
+                    "title": "Index Cooperative",
+                    "slug": "index-cooperative",
+                    "url": "https:\/\/cryptopanic.com\/news\/index-cooperative\/"
+                },
+                {
+                    "code": "ETH2X-FLI",
+                    "title": "Index Coop - ETH 2x Flexible Leverage Index",
+                    "slug": "eth-2x-flexible-leverage-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/eth-2x-flexible-leverage-index\/"
+                },
+                {
+                    "code": "MVI",
+                    "title": "Metaverse Index",
+                    "slug": "metaverse-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/metaverse-index\/"
+                },
+                {
+                    "code": "BTC2X-FLI",
+                    "title": "BTC 2x Flexible Leverage Index",
+                    "slug": "btc-2x-flexible-leverage-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/btc-2x-flexible-leverage-index\/"
+                },
+                {
+                    "code": "BED",
+                    "title": "Bankless BED Index",
+                    "slug": "bankless-bed-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/bankless-bed-index\/"
+                },
+                {
+                    "code": "DATA",
+                    "title": "Data Economy Index",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "ETH2X-FLI-P",
+                    "title": "Index Coop - ETH 2x Flexible Leverage Index (Polygon)",
+                    "slug": "index-coop-eth-2x-flexible-leverage-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/index-coop-eth-2x-flexible-leverage-index\/"
+                },
+                {
+                    "code": "GMI",
+                    "title": "Bankless DeFi Innovation Index",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "MATIC2X-FLI-P",
+                    "title": "Index Coop - MATIC 2x Flexible Leverage Index",
+                    "slug": "index-coop-matic-2x-flexible-leverage-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/index-coop-matic-2x-flexible-leverage-index\/"
+                },
+                {
+                    "code": "IMATIC-FLI-P",
+                    "title": "Index Coop - Inverse MATIC Flexible Leverage Index",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "IETH-FLI-P",
+                    "title": "Index Coop - Inverse ETH Flexible Leverage Index",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "IBTC-FLI-P",
+                    "title": "Inverse BTC Flexible Leverage Index",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "BTC2X-FLI-P",
+                    "title": "BTC 2x Flexible Leverage Index (Polygon)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "ICETH",
+                    "title": "Interest Compounding ETH Index",
+                    "slug": "interest-compounding-eth-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/interest-compounding-eth-index\/"
+                }
+            ],
+            "id": 18764973,
+            "url": "https:\/\/cryptopanic.com\/news\/18764973\/RT-CoinDesk-SCOOP-indexcoop-told-CoinDesk-it-is-working-to-improve-the-protocol-and-related-infrastructure-in-an-effort-to-overcome-the",
+            "created_at": "2023-07-11T13:57:32Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@indexcoop",
+            "source": {
+                "title": "Index Cooperative Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@indexcoop"
+            },
+            "title": "Do we build onchain products or 'on-chain' products?",
+            "published_at": "2023-07-10T22:02:15Z",
+            "slug": "Do-we-build-onchain-products-or-on-chain-products",
+            "currencies": [
+                {
+                    "code": "DPI",
+                    "title": "DeFi Pulse Index",
+                    "slug": "defipulse-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/defipulse-index\/"
+                },
+                {
+                    "code": "INDEX",
+                    "title": "Index Cooperative",
+                    "slug": "index-cooperative",
+                    "url": "https:\/\/cryptopanic.com\/news\/index-cooperative\/"
+                },
+                {
+                    "code": "ETH2X-FLI",
+                    "title": "Index Coop - ETH 2x Flexible Leverage Index",
+                    "slug": "eth-2x-flexible-leverage-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/eth-2x-flexible-leverage-index\/"
+                },
+                {
+                    "code": "MVI",
+                    "title": "Metaverse Index",
+                    "slug": "metaverse-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/metaverse-index\/"
+                },
+                {
+                    "code": "BTC2X-FLI",
+                    "title": "BTC 2x Flexible Leverage Index",
+                    "slug": "btc-2x-flexible-leverage-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/btc-2x-flexible-leverage-index\/"
+                },
+                {
+                    "code": "BED",
+                    "title": "Bankless BED Index",
+                    "slug": "bankless-bed-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/bankless-bed-index\/"
+                },
+                {
+                    "code": "DATA",
+                    "title": "Data Economy Index",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "ETH2X-FLI-P",
+                    "title": "Index Coop - ETH 2x Flexible Leverage Index (Polygon)",
+                    "slug": "index-coop-eth-2x-flexible-leverage-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/index-coop-eth-2x-flexible-leverage-index\/"
+                },
+                {
+                    "code": "GMI",
+                    "title": "Bankless DeFi Innovation Index",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "MATIC2X-FLI-P",
+                    "title": "Index Coop - MATIC 2x Flexible Leverage Index",
+                    "slug": "index-coop-matic-2x-flexible-leverage-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/index-coop-matic-2x-flexible-leverage-index\/"
+                },
+                {
+                    "code": "IMATIC-FLI-P",
+                    "title": "Index Coop - Inverse MATIC Flexible Leverage Index",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "IETH-FLI-P",
+                    "title": "Index Coop - Inverse ETH Flexible Leverage Index",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "IBTC-FLI-P",
+                    "title": "Inverse BTC Flexible Leverage Index",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "BTC2X-FLI-P",
+                    "title": "BTC 2x Flexible Leverage Index (Polygon)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "ICETH",
+                    "title": "Interest Compounding ETH Index",
+                    "slug": "interest-compounding-eth-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/interest-compounding-eth-index\/"
+                }
+            ],
+            "id": 18756813,
+            "url": "https:\/\/cryptopanic.com\/news\/18756813\/Do-we-build-onchain-products-or-on-chain-products",
+            "created_at": "2023-07-10T22:02:15Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@indexcoop",
+            "source": {
+                "title": "Index Cooperative Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@indexcoop"
+            },
+            "title": "The @gitcoin Staked ETH Index \n\nDiversify your portfolio.\nDecentralize the network.\nFund what matters.\u2026",
+            "published_at": "2023-07-10T16:13:32Z",
+            "slug": "The-gitcoin-Staked-ETH-Index-Diversify-your-portfolio-Decentralize-the-network-Fund-what-matters",
+            "currencies": [
+                {
+                    "code": "DPI",
+                    "title": "DeFi Pulse Index",
+                    "slug": "defipulse-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/defipulse-index\/"
+                },
+                {
+                    "code": "INDEX",
+                    "title": "Index Cooperative",
+                    "slug": "index-cooperative",
+                    "url": "https:\/\/cryptopanic.com\/news\/index-cooperative\/"
+                },
+                {
+                    "code": "ETH2X-FLI",
+                    "title": "Index Coop - ETH 2x Flexible Leverage Index",
+                    "slug": "eth-2x-flexible-leverage-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/eth-2x-flexible-leverage-index\/"
+                },
+                {
+                    "code": "MVI",
+                    "title": "Metaverse Index",
+                    "slug": "metaverse-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/metaverse-index\/"
+                },
+                {
+                    "code": "BTC2X-FLI",
+                    "title": "BTC 2x Flexible Leverage Index",
+                    "slug": "btc-2x-flexible-leverage-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/btc-2x-flexible-leverage-index\/"
+                },
+                {
+                    "code": "BED",
+                    "title": "Bankless BED Index",
+                    "slug": "bankless-bed-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/bankless-bed-index\/"
+                },
+                {
+                    "code": "DATA",
+                    "title": "Data Economy Index",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "ETH2X-FLI-P",
+                    "title": "Index Coop - ETH 2x Flexible Leverage Index (Polygon)",
+                    "slug": "index-coop-eth-2x-flexible-leverage-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/index-coop-eth-2x-flexible-leverage-index\/"
+                },
+                {
+                    "code": "GMI",
+                    "title": "Bankless DeFi Innovation Index",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "MATIC2X-FLI-P",
+                    "title": "Index Coop - MATIC 2x Flexible Leverage Index",
+                    "slug": "index-coop-matic-2x-flexible-leverage-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/index-coop-matic-2x-flexible-leverage-index\/"
+                },
+                {
+                    "code": "IMATIC-FLI-P",
+                    "title": "Index Coop - Inverse MATIC Flexible Leverage Index",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "IETH-FLI-P",
+                    "title": "Index Coop - Inverse ETH Flexible Leverage Index",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "IBTC-FLI-P",
+                    "title": "Inverse BTC Flexible Leverage Index",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "BTC2X-FLI-P",
+                    "title": "BTC 2x Flexible Leverage Index (Polygon)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "ICETH",
+                    "title": "Interest Compounding ETH Index",
+                    "slug": "interest-compounding-eth-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/interest-compounding-eth-index\/"
+                }
+            ],
+            "id": 18756814,
+            "url": "https:\/\/cryptopanic.com\/news\/18756814\/The-gitcoin-Staked-ETH-Index-Diversify-your-portfolio-Decentralize-the-network-Fund-what-matters",
+            "created_at": "2023-07-10T16:13:32Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@streamr",
+            "source": {
+                "title": "Streamr DATAcoin Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@streamr"
+            },
+            "title": " Thought of the day from @usher_web3's @ryan_soury: Merging Web3 networks to uncover new and enhanced capabilities.",
+            "published_at": "2023-07-10T15:22:05Z",
+            "slug": "Thought-of-the-day-from-usher_web3s-ryan_soury-Merging-Web3-networks-to-uncover-new-and-enhanced-capabilities",
+            "currencies": [
+                {
+                    "code": "DATA",
+                    "title": "Streamr",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "XDATA",
+                    "title": "Streamr XDATA",
+                    "slug": "streamr-xdata",
+                    "url": "https:\/\/cryptopanic.com\/news\/streamr-xdata\/"
+                },
+                {
+                    "code": "DATA",
+                    "title": "Streamr",
+                    "slug": "streamr",
+                    "url": "https:\/\/cryptopanic.com\/news\/streamr\/"
+                }
+            ],
+            "id": 18759092,
+            "url": "https:\/\/cryptopanic.com\/news\/18759092\/Thought-of-the-day-from-usher_web3s-ryan_soury-Merging-Web3-networks-to-uncover-new-and-enhanced-capabilities",
+            "created_at": "2023-07-10T15:22:05Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@streamr",
+            "source": {
+                "title": "Streamr DATAcoin Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@streamr"
+            },
+            "title": "RT @streamr:  Developers, the #StreamrOpenDataChallenge is on! Your mission? Add valuable real-time data streams to the #Streamr Hub. \n\nLe\u2026",
+            "published_at": "2023-07-10T14:51:59Z",
+            "slug": "RT-streamr-Developers-the-StreamrOpenDataChallenge-is-on-Your-mission-Add-valuable-real-time-data-streams-to-the-Streamr-Hub-Le",
+            "currencies": [
+                {
+                    "code": "DATA",
+                    "title": "Streamr",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "XDATA",
+                    "title": "Streamr XDATA",
+                    "slug": "streamr-xdata",
+                    "url": "https:\/\/cryptopanic.com\/news\/streamr-xdata\/"
+                },
+                {
+                    "code": "DATA",
+                    "title": "Streamr",
+                    "slug": "streamr",
+                    "url": "https:\/\/cryptopanic.com\/news\/streamr\/"
+                }
+            ],
+            "id": 18759093,
+            "url": "https:\/\/cryptopanic.com\/news\/18759093\/RT-streamr-Developers-the-StreamrOpenDataChallenge-is-on-Your-mission-Add-valuable-real-time-data-streams-to-the-Streamr-Hub-Le",
+            "created_at": "2023-07-10T14:51:59Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@indexcoop",
+            "source": {
+                "title": "Index Cooperative Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@indexcoop"
+            },
+            "title": "Take what the m\u0336a\u0336r\u0336k\u0336e\u0336t\u0336 \ud835\uddfb\ud835\uddf2\ud835\ude01\ud835\ude04\ud835\uddfc\ud835\uddff\ud835\uddf8 is giving you \ud83e\udd32\n\nHere's this week's 7-day APRs for our ETH staking indexes ",
+            "published_at": "2023-07-08T17:45:11Z",
+            "slug": "Take-what-the-market-network-is-giving-you-Heres-this-weeks-7-day-APRs-for-our-ETH-staking-indexes",
+            "currencies": [
+                {
+                    "code": "DPI",
+                    "title": "DeFi Pulse Index",
+                    "slug": "defipulse-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/defipulse-index\/"
+                },
+                {
+                    "code": "INDEX",
+                    "title": "Index Cooperative",
+                    "slug": "index-cooperative",
+                    "url": "https:\/\/cryptopanic.com\/news\/index-cooperative\/"
+                },
+                {
+                    "code": "ETH2X-FLI",
+                    "title": "Index Coop - ETH 2x Flexible Leverage Index",
+                    "slug": "eth-2x-flexible-leverage-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/eth-2x-flexible-leverage-index\/"
+                },
+                {
+                    "code": "MVI",
+                    "title": "Metaverse Index",
+                    "slug": "metaverse-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/metaverse-index\/"
+                },
+                {
+                    "code": "BTC2X-FLI",
+                    "title": "BTC 2x Flexible Leverage Index",
+                    "slug": "btc-2x-flexible-leverage-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/btc-2x-flexible-leverage-index\/"
+                },
+                {
+                    "code": "BED",
+                    "title": "Bankless BED Index",
+                    "slug": "bankless-bed-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/bankless-bed-index\/"
+                },
+                {
+                    "code": "DATA",
+                    "title": "Data Economy Index",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "ETH2X-FLI-P",
+                    "title": "Index Coop - ETH 2x Flexible Leverage Index (Polygon)",
+                    "slug": "index-coop-eth-2x-flexible-leverage-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/index-coop-eth-2x-flexible-leverage-index\/"
+                },
+                {
+                    "code": "GMI",
+                    "title": "Bankless DeFi Innovation Index",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "MATIC2X-FLI-P",
+                    "title": "Index Coop - MATIC 2x Flexible Leverage Index",
+                    "slug": "index-coop-matic-2x-flexible-leverage-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/index-coop-matic-2x-flexible-leverage-index\/"
+                },
+                {
+                    "code": "IMATIC-FLI-P",
+                    "title": "Index Coop - Inverse MATIC Flexible Leverage Index",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "IETH-FLI-P",
+                    "title": "Index Coop - Inverse ETH Flexible Leverage Index",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "IBTC-FLI-P",
+                    "title": "Inverse BTC Flexible Leverage Index",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "BTC2X-FLI-P",
+                    "title": "BTC 2x Flexible Leverage Index (Polygon)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "ICETH",
+                    "title": "Interest Compounding ETH Index",
+                    "slug": "interest-compounding-eth-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/interest-compounding-eth-index\/"
+                }
+            ],
+            "id": 18745847,
+            "url": "https:\/\/cryptopanic.com\/news\/18745847\/Take-what-the-market-network-is-giving-you-Heres-this-weeks-7-day-APRs-for-our-ETH-staking-indexes",
+            "created_at": "2023-07-08T17:45:11Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@indexcoop",
+            "source": {
+                "title": "Index Cooperative Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@indexcoop"
+            },
+            "title": "Meet @Fetch_AI\n\nNewest member of the Metaverse Index ",
+            "published_at": "2023-07-07T16:36:00Z",
+            "slug": "Meet-Fetch_AI-Newest-member-of-the-Metaverse-Index",
+            "currencies": [
+                {
+                    "code": "DPI",
+                    "title": "DeFi Pulse Index",
+                    "slug": "defipulse-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/defipulse-index\/"
+                },
+                {
+                    "code": "INDEX",
+                    "title": "Index Cooperative",
+                    "slug": "index-cooperative",
+                    "url": "https:\/\/cryptopanic.com\/news\/index-cooperative\/"
+                },
+                {
+                    "code": "ETH2X-FLI",
+                    "title": "Index Coop - ETH 2x Flexible Leverage Index",
+                    "slug": "eth-2x-flexible-leverage-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/eth-2x-flexible-leverage-index\/"
+                },
+                {
+                    "code": "MVI",
+                    "title": "Metaverse Index",
+                    "slug": "metaverse-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/metaverse-index\/"
+                },
+                {
+                    "code": "BTC2X-FLI",
+                    "title": "BTC 2x Flexible Leverage Index",
+                    "slug": "btc-2x-flexible-leverage-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/btc-2x-flexible-leverage-index\/"
+                },
+                {
+                    "code": "BED",
+                    "title": "Bankless BED Index",
+                    "slug": "bankless-bed-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/bankless-bed-index\/"
+                },
+                {
+                    "code": "DATA",
+                    "title": "Data Economy Index",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "ETH2X-FLI-P",
+                    "title": "Index Coop - ETH 2x Flexible Leverage Index (Polygon)",
+                    "slug": "index-coop-eth-2x-flexible-leverage-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/index-coop-eth-2x-flexible-leverage-index\/"
+                },
+                {
+                    "code": "GMI",
+                    "title": "Bankless DeFi Innovation Index",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "MATIC2X-FLI-P",
+                    "title": "Index Coop - MATIC 2x Flexible Leverage Index",
+                    "slug": "index-coop-matic-2x-flexible-leverage-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/index-coop-matic-2x-flexible-leverage-index\/"
+                },
+                {
+                    "code": "IMATIC-FLI-P",
+                    "title": "Index Coop - Inverse MATIC Flexible Leverage Index",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "IETH-FLI-P",
+                    "title": "Index Coop - Inverse ETH Flexible Leverage Index",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "IBTC-FLI-P",
+                    "title": "Inverse BTC Flexible Leverage Index",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "BTC2X-FLI-P",
+                    "title": "BTC 2x Flexible Leverage Index (Polygon)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "ICETH",
+                    "title": "Interest Compounding ETH Index",
+                    "slug": "interest-compounding-eth-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/interest-compounding-eth-index\/"
+                }
+            ],
+            "id": 18740691,
+            "url": "https:\/\/cryptopanic.com\/news\/18740691\/Meet-Fetch_AI-Newest-member-of-the-Metaverse-Index",
+            "created_at": "2023-07-07T16:36:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@streamr",
+            "source": {
+                "title": "Streamr DATAcoin Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@streamr"
+            },
+            "title": " Developers, the #StreamrOpenDataChallenge is on! Your mission? Add valuable real-time data streams to the\u2026",
+            "published_at": "2023-07-07T11:39:57Z",
+            "slug": "Developers-the-StreamrOpenDataChallenge-is-on-Your-mission-Add-valuable-real-time-data-streams-to-the",
+            "currencies": [
+                {
+                    "code": "DATA",
+                    "title": "Streamr",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "XDATA",
+                    "title": "Streamr XDATA",
+                    "slug": "streamr-xdata",
+                    "url": "https:\/\/cryptopanic.com\/news\/streamr-xdata\/"
+                },
+                {
+                    "code": "DATA",
+                    "title": "Streamr",
+                    "slug": "streamr",
+                    "url": "https:\/\/cryptopanic.com\/news\/streamr\/"
+                }
+            ],
+            "id": 18742645,
+            "url": "https:\/\/cryptopanic.com\/news\/18742645\/Developers-the-StreamrOpenDataChallenge-is-on-Your-mission-Add-valuable-real-time-data-streams-to-the",
+            "created_at": "2023-07-07T11:39:57Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@streamr",
+            "source": {
+                "title": "Streamr DATAcoin Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@streamr"
+            },
+            "title": "Got a burning question  about #Streamr? Visit the FAQ section  on the website to find your answers. \n\nFeel free t\u2026",
+            "published_at": "2023-07-06T16:13:29Z",
+            "slug": "Got-a-burning-question-about-Streamr-Visit-the-FAQ-section-on-the-website-to-find-your-answers-Feel-free-t",
+            "currencies": [
+                {
+                    "code": "DATA",
+                    "title": "Streamr",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "XDATA",
+                    "title": "Streamr XDATA",
+                    "slug": "streamr-xdata",
+                    "url": "https:\/\/cryptopanic.com\/news\/streamr-xdata\/"
+                },
+                {
+                    "code": "DATA",
+                    "title": "Streamr",
+                    "slug": "streamr",
+                    "url": "https:\/\/cryptopanic.com\/news\/streamr\/"
+                }
+            ],
+            "id": 18735516,
+            "url": "https:\/\/cryptopanic.com\/news\/18735516\/Got-a-burning-question-about-Streamr-Visit-the-FAQ-section-on-the-website-to-find-your-answers-Feel-free-t",
+            "created_at": "2023-07-06T16:13:29Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@indexcoop",
+            "source": {
+                "title": "Index Cooperative Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@indexcoop"
+            },
+            "title": "RT @indexcoop: RWAs onchain\ufe0f\n\nAre you as excited about this sector as we are?\n\nHelp us build the first onchain index to capture yield from\u2026",
+            "published_at": "2023-07-06T15:27:51Z",
+            "slug": "RT-indexcoop-RWAs-onchain-Are-you-as-excited-about-this-sector-as-we-are-Help-us-build-the-first-onchain-index-to-capture-yield-from",
+            "currencies": [
+                {
+                    "code": "DPI",
+                    "title": "DeFi Pulse Index",
+                    "slug": "defipulse-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/defipulse-index\/"
+                },
+                {
+                    "code": "INDEX",
+                    "title": "Index Cooperative",
+                    "slug": "index-cooperative",
+                    "url": "https:\/\/cryptopanic.com\/news\/index-cooperative\/"
+                },
+                {
+                    "code": "ETH2X-FLI",
+                    "title": "Index Coop - ETH 2x Flexible Leverage Index",
+                    "slug": "eth-2x-flexible-leverage-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/eth-2x-flexible-leverage-index\/"
+                },
+                {
+                    "code": "MVI",
+                    "title": "Metaverse Index",
+                    "slug": "metaverse-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/metaverse-index\/"
+                },
+                {
+                    "code": "BTC2X-FLI",
+                    "title": "BTC 2x Flexible Leverage Index",
+                    "slug": "btc-2x-flexible-leverage-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/btc-2x-flexible-leverage-index\/"
+                },
+                {
+                    "code": "BED",
+                    "title": "Bankless BED Index",
+                    "slug": "bankless-bed-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/bankless-bed-index\/"
+                },
+                {
+                    "code": "DATA",
+                    "title": "Data Economy Index",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "ETH2X-FLI-P",
+                    "title": "Index Coop - ETH 2x Flexible Leverage Index (Polygon)",
+                    "slug": "index-coop-eth-2x-flexible-leverage-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/index-coop-eth-2x-flexible-leverage-index\/"
+                },
+                {
+                    "code": "GMI",
+                    "title": "Bankless DeFi Innovation Index",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "MATIC2X-FLI-P",
+                    "title": "Index Coop - MATIC 2x Flexible Leverage Index",
+                    "slug": "index-coop-matic-2x-flexible-leverage-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/index-coop-matic-2x-flexible-leverage-index\/"
+                },
+                {
+                    "code": "IMATIC-FLI-P",
+                    "title": "Index Coop - Inverse MATIC Flexible Leverage Index",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "IETH-FLI-P",
+                    "title": "Index Coop - Inverse ETH Flexible Leverage Index",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "IBTC-FLI-P",
+                    "title": "Inverse BTC Flexible Leverage Index",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "BTC2X-FLI-P",
+                    "title": "BTC 2x Flexible Leverage Index (Polygon)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "ICETH",
+                    "title": "Interest Compounding ETH Index",
+                    "slug": "interest-compounding-eth-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/interest-compounding-eth-index\/"
+                }
+            ],
+            "id": 18733098,
+            "url": "https:\/\/cryptopanic.com\/news\/18733098\/RT-indexcoop-RWAs-onchain-Are-you-as-excited-about-this-sector-as-we-are-Help-us-build-the-first-onchain-index-to-capture-yield-from",
+            "created_at": "2023-07-06T15:27:51Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@streamr",
+            "source": {
+                "title": "Streamr DATAcoin Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@streamr"
+            },
+            "title": "Catch #Streamr's @mattofontana on @TIPIN_PROJECT's Twitter Spaces and delve into the fascinating intersection of AI\u2026",
+            "published_at": "2023-07-06T13:47:41Z",
+            "slug": "Catch-Streamrs-mattofontana-on-TIPIN_PROJECTs-Twitter-Spaces-and-delve-into-the-fascinating-intersection-of-AI",
+            "currencies": [
+                {
+                    "code": "DATA",
+                    "title": "Streamr",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "XDATA",
+                    "title": "Streamr XDATA",
+                    "slug": "streamr-xdata",
+                    "url": "https:\/\/cryptopanic.com\/news\/streamr-xdata\/"
+                },
+                {
+                    "code": "DATA",
+                    "title": "Streamr",
+                    "slug": "streamr",
+                    "url": "https:\/\/cryptopanic.com\/news\/streamr\/"
+                }
+            ],
+            "id": 18735517,
+            "url": "https:\/\/cryptopanic.com\/news\/18735517\/Catch-Streamrs-mattofontana-on-TIPIN_PROJECTs-Twitter-Spaces-and-delve-into-the-fascinating-intersection-of-AI",
+            "created_at": "2023-07-06T13:47:41Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@indexcoop",
+            "source": {
+                "title": "Index Cooperative Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@indexcoop"
+            },
+            "title": "New audit contest coming soon \n\nWe've been shipping ",
+            "published_at": "2023-07-05T21:53:07Z",
+            "slug": "New-audit-contest-coming-soon-Weve-been-shipping",
+            "currencies": [
+                {
+                    "code": "DPI",
+                    "title": "DeFi Pulse Index",
+                    "slug": "defipulse-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/defipulse-index\/"
+                },
+                {
+                    "code": "INDEX",
+                    "title": "Index Cooperative",
+                    "slug": "index-cooperative",
+                    "url": "https:\/\/cryptopanic.com\/news\/index-cooperative\/"
+                },
+                {
+                    "code": "ETH2X-FLI",
+                    "title": "Index Coop - ETH 2x Flexible Leverage Index",
+                    "slug": "eth-2x-flexible-leverage-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/eth-2x-flexible-leverage-index\/"
+                },
+                {
+                    "code": "MVI",
+                    "title": "Metaverse Index",
+                    "slug": "metaverse-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/metaverse-index\/"
+                },
+                {
+                    "code": "BTC2X-FLI",
+                    "title": "BTC 2x Flexible Leverage Index",
+                    "slug": "btc-2x-flexible-leverage-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/btc-2x-flexible-leverage-index\/"
+                },
+                {
+                    "code": "BED",
+                    "title": "Bankless BED Index",
+                    "slug": "bankless-bed-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/bankless-bed-index\/"
+                },
+                {
+                    "code": "DATA",
+                    "title": "Data Economy Index",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "ETH2X-FLI-P",
+                    "title": "Index Coop - ETH 2x Flexible Leverage Index (Polygon)",
+                    "slug": "index-coop-eth-2x-flexible-leverage-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/index-coop-eth-2x-flexible-leverage-index\/"
+                },
+                {
+                    "code": "GMI",
+                    "title": "Bankless DeFi Innovation Index",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "MATIC2X-FLI-P",
+                    "title": "Index Coop - MATIC 2x Flexible Leverage Index",
+                    "slug": "index-coop-matic-2x-flexible-leverage-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/index-coop-matic-2x-flexible-leverage-index\/"
+                },
+                {
+                    "code": "IMATIC-FLI-P",
+                    "title": "Index Coop - Inverse MATIC Flexible Leverage Index",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "IETH-FLI-P",
+                    "title": "Index Coop - Inverse ETH Flexible Leverage Index",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "IBTC-FLI-P",
+                    "title": "Inverse BTC Flexible Leverage Index",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "BTC2X-FLI-P",
+                    "title": "BTC 2x Flexible Leverage Index (Polygon)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "ICETH",
+                    "title": "Interest Compounding ETH Index",
+                    "slug": "interest-compounding-eth-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/interest-compounding-eth-index\/"
+                }
+            ],
+            "id": 18724643,
+            "url": "https:\/\/cryptopanic.com\/news\/18724643\/New-audit-contest-coming-soon-Weve-been-shipping",
+            "created_at": "2023-07-05T21:53:07Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@indexcoop",
+            "source": {
+                "title": "Index Cooperative Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@indexcoop"
+            },
+            "title": "RT @indexcoop: RWAs onchain\ufe0f\n\nAre you as excited about this sector as we are?\n\nHelp us build the first onchain index to capture yield from\u2026",
+            "published_at": "2023-07-05T19:31:36Z",
+            "slug": "RT-indexcoop-RWAs-onchain-Are-you-as-excited-about-this-sector-as-we-are-Help-us-build-the-first-onchain-index-to-capture-yield-from",
+            "currencies": [
+                {
+                    "code": "DPI",
+                    "title": "DeFi Pulse Index",
+                    "slug": "defipulse-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/defipulse-index\/"
+                },
+                {
+                    "code": "INDEX",
+                    "title": "Index Cooperative",
+                    "slug": "index-cooperative",
+                    "url": "https:\/\/cryptopanic.com\/news\/index-cooperative\/"
+                },
+                {
+                    "code": "ETH2X-FLI",
+                    "title": "Index Coop - ETH 2x Flexible Leverage Index",
+                    "slug": "eth-2x-flexible-leverage-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/eth-2x-flexible-leverage-index\/"
+                },
+                {
+                    "code": "MVI",
+                    "title": "Metaverse Index",
+                    "slug": "metaverse-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/metaverse-index\/"
+                },
+                {
+                    "code": "BTC2X-FLI",
+                    "title": "BTC 2x Flexible Leverage Index",
+                    "slug": "btc-2x-flexible-leverage-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/btc-2x-flexible-leverage-index\/"
+                },
+                {
+                    "code": "BED",
+                    "title": "Bankless BED Index",
+                    "slug": "bankless-bed-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/bankless-bed-index\/"
+                },
+                {
+                    "code": "DATA",
+                    "title": "Data Economy Index",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "ETH2X-FLI-P",
+                    "title": "Index Coop - ETH 2x Flexible Leverage Index (Polygon)",
+                    "slug": "index-coop-eth-2x-flexible-leverage-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/index-coop-eth-2x-flexible-leverage-index\/"
+                },
+                {
+                    "code": "GMI",
+                    "title": "Bankless DeFi Innovation Index",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "MATIC2X-FLI-P",
+                    "title": "Index Coop - MATIC 2x Flexible Leverage Index",
+                    "slug": "index-coop-matic-2x-flexible-leverage-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/index-coop-matic-2x-flexible-leverage-index\/"
+                },
+                {
+                    "code": "IMATIC-FLI-P",
+                    "title": "Index Coop - Inverse MATIC Flexible Leverage Index",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "IETH-FLI-P",
+                    "title": "Index Coop - Inverse ETH Flexible Leverage Index",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "IBTC-FLI-P",
+                    "title": "Inverse BTC Flexible Leverage Index",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "BTC2X-FLI-P",
+                    "title": "BTC 2x Flexible Leverage Index (Polygon)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "ICETH",
+                    "title": "Interest Compounding ETH Index",
+                    "slug": "interest-compounding-eth-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/interest-compounding-eth-index\/"
+                }
+            ],
+            "id": 18724644,
+            "url": "https:\/\/cryptopanic.com\/news\/18724644\/RT-indexcoop-RWAs-onchain-Are-you-as-excited-about-this-sector-as-we-are-Help-us-build-the-first-onchain-index-to-capture-yield-from",
+            "created_at": "2023-07-05T19:31:36Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@indexcoop",
+            "source": {
+                "title": "Index Cooperative Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@indexcoop"
+            },
+            "title": "RT @indexcoop: Is your active trading \ud835\udc20\ud835\udc2b\ud835\udc28\ud835\udc30\ud835\udc22\ud835\udc27\ud835\udc20 your ETH stack or \ud835\ude34\ud835\ude29\ud835\ude33\ud835\ude2a\ud835\ude2f\ud835\ude2c\ud835\ude2a\ud835\ude2f\ud835\ude28 it?\n\nMaybe you should take what the m\u0336a\u0336r\u0336k\u0336e\u0336t\u0336 \ud835\uddfb\ud835\uddf2\ud835\ude01\ud835\ude04\ud835\uddfc\ud835\uddff\ud835\uddf8 is givin\u2026",
+            "published_at": "2023-07-05T17:44:07Z",
+            "slug": "RT-indexcoop-Is-your-active-trading-growing-your-ETH-stack-or-shrinking-it-Maybe-you-should-take-what-the-market-network-is-givin",
+            "currencies": [
+                {
+                    "code": "DPI",
+                    "title": "DeFi Pulse Index",
+                    "slug": "defipulse-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/defipulse-index\/"
+                },
+                {
+                    "code": "INDEX",
+                    "title": "Index Cooperative",
+                    "slug": "index-cooperative",
+                    "url": "https:\/\/cryptopanic.com\/news\/index-cooperative\/"
+                },
+                {
+                    "code": "ETH2X-FLI",
+                    "title": "Index Coop - ETH 2x Flexible Leverage Index",
+                    "slug": "eth-2x-flexible-leverage-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/eth-2x-flexible-leverage-index\/"
+                },
+                {
+                    "code": "MVI",
+                    "title": "Metaverse Index",
+                    "slug": "metaverse-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/metaverse-index\/"
+                },
+                {
+                    "code": "BTC2X-FLI",
+                    "title": "BTC 2x Flexible Leverage Index",
+                    "slug": "btc-2x-flexible-leverage-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/btc-2x-flexible-leverage-index\/"
+                },
+                {
+                    "code": "BED",
+                    "title": "Bankless BED Index",
+                    "slug": "bankless-bed-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/bankless-bed-index\/"
+                },
+                {
+                    "code": "DATA",
+                    "title": "Data Economy Index",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "ETH2X-FLI-P",
+                    "title": "Index Coop - ETH 2x Flexible Leverage Index (Polygon)",
+                    "slug": "index-coop-eth-2x-flexible-leverage-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/index-coop-eth-2x-flexible-leverage-index\/"
+                },
+                {
+                    "code": "GMI",
+                    "title": "Bankless DeFi Innovation Index",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "MATIC2X-FLI-P",
+                    "title": "Index Coop - MATIC 2x Flexible Leverage Index",
+                    "slug": "index-coop-matic-2x-flexible-leverage-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/index-coop-matic-2x-flexible-leverage-index\/"
+                },
+                {
+                    "code": "IMATIC-FLI-P",
+                    "title": "Index Coop - Inverse MATIC Flexible Leverage Index",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "IETH-FLI-P",
+                    "title": "Index Coop - Inverse ETH Flexible Leverage Index",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "IBTC-FLI-P",
+                    "title": "Inverse BTC Flexible Leverage Index",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "BTC2X-FLI-P",
+                    "title": "BTC 2x Flexible Leverage Index (Polygon)",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "ICETH",
+                    "title": "Interest Compounding ETH Index",
+                    "slug": "interest-compounding-eth-index",
+                    "url": "https:\/\/cryptopanic.com\/news\/interest-compounding-eth-index\/"
+                }
+            ],
+            "id": 18724645,
+            "url": "https:\/\/cryptopanic.com\/news\/18724645\/RT-indexcoop-Is-your-active-trading-growing-your-ETH-stack-or-shrinking-it-Maybe-you-should-take-what-the-market-network-is-givin",
+            "created_at": "2023-07-05T17:44:07Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

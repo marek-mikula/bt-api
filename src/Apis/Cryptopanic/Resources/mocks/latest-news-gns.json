@@ -1,0 +1,707 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=GNS&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "@GainsNetwork_io",
+            "source": {
+                "title": "Gains Network Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gainsnetwork_io"
+            },
+            "title": "RT @GainsNetwork_io: The $GNS token fuels the gTrade platform and is crucial in enhancing liquidity efficiency, providing staking options,\u2026",
+            "published_at": "2023-07-12T02:50:02Z",
+            "slug": "RT-GainsNetwork_io-The-GNS-token-fuels-the-gTrade-platform-and-is-crucial-in-enhancing-liquidity-efficiency-providing-staking-options",
+            "currencies": [
+                {
+                    "code": "GNS",
+                    "title": "Gains Network",
+                    "slug": "gains-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/gains-network\/"
+                }
+            ],
+            "id": 18764481,
+            "url": "https:\/\/cryptopanic.com\/news\/18764481\/RT-GainsNetwork_io-The-GNS-token-fuels-the-gTrade-platform-and-is-crucial-in-enhancing-liquidity-efficiency-providing-staking-options",
+            "created_at": "2023-07-12T02:50:02Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GainsNetwork_io",
+            "source": {
+                "title": "Gains Network Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gainsnetwork_io"
+            },
+            "title": "The $GNS token fuels the gTrade platform and is crucial in enhancing liquidity efficiency, providing staking option\u2026",
+            "published_at": "2023-07-11T14:45:01Z",
+            "slug": "The-GNS-token-fuels-the-gTrade-platform-and-is-crucial-in-enhancing-liquidity-efficiency-providing-staking-option",
+            "currencies": [
+                {
+                    "code": "GNS",
+                    "title": "Gains Network",
+                    "slug": "gains-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/gains-network\/"
+                }
+            ],
+            "id": 18764482,
+            "url": "https:\/\/cryptopanic.com\/news\/18764482\/The-GNS-token-fuels-the-gTrade-platform-and-is-crucial-in-enhancing-liquidity-efficiency-providing-staking-option",
+            "created_at": "2023-07-11T14:45:01Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GainsNetwork_io",
+            "source": {
+                "title": "Gains Network Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gainsnetwork_io"
+            },
+            "title": "RT @GainsNetwork_io: Don't miss it! ",
+            "published_at": "2023-07-11T08:10:04Z",
+            "slug": "RT-GainsNetwork_io-Dont-miss-it",
+            "currencies": [
+                {
+                    "code": "GNS",
+                    "title": "Gains Network",
+                    "slug": "gains-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/gains-network\/"
+                }
+            ],
+            "id": 18764483,
+            "url": "https:\/\/cryptopanic.com\/news\/18764483\/RT-GainsNetwork_io-Dont-miss-it",
+            "created_at": "2023-07-11T08:10:04Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GainsNetwork_io",
+            "source": {
+                "title": "Gains Network Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gainsnetwork_io"
+            },
+            "title": "RT @GainsNetwork_io: What's the steepest learning curve when starting trading? ",
+            "published_at": "2023-07-11T02:50:02Z",
+            "slug": "RT-GainsNetwork_io-Whats-the-steepest-learning-curve-when-starting-trading",
+            "currencies": [
+                {
+                    "code": "GNS",
+                    "title": "Gains Network",
+                    "slug": "gains-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/gains-network\/"
+                }
+            ],
+            "id": 18756342,
+            "url": "https:\/\/cryptopanic.com\/news\/18756342\/RT-GainsNetwork_io-Whats-the-steepest-learning-curve-when-starting-trading",
+            "created_at": "2023-07-11T02:50:02Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GainsNetwork_io",
+            "source": {
+                "title": "Gains Network Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gainsnetwork_io"
+            },
+            "title": "Don't miss it! ",
+            "published_at": "2023-07-10T20:06:29Z",
+            "slug": "Dont-miss-it",
+            "currencies": [
+                {
+                    "code": "GNS",
+                    "title": "Gains Network",
+                    "slug": "gains-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/gains-network\/"
+                }
+            ],
+            "id": 18756343,
+            "url": "https:\/\/cryptopanic.com\/news\/18756343\/Dont-miss-it",
+            "created_at": "2023-07-10T20:06:29Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GainsNetwork_io",
+            "source": {
+                "title": "Gains Network Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gainsnetwork_io"
+            },
+            "title": "What's the steepest learning curve when starting trading? ",
+            "published_at": "2023-07-10T14:45:01Z",
+            "slug": "Whats-the-steepest-learning-curve-when-starting-trading",
+            "currencies": [
+                {
+                    "code": "GNS",
+                    "title": "Gains Network",
+                    "slug": "gains-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/gains-network\/"
+                }
+            ],
+            "id": 18756344,
+            "url": "https:\/\/cryptopanic.com\/news\/18756344\/Whats-the-steepest-learning-curve-when-starting-trading",
+            "created_at": "2023-07-10T14:45:01Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GainsNetwork_io",
+            "source": {
+                "title": "Gains Network Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gainsnetwork_io"
+            },
+            "title": "RT @GainsNetwork_io: Don't miss the community live stream right now on Discord! ",
+            "published_at": "2023-07-09T02:00:02Z",
+            "slug": "RT-GainsNetwork_io-Dont-miss-the-community-live-stream-right-now-on-Discord",
+            "currencies": [
+                {
+                    "code": "GNS",
+                    "title": "Gains Network",
+                    "slug": "gains-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/gains-network\/"
+                }
+            ],
+            "id": 18745626,
+            "url": "https:\/\/cryptopanic.com\/news\/18745626\/RT-GainsNetwork_io-Dont-miss-the-community-live-stream-right-now-on-Discord",
+            "created_at": "2023-07-09T02:00:02Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GainsNetwork_io",
+            "source": {
+                "title": "Gains Network Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gainsnetwork_io"
+            },
+            "title": "Don't miss the community live stream right now on Discord! ",
+            "published_at": "2023-07-08T14:00:02Z",
+            "slug": "Dont-miss-the-community-live-stream-right-now-on-Discord",
+            "currencies": [
+                {
+                    "code": "GNS",
+                    "title": "Gains Network",
+                    "slug": "gains-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/gains-network\/"
+                }
+            ],
+            "id": 18745627,
+            "url": "https:\/\/cryptopanic.com\/news\/18745627\/Dont-miss-the-community-live-stream-right-now-on-Discord",
+            "created_at": "2023-07-08T14:00:02Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GainsNetwork_io",
+            "source": {
+                "title": "Gains Network Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gainsnetwork_io"
+            },
+            "title": "RT @GainsNetwork_io: After a couple of weeks of fierce Forex trading, $BTC &amp; $ETH are back on top with a combined weekly trading volume of\u2026",
+            "published_at": "2023-07-08T02:50:01Z",
+            "slug": "RT-GainsNetwork_io-After-a-couple-of-weeks-of-fierce-Forex-trading-BTC-amp-ETH-are-back-on-top-with-a-combined-weekly-trading-volume-of",
+            "currencies": [
+                {
+                    "code": "GNS",
+                    "title": "Gains Network",
+                    "slug": "gains-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/gains-network\/"
+                }
+            ],
+            "id": 18740291,
+            "url": "https:\/\/cryptopanic.com\/news\/18740291\/RT-GainsNetwork_io-After-a-couple-of-weeks-of-fierce-Forex-trading-BTC-amp-ETH-are-back-on-top-with-a-combined-weekly-trading-volume-of",
+            "created_at": "2023-07-08T02:50:01Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GainsNetwork_io",
+            "source": {
+                "title": "Gains Network Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gainsnetwork_io"
+            },
+            "title": "Want to hang with the gTrade community?\n\nJoin @vesnushkiii and @Lothaen tomorrow on Discord for some weekend tradin\u2026",
+            "published_at": "2023-07-08T02:00:33Z",
+            "slug": "Want-to-hang-with-the-gTrade-community-Join-vesnushkiii-and-Lothaen-tomorrow-on-Discord-for-some-weekend-tradin",
+            "currencies": [
+                {
+                    "code": "GNS",
+                    "title": "Gains Network",
+                    "slug": "gains-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/gains-network\/"
+                }
+            ],
+            "id": 18740292,
+            "url": "https:\/\/cryptopanic.com\/news\/18740292\/Want-to-hang-with-the-gTrade-community-Join-vesnushkiii-and-Lothaen-tomorrow-on-Discord-for-some-weekend-tradin",
+            "created_at": "2023-07-08T02:00:33Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GainsNetwork_io",
+            "source": {
+                "title": "Gains Network Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gainsnetwork_io"
+            },
+            "title": "RT @GainsNetwork_io: Big news, yield traders!\n\ngTrade has teamed up with @Penpiexyz_io &amp; will provide weekly incentives via the Penpie brib\u2026",
+            "published_at": "2023-07-07T19:20:03Z",
+            "slug": "RT-GainsNetwork_io-Big-news-yield-traders-gTrade-has-teamed-up-with-Penpiexyz_io-amp-will-provide-weekly-incentives-via-the-Penpie-brib",
+            "currencies": [
+                {
+                    "code": "GNS",
+                    "title": "Gains Network",
+                    "slug": "gains-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/gains-network\/"
+                }
+            ],
+            "id": 18740293,
+            "url": "https:\/\/cryptopanic.com\/news\/18740293\/RT-GainsNetwork_io-Big-news-yield-traders-gTrade-has-teamed-up-with-Penpiexyz_io-amp-will-provide-weekly-incentives-via-the-Penpie-brib",
+            "created_at": "2023-07-07T19:20:03Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GainsNetwork_io",
+            "source": {
+                "title": "Gains Network Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gainsnetwork_io"
+            },
+            "title": "After a couple of weeks of fierce Forex trading, $BTC &amp; $ETH are back on top with a combined weekly trading volume\u2026",
+            "published_at": "2023-07-07T14:45:03Z",
+            "slug": "After-a-couple-of-weeks-of-fierce-Forex-trading-BTC-amp-ETH-are-back-on-top-with-a-combined-weekly-trading-volume",
+            "currencies": [
+                {
+                    "code": "GNS",
+                    "title": "Gains Network",
+                    "slug": "gains-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/gains-network\/"
+                }
+            ],
+            "id": 18740294,
+            "url": "https:\/\/cryptopanic.com\/news\/18740294\/After-a-couple-of-weeks-of-fierce-Forex-trading-BTC-amp-ETH-are-back-on-top-with-a-combined-weekly-trading-volume",
+            "created_at": "2023-07-07T14:45:03Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GainsNetwork_io",
+            "source": {
+                "title": "Gains Network Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gainsnetwork_io"
+            },
+            "title": "Big news, yield traders!\n\ngTrade has teamed up with @Penpiexyz_io &amp; will provide weekly incentives via the Penpie b\u2026",
+            "published_at": "2023-07-07T07:14:20Z",
+            "slug": "Big-news-yield-traders-gTrade-has-teamed-up-with-Penpiexyz_io-amp-will-provide-weekly-incentives-via-the-Penpie-b",
+            "currencies": [
+                {
+                    "code": "GNS",
+                    "title": "Gains Network",
+                    "slug": "gains-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/gains-network\/"
+                }
+            ],
+            "id": 18732654,
+            "url": "https:\/\/cryptopanic.com\/news\/18732654\/Big-news-yield-traders-gTrade-has-teamed-up-with-Penpiexyz_io-amp-will-provide-weekly-incentives-via-the-Penpie-b",
+            "created_at": "2023-07-07T07:14:20Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GainsNetwork_io",
+            "source": {
+                "title": "Gains Network Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gainsnetwork_io"
+            },
+            "title": "RT @GainsNetwork_io: Want to earn rewards simply by leveraging your network?\n\ngTrade's ambassador &amp; ally referral program could be your gat\u2026",
+            "published_at": "2023-07-07T02:50:04Z",
+            "slug": "RT-GainsNetwork_io-Want-to-earn-rewards-simply-by-leveraging-your-network-gTrades-ambassador-amp-ally-referral-program-could-be-your-gat",
+            "currencies": [
+                {
+                    "code": "GNS",
+                    "title": "Gains Network",
+                    "slug": "gains-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/gains-network\/"
+                }
+            ],
+            "id": 18732655,
+            "url": "https:\/\/cryptopanic.com\/news\/18732655\/RT-GainsNetwork_io-Want-to-earn-rewards-simply-by-leveraging-your-network-gTrades-ambassador-amp-ally-referral-program-could-be-your-gat",
+            "created_at": "2023-07-07T02:50:04Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GainsNetwork_io",
+            "source": {
+                "title": "Gains Network Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gainsnetwork_io"
+            },
+            "title": "RT @GainsNetwork_io: Congrats to everyone who took part in the King of the Hill contest \ud83e\udd73\n\nThe $100K prize pool has been distributed among\u2026",
+            "published_at": "2023-07-06T14:50:03Z",
+            "slug": "RT-GainsNetwork_io-Congrats-to-everyone-who-took-part-in-the-King-of-the-Hill-contest-The-100K-prize-pool-has-been-distributed-among",
+            "currencies": [
+                {
+                    "code": "GNS",
+                    "title": "Gains Network",
+                    "slug": "gains-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/gains-network\/"
+                }
+            ],
+            "id": 18732656,
+            "url": "https:\/\/cryptopanic.com\/news\/18732656\/RT-GainsNetwork_io-Congrats-to-everyone-who-took-part-in-the-King-of-the-Hill-contest-The-100K-prize-pool-has-been-distributed-among",
+            "created_at": "2023-07-06T14:50:03Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GainsNetwork_io",
+            "source": {
+                "title": "Gains Network Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gainsnetwork_io"
+            },
+            "title": "Want to earn rewards simply by leveraging your network?\n\ngTrade's ambassador &amp; ally referral program could be your\u2026",
+            "published_at": "2023-07-06T14:45:01Z",
+            "slug": "Want-to-earn-rewards-simply-by-leveraging-your-network-gTrades-ambassador-amp-ally-referral-program-could-be-your",
+            "currencies": [
+                {
+                    "code": "GNS",
+                    "title": "Gains Network",
+                    "slug": "gains-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/gains-network\/"
+                }
+            ],
+            "id": 18732657,
+            "url": "https:\/\/cryptopanic.com\/news\/18732657\/Want-to-earn-rewards-simply-by-leveraging-your-network-gTrades-ambassador-amp-ally-referral-program-could-be-your",
+            "created_at": "2023-07-06T14:45:01Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GainsNetwork_io",
+            "source": {
+                "title": "Gains Network Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gainsnetwork_io"
+            },
+            "title": "RT @GainsNetwork_io: The countdown is on \u23f0\n\nLookbacks = \u25ae\u25ae\u25ae\u25ae\u25ae\u25ae\u25ae\u25ae\u25ae\u25ae\u25ae\u25ae\u25ae\u25ae\u25ae\u25ae\u25ae\u25ae\u25af\u25af 90%",
+            "published_at": "2023-07-06T02:50:03Z",
+            "slug": "RT-GainsNetwork_io-The-countdown-is-on-Lookbacks-90",
+            "currencies": [
+                {
+                    "code": "GNS",
+                    "title": "Gains Network",
+                    "slug": "gains-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/gains-network\/"
+                }
+            ],
+            "id": 18724177,
+            "url": "https:\/\/cryptopanic.com\/news\/18724177\/RT-GainsNetwork_io-The-countdown-is-on-Lookbacks-90",
+            "created_at": "2023-07-06T02:50:03Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GainsNetwork_io",
+            "source": {
+                "title": "Gains Network Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gainsnetwork_io"
+            },
+            "title": "Congrats to everyone who took part in the King of the Hill contest \ud83e\udd73\n\nThe $100K prize pool has been distributed am\u2026",
+            "published_at": "2023-07-06T02:48:01Z",
+            "slug": "Congrats-to-everyone-who-took-part-in-the-King-of-the-Hill-contest-The-100K-prize-pool-has-been-distributed-am",
+            "currencies": [
+                {
+                    "code": "GNS",
+                    "title": "Gains Network",
+                    "slug": "gains-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/gains-network\/"
+                }
+            ],
+            "id": 18724179,
+            "url": "https:\/\/cryptopanic.com\/news\/18724179\/Congrats-to-everyone-who-took-part-in-the-King-of-the-Hill-contest-The-100K-prize-pool-has-been-distributed-am",
+            "created_at": "2023-07-06T02:48:01Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GainsNetwork_io",
+            "source": {
+                "title": "Gains Network Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gainsnetwork_io"
+            },
+            "title": "The countdown is on \u23f0\n\nLookbacks = \u25ae\u25ae\u25ae\u25ae\u25ae\u25ae\u25ae\u25ae\u25ae\u25ae\u25ae\u25ae\u25ae\u25ae\u25ae\u25ae\u25ae\u25ae\u25af\u25af 90%",
+            "published_at": "2023-07-05T14:45:02Z",
+            "slug": "The-countdown-is-on-Lookbacks-90",
+            "currencies": [
+                {
+                    "code": "GNS",
+                    "title": "Gains Network",
+                    "slug": "gains-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/gains-network\/"
+                }
+            ],
+            "id": 18724181,
+            "url": "https:\/\/cryptopanic.com\/news\/18724181\/The-countdown-is-on-Lookbacks-90",
+            "created_at": "2023-07-05T14:45:02Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GainsNetwork_io",
+            "source": {
+                "title": "Gains Network Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gainsnetwork_io"
+            },
+            "title": "RT @GainsNetwork_io: Don't miss @vesnushkiii on the mic tomorrow with @0xBebis_ ",
+            "published_at": "2023-07-05T11:30:02Z",
+            "slug": "RT-GainsNetwork_io-Dont-miss-vesnushkiii-on-the-mic-tomorrow-with-0xBebis_",
+            "currencies": [
+                {
+                    "code": "GNS",
+                    "title": "Gains Network",
+                    "slug": "gains-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/gains-network\/"
+                }
+            ],
+            "id": 18724183,
+            "url": "https:\/\/cryptopanic.com\/news\/18724183\/RT-GainsNetwork_io-Dont-miss-vesnushkiii-on-the-mic-tomorrow-with-0xBebis_",
+            "created_at": "2023-07-05T11:30:02Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

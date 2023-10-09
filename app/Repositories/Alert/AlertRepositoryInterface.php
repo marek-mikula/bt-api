@@ -13,6 +13,9 @@ interface AlertRepositoryInterface
      */
     public function index(bool $activeOnly = false): Collection;
 
+    /**
+     * @param  array<string, mixed>  $data
+     */
     public function create(array $data): Alert;
 
     public function find(int $id): ?Alert;

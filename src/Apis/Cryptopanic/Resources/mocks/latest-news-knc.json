@@ -1,0 +1,839 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=KNC&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "@KyberNetwork",
+            "source": {
+                "title": "Kyber Network Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@kybernetwork"
+            },
+            "title": "The next phase of @StaFi_Protocol yield farms has begun on @0xPolygonDeFi \ufe0f\n\nFarm now and maximise your $rETH $ETH\u2026",
+            "published_at": "2023-07-12T07:37:53Z",
+            "slug": "The-next-phase-of-StaFi_Protocol-yield-farms-has-begun-on-0xPolygonDeFi-Farm-now-and-maximise-your-rETH-ETH",
+            "currencies": [
+                {
+                    "code": "KNCL",
+                    "title": "Kyber Network Crystal Legacy",
+                    "slug": "kyber-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/kyber-network\/"
+                },
+                {
+                    "code": "KNC",
+                    "title": "Kyber Network Crystal",
+                    "slug": "kyber-network-crystal",
+                    "url": "https:\/\/cryptopanic.com\/news\/kyber-network-crystal\/"
+                }
+            ],
+            "id": 18765289,
+            "url": "https:\/\/cryptopanic.com\/news\/18765289\/The-next-phase-of-StaFi_Protocol-yield-farms-has-begun-on-0xPolygonDeFi-Farm-now-and-maximise-your-rETH-ETH",
+            "created_at": "2023-07-12T07:37:53Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@KyberNetwork",
+            "source": {
+                "title": "Kyber Network Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@kybernetwork"
+            },
+            "title": "RT @Xox_Labs:  Exciting News! Introducing our Daily Tasks Series! \n\nDaily Task #1: Prize $10 \n1- Retweet @KyberNetwork XOX Labs integratio\u2026",
+            "published_at": "2023-07-12T05:32:43Z",
+            "slug": "RT-Xox_Labs-Exciting-News-Introducing-our-Daily-Tasks-Series-Daily-Task-1-Prize-10-1-Retweet-KyberNetwork-XOX-Labs-integratio",
+            "currencies": [
+                {
+                    "code": "KNCL",
+                    "title": "Kyber Network Crystal Legacy",
+                    "slug": "kyber-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/kyber-network\/"
+                },
+                {
+                    "code": "KNC",
+                    "title": "Kyber Network Crystal",
+                    "slug": "kyber-network-crystal",
+                    "url": "https:\/\/cryptopanic.com\/news\/kyber-network-crystal\/"
+                }
+            ],
+            "id": 18765290,
+            "url": "https:\/\/cryptopanic.com\/news\/18765290\/RT-Xox_Labs-Exciting-News-Introducing-our-Daily-Tasks-Series-Daily-Task-1-Prize-10-1-Retweet-KyberNetwork-XOX-Labs-integratio",
+            "created_at": "2023-07-12T05:32:43Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@KyberNetwork",
+            "source": {
+                "title": "Kyber Network Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@kybernetwork"
+            },
+            "title": "Multi-chain DeFi Dapps &amp; Web3 Solutions Provider @Xox_Labs has integrated KyberSwap\u2019s aggregator \ud83e\udd1d\nNow XOX users ex\u2026",
+            "published_at": "2023-07-12T04:20:19Z",
+            "slug": "Multi-chain-DeFi-Dapps-amp-Web3-Solutions-Provider-Xox_Labs-has-integrated-KyberSwaps-aggregator-Now-XOX-users-ex",
+            "currencies": [
+                {
+                    "code": "KNCL",
+                    "title": "Kyber Network Crystal Legacy",
+                    "slug": "kyber-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/kyber-network\/"
+                },
+                {
+                    "code": "KNC",
+                    "title": "Kyber Network Crystal",
+                    "slug": "kyber-network-crystal",
+                    "url": "https:\/\/cryptopanic.com\/news\/kyber-network-crystal\/"
+                }
+            ],
+            "id": 18765291,
+            "url": "https:\/\/cryptopanic.com\/news\/18765291\/Multi-chain-DeFi-Dapps-amp-Web3-Solutions-Provider-Xox_Labs-has-integrated-KyberSwaps-aggregator-Now-XOX-users-ex",
+            "created_at": "2023-07-12T04:20:19Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@KyberNetwork",
+            "source": {
+                "title": "Kyber Network Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@kybernetwork"
+            },
+            "title": "Join @imranfaststart with @IntractBuzz @GMX_IO @Bancor @synthetix_io for a DeFi leaders chat this Thursday!",
+            "published_at": "2023-07-11T12:53:49Z",
+            "slug": "Join-imranfaststart-with-IntractBuzz-GMX_IO-Bancor-synthetix_io-for-a-DeFi-leaders-chat-this-Thursday",
+            "currencies": [
+                {
+                    "code": "KNCL",
+                    "title": "Kyber Network Crystal Legacy",
+                    "slug": "kyber-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/kyber-network\/"
+                },
+                {
+                    "code": "KNC",
+                    "title": "Kyber Network Crystal",
+                    "slug": "kyber-network-crystal",
+                    "url": "https:\/\/cryptopanic.com\/news\/kyber-network-crystal\/"
+                }
+            ],
+            "id": 18765292,
+            "url": "https:\/\/cryptopanic.com\/news\/18765292\/Join-imranfaststart-with-IntractBuzz-GMX_IO-Bancor-synthetix_io-for-a-DeFi-leaders-chat-this-Thursday",
+            "created_at": "2023-07-11T12:53:49Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@KyberNetwork",
+            "source": {
+                "title": "Kyber Network Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@kybernetwork"
+            },
+            "title": "1\/8\n\nCalling all DeFi Explorers! \u200d\n\nWe\u2019re excited to announce yet another major milestone in our ecosystem: Kyber\u2026",
+            "published_at": "2023-07-11T12:30:42Z",
+            "slug": "18-Calling-all-DeFi-Explorers-Were-excited-to-announce-yet-another-major-milestone-in-our-ecosystem-Kyber",
+            "currencies": [
+                {
+                    "code": "KNCL",
+                    "title": "Kyber Network Crystal Legacy",
+                    "slug": "kyber-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/kyber-network\/"
+                },
+                {
+                    "code": "KNC",
+                    "title": "Kyber Network Crystal",
+                    "slug": "kyber-network-crystal",
+                    "url": "https:\/\/cryptopanic.com\/news\/kyber-network-crystal\/"
+                }
+            ],
+            "id": 18765293,
+            "url": "https:\/\/cryptopanic.com\/news\/18765293\/18-Calling-all-DeFi-Explorers-Were-excited-to-announce-yet-another-major-milestone-in-our-ecosystem-Kyber",
+            "created_at": "2023-07-11T12:30:42Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@KyberNetwork",
+            "source": {
+                "title": "Kyber Network Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@kybernetwork"
+            },
+            "title": "Thanks for the awesome thread @Xox_Labs!\nOur collaboration will be a significant leap towards delivering the best t\u2026",
+            "published_at": "2023-07-11T05:48:20Z",
+            "slug": "Thanks-for-the-awesome-thread-Xox_Labs-Our-collaboration-will-be-a-significant-leap-towards-delivering-the-best-t",
+            "currencies": [
+                {
+                    "code": "KNCL",
+                    "title": "Kyber Network Crystal Legacy",
+                    "slug": "kyber-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/kyber-network\/"
+                },
+                {
+                    "code": "KNC",
+                    "title": "Kyber Network Crystal",
+                    "slug": "kyber-network-crystal",
+                    "url": "https:\/\/cryptopanic.com\/news\/kyber-network-crystal\/"
+                }
+            ],
+            "id": 18757111,
+            "url": "https:\/\/cryptopanic.com\/news\/18757111\/Thanks-for-the-awesome-thread-Xox_Labs-Our-collaboration-will-be-a-significant-leap-towards-delivering-the-best-t",
+            "created_at": "2023-07-11T05:48:20Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@KyberNetwork",
+            "source": {
+                "title": "Kyber Network Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@kybernetwork"
+            },
+            "title": "KyberSwap Elastic Liquidity has reached $40M!  As a second milestone...",
+            "published_at": "2023-07-11T04:15:31Z",
+            "slug": "KyberSwap-Elastic-Liquidity-has-reached-40M-As-a-second-milestone",
+            "currencies": [
+                {
+                    "code": "KNCL",
+                    "title": "Kyber Network Crystal Legacy",
+                    "slug": "kyber-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/kyber-network\/"
+                },
+                {
+                    "code": "KNC",
+                    "title": "Kyber Network Crystal",
+                    "slug": "kyber-network-crystal",
+                    "url": "https:\/\/cryptopanic.com\/news\/kyber-network-crystal\/"
+                }
+            ],
+            "id": 18757112,
+            "url": "https:\/\/cryptopanic.com\/news\/18757112\/KyberSwap-Elastic-Liquidity-has-reached-40M-As-a-second-milestone",
+            "created_at": "2023-07-11T04:15:31Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@KyberNetwork",
+            "source": {
+                "title": "Kyber Network Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@kybernetwork"
+            },
+            "title": "RT @ayyyeandy: According to Kyber AI, the top 5 holders of $ETH (unstaked, as normal ETH) currently hold approximately 3.5% of the total su\u2026",
+            "published_at": "2023-07-10T20:17:54Z",
+            "slug": "RT-ayyyeandy-According-to-Kyber-AI-the-top-5-holders-of-ETH-unstaked-as-normal-ETH-currently-hold-approximately-35-of-the-total-su",
+            "currencies": [
+                {
+                    "code": "KNCL",
+                    "title": "Kyber Network Crystal Legacy",
+                    "slug": "kyber-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/kyber-network\/"
+                },
+                {
+                    "code": "KNC",
+                    "title": "Kyber Network Crystal",
+                    "slug": "kyber-network-crystal",
+                    "url": "https:\/\/cryptopanic.com\/news\/kyber-network-crystal\/"
+                }
+            ],
+            "id": 18757113,
+            "url": "https:\/\/cryptopanic.com\/news\/18757113\/RT-ayyyeandy-According-to-Kyber-AI-the-top-5-holders-of-ETH-unstaked-as-normal-ETH-currently-hold-approximately-35-of-the-total-su",
+            "created_at": "2023-07-10T20:17:54Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@KyberNetwork",
+            "source": {
+                "title": "Kyber Network Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@kybernetwork"
+            },
+            "title": "RT @HarsAgarwal: Crypto VC funding might be slow in 2023. But we at @KyberVentures are actively deploying and supporting potential founders\u2026",
+            "published_at": "2023-07-10T19:53:43Z",
+            "slug": "RT-HarsAgarwal-Crypto-VC-funding-might-be-slow-in-2023-But-we-at-KyberVentures-are-actively-deploying-and-supporting-potential-founders",
+            "currencies": [
+                {
+                    "code": "KNCL",
+                    "title": "Kyber Network Crystal Legacy",
+                    "slug": "kyber-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/kyber-network\/"
+                },
+                {
+                    "code": "KNC",
+                    "title": "Kyber Network Crystal",
+                    "slug": "kyber-network-crystal",
+                    "url": "https:\/\/cryptopanic.com\/news\/kyber-network-crystal\/"
+                }
+            ],
+            "id": 18757114,
+            "url": "https:\/\/cryptopanic.com\/news\/18757114\/RT-HarsAgarwal-Crypto-VC-funding-might-be-slow-in-2023-But-we-at-KyberVentures-are-actively-deploying-and-supporting-potential-founders",
+            "created_at": "2023-07-10T19:53:43Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@KyberNetwork",
+            "source": {
+                "title": "Kyber Network Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@kybernetwork"
+            },
+            "title": "New liquidity mining opportunity awaits on @arbitrum as @UmamiDao launches $UMAMI- $USDC yield farm with KyberSwap\u2026",
+            "published_at": "2023-07-10T09:36:55Z",
+            "slug": "New-liquidity-mining-opportunity-awaits-on-arbitrum-as-UmamiDao-launches-UMAMI-USDC-yield-farm-with-KyberSwap",
+            "currencies": [
+                {
+                    "code": "KNCL",
+                    "title": "Kyber Network Crystal Legacy",
+                    "slug": "kyber-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/kyber-network\/"
+                },
+                {
+                    "code": "KNC",
+                    "title": "Kyber Network Crystal",
+                    "slug": "kyber-network-crystal",
+                    "url": "https:\/\/cryptopanic.com\/news\/kyber-network-crystal\/"
+                }
+            ],
+            "id": 18757115,
+            "url": "https:\/\/cryptopanic.com\/news\/18757115\/New-liquidity-mining-opportunity-awaits-on-arbitrum-as-UmamiDao-launches-UMAMI-USDC-yield-farm-with-KyberSwap",
+            "created_at": "2023-07-10T09:36:55Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@KyberNetwork",
+            "source": {
+                "title": "Kyber Network Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@kybernetwork"
+            },
+            "title": "1\/2\nThe 3rd Quest of KyberSwap Signature NFT is about to begin! \nTrade a minimum of $100 on @0xPolygonDeFi\u2026",
+            "published_at": "2023-07-10T08:38:23Z",
+            "slug": "12-The-3rd-Quest-of-KyberSwap-Signature-NFT-is-about-to-begin-Trade-a-minimum-of-100-on-0xPolygonDeFi",
+            "currencies": [
+                {
+                    "code": "KNCL",
+                    "title": "Kyber Network Crystal Legacy",
+                    "slug": "kyber-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/kyber-network\/"
+                },
+                {
+                    "code": "KNC",
+                    "title": "Kyber Network Crystal",
+                    "slug": "kyber-network-crystal",
+                    "url": "https:\/\/cryptopanic.com\/news\/kyber-network-crystal\/"
+                }
+            ],
+            "id": 18757116,
+            "url": "https:\/\/cryptopanic.com\/news\/18757116\/12-The-3rd-Quest-of-KyberSwap-Signature-NFT-is-about-to-begin-Trade-a-minimum-of-100-on-0xPolygonDeFi",
+            "created_at": "2023-07-10T08:38:23Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@KyberNetwork",
+            "source": {
+                "title": "Kyber Network Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@kybernetwork"
+            },
+            "title": "RT @TyranoAnalytics:  The @avax ecosystem is witnessing the rise of some remarkable projects!\nHere are the top 10 rising stars that have e\u2026",
+            "published_at": "2023-07-10T08:33:37Z",
+            "slug": "RT-TyranoAnalytics-The-avax-ecosystem-is-witnessing-the-rise-of-some-remarkable-projects-Here-are-the-top-10-rising-stars-that-have-e",
+            "currencies": [
+                {
+                    "code": "KNCL",
+                    "title": "Kyber Network Crystal Legacy",
+                    "slug": "kyber-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/kyber-network\/"
+                },
+                {
+                    "code": "KNC",
+                    "title": "Kyber Network Crystal",
+                    "slug": "kyber-network-crystal",
+                    "url": "https:\/\/cryptopanic.com\/news\/kyber-network-crystal\/"
+                }
+            ],
+            "id": 18757117,
+            "url": "https:\/\/cryptopanic.com\/news\/18757117\/RT-TyranoAnalytics-The-avax-ecosystem-is-witnessing-the-rise-of-some-remarkable-projects-Here-are-the-top-10-rising-stars-that-have-e",
+            "created_at": "2023-07-10T08:33:37Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@KyberNetwork",
+            "source": {
+                "title": "Kyber Network Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@kybernetwork"
+            },
+            "title": "1\/2\nIts been ~20 days since we\u2019ve announced KyberSwap\u2019s expansion to @zkSync. So far we\u2019ve integrated native DEXs\u2026",
+            "published_at": "2023-07-10T06:00:31Z",
+            "slug": "12-Its-been-20-days-since-weve-announced-KyberSwaps-expansion-to-zkSync-So-far-weve-integrated-native-DEXs",
+            "currencies": [
+                {
+                    "code": "KNCL",
+                    "title": "Kyber Network Crystal Legacy",
+                    "slug": "kyber-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/kyber-network\/"
+                },
+                {
+                    "code": "KNC",
+                    "title": "Kyber Network Crystal",
+                    "slug": "kyber-network-crystal",
+                    "url": "https:\/\/cryptopanic.com\/news\/kyber-network-crystal\/"
+                }
+            ],
+            "id": 18750237,
+            "url": "https:\/\/cryptopanic.com\/news\/18750237\/12-Its-been-20-days-since-weve-announced-KyberSwaps-expansion-to-zkSync-So-far-weve-integrated-native-DEXs",
+            "created_at": "2023-07-10T06:00:31Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@KyberNetwork",
+            "source": {
+                "title": "Kyber Network Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@kybernetwork"
+            },
+            "title": "\u00a0@VerseEcosystem's Verse DEX is now integrated with KyberSwap, adding another dynamic liquidity layer on @ethereum\u2026",
+            "published_at": "2023-07-10T04:26:31Z",
+            "slug": "VerseEcosystems-Verse-DEX-is-now-integrated-with-KyberSwap-adding-another-dynamic-liquidity-layer-on-ethereum",
+            "currencies": [
+                {
+                    "code": "KNCL",
+                    "title": "Kyber Network Crystal Legacy",
+                    "slug": "kyber-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/kyber-network\/"
+                },
+                {
+                    "code": "KNC",
+                    "title": "Kyber Network Crystal",
+                    "slug": "kyber-network-crystal",
+                    "url": "https:\/\/cryptopanic.com\/news\/kyber-network-crystal\/"
+                }
+            ],
+            "id": 18750238,
+            "url": "https:\/\/cryptopanic.com\/news\/18750238\/VerseEcosystems-Verse-DEX-is-now-integrated-with-KyberSwap-adding-another-dynamic-liquidity-layer-on-ethereum",
+            "created_at": "2023-07-10T04:26:31Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@KyberNetwork",
+            "source": {
+                "title": "Kyber Network Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@kybernetwork"
+            },
+            "title": "1\/12\nThe Layer 2 season is in full swing as innovative rollups gain momentum.\n\nRollups, with their game-changing na\u2026",
+            "published_at": "2023-07-09T09:31:45Z",
+            "slug": "112-The-Layer-2-season-is-in-full-swing-as-innovative-rollups-gain-momentum-Rollups-with-their-game-changing-na",
+            "currencies": [
+                {
+                    "code": "KNCL",
+                    "title": "Kyber Network Crystal Legacy",
+                    "slug": "kyber-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/kyber-network\/"
+                },
+                {
+                    "code": "KNC",
+                    "title": "Kyber Network Crystal",
+                    "slug": "kyber-network-crystal",
+                    "url": "https:\/\/cryptopanic.com\/news\/kyber-network-crystal\/"
+                }
+            ],
+            "id": 18750239,
+            "url": "https:\/\/cryptopanic.com\/news\/18750239\/112-The-Layer-2-season-is-in-full-swing-as-innovative-rollups-gain-momentum-Rollups-with-their-game-changing-na",
+            "created_at": "2023-07-09T09:31:45Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@KyberNetwork",
+            "source": {
+                "title": "Kyber Network Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@kybernetwork"
+            },
+            "title": "RT @blackwing_fi: Blackwing in Vietnam has been on fire! \n\nICYMI: We're organizing an exclusive Vietnam launch party tonight! \n\nHope to s\u2026",
+            "published_at": "2023-07-09T05:16:50Z",
+            "slug": "RT-blackwing_fi-Blackwing-in-Vietnam-has-been-on-fire-ICYMI-Were-organizing-an-exclusive-Vietnam-launch-party-tonight-Hope-to-s",
+            "currencies": [
+                {
+                    "code": "KNCL",
+                    "title": "Kyber Network Crystal Legacy",
+                    "slug": "kyber-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/kyber-network\/"
+                },
+                {
+                    "code": "KNC",
+                    "title": "Kyber Network Crystal",
+                    "slug": "kyber-network-crystal",
+                    "url": "https:\/\/cryptopanic.com\/news\/kyber-network-crystal\/"
+                }
+            ],
+            "id": 18745988,
+            "url": "https:\/\/cryptopanic.com\/news\/18745988\/RT-blackwing_fi-Blackwing-in-Vietnam-has-been-on-fire-ICYMI-Were-organizing-an-exclusive-Vietnam-launch-party-tonight-Hope-to-s",
+            "created_at": "2023-07-09T05:16:50Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@KyberNetwork",
+            "source": {
+                "title": "Kyber Network Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@kybernetwork"
+            },
+            "title": "\u00a0Liquidity Surge detected!\n@UmamiDao has unleashed a stellar surge of ~$600,000 worth of liquidity onto KyberSwap!\u2026",
+            "published_at": "2023-07-08T15:21:54Z",
+            "slug": "Liquidity-Surge-detected-UmamiDao-has-unleashed-a-stellar-surge-of-600000-worth-of-liquidity-onto-KyberSwap",
+            "currencies": [
+                {
+                    "code": "KNCL",
+                    "title": "Kyber Network Crystal Legacy",
+                    "slug": "kyber-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/kyber-network\/"
+                },
+                {
+                    "code": "KNC",
+                    "title": "Kyber Network Crystal",
+                    "slug": "kyber-network-crystal",
+                    "url": "https:\/\/cryptopanic.com\/news\/kyber-network-crystal\/"
+                },
+                {
+                    "code": "XLM",
+                    "title": "Stellar",
+                    "slug": "stellar",
+                    "url": "https:\/\/cryptopanic.com\/news\/stellar\/"
+                }
+            ],
+            "id": 18745989,
+            "url": "https:\/\/cryptopanic.com\/news\/18745989\/Liquidity-Surge-detected-UmamiDao-has-unleashed-a-stellar-surge-of-600000-worth-of-liquidity-onto-KyberSwap",
+            "created_at": "2023-07-08T15:21:54Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@KyberNetwork",
+            "source": {
+                "title": "Kyber Network Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@kybernetwork"
+            },
+            "title": "Proud to be part of this panel and event together with our frens ",
+            "published_at": "2023-07-08T07:35:43Z",
+            "slug": "Proud-to-be-part-of-this-panel-and-event-together-with-our-frens",
+            "currencies": [
+                {
+                    "code": "KNCL",
+                    "title": "Kyber Network Crystal Legacy",
+                    "slug": "kyber-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/kyber-network\/"
+                },
+                {
+                    "code": "KNC",
+                    "title": "Kyber Network Crystal",
+                    "slug": "kyber-network-crystal",
+                    "url": "https:\/\/cryptopanic.com\/news\/kyber-network-crystal\/"
+                }
+            ],
+            "id": 18740938,
+            "url": "https:\/\/cryptopanic.com\/news\/18740938\/Proud-to-be-part-of-this-panel-and-event-together-with-our-frens",
+            "created_at": "2023-07-08T07:35:43Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@KyberNetwork",
+            "source": {
+                "title": "Kyber Network Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@kybernetwork"
+            },
+            "title": "RT @imranfaststart: If you're at @gmvn_official + @FantomFDN supporter, come join the @fantom_insider networking event with the Fantom CTO,\u2026",
+            "published_at": "2023-07-08T06:13:42Z",
+            "slug": "RT-imranfaststart-If-youre-at-gmvn_official-FantomFDN-supporter-come-join-the-fantom_insider-networking-event-with-the-Fantom-CTO",
+            "currencies": [
+                {
+                    "code": "KNCL",
+                    "title": "Kyber Network Crystal Legacy",
+                    "slug": "kyber-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/kyber-network\/"
+                },
+                {
+                    "code": "KNC",
+                    "title": "Kyber Network Crystal",
+                    "slug": "kyber-network-crystal",
+                    "url": "https:\/\/cryptopanic.com\/news\/kyber-network-crystal\/"
+                },
+                {
+                    "code": "FTM",
+                    "title": "Fantom",
+                    "slug": "fantom",
+                    "url": "https:\/\/cryptopanic.com\/news\/fantom\/"
+                }
+            ],
+            "id": 18740939,
+            "url": "https:\/\/cryptopanic.com\/news\/18740939\/RT-imranfaststart-If-youre-at-gmvn_official-FantomFDN-supporter-come-join-the-fantom_insider-networking-event-with-the-Fantom-CTO",
+            "created_at": "2023-07-08T06:13:42Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@KyberNetwork",
+            "source": {
+                "title": "Kyber Network Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@kybernetwork"
+            },
+            "title": "1\/2\n KyberSwap June Product Update\nDiscover the latest updates and improvements made to KyberSwap during the month\u2026",
+            "published_at": "2023-07-08T05:01:37Z",
+            "slug": "12-KyberSwap-June-Product-Update-Discover-the-latest-updates-and-improvements-made-to-KyberSwap-during-the-month",
+            "currencies": [
+                {
+                    "code": "KNCL",
+                    "title": "Kyber Network Crystal Legacy",
+                    "slug": "kyber-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/kyber-network\/"
+                },
+                {
+                    "code": "KNC",
+                    "title": "Kyber Network Crystal",
+                    "slug": "kyber-network-crystal",
+                    "url": "https:\/\/cryptopanic.com\/news\/kyber-network-crystal\/"
+                }
+            ],
+            "id": 18740940,
+            "url": "https:\/\/cryptopanic.com\/news\/18740940\/12-KyberSwap-June-Product-Update-Discover-the-latest-updates-and-improvements-made-to-KyberSwap-during-the-month",
+            "created_at": "2023-07-08T05:01:37Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

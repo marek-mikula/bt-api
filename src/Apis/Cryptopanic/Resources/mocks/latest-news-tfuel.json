@@ -1,0 +1,947 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=TFUEL&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "@Theta_Network",
+            "source": {
+                "title": "THETA Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@theta_network"
+            },
+            "title": "Tune in this Thursday July 13th for a new Theta AMA with @mitchliu, @jieyilong, and @wes_levitt! The AMA will take\u2026",
+            "published_at": "2023-07-09T20:22:35Z",
+            "slug": "Tune-in-this-Thursday-July-13th-for-a-new-Theta-AMA-with-mitchliu-jieyilong-and-wes_levitt-The-AMA-will-take",
+            "currencies": [
+                {
+                    "code": "THETA",
+                    "title": "Theta Network",
+                    "slug": "theta-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/theta-token\/"
+                },
+                {
+                    "code": "TFUEL",
+                    "title": "Theta Fuel",
+                    "slug": "theta-fuel",
+                    "url": "https:\/\/cryptopanic.com\/news\/theta-fuel\/"
+                },
+                {
+                    "code": "TFUEL",
+                    "title": "Wrapped Theta Fuel",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18751613,
+            "url": "https:\/\/cryptopanic.com\/news\/18751613\/Tune-in-this-Thursday-July-13th-for-a-new-Theta-AMA-with-mitchliu-jieyilong-and-wes_levitt-The-AMA-will-take",
+            "created_at": "2023-07-09T20:22:35Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Theta_Network",
+            "source": {
+                "title": "THETA Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@theta_network"
+            },
+            "title": "RT @decryptmedia:  Napoleon Dynamite stans, this one is for you. The cast has reunited for an animated plot called @therealcykoko! \n\nThey\u2026",
+            "published_at": "2023-07-09T18:07:24Z",
+            "slug": "RT-decryptmedia-Napoleon-Dynamite-stans-this-one-is-for-you-The-cast-has-reunited-for-an-animated-plot-called-therealcykoko-They",
+            "currencies": [
+                {
+                    "code": "THETA",
+                    "title": "Theta Network",
+                    "slug": "theta-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/theta-token\/"
+                },
+                {
+                    "code": "TFUEL",
+                    "title": "Theta Fuel",
+                    "slug": "theta-fuel",
+                    "url": "https:\/\/cryptopanic.com\/news\/theta-fuel\/"
+                },
+                {
+                    "code": "TFUEL",
+                    "title": "Wrapped Theta Fuel",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18751614,
+            "url": "https:\/\/cryptopanic.com\/news\/18751614\/RT-decryptmedia-Napoleon-Dynamite-stans-this-one-is-for-you-The-cast-has-reunited-for-an-animated-plot-called-therealcykoko-They",
+            "created_at": "2023-07-09T18:07:24Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Theta_Network",
+            "source": {
+                "title": "THETA Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@theta_network"
+            },
+            "title": "RT @itsfeldman: Thank you @s_lutz95 and @decryptmedia for an AMAZING article! And to @w3Andrea for setting it up!\n\n@V3rifiedLabs @ImagineRe\u2026",
+            "published_at": "2023-07-09T18:05:14Z",
+            "slug": "RT-itsfeldman-Thank-you-s_lutz95-and-decryptmedia-for-an-AMAZING-article-And-to-w3Andrea-for-setting-it-up-V3rifiedLabs-ImagineRe",
+            "currencies": [
+                {
+                    "code": "THETA",
+                    "title": "Theta Network",
+                    "slug": "theta-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/theta-token\/"
+                },
+                {
+                    "code": "TFUEL",
+                    "title": "Theta Fuel",
+                    "slug": "theta-fuel",
+                    "url": "https:\/\/cryptopanic.com\/news\/theta-fuel\/"
+                },
+                {
+                    "code": "TFUEL",
+                    "title": "Wrapped Theta Fuel",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18751615,
+            "url": "https:\/\/cryptopanic.com\/news\/18751615\/RT-itsfeldman-Thank-you-s_lutz95-and-decryptmedia-for-an-AMAZING-article-And-to-w3Andrea-for-setting-it-up-V3rifiedLabs-ImagineRe",
+            "created_at": "2023-07-09T18:05:14Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Theta_Network",
+            "source": {
+                "title": "THETA Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@theta_network"
+            },
+            "title": "RT @w3Andrea: Thanks for having me @eth_barcelona \ufe0f It was an inspiring conference that brought together the folks who are out here buildi\u2026",
+            "published_at": "2023-07-09T13:58:19Z",
+            "slug": "RT-w3Andrea-Thanks-for-having-me-eth_barcelona-It-was-an-inspiring-conference-that-brought-together-the-folks-who-are-out-here-buildi",
+            "currencies": [
+                {
+                    "code": "THETA",
+                    "title": "Theta Network",
+                    "slug": "theta-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/theta-token\/"
+                },
+                {
+                    "code": "TFUEL",
+                    "title": "Theta Fuel",
+                    "slug": "theta-fuel",
+                    "url": "https:\/\/cryptopanic.com\/news\/theta-fuel\/"
+                },
+                {
+                    "code": "TFUEL",
+                    "title": "Wrapped Theta Fuel",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18751616,
+            "url": "https:\/\/cryptopanic.com\/news\/18751616\/RT-w3Andrea-Thanks-for-having-me-eth_barcelona-It-was-an-inspiring-conference-that-brought-together-the-folks-who-are-out-here-buildi",
+            "created_at": "2023-07-09T13:58:19Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Theta_Network",
+            "source": {
+                "title": "THETA Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@theta_network"
+            },
+            "title": "RT @CoinDesk: Hollywood legend and \"King of Cool\" Steve Mcqueen is being honored through a new motorcycle-themed NFT collection on @Theta_N\u2026",
+            "published_at": "2023-07-06T00:52:38Z",
+            "slug": "RT-CoinDesk-Hollywood-legend-and-King-of-Cool-Steve-Mcqueen-is-being-honored-through-a-new-motorcycle-themed-NFT-collection-on-Theta_N",
+            "currencies": [
+                {
+                    "code": "THETA",
+                    "title": "Theta Network",
+                    "slug": "theta-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/theta-token\/"
+                },
+                {
+                    "code": "TFUEL",
+                    "title": "Theta Fuel",
+                    "slug": "theta-fuel",
+                    "url": "https:\/\/cryptopanic.com\/news\/theta-fuel\/"
+                },
+                {
+                    "code": "TFUEL",
+                    "title": "Wrapped Theta Fuel",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18727045,
+            "url": "https:\/\/cryptopanic.com\/news\/18727045\/RT-CoinDesk-Hollywood-legend-and-King-of-Cool-Steve-Mcqueen-is-being-honored-through-a-new-motorcycle-themed-NFT-collection-on-Theta_N",
+            "created_at": "2023-07-06T00:52:38Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Theta_Network",
+            "source": {
+                "title": "THETA Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@theta_network"
+            },
+            "title": "RT @eth_barcelona: We are proud to announce the upcoming speakers that will be joining us in sunny Barcelona\ufe0f\n\nUp first: @w3Andrea from T\u2026",
+            "published_at": "2023-07-04T23:11:06Z",
+            "slug": "RT-eth_barcelona-We-are-proud-to-announce-the-upcoming-speakers-that-will-be-joining-us-in-sunny-Barcelona-Up-first-w3Andrea-from-T",
+            "currencies": [
+                {
+                    "code": "THETA",
+                    "title": "Theta Network",
+                    "slug": "theta-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/theta-token\/"
+                },
+                {
+                    "code": "TFUEL",
+                    "title": "Theta Fuel",
+                    "slug": "theta-fuel",
+                    "url": "https:\/\/cryptopanic.com\/news\/theta-fuel\/"
+                },
+                {
+                    "code": "TFUEL",
+                    "title": "Wrapped Theta Fuel",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18719011,
+            "url": "https:\/\/cryptopanic.com\/news\/18719011\/RT-eth_barcelona-We-are-proud-to-announce-the-upcoming-speakers-that-will-be-joining-us-in-sunny-Barcelona-Up-first-w3Andrea-from-T",
+            "created_at": "2023-07-04T23:11:06Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Theta_Network",
+            "source": {
+                "title": "THETA Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@theta_network"
+            },
+            "title": "RT @mitchliu: Quick update: the \"swap\" feature in the iOS Theta wallet had to be removed temporarily until Apple approves it. For now, you\u2026",
+            "published_at": "2023-07-02T17:40:43Z",
+            "slug": "RT-mitchliu-Quick-update-the-swap-feature-in-the-iOS-Theta-wallet-had-to-be-removed-temporarily-until-Apple-approves-it-For-now-you",
+            "currencies": [
+                {
+                    "code": "THETA",
+                    "title": "Theta Network",
+                    "slug": "theta-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/theta-token\/"
+                },
+                {
+                    "code": "TFUEL",
+                    "title": "Theta Fuel",
+                    "slug": "theta-fuel",
+                    "url": "https:\/\/cryptopanic.com\/news\/theta-fuel\/"
+                },
+                {
+                    "code": "TFUEL",
+                    "title": "Wrapped Theta Fuel",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18704629,
+            "url": "https:\/\/cryptopanic.com\/news\/18704629\/RT-mitchliu-Quick-update-the-swap-feature-in-the-iOS-Theta-wallet-had-to-be-removed-temporarily-until-Apple-approves-it-For-now-you",
+            "created_at": "2023-07-02T17:40:43Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Theta_Network",
+            "source": {
+                "title": "THETA Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@theta_network"
+            },
+            "title": "Great progress @ImagineReplay team! Replay subchain launching soon",
+            "published_at": "2023-07-02T10:14:33Z",
+            "slug": "Great-progress-ImagineReplay-team-Replay-subchain-launching-soon",
+            "currencies": [
+                {
+                    "code": "THETA",
+                    "title": "Theta Network",
+                    "slug": "theta-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/theta-token\/"
+                },
+                {
+                    "code": "TFUEL",
+                    "title": "Theta Fuel",
+                    "slug": "theta-fuel",
+                    "url": "https:\/\/cryptopanic.com\/news\/theta-fuel\/"
+                },
+                {
+                    "code": "TFUEL",
+                    "title": "Wrapped Theta Fuel",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18704630,
+            "url": "https:\/\/cryptopanic.com\/news\/18704630\/Great-progress-ImagineReplay-team-Replay-subchain-launching-soon",
+            "created_at": "2023-07-02T10:14:33Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Theta_Network",
+            "source": {
+                "title": "THETA Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@theta_network"
+            },
+            "title": "RT @spacejunkiesxyz: what happens in vegas......you share on twitter! shoutout to @Theta_Network making a \ud83e\udd16's dream come true!",
+            "published_at": "2023-07-01T00:06:06Z",
+            "slug": "RT-spacejunkiesxyz-what-happens-in-vegasyou-share-on-twitter-shoutout-to-Theta_Network-making-a-s-dream-come-true",
+            "currencies": [
+                {
+                    "code": "THETA",
+                    "title": "Theta Network",
+                    "slug": "theta-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/theta-token\/"
+                },
+                {
+                    "code": "TFUEL",
+                    "title": "Theta Fuel",
+                    "slug": "theta-fuel",
+                    "url": "https:\/\/cryptopanic.com\/news\/theta-fuel\/"
+                },
+                {
+                    "code": "TFUEL",
+                    "title": "Wrapped Theta Fuel",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18695930,
+            "url": "https:\/\/cryptopanic.com\/news\/18695930\/RT-spacejunkiesxyz-what-happens-in-vegasyou-share-on-twitter-shoutout-to-Theta_Network-making-a-s-dream-come-true",
+            "created_at": "2023-07-01T00:06:06Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Theta_Network",
+            "source": {
+                "title": "THETA Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@theta_network"
+            },
+            "title": "A new Theta AMA is coming in July! It will be hosted on @THETAtv with @mitchliu , @jieyilong , and @wes_levitt with\u2026",
+            "published_at": "2023-06-29T09:45:15Z",
+            "slug": "A-new-Theta-AMA-is-coming-in-July-It-will-be-hosted-on-THETAtv-with-mitchliu-jieyilong-and-wes_levitt-with",
+            "currencies": [
+                {
+                    "code": "THETA",
+                    "title": "Theta Network",
+                    "slug": "theta-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/theta-token\/"
+                },
+                {
+                    "code": "TFUEL",
+                    "title": "Theta Fuel",
+                    "slug": "theta-fuel",
+                    "url": "https:\/\/cryptopanic.com\/news\/theta-fuel\/"
+                },
+                {
+                    "code": "TFUEL",
+                    "title": "Wrapped Theta Fuel",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18680684,
+            "url": "https:\/\/cryptopanic.com\/news\/18680684\/A-new-Theta-AMA-is-coming-in-July-It-will-be-hosted-on-THETAtv-with-mitchliu-jieyilong-and-wes_levitt-with",
+            "created_at": "2023-06-29T09:45:15Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Theta_Network",
+            "source": {
+                "title": "THETA Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@theta_network"
+            },
+            "title": "RT @_SEG3_: Our next keynote sessions is well underway w\/ @w3Andrea, Head of Business Development at @Theta_Network explaining the future o\u2026",
+            "published_at": "2023-06-29T09:36:49Z",
+            "slug": "RT-_SEG3_-Our-next-keynote-sessions-is-well-underway-w-w3Andrea-Head-of-Business-Development-at-Theta_Network-explaining-the-future-o",
+            "currencies": [
+                {
+                    "code": "THETA",
+                    "title": "Theta Network",
+                    "slug": "theta-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/theta-token\/"
+                },
+                {
+                    "code": "TFUEL",
+                    "title": "Theta Fuel",
+                    "slug": "theta-fuel",
+                    "url": "https:\/\/cryptopanic.com\/news\/theta-fuel\/"
+                },
+                {
+                    "code": "TFUEL",
+                    "title": "Wrapped Theta Fuel",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18680686,
+            "url": "https:\/\/cryptopanic.com\/news\/18680686\/RT-_SEG3_-Our-next-keynote-sessions-is-well-underway-w-w3Andrea-Head-of-Business-Development-at-Theta_Network-explaining-the-future-o",
+            "created_at": "2023-06-29T09:36:49Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Theta_Network",
+            "source": {
+                "title": "THETA Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@theta_network"
+            },
+            "title": "The next in our Theta Hackathon profile series is our Runner Up: SmartStake, the ultimate NFT staking solution, unm\u2026",
+            "published_at": "2023-06-27T21:54:12Z",
+            "slug": "The-next-in-our-Theta-Hackathon-profile-series-is-our-Runner-Up-SmartStake-the-ultimate-NFT-staking-solution-unm",
+            "currencies": [
+                {
+                    "code": "THETA",
+                    "title": "Theta Network",
+                    "slug": "theta-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/theta-token\/"
+                },
+                {
+                    "code": "TFUEL",
+                    "title": "Theta Fuel",
+                    "slug": "theta-fuel",
+                    "url": "https:\/\/cryptopanic.com\/news\/theta-fuel\/"
+                },
+                {
+                    "code": "TFUEL",
+                    "title": "Wrapped Theta Fuel",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18672487,
+            "url": "https:\/\/cryptopanic.com\/news\/18672487\/The-next-in-our-Theta-Hackathon-profile-series-is-our-Runner-Up-SmartStake-the-ultimate-NFT-staking-solution-unm",
+            "created_at": "2023-06-27T21:54:12Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Theta_Network",
+            "source": {
+                "title": "THETA Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@theta_network"
+            },
+            "title": "RT @LavitaAI: News: LAVITA will be listed on BitMart, the first CEX listing! Starting June 29, 2023, at 10:00 AM UTC, you can trade LAVITA\/\u2026",
+            "published_at": "2023-06-26T23:50:12Z",
+            "slug": "RT-LavitaAI-News-LAVITA-will-be-listed-on-BitMart-the-first-CEX-listing-Starting-June-29-2023-at-1000-AM-UTC-you-can-trade-LAVITA",
+            "currencies": [
+                {
+                    "code": "THETA",
+                    "title": "Theta Network",
+                    "slug": "theta-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/theta-token\/"
+                },
+                {
+                    "code": "TFUEL",
+                    "title": "Theta Fuel",
+                    "slug": "theta-fuel",
+                    "url": "https:\/\/cryptopanic.com\/news\/theta-fuel\/"
+                },
+                {
+                    "code": "TFUEL",
+                    "title": "Wrapped Theta Fuel",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18664220,
+            "url": "https:\/\/cryptopanic.com\/news\/18664220\/RT-LavitaAI-News-LAVITA-will-be-listed-on-BitMart-the-first-CEX-listing-Starting-June-29-2023-at-1000-AM-UTC-you-can-trade-LAVITA",
+            "created_at": "2023-06-26T23:50:12Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Theta_Network",
+            "source": {
+                "title": "THETA Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@theta_network"
+            },
+            "title": "RT @ImagineReplay: Featured in @deadline! the word is out: \n\nwe're so proud to announce that #yugioh is coming to syndication on",
+            "published_at": "2023-06-26T23:50:07Z",
+            "slug": "RT-ImagineReplay-Featured-in-deadline-the-word-is-out-were-so-proud-to-announce-that-yugioh-is-coming-to-syndication-on",
+            "currencies": [
+                {
+                    "code": "THETA",
+                    "title": "Theta Network",
+                    "slug": "theta-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/theta-token\/"
+                },
+                {
+                    "code": "TFUEL",
+                    "title": "Theta Fuel",
+                    "slug": "theta-fuel",
+                    "url": "https:\/\/cryptopanic.com\/news\/theta-fuel\/"
+                },
+                {
+                    "code": "TFUEL",
+                    "title": "Wrapped Theta Fuel",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18664221,
+            "url": "https:\/\/cryptopanic.com\/news\/18664221\/RT-ImagineReplay-Featured-in-deadline-the-word-is-out-were-so-proud-to-announce-that-yugioh-is-coming-to-syndication-on",
+            "created_at": "2023-06-26T23:50:07Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Theta_Network",
+            "source": {
+                "title": "THETA Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@theta_network"
+            },
+            "title": "RT @spacejunkiesxyz: practice your wind up because Cosmic DIC  are about to go next level!",
+            "published_at": "2023-06-24T14:19:22Z",
+            "slug": "RT-spacejunkiesxyz-practice-your-wind-up-because-Cosmic-DIC-are-about-to-go-next-level",
+            "currencies": [
+                {
+                    "code": "THETA",
+                    "title": "Theta Network",
+                    "slug": "theta-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/theta-token\/"
+                },
+                {
+                    "code": "TFUEL",
+                    "title": "Theta Fuel",
+                    "slug": "theta-fuel",
+                    "url": "https:\/\/cryptopanic.com\/news\/theta-fuel\/"
+                },
+                {
+                    "code": "TFUEL",
+                    "title": "Wrapped Theta Fuel",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18651727,
+            "url": "https:\/\/cryptopanic.com\/news\/18651727\/RT-spacejunkiesxyz-practice-your-wind-up-because-Cosmic-DIC-are-about-to-go-next-level",
+            "created_at": "2023-06-24T14:19:22Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Theta_Network",
+            "source": {
+                "title": "THETA Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@theta_network"
+            },
+            "title": "Another successful Theta Hacakathon has finished, with more submissions than ever before &amp; some standout winners! T\u2026",
+            "published_at": "2023-06-19T18:25:43Z",
+            "slug": "Another-successful-Theta-Hacakathon-has-finished-with-more-submissions-than-ever-before-amp-some-standout-winners-T",
+            "currencies": [
+                {
+                    "code": "THETA",
+                    "title": "Theta Network",
+                    "slug": "theta-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/theta-token\/"
+                },
+                {
+                    "code": "TFUEL",
+                    "title": "Theta Fuel",
+                    "slug": "theta-fuel",
+                    "url": "https:\/\/cryptopanic.com\/news\/theta-fuel\/"
+                },
+                {
+                    "code": "TFUEL",
+                    "title": "Wrapped Theta Fuel",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18615328,
+            "url": "https:\/\/cryptopanic.com\/news\/18615328\/Another-successful-Theta-Hacakathon-has-finished-with-more-submissions-than-ever-before-amp-some-standout-winners-T",
+            "created_at": "2023-06-19T18:25:43Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Theta_Network",
+            "source": {
+                "title": "THETA Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@theta_network"
+            },
+            "title": "Check out this incredible success story featuring @Sony, our esteemed partner for years. Together, we are shaping t\u2026",
+            "published_at": "2023-06-16T17:56:42Z",
+            "slug": "Check-out-this-incredible-success-story-featuring-Sony-our-esteemed-partner-for-years-Together-we-are-shaping-t",
+            "currencies": [
+                {
+                    "code": "THETA",
+                    "title": "Theta Network",
+                    "slug": "theta-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/theta-token\/"
+                },
+                {
+                    "code": "TFUEL",
+                    "title": "Theta Fuel",
+                    "slug": "theta-fuel",
+                    "url": "https:\/\/cryptopanic.com\/news\/theta-fuel\/"
+                },
+                {
+                    "code": "TFUEL",
+                    "title": "Wrapped Theta Fuel",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18598562,
+            "url": "https:\/\/cryptopanic.com\/news\/18598562\/Check-out-this-incredible-success-story-featuring-Sony-our-esteemed-partner-for-years-Together-we-are-shaping-t",
+            "created_at": "2023-06-16T17:56:42Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Theta_Network",
+            "source": {
+                "title": "THETA Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@theta_network"
+            },
+            "title": "RT @mitchliu: @DappRadar \"Theta, with its specialization in decentralized video streaming, is poised to redefine the entertainment industry\u2026",
+            "published_at": "2023-06-15T15:37:00Z",
+            "slug": "RT-mitchliu-DappRadar-Theta-with-its-specialization-in-decentralized-video-streaming-is-poised-to-redefine-the-entertainment-industry",
+            "currencies": [
+                {
+                    "code": "THETA",
+                    "title": "Theta Network",
+                    "slug": "theta-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/theta-token\/"
+                },
+                {
+                    "code": "TFUEL",
+                    "title": "Theta Fuel",
+                    "slug": "theta-fuel",
+                    "url": "https:\/\/cryptopanic.com\/news\/theta-fuel\/"
+                },
+                {
+                    "code": "TFUEL",
+                    "title": "Wrapped Theta Fuel",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18590417,
+            "url": "https:\/\/cryptopanic.com\/news\/18590417\/RT-mitchliu-DappRadar-Theta-with-its-specialization-in-decentralized-video-streaming-is-poised-to-redefine-the-entertainment-industry",
+            "created_at": "2023-06-15T15:37:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Theta_Network",
+            "source": {
+                "title": "THETA Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@theta_network"
+            },
+            "title": "Theta Video API has now enabled the Billing Dashboard, a key new feature to becoming a fully-fledged decentralized\u2026",
+            "published_at": "2023-06-14T21:39:36Z",
+            "slug": "Theta-Video-API-has-now-enabled-the-Billing-Dashboard-a-key-new-feature-to-becoming-a-fully-fledged-decentralized",
+            "currencies": [
+                {
+                    "code": "THETA",
+                    "title": "Theta Network",
+                    "slug": "theta-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/theta-token\/"
+                },
+                {
+                    "code": "TFUEL",
+                    "title": "Theta Fuel",
+                    "slug": "theta-fuel",
+                    "url": "https:\/\/cryptopanic.com\/news\/theta-fuel\/"
+                },
+                {
+                    "code": "TFUEL",
+                    "title": "Wrapped Theta Fuel",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18590418,
+            "url": "https:\/\/cryptopanic.com\/news\/18590418\/Theta-Video-API-has-now-enabled-the-Billing-Dashboard-a-key-new-feature-to-becoming-a-fully-fledged-decentralized",
+            "created_at": "2023-06-14T21:39:36Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Theta_Network",
+            "source": {
+                "title": "THETA Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@theta_network"
+            },
+            "title": "RT @DCP_Foundation: T4L3NT Cast episode 18 just dropped! \n\nThis week we sat down with @Theta_Network's Executive @w3Andrea to discuss all\u2026",
+            "published_at": "2023-06-13T20:44:38Z",
+            "slug": "RT-DCP_Foundation-T4L3NT-Cast-episode-18-just-dropped-This-week-we-sat-down-with-Theta_Networks-Executive-w3Andrea-to-discuss-all",
+            "currencies": [
+                {
+                    "code": "THETA",
+                    "title": "Theta Network",
+                    "slug": "theta-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/theta-token\/"
+                },
+                {
+                    "code": "TFUEL",
+                    "title": "Theta Fuel",
+                    "slug": "theta-fuel",
+                    "url": "https:\/\/cryptopanic.com\/news\/theta-fuel\/"
+                },
+                {
+                    "code": "TFUEL",
+                    "title": "Wrapped Theta Fuel",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18573887,
+            "url": "https:\/\/cryptopanic.com\/news\/18573887\/RT-DCP_Foundation-T4L3NT-Cast-episode-18-just-dropped-This-week-we-sat-down-with-Theta_Networks-Executive-w3Andrea-to-discuss-all",
+            "created_at": "2023-06-13T20:44:38Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

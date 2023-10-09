@@ -1,0 +1,749 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=SEI&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "coindesk.com",
+            "source": {
+                "title": "CoinDesk",
+                "region": "en",
+                "domain": "coindesk.com",
+                "path": null
+            },
+            "title": "Sei, Blockchain Designed for Trading, Goes Live but 'Frustration' Mounts Over Airdrop",
+            "published_at": "2023-08-16T17:38:16Z",
+            "slug": "Sei-Blockchain-Designed-for-Trading-Goes-Live-but-Frustration-Mounts-Over-Airdrop",
+            "currencies": [
+                {
+                    "code": "ATOM",
+                    "title": "Cosmos Hub",
+                    "slug": "cosmos",
+                    "url": "https:\/\/cryptopanic.com\/news\/cosmos\/"
+                },
+                {
+                    "code": "SEI",
+                    "title": "Sei",
+                    "slug": "sei-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/sei-network\/"
+                }
+            ],
+            "id": 18841342,
+            "url": "https:\/\/cryptopanic.com\/news\/18841342\/Sei-Blockchain-Designed-for-Trading-Goes-Live-but-Frustration-Mounts-Over-Airdrop",
+            "created_at": "2023-08-16T17:38:16Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptodaily.co.uk",
+            "source": {
+                "title": "CryptoDaily",
+                "region": "en",
+                "domain": "cryptodaily.co.uk",
+                "path": null
+            },
+            "title": "Sei Labs Announces Mainnet Beta Launch",
+            "published_at": "2023-08-16T13:50:00Z",
+            "slug": "Sei-Labs-Announces-Mainnet-Beta-Launch",
+            "currencies": [
+                {
+                    "code": "SEI",
+                    "title": "Sei",
+                    "slug": "sei-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/sei-network\/"
+                }
+            ],
+            "id": 18840793,
+            "url": "https:\/\/cryptopanic.com\/news\/18840793\/Sei-Labs-Announces-Mainnet-Beta-Launch",
+            "created_at": "2023-08-16T13:50:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinedition.com",
+            "source": {
+                "title": "coinedition",
+                "region": "en",
+                "domain": "coinedition.com",
+                "path": null
+            },
+            "title": "SEI and BONE Soar; SEI Enters Top 100 Coins on CoinMarketCap",
+            "published_at": "2023-08-16T13:41:47Z",
+            "slug": "SEI-and-BONE-Soar-SEI-Enters-Top-100-Coins-on-CoinMarketCap",
+            "currencies": [
+                {
+                    "code": "SEI",
+                    "title": "Sei",
+                    "slug": "sei-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/sei-network\/"
+                }
+            ],
+            "id": 18840783,
+            "url": "https:\/\/cryptopanic.com\/news\/18840783\/SEI-and-BONE-Soar-SEI-Enters-Top-100-Coins-on-CoinMarketCap",
+            "created_at": "2023-08-16T13:41:47Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "SEI Token Breaks Into Top 100 One Day Post-Debut On Major Exchanges",
+            "published_at": "2023-08-16T11:50:26Z",
+            "slug": "SEI-Token-Breaks-Into-Top-100-One-Day-Post-Debut-On-Major-Exchanges",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "SHIB",
+                    "title": "Shiba Inu",
+                    "slug": "shiba-inu",
+                    "url": "https:\/\/cryptopanic.com\/news\/shiba-inu\/"
+                },
+                {
+                    "code": "WBTC",
+                    "title": "Wrapped Bitcoin",
+                    "slug": "wrapped-bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-bitcoin\/"
+                },
+                {
+                    "code": "KCS",
+                    "title": "KuCoin",
+                    "slug": "kucoin-shares",
+                    "url": "https:\/\/cryptopanic.com\/news\/kucoin-shares\/"
+                },
+                {
+                    "code": "SEI",
+                    "title": "Sei",
+                    "slug": "sei-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/sei-network\/"
+                }
+            ],
+            "id": 18840418,
+            "url": "https:\/\/cryptopanic.com\/news\/18840418\/SEI-Token-Breaks-Into-Top-100-One-Day-Post-Debut-On-Major-Exchanges",
+            "created_at": "2023-08-16T11:50:26Z"
+        },
+        {
+            "kind": "news",
+            "domain": "coingape.com",
+            "source": {
+                "title": "CoinGape",
+                "region": "en",
+                "domain": "coingape.com",
+                "path": null
+            },
+            "title": "SEI Price Surges 30X; Coinbase Listing, Sei Mainnet Launches",
+            "published_at": "2023-08-16T11:09:22Z",
+            "slug": "SEI-Price-Surges-30X-Coinbase-Listing-Sei-Mainnet-Launches",
+            "currencies": [
+                {
+                    "code": "SEI",
+                    "title": "Sei",
+                    "slug": "sei-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/sei-network\/"
+                }
+            ],
+            "id": 18840212,
+            "url": "https:\/\/cryptopanic.com\/news\/18840212\/SEI-Price-Surges-30X-Coinbase-Listing-Sei-Mainnet-Launches",
+            "created_at": "2023-08-16T11:09:22Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "finbold.com",
+            "votes": {
+                "negative": 0,
+                "positive": 4,
+                "important": 2,
+                "liked": 2,
+                "disliked": 0,
+                "lol": 1,
+                "toxic": 0,
+                "saved": 1,
+                "comments": 0
+            },
+            "source": {
+                "title": "Finbold",
+                "region": "en",
+                "domain": "finbold.com",
+                "path": null
+            },
+            "title": "SEI token skyrockets over 3,000% on crypto exchange listings",
+            "published_at": "2023-08-16T10:38:37Z",
+            "slug": "SEI-token-skyrockets-over-3000-on-crypto-exchange-listings",
+            "currencies": [
+                {
+                    "code": "SEI",
+                    "title": "Sei",
+                    "slug": "sei-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/sei-network\/"
+                }
+            ],
+            "id": 18840221,
+            "url": "https:\/\/cryptopanic.com\/news\/18840221\/SEI-token-skyrockets-over-3000-on-crypto-exchange-listings",
+            "created_at": "2023-08-16T10:38:37Z"
+        },
+        {
+            "kind": "news",
+            "domain": "decrypt.co",
+            "source": {
+                "title": "Decrypt",
+                "region": "en",
+                "domain": "decrypt.co",
+                "path": null
+            },
+            "title": "Trading Volumes for Newly Launched SEI Token Topped $1B in One Day",
+            "published_at": "2023-08-16T10:30:08Z",
+            "slug": "Trading-Volumes-for-Newly-Launched-SEI-Token-Topped-1B-in-One-Day",
+            "currencies": [
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                },
+                {
+                    "code": "SEI",
+                    "title": "Sei",
+                    "slug": "sei-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/sei-network\/"
+                }
+            ],
+            "id": 18840219,
+            "url": "https:\/\/cryptopanic.com\/news\/18840219\/Trading-Volumes-for-Newly-Launched-SEI-Token-Topped-1B-in-One-Day",
+            "created_at": "2023-08-16T10:30:08Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "feeds2.benzinga.com",
+            "source": {
+                "title": "Benzinga",
+                "region": "en",
+                "domain": "feeds2.benzinga.com",
+                "path": null
+            },
+            "title": "SEI Token's Spectacular 29% Surge Steals Spotlight Amid Bitcoin, Ethereum Dip: What's Going On?",
+            "published_at": "2023-08-16T09:07:13Z",
+            "slug": "SEI-Tokens-Spectacular-29-Surge-Steals-Spotlight-Amid-Bitcoin-Ethereum-Dip-Whats-Going-On",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "SEI",
+                    "title": "Sei",
+                    "slug": "sei-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/sei-network\/"
+                }
+            ],
+            "id": 18840041,
+            "url": "https:\/\/cryptopanic.com\/news\/18840041\/SEI-Tokens-Spectacular-29-Surge-Steals-Spotlight-Amid-Bitcoin-Ethereum-Dip-Whats-Going-On",
+            "created_at": "2023-08-16T09:07:13Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptopotato.com",
+            "source": {
+                "title": "Feed - Cryptopotato.Com",
+                "region": "en",
+                "domain": "cryptopotato.com",
+                "path": null
+            },
+            "title": "SEI Price Explodes 12% on Coinbase Listing",
+            "published_at": "2023-08-16T07:50:21Z",
+            "slug": "SEI-Price-Explodes-12-on-Coinbase-Listing",
+            "currencies": [
+                {
+                    "code": "SEI",
+                    "title": "Sei",
+                    "slug": "sei-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/sei-network\/"
+                }
+            ],
+            "id": 18839868,
+            "url": "https:\/\/cryptopanic.com\/news\/18839868\/SEI-Price-Explodes-12-on-Coinbase-Listing",
+            "created_at": "2023-08-16T07:50:21Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "theblock.co",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "The Block",
+                "region": "en",
+                "domain": "theblock.co",
+                "path": null
+            },
+            "title": "SEI sees trading spike centered in South Korea",
+            "published_at": "2023-08-16T07:26:10Z",
+            "slug": "SEI-sees-trading-spike-centered-in-South-Korea",
+            "currencies": [
+                {
+                    "code": "SEI",
+                    "title": "Sei",
+                    "slug": "sei-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/sei-network\/"
+                }
+            ],
+            "id": 18839814,
+            "url": "https:\/\/cryptopanic.com\/news\/18839814\/SEI-sees-trading-spike-centered-in-South-Korea",
+            "created_at": "2023-08-16T07:26:10Z"
+        },
+        {
+            "kind": "news",
+            "domain": "@SeiNetwork",
+            "source": {
+                "title": "Sei Network Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@seinetwork"
+            },
+            "title": "RT @Aether_Protocol: 1\/\n\ud83e\udde0 \ud83e\uddf5\nHow @SeiNetwork is solving a DeFi problem nobody is talking about: Latency",
+            "published_at": "2023-07-12T01:41:32Z",
+            "slug": "RT-Aether_Protocol-1-How-SeiNetwork-is-solving-a-DeFi-problem-nobody-is-talking-about-Latency",
+            "currencies": [
+                {
+                    "code": "SEI",
+                    "title": "Sei Network",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18766978,
+            "url": "https:\/\/cryptopanic.com\/news\/18766978\/RT-Aether_Protocol-1-How-SeiNetwork-is-solving-a-DeFi-problem-nobody-is-talking-about-Latency",
+            "created_at": "2023-07-12T01:41:32Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@SeiNetwork",
+            "source": {
+                "title": "Sei Network Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@seinetwork"
+            },
+            "title": "RT @TheDeFiNetwork: Digital assets have been transforming the world, from DeFi to NFTs, gaming, and social platforms.\n\nYet, the exchange of\u2026",
+            "published_at": "2023-07-11T17:59:35Z",
+            "slug": "RT-TheDeFiNetwork-Digital-assets-have-been-transforming-the-world-from-DeFi-to-NFTs-gaming-and-social-platforms-Yet-the-exchange-of",
+            "currencies": [
+                {
+                    "code": "SEI",
+                    "title": "Sei Network",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18766979,
+            "url": "https:\/\/cryptopanic.com\/news\/18766979\/RT-TheDeFiNetwork-Digital-assets-have-been-transforming-the-world-from-DeFi-to-NFTs-gaming-and-social-platforms-Yet-the-exchange-of",
+            "created_at": "2023-07-11T17:59:35Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@SeiNetwork",
+            "source": {
+                "title": "Sei Network Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@seinetwork"
+            },
+            "title": "The Sei team will be sailing into Paris for #EthCC from July 16th-21st \ud83c\uddeb\ud83c\uddf7\n\nExcited to dock in the city renowned for\u2026",
+            "published_at": "2023-07-11T01:01:00Z",
+            "slug": "The-Sei-team-will-be-sailing-into-Paris-for-EthCC-from-July-16th-21st-Excited-to-dock-in-the-city-renowned-for",
+            "currencies": [
+                {
+                    "code": "SEI",
+                    "title": "Sei Network",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18758753,
+            "url": "https:\/\/cryptopanic.com\/news\/18758753\/The-Sei-team-will-be-sailing-into-Paris-for-EthCC-from-July-16th-21st-Excited-to-dock-in-the-city-renowned-for",
+            "created_at": "2023-07-11T01:01:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@SeiNetwork",
+            "source": {
+                "title": "Sei Network Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@seinetwork"
+            },
+            "title": "RT @alvin_kan: Great to have shared the stage with @imlethanh98, founder of coin98, to talk more about web3 growth in APAC #GMVietnam @SeiN\u2026",
+            "published_at": "2023-07-08T14:03:52Z",
+            "slug": "RT-alvin_kan-Great-to-have-shared-the-stage-with-imlethanh98-founder-of-coin98-to-talk-more-about-web3-growth-in-APAC-GMVietnam-SeiN",
+            "currencies": [
+                {
+                    "code": "SEI",
+                    "title": "Sei Network",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18746839,
+            "url": "https:\/\/cryptopanic.com\/news\/18746839\/RT-alvin_kan-Great-to-have-shared-the-stage-with-imlethanh98-founder-of-coin98-to-talk-more-about-web3-growth-in-APAC-GMVietnam-SeiN",
+            "created_at": "2023-07-08T14:03:52Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@SeiNetwork",
+            "source": {
+                "title": "Sei Network Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@seinetwork"
+            },
+            "title": "GM Vietnam!\n\nSei Foundation's head of Asia, Alvin Kan, will be speaking at @gmvn_official, on how Sei will play a k\u2026",
+            "published_at": "2023-07-08T01:13:01Z",
+            "slug": "GM-Vietnam-Sei-Foundations-head-of-Asia-Alvin-Kan-will-be-speaking-at-gmvn_official-on-how-Sei-will-play-a-k",
+            "currencies": [
+                {
+                    "code": "SEI",
+                    "title": "Sei Network",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18742396,
+            "url": "https:\/\/cryptopanic.com\/news\/18742396\/GM-Vietnam-Sei-Foundations-head-of-Asia-Alvin-Kan-will-be-speaking-at-gmvn_official-on-how-Sei-will-play-a-k",
+            "created_at": "2023-07-08T01:13:01Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@SeiNetwork",
+            "source": {
+                "title": "Sei Network Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@seinetwork"
+            },
+            "title": "RT @Kawafinance: We are thrilled to announce the deployment of @Kawafinance on @SeiNetwork \n\nThis strategic approach allows us to leverage\u2026",
+            "published_at": "2023-07-07T16:17:58Z",
+            "slug": "RT-Kawafinance-We-are-thrilled-to-announce-the-deployment-of-Kawafinance-on-SeiNetwork-This-strategic-approach-allows-us-to-leverage",
+            "currencies": [
+                {
+                    "code": "SEI",
+                    "title": "Sei Network",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18742397,
+            "url": "https:\/\/cryptopanic.com\/news\/18742397\/RT-Kawafinance-We-are-thrilled-to-announce-the-deployment-of-Kawafinance-on-SeiNetwork-This-strategic-approach-allows-us-to-leverage",
+            "created_at": "2023-07-07T16:17:58Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@SeiNetwork",
+            "source": {
+                "title": "Sei Network Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@seinetwork"
+            },
+            "title": "RT @OnePieceLabs:  Introducing: Twitter Space Event - \u201cAI + Web3 Pitch Competition Recap: Winners Announcement\u201d\n\n Date: July 9th (Sunday\u2026",
+            "published_at": "2023-07-06T17:50:14Z",
+            "slug": "RT-OnePieceLabs-Introducing-Twitter-Space-Event-AI-Web3-Pitch-Competition-Recap-Winners-Announcement-Date-July-9th-Sunday",
+            "currencies": [
+                {
+                    "code": "SEI",
+                    "title": "Sei Network",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18735147,
+            "url": "https:\/\/cryptopanic.com\/news\/18735147\/RT-OnePieceLabs-Introducing-Twitter-Space-Event-AI-Web3-Pitch-Competition-Recap-Winners-Announcement-Date-July-9th-Sunday",
+            "created_at": "2023-07-06T17:50:14Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@SeiNetwork",
+            "source": {
+                "title": "Sei Network Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@seinetwork"
+            },
+            "title": "Seilors, Welcome Blockus to the Sei Ecosystem! \ufe0f\n\nGaming on Sei just reached a new level with the introduction of\u2026",
+            "published_at": "2023-07-06T16:59:53Z",
+            "slug": "Seilors-Welcome-Blockus-to-the-Sei-Ecosystem-Gaming-on-Sei-just-reached-a-new-level-with-the-introduction-of",
+            "currencies": [
+                {
+                    "code": "SEI",
+                    "title": "Sei Network",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18735148,
+            "url": "https:\/\/cryptopanic.com\/news\/18735148\/Seilors-Welcome-Blockus-to-the-Sei-Ecosystem-Gaming-on-Sei-just-reached-a-new-level-with-the-introduction-of",
+            "created_at": "2023-07-06T16:59:53Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@SeiNetwork",
+            "source": {
+                "title": "Sei Network Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@seinetwork"
+            },
+            "title": "RT @OnePieceLabs: Join @OnePieceLabs &amp; @SeiNetwork for an epic 3-day hybrid #Hackathon on Sept 8-10! Unleash creativity online + on-site\u2026",
+            "published_at": "2023-07-06T02:00:58Z",
+            "slug": "RT-OnePieceLabs-Join-OnePieceLabs-amp-SeiNetwork-for-an-epic-3-day-hybrid-Hackathon-on-Sept-8-10-Unleash-creativity-online-on-site",
+            "currencies": [
+                {
+                    "code": "SEI",
+                    "title": "Sei Network",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18726645,
+            "url": "https:\/\/cryptopanic.com\/news\/18726645\/RT-OnePieceLabs-Join-OnePieceLabs-amp-SeiNetwork-for-an-epic-3-day-hybrid-Hackathon-on-Sept-8-10-Unleash-creativity-online-on-site",
+            "created_at": "2023-07-06T02:00:58Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@SeiNetwork",
+            "source": {
+                "title": "Sei Network Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@seinetwork"
+            },
+            "title": "Seilors, game on! \n\nWe're welcoming @HelloTatami, Web3\u2019s first fully dedicated Game Publisher, to the Sei Ecosyste\u2026",
+            "published_at": "2023-07-05T20:03:31Z",
+            "slug": "Seilors-game-on-Were-welcoming-HelloTatami-Web3s-first-fully-dedicated-Game-Publisher-to-the-Sei-Ecosyste",
+            "currencies": [
+                {
+                    "code": "SEI",
+                    "title": "Sei Network",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18726646,
+            "url": "https:\/\/cryptopanic.com\/news\/18726646\/Seilors-game-on-Were-welcoming-HelloTatami-Web3s-first-fully-dedicated-Game-Publisher-to-the-Sei-Ecosyste",
+            "created_at": "2023-07-05T20:03:31Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

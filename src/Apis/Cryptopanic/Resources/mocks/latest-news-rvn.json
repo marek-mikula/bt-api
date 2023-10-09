@@ -1,0 +1,1073 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=RVN&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "STEPN (GMT) Holds Gains While Many Top Coins Taste Declines",
+            "published_at": "2022-09-29T00:39:12Z",
+            "slug": "STEPN-GMT-Holds-Gains-While-Many-Top-Coins-Taste-Declines",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "BAT",
+                    "title": "Basic Attention",
+                    "slug": "basic-attention-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/basic-attention-token\/"
+                },
+                {
+                    "code": "RVN",
+                    "title": "Ravencoin",
+                    "slug": "ravencoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/ravencoin\/"
+                },
+                {
+                    "code": "GMT",
+                    "title": "STEPN",
+                    "slug": "stepn",
+                    "url": "https:\/\/cryptopanic.com\/news\/stepn\/"
+                }
+            ],
+            "id": 16460463,
+            "url": "https:\/\/cryptopanic.com\/news\/16460463\/STEPN-GMT-Holds-Gains-While-Many-Top-Coins-Taste-Declines",
+            "created_at": "2022-09-29T00:39:12Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "votes": {
+                "negative": 2,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Cardano Price Misses Fireworks On Its Birthday, How Far Will ADA Fall?",
+            "published_at": "2022-09-28T12:53:53Z",
+            "slug": "Cardano-Price-Misses-Fireworks-On-Its-Birthday-How-Far-Will-ADA-Fall",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "ADA",
+                    "title": "Cardano",
+                    "slug": "cardano",
+                    "url": "https:\/\/cryptopanic.com\/news\/cardano\/"
+                },
+                {
+                    "code": "ETC",
+                    "title": "Ethereum Classic",
+                    "slug": "ethereum-classic",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum-classic\/"
+                },
+                {
+                    "code": "FTM",
+                    "title": "Fantom",
+                    "slug": "fantom",
+                    "url": "https:\/\/cryptopanic.com\/news\/fantom\/"
+                },
+                {
+                    "code": "RVN",
+                    "title": "Ravencoin",
+                    "slug": "ravencoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/ravencoin\/"
+                }
+            ],
+            "id": 16458045,
+            "url": "https:\/\/cryptopanic.com\/news\/16458045\/Cardano-Price-Misses-Fireworks-On-Its-Birthday-How-Far-Will-ADA-Fall",
+            "created_at": "2022-09-28T12:53:53Z"
+        },
+        {
+            "kind": "news",
+            "domain": "@foxdcoin",
+            "source": {
+                "title": "Foxdcoin Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@foxdcoin"
+            },
+            "title": "RT @g0nz0b0ards: Look, 36 more $DGB , 45 more $RVN , &amp; 22,905 more $FOXD , \ud83e\udd29\ud83e\udd73\ud83e\uddca\ud83e\ude82stacking these coins #decentralized #Crypto from a #GameSh\u2026",
+            "published_at": "2022-09-26T08:17:12Z",
+            "slug": "RT-g0nz0b0ards-Look-36-more-DGB-45-more-RVN-amp-22905-more-FOXD-stacking-these-coins-decentralized-Crypto-from-a-GameSh",
+            "currencies": [
+                {
+                    "code": "FOXD",
+                    "title": "Foxdcoin",
+                    "slug": "foxdcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/foxdcoin\/"
+                },
+                {
+                    "code": "RVN",
+                    "title": "Ravencoin",
+                    "slug": "ravencoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/ravencoin\/"
+                }
+            ],
+            "id": 16441534,
+            "url": "https:\/\/cryptopanic.com\/news\/16441534\/RT-g0nz0b0ards-Look-36-more-DGB-45-more-RVN-amp-22905-more-FOXD-stacking-these-coins-decentralized-Crypto-from-a-GameSh",
+            "created_at": "2022-09-26T08:17:12Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@CallistoSupport",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "Callisto Network Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@callistosupport"
+            },
+            "title": "Where Are Ravencoin And Ethereum Classic\u2019s Hashrates Fleeing?\n\n\"The best-performing coin seems to be $CLO from\u2026",
+            "published_at": "2022-09-23T22:44:43Z",
+            "slug": "Where-Are-Ravencoin-And-Ethereum-Classics-Hashrates-Fleeing-The-best-performing-coin-seems-to-be-CLO-from",
+            "currencies": [
+                {
+                    "code": "CLO",
+                    "title": "Callisto Network",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                },
+                {
+                    "code": "CLO",
+                    "title": "Callisto Network",
+                    "slug": "callisto",
+                    "url": "https:\/\/cryptopanic.com\/news\/callisto\/"
+                },
+                {
+                    "code": "RVN",
+                    "title": "Ravencoin",
+                    "slug": "ravencoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/ravencoin\/"
+                }
+            ],
+            "id": 16417686,
+            "url": "https:\/\/cryptopanic.com\/news\/16417686\/Where-Are-Ravencoin-And-Ethereum-Classics-Hashrates-Fleeing-The-best-performing-coin-seems-to-be-CLO-from",
+            "created_at": "2022-09-23T22:44:43Z"
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Chiliz (CHZ) Leads The Market By Adding Over 30% A Week In Bear",
+            "published_at": "2022-09-23T22:04:57Z",
+            "slug": "Chiliz-CHZ-Leads-The-Market-By-Adding-Over-30-A-Week-In-Bear",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "DOT",
+                    "title": "Polkadot",
+                    "slug": "polkadot",
+                    "url": "https:\/\/cryptopanic.com\/news\/polkadot\/"
+                },
+                {
+                    "code": "ETC",
+                    "title": "Ethereum Classic",
+                    "slug": "ethereum-classic",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum-classic\/"
+                },
+                {
+                    "code": "XCN",
+                    "title": "Chain",
+                    "slug": "chain-2",
+                    "url": "https:\/\/cryptopanic.com\/news\/chain-2\/"
+                },
+                {
+                    "code": "CHZ",
+                    "title": "Chiliz",
+                    "slug": "chiliz",
+                    "url": "https:\/\/cryptopanic.com\/news\/chiliz\/"
+                },
+                {
+                    "code": "RVN",
+                    "title": "Ravencoin",
+                    "slug": "ravencoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/ravencoin\/"
+                }
+            ],
+            "id": 16416107,
+            "url": "https:\/\/cryptopanic.com\/news\/16416107\/Chiliz-CHZ-Leads-The-Market-By-Adding-Over-30-A-Week-In-Bear",
+            "created_at": "2022-09-23T22:04:57Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Compound Prepares For A Major Rally To $80, Here Is Why",
+            "published_at": "2022-09-23T20:11:34Z",
+            "slug": "Compound-Prepares-For-A-Major-Rally-To-80-Here-Is-Why",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "USDT",
+                    "title": "Tether",
+                    "slug": "tether",
+                    "url": "https:\/\/cryptopanic.com\/news\/tether\/"
+                },
+                {
+                    "code": "DOT",
+                    "title": "Polkadot",
+                    "slug": "polkadot",
+                    "url": "https:\/\/cryptopanic.com\/news\/polkadot\/"
+                },
+                {
+                    "code": "ETC",
+                    "title": "Ethereum Classic",
+                    "slug": "ethereum-classic",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum-classic\/"
+                },
+                {
+                    "code": "RVN",
+                    "title": "Ravencoin",
+                    "slug": "ravencoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/ravencoin\/"
+                },
+                {
+                    "code": "COMP",
+                    "title": "Compound",
+                    "slug": "compound-governance-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/compound-governance-token\/"
+                }
+            ],
+            "id": 16415837,
+            "url": "https:\/\/cryptopanic.com\/news\/16415837\/Compound-Prepares-For-A-Major-Rally-To-80-Here-Is-Why",
+            "created_at": "2022-09-23T20:11:34Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 1,
+                "disliked": 1,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "PoW Tokens Take A Hit: Ravencoin and Ethereum Classic Crash Over 20%",
+            "published_at": "2022-09-23T17:11:25Z",
+            "slug": "PoW-Tokens-Take-A-Hit-Ravencoin-and-Ethereum-Classic-Crash-Over-20",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "ETC",
+                    "title": "Ethereum Classic",
+                    "slug": "ethereum-classic",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum-classic\/"
+                },
+                {
+                    "code": "RVN",
+                    "title": "Ravencoin",
+                    "slug": "ravencoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/ravencoin\/"
+                }
+            ],
+            "id": 16415302,
+            "url": "https:\/\/cryptopanic.com\/news\/16415302\/PoW-Tokens-Take-A-Hit-Ravencoin-and-Ethereum-Classic-Crash-Over-20",
+            "created_at": "2022-09-23T17:11:25Z"
+        },
+        {
+            "kind": "news",
+            "domain": "@CoinDiscoveryy",
+            "source": {
+                "title": "Coin Discovery Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@coindiscoveryy"
+            },
+            "title": "WHAT'S HOT: Double-digit losses are being experienced by Ravencoin and Ethereum Classic, two potential post-merge h\u2026",
+            "published_at": "2022-09-22T01:00:22Z",
+            "slug": "WHATS-HOT-Double-digit-losses-are-being-experienced-by-Ravencoin-and-Ethereum-Classic-two-potential-post-merge-h",
+            "currencies": [
+                {
+                    "code": "CODI",
+                    "title": "Coin Discovery",
+                    "slug": "coin-discovery",
+                    "url": "https:\/\/cryptopanic.com\/news\/coin-discovery\/"
+                },
+                {
+                    "code": "RVN",
+                    "title": "Ravencoin",
+                    "slug": "ravencoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/ravencoin\/"
+                }
+            ],
+            "id": 16397481,
+            "url": "https:\/\/cryptopanic.com\/news\/16397481\/WHATS-HOT-Double-digit-losses-are-being-experienced-by-Ravencoin-and-Ethereum-Classic-two-potential-post-merge-h",
+            "created_at": "2022-09-22T01:00:22Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GoodPersonCoin",
+            "source": {
+                "title": "Good Person Coin Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@goodpersoncoin"
+            },
+            "title": "RT @CryptoHallmark: DAILY #Crypto MARKET UPDATE: 20th September 2022\ufe0f\n\nTop Gainers: $ALGO $XLM $XRP $COMP $APE $RVN $GRT \n\nNew ATH: $LOOP\u2026",
+            "published_at": "2022-09-21T06:46:38Z",
+            "slug": "RT-CryptoHallmark-DAILY-Crypto-MARKET-UPDATE-20th-September-2022-Top-Gainers-ALGO-XLM-XRP-COMP-APE-RVN-GRT-New-ATH-LOOP",
+            "currencies": [
+                {
+                    "code": "GPCX",
+                    "title": "Good Person Coin",
+                    "slug": "good-person-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/good-person-coin\/"
+                },
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                },
+                {
+                    "code": "XLM",
+                    "title": "Stellar",
+                    "slug": "stellar",
+                    "url": "https:\/\/cryptopanic.com\/news\/stellar\/"
+                },
+                {
+                    "code": "ALGO",
+                    "title": "Algorand",
+                    "slug": "algorand",
+                    "url": "https:\/\/cryptopanic.com\/news\/algorand\/"
+                },
+                {
+                    "code": "APE",
+                    "title": "ApeCoin",
+                    "slug": "apecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/apecoin\/"
+                },
+                {
+                    "code": "GRT",
+                    "title": "The Graph",
+                    "slug": "the-graph",
+                    "url": "https:\/\/cryptopanic.com\/news\/the-graph\/"
+                },
+                {
+                    "code": "RVN",
+                    "title": "Ravencoin",
+                    "slug": "ravencoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/ravencoin\/"
+                },
+                {
+                    "code": "COMP",
+                    "title": "Compound",
+                    "slug": "compound-governance-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/compound-governance-token\/"
+                }
+            ],
+            "id": 16388022,
+            "url": "https:\/\/cryptopanic.com\/news\/16388022\/RT-CryptoHallmark-DAILY-Crypto-MARKET-UPDATE-20th-September-2022-Top-Gainers-ALGO-XLM-XRP-COMP-APE-RVN-GRT-New-ATH-LOOP",
+            "created_at": "2022-09-21T06:46:38Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "decrypt.co",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 1,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "Decrypt",
+                "region": "en",
+                "domain": "decrypt.co",
+                "path": null
+            },
+            "title": "Ethereum Classic Plummets 23% Over Post-Merge Week",
+            "published_at": "2022-09-20T21:15:04Z",
+            "slug": "Ethereum-Classic-Plummets-23-Over-Post-Merge-Week",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "ETC",
+                    "title": "Ethereum Classic",
+                    "slug": "ethereum-classic",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum-classic\/"
+                },
+                {
+                    "code": "RVN",
+                    "title": "Ravencoin",
+                    "slug": "ravencoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/ravencoin\/"
+                }
+            ],
+            "id": 16384127,
+            "url": "https:\/\/cryptopanic.com\/news\/16384127\/Ethereum-Classic-Plummets-23-Over-Post-Merge-Week",
+            "created_at": "2022-09-20T21:15:04Z"
+        },
+        {
+            "kind": "news",
+            "domain": "@RunOnFlux",
+            "source": {
+                "title": "Flux Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@runonflux"
+            },
+            "title": "RT @rigduud: $FLUX nethash is on discovery - 5x after #EthereumMerge. @RunOnFlux blockchain is 5x more secure now \ufe0f $ERG $RVN $ETC #GPU #m\u2026",
+            "published_at": "2022-09-19T10:58:27Z",
+            "slug": "RT-rigduud-FLUX-nethash-is-on-discovery-5x-after-EthereumMerge-RunOnFlux-blockchain-is-5x-more-secure-now-ERG-RVN-ETC-GPU-m",
+            "currencies": [
+                {
+                    "code": "FLUX",
+                    "title": "Flux",
+                    "slug": "zelcash",
+                    "url": "https:\/\/cryptopanic.com\/news\/zelcash\/"
+                },
+                {
+                    "code": "ETC",
+                    "title": "Ethereum Classic",
+                    "slug": "ethereum-classic",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum-classic\/"
+                },
+                {
+                    "code": "RVN",
+                    "title": "Ravencoin",
+                    "slug": "ravencoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/ravencoin\/"
+                }
+            ],
+            "id": 16377106,
+            "url": "https:\/\/cryptopanic.com\/news\/16377106\/RT-rigduud-FLUX-nethash-is-on-discovery-5x-after-EthereumMerge-RunOnFlux-blockchain-is-5x-more-secure-now-ERG-RVN-ETC-GPU-m",
+            "created_at": "2022-09-19T10:58:27Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Titan_Hunters",
+            "source": {
+                "title": "Titan Hunters Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@titan_hunters"
+            },
+            "title": "RT @metamoonshots: We found the MOST WATCHLISTED\ufffccoins on @CoinMarketCap &amp; @coingecko \n\n\ufffc\n\n\ufffc\ufffc\ufffc\ufffc\n$ATOM #HBAR $CEEK $QUACK $RVN $NUUM\n\n\ufffc\ufffc\u2026",
+            "published_at": "2022-09-19T09:12:41Z",
+            "slug": "RT-metamoonshots-We-found-the-MOST-WATCHLISTEDcoins-on-CoinMarketCap-amp-coingecko-ATOM-HBAR-CEEK-QUACK-RVN-NUUM",
+            "currencies": [
+                {
+                    "code": "TITA",
+                    "title": "Titan Hunters",
+                    "slug": "titan-hunters",
+                    "url": "https:\/\/cryptopanic.com\/news\/titan-hunters\/"
+                },
+                {
+                    "code": "RVN",
+                    "title": "Ravencoin",
+                    "slug": "ravencoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/ravencoin\/"
+                }
+            ],
+            "id": 16371057,
+            "url": "https:\/\/cryptopanic.com\/news\/16371057\/RT-metamoonshots-We-found-the-MOST-WATCHLISTEDcoins-on-CoinMarketCap-amp-coingecko-ATOM-HBAR-CEEK-QUACK-RVN-NUUM",
+            "created_at": "2022-09-19T09:12:41Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@PolyDoge",
+            "source": {
+                "title": "PolyDoge Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@polydoge"
+            },
+            "title": "RT @metamoonshots: We found the MOST WATCHLISTED\ufffccoins on @CoinMarketCap &amp; @coingecko \n\n\ufffc\n\n\ufffc\ufffc\ufffc\ufffc\n$ATOM #HBAR $CEEK $QUACK $RVN $NUUM\n\n\ufffc\ufffc\u2026",
+            "published_at": "2022-09-18T03:58:32Z",
+            "slug": "RT-metamoonshots-We-found-the-MOST-WATCHLISTEDcoins-on-CoinMarketCap-amp-coingecko-ATOM-HBAR-CEEK-QUACK-RVN-NUUM",
+            "currencies": [
+                {
+                    "code": "POLYDOGE",
+                    "title": "PolyDoge",
+                    "slug": "polydoge",
+                    "url": "https:\/\/cryptopanic.com\/news\/polydoge\/"
+                },
+                {
+                    "code": "PDSHARE",
+                    "title": "PDSHARE",
+                    "slug": "pdshare",
+                    "url": "https:\/\/cryptopanic.com\/news\/pdshare\/"
+                },
+                {
+                    "code": "PDD",
+                    "title": "PDDOLLAR",
+                    "slug": "pddollar",
+                    "url": "https:\/\/cryptopanic.com\/news\/pddollar\/"
+                },
+                {
+                    "code": "RVN",
+                    "title": "Ravencoin",
+                    "slug": "ravencoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/ravencoin\/"
+                }
+            ],
+            "id": 16363436,
+            "url": "https:\/\/cryptopanic.com\/news\/16363436\/RT-metamoonshots-We-found-the-MOST-WATCHLISTEDcoins-on-CoinMarketCap-amp-coingecko-ATOM-HBAR-CEEK-QUACK-RVN-NUUM",
+            "created_at": "2022-09-18T03:58:32Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Bitcoin Open Interest, Funding Rates Point To Growing Bullish Sentiment",
+            "published_at": "2022-09-16T23:00:08Z",
+            "slug": "Bitcoin-Open-Interest-Funding-Rates-Point-To-Growing-Bullish-Sentiment",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "RVN",
+                    "title": "Ravencoin",
+                    "slug": "ravencoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/ravencoin\/"
+                }
+            ],
+            "id": 16352225,
+            "url": "https:\/\/cryptopanic.com\/news\/16352225\/Bitcoin-Open-Interest-Funding-Rates-Point-To-Growing-Bullish-Sentiment",
+            "created_at": "2022-09-16T23:00:08Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Ethereum Price Stalls While Bitcoin Dips Below $20,000 Post Merge",
+            "published_at": "2022-09-16T19:11:39Z",
+            "slug": "Ethereum-Price-Stalls-While-Bitcoin-Dips-Below-20000-Post-Merge",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "BNB",
+                    "title": "BNB",
+                    "slug": "binancecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/binancecoin\/"
+                },
+                {
+                    "code": "DOT",
+                    "title": "Polkadot",
+                    "slug": "polkadot",
+                    "url": "https:\/\/cryptopanic.com\/news\/polkadot\/"
+                },
+                {
+                    "code": "ETC",
+                    "title": "Ethereum Classic",
+                    "slug": "ethereum-classic",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum-classic\/"
+                },
+                {
+                    "code": "RVN",
+                    "title": "Ravencoin",
+                    "slug": "ravencoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/ravencoin\/"
+                }
+            ],
+            "id": 16351755,
+            "url": "https:\/\/cryptopanic.com\/news\/16351755\/Ethereum-Price-Stalls-While-Bitcoin-Dips-Below-20000-Post-Merge",
+            "created_at": "2022-09-16T19:11:39Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@BitOnyx_AI",
+            "source": {
+                "title": "BitOnyx Token Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@bitonyx_ai"
+            },
+            "title": "Ethereum Classic and Ravencoin have fallen in price after the Merger\n$BTNYX $BTC $btc #Bitcoin",
+            "published_at": "2022-09-16T19:07:33Z",
+            "slug": "Ethereum-Classic-and-Ravencoin-have-fallen-in-price-after-the-Merger-BTNYX-BTC-btc-Bitcoin",
+            "currencies": [
+                {
+                    "code": "BTNYX",
+                    "title": "BitOnyx",
+                    "slug": "bitonyx-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitonyx-token\/"
+                },
+                {
+                    "code": "ETC",
+                    "title": "Ethereum Classic",
+                    "slug": "ethereum-classic",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum-classic\/"
+                },
+                {
+                    "code": "RVN",
+                    "title": "Ravencoin",
+                    "slug": "ravencoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/ravencoin\/"
+                }
+            ],
+            "id": 16353360,
+            "url": "https:\/\/cryptopanic.com\/news\/16353360\/Ethereum-Classic-and-Ravencoin-have-fallen-in-price-after-the-Merger-BTNYX-BTC-btc-Bitcoin",
+            "created_at": "2022-09-16T19:07:33Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Dogecoin Re-enters Crypto Top 10, But Price Continues To Struggle",
+            "published_at": "2022-09-16T17:00:49Z",
+            "slug": "Dogecoin-Re-enters-Crypto-Top-10-But-Price-Continues-To-Struggle",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "DOGE",
+                    "title": "Dogecoin",
+                    "slug": "dogecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/dogecoin\/"
+                },
+                {
+                    "code": "DOT",
+                    "title": "Polkadot",
+                    "slug": "polkadot",
+                    "url": "https:\/\/cryptopanic.com\/news\/polkadot\/"
+                },
+                {
+                    "code": "RVN",
+                    "title": "Ravencoin",
+                    "slug": "ravencoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/ravencoin\/"
+                }
+            ],
+            "id": 16351355,
+            "url": "https:\/\/cryptopanic.com\/news\/16351355\/Dogecoin-Re-enters-Crypto-Top-10-But-Price-Continues-To-Struggle",
+            "created_at": "2022-09-16T17:00:49Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@kryll_io",
+            "source": {
+                "title": "Kryll Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@kryll_io"
+            },
+            "title": "Here are the top 5 gainers of the week that you can trade on ! \n\n\ud83e\udd47 $LUNA +51%\n\ud83e\udd48 $RVN +44%\n\ud83e\udd49\u2026",
+            "published_at": "2022-09-16T16:30:11Z",
+            "slug": "Here-are-the-top-5-gainers-of-the-week-that-you-can-trade-on-LUNA-51-RVN-44",
+            "currencies": [
+                {
+                    "code": "KRL",
+                    "title": "KRYLL",
+                    "slug": "kryll",
+                    "url": "https:\/\/cryptopanic.com\/news\/kryll\/"
+                },
+                {
+                    "code": "RVN",
+                    "title": "Ravencoin",
+                    "slug": "ravencoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/ravencoin\/"
+                },
+                {
+                    "code": "LUNA",
+                    "title": "Terra",
+                    "slug": "terra-luna-2",
+                    "url": "https:\/\/cryptopanic.com\/news\/terra-luna-2\/"
+                }
+            ],
+            "id": 16355803,
+            "url": "https:\/\/cryptopanic.com\/news\/16355803\/Here-are-the-top-5-gainers-of-the-week-that-you-can-trade-on-LUNA-51-RVN-44",
+            "created_at": "2022-09-16T16:30:11Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@ChoiseCom",
+            "source": {
+                "title": "Choise Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@choisecom"
+            },
+            "title": "RT @CryptoDiffer: DAILY CRYPTOMARKET REVIEW\n\n$BTC $ETH $CEL $LUNA $LDO $ETC $BEAM $FIRO $CEL $CFX $ERG $RVN $SWEAT $SHIB $CHO $GLMR $LUNC $\u2026",
+            "published_at": "2022-09-16T14:06:27Z",
+            "slug": "RT-CryptoDiffer-DAILY-CRYPTOMARKET-REVIEW-BTC-ETH-CEL-LUNA-LDO-ETC-BEAM-FIRO-CEL-CFX-ERG-RVN-SWEAT-SHIB-CHO-GLMR-LUNC",
+            "currencies": [
+                {
+                    "code": "CHO",
+                    "title": "Choise",
+                    "slug": "choise",
+                    "url": "https:\/\/cryptopanic.com\/news\/choise\/"
+                },
+                {
+                    "code": "SHIB",
+                    "title": "Shiba Inu",
+                    "slug": "shiba-inu",
+                    "url": "https:\/\/cryptopanic.com\/news\/shiba-inu\/"
+                },
+                {
+                    "code": "ETC",
+                    "title": "Ethereum Classic",
+                    "slug": "ethereum-classic",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum-classic\/"
+                },
+                {
+                    "code": "LUNC",
+                    "title": "Terra Luna Classic",
+                    "slug": "terra-luna",
+                    "url": "https:\/\/cryptopanic.com\/news\/terra-luna\/"
+                },
+                {
+                    "code": "LDO",
+                    "title": "Lido DAO",
+                    "slug": "lido-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/lido-dao\/"
+                },
+                {
+                    "code": "CEL",
+                    "title": "Celsius Network",
+                    "slug": "celsius-degree-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/celsius-degree-token\/"
+                },
+                {
+                    "code": "RVN",
+                    "title": "Ravencoin",
+                    "slug": "ravencoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/ravencoin\/"
+                },
+                {
+                    "code": "LUNA",
+                    "title": "Terra",
+                    "slug": "terra-luna-2",
+                    "url": "https:\/\/cryptopanic.com\/news\/terra-luna-2\/"
+                }
+            ],
+            "id": 16353768,
+            "url": "https:\/\/cryptopanic.com\/news\/16353768\/RT-CryptoDiffer-DAILY-CRYPTOMARKET-REVIEW-BTC-ETH-CEL-LUNA-LDO-ETC-BEAM-FIRO-CEL-CFX-ERG-RVN-SWEAT-SHIB-CHO-GLMR-LUNC",
+            "created_at": "2022-09-16T14:06:27Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "votes": {
+                "negative": 1,
+                "positive": 0,
+                "important": 0,
+                "liked": 1,
+                "disliked": 1,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "Ergo (ERG) and Ravencoin (RVN) Hashrates Soar as Ethereum Miners Jump Ship",
+            "published_at": "2022-09-16T09:30:00Z",
+            "slug": "Ergo-ERG-and-Ravencoin-RVN-Hashrates-Soar-as-Ethereum-Miners-Jump-Ship",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "RVN",
+                    "title": "Ravencoin",
+                    "slug": "ravencoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/ravencoin\/"
+                }
+            ],
+            "id": 16349179,
+            "url": "https:\/\/cryptopanic.com\/news\/16349179\/Ergo-ERG-and-Ravencoin-RVN-Hashrates-Soar-as-Ethereum-Miners-Jump-Ship",
+            "created_at": "2022-09-16T09:30:00Z"
+        }
+    ]
+}

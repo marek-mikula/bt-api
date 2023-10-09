@@ -1,0 +1,743 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=IDEX&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "@idexio",
+            "source": {
+                "title": "IDEX Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@idexio"
+            },
+            "title": "There will be\n\nNo second best",
+            "published_at": "2023-07-12T03:55:25Z",
+            "slug": "There-will-be-No-second-best",
+            "currencies": [
+                {
+                    "code": "IDEX",
+                    "title": "IDEX",
+                    "slug": "aurora-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/aurora-dao\/"
+                }
+            ],
+            "id": 18764910,
+            "url": "https:\/\/cryptopanic.com\/news\/18764910\/There-will-be-No-second-best",
+            "created_at": "2023-07-12T03:55:25Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@idexio",
+            "source": {
+                "title": "IDEX Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@idexio"
+            },
+            "title": "Huge thanks to @sandeepnailwal, @0xPolygonLabs, @_khanhamzah and everyone who joined today\u2019s Space! \n\nMuch alpha w\u2026",
+            "published_at": "2023-07-10T20:02:25Z",
+            "slug": "Huge-thanks-to-sandeepnailwal-0xPolygonLabs-_khanhamzah-and-everyone-who-joined-todays-Space-Much-alpha-w",
+            "currencies": [
+                {
+                    "code": "IDEX",
+                    "title": "IDEX",
+                    "slug": "aurora-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/aurora-dao\/"
+                }
+            ],
+            "id": 18756741,
+            "url": "https:\/\/cryptopanic.com\/news\/18756741\/Huge-thanks-to-sandeepnailwal-0xPolygonLabs-_khanhamzah-and-everyone-who-joined-todays-Space-Much-alpha-w",
+            "created_at": "2023-07-10T20:02:25Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@idexio",
+            "source": {
+                "title": "IDEX Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@idexio"
+            },
+            "title": "RT @ballerxbt: polygon zkevm &amp; idex will be really good fellas",
+            "published_at": "2023-07-10T20:00:52Z",
+            "slug": "RT-ballerxbt-polygon-zkevm-amp-idex-will-be-really-good-fellas",
+            "currencies": [
+                {
+                    "code": "IDEX",
+                    "title": "IDEX",
+                    "slug": "aurora-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/aurora-dao\/"
+                },
+                {
+                    "code": "MATIC",
+                    "title": "Polygon",
+                    "slug": "matic-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-network\/"
+                }
+            ],
+            "id": 18756742,
+            "url": "https:\/\/cryptopanic.com\/news\/18756742\/RT-ballerxbt-polygon-zkevm-amp-idex-will-be-really-good-fellas",
+            "created_at": "2023-07-10T20:00:52Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@idexio",
+            "source": {
+                "title": "IDEX Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@idexio"
+            },
+            "title": "RT @sandeepnailwal: Live with @idexio with the launch of the first zk Supernet\n\nWhy be a Layer3 if you can be a Layer2 with @0xPolygon zk S\u2026",
+            "published_at": "2023-07-10T19:18:38Z",
+            "slug": "RT-sandeepnailwal-Live-with-idexio-with-the-launch-of-the-first-zk-Supernet-Why-be-a-Layer3-if-you-can-be-a-Layer2-with-0xPolygon-zk-S",
+            "currencies": [
+                {
+                    "code": "IDEX",
+                    "title": "IDEX",
+                    "slug": "aurora-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/aurora-dao\/"
+                }
+            ],
+            "id": 18756743,
+            "url": "https:\/\/cryptopanic.com\/news\/18756743\/RT-sandeepnailwal-Live-with-idexio-with-the-launch-of-the-first-zk-Supernet-Why-be-a-Layer3-if-you-can-be-a-Layer2-with-0xPolygon-zk-S",
+            "created_at": "2023-07-10T19:18:38Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@idexio",
+            "source": {
+                "title": "IDEX Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@idexio"
+            },
+            "title": "RT @_khanhamzah: YO BROS, \n\nWe going on a banger of a spaces with the mighty @idexio team and @0xPolygonDeFi. \n\nChatting , memes, Twitter\u2026",
+            "published_at": "2023-07-10T18:56:20Z",
+            "slug": "RT-_khanhamzah-YO-BROS-We-going-on-a-banger-of-a-spaces-with-the-mighty-idexio-team-and-0xPolygonDeFi-Chatting-memes-Twitter",
+            "currencies": [
+                {
+                    "code": "IDEX",
+                    "title": "IDEX",
+                    "slug": "aurora-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/aurora-dao\/"
+                }
+            ],
+            "id": 18756744,
+            "url": "https:\/\/cryptopanic.com\/news\/18756744\/RT-_khanhamzah-YO-BROS-We-going-on-a-banger-of-a-spaces-with-the-mighty-idexio-team-and-0xPolygonDeFi-Chatting-memes-Twitter",
+            "created_at": "2023-07-10T18:56:20Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@idexio",
+            "source": {
+                "title": "IDEX Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@idexio"
+            },
+            "title": "Yo GOATs \n\nOne hour until our chat with Polygon\u2019s @sandeepnailwal live on Spaces!\n\nThis is one \ud835\udc12\ud835\udc29\ud835\udc22\ud835\udc25\ud835\udc25 \ud835\udc13\ud835\udc21\ud835\udc1e \ud835\udc00\ud835\udc25\ud835\udc29\ud835\udc21\ud835\udc1a you\u2026",
+            "published_at": "2023-07-10T18:00:27Z",
+            "slug": "Yo-GOATs-One-hour-until-our-chat-with-Polygons-sandeepnailwal-live-on-Spaces-This-is-one-Spill-The-Alpha-you",
+            "currencies": [
+                {
+                    "code": "IDEX",
+                    "title": "IDEX",
+                    "slug": "aurora-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/aurora-dao\/"
+                }
+            ],
+            "id": 18756745,
+            "url": "https:\/\/cryptopanic.com\/news\/18756745\/Yo-GOATs-One-hour-until-our-chat-with-Polygons-sandeepnailwal-live-on-Spaces-This-is-one-Spill-The-Alpha-you",
+            "created_at": "2023-07-10T18:00:27Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@idexio",
+            "source": {
+                "title": "IDEX Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@idexio"
+            },
+            "title": "Gm GOATs \ud83e\udee1",
+            "published_at": "2023-07-10T14:01:17Z",
+            "slug": "Gm-GOATs",
+            "currencies": [
+                {
+                    "code": "IDEX",
+                    "title": "IDEX",
+                    "slug": "aurora-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/aurora-dao\/"
+                }
+            ],
+            "id": 18756746,
+            "url": "https:\/\/cryptopanic.com\/news\/18756746\/Gm-GOATs",
+            "created_at": "2023-07-10T14:01:17Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@idexio",
+            "source": {
+                "title": "IDEX Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@idexio"
+            },
+            "title": "Don\u2019t forget fam! \n\nTomorrow we join Polygon co-founder @sandeepnailwal to chat everything IDEX, ekZKM &amp; XCHAIN!!\u2026",
+            "published_at": "2023-07-09T23:14:49Z",
+            "slug": "Dont-forget-fam-Tomorrow-we-join-Polygon-co-founder-sandeepnailwal-to-chat-everything-IDEX-ekZKM-amp-XCHAIN",
+            "currencies": [
+                {
+                    "code": "IDEX",
+                    "title": "IDEX",
+                    "slug": "aurora-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/aurora-dao\/"
+                },
+                {
+                    "code": "MATIC",
+                    "title": "Polygon",
+                    "slug": "matic-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-network\/"
+                }
+            ],
+            "id": 18750044,
+            "url": "https:\/\/cryptopanic.com\/news\/18750044\/Dont-forget-fam-Tomorrow-we-join-Polygon-co-founder-sandeepnailwal-to-chat-everything-IDEX-ekZKM-amp-XCHAIN",
+            "created_at": "2023-07-09T23:14:49Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@idexio",
+            "source": {
+                "title": "IDEX Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@idexio"
+            },
+            "title": "RT @idexio: Hey GOATs! \n\nWe have a special \ud835\udc12\ud835\udc29\ud835\udc22\ud835\udc25\ud835\udc25 \ud835\udc13\ud835\udc21\ud835\udc1e \ud835\udc00\ud835\udc25\ud835\udc29\ud835\udc21\ud835\udc1a this Monday, July 10th @ 3pm EST with Polygon co-founder @sandeepnailwal \n\nXCH\u2026",
+            "published_at": "2023-07-09T13:25:37Z",
+            "slug": "RT-idexio-Hey-GOATs-We-have-a-special-Spill-The-Alpha-this-Monday-July-10th-3pm-EST-with-Polygon-co-founder-sandeepnailwal-XCH",
+            "currencies": [
+                {
+                    "code": "IDEX",
+                    "title": "IDEX",
+                    "slug": "aurora-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/aurora-dao\/"
+                },
+                {
+                    "code": "MATIC",
+                    "title": "Polygon",
+                    "slug": "matic-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-network\/"
+                }
+            ],
+            "id": 18750045,
+            "url": "https:\/\/cryptopanic.com\/news\/18750045\/RT-idexio-Hey-GOATs-We-have-a-special-Spill-The-Alpha-this-Monday-July-10th-3pm-EST-with-Polygon-co-founder-sandeepnailwal-XCH",
+            "created_at": "2023-07-09T13:25:37Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@idexio",
+            "source": {
+                "title": "IDEX Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@idexio"
+            },
+            "title": "Monday fam! Don\u2019t forget to set those reminders!",
+            "published_at": "2023-07-08T21:37:44Z",
+            "slug": "Monday-fam-Dont-forget-to-set-those-reminders",
+            "currencies": [
+                {
+                    "code": "IDEX",
+                    "title": "IDEX",
+                    "slug": "aurora-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/aurora-dao\/"
+                }
+            ],
+            "id": 18745818,
+            "url": "https:\/\/cryptopanic.com\/news\/18745818\/Monday-fam-Dont-forget-to-set-those-reminders",
+            "created_at": "2023-07-08T21:37:44Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@idexio",
+            "source": {
+                "title": "IDEX Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@idexio"
+            },
+            "title": "RT @0xPolygonLabs: Spilling the alpha on Monday, July 10th @ 3PM EST with @idexio \n\n @sandeepnailwal, @AlexWearn\n\nSet your reminder: http\u2026",
+            "published_at": "2023-07-07T18:27:52Z",
+            "slug": "RT-0xPolygonLabs-Spilling-the-alpha-on-Monday-July-10th-3PM-EST-with-idexio-sandeepnailwal-AlexWearn-Set-your-reminder-http",
+            "currencies": [
+                {
+                    "code": "IDEX",
+                    "title": "IDEX",
+                    "slug": "aurora-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/aurora-dao\/"
+                }
+            ],
+            "id": 18740622,
+            "url": "https:\/\/cryptopanic.com\/news\/18740622\/RT-0xPolygonLabs-Spilling-the-alpha-on-Monday-July-10th-3PM-EST-with-idexio-sandeepnailwal-AlexWearn-Set-your-reminder-http",
+            "created_at": "2023-07-07T18:27:52Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@idexio",
+            "source": {
+                "title": "IDEX Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@idexio"
+            },
+            "title": "Hey GOATs! \n\nWe have a special \ud835\udc12\ud835\udc29\ud835\udc22\ud835\udc25\ud835\udc25 \ud835\udc13\ud835\udc21\ud835\udc1e \ud835\udc00\ud835\udc25\ud835\udc29\ud835\udc21\ud835\udc1a this Monday, July 10th @ 3pm EST with Polygon co-founder\u2026",
+            "published_at": "2023-07-07T18:13:05Z",
+            "slug": "Hey-GOATs-We-have-a-special-Spill-The-Alpha-this-Monday-July-10th-3pm-EST-with-Polygon-co-founder",
+            "currencies": [
+                {
+                    "code": "IDEX",
+                    "title": "IDEX",
+                    "slug": "aurora-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/aurora-dao\/"
+                },
+                {
+                    "code": "MATIC",
+                    "title": "Polygon",
+                    "slug": "matic-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-network\/"
+                }
+            ],
+            "id": 18740623,
+            "url": "https:\/\/cryptopanic.com\/news\/18740623\/Hey-GOATs-We-have-a-special-Spill-The-Alpha-this-Monday-July-10th-3pm-EST-with-Polygon-co-founder",
+            "created_at": "2023-07-07T18:13:05Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@idexio",
+            "source": {
+                "title": "IDEX Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@idexio"
+            },
+            "title": "We do a bit of manifesting bros \ud83e\udd1d",
+            "published_at": "2023-07-07T16:49:40Z",
+            "slug": "We-do-a-bit-of-manifesting-bros",
+            "currencies": [
+                {
+                    "code": "IDEX",
+                    "title": "IDEX",
+                    "slug": "aurora-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/aurora-dao\/"
+                }
+            ],
+            "id": 18740624,
+            "url": "https:\/\/cryptopanic.com\/news\/18740624\/We-do-a-bit-of-manifesting-bros",
+            "created_at": "2023-07-07T16:49:40Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@idexio",
+            "source": {
+                "title": "IDEX Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@idexio"
+            },
+            "title": "RT @WuBlockchain: IDEX announced the XCHAIN testnet deployment, a Layer 2 network powered by zkEVM-based Polygon Supernets. XCHAIN utilizes\u2026",
+            "published_at": "2023-07-07T14:48:24Z",
+            "slug": "RT-WuBlockchain-IDEX-announced-the-XCHAIN-testnet-deployment-a-Layer-2-network-powered-by-zkEVM-based-Polygon-Supernets-XCHAIN-utilizes",
+            "currencies": [
+                {
+                    "code": "IDEX",
+                    "title": "IDEX",
+                    "slug": "aurora-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/aurora-dao\/"
+                },
+                {
+                    "code": "MATIC",
+                    "title": "Polygon",
+                    "slug": "matic-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-network\/"
+                }
+            ],
+            "id": 18740625,
+            "url": "https:\/\/cryptopanic.com\/news\/18740625\/RT-WuBlockchain-IDEX-announced-the-XCHAIN-testnet-deployment-a-Layer-2-network-powered-by-zkEVM-based-Polygon-Supernets-XCHAIN-utilizes",
+            "created_at": "2023-07-07T14:48:24Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@idexio",
+            "source": {
+                "title": "IDEX Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@idexio"
+            },
+            "title": "Can you feel it? Cuz we can feel it.",
+            "published_at": "2023-07-06T21:42:28Z",
+            "slug": "Can-you-feel-it-Cuz-we-can-feel-it",
+            "currencies": [
+                {
+                    "code": "IDEX",
+                    "title": "IDEX",
+                    "slug": "aurora-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/aurora-dao\/"
+                }
+            ],
+            "id": 18733020,
+            "url": "https:\/\/cryptopanic.com\/news\/18733020\/Can-you-feel-it-Cuz-we-can-feel-it",
+            "created_at": "2023-07-06T21:42:28Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@idexio",
+            "source": {
+                "title": "IDEX Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@idexio"
+            },
+            "title": "RT @miladypresident: many people are saying",
+            "published_at": "2023-07-06T18:55:37Z",
+            "slug": "RT-miladypresident-many-people-are-saying",
+            "currencies": [
+                {
+                    "code": "IDEX",
+                    "title": "IDEX",
+                    "slug": "aurora-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/aurora-dao\/"
+                }
+            ],
+            "id": 18733021,
+            "url": "https:\/\/cryptopanic.com\/news\/18733021\/RT-miladypresident-many-people-are-saying",
+            "created_at": "2023-07-06T18:55:37Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@idexio",
+            "source": {
+                "title": "IDEX Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@idexio"
+            },
+            "title": "RT @tokenstrategy: Interesting thing is @idexio is building a zk L2 that settles on eth, not polygon.\n\nThis seems like a big deal, when eve\u2026",
+            "published_at": "2023-07-06T18:21:52Z",
+            "slug": "RT-tokenstrategy-Interesting-thing-is-idexio-is-building-a-zk-L2-that-settles-on-eth-not-polygon-This-seems-like-a-big-deal-when-eve",
+            "currencies": [
+                {
+                    "code": "IDEX",
+                    "title": "IDEX",
+                    "slug": "aurora-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/aurora-dao\/"
+                }
+            ],
+            "id": 18733022,
+            "url": "https:\/\/cryptopanic.com\/news\/18733022\/RT-tokenstrategy-Interesting-thing-is-idexio-is-building-a-zk-L2-that-settles-on-eth-not-polygon-This-seems-like-a-big-deal-when-eve",
+            "created_at": "2023-07-06T18:21:52Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@idexio",
+            "source": {
+                "title": "IDEX Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@idexio"
+            },
+            "title": "RT @AlexWearn: 1) Today we at @idexio announced our plans for XCHAIN, a zkEVM Layer 2 built specifically for IDEX.\n\nWhat?\n\nDidn\u2019t you just\u2026",
+            "published_at": "2023-07-06T17:16:40Z",
+            "slug": "RT-AlexWearn-1-Today-we-at-idexio-announced-our-plans-for-XCHAIN-a-zkEVM-Layer-2-built-specifically-for-IDEX-What-Didnt-you-just",
+            "currencies": [
+                {
+                    "code": "IDEX",
+                    "title": "IDEX",
+                    "slug": "aurora-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/aurora-dao\/"
+                }
+            ],
+            "id": 18733023,
+            "url": "https:\/\/cryptopanic.com\/news\/18733023\/RT-AlexWearn-1-Today-we-at-idexio-announced-our-plans-for-XCHAIN-a-zkEVM-Layer-2-built-specifically-for-IDEX-What-Didnt-you-just",
+            "created_at": "2023-07-06T17:16:40Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@idexio",
+            "source": {
+                "title": "IDEX Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@idexio"
+            },
+            "title": "RT @sandeepnailwal: OG Defi protocol @idexio to launch a ZK Layer2 with @0xPolygon Supernets stack! \n\nWith this powerful stack, any project\u2026",
+            "published_at": "2023-07-06T16:25:07Z",
+            "slug": "RT-sandeepnailwal-OG-Defi-protocol-idexio-to-launch-a-ZK-Layer2-with-0xPolygon-Supernets-stack-With-this-powerful-stack-any-project",
+            "currencies": [
+                {
+                    "code": "IDEX",
+                    "title": "IDEX",
+                    "slug": "aurora-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/aurora-dao\/"
+                }
+            ],
+            "id": 18733024,
+            "url": "https:\/\/cryptopanic.com\/news\/18733024\/RT-sandeepnailwal-OG-Defi-protocol-idexio-to-launch-a-ZK-Layer2-with-0xPolygon-Supernets-stack-With-this-powerful-stack-any-project",
+            "created_at": "2023-07-06T16:25:07Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@idexio",
+            "source": {
+                "title": "IDEX Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@idexio"
+            },
+            "title": "RT @TheBlock__: IDEX unveils zkEVM Layer 2 chain based on Polygon Supernets",
+            "published_at": "2023-07-06T16:21:52Z",
+            "slug": "RT-TheBlock__-IDEX-unveils-zkEVM-Layer-2-chain-based-on-Polygon-Supernets",
+            "currencies": [
+                {
+                    "code": "IDEX",
+                    "title": "IDEX",
+                    "slug": "aurora-dao",
+                    "url": "https:\/\/cryptopanic.com\/news\/aurora-dao\/"
+                },
+                {
+                    "code": "MATIC",
+                    "title": "Polygon",
+                    "slug": "matic-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-network\/"
+                }
+            ],
+            "id": 18733025,
+            "url": "https:\/\/cryptopanic.com\/news\/18733025\/RT-TheBlock__-IDEX-unveils-zkEVM-Layer-2-chain-based-on-Polygon-Supernets",
+            "created_at": "2023-07-06T16:21:52Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

@@ -1,0 +1,899 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=ARB&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Crypto Watchlist For October: Altcoins To Keep On Your Radar",
+            "published_at": "2023-10-03T12:00:36Z",
+            "slug": "Crypto-Watchlist-For-October-Altcoins-To-Keep-On-Your-Radar",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "DAI",
+                    "title": "Dai",
+                    "slug": "dai",
+                    "url": "https:\/\/cryptopanic.com\/news\/dai\/"
+                },
+                {
+                    "code": "MKR",
+                    "title": "Maker",
+                    "slug": "maker",
+                    "url": "https:\/\/cryptopanic.com\/news\/maker\/"
+                },
+                {
+                    "code": "ARB",
+                    "title": "Arbitrum",
+                    "slug": "arbitrum",
+                    "url": "https:\/\/cryptopanic.com\/news\/arbitrum\/"
+                }
+            ],
+            "id": 18944397,
+            "url": "https:\/\/cryptopanic.com\/news\/18944397\/Crypto-Watchlist-For-October-Altcoins-To-Keep-On-Your-Radar",
+            "created_at": "2023-10-03T12:00:36Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinedition.com",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 1,
+                "comments": 0
+            },
+            "source": {
+                "title": "coinedition",
+                "region": "en",
+                "domain": "coinedition.com",
+                "path": null
+            },
+            "title": "Tokens with Big Chains May Increase by 10X If Market Cycle is Validated",
+            "published_at": "2023-10-02T16:25:00Z",
+            "slug": "Tokens-with-Big-Chains-May-Increase-by-10X-If-Market-Cycle-is-Validated",
+            "currencies": [
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "DOT",
+                    "title": "Polkadot",
+                    "slug": "polkadot",
+                    "url": "https:\/\/cryptopanic.com\/news\/polkadot\/"
+                },
+                {
+                    "code": "AVAX",
+                    "title": "Avalanche",
+                    "slug": "avalanche-2",
+                    "url": "https:\/\/cryptopanic.com\/news\/avalanche-2\/"
+                },
+                {
+                    "code": "ARB",
+                    "title": "Arbitrum",
+                    "slug": "arbitrum",
+                    "url": "https:\/\/cryptopanic.com\/news\/arbitrum\/"
+                }
+            ],
+            "id": 18942612,
+            "url": "https:\/\/cryptopanic.com\/news\/18942612\/Tokens-with-Big-Chains-May-Increase-by-10X-If-Market-Cycle-is-Validated",
+            "created_at": "2023-10-02T16:25:00Z"
+        },
+        {
+            "kind": "news",
+            "domain": "coinedition.com",
+            "source": {
+                "title": "coinedition",
+                "region": "en",
+                "domain": "coinedition.com",
+                "path": null
+            },
+            "title": "LINK, ARB, and ATOM Are the Top Altcoins To Watch Out For: Analyst",
+            "published_at": "2023-10-02T14:39:28Z",
+            "slug": "LINK-ARB-and-ATOM-Are-the-Top-Altcoins-To-Watch-Out-For-Analyst",
+            "currencies": [
+                {
+                    "code": "LINK",
+                    "title": "Chainlink",
+                    "slug": "chainlink",
+                    "url": "https:\/\/cryptopanic.com\/news\/chainlink\/"
+                },
+                {
+                    "code": "ATOM",
+                    "title": "Cosmos Hub",
+                    "slug": "cosmos",
+                    "url": "https:\/\/cryptopanic.com\/news\/cosmos\/"
+                },
+                {
+                    "code": "ARB",
+                    "title": "Arbitrum",
+                    "slug": "arbitrum",
+                    "url": "https:\/\/cryptopanic.com\/news\/arbitrum\/"
+                }
+            ],
+            "id": 18942301,
+            "url": "https:\/\/cryptopanic.com\/news\/18942301\/LINK-ARB-and-ATOM-Are-the-Top-Altcoins-To-Watch-Out-For-Analyst",
+            "created_at": "2023-10-02T14:39:28Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "Arbitrum reverses September losses \u2013 What\u2019s next?",
+            "published_at": "2023-10-01T16:30:45Z",
+            "slug": "Arbitrum-reverses-September-losses-Whats-next",
+            "currencies": [
+                {
+                    "code": "ARB",
+                    "title": "Arbitrum",
+                    "slug": "arbitrum",
+                    "url": "https:\/\/cryptopanic.com\/news\/arbitrum\/"
+                }
+            ],
+            "id": 18940448,
+            "url": "https:\/\/cryptopanic.com\/news\/18940448\/Arbitrum-reverses-September-losses-Whats-next",
+            "created_at": "2023-10-01T16:30:45Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "Arbitrum: Why traders should consider investing in ARB this quarter",
+            "published_at": "2023-09-30T04:30:09Z",
+            "slug": "Arbitrum-Why-traders-should-consider-investing-in-ARB-this-quarter",
+            "currencies": [
+                {
+                    "code": "ARB",
+                    "title": "Arbitrum",
+                    "slug": "arbitrum",
+                    "url": "https:\/\/cryptopanic.com\/news\/arbitrum\/"
+                }
+            ],
+            "id": 18938636,
+            "url": "https:\/\/cryptopanic.com\/news\/18938636\/Arbitrum-Why-traders-should-consider-investing-in-ARB-this-quarter",
+            "created_at": "2023-09-30T04:30:09Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "Arbitrum (ARB) Network Activity Hits 90-Day Peak \u2013 Will it Trigger a Price Rally?",
+            "published_at": "2023-09-29T15:07:18Z",
+            "slug": "Arbitrum-ARB-Network-Activity-Hits-90-Day-Peak-Will-it-Trigger-a-Price-Rally",
+            "currencies": [
+                {
+                    "code": "ARB",
+                    "title": "Arbitrum",
+                    "slug": "arbitrum",
+                    "url": "https:\/\/cryptopanic.com\/news\/arbitrum\/"
+                }
+            ],
+            "id": 18937658,
+            "url": "https:\/\/cryptopanic.com\/news\/18937658\/Arbitrum-ARB-Network-Activity-Hits-90-Day-Peak-Will-it-Trigger-a-Price-Rally",
+            "created_at": "2023-09-29T15:07:18Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "en.bitcoinsistemi.com",
+            "source": {
+                "title": "en bitcoinsistemi",
+                "region": "en",
+                "domain": "en.bitcoinsistemi.com",
+                "path": null
+            },
+            "title": "New Partnership News from Arbitrum (ARB)!",
+            "published_at": "2023-09-29T15:04:06Z",
+            "slug": "New-Partnership-News-from-Arbitrum-ARB",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "ARB",
+                    "title": "Arbitrum",
+                    "slug": "arbitrum",
+                    "url": "https:\/\/cryptopanic.com\/news\/arbitrum\/"
+                }
+            ],
+            "id": 18937656,
+            "url": "https:\/\/cryptopanic.com\/news\/18937656\/New-Partnership-News-from-Arbitrum-ARB",
+            "created_at": "2023-09-29T15:04:06Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "u.today",
+            "source": {
+                "title": "U.Today",
+                "region": "en",
+                "domain": "u.today",
+                "path": null
+            },
+            "title": "Arbitrum (ARB) Jumps 10% to Break Long Stalemate, More Surge to Come?",
+            "published_at": "2023-09-29T13:55:00Z",
+            "slug": "Arbitrum-ARB-Jumps-10-to-Break-Long-Stalemate-More-Surge-to-Come",
+            "currencies": [
+                {
+                    "code": "ARB",
+                    "title": "Arbitrum",
+                    "slug": "arbitrum",
+                    "url": "https:\/\/cryptopanic.com\/news\/arbitrum\/"
+                }
+            ],
+            "id": 18937495,
+            "url": "https:\/\/cryptopanic.com\/news\/18937495\/Arbitrum-ARB-Jumps-10-to-Break-Long-Stalemate-More-Surge-to-Come",
+            "created_at": "2023-09-29T13:55:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "theblock.co",
+            "source": {
+                "title": "The Block",
+                "region": "en",
+                "domain": "theblock.co",
+                "path": null
+            },
+            "title": "Arbitrum Foundation partnership seeks to boost Arbitrum\u2019s presence in Japan",
+            "published_at": "2023-09-29T13:00:05Z",
+            "slug": "Arbitrum-Foundation-partnership-seeks-to-boost-Arbitrums-presence-in-Japan",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "ARB",
+                    "title": "Arbitrum",
+                    "slug": "arbitrum",
+                    "url": "https:\/\/cryptopanic.com\/news\/arbitrum\/"
+                }
+            ],
+            "id": 18937273,
+            "url": "https:\/\/cryptopanic.com\/news\/18937273\/Arbitrum-Foundation-partnership-seeks-to-boost-Arbitrums-presence-in-Japan",
+            "created_at": "2023-09-29T13:00:05Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinedition.com",
+            "source": {
+                "title": "coinedition",
+                "region": "en",
+                "domain": "coinedition.com",
+                "path": null
+            },
+            "title": "Optimism vs Arbitrum: Which Ethereum Layer 2 is Best?",
+            "published_at": "2023-09-29T11:41:00Z",
+            "slug": "Optimism-vs-Arbitrum-Which-Ethereum-Layer-2-is-Best",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "ARB",
+                    "title": "Arbitrum",
+                    "slug": "arbitrum",
+                    "url": "https:\/\/cryptopanic.com\/news\/arbitrum\/"
+                },
+                {
+                    "code": "OP",
+                    "title": "Optimism",
+                    "slug": "optimism",
+                    "url": "https:\/\/cryptopanic.com\/news\/optimism\/"
+                }
+            ],
+            "id": 18937081,
+            "url": "https:\/\/cryptopanic.com\/news\/18937081\/Optimism-vs-Arbitrum-Which-Ethereum-Layer-2-is-Best",
+            "created_at": "2023-09-29T11:41:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 1,
+                "comments": 0
+            },
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Is The Ethereum Winter Over? L2 Exploding, ETH Futures ETF Launches",
+            "published_at": "2023-09-28T22:00:11Z",
+            "slug": "Is-The-Ethereum-Winter-Over-L2-Exploding-ETH-Futures-ETF-Launches",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "ARB",
+                    "title": "Arbitrum",
+                    "slug": "arbitrum",
+                    "url": "https:\/\/cryptopanic.com\/news\/arbitrum\/"
+                },
+                {
+                    "code": "OP",
+                    "title": "Optimism",
+                    "slug": "optimism",
+                    "url": "https:\/\/cryptopanic.com\/news\/optimism\/"
+                }
+            ],
+            "id": 18935872,
+            "url": "https:\/\/cryptopanic.com\/news\/18935872\/Is-The-Ethereum-Winter-Over-L2-Exploding-ETH-Futures-ETF-Launches",
+            "created_at": "2023-09-28T22:00:11Z"
+        },
+        {
+            "kind": "news",
+            "domain": "u.today",
+            "votes": {
+                "negative": 0,
+                "positive": 2,
+                "important": 2,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "U.Today",
+                "region": "en",
+                "domain": "u.today",
+                "path": null
+            },
+            "title": "Snook Crypto-Fueled Game Lands on Arbitrum L2",
+            "published_at": "2023-09-28T14:00:00Z",
+            "slug": "Snook-Crypto-Fueled-Game-Lands-on-Arbitrum-L2",
+            "currencies": [
+                {
+                    "code": "ARB",
+                    "title": "Arbitrum",
+                    "slug": "arbitrum",
+                    "url": "https:\/\/cryptopanic.com\/news\/arbitrum\/"
+                }
+            ],
+            "id": 18934810,
+            "url": "https:\/\/cryptopanic.com\/news\/18934810\/Snook-Crypto-Fueled-Game-Lands-on-Arbitrum-L2",
+            "created_at": "2023-09-28T14:00:00Z"
+        },
+        {
+            "kind": "news",
+            "domain": "coingabbar.com",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "coingabbar",
+                "region": "en",
+                "domain": "coingabbar.com",
+                "path": null
+            },
+            "title": "Crypto Daily Roundup, 28 Sep: The Latest News in the World of Crypto",
+            "published_at": "2023-09-28T08:30:00Z",
+            "slug": "Crypto-Daily-Roundup-28-Sep-The-Latest-News-in-the-World-of-Crypto",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "USDT",
+                    "title": "Tether",
+                    "slug": "tether",
+                    "url": "https:\/\/cryptopanic.com\/news\/tether\/"
+                },
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                },
+                {
+                    "code": "UNI",
+                    "title": "Uniswap",
+                    "slug": "uniswap",
+                    "url": "https:\/\/cryptopanic.com\/news\/uniswap\/"
+                },
+                {
+                    "code": "AVAX",
+                    "title": "Avalanche",
+                    "slug": "avalanche-2",
+                    "url": "https:\/\/cryptopanic.com\/news\/avalanche-2\/"
+                },
+                {
+                    "code": "ARB",
+                    "title": "Arbitrum",
+                    "slug": "arbitrum",
+                    "url": "https:\/\/cryptopanic.com\/news\/arbitrum\/"
+                },
+                {
+                    "code": "OP",
+                    "title": "Optimism",
+                    "slug": "optimism",
+                    "url": "https:\/\/cryptopanic.com\/news\/optimism\/"
+                },
+                {
+                    "code": "ALGO",
+                    "title": "Algorand",
+                    "slug": "algorand",
+                    "url": "https:\/\/cryptopanic.com\/news\/algorand\/"
+                }
+            ],
+            "id": 18933863,
+            "url": "https:\/\/cryptopanic.com\/news\/18933863\/Crypto-Daily-Roundup-28-Sep-The-Latest-News-in-the-World-of-Crypto",
+            "created_at": "2023-09-28T08:30:00Z"
+        },
+        {
+            "kind": "news",
+            "domain": "thedefiant.io",
+            "source": {
+                "title": "DeFi News",
+                "region": "en",
+                "domain": "thedefiant.io",
+                "path": null
+            },
+            "title": "Arbitrum Reboots Odyssey Campaign As Rival Layer 2s Gain Ground",
+            "published_at": "2023-09-28T01:47:08Z",
+            "slug": "Arbitrum-Reboots-Odyssey-Campaign-As-Rival-Layer-2s-Gain-Ground",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "ARB",
+                    "title": "Arbitrum",
+                    "slug": "arbitrum",
+                    "url": "https:\/\/cryptopanic.com\/news\/arbitrum\/"
+                }
+            ],
+            "id": 18933383,
+            "url": "https:\/\/cryptopanic.com\/news\/18933383\/Arbitrum-Reboots-Odyssey-Campaign-As-Rival-Layer-2s-Gain-Ground",
+            "created_at": "2023-09-28T01:47:08Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "decrypt.co",
+            "source": {
+                "title": "Decrypt",
+                "region": "en",
+                "domain": "decrypt.co",
+                "path": null
+            },
+            "title": "You Can Now Trade Bitcoin Mining Hashpower on Arbitrum",
+            "published_at": "2023-09-27T18:13:12Z",
+            "slug": "You-Can-Now-Trade-Bitcoin-Mining-Hashpower-on-Arbitrum",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ARB",
+                    "title": "Arbitrum",
+                    "slug": "arbitrum",
+                    "url": "https:\/\/cryptopanic.com\/news\/arbitrum\/"
+                }
+            ],
+            "id": 18932761,
+            "url": "https:\/\/cryptopanic.com\/news\/18932761\/You-Can-Now-Trade-Bitcoin-Mining-Hashpower-on-Arbitrum",
+            "created_at": "2023-09-27T18:13:12Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "livebitcoinnews.com",
+            "source": {
+                "title": "Live Bitcoin News",
+                "region": "en",
+                "domain": "livebitcoinnews.com",
+                "path": null
+            },
+            "title": "1xBit Rockets into the Future: Welcoming Algorand and Arbitrum as Novel Deposit Methods!",
+            "published_at": "2023-09-27T10:50:31Z",
+            "slug": "1xBit-Rockets-into-the-Future-Welcoming-Algorand-and-Arbitrum-as-Novel-Deposit-Methods",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ARB",
+                    "title": "Arbitrum",
+                    "slug": "arbitrum",
+                    "url": "https:\/\/cryptopanic.com\/news\/arbitrum\/"
+                },
+                {
+                    "code": "ALGO",
+                    "title": "Algorand",
+                    "slug": "algorand",
+                    "url": "https:\/\/cryptopanic.com\/news\/algorand\/"
+                }
+            ],
+            "id": 18931516,
+            "url": "https:\/\/cryptopanic.com\/news\/18931516\/1xBit-Rockets-into-the-Future-Welcoming-Algorand-and-Arbitrum-as-Novel-Deposit-Methods",
+            "created_at": "2023-09-27T10:50:31Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 1
+            },
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "Trader Joe seeks 1.83 million ARB from Arbitrum: Unveiling the motive",
+            "published_at": "2023-09-27T00:30:08Z",
+            "slug": "Trader-Joe-seeks-183-million-ARB-from-Arbitrum-Unveiling-the-motive",
+            "currencies": [
+                {
+                    "code": "ARB",
+                    "title": "Arbitrum",
+                    "slug": "arbitrum",
+                    "url": "https:\/\/cryptopanic.com\/news\/arbitrum\/"
+                }
+            ],
+            "id": 18930554,
+            "url": "https:\/\/cryptopanic.com\/news\/18930554\/Trader-Joe-seeks-183-million-ARB-from-Arbitrum-Unveiling-the-motive",
+            "created_at": "2023-09-27T00:30:08Z"
+        },
+        {
+            "kind": "news",
+            "domain": "dailyhodl.com",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "The Daily Hodl",
+                "region": "en",
+                "domain": "dailyhodl.com",
+                "path": null
+            },
+            "title": "Pantera Capital Says One Ethereum Layer-2 \u2018High on the List\u2019 of New Crypto Opportunities",
+            "published_at": "2023-09-26T20:00:21Z",
+            "slug": "Pantera-Capital-Says-One-Ethereum-Layer-2-High-on-the-List-of-New-Crypto-Opportunities",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "ARB",
+                    "title": "Arbitrum",
+                    "slug": "arbitrum",
+                    "url": "https:\/\/cryptopanic.com\/news\/arbitrum\/"
+                }
+            ],
+            "id": 18930178,
+            "url": "https:\/\/cryptopanic.com\/news\/18930178\/Pantera-Capital-Says-One-Ethereum-Layer-2-High-on-the-List-of-New-Crypto-Opportunities",
+            "created_at": "2023-09-26T20:00:21Z"
+        },
+        {
+            "kind": "news",
+            "domain": "coinedition.com",
+            "source": {
+                "title": "coinedition",
+                "region": "en",
+                "domain": "coinedition.com",
+                "path": null
+            },
+            "title": "Whale Actions on LINK, CRV, and ARB Suggest Ongoing Accumulation",
+            "published_at": "2023-09-26T14:11:00Z",
+            "slug": "Whale-Actions-on-LINK-CRV-and-ARB-Suggest-Ongoing-Accumulation",
+            "currencies": [
+                {
+                    "code": "LINK",
+                    "title": "Chainlink",
+                    "slug": "chainlink",
+                    "url": "https:\/\/cryptopanic.com\/news\/chainlink\/"
+                },
+                {
+                    "code": "ARB",
+                    "title": "Arbitrum",
+                    "slug": "arbitrum",
+                    "url": "https:\/\/cryptopanic.com\/news\/arbitrum\/"
+                }
+            ],
+            "id": 18929405,
+            "url": "https:\/\/cryptopanic.com\/news\/18929405\/Whale-Actions-on-LINK-CRV-and-ARB-Suggest-Ongoing-Accumulation",
+            "created_at": "2023-09-26T14:11:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinjournal.net",
+            "source": {
+                "title": "CoinJournal",
+                "region": "en",
+                "domain": "coinjournal.net",
+                "path": null
+            },
+            "title": "1xBit Rockets into the Future: Welcoming Algorand and Arbitrum as Novel Deposit Methods!",
+            "published_at": "2023-09-26T14:05:52Z",
+            "slug": "1xBit-Rockets-into-the-Future-Welcoming-Algorand-and-Arbitrum-as-Novel-Deposit-Methods",
+            "currencies": [
+                {
+                    "code": "ARB",
+                    "title": "Arbitrum",
+                    "slug": "arbitrum",
+                    "url": "https:\/\/cryptopanic.com\/news\/arbitrum\/"
+                },
+                {
+                    "code": "ALGO",
+                    "title": "Algorand",
+                    "slug": "algorand",
+                    "url": "https:\/\/cryptopanic.com\/news\/algorand\/"
+                }
+            ],
+            "id": 18929355,
+            "url": "https:\/\/cryptopanic.com\/news\/18929355\/1xBit-Rockets-into-the-Future-Welcoming-Algorand-and-Arbitrum-as-Novel-Deposit-Methods",
+            "created_at": "2023-09-26T14:05:52Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

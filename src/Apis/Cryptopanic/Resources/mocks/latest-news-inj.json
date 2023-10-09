@@ -1,0 +1,887 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=INJ&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "cointelegraph.com",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 1,
+                "comments": 0
+            },
+            "source": {
+                "title": "CoinTelegraph",
+                "region": "en",
+                "domain": "cointelegraph.com",
+                "path": null
+            },
+            "title": "Will Bitcoin \u2018Uptober\u2019 bring gains for MKR, AAVE, RUNE and INJ?",
+            "published_at": "2023-10-01T18:03:54Z",
+            "slug": "Will-Bitcoin-Uptober-bring-gains-for-MKR-AAVE-RUNE-and-INJ",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "MKR",
+                    "title": "Maker",
+                    "slug": "maker",
+                    "url": "https:\/\/cryptopanic.com\/news\/maker\/"
+                },
+                {
+                    "code": "INJ",
+                    "title": "Injective",
+                    "slug": "injective-protocol",
+                    "url": "https:\/\/cryptopanic.com\/news\/injective-protocol\/"
+                },
+                {
+                    "code": "RUNE",
+                    "title": "THORChain",
+                    "slug": "thorchain",
+                    "url": "https:\/\/cryptopanic.com\/news\/thorchain\/"
+                },
+                {
+                    "code": "LEND",
+                    "title": "Aave [OLD]",
+                    "slug": "ethlend",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethlend\/"
+                }
+            ],
+            "id": 18940535,
+            "url": "https:\/\/cryptopanic.com\/news\/18940535\/Will-Bitcoin-Uptober-bring-gains-for-MKR-AAVE-RUNE-and-INJ",
+            "created_at": "2023-10-01T18:03:54Z"
+        },
+        {
+            "kind": "news",
+            "domain": "coinedition.com",
+            "source": {
+                "title": "coinedition",
+                "region": "en",
+                "domain": "coinedition.com",
+                "path": null
+            },
+            "title": "INJ, SOL and RAD Are 3 Cryptos That Display Breakout Potential",
+            "published_at": "2023-10-01T14:26:00Z",
+            "slug": "INJ-SOL-and-RAD-Are-3-Cryptos-That-Display-Breakout-Potential",
+            "currencies": [
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "INJ",
+                    "title": "Injective",
+                    "slug": "injective-protocol",
+                    "url": "https:\/\/cryptopanic.com\/news\/injective-protocol\/"
+                }
+            ],
+            "id": 18940335,
+            "url": "https:\/\/cryptopanic.com\/news\/18940335\/INJ-SOL-and-RAD-Are-3-Cryptos-That-Display-Breakout-Potential",
+            "created_at": "2023-10-01T14:26:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "dailyhodl.com",
+            "source": {
+                "title": "The Daily Hodl",
+                "region": "en",
+                "domain": "dailyhodl.com",
+                "path": null
+            },
+            "title": "Crypto Trader Says One Mid-Cap Altcoin \u2018Looks Very Healthy\u2019, Updates Outlook on Bitcoin, Ethereum and Solana",
+            "published_at": "2023-09-30T11:45:14Z",
+            "slug": "Crypto-Trader-Says-One-Mid-Cap-Altcoin-Looks-Very-Healthy-Updates-Outlook-on-Bitcoin-Ethereum-and-Solana",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "INJ",
+                    "title": "Injective",
+                    "slug": "injective-protocol",
+                    "url": "https:\/\/cryptopanic.com\/news\/injective-protocol\/"
+                }
+            ],
+            "id": 18939039,
+            "url": "https:\/\/cryptopanic.com\/news\/18939039\/Crypto-Trader-Says-One-Mid-Cap-Altcoin-Looks-Very-Healthy-Updates-Outlook-on-Bitcoin-Ethereum-and-Solana",
+            "created_at": "2023-09-30T11:45:14Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "3 Cryptos That Could Hit New All-Time Highs in October",
+            "published_at": "2023-09-30T11:15:00Z",
+            "slug": "3-Cryptos-That-Could-Hit-New-All-Time-Highs-in-October",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "TON",
+                    "title": "Toncoin",
+                    "slug": "the-open-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/the-open-network\/"
+                },
+                {
+                    "code": "OKB",
+                    "title": "OKB",
+                    "slug": "okb",
+                    "url": "https:\/\/cryptopanic.com\/news\/okb\/"
+                },
+                {
+                    "code": "INJ",
+                    "title": "Injective",
+                    "slug": "injective-protocol",
+                    "url": "https:\/\/cryptopanic.com\/news\/injective-protocol\/"
+                }
+            ],
+            "id": 18938998,
+            "url": "https:\/\/cryptopanic.com\/news\/18938998\/3-Cryptos-That-Could-Hit-New-All-Time-Highs-in-October",
+            "created_at": "2023-09-30T11:15:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "dailyhodl.com",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 1,
+                "comments": 0
+            },
+            "source": {
+                "title": "The Daily Hodl",
+                "region": "en",
+                "domain": "dailyhodl.com",
+                "path": null
+            },
+            "title": "Six Ethereum-Based Altcoins and Two Low-Cap Crypto Assets Flashing Bullish On-Chain Signal: Santiment",
+            "published_at": "2023-09-27T20:00:07Z",
+            "slug": "Six-Ethereum-Based-Altcoins-and-Two-Low-Cap-Crypto-Assets-Flashing-Bullish-On-Chain-Signal-Santiment",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "INJ",
+                    "title": "Injective",
+                    "slug": "injective-protocol",
+                    "url": "https:\/\/cryptopanic.com\/news\/injective-protocol\/"
+                }
+            ],
+            "id": 18932948,
+            "url": "https:\/\/cryptopanic.com\/news\/18932948\/Six-Ethereum-Based-Altcoins-and-Two-Low-Cap-Crypto-Assets-Flashing-Bullish-On-Chain-Signal-Santiment",
+            "created_at": "2023-09-27T20:00:07Z"
+        },
+        {
+            "kind": "news",
+            "domain": "feeds2.benzinga.com",
+            "source": {
+                "title": "Benzinga",
+                "region": "en",
+                "domain": "feeds2.benzinga.com",
+                "path": null
+            },
+            "title": "Ethereum Tops $1,600; Maker, Injective Among Top Gainers",
+            "published_at": "2023-09-27T13:34:04Z",
+            "slug": "Ethereum-Tops-1600-Maker-Injective-Among-Top-Gainers",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "INJ",
+                    "title": "Injective",
+                    "slug": "injective-protocol",
+                    "url": "https:\/\/cryptopanic.com\/news\/injective-protocol\/"
+                }
+            ],
+            "id": 18932051,
+            "url": "https:\/\/cryptopanic.com\/news\/18932051\/Ethereum-Tops-1600-Maker-Injective-Among-Top-Gainers",
+            "created_at": "2023-09-27T13:34:04Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinedition.com",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 1,
+                "comments": 0
+            },
+            "source": {
+                "title": "coinedition",
+                "region": "en",
+                "domain": "coinedition.com",
+                "path": null
+            },
+            "title": "6 Cryptos That Could Boom as Their Supplies Enter Self-Custody",
+            "published_at": "2023-09-27T12:15:51Z",
+            "slug": "6-Cryptos-That-Could-Boom-as-Their-Supplies-Enter-Self-Custody",
+            "currencies": [
+                {
+                    "code": "INJ",
+                    "title": "Injective",
+                    "slug": "injective-protocol",
+                    "url": "https:\/\/cryptopanic.com\/news\/injective-protocol\/"
+                },
+                {
+                    "code": "CRV",
+                    "title": "Curve DAO",
+                    "slug": "curve-dao-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/curve-dao-token\/"
+                }
+            ],
+            "id": 18931761,
+            "url": "https:\/\/cryptopanic.com\/news\/18931761\/6-Cryptos-That-Could-Boom-as-Their-Supplies-Enter-Self-Custody",
+            "created_at": "2023-09-27T12:15:51Z"
+        },
+        {
+            "kind": "news",
+            "domain": "coinedition.com",
+            "source": {
+                "title": "coinedition",
+                "region": "en",
+                "domain": "coinedition.com",
+                "path": null
+            },
+            "title": "Will INJ\u2019s Bullish Action Continue Amidst Development Activity?",
+            "published_at": "2023-09-23T07:06:12Z",
+            "slug": "Will-INJs-Bullish-Action-Continue-Amidst-Development-Activity",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "INJ",
+                    "title": "Injective",
+                    "slug": "injective-protocol",
+                    "url": "https:\/\/cryptopanic.com\/news\/injective-protocol\/"
+                }
+            ],
+            "id": 18923214,
+            "url": "https:\/\/cryptopanic.com\/news\/18923214\/Will-INJs-Bullish-Action-Continue-Amidst-Development-Activity",
+            "created_at": "2023-09-23T07:06:12Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "Will INJ\u2019s bullish upside get another boost after Injective\u2019s latest launch?",
+            "published_at": "2023-09-21T07:30:51Z",
+            "slug": "Will-INJs-bullish-upside-get-another-boost-after-Injectives-latest-launch",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "ATOM",
+                    "title": "Cosmos Hub",
+                    "slug": "cosmos",
+                    "url": "https:\/\/cryptopanic.com\/news\/cosmos\/"
+                },
+                {
+                    "code": "INJ",
+                    "title": "Injective",
+                    "slug": "injective-protocol",
+                    "url": "https:\/\/cryptopanic.com\/news\/injective-protocol\/"
+                }
+            ],
+            "id": 18918189,
+            "url": "https:\/\/cryptopanic.com\/news\/18918189\/Will-INJs-bullish-upside-get-another-boost-after-Injectives-latest-launch",
+            "created_at": "2023-09-21T07:30:51Z"
+        },
+        {
+            "kind": "news",
+            "domain": "coingape.com",
+            "source": {
+                "title": "CoinGape",
+                "region": "en",
+                "domain": "coingape.com",
+                "path": null
+            },
+            "title": "Injective Launches Solana and Cosmos Compatible EVM",
+            "published_at": "2023-09-19T17:15:28Z",
+            "slug": "Injective-Launches-Solana-and-Cosmos-Compatible-EVM",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "INJ",
+                    "title": "Injective",
+                    "slug": "injective-protocol",
+                    "url": "https:\/\/cryptopanic.com\/news\/injective-protocol\/"
+                }
+            ],
+            "id": 18914264,
+            "url": "https:\/\/cryptopanic.com\/news\/18914264\/Injective-Launches-Solana-and-Cosmos-Compatible-EVM",
+            "created_at": "2023-09-19T17:15:28Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "theblock.co",
+            "source": {
+                "title": "The Block",
+                "region": "en",
+                "domain": "theblock.co",
+                "path": null
+            },
+            "title": "Injective tests inEVM Layer 2 to support Ethereum applications",
+            "published_at": "2023-09-19T13:01:04Z",
+            "slug": "Injective-tests-inEVM-Layer-2-to-support-Ethereum-applications",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "ATOM",
+                    "title": "Cosmos Hub",
+                    "slug": "cosmos",
+                    "url": "https:\/\/cryptopanic.com\/news\/cosmos\/"
+                },
+                {
+                    "code": "INJ",
+                    "title": "Injective",
+                    "slug": "injective-protocol",
+                    "url": "https:\/\/cryptopanic.com\/news\/injective-protocol\/"
+                }
+            ],
+            "id": 18913558,
+            "url": "https:\/\/cryptopanic.com\/news\/18913558\/Injective-tests-inEVM-Layer-2-to-support-Ethereum-applications",
+            "created_at": "2023-09-19T13:01:04Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinedition.com",
+            "source": {
+                "title": "coinedition",
+                "region": "en",
+                "domain": "coinedition.com",
+                "path": null
+            },
+            "title": "Injective (INJ) Records 2023\u2019s Top Crypto Performer With a Surge of 450%",
+            "published_at": "2023-09-15T14:27:00Z",
+            "slug": "Injective-INJ-Records-2023s-Top-Crypto-Performer-With-a-Surge-of-450",
+            "currencies": [
+                {
+                    "code": "INJ",
+                    "title": "Injective",
+                    "slug": "injective-protocol",
+                    "url": "https:\/\/cryptopanic.com\/news\/injective-protocol\/"
+                }
+            ],
+            "id": 18906282,
+            "url": "https:\/\/cryptopanic.com\/news\/18906282\/Injective-INJ-Records-2023s-Top-Crypto-Performer-With-a-Surge-of-450",
+            "created_at": "2023-09-15T14:27:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "Injective and Conflux Have Shown Over 400% Returns in 2023; Borroe.Finance Passes $900K Mark",
+            "published_at": "2023-09-13T15:30:00Z",
+            "slug": "Injective-and-Conflux-Have-Shown-Over-400-Returns-in-2023-BorroeFinance-Passes-900K-Mark",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "INJ",
+                    "title": "Injective",
+                    "slug": "injective-protocol",
+                    "url": "https:\/\/cryptopanic.com\/news\/injective-protocol\/"
+                },
+                {
+                    "code": "FLOW",
+                    "title": "Flow",
+                    "slug": "flow",
+                    "url": "https:\/\/cryptopanic.com\/news\/flow\/"
+                }
+            ],
+            "id": 18900905,
+            "url": "https:\/\/cryptopanic.com\/news\/18900905\/Injective-and-Conflux-Have-Shown-Over-400-Returns-in-2023-BorroeFinance-Passes-900K-Mark",
+            "created_at": "2023-09-13T15:30:00Z"
+        },
+        {
+            "kind": "news",
+            "domain": "dailyhodl.com",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 2
+            },
+            "source": {
+                "title": "The Daily Hodl",
+                "region": "en",
+                "domain": "dailyhodl.com",
+                "path": null
+            },
+            "title": "Analyst Micha\u00ebl van de Poppe Predicts Rally for Mid-Cap Altcoin That\u2019s Exploded 484% This Year",
+            "published_at": "2023-08-25T14:30:26Z",
+            "slug": "Analyst-Michael-van-de-Poppe-Predicts-Rally-for-Mid-Cap-Altcoin-Thats-Exploded-484-This-Year",
+            "currencies": [
+                {
+                    "code": "INJ",
+                    "title": "Injective",
+                    "slug": "injective-protocol",
+                    "url": "https:\/\/cryptopanic.com\/news\/injective-protocol\/"
+                }
+            ],
+            "id": 18859667,
+            "url": "https:\/\/cryptopanic.com\/news\/18859667\/Analyst-Michael-van-de-Poppe-Predicts-Rally-for-Mid-Cap-Altcoin-Thats-Exploded-484-This-Year",
+            "created_at": "2023-08-25T14:30:26Z"
+        },
+        {
+            "kind": "news",
+            "domain": "cointelegraph.com",
+            "source": {
+                "title": "CoinTelegraph",
+                "region": "en",
+                "domain": "cointelegraph.com",
+                "path": null
+            },
+            "title": "HBAR, OP, INJ and RUNE flash bull signals as Bitcoin price looks for stability",
+            "published_at": "2023-08-20T18:22:07Z",
+            "slug": "HBAR-OP-INJ-and-RUNE-flash-bull-signals-as-Bitcoin-price-looks-for-stability",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "INJ",
+                    "title": "Injective",
+                    "slug": "injective-protocol",
+                    "url": "https:\/\/cryptopanic.com\/news\/injective-protocol\/"
+                },
+                {
+                    "code": "RUNE",
+                    "title": "THORChain",
+                    "slug": "thorchain",
+                    "url": "https:\/\/cryptopanic.com\/news\/thorchain\/"
+                }
+            ],
+            "id": 18848949,
+            "url": "https:\/\/cryptopanic.com\/news\/18848949\/HBAR-OP-INJ-and-RUNE-flash-bull-signals-as-Bitcoin-price-looks-for-stability",
+            "created_at": "2023-08-20T18:22:07Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Solo Climber: The Lone Crypto Surging 11% In Top 100 Roster On A Weekend",
+            "published_at": "2023-08-19T10:55:51Z",
+            "slug": "Solo-Climber-The-Lone-Crypto-Surging-11-In-Top-100-Roster-On-A-Weekend",
+            "currencies": [
+                {
+                    "code": "LTC",
+                    "title": "Litecoin",
+                    "slug": "litecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/litecoin\/"
+                },
+                {
+                    "code": "INJ",
+                    "title": "Injective",
+                    "slug": "injective-protocol",
+                    "url": "https:\/\/cryptopanic.com\/news\/injective-protocol\/"
+                },
+                {
+                    "code": "PEPE",
+                    "title": "Pepe",
+                    "slug": "pepe",
+                    "url": "https:\/\/cryptopanic.com\/news\/pepe\/"
+                }
+            ],
+            "id": 18847420,
+            "url": "https:\/\/cryptopanic.com\/news\/18847420\/Solo-Climber-The-Lone-Crypto-Surging-11-In-Top-100-Roster-On-A-Weekend",
+            "created_at": "2023-08-19T10:55:51Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coingape.com",
+            "source": {
+                "title": "CoinGape",
+                "region": "en",
+                "domain": "coingape.com",
+                "path": null
+            },
+            "title": "Injective (INJ) Price Soars By 10% Amid Crypto Crash",
+            "published_at": "2023-08-19T00:14:16Z",
+            "slug": "Injective-INJ-Price-Soars-By-10-Amid-Crypto-Crash",
+            "currencies": [
+                {
+                    "code": "MATIC",
+                    "title": "Polygon",
+                    "slug": "matic-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-network\/"
+                },
+                {
+                    "code": "INJ",
+                    "title": "Injective",
+                    "slug": "injective-protocol",
+                    "url": "https:\/\/cryptopanic.com\/news\/injective-protocol\/"
+                }
+            ],
+            "id": 18846987,
+            "url": "https:\/\/cryptopanic.com\/news\/18846987\/Injective-INJ-Price-Soars-By-10-Amid-Crypto-Crash",
+            "created_at": "2023-08-19T00:14:16Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinedition.com",
+            "source": {
+                "title": "coinedition",
+                "region": "en",
+                "domain": "coinedition.com",
+                "path": null
+            },
+            "title": "Injective (INJ) Price Up 4+% While Rest of the Market Bleeds",
+            "published_at": "2023-08-18T11:03:09Z",
+            "slug": "Injective-INJ-Price-Up-4-While-Rest-of-the-Market-Bleeds",
+            "currencies": [
+                {
+                    "code": "INJ",
+                    "title": "Injective",
+                    "slug": "injective-protocol",
+                    "url": "https:\/\/cryptopanic.com\/news\/injective-protocol\/"
+                }
+            ],
+            "id": 18845502,
+            "url": "https:\/\/cryptopanic.com\/news\/18845502\/Injective-INJ-Price-Up-4-While-Rest-of-the-Market-Bleeds",
+            "created_at": "2023-08-18T11:03:09Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "en.bitcoinsistemi.com",
+            "source": {
+                "title": "en bitcoinsistemi",
+                "region": "en",
+                "domain": "en.bitcoinsistemi.com",
+                "path": null
+            },
+            "title": "This Altcoin Announces New Burn Plan, Price Moves!",
+            "published_at": "2023-08-16T15:23:05Z",
+            "slug": "This-Altcoin-Announces-New-Burn-Plan-Price-Moves",
+            "currencies": [
+                {
+                    "code": "INJ",
+                    "title": "Injective",
+                    "slug": "injective-protocol",
+                    "url": "https:\/\/cryptopanic.com\/news\/injective-protocol\/"
+                }
+            ],
+            "id": 18841058,
+            "url": "https:\/\/cryptopanic.com\/news\/18841058\/This-Altcoin-Announces-New-Burn-Plan-Price-Moves",
+            "created_at": "2023-08-16T15:23:05Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinedition.com",
+            "source": {
+                "title": "coinedition",
+                "region": "en",
+                "domain": "coinedition.com",
+                "path": null
+            },
+            "title": "APE, INJ Unlocks Around the Corner, How Will Their Prices React?",
+            "published_at": "2023-08-16T15:00:00Z",
+            "slug": "APE-INJ-Unlocks-Around-the-Corner-How-Will-Their-Prices-React",
+            "currencies": [
+                {
+                    "code": "APE",
+                    "title": "ApeCoin",
+                    "slug": "apecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/apecoin\/"
+                },
+                {
+                    "code": "INJ",
+                    "title": "Injective",
+                    "slug": "injective-protocol",
+                    "url": "https:\/\/cryptopanic.com\/news\/injective-protocol\/"
+                }
+            ],
+            "id": 18840982,
+            "url": "https:\/\/cryptopanic.com\/news\/18840982\/APE-INJ-Unlocks-Around-the-Corner-How-Will-Their-Prices-React",
+            "created_at": "2023-08-16T15:00:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

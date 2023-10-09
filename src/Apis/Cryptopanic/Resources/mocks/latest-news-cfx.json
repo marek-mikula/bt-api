@@ -1,0 +1,857 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=CFX&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "cryptoslate.com",
+            "source": {
+                "title": "CryptoSlate",
+                "region": "en",
+                "domain": "cryptoslate.com",
+                "path": null
+            },
+            "title": "Conflux partners with World Mobile as WMT token bridges outside of Cardano, CFX up 3%",
+            "published_at": "2023-07-20T09:05:59Z",
+            "slug": "Conflux-partners-with-World-Mobile-as-WMT-token-bridges-outside-of-Cardano-CFX-up-3",
+            "currencies": [
+                {
+                    "code": "CFX",
+                    "title": "Conflux",
+                    "slug": "conflux-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/conflux-token\/"
+                }
+            ],
+            "id": 18785368,
+            "url": "https:\/\/cryptopanic.com\/news\/18785368\/Conflux-partners-with-World-Mobile-as-WMT-token-bridges-outside-of-Cardano-CFX-up-3",
+            "created_at": "2023-07-20T09:05:59Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptodaily.co.uk",
+            "source": {
+                "title": "CryptoDaily",
+                "region": "en",
+                "domain": "cryptodaily.co.uk",
+                "path": null
+            },
+            "title": "Conflux And World Mobile Join Forces To Expand Blockchain-based Mobile Access",
+            "published_at": "2023-07-20T09:00:28Z",
+            "slug": "Conflux-And-World-Mobile-Join-Forces-To-Expand-Blockchain-based-Mobile-Access",
+            "currencies": [
+                {
+                    "code": "ADA",
+                    "title": "Cardano",
+                    "slug": "cardano",
+                    "url": "https:\/\/cryptopanic.com\/news\/cardano\/"
+                },
+                {
+                    "code": "CFX",
+                    "title": "Conflux",
+                    "slug": "conflux-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/conflux-token\/"
+                }
+            ],
+            "id": 18785367,
+            "url": "https:\/\/cryptopanic.com\/news\/18785367\/Conflux-And-World-Mobile-Join-Forces-To-Expand-Blockchain-based-Mobile-Access",
+            "created_at": "2023-07-20T09:00:28Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptodaily.co.uk",
+            "source": {
+                "title": "CryptoDaily",
+                "region": "en",
+                "domain": "cryptodaily.co.uk",
+                "path": null
+            },
+            "title": "Crypto Market Analysis for H1 According to CoinMarketCap",
+            "published_at": "2023-07-19T20:00:13Z",
+            "slug": "Crypto-Market-Analysis-for-H1-According-to-CoinMarketCap",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "ARB",
+                    "title": "Arbitrum",
+                    "slug": "arbitrum",
+                    "url": "https:\/\/cryptopanic.com\/news\/arbitrum\/"
+                },
+                {
+                    "code": "OP",
+                    "title": "Optimism",
+                    "slug": "optimism",
+                    "url": "https:\/\/cryptopanic.com\/news\/optimism\/"
+                },
+                {
+                    "code": "INJ",
+                    "title": "Injective",
+                    "slug": "injective-protocol",
+                    "url": "https:\/\/cryptopanic.com\/news\/injective-protocol\/"
+                },
+                {
+                    "code": "RNDR",
+                    "title": "Render",
+                    "slug": "render-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/render-token\/"
+                },
+                {
+                    "code": "RPL",
+                    "title": "Rocket Pool",
+                    "slug": "rocket-pool",
+                    "url": "https:\/\/cryptopanic.com\/news\/rocket-pool\/"
+                },
+                {
+                    "code": "PEPE",
+                    "title": "Pepe",
+                    "slug": "pepe",
+                    "url": "https:\/\/cryptopanic.com\/news\/pepe\/"
+                },
+                {
+                    "code": "LUNC",
+                    "title": "Terra Luna Classic",
+                    "slug": "terra-luna",
+                    "url": "https:\/\/cryptopanic.com\/news\/terra-luna\/"
+                },
+                {
+                    "code": "CFX",
+                    "title": "Conflux",
+                    "slug": "conflux-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/conflux-token\/"
+                }
+            ],
+            "id": 18784482,
+            "url": "https:\/\/cryptopanic.com\/news\/18784482\/Crypto-Market-Analysis-for-H1-According-to-CoinMarketCap",
+            "created_at": "2023-07-19T20:00:13Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "r\/Conflux_Network",
+            "source": {
+                "title": "Conflux Reddit",
+                "region": "en",
+                "domain": "reddit.com",
+                "path": "r\/conflux_network"
+            },
+            "title": "last minute pickup",
+            "published_at": "2023-07-13T17:30:29.560275Z",
+            "slug": "last-minute-pickup",
+            "currencies": [
+                {
+                    "code": "CFX",
+                    "title": "Conflux",
+                    "slug": "conflux-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/conflux-token\/"
+                }
+            ],
+            "id": 18772429,
+            "url": "https:\/\/cryptopanic.com\/news\/18772429\/last-minute-pickup",
+            "created_at": "2023-07-13T17:30:29.560275Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptonews.com",
+            "source": {
+                "title": "Cryptonews",
+                "region": "en",
+                "domain": "cryptonews.com",
+                "path": null
+            },
+            "title": "Is it Too Late to Buy Conflux? CFX Pumps Up 11% in 24 Hours and Mr. Hankey Coin Presale is Launching in Less Than 24 Hours \u2013 100x Potential?",
+            "published_at": "2023-07-13T16:03:00Z",
+            "slug": "Is-it-Too-Late-to-Buy-Conflux-CFX-Pumps-Up-11-in-24-Hours-and-Mr-Hankey-Coin-Presale-is-Launching-in-Less-Than-24-Hours-100x-Potential",
+            "currencies": [
+                {
+                    "code": "CFX",
+                    "title": "Conflux",
+                    "slug": "conflux-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/conflux-token\/"
+                }
+            ],
+            "id": 18772748,
+            "url": "https:\/\/cryptopanic.com\/news\/18772748\/Is-it-Too-Late-to-Buy-Conflux-CFX-Pumps-Up-11-in-24-Hours-and-Mr-Hankey-Coin-Presale-is-Launching-in-Less-Than-24-Hours-100x-Potential",
+            "created_at": "2023-07-13T16:03:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "r\/Conflux_Network",
+            "source": {
+                "title": "Conflux Reddit",
+                "region": "en",
+                "domain": "reddit.com",
+                "path": "r\/conflux_network"
+            },
+            "title": "Conflux \ud83e\udd1d BR Group partnership",
+            "published_at": "2023-07-13T09:17:58Z",
+            "slug": "Conflux-BR-Group-partnership",
+            "currencies": [
+                {
+                    "code": "CFX",
+                    "title": "Conflux",
+                    "slug": "conflux-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/conflux-token\/"
+                }
+            ],
+            "id": 18771875,
+            "url": "https:\/\/cryptopanic.com\/news\/18771875\/Conflux-BR-Group-partnership",
+            "created_at": "2023-07-13T09:17:58Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "r\/Conflux_Network",
+            "source": {
+                "title": "Conflux Reddit",
+                "region": "en",
+                "domain": "reddit.com",
+                "path": "r\/conflux_network"
+            },
+            "title": "Not a bad airdrop for a bear market. What do you think? \ud83e\udd14",
+            "published_at": "2023-07-12T22:30:06.841079Z",
+            "slug": "Not-a-bad-airdrop-for-a-bear-market-What-do-you-think",
+            "currencies": [
+                {
+                    "code": "CFX",
+                    "title": "Conflux",
+                    "slug": "conflux-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/conflux-token\/"
+                }
+            ],
+            "id": 18770395,
+            "url": "https:\/\/cryptopanic.com\/news\/18770395\/Not-a-bad-airdrop-for-a-bear-market-What-do-you-think",
+            "created_at": "2023-07-12T22:30:06.841079Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Fund Manager Vanguard Increases Stake In Bitcoin Mining Stocks To $600 Million",
+            "published_at": "2023-07-12T21:00:14Z",
+            "slug": "Fund-Manager-Vanguard-Increases-Stake-In-Bitcoin-Mining-Stocks-To-600-Million",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "CFX",
+                    "title": "Conflux",
+                    "slug": "conflux-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/conflux-token\/"
+                }
+            ],
+            "id": 18770287,
+            "url": "https:\/\/cryptopanic.com\/news\/18770287\/Fund-Manager-Vanguard-Increases-Stake-In-Bitcoin-Mining-Stocks-To-600-Million",
+            "created_at": "2023-07-12T21:00:14Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 1,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 1,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Tether CTO Paulo Adoino Explains 1 Billion USDT Issuance",
+            "published_at": "2023-07-12T20:00:09Z",
+            "slug": "Tether-CTO-Paulo-Adoino-Explains-1-Billion-USDT-Issuance",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "USDT",
+                    "title": "Tether",
+                    "slug": "tether",
+                    "url": "https:\/\/cryptopanic.com\/news\/tether\/"
+                },
+                {
+                    "code": "USDC",
+                    "title": "USD Coin",
+                    "slug": "usd-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/usd-coin\/"
+                },
+                {
+                    "code": "TRX",
+                    "title": "TRON",
+                    "slug": "tron",
+                    "url": "https:\/\/cryptopanic.com\/news\/tron\/"
+                },
+                {
+                    "code": "CFX",
+                    "title": "Conflux",
+                    "slug": "conflux-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/conflux-token\/"
+                }
+            ],
+            "id": 18770188,
+            "url": "https:\/\/cryptopanic.com\/news\/18770188\/Tether-CTO-Paulo-Adoino-Explains-1-Billion-USDT-Issuance",
+            "created_at": "2023-07-12T20:00:09Z"
+        },
+        {
+            "kind": "news",
+            "domain": "coinjournal.net",
+            "votes": {
+                "negative": 1,
+                "positive": 0,
+                "important": 1,
+                "liked": 0,
+                "disliked": 1,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "CoinJournal",
+                "region": "en",
+                "domain": "coinjournal.net",
+                "path": null
+            },
+            "title": "Conflux (CFX) soaring after Bank of China announced SIM Card NFC payments",
+            "published_at": "2023-07-12T18:07:53Z",
+            "slug": "Conflux-CFX-soaring-after-Bank-of-China-announced-SIM-Card-NFC-payments",
+            "currencies": [
+                {
+                    "code": "CFX",
+                    "title": "Conflux",
+                    "slug": "conflux-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/conflux-token\/"
+                }
+            ],
+            "id": 18769958,
+            "url": "https:\/\/cryptopanic.com\/news\/18769958\/Conflux-CFX-soaring-after-Bank-of-China-announced-SIM-Card-NFC-payments",
+            "created_at": "2023-07-12T18:07:53Z"
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Conflux (CFX) Climbs By 11% As Bank of China Begins Sim Card Payment With Digital Yuan",
+            "published_at": "2023-07-12T16:00:58Z",
+            "slug": "Conflux-CFX-Climbs-By-11-As-Bank-of-China-Begins-Sim-Card-Payment-With-Digital-Yuan",
+            "currencies": [
+                {
+                    "code": "CFX",
+                    "title": "Conflux",
+                    "slug": "conflux-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/conflux-token\/"
+                }
+            ],
+            "id": 18769690,
+            "url": "https:\/\/cryptopanic.com\/news\/18769690\/Conflux-CFX-Climbs-By-11-As-Bank-of-China-Begins-Sim-Card-Payment-With-Digital-Yuan",
+            "created_at": "2023-07-12T16:00:58Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "feeds2.benzinga.com",
+            "source": {
+                "title": "Benzinga",
+                "region": "en",
+                "domain": "feeds2.benzinga.com",
+                "path": null
+            },
+            "title": "Bitcoin, Ethereum Move Higher Following Inflation Data; Conflux Emerges As Top Gainer",
+            "published_at": "2023-07-12T13:43:54Z",
+            "slug": "Bitcoin-Ethereum-Move-Higher-Following-Inflation-Data-Conflux-Emerges-As-Top-Gainer",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "CFX",
+                    "title": "Conflux",
+                    "slug": "conflux-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/conflux-token\/"
+                }
+            ],
+            "id": 18769298,
+            "url": "https:\/\/cryptopanic.com\/news\/18769298\/Bitcoin-Ethereum-Move-Higher-Following-Inflation-Data-Conflux-Emerges-As-Top-Gainer",
+            "created_at": "2023-07-12T13:43:54Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@ABCpospool",
+            "source": {
+                "title": "ABC PoS Pool Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@abcpospool"
+            },
+            "title": "ABC Pool 15th round of LP address dividends (July 1st-10th) has been distributed. 1000 $CFX has been allocated to\u2026",
+            "published_at": "2023-07-11T15:42:34Z",
+            "slug": "ABC-Pool-15th-round-of-LP-address-dividends-July-1st-10th-has-been-distributed-1000-CFX-has-been-allocated-to",
+            "currencies": [
+                {
+                    "code": "ABC",
+                    "title": "ABC PoS Pool",
+                    "slug": "abc-pos-pool",
+                    "url": "https:\/\/cryptopanic.com\/news\/abc-pos-pool\/"
+                },
+                {
+                    "code": "CFX",
+                    "title": "Conflux",
+                    "slug": "conflux-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/conflux-token\/"
+                }
+            ],
+            "id": 18762329,
+            "url": "https:\/\/cryptopanic.com\/news\/18762329\/ABC-Pool-15th-round-of-LP-address-dividends-July-1st-10th-has-been-distributed-1000-CFX-has-been-allocated-to",
+            "created_at": "2023-07-11T15:42:34Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Conflux_Network",
+            "source": {
+                "title": "Conflux Token Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@conflux_network"
+            },
+            "title": "We\u2019re happy to see Conflux\u2019s significant presence in Nigeria.  @ConfluxAfrica #Conflux",
+            "published_at": "2023-07-11T13:03:19Z",
+            "slug": "Were-happy-to-see-Confluxs-significant-presence-in-Nigeria-ConfluxAfrica-Conflux",
+            "currencies": [
+                {
+                    "code": "CFX",
+                    "title": "Conflux",
+                    "slug": "conflux-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/conflux-token\/"
+                },
+                {
+                    "code": "WCFX",
+                    "title": "Wrapped Conflux",
+                    "slug": "wrapped-conflux",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-conflux\/"
+                }
+            ],
+            "id": 18763433,
+            "url": "https:\/\/cryptopanic.com\/news\/18763433\/Were-happy-to-see-Confluxs-significant-presence-in-Nigeria-ConfluxAfrica-Conflux",
+            "created_at": "2023-07-11T13:03:19Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@dypius",
+            "source": {
+                "title": "Dypius Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@dypius"
+            },
+            "title": "RT @CryptoAdventure:  \u2066@worldofdypians\u2069 Unveils Stunning Conflux Network Area Spanning 62,500 m2 and #NFT Marketplace\n\n\u2066@dypius\u2069 recent de\u2026",
+            "published_at": "2023-07-11T10:51:27Z",
+            "slug": "RT-CryptoAdventure-worldofdypians-Unveils-Stunning-Conflux-Network-Area-Spanning-62500-m2-and-NFT-Marketplace-dypius-recent-de",
+            "currencies": [
+                {
+                    "code": "DYP",
+                    "title": "Dypius",
+                    "slug": "defi-yield-protocol",
+                    "url": "https:\/\/cryptopanic.com\/news\/defi-yield-protocol\/"
+                },
+                {
+                    "code": "IDYP",
+                    "title": "iDypius",
+                    "slug": "idefiyieldprotocol",
+                    "url": "https:\/\/cryptopanic.com\/news\/idefiyieldprotocol\/"
+                },
+                {
+                    "code": "CFX",
+                    "title": "Conflux",
+                    "slug": "conflux-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/conflux-token\/"
+                }
+            ],
+            "id": 18763898,
+            "url": "https:\/\/cryptopanic.com\/news\/18763898\/RT-CryptoAdventure-worldofdypians-Unveils-Stunning-Conflux-Network-Area-Spanning-62500-m2-and-NFT-Marketplace-dypius-recent-de",
+            "created_at": "2023-07-11T10:51:27Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "r\/Conflux_Network",
+            "source": {
+                "title": "Conflux Reddit",
+                "region": "en",
+                "domain": "reddit.com",
+                "path": "r\/conflux_network"
+            },
+            "title": " CIP-112: Fix Block Headers custom Field Serde",
+            "published_at": "2023-07-10T21:00:50.814485Z",
+            "slug": "CIP-112-Fix-Block-Headers-custom-Field-Serde",
+            "currencies": [
+                {
+                    "code": "CFX",
+                    "title": "Conflux",
+                    "slug": "conflux-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/conflux-token\/"
+                }
+            ],
+            "id": 18753657,
+            "url": "https:\/\/cryptopanic.com\/news\/18753657\/CIP-112-Fix-Block-Headers-custom-Field-Serde",
+            "created_at": "2023-07-10T21:00:50.814485Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "r\/Conflux_Network",
+            "source": {
+                "title": "Conflux Reddit",
+                "region": "en",
+                "domain": "reddit.com",
+                "path": "r\/conflux_network"
+            },
+            "title": " CIP-113: Accelerate Up PoS Finalization",
+            "published_at": "2023-07-10T21:00:50.760411Z",
+            "slug": "CIP-113-Accelerate-Up-PoS-Finalization",
+            "currencies": [
+                {
+                    "code": "CFX",
+                    "title": "Conflux",
+                    "slug": "conflux-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/conflux-token\/"
+                }
+            ],
+            "id": 18753656,
+            "url": "https:\/\/cryptopanic.com\/news\/18753656\/CIP-113-Accelerate-Up-PoS-Finalization",
+            "created_at": "2023-07-10T21:00:50.760411Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Conflux_Network",
+            "source": {
+                "title": "Conflux Token Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@conflux_network"
+            },
+            "title": "RT @coingecko: 1\/ Which crypto are African countries watching in 2023?\n\nOur study shows that meme coins, DeFi tokens and blockchain network\u2026",
+            "published_at": "2023-07-10T19:01:28Z",
+            "slug": "RT-coingecko-1-Which-crypto-are-African-countries-watching-in-2023-Our-study-shows-that-meme-coins-DeFi-tokens-and-blockchain-network",
+            "currencies": [
+                {
+                    "code": "CFX",
+                    "title": "Conflux",
+                    "slug": "conflux-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/conflux-token\/"
+                },
+                {
+                    "code": "WCFX",
+                    "title": "Wrapped Conflux",
+                    "slug": "wrapped-conflux",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-conflux\/"
+                }
+            ],
+            "id": 18755293,
+            "url": "https:\/\/cryptopanic.com\/news\/18755293\/RT-coingecko-1-Which-crypto-are-African-countries-watching-in-2023-Our-study-shows-that-meme-coins-DeFi-tokens-and-blockchain-network",
+            "created_at": "2023-07-10T19:01:28Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Conflux_Network",
+            "source": {
+                "title": "Conflux Token Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@conflux_network"
+            },
+            "title": "We are thrilled to be featured in this hands-on workshop by @LearnWeb3DAO!\n\nWhether you're a seasoned developer or\u2026",
+            "published_at": "2023-07-10T16:05:32Z",
+            "slug": "We-are-thrilled-to-be-featured-in-this-hands-on-workshop-by-LearnWeb3DAO-Whether-youre-a-seasoned-developer-or",
+            "currencies": [
+                {
+                    "code": "CFX",
+                    "title": "Conflux",
+                    "slug": "conflux-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/conflux-token\/"
+                },
+                {
+                    "code": "WCFX",
+                    "title": "Wrapped Conflux",
+                    "slug": "wrapped-conflux",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-conflux\/"
+                }
+            ],
+            "id": 18755294,
+            "url": "https:\/\/cryptopanic.com\/news\/18755294\/We-are-thrilled-to-be-featured-in-this-hands-on-workshop-by-LearnWeb3DAO-Whether-youre-a-seasoned-developer-or",
+            "created_at": "2023-07-10T16:05:32Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Conflux_Network",
+            "source": {
+                "title": "Conflux Token Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@conflux_network"
+            },
+            "title": "RT @dForcenet: Introducing the \u2018dForce Conflux Boost\u2019 to unlock DeFi on Conflux eSpace! \n\nStarting this Friday, for the following eight we\u2026",
+            "published_at": "2023-07-10T16:01:18Z",
+            "slug": "RT-dForcenet-Introducing-the-dForce-Conflux-Boost-to-unlock-DeFi-on-Conflux-eSpace-Starting-this-Friday-for-the-following-eight-we",
+            "currencies": [
+                {
+                    "code": "CFX",
+                    "title": "Conflux",
+                    "slug": "conflux-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/conflux-token\/"
+                },
+                {
+                    "code": "WCFX",
+                    "title": "Wrapped Conflux",
+                    "slug": "wrapped-conflux",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-conflux\/"
+                }
+            ],
+            "id": 18755295,
+            "url": "https:\/\/cryptopanic.com\/news\/18755295\/RT-dForcenet-Introducing-the-dForce-Conflux-Boost-to-unlock-DeFi-on-Conflux-eSpace-Starting-this-Friday-for-the-following-eight-we",
+            "created_at": "2023-07-10T16:01:18Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

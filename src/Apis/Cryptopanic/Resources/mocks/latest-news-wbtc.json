@@ -1,0 +1,1163 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=WBTC&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "CRV Spikes 22% In 2 Weeks As Whale Withdraws From Binance",
+            "published_at": "2023-09-23T00:00:35Z",
+            "slug": "CRV-Spikes-22-In-2-Weeks-As-Whale-Withdraws-From-Binance",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "WBTC",
+                    "title": "Wrapped Bitcoin",
+                    "slug": "wrapped-bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-bitcoin\/"
+                },
+                {
+                    "code": "MKR",
+                    "title": "Maker",
+                    "slug": "maker",
+                    "url": "https:\/\/cryptopanic.com\/news\/maker\/"
+                },
+                {
+                    "code": "CRV",
+                    "title": "Curve DAO",
+                    "slug": "curve-dao-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/curve-dao-token\/"
+                }
+            ],
+            "id": 18923024,
+            "url": "https:\/\/cryptopanic.com\/news\/18923024\/CRV-Spikes-22-In-2-Weeks-As-Whale-Withdraws-From-Binance",
+            "created_at": "2023-09-23T00:00:35Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "Court Approves FTX Liquidation Plan \u2013 Here\u2019s the Full List of Cryptos to Be Sold",
+            "published_at": "2023-09-14T02:49:26Z",
+            "slug": "Court-Approves-FTX-Liquidation-Plan-Heres-the-Full-List-of-Cryptos-to-Be-Sold",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "USDT",
+                    "title": "Tether",
+                    "slug": "tether",
+                    "url": "https:\/\/cryptopanic.com\/news\/tether\/"
+                },
+                {
+                    "code": "DOGE",
+                    "title": "Dogecoin",
+                    "slug": "dogecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/dogecoin\/"
+                },
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "MATIC",
+                    "title": "Polygon",
+                    "slug": "matic-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-network\/"
+                },
+                {
+                    "code": "WBTC",
+                    "title": "Wrapped Bitcoin",
+                    "slug": "wrapped-bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-bitcoin\/"
+                },
+                {
+                    "code": "APT",
+                    "title": "Aptos",
+                    "slug": "aptos",
+                    "url": "https:\/\/cryptopanic.com\/news\/aptos\/"
+                },
+                {
+                    "code": "FTT",
+                    "title": "FTX",
+                    "slug": "ftx-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/ftx-token\/"
+                }
+            ],
+            "id": 18901888,
+            "url": "https:\/\/cryptopanic.com\/news\/18901888\/Court-Approves-FTX-Liquidation-Plan-Heres-the-Full-List-of-Cryptos-to-Be-Sold",
+            "created_at": "2023-09-14T02:49:26Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "FTX Modifies Bitcoin And Crypto Sale Proposal For Court Last Minute",
+            "published_at": "2023-09-13T11:30:10Z",
+            "slug": "FTX-Modifies-Bitcoin-And-Crypto-Sale-Proposal-For-Court-Last-Minute",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "WBTC",
+                    "title": "Wrapped Bitcoin",
+                    "slug": "wrapped-bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-bitcoin\/"
+                },
+                {
+                    "code": "FTT",
+                    "title": "FTX",
+                    "slug": "ftx-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/ftx-token\/"
+                }
+            ],
+            "id": 18899986,
+            "url": "https:\/\/cryptopanic.com\/news\/18899986\/FTX-Modifies-Bitcoin-And-Crypto-Sale-Proposal-For-Court-Last-Minute",
+            "created_at": "2023-09-13T11:30:10Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "FTX Unveils $3.4B Crypto Holdings: $1.16B Solana, $560M Bitcoin \u2013 Is Trouble On The Horizon?",
+            "published_at": "2023-09-11T21:00:24Z",
+            "slug": "FTX-Unveils-34B-Crypto-Holdings-116B-Solana-560M-Bitcoin-Is-Trouble-On-The-Horizon",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                },
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "WBTC",
+                    "title": "Wrapped Bitcoin",
+                    "slug": "wrapped-bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-bitcoin\/"
+                },
+                {
+                    "code": "APT",
+                    "title": "Aptos",
+                    "slug": "aptos",
+                    "url": "https:\/\/cryptopanic.com\/news\/aptos\/"
+                },
+                {
+                    "code": "OP",
+                    "title": "Optimism",
+                    "slug": "optimism",
+                    "url": "https:\/\/cryptopanic.com\/news\/optimism\/"
+                },
+                {
+                    "code": "FTT",
+                    "title": "FTX",
+                    "slug": "ftx-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/ftx-token\/"
+                }
+            ],
+            "id": 18895397,
+            "url": "https:\/\/cryptopanic.com\/news\/18895397\/FTX-Unveils-34B-Crypto-Holdings-116B-Solana-560M-Bitcoin-Is-Trouble-On-The-Horizon",
+            "created_at": "2023-09-11T21:00:24Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinedition.com",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 1,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 1
+            },
+            "source": {
+                "title": "coinedition",
+                "region": "en",
+                "domain": "coinedition.com",
+                "path": null
+            },
+            "title": "XRP, USDT, WBTC Transactions Surge as Whales Accumulate",
+            "published_at": "2023-09-06T20:40:00Z",
+            "slug": "XRP-USDT-WBTC-Transactions-Surge-as-Whales-Accumulate",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                },
+                {
+                    "code": "WBTC",
+                    "title": "Wrapped Bitcoin",
+                    "slug": "wrapped-bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-bitcoin\/"
+                }
+            ],
+            "id": 18884892,
+            "url": "https:\/\/cryptopanic.com\/news\/18884892\/XRP-USDT-WBTC-Transactions-Surge-as-Whales-Accumulate",
+            "created_at": "2023-09-06T20:40:00Z"
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "FTX Wallets Begin Moving Tokens One Month To Sam Bankman-Fried\u2019s Trial",
+            "published_at": "2023-09-04T15:30:18Z",
+            "slug": "FTX-Wallets-Begin-Moving-Tokens-One-Month-To-Sam-Bankman-Frieds-Trial",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "SHIB",
+                    "title": "Shiba Inu",
+                    "slug": "shiba-inu",
+                    "url": "https:\/\/cryptopanic.com\/news\/shiba-inu\/"
+                },
+                {
+                    "code": "WBTC",
+                    "title": "Wrapped Bitcoin",
+                    "slug": "wrapped-bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-bitcoin\/"
+                },
+                {
+                    "code": "FTT",
+                    "title": "FTX",
+                    "slug": "ftx-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/ftx-token\/"
+                }
+            ],
+            "id": 18878857,
+            "url": "https:\/\/cryptopanic.com\/news\/18878857\/FTX-Wallets-Begin-Moving-Tokens-One-Month-To-Sam-Bankman-Frieds-Trial",
+            "created_at": "2023-09-04T15:30:18Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "feeds2.benzinga.com",
+            "source": {
+                "title": "Benzinga",
+                "region": "en",
+                "domain": "feeds2.benzinga.com",
+                "path": null
+            },
+            "title": "Wrapped Bitcoin Decreases More Than 5% Within 24 hours",
+            "published_at": "2023-09-01T15:00:16Z",
+            "slug": "Wrapped-Bitcoin-Decreases-More-Than-5-Within-24-hours",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "WBTC",
+                    "title": "Wrapped Bitcoin",
+                    "slug": "wrapped-bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-bitcoin\/"
+                }
+            ],
+            "id": 18874433,
+            "url": "https:\/\/cryptopanic.com\/news\/18874433\/Wrapped-Bitcoin-Decreases-More-Than-5-Within-24-hours",
+            "created_at": "2023-09-01T15:00:16Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "bitcoin.com",
+            "source": {
+                "title": "Bitcoin.com",
+                "region": "en",
+                "domain": "bitcoin.com",
+                "path": null
+            },
+            "title": "DeOrderBook Set to Launch on Ethereum Mainnet, Pioneering Truly Trustless DeFi Optionality",
+            "published_at": "2023-08-29T11:00:23Z",
+            "slug": "DeOrderBook-Set-to-Launch-on-Ethereum-Mainnet-Pioneering-Truly-Trustless-DeFi-Optionality",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "USDC",
+                    "title": "USD Coin",
+                    "slug": "usd-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/usd-coin\/"
+                },
+                {
+                    "code": "WBTC",
+                    "title": "Wrapped Bitcoin",
+                    "slug": "wrapped-bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-bitcoin\/"
+                }
+            ],
+            "id": 18865957,
+            "url": "https:\/\/cryptopanic.com\/news\/18865957\/DeOrderBook-Set-to-Launch-on-Ethereum-Mainnet-Pioneering-Truly-Trustless-DeFi-Optionality",
+            "created_at": "2023-08-29T11:00:23Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "votes": {
+                "negative": 1,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Binance Will Halt These 39 Liquidity Mining Pools This Week",
+            "published_at": "2023-08-28T19:00:36Z",
+            "slug": "Binance-Will-Halt-These-39-Liquidity-Mining-Pools-This-Week",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "BNB",
+                    "title": "BNB",
+                    "slug": "binancecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/binancecoin\/"
+                },
+                {
+                    "code": "ADA",
+                    "title": "Cardano",
+                    "slug": "cardano",
+                    "url": "https:\/\/cryptopanic.com\/news\/cardano\/"
+                },
+                {
+                    "code": "TRX",
+                    "title": "TRON",
+                    "slug": "tron",
+                    "url": "https:\/\/cryptopanic.com\/news\/tron\/"
+                },
+                {
+                    "code": "DOT",
+                    "title": "Polkadot",
+                    "slug": "polkadot",
+                    "url": "https:\/\/cryptopanic.com\/news\/polkadot\/"
+                },
+                {
+                    "code": "MATIC",
+                    "title": "Polygon",
+                    "slug": "matic-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-network\/"
+                },
+                {
+                    "code": "WBTC",
+                    "title": "Wrapped Bitcoin",
+                    "slug": "wrapped-bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-bitcoin\/"
+                },
+                {
+                    "code": "AVAX",
+                    "title": "Avalanche",
+                    "slug": "avalanche-2",
+                    "url": "https:\/\/cryptopanic.com\/news\/avalanche-2\/"
+                },
+                {
+                    "code": "XMR",
+                    "title": "Monero",
+                    "slug": "monero",
+                    "url": "https:\/\/cryptopanic.com\/news\/monero\/"
+                },
+                {
+                    "code": "ICP",
+                    "title": "Internet Computer",
+                    "slug": "internet-computer",
+                    "url": "https:\/\/cryptopanic.com\/news\/internet-computer\/"
+                },
+                {
+                    "code": "FIL",
+                    "title": "Filecoin",
+                    "slug": "filecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/filecoin\/"
+                },
+                {
+                    "code": "THETA",
+                    "title": "Theta Network",
+                    "slug": "theta-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/theta-token\/"
+                },
+                {
+                    "code": "APE",
+                    "title": "ApeCoin",
+                    "slug": "apecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/apecoin\/"
+                },
+                {
+                    "code": "NEO",
+                    "title": "NEO",
+                    "slug": "neo",
+                    "url": "https:\/\/cryptopanic.com\/news\/neo\/"
+                },
+                {
+                    "code": "GALA",
+                    "title": "GALA",
+                    "slug": "gala",
+                    "url": "https:\/\/cryptopanic.com\/news\/gala\/"
+                },
+                {
+                    "code": "PAXG",
+                    "title": "PAX Gold",
+                    "slug": "pax-gold",
+                    "url": "https:\/\/cryptopanic.com\/news\/pax-gold\/"
+                },
+                {
+                    "code": "CHZ",
+                    "title": "Chiliz",
+                    "slug": "chiliz",
+                    "url": "https:\/\/cryptopanic.com\/news\/chiliz\/"
+                },
+                {
+                    "code": "PEPE",
+                    "title": "Pepe",
+                    "slug": "pepe",
+                    "url": "https:\/\/cryptopanic.com\/news\/pepe\/"
+                }
+            ],
+            "id": 18864662,
+            "url": "https:\/\/cryptopanic.com\/news\/18864662\/Binance-Will-Halt-These-39-Liquidity-Mining-Pools-This-Week",
+            "created_at": "2023-08-28T19:00:36Z"
+        },
+        {
+            "kind": "news",
+            "domain": "feeds2.benzinga.com",
+            "source": {
+                "title": "Benzinga",
+                "region": "en",
+                "domain": "feeds2.benzinga.com",
+                "path": null
+            },
+            "title": "Wrapped Bitcoin Decreases More Than 7% Within 24 hours",
+            "published_at": "2023-08-18T15:00:18Z",
+            "slug": "Wrapped-Bitcoin-Decreases-More-Than-7-Within-24-hours",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "WBTC",
+                    "title": "Wrapped Bitcoin",
+                    "slug": "wrapped-bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-bitcoin\/"
+                }
+            ],
+            "id": 18846206,
+            "url": "https:\/\/cryptopanic.com\/news\/18846206\/Wrapped-Bitcoin-Decreases-More-Than-7-Within-24-hours",
+            "created_at": "2023-08-18T15:00:18Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "SEI Token Breaks Into Top 100 One Day Post-Debut On Major Exchanges",
+            "published_at": "2023-08-16T11:50:26Z",
+            "slug": "SEI-Token-Breaks-Into-Top-100-One-Day-Post-Debut-On-Major-Exchanges",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "SHIB",
+                    "title": "Shiba Inu",
+                    "slug": "shiba-inu",
+                    "url": "https:\/\/cryptopanic.com\/news\/shiba-inu\/"
+                },
+                {
+                    "code": "WBTC",
+                    "title": "Wrapped Bitcoin",
+                    "slug": "wrapped-bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-bitcoin\/"
+                },
+                {
+                    "code": "KCS",
+                    "title": "KuCoin",
+                    "slug": "kucoin-shares",
+                    "url": "https:\/\/cryptopanic.com\/news\/kucoin-shares\/"
+                },
+                {
+                    "code": "SEI",
+                    "title": "Sei",
+                    "slug": "sei-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/sei-network\/"
+                }
+            ],
+            "id": 18840418,
+            "url": "https:\/\/cryptopanic.com\/news\/18840418\/SEI-Token-Breaks-Into-Top-100-One-Day-Post-Debut-On-Major-Exchanges",
+            "created_at": "2023-08-16T11:50:26Z"
+        },
+        {
+            "kind": "news",
+            "domain": "coingape.com",
+            "votes": {
+                "negative": 0,
+                "positive": 2,
+                "important": 2,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "CoinGape",
+                "region": "en",
+                "domain": "coingape.com",
+                "path": null
+            },
+            "title": "Cardano (ADA) Welcomes Wrapped Bitcoin on Mainnet",
+            "published_at": "2023-08-12T17:55:05Z",
+            "slug": "Cardano-ADA-Welcomes-Wrapped-Bitcoin-on-Mainnet",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ADA",
+                    "title": "Cardano",
+                    "slug": "cardano",
+                    "url": "https:\/\/cryptopanic.com\/news\/cardano\/"
+                },
+                {
+                    "code": "WBTC",
+                    "title": "Wrapped Bitcoin",
+                    "slug": "wrapped-bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-bitcoin\/"
+                }
+            ],
+            "id": 18833914,
+            "url": "https:\/\/cryptopanic.com\/news\/18833914\/Cardano-ADA-Welcomes-Wrapped-Bitcoin-on-Mainnet",
+            "created_at": "2023-08-12T17:55:05Z"
+        },
+        {
+            "kind": "news",
+            "domain": "u.today",
+            "votes": {
+                "negative": 2,
+                "positive": 1,
+                "important": 1,
+                "liked": 0,
+                "disliked": 2,
+                "lol": 2,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "U.Today",
+                "region": "en",
+                "domain": "u.today",
+                "path": null
+            },
+            "title": "Cardano Successfully Mints BTC as Big Phase Unveils for Network",
+            "published_at": "2023-08-12T14:57:00Z",
+            "slug": "Cardano-Successfully-Mints-BTC-as-Big-Phase-Unveils-for-Network",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ADA",
+                    "title": "Cardano",
+                    "slug": "cardano",
+                    "url": "https:\/\/cryptopanic.com\/news\/cardano\/"
+                },
+                {
+                    "code": "WBTC",
+                    "title": "Wrapped Bitcoin",
+                    "slug": "wrapped-bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-bitcoin\/"
+                }
+            ],
+            "id": 18833779,
+            "url": "https:\/\/cryptopanic.com\/news\/18833779\/Cardano-Successfully-Mints-BTC-as-Big-Phase-Unveils-for-Network",
+            "created_at": "2023-08-12T14:57:00Z"
+        },
+        {
+            "kind": "news",
+            "domain": "cryptodaily.co.uk",
+            "source": {
+                "title": "CryptoDaily",
+                "region": "en",
+                "domain": "cryptodaily.co.uk",
+                "path": null
+            },
+            "title": "OPNX Launches Bid To Acquire 75% Of Crypto Lender Hodlnaut",
+            "published_at": "2023-08-07T08:55:00Z",
+            "slug": "OPNX-Launches-Bid-To-Acquire-75-Of-Crypto-Lender-Hodlnaut",
+            "currencies": [
+                {
+                    "code": "WBTC",
+                    "title": "Wrapped Bitcoin",
+                    "slug": "wrapped-bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-bitcoin\/"
+                },
+                {
+                    "code": "ALGO",
+                    "title": "Algorand",
+                    "slug": "algorand",
+                    "url": "https:\/\/cryptopanic.com\/news\/algorand\/"
+                },
+                {
+                    "code": "FLEX",
+                    "title": "FLEX Coin",
+                    "slug": "flex-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/flex-coin\/"
+                }
+            ],
+            "id": 18821510,
+            "url": "https:\/\/cryptopanic.com\/news\/18821510\/OPNX-Launches-Bid-To-Acquire-75-Of-Crypto-Lender-Hodlnaut",
+            "created_at": "2023-08-07T08:55:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Abracadabra Protocol To Counter CRV Risk With 200% Interest Rate Hike",
+            "published_at": "2023-08-02T18:00:44Z",
+            "slug": "Abracadabra-Protocol-To-Counter-CRV-Risk-With-200-Interest-Rate-Hike",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "WBTC",
+                    "title": "Wrapped Bitcoin",
+                    "slug": "wrapped-bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-bitcoin\/"
+                },
+                {
+                    "code": "CRV",
+                    "title": "Curve DAO",
+                    "slug": "curve-dao-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/curve-dao-token\/"
+                }
+            ],
+            "id": 18813276,
+            "url": "https:\/\/cryptopanic.com\/news\/18813276\/Abracadabra-Protocol-To-Counter-CRV-Risk-With-200-Interest-Rate-Hike",
+            "created_at": "2023-08-02T18:00:44Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinedition.com",
+            "source": {
+                "title": "coinedition",
+                "region": "en",
+                "domain": "coinedition.com",
+                "path": null
+            },
+            "title": "WBTC Up After Large Transactions Impacted Exchange Supply",
+            "published_at": "2023-08-02T12:02:35Z",
+            "slug": "WBTC-Up-After-Large-Transactions-Impacted-Exchange-Supply",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "WBTC",
+                    "title": "Wrapped Bitcoin",
+                    "slug": "wrapped-bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-bitcoin\/"
+                }
+            ],
+            "id": 18812389,
+            "url": "https:\/\/cryptopanic.com\/news\/18812389\/WBTC-Up-After-Large-Transactions-Impacted-Exchange-Supply",
+            "created_at": "2023-08-02T12:02:35Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "votes": {
+                "negative": 0,
+                "positive": 2,
+                "important": 1,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 1,
+                "comments": 0
+            },
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Shiba Inu Reclaims 14th Spot In Market After 5% Jump",
+            "published_at": "2023-07-29T16:00:20Z",
+            "slug": "Shiba-Inu-Reclaims-14th-Spot-In-Market-After-5-Jump",
+            "currencies": [
+                {
+                    "code": "MC_",
+                    "title": "Market Cap",
+                    "slug": "market-cap",
+                    "url": "https:\/\/cryptopanic.com\/news\/market-cap\/"
+                },
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "DOGE",
+                    "title": "Dogecoin",
+                    "slug": "dogecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/dogecoin\/"
+                },
+                {
+                    "code": "SHIB",
+                    "title": "Shiba Inu",
+                    "slug": "shiba-inu",
+                    "url": "https:\/\/cryptopanic.com\/news\/shiba-inu\/"
+                },
+                {
+                    "code": "WBTC",
+                    "title": "Wrapped Bitcoin",
+                    "slug": "wrapped-bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-bitcoin\/"
+                },
+                {
+                    "code": "BCH",
+                    "title": "Bitcoin Cash",
+                    "slug": "bitcoin-cash",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin-cash\/"
+                }
+            ],
+            "id": 18804722,
+            "url": "https:\/\/cryptopanic.com\/news\/18804722\/Shiba-Inu-Reclaims-14th-Spot-In-Market-After-5-Jump",
+            "created_at": "2023-07-29T16:00:20Z"
+        },
+        {
+            "kind": "news",
+            "domain": "bitcoin.com",
+            "source": {
+                "title": "Bitcoin.com",
+                "region": "en",
+                "domain": "bitcoin.com",
+                "path": null
+            },
+            "title": "Navigating the Wrapped Bitcoin Landscape: 86,000 WBTC Exit Circulation in One Year",
+            "published_at": "2023-07-29T15:30:11Z",
+            "slug": "Navigating-the-Wrapped-Bitcoin-Landscape-86000-WBTC-Exit-Circulation-in-One-Year",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "WBTC",
+                    "title": "Wrapped Bitcoin",
+                    "slug": "wrapped-bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-bitcoin\/"
+                },
+                {
+                    "code": "LEND",
+                    "title": "Aave [OLD]",
+                    "slug": "ethlend",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethlend\/"
+                }
+            ],
+            "id": 18804678,
+            "url": "https:\/\/cryptopanic.com\/news\/18804678\/Navigating-the-Wrapped-Bitcoin-Landscape-86000-WBTC-Exit-Circulation-in-One-Year",
+            "created_at": "2023-07-29T15:30:11Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "dailyhodl.com",
+            "source": {
+                "title": "The Daily Hodl",
+                "region": "en",
+                "domain": "dailyhodl.com",
+                "path": null
+            },
+            "title": "Ethereum Whales Sell Off Massive Amounts of ETH and Wrapped Bitcoin As Crypto Markets Weaken: On-Chain Data",
+            "published_at": "2023-07-26T11:45:46Z",
+            "slug": "Ethereum-Whales-Sell-Off-Massive-Amounts-of-ETH-and-Wrapped-Bitcoin-As-Crypto-Markets-Weaken-On-Chain-Data",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "WBTC",
+                    "title": "Wrapped Bitcoin",
+                    "slug": "wrapped-bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-bitcoin\/"
+                },
+                {
+                    "code": "UNI",
+                    "title": "Uniswap",
+                    "slug": "uniswap",
+                    "url": "https:\/\/cryptopanic.com\/news\/uniswap\/"
+                }
+            ],
+            "id": 18797382,
+            "url": "https:\/\/cryptopanic.com\/news\/18797382\/Ethereum-Whales-Sell-Off-Massive-Amounts-of-ETH-and-Wrapped-Bitcoin-As-Crypto-Markets-Weaken-On-Chain-Data",
+            "created_at": "2023-07-26T11:45:46Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptoslate.com",
+            "source": {
+                "title": "CryptoSlate",
+                "region": "en",
+                "domain": "cryptoslate.com",
+                "path": null
+            },
+            "title": "Swingby Launches V3 iteration of its Bitcoin bridge",
+            "published_at": "2023-07-25T13:00:31Z",
+            "slug": "Swingby-Launches-V3-iteration-of-its-Bitcoin-bridge",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "WBTC",
+                    "title": "Wrapped Bitcoin",
+                    "slug": "wrapped-bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-bitcoin\/"
+                }
+            ],
+            "id": 18795068,
+            "url": "https:\/\/cryptopanic.com\/news\/18795068\/Swingby-Launches-V3-iteration-of-its-Bitcoin-bridge",
+            "created_at": "2023-07-25T13:00:31Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

@@ -1,0 +1,947 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=BETH&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "@ethereum",
+            "source": {
+                "title": "Ethereum Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@ethereum"
+            },
+            "title": "RT @drakefjustin: the Ethereum Foundation research team will host a Reddit AMA on Jul 12 at 1pm UTC",
+            "published_at": "2023-07-10T10:33:45Z",
+            "slug": "RT-drakefjustin-the-Ethereum-Foundation-research-team-will-host-a-Reddit-AMA-on-Jul-12-at-1pm-UTC",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "BETH",
+                    "title": "Binance ETH staking",
+                    "slug": "binance-eth",
+                    "url": "https:\/\/cryptopanic.com\/news\/binance-eth\/"
+                },
+                {
+                    "code": "SOETH",
+                    "title": "Wrapped Ethereum (Sollet)",
+                    "slug": "wrapped-ethereum-sollet",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-ethereum-sollet\/"
+                }
+            ],
+            "id": 18755988,
+            "url": "https:\/\/cryptopanic.com\/news\/18755988\/RT-drakefjustin-the-Ethereum-Foundation-research-team-will-host-a-Reddit-AMA-on-Jul-12-at-1pm-UTC",
+            "created_at": "2023-07-10T10:33:45Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@ethereum",
+            "source": {
+                "title": "Ethereum Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@ethereum"
+            },
+            "title": "RT @CarlBeek: \ufe0fannouncing the final round of of contributions to the KZG ceremony. \ufe0f\n\nif you haven't contributed yet, now's the time:\n- t\u2026",
+            "published_at": "2023-07-05T22:11:27Z",
+            "slug": "RT-CarlBeek-announcing-the-final-round-of-of-contributions-to-the-KZG-ceremony-if-you-havent-contributed-yet-nows-the-time-t",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "BETH",
+                    "title": "Binance ETH staking",
+                    "slug": "binance-eth",
+                    "url": "https:\/\/cryptopanic.com\/news\/binance-eth\/"
+                },
+                {
+                    "code": "SOETH",
+                    "title": "Wrapped Ethereum (Sollet)",
+                    "slug": "wrapped-ethereum-sollet",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-ethereum-sollet\/"
+                }
+            ],
+            "id": 18723801,
+            "url": "https:\/\/cryptopanic.com\/news\/18723801\/RT-CarlBeek-announcing-the-final-round-of-of-contributions-to-the-KZG-ceremony-if-you-havent-contributed-yet-nows-the-time-t",
+            "created_at": "2023-07-05T22:11:27Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@ethereum",
+            "source": {
+                "title": "Ethereum Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@ethereum"
+            },
+            "title": "RT @EFDevcon:  The Road to Devcon 7 in Southeast Asia begins! \n\nAre you:\n Located in Southeast Asia,\n\ud83e\udd1d Driven by a community-focused spi\u2026",
+            "published_at": "2023-06-30T07:24:01Z",
+            "slug": "RT-EFDevcon-The-Road-to-Devcon-7-in-Southeast-Asia-begins-Are-you-Located-in-Southeast-Asia-Driven-by-a-community-focused-spi",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "BETH",
+                    "title": "Binance ETH staking",
+                    "slug": "binance-eth",
+                    "url": "https:\/\/cryptopanic.com\/news\/binance-eth\/"
+                },
+                {
+                    "code": "SOETH",
+                    "title": "Wrapped Ethereum (Sollet)",
+                    "slug": "wrapped-ethereum-sollet",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-ethereum-sollet\/"
+                }
+            ],
+            "id": 18693265,
+            "url": "https:\/\/cryptopanic.com\/news\/18693265\/RT-EFDevcon-The-Road-to-Devcon-7-in-Southeast-Asia-begins-Are-you-Located-in-Southeast-Asia-Driven-by-a-community-focused-spi",
+            "created_at": "2023-06-30T07:24:01Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@ethereum",
+            "source": {
+                "title": "Ethereum Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@ethereum"
+            },
+            "title": "RT @Drigolvc:  The Ethereum Academic Grants Round 2023 is finalized. \n\n43 Projects with research teams from 21 countries were selected to\u2026",
+            "published_at": "2023-06-28T15:09:16Z",
+            "slug": "RT-Drigolvc-The-Ethereum-Academic-Grants-Round-2023-is-finalized-43-Projects-with-research-teams-from-21-countries-were-selected-to",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "BETH",
+                    "title": "Binance ETH staking",
+                    "slug": "binance-eth",
+                    "url": "https:\/\/cryptopanic.com\/news\/binance-eth\/"
+                },
+                {
+                    "code": "SOETH",
+                    "title": "Wrapped Ethereum (Sollet)",
+                    "slug": "wrapped-ethereum-sollet",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-ethereum-sollet\/"
+                }
+            ],
+            "id": 18677311,
+            "url": "https:\/\/cryptopanic.com\/news\/18677311\/RT-Drigolvc-The-Ethereum-Academic-Grants-Round-2023-is-finalized-43-Projects-with-research-teams-from-21-countries-were-selected-to",
+            "created_at": "2023-06-28T15:09:16Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@ethereum",
+            "source": {
+                "title": "Ethereum Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@ethereum"
+            },
+            "title": "RT @EFNextBillion: Announcing the Devconnect Scholars Program! \n\nThe Program will provide talented individuals from communities currently\u2026",
+            "published_at": "2023-06-26T18:29:24Z",
+            "slug": "RT-EFNextBillion-Announcing-the-Devconnect-Scholars-Program-The-Program-will-provide-talented-individuals-from-communities-currently",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "BETH",
+                    "title": "Binance ETH staking",
+                    "slug": "binance-eth",
+                    "url": "https:\/\/cryptopanic.com\/news\/binance-eth\/"
+                },
+                {
+                    "code": "SOETH",
+                    "title": "Wrapped Ethereum (Sollet)",
+                    "slug": "wrapped-ethereum-sollet",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-ethereum-sollet\/"
+                }
+            ],
+            "id": 18660814,
+            "url": "https:\/\/cryptopanic.com\/news\/18660814\/RT-EFNextBillion-Announcing-the-Devconnect-Scholars-Program-The-Program-will-provide-talented-individuals-from-communities-currently",
+            "created_at": "2023-06-26T18:29:24Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@ethereum",
+            "source": {
+                "title": "Ethereum Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@ethereum"
+            },
+            "title": "RT @EthereumOnARM: This is an #Ethereum Archive Node (@erigon) running on a &lt;$500 ARM board using 10w of power.\n\nIn 2023 you can run an ar\u2026",
+            "published_at": "2023-06-15T22:24:17Z",
+            "slug": "RT-EthereumOnARM-This-is-an-Ethereum-Archive-Node-erigon-running-on-a-lt500-ARM-board-using-10w-of-power-In-2023-you-can-run-an-ar",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "BETH",
+                    "title": "Binance ETH staking",
+                    "slug": "binance-eth",
+                    "url": "https:\/\/cryptopanic.com\/news\/binance-eth\/"
+                },
+                {
+                    "code": "SOETH",
+                    "title": "Wrapped Ethereum (Sollet)",
+                    "slug": "wrapped-ethereum-sollet",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-ethereum-sollet\/"
+                }
+            ],
+            "id": 18586774,
+            "url": "https:\/\/cryptopanic.com\/news\/18586774\/RT-EthereumOnARM-This-is-an-Ethereum-Archive-Node-erigon-running-on-a-lt500-ARM-board-using-10w-of-power-In-2023-you-can-run-an-ar",
+            "created_at": "2023-06-15T22:24:17Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@ethereum",
+            "source": {
+                "title": "Ethereum Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@ethereum"
+            },
+            "title": "RT @TMIYChao: The deadline for EPF applications was just extended to June 18, Sunday! You can take a time during the weekend to submit it a\u2026",
+            "published_at": "2023-06-15T22:23:34Z",
+            "slug": "RT-TMIYChao-The-deadline-for-EPF-applications-was-just-extended-to-June-18-Sunday-You-can-take-a-time-during-the-weekend-to-submit-it-a",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "BETH",
+                    "title": "Binance ETH staking",
+                    "slug": "binance-eth",
+                    "url": "https:\/\/cryptopanic.com\/news\/binance-eth\/"
+                },
+                {
+                    "code": "SOETH",
+                    "title": "Wrapped Ethereum (Sollet)",
+                    "slug": "wrapped-ethereum-sollet",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-ethereum-sollet\/"
+                }
+            ],
+            "id": 18586775,
+            "url": "https:\/\/cryptopanic.com\/news\/18586775\/RT-TMIYChao-The-deadline-for-EPF-applications-was-just-extended-to-June-18-Sunday-You-can-take-a-time-during-the-weekend-to-submit-it-a",
+            "created_at": "2023-06-15T22:23:34Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@ethereum",
+            "source": {
+                "title": "Ethereum Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@ethereum"
+            },
+            "title": "RT @EFDevconnect: \ud83e\udd73 We're excited to share a first glimpse into the Devconnect schedule!\n\nIt's a work in progress &amp; we'll see more events t\u2026",
+            "published_at": "2023-06-15T20:08:58Z",
+            "slug": "RT-EFDevconnect-Were-excited-to-share-a-first-glimpse-into-the-Devconnect-schedule-Its-a-work-in-progress-amp-well-see-more-events-t",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "BETH",
+                    "title": "Binance ETH staking",
+                    "slug": "binance-eth",
+                    "url": "https:\/\/cryptopanic.com\/news\/binance-eth\/"
+                },
+                {
+                    "code": "SOETH",
+                    "title": "Wrapped Ethereum (Sollet)",
+                    "slug": "wrapped-ethereum-sollet",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-ethereum-sollet\/"
+                }
+            ],
+            "id": 18586776,
+            "url": "https:\/\/cryptopanic.com\/news\/18586776\/RT-EFDevconnect-Were-excited-to-share-a-first-glimpse-into-the-Devconnect-schedule-Its-a-work-in-progress-amp-well-see-more-events-t",
+            "created_at": "2023-06-15T20:08:58Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@ethereum",
+            "source": {
+                "title": "Ethereum Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@ethereum"
+            },
+            "title": "RT @EF_ESP: New year, new grants \n\nCheck out our latest Allocation Update blog post to learn more about the projects that received funding\u2026",
+            "published_at": "2023-06-15T16:36:16Z",
+            "slug": "RT-EF_ESP-New-year-new-grants-Check-out-our-latest-Allocation-Update-blog-post-to-learn-more-about-the-projects-that-received-funding",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "BETH",
+                    "title": "Binance ETH staking",
+                    "slug": "binance-eth",
+                    "url": "https:\/\/cryptopanic.com\/news\/binance-eth\/"
+                },
+                {
+                    "code": "SOETH",
+                    "title": "Wrapped Ethereum (Sollet)",
+                    "slug": "wrapped-ethereum-sollet",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-ethereum-sollet\/"
+                }
+            ],
+            "id": 18586777,
+            "url": "https:\/\/cryptopanic.com\/news\/18586777\/RT-EF_ESP-New-year-new-grants-Check-out-our-latest-Allocation-Update-blog-post-to-learn-more-about-the-projects-that-received-funding",
+            "created_at": "2023-06-15T16:36:16Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@ethereum",
+            "source": {
+                "title": "Ethereum Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@ethereum"
+            },
+            "title": "RT @ethdotorg: Got questions? Better have the answers too... \ud83e\uddd0\n\nWe're delighted to announce that all quizzes on are\u2026",
+            "published_at": "2023-06-15T16:35:50Z",
+            "slug": "RT-ethdotorg-Got-questions-Better-have-the-answers-too-Were-delighted-to-announce-that-all-quizzes-on-are",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "BETH",
+                    "title": "Binance ETH staking",
+                    "slug": "binance-eth",
+                    "url": "https:\/\/cryptopanic.com\/news\/binance-eth\/"
+                },
+                {
+                    "code": "SOETH",
+                    "title": "Wrapped Ethereum (Sollet)",
+                    "slug": "wrapped-ethereum-sollet",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-ethereum-sollet\/"
+                }
+            ],
+            "id": 18586778,
+            "url": "https:\/\/cryptopanic.com\/news\/18586778\/RT-ethdotorg-Got-questions-Better-have-the-answers-too-Were-delighted-to-announce-that-all-quizzes-on-are",
+            "created_at": "2023-06-15T16:35:50Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@ethereum",
+            "source": {
+                "title": "Ethereum Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@ethereum"
+            },
+            "title": "RT @DAOResearchCo: How do we mitigate our Big Tech problem?\n\nBy enhancing &amp; supporting equitably owned and governed alternatives.\n\nWe descr\u2026",
+            "published_at": "2023-06-12T19:35:56Z",
+            "slug": "RT-DAOResearchCo-How-do-we-mitigate-our-Big-Tech-problem-By-enhancing-amp-supporting-equitably-owned-and-governed-alternatives-We-descr",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "BETH",
+                    "title": "Binance ETH staking",
+                    "slug": "binance-eth",
+                    "url": "https:\/\/cryptopanic.com\/news\/binance-eth\/"
+                },
+                {
+                    "code": "SOETH",
+                    "title": "Wrapped Ethereum (Sollet)",
+                    "slug": "wrapped-ethereum-sollet",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-ethereum-sollet\/"
+                }
+            ],
+            "id": 18562196,
+            "url": "https:\/\/cryptopanic.com\/news\/18562196\/RT-DAOResearchCo-How-do-we-mitigate-our-Big-Tech-problem-By-enhancing-amp-supporting-equitably-owned-and-governed-alternatives-We-descr",
+            "created_at": "2023-06-12T19:35:56Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@ethereum",
+            "source": {
+                "title": "Ethereum Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@ethereum"
+            },
+            "title": "RT @ETHGlobal:  The countdown is on! \n\nHackers, ETHGlobal Waterloo is officially only two weeks away! \nNow is the time to finalize your su\u2026",
+            "published_at": "2023-06-09T19:51:18Z",
+            "slug": "RT-ETHGlobal-The-countdown-is-on-Hackers-ETHGlobal-Waterloo-is-officially-only-two-weeks-away-Now-is-the-time-to-finalize-your-su",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "BETH",
+                    "title": "Binance ETH staking",
+                    "slug": "binance-eth",
+                    "url": "https:\/\/cryptopanic.com\/news\/binance-eth\/"
+                },
+                {
+                    "code": "SOETH",
+                    "title": "Wrapped Ethereum (Sollet)",
+                    "slug": "wrapped-ethereum-sollet",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-ethereum-sollet\/"
+                }
+            ],
+            "id": 18545169,
+            "url": "https:\/\/cryptopanic.com\/news\/18545169\/RT-ETHGlobal-The-countdown-is-on-Hackers-ETHGlobal-Waterloo-is-officially-only-two-weeks-away-Now-is-the-time-to-finalize-your-su",
+            "created_at": "2023-06-09T19:51:18Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@ethereum",
+            "source": {
+                "title": "Ethereum Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@ethereum"
+            },
+            "title": "RT @EF_ESP: \nESP is hosting a new round to encourage the diversification of Ethereum nodes and their use cases. \nLooking for creative a\u2026",
+            "published_at": "2023-06-08T00:08:24Z",
+            "slug": "RT-EF_ESP-ESP-is-hosting-a-new-round-to-encourage-the-diversification-of-Ethereum-nodes-and-their-use-cases-Looking-for-creative-a",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "BETH",
+                    "title": "Binance ETH staking",
+                    "slug": "binance-eth",
+                    "url": "https:\/\/cryptopanic.com\/news\/binance-eth\/"
+                },
+                {
+                    "code": "SOETH",
+                    "title": "Wrapped Ethereum (Sollet)",
+                    "slug": "wrapped-ethereum-sollet",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-ethereum-sollet\/"
+                }
+            ],
+            "id": 18528118,
+            "url": "https:\/\/cryptopanic.com\/news\/18528118\/RT-EF_ESP-ESP-is-hosting-a-new-round-to-encourage-the-diversification-of-Ethereum-nodes-and-their-use-cases-Looking-for-creative-a",
+            "created_at": "2023-06-08T00:08:24Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@ethereum",
+            "source": {
+                "title": "Ethereum Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@ethereum"
+            },
+            "title": "RT @TMIYChao: Still not sure about applying? You have time till June 16 and on June 12, 4:30PM UTC, we will hold a town hall to answer all\u2026",
+            "published_at": "2023-06-07T10:17:26Z",
+            "slug": "RT-TMIYChao-Still-not-sure-about-applying-You-have-time-till-June-16-and-on-June-12-430PM-UTC-we-will-hold-a-town-hall-to-answer-all",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "BETH",
+                    "title": "Binance ETH staking",
+                    "slug": "binance-eth",
+                    "url": "https:\/\/cryptopanic.com\/news\/binance-eth\/"
+                },
+                {
+                    "code": "SOETH",
+                    "title": "Wrapped Ethereum (Sollet)",
+                    "slug": "wrapped-ethereum-sollet",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-ethereum-sollet\/"
+                }
+            ],
+            "id": 18528119,
+            "url": "https:\/\/cryptopanic.com\/news\/18528119\/RT-TMIYChao-Still-not-sure-about-applying-You-have-time-till-June-16-and-on-June-12-430PM-UTC-we-will-hold-a-town-hall-to-answer-all",
+            "created_at": "2023-06-07T10:17:26Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@ethereum",
+            "source": {
+                "title": "Ethereum Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@ethereum"
+            },
+            "title": "RT @joshdavislight:  Big news, #Ethereum community! Applications for the 4th cohort of the Ethereum Protocol Fellowship (EPF) are now OPEN\u2026",
+            "published_at": "2023-06-02T10:07:43Z",
+            "slug": "RT-joshdavislight-Big-news-Ethereum-community-Applications-for-the-4th-cohort-of-the-Ethereum-Protocol-Fellowship-EPF-are-now-OPEN",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "BETH",
+                    "title": "Binance ETH staking",
+                    "slug": "binance-eth",
+                    "url": "https:\/\/cryptopanic.com\/news\/binance-eth\/"
+                },
+                {
+                    "code": "SOETH",
+                    "title": "Wrapped Ethereum (Sollet)",
+                    "slug": "wrapped-ethereum-sollet",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-ethereum-sollet\/"
+                }
+            ],
+            "id": 18492474,
+            "url": "https:\/\/cryptopanic.com\/news\/18492474\/RT-joshdavislight-Big-news-Ethereum-community-Applications-for-the-4th-cohort-of-the-Ethereum-Protocol-Fellowship-EPF-are-now-OPEN",
+            "created_at": "2023-06-02T10:07:43Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@ethereum",
+            "source": {
+                "title": "Ethereum Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@ethereum"
+            },
+            "title": "RT @dannyryan: Repost -- LSDs above critical consensus thresholds pose risks to the Ethereum protocol\n\nWith withdrawals enabled, it's time\u2026",
+            "published_at": "2023-06-01T04:35:17Z",
+            "slug": "RT-dannyryan-Repost-LSDs-above-critical-consensus-thresholds-pose-risks-to-the-Ethereum-protocol-With-withdrawals-enabled-its-time",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "BETH",
+                    "title": "Binance ETH staking",
+                    "slug": "binance-eth",
+                    "url": "https:\/\/cryptopanic.com\/news\/binance-eth\/"
+                },
+                {
+                    "code": "SOETH",
+                    "title": "Wrapped Ethereum (Sollet)",
+                    "slug": "wrapped-ethereum-sollet",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-ethereum-sollet\/"
+                }
+            ],
+            "id": 18475328,
+            "url": "https:\/\/cryptopanic.com\/news\/18475328\/RT-dannyryan-Repost-LSDs-above-critical-consensus-thresholds-pose-risks-to-the-Ethereum-protocol-With-withdrawals-enabled-its-time",
+            "created_at": "2023-06-01T04:35:17Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@ethereum",
+            "source": {
+                "title": "Ethereum Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@ethereum"
+            },
+            "title": "RT @CarlBeek: \ufe0f100k! \ufe0f\n\nthe KZG ceremony has hit 100k contributions! this is more than 10x my goal for this project.\n\ni\u2019m humbled by ever\u2026",
+            "published_at": "2023-05-30T22:32:02Z",
+            "slug": "RT-CarlBeek-100k-the-KZG-ceremony-has-hit-100k-contributions-this-is-more-than-10x-my-goal-for-this-project-im-humbled-by-ever",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "BETH",
+                    "title": "Binance ETH staking",
+                    "slug": "binance-eth",
+                    "url": "https:\/\/cryptopanic.com\/news\/binance-eth\/"
+                },
+                {
+                    "code": "SOETH",
+                    "title": "Wrapped Ethereum (Sollet)",
+                    "slug": "wrapped-ethereum-sollet",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-ethereum-sollet\/"
+                }
+            ],
+            "id": 18466761,
+            "url": "https:\/\/cryptopanic.com\/news\/18466761\/RT-CarlBeek-100k-the-KZG-ceremony-has-hit-100k-contributions-this-is-more-than-10x-my-goal-for-this-project-im-humbled-by-ever",
+            "created_at": "2023-05-30T22:32:02Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@ethereum",
+            "source": {
+                "title": "Ethereum Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@ethereum"
+            },
+            "title": "RT @sinahab: Here is my conversation with @AyaMiyagotchi.\n\nWe talk about Aya's philosophy in leading the Ethereum Foundation, Ethereum as a\u2026",
+            "published_at": "2023-05-26T13:05:43Z",
+            "slug": "RT-sinahab-Here-is-my-conversation-with-AyaMiyagotchi-We-talk-about-Ayas-philosophy-in-leading-the-Ethereum-Foundation-Ethereum-as-a",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "BETH",
+                    "title": "Binance ETH staking",
+                    "slug": "binance-eth",
+                    "url": "https:\/\/cryptopanic.com\/news\/binance-eth\/"
+                },
+                {
+                    "code": "SOETH",
+                    "title": "Wrapped Ethereum (Sollet)",
+                    "slug": "wrapped-ethereum-sollet",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-ethereum-sollet\/"
+                }
+            ],
+            "id": 18441133,
+            "url": "https:\/\/cryptopanic.com\/news\/18441133\/RT-sinahab-Here-is-my-conversation-with-AyaMiyagotchi-We-talk-about-Ayas-philosophy-in-leading-the-Ethereum-Foundation-Ethereum-as-a",
+            "created_at": "2023-05-26T13:05:43Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@ethereum",
+            "source": {
+                "title": "Ethereum Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@ethereum"
+            },
+            "title": "RT @CarlBeek: \ufe0fto participate in the KZG ceremony, you now have to have sent only 16 transactions in the past\ufe0f\n\nlet's get to 100k contrib\u2026",
+            "published_at": "2023-05-25T18:49:41Z",
+            "slug": "RT-CarlBeek-to-participate-in-the-KZG-ceremony-you-now-have-to-have-sent-only-16-transactions-in-the-past-lets-get-to-100k-contrib",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "BETH",
+                    "title": "Binance ETH staking",
+                    "slug": "binance-eth",
+                    "url": "https:\/\/cryptopanic.com\/news\/binance-eth\/"
+                },
+                {
+                    "code": "SOETH",
+                    "title": "Wrapped Ethereum (Sollet)",
+                    "slug": "wrapped-ethereum-sollet",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-ethereum-sollet\/"
+                }
+            ],
+            "id": 18432756,
+            "url": "https:\/\/cryptopanic.com\/news\/18432756\/RT-CarlBeek-to-participate-in-the-KZG-ceremony-you-now-have-to-have-sent-only-16-transactions-in-the-past-lets-get-to-100k-contrib",
+            "created_at": "2023-05-25T18:49:41Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@ethereum",
+            "source": {
+                "title": "Ethereum Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@ethereum"
+            },
+            "title": "RT @ETHGlobal:  ETHGlobal Waterloo is in less than a month! \n\n $200,000 USD in prizes are available\n Meet builders from around the world\u2026",
+            "published_at": "2023-05-24T21:26:53Z",
+            "slug": "RT-ETHGlobal-ETHGlobal-Waterloo-is-in-less-than-a-month-200000-USD-in-prizes-are-available-Meet-builders-from-around-the-world",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "BETH",
+                    "title": "Binance ETH staking",
+                    "slug": "binance-eth",
+                    "url": "https:\/\/cryptopanic.com\/news\/binance-eth\/"
+                },
+                {
+                    "code": "SOETH",
+                    "title": "Wrapped Ethereum (Sollet)",
+                    "slug": "wrapped-ethereum-sollet",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-ethereum-sollet\/"
+                }
+            ],
+            "id": 18423718,
+            "url": "https:\/\/cryptopanic.com\/news\/18423718\/RT-ETHGlobal-ETHGlobal-Waterloo-is-in-less-than-a-month-200000-USD-in-prizes-are-available-Meet-builders-from-around-the-world",
+            "created_at": "2023-05-24T21:26:53Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

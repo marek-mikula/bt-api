@@ -1,0 +1,863 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=ALGO&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "These 3 Cryptos Could Drop to New Lows in October",
+            "published_at": "2023-10-02T14:15:00Z",
+            "slug": "These-3-Cryptos-Could-Drop-to-New-Lows-in-October",
+            "currencies": [
+                {
+                    "code": "ALGO",
+                    "title": "Algorand",
+                    "slug": "algorand",
+                    "url": "https:\/\/cryptopanic.com\/news\/algorand\/"
+                },
+                {
+                    "code": "EOS",
+                    "title": "EOS",
+                    "slug": "eos",
+                    "url": "https:\/\/cryptopanic.com\/news\/eos\/"
+                },
+                {
+                    "code": "APE",
+                    "title": "ApeCoin",
+                    "slug": "apecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/apecoin\/"
+                }
+            ],
+            "id": 18942260,
+            "url": "https:\/\/cryptopanic.com\/news\/18942260\/These-3-Cryptos-Could-Drop-to-New-Lows-in-October",
+            "created_at": "2023-10-02T14:15:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinedition.com",
+            "source": {
+                "title": "coinedition",
+                "region": "en",
+                "domain": "coinedition.com",
+                "path": null
+            },
+            "title": "ALGO Could Activate Bullish Trend If It Flips $0.105 Resistance",
+            "published_at": "2023-09-29T10:55:00Z",
+            "slug": "ALGO-Could-Activate-Bullish-Trend-If-It-Flips-0105-Resistance",
+            "currencies": [
+                {
+                    "code": "ALGO",
+                    "title": "Algorand",
+                    "slug": "algorand",
+                    "url": "https:\/\/cryptopanic.com\/news\/algorand\/"
+                }
+            ],
+            "id": 18936941,
+            "url": "https:\/\/cryptopanic.com\/news\/18936941\/ALGO-Could-Activate-Bullish-Trend-If-It-Flips-0105-Resistance",
+            "created_at": "2023-09-29T10:55:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coingabbar.com",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "coingabbar",
+                "region": "en",
+                "domain": "coingabbar.com",
+                "path": null
+            },
+            "title": "Crypto Daily Roundup, 28 Sep: The Latest News in the World of Crypto",
+            "published_at": "2023-09-28T08:30:00Z",
+            "slug": "Crypto-Daily-Roundup-28-Sep-The-Latest-News-in-the-World-of-Crypto",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "USDT",
+                    "title": "Tether",
+                    "slug": "tether",
+                    "url": "https:\/\/cryptopanic.com\/news\/tether\/"
+                },
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                },
+                {
+                    "code": "UNI",
+                    "title": "Uniswap",
+                    "slug": "uniswap",
+                    "url": "https:\/\/cryptopanic.com\/news\/uniswap\/"
+                },
+                {
+                    "code": "AVAX",
+                    "title": "Avalanche",
+                    "slug": "avalanche-2",
+                    "url": "https:\/\/cryptopanic.com\/news\/avalanche-2\/"
+                },
+                {
+                    "code": "ARB",
+                    "title": "Arbitrum",
+                    "slug": "arbitrum",
+                    "url": "https:\/\/cryptopanic.com\/news\/arbitrum\/"
+                },
+                {
+                    "code": "OP",
+                    "title": "Optimism",
+                    "slug": "optimism",
+                    "url": "https:\/\/cryptopanic.com\/news\/optimism\/"
+                },
+                {
+                    "code": "ALGO",
+                    "title": "Algorand",
+                    "slug": "algorand",
+                    "url": "https:\/\/cryptopanic.com\/news\/algorand\/"
+                }
+            ],
+            "id": 18933863,
+            "url": "https:\/\/cryptopanic.com\/news\/18933863\/Crypto-Daily-Roundup-28-Sep-The-Latest-News-in-the-World-of-Crypto",
+            "created_at": "2023-09-28T08:30:00Z"
+        },
+        {
+            "kind": "news",
+            "domain": "feeds2.benzinga.com",
+            "source": {
+                "title": "Benzinga",
+                "region": "en",
+                "domain": "feeds2.benzinga.com",
+                "path": null
+            },
+            "title": "Cryptocurrency Algorand Down More Than 3% Within 24 hours",
+            "published_at": "2023-09-27T15:00:53Z",
+            "slug": "Cryptocurrency-Algorand-Down-More-Than-3-Within-24-hours",
+            "currencies": [
+                {
+                    "code": "ALGO",
+                    "title": "Algorand",
+                    "slug": "algorand",
+                    "url": "https:\/\/cryptopanic.com\/news\/algorand\/"
+                }
+            ],
+            "id": 18932309,
+            "url": "https:\/\/cryptopanic.com\/news\/18932309\/Cryptocurrency-Algorand-Down-More-Than-3-Within-24-hours",
+            "created_at": "2023-09-27T15:00:53Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "theblock.co",
+            "source": {
+                "title": "The Block",
+                "region": "en",
+                "domain": "theblock.co",
+                "path": null
+            },
+            "title": "FalconX participates in $3 million seed round for DeFi portfolio manager Bril Finance",
+            "published_at": "2023-09-27T14:00:03Z",
+            "slug": "FalconX-participates-in-3-million-seed-round-for-DeFi-portfolio-manager-Bril-Finance",
+            "currencies": [
+                {
+                    "code": "ALGO",
+                    "title": "Algorand",
+                    "slug": "algorand",
+                    "url": "https:\/\/cryptopanic.com\/news\/algorand\/"
+                }
+            ],
+            "id": 18932087,
+            "url": "https:\/\/cryptopanic.com\/news\/18932087\/FalconX-participates-in-3-million-seed-round-for-DeFi-portfolio-manager-Bril-Finance",
+            "created_at": "2023-09-27T14:00:03Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptodaily.co.uk",
+            "source": {
+                "title": "CryptoDaily",
+                "region": "en",
+                "domain": "cryptodaily.co.uk",
+                "path": null
+            },
+            "title": "Bullish On Play-To-Earn Coin Shiba Budz? Here's Why Algorand And Convex Will Get Left Behind",
+            "published_at": "2023-09-27T13:31:02Z",
+            "slug": "Bullish-On-Play-To-Earn-Coin-Shiba-Budz-Heres-Why-Algorand-And-Convex-Will-Get-Left-Behind",
+            "currencies": [
+                {
+                    "code": "ALGO",
+                    "title": "Algorand",
+                    "slug": "algorand",
+                    "url": "https:\/\/cryptopanic.com\/news\/algorand\/"
+                }
+            ],
+            "id": 18932013,
+            "url": "https:\/\/cryptopanic.com\/news\/18932013\/Bullish-On-Play-To-Earn-Coin-Shiba-Budz-Heres-Why-Algorand-And-Convex-Will-Get-Left-Behind",
+            "created_at": "2023-09-27T13:31:02Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "livebitcoinnews.com",
+            "source": {
+                "title": "Live Bitcoin News",
+                "region": "en",
+                "domain": "livebitcoinnews.com",
+                "path": null
+            },
+            "title": "1xBit Rockets into the Future: Welcoming Algorand and Arbitrum as Novel Deposit Methods!",
+            "published_at": "2023-09-27T10:50:31Z",
+            "slug": "1xBit-Rockets-into-the-Future-Welcoming-Algorand-and-Arbitrum-as-Novel-Deposit-Methods",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ARB",
+                    "title": "Arbitrum",
+                    "slug": "arbitrum",
+                    "url": "https:\/\/cryptopanic.com\/news\/arbitrum\/"
+                },
+                {
+                    "code": "ALGO",
+                    "title": "Algorand",
+                    "slug": "algorand",
+                    "url": "https:\/\/cryptopanic.com\/news\/algorand\/"
+                }
+            ],
+            "id": 18931516,
+            "url": "https:\/\/cryptopanic.com\/news\/18931516\/1xBit-Rockets-into-the-Future-Welcoming-Algorand-and-Arbitrum-as-Novel-Deposit-Methods",
+            "created_at": "2023-09-27T10:50:31Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinjournal.net",
+            "source": {
+                "title": "CoinJournal",
+                "region": "en",
+                "domain": "coinjournal.net",
+                "path": null
+            },
+            "title": "1xBit Rockets into the Future: Welcoming Algorand and Arbitrum as Novel Deposit Methods!",
+            "published_at": "2023-09-26T14:05:52Z",
+            "slug": "1xBit-Rockets-into-the-Future-Welcoming-Algorand-and-Arbitrum-as-Novel-Deposit-Methods",
+            "currencies": [
+                {
+                    "code": "ARB",
+                    "title": "Arbitrum",
+                    "slug": "arbitrum",
+                    "url": "https:\/\/cryptopanic.com\/news\/arbitrum\/"
+                },
+                {
+                    "code": "ALGO",
+                    "title": "Algorand",
+                    "slug": "algorand",
+                    "url": "https:\/\/cryptopanic.com\/news\/algorand\/"
+                }
+            ],
+            "id": 18929355,
+            "url": "https:\/\/cryptopanic.com\/news\/18929355\/1xBit-Rockets-into-the-Future-Welcoming-Algorand-and-Arbitrum-as-Novel-Deposit-Methods",
+            "created_at": "2023-09-26T14:05:52Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coingabbar.com",
+            "source": {
+                "title": "coingabbar",
+                "region": "en",
+                "domain": "coingabbar.com",
+                "path": null
+            },
+            "title": "24 Crypto Update, 25 Sep: Bitcoin crosses $26K; Altcoins varied",
+            "published_at": "2023-09-26T01:30:00Z",
+            "slug": "24-Crypto-Update-25-Sep-Bitcoin-crosses-26K-Altcoins-varied",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                },
+                {
+                    "code": "LTC",
+                    "title": "Litecoin",
+                    "slug": "litecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/litecoin\/"
+                },
+                {
+                    "code": "ALGO",
+                    "title": "Algorand",
+                    "slug": "algorand",
+                    "url": "https:\/\/cryptopanic.com\/news\/algorand\/"
+                },
+                {
+                    "code": "FRAX",
+                    "title": "Frax",
+                    "slug": "frax",
+                    "url": "https:\/\/cryptopanic.com\/news\/frax\/"
+                },
+                {
+                    "code": "FXS",
+                    "title": "Frax Share",
+                    "slug": "frax-share",
+                    "url": "https:\/\/cryptopanic.com\/news\/frax-share\/"
+                }
+            ],
+            "id": 18928163,
+            "url": "https:\/\/cryptopanic.com\/news\/18928163\/24-Crypto-Update-25-Sep-Bitcoin-crosses-26K-Altcoins-varied",
+            "created_at": "2023-09-26T01:30:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "feeds2.benzinga.com",
+            "source": {
+                "title": "Benzinga",
+                "region": "en",
+                "domain": "feeds2.benzinga.com",
+                "path": null
+            },
+            "title": "Cryptocurrency Algorand Down More Than 3% Within 24 hours",
+            "published_at": "2023-09-25T19:00:38Z",
+            "slug": "Cryptocurrency-Algorand-Down-More-Than-3-Within-24-hours",
+            "currencies": [
+                {
+                    "code": "ALGO",
+                    "title": "Algorand",
+                    "slug": "algorand",
+                    "url": "https:\/\/cryptopanic.com\/news\/algorand\/"
+                }
+            ],
+            "id": 18927402,
+            "url": "https:\/\/cryptopanic.com\/news\/18927402\/Cryptocurrency-Algorand-Down-More-Than-3-Within-24-hours",
+            "created_at": "2023-09-25T19:00:38Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "ALGO bounces back but retains its bearish structure",
+            "published_at": "2023-09-23T18:30:12Z",
+            "slug": "ALGO-bounces-back-but-retains-its-bearish-structure",
+            "currencies": [
+                {
+                    "code": "ALGO",
+                    "title": "Algorand",
+                    "slug": "algorand",
+                    "url": "https:\/\/cryptopanic.com\/news\/algorand\/"
+                }
+            ],
+            "id": 18923967,
+            "url": "https:\/\/cryptopanic.com\/news\/18923967\/ALGO-bounces-back-but-retains-its-bearish-structure",
+            "created_at": "2023-09-23T18:30:12Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "Why expecting ALGO to breakout is pretty reasonable",
+            "published_at": "2023-09-22T03:30:06Z",
+            "slug": "Why-expecting-ALGO-to-breakout-is-pretty-reasonable",
+            "currencies": [
+                {
+                    "code": "ALGO",
+                    "title": "Algorand",
+                    "slug": "algorand",
+                    "url": "https:\/\/cryptopanic.com\/news\/algorand\/"
+                }
+            ],
+            "id": 18920690,
+            "url": "https:\/\/cryptopanic.com\/news\/18920690\/Why-expecting-ALGO-to-breakout-is-pretty-reasonable",
+            "created_at": "2023-09-22T03:30:06Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "dailyhodl.com",
+            "source": {
+                "title": "The Daily Hodl",
+                "region": "en",
+                "domain": "dailyhodl.com",
+                "path": null
+            },
+            "title": "Algorand Foundation Announces Build-a-Bull Hackathon in Collaboration With AWS",
+            "published_at": "2023-09-20T17:01:45Z",
+            "slug": "Algorand-Foundation-Announces-Build-a-Bull-Hackathon-in-Collaboration-With-AWS",
+            "currencies": [
+                {
+                    "code": "ALGO",
+                    "title": "Algorand",
+                    "slug": "algorand",
+                    "url": "https:\/\/cryptopanic.com\/news\/algorand\/"
+                }
+            ],
+            "id": 18916994,
+            "url": "https:\/\/cryptopanic.com\/news\/18916994\/Algorand-Foundation-Announces-Build-a-Bull-Hackathon-in-Collaboration-With-AWS",
+            "created_at": "2023-09-20T17:01:45Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptoglobe.com",
+            "source": {
+                "title": "CryptoGlobe",
+                "region": "en",
+                "domain": "cryptoglobe.com",
+                "path": null
+            },
+            "title": "Algorand Foundation Announces Build-A-Bull Hackathon in Collaboration  With AWS",
+            "published_at": "2023-09-20T14:48:02Z",
+            "slug": "Algorand-Foundation-Announces-Build-A-Bull-Hackathon-in-Collaboration-With-AWS",
+            "currencies": [
+                {
+                    "code": "ALGO",
+                    "title": "Algorand",
+                    "slug": "algorand",
+                    "url": "https:\/\/cryptopanic.com\/news\/algorand\/"
+                }
+            ],
+            "id": 18916605,
+            "url": "https:\/\/cryptopanic.com\/news\/18916605\/Algorand-Foundation-Announces-Build-A-Bull-Hackathon-in-Collaboration-With-AWS",
+            "created_at": "2023-09-20T14:48:02Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinjournal.net",
+            "source": {
+                "title": "CoinJournal",
+                "region": "en",
+                "domain": "coinjournal.net",
+                "path": null
+            },
+            "title": "Algorand Foundation announces Build-A-Bull Hackathon in collaboration with AWS",
+            "published_at": "2023-09-20T12:51:42Z",
+            "slug": "Algorand-Foundation-announces-Build-A-Bull-Hackathon-in-collaboration-with-AWS",
+            "currencies": [
+                {
+                    "code": "ALGO",
+                    "title": "Algorand",
+                    "slug": "algorand",
+                    "url": "https:\/\/cryptopanic.com\/news\/algorand\/"
+                }
+            ],
+            "id": 18916235,
+            "url": "https:\/\/cryptopanic.com\/news\/18916235\/Algorand-Foundation-announces-Build-A-Bull-Hackathon-in-collaboration-with-AWS",
+            "created_at": "2023-09-20T12:51:42Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "Algorand Foundation Announces Build-A-Bull Hackathon in Collaboration With AWS",
+            "published_at": "2023-09-20T12:36:14Z",
+            "slug": "Algorand-Foundation-Announces-Build-A-Bull-Hackathon-in-Collaboration-With-AWS",
+            "currencies": [
+                {
+                    "code": "ALGO",
+                    "title": "Algorand",
+                    "slug": "algorand",
+                    "url": "https:\/\/cryptopanic.com\/news\/algorand\/"
+                }
+            ],
+            "id": 18916215,
+            "url": "https:\/\/cryptopanic.com\/news\/18916215\/Algorand-Foundation-Announces-Build-A-Bull-Hackathon-in-Collaboration-With-AWS",
+            "created_at": "2023-09-20T12:36:14Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptodaily.co.uk",
+            "source": {
+                "title": "CryptoDaily",
+                "region": "en",
+                "domain": "cryptodaily.co.uk",
+                "path": null
+            },
+            "title": "Algorand Foundation Announces Build-A-Bull Hackathon in collaboration with AWS",
+            "published_at": "2023-09-20T12:34:35Z",
+            "slug": "Algorand-Foundation-Announces-Build-A-Bull-Hackathon-in-collaboration-with-AWS",
+            "currencies": [
+                {
+                    "code": "ALGO",
+                    "title": "Algorand",
+                    "slug": "algorand",
+                    "url": "https:\/\/cryptopanic.com\/news\/algorand\/"
+                }
+            ],
+            "id": 18916186,
+            "url": "https:\/\/cryptopanic.com\/news\/18916186\/Algorand-Foundation-Announces-Build-A-Bull-Hackathon-in-collaboration-with-AWS",
+            "created_at": "2023-09-20T12:34:35Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "bravenewcoin.com",
+            "source": {
+                "title": "Brave New Coin",
+                "region": "en",
+                "domain": "bravenewcoin.com",
+                "path": null
+            },
+            "title": "Algorand Foundation Announces Build-A-Bull Hackathon in collaboration with AWS",
+            "published_at": "2023-09-20T12:00:00Z",
+            "slug": "Algorand-Foundation-Announces-Build-A-Bull-Hackathon-in-collaboration-with-AWS",
+            "currencies": [
+                {
+                    "code": "ALGO",
+                    "title": "Algorand",
+                    "slug": "algorand",
+                    "url": "https:\/\/cryptopanic.com\/news\/algorand\/"
+                }
+            ],
+            "id": 18917785,
+            "url": "https:\/\/cryptopanic.com\/news\/18917785\/Algorand-Foundation-Announces-Build-A-Bull-Hackathon-in-collaboration-with-AWS",
+            "created_at": "2023-09-20T12:00:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Dogecoin Price Outlook: Could We See A 10% Dip Due To Supply Pressure?",
+            "published_at": "2023-09-18T10:00:20Z",
+            "slug": "Dogecoin-Price-Outlook-Could-We-See-A-10-Dip-Due-To-Supply-Pressure",
+            "currencies": [
+                {
+                    "code": "DOGE",
+                    "title": "Dogecoin",
+                    "slug": "dogecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/dogecoin\/"
+                },
+                {
+                    "code": "SHIB",
+                    "title": "Shiba Inu",
+                    "slug": "shiba-inu",
+                    "url": "https:\/\/cryptopanic.com\/news\/shiba-inu\/"
+                },
+                {
+                    "code": "ALGO",
+                    "title": "Algorand",
+                    "slug": "algorand",
+                    "url": "https:\/\/cryptopanic.com\/news\/algorand\/"
+                }
+            ],
+            "id": 18910170,
+            "url": "https:\/\/cryptopanic.com\/news\/18910170\/Dogecoin-Price-Outlook-Could-We-See-A-10-Dip-Due-To-Supply-Pressure",
+            "created_at": "2023-09-18T10:00:20Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Toncoin Shatters Bearish Predictions With 40% Rally \u2013 What\u2019s The Story?",
+            "published_at": "2023-09-18T08:50:47Z",
+            "slug": "Toncoin-Shatters-Bearish-Predictions-With-40-Rally-Whats-The-Story",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "ADA",
+                    "title": "Cardano",
+                    "slug": "cardano",
+                    "url": "https:\/\/cryptopanic.com\/news\/cardano\/"
+                },
+                {
+                    "code": "TON",
+                    "title": "Toncoin",
+                    "slug": "the-open-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/the-open-network\/"
+                },
+                {
+                    "code": "OP",
+                    "title": "Optimism",
+                    "slug": "optimism",
+                    "url": "https:\/\/cryptopanic.com\/news\/optimism\/"
+                },
+                {
+                    "code": "ALGO",
+                    "title": "Algorand",
+                    "slug": "algorand",
+                    "url": "https:\/\/cryptopanic.com\/news\/algorand\/"
+                }
+            ],
+            "id": 18910042,
+            "url": "https:\/\/cryptopanic.com\/news\/18910042\/Toncoin-Shatters-Bearish-Predictions-With-40-Rally-Whats-The-Story",
+            "created_at": "2023-09-18T08:50:47Z"
+        }
+    ]
+}

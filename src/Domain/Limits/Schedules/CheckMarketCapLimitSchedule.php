@@ -86,11 +86,11 @@ class CheckMarketCapLimitSchedule extends BaseSchedule
         // we will need the quotes for
 
         $ids = Currency::query()
-            ->where('is_fiat', '=', 0)
+            ->crypto()
             ->whereHas('assets', function (Builder $q) use ($limitQuery): void {
                 $q->whereIn('user_id', $limitQuery->clone()->select('user_id'));
             })
-            ->pluck('coinmarketcap_id');
+            ->pluck('cmc_id');
 
         // now fetch all the needed
         // quotes from coinmarketcap

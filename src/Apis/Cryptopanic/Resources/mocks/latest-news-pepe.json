@@ -1,0 +1,893 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=PEPE&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "coinedition.com",
+            "source": {
+                "title": "coinedition",
+                "region": "en",
+                "domain": "coinedition.com",
+                "path": null
+            },
+            "title": "PEPE Could Look To Target $0.0000009809 After Huge Whale Purchase",
+            "published_at": "2023-09-29T07:49:00Z",
+            "slug": "PEPE-Could-Look-To-Target-00000009809-After-Huge-Whale-Purchase",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "PEPE",
+                    "title": "Pepe",
+                    "slug": "pepe",
+                    "url": "https:\/\/cryptopanic.com\/news\/pepe\/"
+                }
+            ],
+            "id": 18936462,
+            "url": "https:\/\/cryptopanic.com\/news\/18936462\/PEPE-Could-Look-To-Target-00000009809-After-Huge-Whale-Purchase",
+            "created_at": "2023-09-29T07:49:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "en.bitcoinsistemi.com",
+            "source": {
+                "title": "en bitcoinsistemi",
+                "region": "en",
+                "domain": "en.bitcoinsistemi.com",
+                "path": null
+            },
+            "title": "He Became a Millionaire from This Altcoin, He Bought Again!",
+            "published_at": "2023-09-29T07:13:07Z",
+            "slug": "He-Became-a-Millionaire-from-This-Altcoin-He-Bought-Again",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "PEPE",
+                    "title": "Pepe",
+                    "slug": "pepe",
+                    "url": "https:\/\/cryptopanic.com\/news\/pepe\/"
+                }
+            ],
+            "id": 18936413,
+            "url": "https:\/\/cryptopanic.com\/news\/18936413\/He-Became-a-Millionaire-from-This-Altcoin-He-Bought-Again",
+            "created_at": "2023-09-29T07:13:07Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "feeds2.benzinga.com",
+            "source": {
+                "title": "Benzinga",
+                "region": "en",
+                "domain": "feeds2.benzinga.com",
+                "path": null
+            },
+            "title": "Pepe Coin Bucks Trend with 12% Surge, Outpacing Dogecoin, Shiba Inu \u2014 Can PEPE Reach $1?",
+            "published_at": "2023-09-29T06:19:07Z",
+            "slug": "Pepe-Coin-Bucks-Trend-with-12-Surge-Outpacing-Dogecoin-Shiba-Inu-Can-PEPE-Reach-1",
+            "currencies": [
+                {
+                    "code": "DOGE",
+                    "title": "Dogecoin",
+                    "slug": "dogecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/dogecoin\/"
+                },
+                {
+                    "code": "SHIB",
+                    "title": "Shiba Inu",
+                    "slug": "shiba-inu",
+                    "url": "https:\/\/cryptopanic.com\/news\/shiba-inu\/"
+                },
+                {
+                    "code": "PEPE",
+                    "title": "Pepe",
+                    "slug": "pepe",
+                    "url": "https:\/\/cryptopanic.com\/news\/pepe\/"
+                }
+            ],
+            "id": 18936355,
+            "url": "https:\/\/cryptopanic.com\/news\/18936355\/Pepe-Coin-Bucks-Trend-with-12-Surge-Outpacing-Dogecoin-Shiba-Inu-Can-PEPE-Reach-1",
+            "created_at": "2023-09-29T06:19:07Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "dailycoin.com",
+            "source": {
+                "title": "Dailycoin",
+                "region": "en",
+                "domain": "dailycoin.com",
+                "path": null
+            },
+            "title": "Memecoin Mania Melts Down as Social Dominance Tanks",
+            "published_at": "2023-09-28T17:05:00Z",
+            "slug": "Memecoin-Mania-Melts-Down-as-Social-Dominance-Tanks",
+            "currencies": [
+                {
+                    "code": "DOGE",
+                    "title": "Dogecoin",
+                    "slug": "dogecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/dogecoin\/"
+                },
+                {
+                    "code": "SHIB",
+                    "title": "Shiba Inu",
+                    "slug": "shiba-inu",
+                    "url": "https:\/\/cryptopanic.com\/news\/shiba-inu\/"
+                },
+                {
+                    "code": "PEPE",
+                    "title": "Pepe",
+                    "slug": "pepe",
+                    "url": "https:\/\/cryptopanic.com\/news\/pepe\/"
+                }
+            ],
+            "id": 18935329,
+            "url": "https:\/\/cryptopanic.com\/news\/18935329\/Memecoin-Mania-Melts-Down-as-Social-Dominance-Tanks",
+            "created_at": "2023-09-28T17:05:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "dailyhodl.com",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "The Daily Hodl",
+                "region": "en",
+                "domain": "dailyhodl.com",
+                "path": null
+            },
+            "title": "Trader Says One Dogecoin (DOGE) Rival Could Easily Crash by Over 50%, Updates Outlook on Bitcoin Cash (BCH)",
+            "published_at": "2023-09-10T00:00:12Z",
+            "slug": "Trader-Says-One-Dogecoin-DOGE-Rival-Could-Easily-Crash-by-Over-50-Updates-Outlook-on-Bitcoin-Cash-BCH",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "DOGE",
+                    "title": "Dogecoin",
+                    "slug": "dogecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/dogecoin\/"
+                },
+                {
+                    "code": "BCH",
+                    "title": "Bitcoin Cash",
+                    "slug": "bitcoin-cash",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin-cash\/"
+                },
+                {
+                    "code": "PEPE",
+                    "title": "Pepe",
+                    "slug": "pepe",
+                    "url": "https:\/\/cryptopanic.com\/news\/pepe\/"
+                }
+            ],
+            "id": 18892047,
+            "url": "https:\/\/cryptopanic.com\/news\/18892047\/Trader-Says-One-Dogecoin-DOGE-Rival-Could-Easily-Crash-by-Over-50-Updates-Outlook-on-Bitcoin-Cash-BCH",
+            "created_at": "2023-09-10T00:00:12Z"
+        },
+        {
+            "kind": "news",
+            "domain": "coingape.com",
+            "source": {
+                "title": "CoinGape",
+                "region": "en",
+                "domain": "coingape.com",
+                "path": null
+            },
+            "title": "Michael Saylor Highlights Futures ETFs Gap Vs Bitcoin Price",
+            "published_at": "2023-09-09T17:57:26Z",
+            "slug": "Michael-Saylor-Highlights-Futures-ETFs-Gap-Vs-Bitcoin-Price",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "PEPE",
+                    "title": "Pepe",
+                    "slug": "pepe",
+                    "url": "https:\/\/cryptopanic.com\/news\/pepe\/"
+                }
+            ],
+            "id": 18891779,
+            "url": "https:\/\/cryptopanic.com\/news\/18891779\/Michael-Saylor-Highlights-Futures-ETFs-Gap-Vs-Bitcoin-Price",
+            "created_at": "2023-09-09T17:57:26Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "u.today",
+            "source": {
+                "title": "U.Today",
+                "region": "en",
+                "domain": "u.today",
+                "path": null
+            },
+            "title": "PEPE Scam Alert: Telegram, Twitter Accounts Hacked",
+            "published_at": "2023-09-09T12:16:00Z",
+            "slug": "PEPE-Scam-Alert-Telegram-Twitter-Accounts-Hacked",
+            "currencies": [
+                {
+                    "code": "PEPE",
+                    "title": "Pepe",
+                    "slug": "pepe",
+                    "url": "https:\/\/cryptopanic.com\/news\/pepe\/"
+                }
+            ],
+            "id": 18891315,
+            "url": "https:\/\/cryptopanic.com\/news\/18891315\/PEPE-Scam-Alert-Telegram-Twitter-Accounts-Hacked",
+            "created_at": "2023-09-09T12:16:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "en.bitcoinsistemi.com",
+            "votes": {
+                "negative": 2,
+                "positive": 0,
+                "important": 1,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "en bitcoinsistemi",
+                "region": "en",
+                "domain": "en.bitcoinsistemi.com",
+                "path": null
+            },
+            "title": "PEPE Team, Fighting Internal Conflicts, Issues New Announcements",
+            "published_at": "2023-09-09T10:08:05Z",
+            "slug": "PEPE-Team-Fighting-Internal-Conflicts-Issues-New-Announcements",
+            "currencies": [
+                {
+                    "code": "PEPE",
+                    "title": "Pepe",
+                    "slug": "pepe",
+                    "url": "https:\/\/cryptopanic.com\/news\/pepe\/"
+                }
+            ],
+            "id": 18890739,
+            "url": "https:\/\/cryptopanic.com\/news\/18890739\/PEPE-Team-Fighting-Internal-Conflicts-Issues-New-Announcements",
+            "created_at": "2023-09-09T10:08:05Z"
+        },
+        {
+            "kind": "news",
+            "domain": "coinedition.com",
+            "source": {
+                "title": "coinedition",
+                "region": "en",
+                "domain": "coinedition.com",
+                "path": null
+            },
+            "title": "PEPE Telegram Channel Hacked, Scammer Promotes Fraudulent Tokens",
+            "published_at": "2023-09-09T08:57:00Z",
+            "slug": "PEPE-Telegram-Channel-Hacked-Scammer-Promotes-Fraudulent-Tokens",
+            "currencies": [
+                {
+                    "code": "PEPE",
+                    "title": "Pepe",
+                    "slug": "pepe",
+                    "url": "https:\/\/cryptopanic.com\/news\/pepe\/"
+                }
+            ],
+            "id": 18890667,
+            "url": "https:\/\/cryptopanic.com\/news\/18890667\/PEPE-Telegram-Channel-Hacked-Scammer-Promotes-Fraudulent-Tokens",
+            "created_at": "2023-09-09T08:57:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 1
+            },
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Pepe Coin Fall From Grace: What\u2019s Turning The Whales Away?",
+            "published_at": "2023-09-07T08:30:20Z",
+            "slug": "Pepe-Coin-Fall-From-Grace-Whats-Turning-The-Whales-Away",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "PEPE",
+                    "title": "Pepe",
+                    "slug": "pepe",
+                    "url": "https:\/\/cryptopanic.com\/news\/pepe\/"
+                }
+            ],
+            "id": 18885741,
+            "url": "https:\/\/cryptopanic.com\/news\/18885741\/Pepe-Coin-Fall-From-Grace-Whats-Turning-The-Whales-Away",
+            "created_at": "2023-09-07T08:30:20Z"
+        },
+        {
+            "kind": "news",
+            "domain": "cryptoglobe.com",
+            "source": {
+                "title": "CryptoGlobe",
+                "region": "en",
+                "domain": "cryptoglobe.com",
+                "path": null
+            },
+            "title": "Crypto Whale Registers $240,000 in 1.5 Trillion $PEPE Token Sale",
+            "published_at": "2023-09-07T04:35:00Z",
+            "slug": "Crypto-Whale-Registers-240000-in-15-Trillion-PEPE-Token-Sale",
+            "currencies": [
+                {
+                    "code": "PEPE",
+                    "title": "Pepe",
+                    "slug": "pepe",
+                    "url": "https:\/\/cryptopanic.com\/news\/pepe\/"
+                }
+            ],
+            "id": 18885410,
+            "url": "https:\/\/cryptopanic.com\/news\/18885410\/Crypto-Whale-Registers-240000-in-15-Trillion-PEPE-Token-Sale",
+            "created_at": "2023-09-07T04:35:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coingape.com",
+            "source": {
+                "title": "CoinGape",
+                "region": "en",
+                "domain": "coingape.com",
+                "path": null
+            },
+            "title": "PEPE Price Prediction: Key Resistance Breach Signals 20% Rally Ahead",
+            "published_at": "2023-09-06T14:26:06Z",
+            "slug": "PEPE-Price-Prediction-Key-Resistance-Breach-Signals-20-Rally-Ahead",
+            "currencies": [
+                {
+                    "code": "PEPE",
+                    "title": "Pepe",
+                    "slug": "pepe",
+                    "url": "https:\/\/cryptopanic.com\/news\/pepe\/"
+                }
+            ],
+            "id": 18883921,
+            "url": "https:\/\/cryptopanic.com\/news\/18883921\/PEPE-Price-Prediction-Key-Resistance-Breach-Signals-20-Rally-Ahead",
+            "created_at": "2023-09-06T14:26:06Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Ethereum Price Maze: Will It Soar To $2,000 Or Stay At $1,500 In September?",
+            "published_at": "2023-09-06T10:30:57Z",
+            "slug": "Ethereum-Price-Maze-Will-It-Soar-To-2000-Or-Stay-At-1500-In-September",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "PEPE",
+                    "title": "Pepe",
+                    "slug": "pepe",
+                    "url": "https:\/\/cryptopanic.com\/news\/pepe\/"
+                }
+            ],
+            "id": 18883029,
+            "url": "https:\/\/cryptopanic.com\/news\/18883029\/Ethereum-Price-Maze-Will-It-Soar-To-2000-Or-Stay-At-1500-In-September",
+            "created_at": "2023-09-06T10:30:57Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 1,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 1,
+                "comments": 0
+            },
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Shiba Inu Latest Dip \u2013 A Bullish Opportunity In Disguise?",
+            "published_at": "2023-09-06T08:30:27Z",
+            "slug": "Shiba-Inu-Latest-Dip-A-Bullish-Opportunity-In-Disguise",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "USDT",
+                    "title": "Tether",
+                    "slug": "tether",
+                    "url": "https:\/\/cryptopanic.com\/news\/tether\/"
+                },
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                },
+                {
+                    "code": "SHIB",
+                    "title": "Shiba Inu",
+                    "slug": "shiba-inu",
+                    "url": "https:\/\/cryptopanic.com\/news\/shiba-inu\/"
+                },
+                {
+                    "code": "FLOW",
+                    "title": "Flow",
+                    "slug": "flow",
+                    "url": "https:\/\/cryptopanic.com\/news\/flow\/"
+                },
+                {
+                    "code": "PEPE",
+                    "title": "Pepe",
+                    "slug": "pepe",
+                    "url": "https:\/\/cryptopanic.com\/news\/pepe\/"
+                }
+            ],
+            "id": 18882676,
+            "url": "https:\/\/cryptopanic.com\/news\/18882676\/Shiba-Inu-Latest-Dip-A-Bullish-Opportunity-In-Disguise",
+            "created_at": "2023-09-06T08:30:27Z"
+        },
+        {
+            "kind": "news",
+            "domain": "coinedition.com",
+            "source": {
+                "title": "coinedition",
+                "region": "en",
+                "domain": "coinedition.com",
+                "path": null
+            },
+            "title": "Meme Coin Social Showdown: PEPE Leads While SHIB & Doge Follow",
+            "published_at": "2023-09-05T12:55:00Z",
+            "slug": "Meme-Coin-Social-Showdown-PEPE-Leads-While-SHIB-Doge-Follow",
+            "currencies": [
+                {
+                    "code": "DOGE",
+                    "title": "Dogecoin",
+                    "slug": "dogecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/dogecoin\/"
+                },
+                {
+                    "code": "SHIB",
+                    "title": "Shiba Inu",
+                    "slug": "shiba-inu",
+                    "url": "https:\/\/cryptopanic.com\/news\/shiba-inu\/"
+                },
+                {
+                    "code": "PEPE",
+                    "title": "Pepe",
+                    "slug": "pepe",
+                    "url": "https:\/\/cryptopanic.com\/news\/pepe\/"
+                }
+            ],
+            "id": 18880720,
+            "url": "https:\/\/cryptopanic.com\/news\/18880720\/Meme-Coin-Social-Showdown-PEPE-Leads-While-SHIB-Doge-Follow",
+            "created_at": "2023-09-05T12:55:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coingape.com",
+            "source": {
+                "title": "CoinGape",
+                "region": "en",
+                "domain": "coingape.com",
+                "path": null
+            },
+            "title": "PEPE Price Prediction: Key Resistance Level to Watch Before Hitting $0.000001",
+            "published_at": "2023-09-05T12:07:10Z",
+            "slug": "PEPE-Price-Prediction-Key-Resistance-Level-to-Watch-Before-Hitting-0000001",
+            "currencies": [
+                {
+                    "code": "PEPE",
+                    "title": "Pepe",
+                    "slug": "pepe",
+                    "url": "https:\/\/cryptopanic.com\/news\/pepe\/"
+                }
+            ],
+            "id": 18880519,
+            "url": "https:\/\/cryptopanic.com\/news\/18880519\/PEPE-Price-Prediction-Key-Resistance-Level-to-Watch-Before-Hitting-0000001",
+            "created_at": "2023-09-05T12:07:10Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Ethereum Bears Gain Upper Hand With Escalating Sell-Off: Impact On ETH Price",
+            "published_at": "2023-09-05T12:00:57Z",
+            "slug": "Ethereum-Bears-Gain-Upper-Hand-With-Escalating-Sell-Off-Impact-On-ETH-Price",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "XLM",
+                    "title": "Stellar",
+                    "slug": "stellar",
+                    "url": "https:\/\/cryptopanic.com\/news\/stellar\/"
+                },
+                {
+                    "code": "PEPE",
+                    "title": "Pepe",
+                    "slug": "pepe",
+                    "url": "https:\/\/cryptopanic.com\/news\/pepe\/"
+                }
+            ],
+            "id": 18880612,
+            "url": "https:\/\/cryptopanic.com\/news\/18880612\/Ethereum-Bears-Gain-Upper-Hand-With-Escalating-Sell-Off-Impact-On-ETH-Price",
+            "created_at": "2023-09-05T12:00:57Z"
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Shiba Inu (SHIB) Presents Compelling Reversal Indicators \u2013 Could This Be It?",
+            "published_at": "2023-09-05T08:58:32Z",
+            "slug": "Shiba-Inu-SHIB-Presents-Compelling-Reversal-Indicators-Could-This-Be-It",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "USDT",
+                    "title": "Tether",
+                    "slug": "tether",
+                    "url": "https:\/\/cryptopanic.com\/news\/tether\/"
+                },
+                {
+                    "code": "SHIB",
+                    "title": "Shiba Inu",
+                    "slug": "shiba-inu",
+                    "url": "https:\/\/cryptopanic.com\/news\/shiba-inu\/"
+                },
+                {
+                    "code": "XLM",
+                    "title": "Stellar",
+                    "slug": "stellar",
+                    "url": "https:\/\/cryptopanic.com\/news\/stellar\/"
+                },
+                {
+                    "code": "OP",
+                    "title": "Optimism",
+                    "slug": "optimism",
+                    "url": "https:\/\/cryptopanic.com\/news\/optimism\/"
+                },
+                {
+                    "code": "PEPE",
+                    "title": "Pepe",
+                    "slug": "pepe",
+                    "url": "https:\/\/cryptopanic.com\/news\/pepe\/"
+                }
+            ],
+            "id": 18880120,
+            "url": "https:\/\/cryptopanic.com\/news\/18880120\/Shiba-Inu-SHIB-Presents-Compelling-Reversal-Indicators-Could-This-Be-It",
+            "created_at": "2023-09-05T08:58:32Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Hottest New Meme Crypto \u2018Sonik Coin\u2019 Nears $1.5 Million Raised With 20 Hours Left In Presale",
+            "published_at": "2023-09-04T18:04:41Z",
+            "slug": "Hottest-New-Meme-Crypto-Sonik-Coin-Nears-15-Million-Raised-With-20-Hours-Left-In-Presale",
+            "currencies": [
+                {
+                    "code": "UNI",
+                    "title": "Uniswap",
+                    "slug": "uniswap",
+                    "url": "https:\/\/cryptopanic.com\/news\/uniswap\/"
+                },
+                {
+                    "code": "PEPE",
+                    "title": "Pepe",
+                    "slug": "pepe",
+                    "url": "https:\/\/cryptopanic.com\/news\/pepe\/"
+                }
+            ],
+            "id": 18879126,
+            "url": "https:\/\/cryptopanic.com\/news\/18879126\/Hottest-New-Meme-Crypto-Sonik-Coin-Nears-15-Million-Raised-With-20-Hours-Left-In-Presale",
+            "created_at": "2023-09-04T18:04:41Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Stellar Tough Spot: Will XLM Prices See A Dip Amid Mid-Range Struggles?",
+            "published_at": "2023-09-04T13:30:55Z",
+            "slug": "Stellar-Tough-Spot-Will-XLM-Prices-See-A-Dip-Amid-Mid-Range-Struggles",
+            "currencies": [
+                {
+                    "code": "TON",
+                    "title": "Toncoin",
+                    "slug": "the-open-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/the-open-network\/"
+                },
+                {
+                    "code": "XLM",
+                    "title": "Stellar",
+                    "slug": "stellar",
+                    "url": "https:\/\/cryptopanic.com\/news\/stellar\/"
+                },
+                {
+                    "code": "PEPE",
+                    "title": "Pepe",
+                    "slug": "pepe",
+                    "url": "https:\/\/cryptopanic.com\/news\/pepe\/"
+                }
+            ],
+            "id": 18878565,
+            "url": "https:\/\/cryptopanic.com\/news\/18878565\/Stellar-Tough-Spot-Will-XLM-Prices-See-A-Dip-Amid-Mid-Range-Struggles",
+            "created_at": "2023-09-04T13:30:55Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

@@ -1,0 +1,707 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=ELF&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "@aelfblockchain",
+            "source": {
+                "title": "aelf Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@aelfblockchain"
+            },
+            "title": " Upgrade Completed: aelf has completed its upgrade to v1.4.1 as of July 10, 2023.\n\nFeatures:\n Node network comm\u2026",
+            "published_at": "2023-07-10T14:47:01Z",
+            "slug": "Upgrade-Completed-aelf-has-completed-its-upgrade-to-v141-as-of-July-10-2023-Features-Node-network-comm",
+            "currencies": [
+                {
+                    "code": "ELF",
+                    "title": "aelf",
+                    "slug": "aelf",
+                    "url": "https:\/\/cryptopanic.com\/news\/aelf\/"
+                }
+            ],
+            "id": 18760117,
+            "url": "https:\/\/cryptopanic.com\/news\/18760117\/Upgrade-Completed-aelf-has-completed-its-upgrade-to-v141-as-of-July-10-2023-Features-Node-network-comm",
+            "created_at": "2023-07-10T14:47:01Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@ElfWallet",
+            "source": {
+                "title": "ELF Wallet Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@elfwallet"
+            },
+            "title": "RT @Beosin_com: We have completed another smart contract audit service of @ElfWallet \ufe0f\n\nELF Wallet is a self-built wallet #DeFi tools on\u2026",
+            "published_at": "2023-07-10T08:19:53Z",
+            "slug": "RT-Beosin_com-We-have-completed-another-smart-contract-audit-service-of-ElfWallet-ELF-Wallet-is-a-self-built-wallet-DeFi-tools-on",
+            "currencies": [
+                {
+                    "code": "ELF",
+                    "title": "ELF Wallet",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18755798,
+            "url": "https:\/\/cryptopanic.com\/news\/18755798\/RT-Beosin_com-We-have-completed-another-smart-contract-audit-service-of-ElfWallet-ELF-Wallet-is-a-self-built-wallet-DeFi-tools-on",
+            "created_at": "2023-07-10T08:19:53Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@ElfWallet",
+            "source": {
+                "title": "ELF Wallet Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@elfwallet"
+            },
+            "title": "ELF (ERC20) audit report issued by the well-known organization beosin.\nELF(ERC20) contract\uff1a0x831bE1970511C069ddEdc4\u2026",
+            "published_at": "2023-07-06T12:59:14Z",
+            "slug": "ELF-ERC20-audit-report-issued-by-the-well-known-organization-beosin-ELFERC20-contract0x831bE1970511C069ddEdc4",
+            "currencies": [
+                {
+                    "code": "ELF",
+                    "title": "ELF Wallet",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18732163,
+            "url": "https:\/\/cryptopanic.com\/news\/18732163\/ELF-ERC20-audit-report-issued-by-the-well-known-organization-beosin-ELFERC20-contract0x831bE1970511C069ddEdc4",
+            "created_at": "2023-07-06T12:59:14Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@ElfWallet",
+            "source": {
+                "title": "ELF Wallet Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@elfwallet"
+            },
+            "title": "What are you waiting for?\nWaiting for a missed opportunity?\n",
+            "published_at": "2023-07-05T09:29:44Z",
+            "slug": "What-are-you-waiting-for-Waiting-for-a-missed-opportunity",
+            "currencies": [
+                {
+                    "code": "ELF",
+                    "title": "ELF Wallet",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18723601,
+            "url": "https:\/\/cryptopanic.com\/news\/18723601\/What-are-you-waiting-for-Waiting-for-a-missed-opportunity",
+            "created_at": "2023-07-05T09:29:44Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@ElfWallet",
+            "source": {
+                "title": "ELF Wallet Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@elfwallet"
+            },
+            "title": "We have updated the token information on ethscan.",
+            "published_at": "2023-07-05T09:26:37Z",
+            "slug": "We-have-updated-the-token-information-on-ethscan",
+            "currencies": [
+                {
+                    "code": "ELF",
+                    "title": "ELF Wallet",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18723602,
+            "url": "https:\/\/cryptopanic.com\/news\/18723602\/We-have-updated-the-token-information-on-ethscan",
+            "created_at": "2023-07-05T09:26:37Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@ElfWallet",
+            "source": {
+                "title": "ELF Wallet Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@elfwallet"
+            },
+            "title": "BitMart will list ELF on our platform on July 5. The following trading pair will be available: ELF\/USDT. \nDeposit f\u2026",
+            "published_at": "2023-07-04T15:25:43Z",
+            "slug": "BitMart-will-list-ELF-on-our-platform-on-July-5-The-following-trading-pair-will-be-available-ELFUSDT-Deposit-f",
+            "currencies": [
+                {
+                    "code": "ELF",
+                    "title": "ELF Wallet",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18715908,
+            "url": "https:\/\/cryptopanic.com\/news\/18715908\/BitMart-will-list-ELF-on-our-platform-on-July-5-The-following-trading-pair-will-be-available-ELFUSDT-Deposit-f",
+            "created_at": "2023-07-04T15:25:43Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@aelfblockchain",
+            "source": {
+                "title": "aelf Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@aelfblockchain"
+            },
+            "title": " #aelf unveiled the roadmap for Q3 2023 - Q2 2024.\nThe coming four quarters are destined to bring\n\n Stronger aelf\u2026",
+            "published_at": "2023-07-04T10:03:40Z",
+            "slug": "aelf-unveiled-the-roadmap-for-Q3-2023-Q2-2024-The-coming-four-quarters-are-destined-to-bring-Stronger-aelf",
+            "currencies": [
+                {
+                    "code": "ELF",
+                    "title": "aelf",
+                    "slug": "aelf",
+                    "url": "https:\/\/cryptopanic.com\/news\/aelf\/"
+                }
+            ],
+            "id": 18712833,
+            "url": "https:\/\/cryptopanic.com\/news\/18712833\/aelf-unveiled-the-roadmap-for-Q3-2023-Q2-2024-The-coming-four-quarters-are-destined-to-bring-Stronger-aelf",
+            "created_at": "2023-07-04T10:03:40Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@aelfblockchain",
+            "source": {
+                "title": "aelf Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@aelfblockchain"
+            },
+            "title": "aelf Explorer v1.3.2 Released! Supporting login with smart contract accounts \n\nUsers now can seamlessly connect to\u2026",
+            "published_at": "2023-06-27T04:05:18Z",
+            "slug": "aelf-Explorer-v132-Released-Supporting-login-with-smart-contract-accounts-Users-now-can-seamlessly-connect-to",
+            "currencies": [
+                {
+                    "code": "ELF",
+                    "title": "aelf",
+                    "slug": "aelf",
+                    "url": "https:\/\/cryptopanic.com\/news\/aelf\/"
+                }
+            ],
+            "id": 18665150,
+            "url": "https:\/\/cryptopanic.com\/news\/18665150\/aelf-Explorer-v132-Released-Supporting-login-with-smart-contract-accounts-Users-now-can-seamlessly-connect-to",
+            "created_at": "2023-06-27T04:05:18Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@ElfWallet",
+            "source": {
+                "title": "ELF Wallet Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@elfwallet"
+            },
+            "title": "RT @BitMartExchange:  Upcoming New Listing \n\n\ud83e\udd29 #BitMart will list $ELF @ElfWallet soon!\nELF Wallet is a self-built wallet #DeFi tool.\n\nKe\u2026",
+            "published_at": "2023-06-27T02:47:47Z",
+            "slug": "RT-BitMartExchange-Upcoming-New-Listing-BitMart-will-list-ELF-ElfWallet-soon-ELF-Wallet-is-a-self-built-wallet-DeFi-tool-Ke",
+            "currencies": [
+                {
+                    "code": "ELF",
+                    "title": "ELF Wallet",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18660632,
+            "url": "https:\/\/cryptopanic.com\/news\/18660632\/RT-BitMartExchange-Upcoming-New-Listing-BitMart-will-list-ELF-ElfWallet-soon-ELF-Wallet-is-a-self-built-wallet-DeFi-tool-Ke",
+            "created_at": "2023-06-27T02:47:47Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@aelfblockchain",
+            "source": {
+                "title": "aelf Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@aelfblockchain"
+            },
+            "title": "Good news! #aelf communities can continue to enjoy the services at aelf Mainnet token swap portal for 3 more months\u2026",
+            "published_at": "2023-06-26T10:06:18Z",
+            "slug": "Good-news-aelf-communities-can-continue-to-enjoy-the-services-at-aelf-Mainnet-token-swap-portal-for-3-more-months",
+            "currencies": [
+                {
+                    "code": "ELF",
+                    "title": "aelf",
+                    "slug": "aelf",
+                    "url": "https:\/\/cryptopanic.com\/news\/aelf\/"
+                }
+            ],
+            "id": 18656924,
+            "url": "https:\/\/cryptopanic.com\/news\/18656924\/Good-news-aelf-communities-can-continue-to-enjoy-the-services-at-aelf-Mainnet-token-swap-portal-for-3-more-months",
+            "created_at": "2023-06-26T10:06:18Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@ElfWallet",
+            "source": {
+                "title": "ELF Wallet Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@elfwallet"
+            },
+            "title": "We have issued tokens on Ethereum with a total amount of 1 billion, 6% added to uniswap, 4% will be used for market\u2026",
+            "published_at": "2023-06-24T01:15:42Z",
+            "slug": "We-have-issued-tokens-on-Ethereum-with-a-total-amount-of-1-billion-6-added-to-uniswap-4-will-be-used-for-market",
+            "currencies": [
+                {
+                    "code": "ELF",
+                    "title": "ELF Wallet",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18644167,
+            "url": "https:\/\/cryptopanic.com\/news\/18644167\/We-have-issued-tokens-on-Ethereum-with-a-total-amount-of-1-billion-6-added-to-uniswap-4-will-be-used-for-market",
+            "created_at": "2023-06-24T01:15:42Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@ElfWallet",
+            "source": {
+                "title": "ELF Wallet Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@elfwallet"
+            },
+            "title": "Trending top 3 on CMC \nperfect counterattack\uff01",
+            "published_at": "2023-06-21T06:21:40Z",
+            "slug": "Trending-top-3-on-CMC-perfect-counterattack",
+            "currencies": [
+                {
+                    "code": "ELF",
+                    "title": "ELF Wallet",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18619828,
+            "url": "https:\/\/cryptopanic.com\/news\/18619828\/Trending-top-3-on-CMC-perfect-counterattack",
+            "created_at": "2023-06-21T06:21:40Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@ElfWallet",
+            "source": {
+                "title": "ELF Wallet Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@elfwallet"
+            },
+            "title": "RT @MEXC_Official: Happy to announce that the @ElfWallet Kickstarter has concluded and #ELFWALLET will list on #MEXC!\n\nDeposit: Opened\n E\u2026",
+            "published_at": "2023-06-20T11:21:58Z",
+            "slug": "RT-MEXC_Official-Happy-to-announce-that-the-ElfWallet-Kickstarter-has-concluded-and-ELFWALLET-will-list-on-MEXC-Deposit-Opened-E",
+            "currencies": [
+                {
+                    "code": "ELF",
+                    "title": "ELF Wallet",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18619829,
+            "url": "https:\/\/cryptopanic.com\/news\/18619829\/RT-MEXC_Official-Happy-to-announce-that-the-ElfWallet-Kickstarter-has-concluded-and-ELFWALLET-will-list-on-MEXC-Deposit-Opened-E",
+            "created_at": "2023-06-20T11:21:58Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@ElfWallet",
+            "source": {
+                "title": "ELF Wallet Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@elfwallet"
+            },
+            "title": "RT @MEXC_Official: The @ElfWallet Kickstarter is coming to @MEXC_Official!\n\n\ufe0fVote with $MX to support the #ELFWALLET listing and sharing 4\u2026",
+            "published_at": "2023-06-19T10:08:22Z",
+            "slug": "RT-MEXC_Official-The-ElfWallet-Kickstarter-is-coming-to-MEXC_Official-Vote-with-MX-to-support-the-ELFWALLET-listing-and-sharing-4",
+            "currencies": [
+                {
+                    "code": "ELF",
+                    "title": "ELF Wallet",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18611789,
+            "url": "https:\/\/cryptopanic.com\/news\/18611789\/RT-MEXC_Official-The-ElfWallet-Kickstarter-is-coming-to-MEXC_Official-Vote-with-MX-to-support-the-ELFWALLET-listing-and-sharing-4",
+            "created_at": "2023-06-19T10:08:22Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@aelfblockchain",
+            "source": {
+                "title": "aelf Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@aelfblockchain"
+            },
+            "title": "#aelf &amp; #AlchemyPay team up, enabling crypto-fiat exchange in aelf ecosystem and listing $ELF on AlchemyPay\u2019s ramp.\u2026",
+            "published_at": "2023-06-15T10:37:09Z",
+            "slug": "aelf-amp-AlchemyPay-team-up-enabling-crypto-fiat-exchange-in-aelf-ecosystem-and-listing-ELF-on-AlchemyPays-ramp",
+            "currencies": [
+                {
+                    "code": "ELF",
+                    "title": "aelf",
+                    "slug": "aelf",
+                    "url": "https:\/\/cryptopanic.com\/news\/aelf\/"
+                }
+            ],
+            "id": 18592170,
+            "url": "https:\/\/cryptopanic.com\/news\/18592170\/aelf-amp-AlchemyPay-team-up-enabling-crypto-fiat-exchange-in-aelf-ecosystem-and-listing-ELF-on-AlchemyPays-ramp",
+            "created_at": "2023-06-15T10:37:09Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@aelfblockchain",
+            "source": {
+                "title": "aelf Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@aelfblockchain"
+            },
+            "title": "RT @AlchemyPay: The fiat-crypto ramp service is available on @aelfblockchain, a high-performance layer-1 blockchain, enabling users to buy\u2026",
+            "published_at": "2023-06-15T10:33:57Z",
+            "slug": "RT-AlchemyPay-The-fiat-crypto-ramp-service-is-available-on-aelfblockchain-a-high-performance-layer-1-blockchain-enabling-users-to-buy",
+            "currencies": [
+                {
+                    "code": "ELF",
+                    "title": "aelf",
+                    "slug": "aelf",
+                    "url": "https:\/\/cryptopanic.com\/news\/aelf\/"
+                }
+            ],
+            "id": 18592171,
+            "url": "https:\/\/cryptopanic.com\/news\/18592171\/RT-AlchemyPay-The-fiat-crypto-ramp-service-is-available-on-aelfblockchain-a-high-performance-layer-1-blockchain-enabling-users-to-buy",
+            "created_at": "2023-06-15T10:33:57Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@ElfWallet",
+            "source": {
+                "title": "ELF Wallet Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@elfwallet"
+            },
+            "title": "RT @Beosin_com: We have finished #smartcontract audit service of @ElfWallet \n\nELF Wallet is a self-built wallet #DeFi tools on @DRAC_Netw\u2026",
+            "published_at": "2023-06-14T03:27:13Z",
+            "slug": "RT-Beosin_com-We-have-finished-smartcontract-audit-service-of-ElfWallet-ELF-Wallet-is-a-self-built-wallet-DeFi-tools-on-DRAC_Netw",
+            "currencies": [
+                {
+                    "code": "ELF",
+                    "title": "ELF Wallet",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18570329,
+            "url": "https:\/\/cryptopanic.com\/news\/18570329\/RT-Beosin_com-We-have-finished-smartcontract-audit-service-of-ElfWallet-ELF-Wallet-is-a-self-built-wallet-DeFi-tools-on-DRAC_Netw",
+            "created_at": "2023-06-14T03:27:13Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@ElfWallet",
+            "source": {
+                "title": "ELF Wallet Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@elfwallet"
+            },
+            "title": "First expect price is 0.1$.",
+            "published_at": "2023-06-11T18:43:05Z",
+            "slug": "First-expect-price-is-01",
+            "currencies": [
+                {
+                    "code": "ELF",
+                    "title": "ELF Wallet",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18555483,
+            "url": "https:\/\/cryptopanic.com\/news\/18555483\/First-expect-price-is-01",
+            "created_at": "2023-06-11T18:43:05Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@aelfblockchain",
+            "source": {
+                "title": "aelf Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@aelfblockchain"
+            },
+            "title": "#aelf Monthly Digest - May 2023\naelf Boilerplate experienced a major upgrade in May to facilitate contract develop\u2026",
+            "published_at": "2023-06-09T13:20:44Z",
+            "slug": "aelf-Monthly-Digest-May-2023-aelf-Boilerplate-experienced-a-major-upgrade-in-May-to-facilitate-contract-develop",
+            "currencies": [
+                {
+                    "code": "ELF",
+                    "title": "aelf",
+                    "slug": "aelf",
+                    "url": "https:\/\/cryptopanic.com\/news\/aelf\/"
+                }
+            ],
+            "id": 18549107,
+            "url": "https:\/\/cryptopanic.com\/news\/18549107\/aelf-Monthly-Digest-May-2023-aelf-Boilerplate-experienced-a-major-upgrade-in-May-to-facilitate-contract-develop",
+            "created_at": "2023-06-09T13:20:44Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@aelfblockchain",
+            "source": {
+                "title": "aelf Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@aelfblockchain"
+            },
+            "title": "#aelf explorer supports contract deployment\/update without approval now. \n\nBuilding #DApp on aelf blockchain is eas\u2026",
+            "published_at": "2023-05-11T09:59:50Z",
+            "slug": "aelf-explorer-supports-contract-deploymentupdate-without-approval-now-Building-DApp-on-aelf-blockchain-is-eas",
+            "currencies": [
+                {
+                    "code": "ELF",
+                    "title": "aelf",
+                    "slug": "aelf",
+                    "url": "https:\/\/cryptopanic.com\/news\/aelf\/"
+                }
+            ],
+            "id": 18317086,
+            "url": "https:\/\/cryptopanic.com\/news\/18317086\/aelf-explorer-supports-contract-deploymentupdate-without-approval-now-Building-DApp-on-aelf-blockchain-is-eas",
+            "created_at": "2023-05-11T09:59:50Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

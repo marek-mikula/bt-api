@@ -1,0 +1,833 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=EGLD&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "As Immutable and MultiverseX Contend With Market Conditions, These AI Altcoins Are On The Rise",
+            "published_at": "2023-10-02T14:00:00Z",
+            "slug": "As-Immutable-and-MultiverseX-Contend-With-Market-Conditions-These-AI-Altcoins-Are-On-The-Rise",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "IMX",
+                    "title": "ImmutableX",
+                    "slug": "immutable-x",
+                    "url": "https:\/\/cryptopanic.com\/news\/immutable-x\/"
+                },
+                {
+                    "code": "EGLD",
+                    "title": "MultiversX",
+                    "slug": "elrond-erd-2",
+                    "url": "https:\/\/cryptopanic.com\/news\/elrond-erd-2\/"
+                }
+            ],
+            "id": 18942261,
+            "url": "https:\/\/cryptopanic.com\/news\/18942261\/As-Immutable-and-MultiverseX-Contend-With-Market-Conditions-These-AI-Altcoins-Are-On-The-Rise",
+            "created_at": "2023-10-02T14:00:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "dailycoin.com",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 1,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 1,
+                "toxic": 0,
+                "saved": 1,
+                "comments": 0
+            },
+            "source": {
+                "title": "Dailycoin",
+                "region": "en",
+                "domain": "dailycoin.com",
+                "path": null
+            },
+            "title": "MultiversX Exceeds Carbon Offset Goals for a Greener Blockchain",
+            "published_at": "2023-09-29T11:20:00Z",
+            "slug": "MultiversX-Exceeds-Carbon-Offset-Goals-for-a-Greener-Blockchain",
+            "currencies": [
+                {
+                    "code": "EGLD",
+                    "title": "MultiversX",
+                    "slug": "elrond-erd-2",
+                    "url": "https:\/\/cryptopanic.com\/news\/elrond-erd-2\/"
+                }
+            ],
+            "id": 18936996,
+            "url": "https:\/\/cryptopanic.com\/news\/18936996\/MultiversX-Exceeds-Carbon-Offset-Goals-for-a-Greener-Blockchain",
+            "created_at": "2023-09-29T11:20:00Z"
+        },
+        {
+            "kind": "news",
+            "domain": "coinedition.com",
+            "source": {
+                "title": "coinedition",
+                "region": "en",
+                "domain": "coinedition.com",
+                "path": null
+            },
+            "title": "EGLD Could Break Above $28 Soon as Technical Indicators Align",
+            "published_at": "2023-09-17T14:10:00Z",
+            "slug": "EGLD-Could-Break-Above-28-Soon-as-Technical-Indicators-Align",
+            "currencies": [
+                {
+                    "code": "EGLD",
+                    "title": "MultiversX",
+                    "slug": "elrond-erd-2",
+                    "url": "https:\/\/cryptopanic.com\/news\/elrond-erd-2\/"
+                }
+            ],
+            "id": 18909010,
+            "url": "https:\/\/cryptopanic.com\/news\/18909010\/EGLD-Could-Break-Above-28-Soon-as-Technical-Indicators-Align",
+            "created_at": "2023-09-17T14:10:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "feeds2.benzinga.com",
+            "source": {
+                "title": "Benzinga",
+                "region": "en",
+                "domain": "feeds2.benzinga.com",
+                "path": null
+            },
+            "title": "Ethereum Falls Below $1,900; Rocket Pool, MultiversX Among Top Losers",
+            "published_at": "2023-07-21T13:41:30Z",
+            "slug": "Ethereum-Falls-Below-1900-Rocket-Pool-MultiversX-Among-Top-Losers",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "EGLD",
+                    "title": "MultiversX",
+                    "slug": "elrond-erd-2",
+                    "url": "https:\/\/cryptopanic.com\/news\/elrond-erd-2\/"
+                }
+            ],
+            "id": 18788491,
+            "url": "https:\/\/cryptopanic.com\/news\/18788491\/Ethereum-Falls-Below-1900-Rocket-Pool-MultiversX-Among-Top-Losers",
+            "created_at": "2023-07-21T13:41:30Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "feeds2.benzinga.com",
+            "source": {
+                "title": "Benzinga",
+                "region": "en",
+                "domain": "feeds2.benzinga.com",
+                "path": null
+            },
+            "title": "Cryptocurrency MultiversX Down More Than 6% Within 24 hours",
+            "published_at": "2023-07-20T19:00:27Z",
+            "slug": "Cryptocurrency-MultiversX-Down-More-Than-6-Within-24-hours",
+            "currencies": [
+                {
+                    "code": "EGLD",
+                    "title": "MultiversX",
+                    "slug": "elrond-erd-2",
+                    "url": "https:\/\/cryptopanic.com\/news\/elrond-erd-2\/"
+                }
+            ],
+            "id": 18786848,
+            "url": "https:\/\/cryptopanic.com\/news\/18786848\/Cryptocurrency-MultiversX-Down-More-Than-6-Within-24-hours",
+            "created_at": "2023-07-20T19:00:27Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "MultiversX makes these moves to reignite its ailing DeFi ecosystem",
+            "published_at": "2023-07-15T14:30:25Z",
+            "slug": "MultiversX-makes-these-moves-to-reignite-its-ailing-DeFi-ecosystem",
+            "currencies": [
+                {
+                    "code": "EGLD",
+                    "title": "MultiversX",
+                    "slug": "elrond-erd-2",
+                    "url": "https:\/\/cryptopanic.com\/news\/elrond-erd-2\/"
+                }
+            ],
+            "id": 18776196,
+            "url": "https:\/\/cryptopanic.com\/news\/18776196\/MultiversX-makes-these-moves-to-reignite-its-ailing-DeFi-ecosystem",
+            "created_at": "2023-07-15T14:30:25Z"
+        },
+        {
+            "kind": "news",
+            "domain": "theblock.co",
+            "source": {
+                "title": "The Block",
+                "region": "en",
+                "domain": "theblock.co",
+                "path": null
+            },
+            "title": "MultiversX introduces on-chain 2FA to combat theft and scams",
+            "published_at": "2023-07-14T09:07:41Z",
+            "slug": "MultiversX-introduces-on-chain-2FA-to-combat-theft-and-scams",
+            "currencies": [
+                {
+                    "code": "EGLD",
+                    "title": "MultiversX",
+                    "slug": "elrond-erd-2",
+                    "url": "https:\/\/cryptopanic.com\/news\/elrond-erd-2\/"
+                }
+            ],
+            "id": 18773756,
+            "url": "https:\/\/cryptopanic.com\/news\/18773756\/MultiversX-introduces-on-chain-2FA-to-combat-theft-and-scams",
+            "created_at": "2023-07-14T09:07:41Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cointelegraph.com",
+            "source": {
+                "title": "CoinTelegraph",
+                "region": "en",
+                "domain": "cointelegraph.com",
+                "path": null
+            },
+            "title": "MultiversX launches on-chain two-factor authentication standard",
+            "published_at": "2023-07-14T09:00:00Z",
+            "slug": "MultiversX-launches-on-chain-two-factor-authentication-standard",
+            "currencies": [
+                {
+                    "code": "EGLD",
+                    "title": "MultiversX",
+                    "slug": "elrond-erd-2",
+                    "url": "https:\/\/cryptopanic.com\/news\/elrond-erd-2\/"
+                }
+            ],
+            "id": 18773721,
+            "url": "https:\/\/cryptopanic.com\/news\/18773721\/MultiversX-launches-on-chain-two-factor-authentication-standard",
+            "created_at": "2023-07-14T09:00:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@SuperRare_Bears",
+            "source": {
+                "title": "SuperRareBears RARE Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@superrare_bears"
+            },
+            "title": "RT @MultiversXToday: 4\/\n @ash_swap shared an update on its ongoing Farm Weight Voting, including the newly introduced $sEGLD \/ $EGLD farm\u2026",
+            "published_at": "2023-07-11T19:54:03Z",
+            "slug": "RT-MultiversXToday-4-ash_swap-shared-an-update-on-its-ongoing-Farm-Weight-Voting-including-the-newly-introduced-sEGLD-EGLD-farm",
+            "currencies": [
+                {
+                    "code": "RARE",
+                    "title": "SuperRareBears RARE",
+                    "slug": "superrarebears-rare",
+                    "url": "https:\/\/cryptopanic.com\/news\/superrarebears-rare\/"
+                },
+                {
+                    "code": "$HYPE",
+                    "title": "SuperRareBears HYPE",
+                    "slug": "superrarebears-hype",
+                    "url": "https:\/\/cryptopanic.com\/news\/superrarebears-hype\/"
+                },
+                {
+                    "code": "EGLD",
+                    "title": "MultiversX",
+                    "slug": "elrond-erd-2",
+                    "url": "https:\/\/cryptopanic.com\/news\/elrond-erd-2\/"
+                }
+            ],
+            "id": 18767400,
+            "url": "https:\/\/cryptopanic.com\/news\/18767400\/RT-MultiversXToday-4-ash_swap-shared-an-update-on-its-ongoing-Farm-Weight-Voting-including-the-newly-introduced-sEGLD-EGLD-farm",
+            "created_at": "2023-07-11T19:54:03Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptodaily.co.uk",
+            "source": {
+                "title": "CryptoDaily",
+                "region": "en",
+                "domain": "cryptodaily.co.uk",
+                "path": null
+            },
+            "title": "Ethereum Blockchain Game Pikamoon Raises $3.6m, Final ICO Phase Selling Out Fast",
+            "published_at": "2023-07-11T10:08:59Z",
+            "slug": "Ethereum-Blockchain-Game-Pikamoon-Raises-36m-Final-ICO-Phase-Selling-Out-Fast",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "EGLD",
+                    "title": "MultiversX",
+                    "slug": "elrond-erd-2",
+                    "url": "https:\/\/cryptopanic.com\/news\/elrond-erd-2\/"
+                }
+            ],
+            "id": 18759631,
+            "url": "https:\/\/cryptopanic.com\/news\/18759631\/Ethereum-Blockchain-Game-Pikamoon-Raises-36m-Final-ICO-Phase-Selling-Out-Fast",
+            "created_at": "2023-07-11T10:08:59Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@SuperRare_Bears",
+            "source": {
+                "title": "SuperRareBears RARE Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@superrare_bears"
+            },
+            "title": "RT @ElrondWatch:  TOP MultiversX Collections FP [1\/2]\n@wecowcow : 8.25\n@SuperRare_Bears : 1.639\nGenesisSpaceApes : 1.939\n@thedreamywhales\u2026",
+            "published_at": "2023-07-11T07:12:25Z",
+            "slug": "RT-ElrondWatch-TOP-MultiversX-Collections-FP-12-wecowcow-825-SuperRare_Bears-1639-GenesisSpaceApes-1939-thedreamywhales",
+            "currencies": [
+                {
+                    "code": "RARE",
+                    "title": "SuperRareBears RARE",
+                    "slug": "superrarebears-rare",
+                    "url": "https:\/\/cryptopanic.com\/news\/superrarebears-rare\/"
+                },
+                {
+                    "code": "$HYPE",
+                    "title": "SuperRareBears HYPE",
+                    "slug": "superrarebears-hype",
+                    "url": "https:\/\/cryptopanic.com\/news\/superrarebears-hype\/"
+                },
+                {
+                    "code": "EGLD",
+                    "title": "MultiversX",
+                    "slug": "elrond-erd-2",
+                    "url": "https:\/\/cryptopanic.com\/news\/elrond-erd-2\/"
+                }
+            ],
+            "id": 18759139,
+            "url": "https:\/\/cryptopanic.com\/news\/18759139\/RT-ElrondWatch-TOP-MultiversX-Collections-FP-12-wecowcow-825-SuperRare_Bears-1639-GenesisSpaceApes-1939-thedreamywhales",
+            "created_at": "2023-07-11T07:12:25Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@MultiversX",
+            "source": {
+                "title": "MultiversX (Elrond) Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@multiversx"
+            },
+            "title": "Celebrating the Champions!\n\nThe #HypergrowthX Campaign winners have emerged.\n\n+760 submissions from talented indivi\u2026",
+            "published_at": "2023-07-10T17:18:04Z",
+            "slug": "Celebrating-the-Champions-The-HypergrowthX-Campaign-winners-have-emerged-760-submissions-from-talented-indivi",
+            "currencies": [
+                {
+                    "code": "EGLD",
+                    "title": "MultiversX",
+                    "slug": "elrond-erd-2",
+                    "url": "https:\/\/cryptopanic.com\/news\/elrond-erd-2\/"
+                },
+                {
+                    "code": "WEGLD",
+                    "title": "Wrapped EGLD",
+                    "slug": "wrapped-elrond",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-elrond\/"
+                }
+            ],
+            "id": 18757688,
+            "url": "https:\/\/cryptopanic.com\/news\/18757688\/Celebrating-the-Champions-The-HypergrowthX-Campaign-winners-have-emerged-760-submissions-from-talented-indivi",
+            "created_at": "2023-07-10T17:18:04Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@plataNetwork",
+            "source": {
+                "title": "Plata Network Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@platanetwork"
+            },
+            "title": "RT @MultiversX: Last week in $EGLD \n\n1\/\n\ud83e\udde9 Progress &amp; updates on @xMoney_com\n @HatomProtocol launches Liquid Staking &amp; Lending on July 16,\u2026",
+            "published_at": "2023-07-10T07:55:42Z",
+            "slug": "RT-MultiversX-Last-week-in-EGLD-1-Progress-amp-updates-on-xMoney_com-HatomProtocol-launches-Liquid-Staking-amp-Lending-on-July-16",
+            "currencies": [
+                {
+                    "code": "PLATA",
+                    "title": "Plata Network",
+                    "slug": "plata-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/plata-network\/"
+                },
+                {
+                    "code": "EGLD",
+                    "title": "MultiversX",
+                    "slug": "elrond-erd-2",
+                    "url": "https:\/\/cryptopanic.com\/news\/elrond-erd-2\/"
+                }
+            ],
+            "id": 18751026,
+            "url": "https:\/\/cryptopanic.com\/news\/18751026\/RT-MultiversX-Last-week-in-EGLD-1-Progress-amp-updates-on-xMoney_com-HatomProtocol-launches-Liquid-Staking-amp-Lending-on-July-16",
+            "created_at": "2023-07-10T07:55:42Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@MultiversX",
+            "source": {
+                "title": "MultiversX (Elrond) Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@multiversx"
+            },
+            "title": "Last week in $EGLD \n\n1\/\n\ud83e\udde9 Progress &amp; updates on @xMoney_com\n @HatomProtocol launches Liquid Staking &amp; Lending on\u2026",
+            "published_at": "2023-07-10T07:35:33Z",
+            "slug": "Last-week-in-EGLD-1-Progress-amp-updates-on-xMoney_com-HatomProtocol-launches-Liquid-Staking-amp-Lending-on",
+            "currencies": [
+                {
+                    "code": "EGLD",
+                    "title": "MultiversX",
+                    "slug": "elrond-erd-2",
+                    "url": "https:\/\/cryptopanic.com\/news\/elrond-erd-2\/"
+                },
+                {
+                    "code": "WEGLD",
+                    "title": "Wrapped EGLD",
+                    "slug": "wrapped-elrond",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-elrond\/"
+                }
+            ],
+            "id": 18750616,
+            "url": "https:\/\/cryptopanic.com\/news\/18750616\/Last-week-in-EGLD-1-Progress-amp-updates-on-xMoney_com-HatomProtocol-launches-Liquid-Staking-amp-Lending-on",
+            "created_at": "2023-07-10T07:35:33Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@SuperRare_Bears",
+            "source": {
+                "title": "SuperRareBears RARE Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@superrare_bears"
+            },
+            "title": "RT @Bearzilla01: Demand more from your NFT Project #MultiversX \u200d\n\n for  \n\n1\ufe0f\u20e3RARE Pool on QuantumX ~ 37% of \nCurrent APR in EGLD 27.95\u2026",
+            "published_at": "2023-07-09T19:44:07Z",
+            "slug": "RT-Bearzilla01-Demand-more-from-your-NFT-Project-MultiversX-for-1RARE-Pool-on-QuantumX-37-of-Current-APR-in-EGLD-2795",
+            "currencies": [
+                {
+                    "code": "RARE",
+                    "title": "SuperRareBears RARE",
+                    "slug": "superrarebears-rare",
+                    "url": "https:\/\/cryptopanic.com\/news\/superrarebears-rare\/"
+                },
+                {
+                    "code": "$HYPE",
+                    "title": "SuperRareBears HYPE",
+                    "slug": "superrarebears-hype",
+                    "url": "https:\/\/cryptopanic.com\/news\/superrarebears-hype\/"
+                },
+                {
+                    "code": "EGLD",
+                    "title": "MultiversX",
+                    "slug": "elrond-erd-2",
+                    "url": "https:\/\/cryptopanic.com\/news\/elrond-erd-2\/"
+                }
+            ],
+            "id": 18751575,
+            "url": "https:\/\/cryptopanic.com\/news\/18751575\/RT-Bearzilla01-Demand-more-from-your-NFT-Project-MultiversX-for-1RARE-Pool-on-QuantumX-37-of-Current-APR-in-EGLD-2795",
+            "created_at": "2023-07-09T19:44:07Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@MultiversX",
+            "source": {
+                "title": "MultiversX (Elrond) Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@multiversx"
+            },
+            "title": "RT @iulian_pascalau: The open-source products, tools, and infrastructure we are releasing sit at the heart of #MultiversX, enabling and acc\u2026",
+            "published_at": "2023-07-09T18:20:54Z",
+            "slug": "RT-iulian_pascalau-The-open-source-products-tools-and-infrastructure-we-are-releasing-sit-at-the-heart-of-MultiversX-enabling-and-acc",
+            "currencies": [
+                {
+                    "code": "EGLD",
+                    "title": "MultiversX",
+                    "slug": "elrond-erd-2",
+                    "url": "https:\/\/cryptopanic.com\/news\/elrond-erd-2\/"
+                },
+                {
+                    "code": "WEGLD",
+                    "title": "Wrapped EGLD",
+                    "slug": "wrapped-elrond",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-elrond\/"
+                }
+            ],
+            "id": 18750617,
+            "url": "https:\/\/cryptopanic.com\/news\/18750617\/RT-iulian_pascalau-The-open-source-products-tools-and-infrastructure-we-are-releasing-sit-at-the-heart-of-MultiversX-enabling-and-acc",
+            "created_at": "2023-07-09T18:20:54Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@golteum",
+            "source": {
+                "title": "Golteum Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@golteum"
+            },
+            "title": "Golteum (GLTM) Displays High Potential for the Future as Ripple (XRP) and MultiversX (EGLD) Face Uncertainty #GLTM\u2026",
+            "published_at": "2023-07-07T18:22:06Z",
+            "slug": "Golteum-GLTM-Displays-High-Potential-for-the-Future-as-Ripple-XRP-and-MultiversX-EGLD-Face-Uncertainty-GLTM",
+            "currencies": [
+                {
+                    "code": "GLTM",
+                    "title": "Golteum",
+                    "slug": "golteum",
+                    "url": "https:\/\/cryptopanic.com\/news\/golteum\/"
+                },
+                {
+                    "code": "EGLD",
+                    "title": "MultiversX",
+                    "slug": "elrond-erd-2",
+                    "url": "https:\/\/cryptopanic.com\/news\/elrond-erd-2\/"
+                }
+            ],
+            "id": 18740419,
+            "url": "https:\/\/cryptopanic.com\/news\/18740419\/Golteum-GLTM-Displays-High-Potential-for-the-Future-as-Ripple-XRP-and-MultiversX-EGLD-Face-Uncertainty-GLTM",
+            "created_at": "2023-07-07T18:22:06Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@MultiversX",
+            "source": {
+                "title": "MultiversX (Elrond) Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@multiversx"
+            },
+            "title": "RT @beniaminmincu: NFT Tickets are now live in @xPortalApp \n\nPioneered together with Neversea, the largest beach festival around \n\nA glim\u2026",
+            "published_at": "2023-07-07T12:29:55Z",
+            "slug": "RT-beniaminmincu-NFT-Tickets-are-now-live-in-xPortalApp-Pioneered-together-with-Neversea-the-largest-beach-festival-around-A-glim",
+            "currencies": [
+                {
+                    "code": "EGLD",
+                    "title": "MultiversX",
+                    "slug": "elrond-erd-2",
+                    "url": "https:\/\/cryptopanic.com\/news\/elrond-erd-2\/"
+                },
+                {
+                    "code": "WEGLD",
+                    "title": "Wrapped EGLD",
+                    "slug": "wrapped-elrond",
+                    "url": "https:\/\/cryptopanic.com\/news\/wrapped-elrond\/"
+                }
+            ],
+            "id": 18741446,
+            "url": "https:\/\/cryptopanic.com\/news\/18741446\/RT-beniaminmincu-NFT-Tickets-are-now-live-in-xPortalApp-Pioneered-together-with-Neversea-the-largest-beach-festival-around-A-glim",
+            "created_at": "2023-07-07T12:29:55Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@ash_swap",
+            "source": {
+                "title": "AshSwap Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@ash_swap"
+            },
+            "title": "This #LSDfi summer,@ash_swap and @HatomProtocol are ready to dial up the temps\ufe0f for every $EGLD staker.\n\nDon't mis\u2026",
+            "published_at": "2023-07-07T09:00:43Z",
+            "slug": "This-LSDfi-summerash_swap-and-HatomProtocol-are-ready-to-dial-up-the-temps-for-every-EGLD-staker-Dont-mis",
+            "currencies": [
+                {
+                    "code": "ASH",
+                    "title": "AshSwap",
+                    "slug": "ashswap",
+                    "url": "https:\/\/cryptopanic.com\/news\/ashswap\/"
+                },
+                {
+                    "code": "EGLD",
+                    "title": "MultiversX",
+                    "slug": "elrond-erd-2",
+                    "url": "https:\/\/cryptopanic.com\/news\/elrond-erd-2\/"
+                }
+            ],
+            "id": 18738760,
+            "url": "https:\/\/cryptopanic.com\/news\/18738760\/This-LSDfi-summerash_swap-and-HatomProtocol-are-ready-to-dial-up-the-temps-for-every-EGLD-staker-Dont-mis",
+            "created_at": "2023-07-07T09:00:43Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@SuperRare_Bears",
+            "source": {
+                "title": "SuperRareBears RARE Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@superrare_bears"
+            },
+            "title": "SuperRareBears &amp; #MultiversX $EGLD community, almost time for this week's #bearlygames, a quiz, plus a 240 piece p\u2026",
+            "published_at": "2023-07-06T16:06:13Z",
+            "slug": "SuperRareBears-amp-MultiversX-EGLD-community-almost-time-for-this-weeks-bearlygames-a-quiz-plus-a-240-piece-p",
+            "currencies": [
+                {
+                    "code": "RARE",
+                    "title": "SuperRareBears RARE",
+                    "slug": "superrarebears-rare",
+                    "url": "https:\/\/cryptopanic.com\/news\/superrarebears-rare\/"
+                },
+                {
+                    "code": "$HYPE",
+                    "title": "SuperRareBears HYPE",
+                    "slug": "superrarebears-hype",
+                    "url": "https:\/\/cryptopanic.com\/news\/superrarebears-hype\/"
+                },
+                {
+                    "code": "EGLD",
+                    "title": "MultiversX",
+                    "slug": "elrond-erd-2",
+                    "url": "https:\/\/cryptopanic.com\/news\/elrond-erd-2\/"
+                }
+            ],
+            "id": 18735567,
+            "url": "https:\/\/cryptopanic.com\/news\/18735567\/SuperRareBears-amp-MultiversX-EGLD-community-almost-time-for-this-weeks-bearlygames-a-quiz-plus-a-240-piece-p",
+            "created_at": "2023-07-06T16:06:13Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

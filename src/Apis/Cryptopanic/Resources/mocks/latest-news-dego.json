@@ -1,0 +1,827 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=DEGO&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "@dego_finance",
+            "source": {
+                "title": "Dego Finance Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@dego_finance"
+            },
+            "title": "Congrats on the successful launch! \n\n\ud83e\udd1dDego Finance's honored to keep building #Web3 with @ArkhamIntel - The World\u2026",
+            "published_at": "2023-07-10T11:34:39Z",
+            "slug": "Congrats-on-the-successful-launch-Dego-Finances-honored-to-keep-building-Web3-with-ArkhamIntel-The-World",
+            "currencies": [
+                {
+                    "code": "DEGO",
+                    "title": "Dego Finance",
+                    "slug": "dego-finance",
+                    "url": "https:\/\/cryptopanic.com\/news\/dego-finance\/"
+                },
+                {
+                    "code": "DANDY",
+                    "title": "Dandy Dego",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18755615,
+            "url": "https:\/\/cryptopanic.com\/news\/18755615\/Congrats-on-the-successful-launch-Dego-Finances-honored-to-keep-building-Web3-with-ArkhamIntel-The-World",
+            "created_at": "2023-07-10T11:34:39Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@dego_finance",
+            "source": {
+                "title": "Dego Finance Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@dego_finance"
+            },
+            "title": "\ufe0f 7- day minting completed!\n\nGo and claim your very first Emerald Crest from .\n\nDon\u2019t fo\u2026",
+            "published_at": "2023-07-09T04:05:02Z",
+            "slug": "7-day-minting-completed-Go-and-claim-your-very-first-Emerald-Crest-from-Dont-fo",
+            "currencies": [
+                {
+                    "code": "DEGO",
+                    "title": "Dego Finance",
+                    "slug": "dego-finance",
+                    "url": "https:\/\/cryptopanic.com\/news\/dego-finance\/"
+                },
+                {
+                    "code": "DANDY",
+                    "title": "Dandy Dego",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18745248,
+            "url": "https:\/\/cryptopanic.com\/news\/18745248\/7-day-minting-completed-Go-and-claim-your-very-first-Emerald-Crest-from-Dont-fo",
+            "created_at": "2023-07-09T04:05:02Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@dego_finance",
+            "source": {
+                "title": "Dego Finance Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@dego_finance"
+            },
+            "title": "RT @Defusion_ai: How to get credits in #Defusion @dego_finance?\n\n1\u20e3\ufe0fClick the Twitter icon to share the NFT.\n2\u20e3\ufe0fPaste the Tweet link into\u2026",
+            "published_at": "2023-07-07T09:23:31Z",
+            "slug": "RT-Defusion_ai-How-to-get-credits-in-Defusion-dego_finance-1Click-the-Twitter-icon-to-share-the-NFT-2Paste-the-Tweet-link-into",
+            "currencies": [
+                {
+                    "code": "DEGO",
+                    "title": "Dego Finance",
+                    "slug": "dego-finance",
+                    "url": "https:\/\/cryptopanic.com\/news\/dego-finance\/"
+                },
+                {
+                    "code": "DANDY",
+                    "title": "Dandy Dego",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18739657,
+            "url": "https:\/\/cryptopanic.com\/news\/18739657\/RT-Defusion_ai-How-to-get-credits-in-Defusion-dego_finance-1Click-the-Twitter-icon-to-share-the-NFT-2Paste-the-Tweet-link-into",
+            "created_at": "2023-07-07T09:23:31Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@dego_finance",
+            "source": {
+                "title": "Dego Finance Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@dego_finance"
+            },
+            "title": "RT @Defusion_ai: How to mint an AIGC NFT on @dego_finance? \n\n\u25b6\ufe0fEnter \"\" and log in. Click \"Defusion\" or input https\u2026",
+            "published_at": "2023-07-06T09:26:01Z",
+            "slug": "RT-Defusion_ai-How-to-mint-an-AIGC-NFT-on-dego_finance-Enter-and-log-in-Click-Defusion-or-input-https",
+            "currencies": [
+                {
+                    "code": "DEGO",
+                    "title": "Dego Finance",
+                    "slug": "dego-finance",
+                    "url": "https:\/\/cryptopanic.com\/news\/dego-finance\/"
+                },
+                {
+                    "code": "DANDY",
+                    "title": "Dandy Dego",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18731960,
+            "url": "https:\/\/cryptopanic.com\/news\/18731960\/RT-Defusion_ai-How-to-mint-an-AIGC-NFT-on-dego_finance-Enter-and-log-in-Click-Defusion-or-input-https",
+            "created_at": "2023-07-06T09:26:01Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@dego_finance",
+            "source": {
+                "title": "Dego Finance Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@dego_finance"
+            },
+            "title": "Sapphire Star\nElevate your journey with cosmic wonder and creative inspiration. Shine like a star in exclusive rea\u2026",
+            "published_at": "2023-07-06T05:30:53Z",
+            "slug": "Sapphire-Star-Elevate-your-journey-with-cosmic-wonder-and-creative-inspiration-Shine-like-a-star-in-exclusive-rea",
+            "currencies": [
+                {
+                    "code": "DEGO",
+                    "title": "Dego Finance",
+                    "slug": "dego-finance",
+                    "url": "https:\/\/cryptopanic.com\/news\/dego-finance\/"
+                },
+                {
+                    "code": "DANDY",
+                    "title": "Dandy Dego",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18723396,
+            "url": "https:\/\/cryptopanic.com\/news\/18723396\/Sapphire-Star-Elevate-your-journey-with-cosmic-wonder-and-creative-inspiration-Shine-like-a-star-in-exclusive-rea",
+            "created_at": "2023-07-06T05:30:53Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@dego_finance",
+            "source": {
+                "title": "Dego Finance Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@dego_finance"
+            },
+            "title": "Partnership with @Shell_Wallet \n\nShell Wallet is the universal wallet combining seamless UX and interoperability\u2026",
+            "published_at": "2023-07-05T10:00:27Z",
+            "slug": "Partnership-with-Shell_Wallet-Shell-Wallet-is-the-universal-wallet-combining-seamless-UX-and-interoperability",
+            "currencies": [
+                {
+                    "code": "DEGO",
+                    "title": "Dego Finance",
+                    "slug": "dego-finance",
+                    "url": "https:\/\/cryptopanic.com\/news\/dego-finance\/"
+                },
+                {
+                    "code": "DANDY",
+                    "title": "Dandy Dego",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18723397,
+            "url": "https:\/\/cryptopanic.com\/news\/18723397\/Partnership-with-Shell_Wallet-Shell-Wallet-is-the-universal-wallet-combining-seamless-UX-and-interoperability",
+            "created_at": "2023-07-05T10:00:27Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@dego_finance",
+            "source": {
+                "title": "Dego Finance Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@dego_finance"
+            },
+            "title": "\ufe0fGM, #DEGO Community!\n\n#NFTs #DEGO #AI #scroll @Defusion_ai",
+            "published_at": "2023-07-04T10:27:19Z",
+            "slug": "GM-DEGO-Community-NFTs-DEGO-AI-scroll-Defusion_ai",
+            "currencies": [
+                {
+                    "code": "DEGO",
+                    "title": "Dego Finance",
+                    "slug": "dego-finance",
+                    "url": "https:\/\/cryptopanic.com\/news\/dego-finance\/"
+                },
+                {
+                    "code": "DANDY",
+                    "title": "Dandy Dego",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18715751,
+            "url": "https:\/\/cryptopanic.com\/news\/18715751\/GM-DEGO-Community-NFTs-DEGO-AI-scroll-Defusion_ai",
+            "created_at": "2023-07-04T10:27:19Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@dego_finance",
+            "source": {
+                "title": "Dego Finance Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@dego_finance"
+            },
+            "title": "Emerald Crest\nUnlock exclusive privileges and rare content. Experience the prestige of the emerald realm.\nRarity:\u2026",
+            "published_at": "2023-07-03T08:45:03Z",
+            "slug": "Emerald-Crest-Unlock-exclusive-privileges-and-rare-content-Experience-the-prestige-of-the-emerald-realm-Rarity",
+            "currencies": [
+                {
+                    "code": "DEGO",
+                    "title": "Dego Finance",
+                    "slug": "dego-finance",
+                    "url": "https:\/\/cryptopanic.com\/news\/dego-finance\/"
+                },
+                {
+                    "code": "DANDY",
+                    "title": "Dandy Dego",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18708453,
+            "url": "https:\/\/cryptopanic.com\/news\/18708453\/Emerald-Crest-Unlock-exclusive-privileges-and-rare-content-Experience-the-prestige-of-the-emerald-realm-Rarity",
+            "created_at": "2023-07-03T08:45:03Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@dego_finance",
+            "source": {
+                "title": "Dego Finance Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@dego_finance"
+            },
+            "title": "\ud83e\uddd1\u200dDay1: Join the #DefusionChallenge on to unleash your creativity. \n\nDefy the bear marke\u2026",
+            "published_at": "2023-06-30T13:37:41Z",
+            "slug": "Day1-Join-the-DefusionChallenge-on-to-unleash-your-creativity-Defy-the-bear-marke",
+            "currencies": [
+                {
+                    "code": "DEGO",
+                    "title": "Dego Finance",
+                    "slug": "dego-finance",
+                    "url": "https:\/\/cryptopanic.com\/news\/dego-finance\/"
+                },
+                {
+                    "code": "DANDY",
+                    "title": "Dandy Dego",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18692942,
+            "url": "https:\/\/cryptopanic.com\/news\/18692942\/Day1-Join-the-DefusionChallenge-on-to-unleash-your-creativity-Defy-the-bear-marke",
+            "created_at": "2023-06-30T13:37:41Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@dego_finance",
+            "source": {
+                "title": "Dego Finance Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@dego_finance"
+            },
+            "title": " #DefusionChallenge on the @Scroll_ZKP network\nUnlock badges and seize the chance for future airdrops\n\n\u23f0 JUN 30\u2026",
+            "published_at": "2023-06-29T12:01:04Z",
+            "slug": "DefusionChallenge-on-the-Scroll_ZKP-network-Unlock-badges-and-seize-the-chance-for-future-airdrops-JUN-30",
+            "currencies": [
+                {
+                    "code": "DEGO",
+                    "title": "Dego Finance",
+                    "slug": "dego-finance",
+                    "url": "https:\/\/cryptopanic.com\/news\/dego-finance\/"
+                },
+                {
+                    "code": "DANDY",
+                    "title": "Dandy Dego",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18685016,
+            "url": "https:\/\/cryptopanic.com\/news\/18685016\/DefusionChallenge-on-the-Scroll_ZKP-network-Unlock-badges-and-seize-the-chance-for-future-airdrops-JUN-30",
+            "created_at": "2023-06-29T12:01:04Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@dego_finance",
+            "source": {
+                "title": "Dego Finance Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@dego_finance"
+            },
+            "title": "Happy Eid al-Adha! \n May your Eid al-Adha be filled with joy, blessings, and celebrations.",
+            "published_at": "2023-06-29T07:23:49Z",
+            "slug": "Happy-Eid-al-Adha-May-your-Eid-al-Adha-be-filled-with-joy-blessings-and-celebrations",
+            "currencies": [
+                {
+                    "code": "DEGO",
+                    "title": "Dego Finance",
+                    "slug": "dego-finance",
+                    "url": "https:\/\/cryptopanic.com\/news\/dego-finance\/"
+                },
+                {
+                    "code": "DANDY",
+                    "title": "Dandy Dego",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18685017,
+            "url": "https:\/\/cryptopanic.com\/news\/18685017\/Happy-Eid-al-Adha-May-your-Eid-al-Adha-be-filled-with-joy-blessings-and-celebrations",
+            "created_at": "2023-06-29T07:23:49Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@dego_finance",
+            "source": {
+                "title": "Dego Finance Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@dego_finance"
+            },
+            "title": "RT @Defusion_ai: Welcome to @Defusion_ai : where creativity meets #AI. \n\nUnlock the power of AIGC #NFTs. Immerse in the captivating unive\u2026",
+            "published_at": "2023-06-28T09:06:37Z",
+            "slug": "RT-Defusion_ai-Welcome-to-Defusion_ai-where-creativity-meets-AI-Unlock-the-power-of-AIGC-NFTs-Immerse-in-the-captivating-unive",
+            "currencies": [
+                {
+                    "code": "DEGO",
+                    "title": "Dego Finance",
+                    "slug": "dego-finance",
+                    "url": "https:\/\/cryptopanic.com\/news\/dego-finance\/"
+                },
+                {
+                    "code": "DANDY",
+                    "title": "Dandy Dego",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18676956,
+            "url": "https:\/\/cryptopanic.com\/news\/18676956\/RT-Defusion_ai-Welcome-to-Defusion_ai-where-creativity-meets-AI-Unlock-the-power-of-AIGC-NFTs-Immerse-in-the-captivating-unive",
+            "created_at": "2023-06-28T09:06:37Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@dego_finance",
+            "source": {
+                "title": "Dego Finance Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@dego_finance"
+            },
+            "title": "RT @BitcoinMagazine: This is why we #Bitcoin",
+            "published_at": "2023-06-25T13:44:31Z",
+            "slug": "RT-BitcoinMagazine-This-is-why-we-Bitcoin",
+            "currencies": [
+                {
+                    "code": "DEGO",
+                    "title": "Dego Finance",
+                    "slug": "dego-finance",
+                    "url": "https:\/\/cryptopanic.com\/news\/dego-finance\/"
+                },
+                {
+                    "code": "DANDY",
+                    "title": "Dandy Dego",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18653954,
+            "url": "https:\/\/cryptopanic.com\/news\/18653954\/RT-BitcoinMagazine-This-is-why-we-Bitcoin",
+            "created_at": "2023-06-25T13:44:31Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@dego_finance",
+            "source": {
+                "title": "Dego Finance Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@dego_finance"
+            },
+            "title": "GM, #bitcoin fam! \n\n\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\n\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\n\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\n\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7\ud83d\udfe7",
+            "published_at": "2023-06-21T09:34:23Z",
+            "slug": "GM-bitcoin-fam",
+            "currencies": [
+                {
+                    "code": "DEGO",
+                    "title": "Dego Finance",
+                    "slug": "dego-finance",
+                    "url": "https:\/\/cryptopanic.com\/news\/dego-finance\/"
+                },
+                {
+                    "code": "DANDY",
+                    "title": "Dandy Dego",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18627637,
+            "url": "https:\/\/cryptopanic.com\/news\/18627637\/GM-bitcoin-fam",
+            "created_at": "2023-06-21T09:34:23Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@dego_finance",
+            "source": {
+                "title": "Dego Finance Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@dego_finance"
+            },
+            "title": "RT @Defusion_ai: @dego_finance @Scroll_ZKP How to mint an AIGC NFT on #Scroll network?\n\n1\u20e3\ufe0f Connect to Scroll Testnet\n2\u20e3\ufe0fBridge from Goerl\u2026",
+            "published_at": "2023-06-19T09:44:56Z",
+            "slug": "RT-Defusion_ai-dego_finance-Scroll_ZKP-How-to-mint-an-AIGC-NFT-on-Scroll-network-1-Connect-to-Scroll-Testnet-2Bridge-from-Goerl",
+            "currencies": [
+                {
+                    "code": "DEGO",
+                    "title": "Dego Finance",
+                    "slug": "dego-finance",
+                    "url": "https:\/\/cryptopanic.com\/news\/dego-finance\/"
+                },
+                {
+                    "code": "DANDY",
+                    "title": "Dandy Dego",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18611610,
+            "url": "https:\/\/cryptopanic.com\/news\/18611610\/RT-Defusion_ai-dego_finance-Scroll_ZKP-How-to-mint-an-AIGC-NFT-on-Scroll-network-1-Connect-to-Scroll-Testnet-2Bridge-from-Goerl",
+            "created_at": "2023-06-19T09:44:56Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@dego_finance",
+            "source": {
+                "title": "Dego Finance Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@dego_finance"
+            },
+            "title": "GM, #DEGO community! \ud83e\udee1",
+            "published_at": "2023-06-19T08:46:32Z",
+            "slug": "GM-DEGO-community",
+            "currencies": [
+                {
+                    "code": "DEGO",
+                    "title": "Dego Finance",
+                    "slug": "dego-finance",
+                    "url": "https:\/\/cryptopanic.com\/news\/dego-finance\/"
+                },
+                {
+                    "code": "DANDY",
+                    "title": "Dandy Dego",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18611611,
+            "url": "https:\/\/cryptopanic.com\/news\/18611611\/GM-DEGO-community",
+            "created_at": "2023-06-19T08:46:32Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@dego_finance",
+            "source": {
+                "title": "Dego Finance Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@dego_finance"
+            },
+            "title": " #Giveaway to Dego Finance deployed on #Scroll\n 100 $DEGO to 10\n\n\ud83d\udfeb Mint an AIGC NFT on Scroll testnet:\u2026",
+            "published_at": "2023-06-16T09:42:08Z",
+            "slug": "Giveaway-to-Dego-Finance-deployed-on-Scroll-100-DEGO-to-10-Mint-an-AIGC-NFT-on-Scroll-testnet",
+            "currencies": [
+                {
+                    "code": "DEGO",
+                    "title": "Dego Finance",
+                    "slug": "dego-finance",
+                    "url": "https:\/\/cryptopanic.com\/news\/dego-finance\/"
+                },
+                {
+                    "code": "DANDY",
+                    "title": "Dandy Dego",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18595368,
+            "url": "https:\/\/cryptopanic.com\/news\/18595368\/Giveaway-to-Dego-Finance-deployed-on-Scroll-100-DEGO-to-10-Mint-an-AIGC-NFT-on-Scroll-testnet",
+            "created_at": "2023-06-16T09:42:08Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@dego_finance",
+            "source": {
+                "title": "Dego Finance Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@dego_finance"
+            },
+            "title": "RT @BuildWithScroll: We're thrilled to see our ecosystem expanding and improving our community's experience.\n\nIn this week's update, discov\u2026",
+            "published_at": "2023-06-16T08:15:07Z",
+            "slug": "RT-BuildWithScroll-Were-thrilled-to-see-our-ecosystem-expanding-and-improving-our-communitys-experience-In-this-weeks-update-discov",
+            "currencies": [
+                {
+                    "code": "DEGO",
+                    "title": "Dego Finance",
+                    "slug": "dego-finance",
+                    "url": "https:\/\/cryptopanic.com\/news\/dego-finance\/"
+                },
+                {
+                    "code": "DANDY",
+                    "title": "Dandy Dego",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18595369,
+            "url": "https:\/\/cryptopanic.com\/news\/18595369\/RT-BuildWithScroll-Were-thrilled-to-see-our-ecosystem-expanding-and-improving-our-communitys-experience-In-this-weeks-update-discov",
+            "created_at": "2023-06-16T08:15:07Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@dego_finance",
+            "source": {
+                "title": "Dego Finance Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@dego_finance"
+            },
+            "title": "Join the @Defusion_ai AI creation and be the first adopters. #defusionChallenge\n \n$DEGO #NFT #DeFi #AI\u2026",
+            "published_at": "2023-06-16T01:54:56Z",
+            "slug": "Join-the-Defusion_ai-AI-creation-and-be-the-first-adopters-defusionChallenge-DEGO-NFT-DeFi-AI",
+            "currencies": [
+                {
+                    "code": "DEGO",
+                    "title": "Dego Finance",
+                    "slug": "dego-finance",
+                    "url": "https:\/\/cryptopanic.com\/news\/dego-finance\/"
+                },
+                {
+                    "code": "DANDY",
+                    "title": "Dandy Dego",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18586446,
+            "url": "https:\/\/cryptopanic.com\/news\/18586446\/Join-the-Defusion_ai-AI-creation-and-be-the-first-adopters-defusionChallenge-DEGO-NFT-DeFi-AI",
+            "created_at": "2023-06-16T01:54:56Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@dego_finance",
+            "source": {
+                "title": "Dego Finance Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@dego_finance"
+            },
+            "title": "Join the @Defusion_ai AI creation and be the first adopters. \n\n$DEGO #NFT #DeFi #AI @dego_finance ",
+            "published_at": "2023-06-14T01:32:14Z",
+            "slug": "Join-the-Defusion_ai-AI-creation-and-be-the-first-adopters-DEGO-NFT-DeFi-AI-dego_finance",
+            "currencies": [
+                {
+                    "code": "DEGO",
+                    "title": "Dego Finance",
+                    "slug": "dego-finance",
+                    "url": "https:\/\/cryptopanic.com\/news\/dego-finance\/"
+                },
+                {
+                    "code": "DANDY",
+                    "title": "Dandy Dego",
+                    "slug": null,
+                    "url": "https:\/\/cryptopanic.com\/news\/None\/"
+                }
+            ],
+            "id": 18570160,
+            "url": "https:\/\/cryptopanic.com\/news\/18570160\/Join-the-Defusion_ai-AI-creation-and-be-the-first-adopters-DEGO-NFT-DeFi-AI-dego_finance",
+            "created_at": "2023-06-14T01:32:14Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

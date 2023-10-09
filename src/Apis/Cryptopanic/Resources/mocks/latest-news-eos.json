@@ -1,0 +1,827 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=EOS&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "These 3 Cryptos Could Drop to New Lows in October",
+            "published_at": "2023-10-02T14:15:00Z",
+            "slug": "These-3-Cryptos-Could-Drop-to-New-Lows-in-October",
+            "currencies": [
+                {
+                    "code": "ALGO",
+                    "title": "Algorand",
+                    "slug": "algorand",
+                    "url": "https:\/\/cryptopanic.com\/news\/algorand\/"
+                },
+                {
+                    "code": "EOS",
+                    "title": "EOS",
+                    "slug": "eos",
+                    "url": "https:\/\/cryptopanic.com\/news\/eos\/"
+                },
+                {
+                    "code": "APE",
+                    "title": "ApeCoin",
+                    "slug": "apecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/apecoin\/"
+                }
+            ],
+            "id": 18942260,
+            "url": "https:\/\/cryptopanic.com\/news\/18942260\/These-3-Cryptos-Could-Drop-to-New-Lows-in-October",
+            "created_at": "2023-10-02T14:15:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptopotato.com",
+            "source": {
+                "title": "Feed - Cryptopotato.Com",
+                "region": "en",
+                "domain": "cryptopotato.com",
+                "path": null
+            },
+            "title": "EOS Foundation Taps Upland and Aerial to Foster Climate Positive Blockchain Initiative",
+            "published_at": "2023-09-28T21:34:39Z",
+            "slug": "EOS-Foundation-Taps-Upland-and-Aerial-to-Foster-Climate-Positive-Blockchain-Initiative",
+            "currencies": [
+                {
+                    "code": "EOS",
+                    "title": "EOS",
+                    "slug": "eos",
+                    "url": "https:\/\/cryptopanic.com\/news\/eos\/"
+                }
+            ],
+            "id": 18935845,
+            "url": "https:\/\/cryptopanic.com\/news\/18935845\/EOS-Foundation-Taps-Upland-and-Aerial-to-Foster-Climate-Positive-Blockchain-Initiative",
+            "created_at": "2023-09-28T21:34:39Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Research Firm Reveals Its \u201cAltcoin Trading Playbook\u201d",
+            "published_at": "2023-09-28T18:00:22Z",
+            "slug": "Research-Firm-Reveals-Its-Altcoin-Trading-Playbook",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "TRX",
+                    "title": "TRON",
+                    "slug": "tron",
+                    "url": "https:\/\/cryptopanic.com\/news\/tron\/"
+                },
+                {
+                    "code": "AVAX",
+                    "title": "Avalanche",
+                    "slug": "avalanche-2",
+                    "url": "https:\/\/cryptopanic.com\/news\/avalanche-2\/"
+                },
+                {
+                    "code": "MKR",
+                    "title": "Maker",
+                    "slug": "maker",
+                    "url": "https:\/\/cryptopanic.com\/news\/maker\/"
+                },
+                {
+                    "code": "EOS",
+                    "title": "EOS",
+                    "slug": "eos",
+                    "url": "https:\/\/cryptopanic.com\/news\/eos\/"
+                }
+            ],
+            "id": 18935433,
+            "url": "https:\/\/cryptopanic.com\/news\/18935433\/Research-Firm-Reveals-Its-Altcoin-Trading-Playbook",
+            "created_at": "2023-09-28T18:00:22Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinjournal.net",
+            "source": {
+                "title": "CoinJournal",
+                "region": "en",
+                "domain": "coinjournal.net",
+                "path": null
+            },
+            "title": "EOS becomes first \u201cclimate-positive\u201d blockchain network",
+            "published_at": "2023-09-28T13:49:22Z",
+            "slug": "EOS-becomes-first-climate-positive-blockchain-network",
+            "currencies": [
+                {
+                    "code": "EOS",
+                    "title": "EOS",
+                    "slug": "eos",
+                    "url": "https:\/\/cryptopanic.com\/news\/eos\/"
+                }
+            ],
+            "id": 18934724,
+            "url": "https:\/\/cryptopanic.com\/news\/18934724\/EOS-becomes-first-climate-positive-blockchain-network",
+            "created_at": "2023-09-28T13:49:22Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptodaily.co.uk",
+            "source": {
+                "title": "CryptoDaily",
+                "region": "en",
+                "domain": "cryptodaily.co.uk",
+                "path": null
+            },
+            "title": "EOS Network Foundation and Upland Create \u2018Climate Positive\u2019 Blockchain Network",
+            "published_at": "2023-09-28T13:32:33Z",
+            "slug": "EOS-Network-Foundation-and-Upland-Create-Climate-Positive-Blockchain-Network",
+            "currencies": [
+                {
+                    "code": "EOS",
+                    "title": "EOS",
+                    "slug": "eos",
+                    "url": "https:\/\/cryptopanic.com\/news\/eos\/"
+                }
+            ],
+            "id": 18934697,
+            "url": "https:\/\/cryptopanic.com\/news\/18934697\/EOS-Network-Foundation-and-Upland-Create-Climate-Positive-Blockchain-Network",
+            "created_at": "2023-09-28T13:32:33Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptodaily.co.uk",
+            "source": {
+                "title": "CryptoDaily",
+                "region": "en",
+                "domain": "cryptodaily.co.uk",
+                "path": null
+            },
+            "title": "EOS Network Foundation and Upland Create First \u2018Climate Positive\u2019 Blockchain Network",
+            "published_at": "2023-09-28T10:56:27Z",
+            "slug": "EOS-Network-Foundation-and-Upland-Create-First-Climate-Positive-Blockchain-Network",
+            "currencies": [
+                {
+                    "code": "EOS",
+                    "title": "EOS",
+                    "slug": "eos",
+                    "url": "https:\/\/cryptopanic.com\/news\/eos\/"
+                }
+            ],
+            "id": 18934216,
+            "url": "https:\/\/cryptopanic.com\/news\/18934216\/EOS-Network-Foundation-and-Upland-Create-First-Climate-Positive-Blockchain-Network",
+            "created_at": "2023-09-28T10:56:27Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "livebitcoinnews.com",
+            "source": {
+                "title": "Live Bitcoin News",
+                "region": "en",
+                "domain": "livebitcoinnews.com",
+                "path": null
+            },
+            "title": "EOS Price Analysis: Key Support Intact At $0.55",
+            "published_at": "2023-09-28T06:08:25Z",
+            "slug": "EOS-Price-Analysis-Key-Support-Intact-At-055",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "EOS",
+                    "title": "EOS",
+                    "slug": "eos",
+                    "url": "https:\/\/cryptopanic.com\/news\/eos\/"
+                }
+            ],
+            "id": 18933611,
+            "url": "https:\/\/cryptopanic.com\/news\/18933611\/EOS-Price-Analysis-Key-Support-Intact-At-055",
+            "created_at": "2023-09-28T06:08:25Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptointelligence.co.uk",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 1,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 1
+            },
+            "source": {
+                "title": "cryptointelligence",
+                "region": "en",
+                "domain": "cryptointelligence.co.uk",
+                "path": null
+            },
+            "title": "EOS Is Becoming a Climate Positive Network That Will Offset Its Energy Consumption by 3x",
+            "published_at": "2023-09-27T13:59:18Z",
+            "slug": "EOS-Is-Becoming-a-Climate-Positive-Network-That-Will-Offset-Its-Energy-Consumption-by-3x",
+            "currencies": [
+                {
+                    "code": "EOS",
+                    "title": "EOS",
+                    "slug": "eos",
+                    "url": "https:\/\/cryptopanic.com\/news\/eos\/"
+                }
+            ],
+            "id": 18932089,
+            "url": "https:\/\/cryptopanic.com\/news\/18932089\/EOS-Is-Becoming-a-Climate-Positive-Network-That-Will-Offset-Its-Energy-Consumption-by-3x",
+            "created_at": "2023-09-27T13:59:18Z"
+        },
+        {
+            "kind": "news",
+            "domain": "u.today",
+            "source": {
+                "title": "U.Today",
+                "region": "en",
+                "domain": "u.today",
+                "path": null
+            },
+            "title": "EOS Network Foundation, Upland, Aerial Team up to Make EOS Climate-Positive Blockchain",
+            "published_at": "2023-09-27T13:00:00Z",
+            "slug": "EOS-Network-Foundation-Upland-Aerial-Team-up-to-Make-EOS-Climate-Positive-Blockchain",
+            "currencies": [
+                {
+                    "code": "EOS",
+                    "title": "EOS",
+                    "slug": "eos",
+                    "url": "https:\/\/cryptopanic.com\/news\/eos\/"
+                }
+            ],
+            "id": 18931915,
+            "url": "https:\/\/cryptopanic.com\/news\/18931915\/EOS-Network-Foundation-Upland-Aerial-Team-up-to-Make-EOS-Climate-Positive-Blockchain",
+            "created_at": "2023-09-27T13:00:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "bitcoin.com",
+            "source": {
+                "title": "Bitcoin.com",
+                "region": "en",
+                "domain": "bitcoin.com",
+                "path": null
+            },
+            "title": "Block.one\u2019s Settlement Offered a \u2018Tiny Fraction\u2019 of the $4.1 Billion Raised \u2014 EOS Network Foundation CEO",
+            "published_at": "2023-09-23T10:30:46Z",
+            "slug": "Blockones-Settlement-Offered-a-Tiny-Fraction-of-the-41-Billion-Raised-EOS-Network-Foundation-CEO",
+            "currencies": [
+                {
+                    "code": "EOS",
+                    "title": "EOS",
+                    "slug": "eos",
+                    "url": "https:\/\/cryptopanic.com\/news\/eos\/"
+                }
+            ],
+            "id": 18923439,
+            "url": "https:\/\/cryptopanic.com\/news\/18923439\/Blockones-Settlement-Offered-a-Tiny-Fraction-of-the-41-Billion-Raised-EOS-Network-Foundation-CEO",
+            "created_at": "2023-09-23T10:30:46Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "livebitcoinnews.com",
+            "source": {
+                "title": "Live Bitcoin News",
+                "region": "en",
+                "domain": "livebitcoinnews.com",
+                "path": null
+            },
+            "title": "EOS Price Analysis: Technical Indicators Suggest Increase To $0.64",
+            "published_at": "2023-09-21T06:08:43Z",
+            "slug": "EOS-Price-Analysis-Technical-Indicators-Suggest-Increase-To-064",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "EOS",
+                    "title": "EOS",
+                    "slug": "eos",
+                    "url": "https:\/\/cryptopanic.com\/news\/eos\/"
+                }
+            ],
+            "id": 18918049,
+            "url": "https:\/\/cryptopanic.com\/news\/18918049\/EOS-Price-Analysis-Technical-Indicators-Suggest-Increase-To-064",
+            "created_at": "2023-09-21T06:08:43Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "livebitcoinnews.com",
+            "source": {
+                "title": "Live Bitcoin News",
+                "region": "en",
+                "domain": "livebitcoinnews.com",
+                "path": null
+            },
+            "title": "EOS Price Analysis: Bears In Control Below $0.60",
+            "published_at": "2023-09-14T05:48:41Z",
+            "slug": "EOS-Price-Analysis-Bears-In-Control-Below-060",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "EOS",
+                    "title": "EOS",
+                    "slug": "eos",
+                    "url": "https:\/\/cryptopanic.com\/news\/eos\/"
+                }
+            ],
+            "id": 18902035,
+            "url": "https:\/\/cryptopanic.com\/news\/18902035\/EOS-Price-Analysis-Bears-In-Control-Below-060",
+            "created_at": "2023-09-14T05:48:41Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "TOKEN2049 Singapore Set to Be World\u2019s Largest Web3 Event",
+            "published_at": "2023-09-07T20:00:00Z",
+            "slug": "TOKEN2049-Singapore-Set-to-Be-Worlds-Largest-Web3-Event",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "TRX",
+                    "title": "TRON",
+                    "slug": "tron",
+                    "url": "https:\/\/cryptopanic.com\/news\/tron\/"
+                },
+                {
+                    "code": "MKR",
+                    "title": "Maker",
+                    "slug": "maker",
+                    "url": "https:\/\/cryptopanic.com\/news\/maker\/"
+                },
+                {
+                    "code": "EOS",
+                    "title": "EOS",
+                    "slug": "eos",
+                    "url": "https:\/\/cryptopanic.com\/news\/eos\/"
+                }
+            ],
+            "id": 18887462,
+            "url": "https:\/\/cryptopanic.com\/news\/18887462\/TOKEN2049-Singapore-Set-to-Be-Worlds-Largest-Web3-Event",
+            "created_at": "2023-09-07T20:00:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "livebitcoinnews.com",
+            "source": {
+                "title": "Live Bitcoin News",
+                "region": "en",
+                "domain": "livebitcoinnews.com",
+                "path": null
+            },
+            "title": "EOS Price Analysis: Key Breakdown Support Intact At $0.555",
+            "published_at": "2023-09-07T04:48:08Z",
+            "slug": "EOS-Price-Analysis-Key-Breakdown-Support-Intact-At-0555",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "EOS",
+                    "title": "EOS",
+                    "slug": "eos",
+                    "url": "https:\/\/cryptopanic.com\/news\/eos\/"
+                }
+            ],
+            "id": 18885412,
+            "url": "https:\/\/cryptopanic.com\/news\/18885412\/EOS-Price-Analysis-Key-Breakdown-Support-Intact-At-0555",
+            "created_at": "2023-09-07T04:48:08Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "EOS could climb higher, but is there demand",
+            "published_at": "2023-09-06T20:30:54Z",
+            "slug": "EOS-could-climb-higher-but-is-there-demand",
+            "currencies": [
+                {
+                    "code": "EOS",
+                    "title": "EOS",
+                    "slug": "eos",
+                    "url": "https:\/\/cryptopanic.com\/news\/eos\/"
+                }
+            ],
+            "id": 18884885,
+            "url": "https:\/\/cryptopanic.com\/news\/18884885\/EOS-could-climb-higher-but-is-there-demand",
+            "created_at": "2023-09-06T20:30:54Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "livebitcoinnews.com",
+            "source": {
+                "title": "Live Bitcoin News",
+                "region": "en",
+                "domain": "livebitcoinnews.com",
+                "path": null
+            },
+            "title": "Has EOS Lived Up to Its \u201cEthereum Killer\u201d Hype?",
+            "published_at": "2023-09-01T15:00:26Z",
+            "slug": "Has-EOS-Lived-Up-to-Its-Ethereum-Killer-Hype",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "EOS",
+                    "title": "EOS",
+                    "slug": "eos",
+                    "url": "https:\/\/cryptopanic.com\/news\/eos\/"
+                }
+            ],
+            "id": 18874375,
+            "url": "https:\/\/cryptopanic.com\/news\/18874375\/Has-EOS-Lived-Up-to-Its-Ethereum-Killer-Hype",
+            "created_at": "2023-09-01T15:00:26Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "These 4 Cryptos Could Drop to New Lows in September",
+            "published_at": "2023-09-01T09:15:00Z",
+            "slug": "These-4-Cryptos-Could-Drop-to-New-Lows-in-September",
+            "currencies": [
+                {
+                    "code": "ALGO",
+                    "title": "Algorand",
+                    "slug": "algorand",
+                    "url": "https:\/\/cryptopanic.com\/news\/algorand\/"
+                },
+                {
+                    "code": "EOS",
+                    "title": "EOS",
+                    "slug": "eos",
+                    "url": "https:\/\/cryptopanic.com\/news\/eos\/"
+                },
+                {
+                    "code": "XTZ",
+                    "title": "Tezos",
+                    "slug": "tezos",
+                    "url": "https:\/\/cryptopanic.com\/news\/tezos\/"
+                }
+            ],
+            "id": 18873502,
+            "url": "https:\/\/cryptopanic.com\/news\/18873502\/These-4-Cryptos-Could-Drop-to-New-Lows-in-September",
+            "created_at": "2023-09-01T09:15:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptodaily.co.uk",
+            "source": {
+                "title": "CryptoDaily",
+                "region": "en",
+                "domain": "cryptodaily.co.uk",
+                "path": null
+            },
+            "title": "EOS Expands Into Asian Markets Following Regulatory Nod In Japan",
+            "published_at": "2023-08-31T10:11:11Z",
+            "slug": "EOS-Expands-Into-Asian-Markets-Following-Regulatory-Nod-In-Japan",
+            "currencies": [
+                {
+                    "code": "EOS",
+                    "title": "EOS",
+                    "slug": "eos",
+                    "url": "https:\/\/cryptopanic.com\/news\/eos\/"
+                }
+            ],
+            "id": 18871081,
+            "url": "https:\/\/cryptopanic.com\/news\/18871081\/EOS-Expands-Into-Asian-Markets-Following-Regulatory-Nod-In-Japan",
+            "created_at": "2023-08-31T10:11:11Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "livebitcoinnews.com",
+            "source": {
+                "title": "Live Bitcoin News",
+                "region": "en",
+                "domain": "livebitcoinnews.com",
+                "path": null
+            },
+            "title": "EOS Price Analysis: Bulls Aim Increase To $0.70",
+            "published_at": "2023-08-31T06:08:48Z",
+            "slug": "EOS-Price-Analysis-Bulls-Aim-Increase-To-070",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "EOS",
+                    "title": "EOS",
+                    "slug": "eos",
+                    "url": "https:\/\/cryptopanic.com\/news\/eos\/"
+                }
+            ],
+            "id": 18870572,
+            "url": "https:\/\/cryptopanic.com\/news\/18870572\/EOS-Price-Analysis-Bulls-Aim-Increase-To-070",
+            "created_at": "2023-08-31T06:08:48Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "EOS Network gains ground in Japan; EOS surges despite market troubles",
+            "published_at": "2023-08-31T00:30:53Z",
+            "slug": "EOS-Network-gains-ground-in-Japan-EOS-surges-despite-market-troubles",
+            "currencies": [
+                {
+                    "code": "EOS",
+                    "title": "EOS",
+                    "slug": "eos",
+                    "url": "https:\/\/cryptopanic.com\/news\/eos\/"
+                }
+            ],
+            "id": 18870292,
+            "url": "https:\/\/cryptopanic.com\/news\/18870292\/EOS-Network-gains-ground-in-Japan-EOS-surges-despite-market-troubles",
+            "created_at": "2023-08-31T00:30:53Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

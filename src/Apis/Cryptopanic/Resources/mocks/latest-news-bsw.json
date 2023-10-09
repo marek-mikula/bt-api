@@ -1,0 +1,719 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=BSW&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "@Biswap_Dex",
+            "source": {
+                "title": "Biswap Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@biswap_dex"
+            },
+            "title": "$900 Live AMA with Biswap Partners!\nAsk and share prize pools:\n\n@iguverse\n\ud83e\udd11$150 $BSW &amp; $150 $IGU\n\n@Helio_Money\n\ud83e\udd11$1\u2026",
+            "published_at": "2023-07-11T18:00:02Z",
+            "slug": "900-Live-AMA-with-Biswap-Partners-Ask-and-share-prize-pools-iguverse-150-BSW-amp-150-IGU-Helio_Money-1",
+            "currencies": [
+                {
+                    "code": "BSW",
+                    "title": "Biswap",
+                    "slug": "biswap",
+                    "url": "https:\/\/cryptopanic.com\/news\/biswap\/"
+                }
+            ],
+            "id": 18762950,
+            "url": "https:\/\/cryptopanic.com\/news\/18762950\/900-Live-AMA-with-Biswap-Partners-Ask-and-share-prize-pools-iguverse-150-BSW-amp-150-IGU-Helio_Money-1",
+            "created_at": "2023-07-11T18:00:02Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Biswap_Dex",
+            "source": {
+                "title": "Biswap Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@biswap_dex"
+            },
+            "title": "What #crypto do you prefer today?\n\n          $ADA   $XRP",
+            "published_at": "2023-07-11T15:10:40Z",
+            "slug": "What-crypto-do-you-prefer-today-ADA-XRP",
+            "currencies": [
+                {
+                    "code": "BSW",
+                    "title": "Biswap",
+                    "slug": "biswap",
+                    "url": "https:\/\/cryptopanic.com\/news\/biswap\/"
+                },
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                },
+                {
+                    "code": "ADA",
+                    "title": "Cardano",
+                    "slug": "cardano",
+                    "url": "https:\/\/cryptopanic.com\/news\/cardano\/"
+                }
+            ],
+            "id": 18762951,
+            "url": "https:\/\/cryptopanic.com\/news\/18762951\/What-crypto-do-you-prefer-today-ADA-XRP",
+            "created_at": "2023-07-11T15:10:40Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Biswap_Dex",
+            "source": {
+                "title": "Biswap Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@biswap_dex"
+            },
+            "title": "\ud83e\udd133 facts about Biswap V3!\nDid you know that\u2026\n\n1\u20e3Biswap Liquidity Providers earn up to 20% higher LP rewards among o\u2026",
+            "published_at": "2023-07-11T12:02:20Z",
+            "slug": "3-facts-about-Biswap-V3-Did-you-know-that-1Biswap-Liquidity-Providers-earn-up-to-20-higher-LP-rewards-among-o",
+            "currencies": [
+                {
+                    "code": "BSW",
+                    "title": "Biswap",
+                    "slug": "biswap",
+                    "url": "https:\/\/cryptopanic.com\/news\/biswap\/"
+                }
+            ],
+            "id": 18762952,
+            "url": "https:\/\/cryptopanic.com\/news\/18762952\/3-facts-about-Biswap-V3-Did-you-know-that-1Biswap-Liquidity-Providers-earn-up-to-20-higher-LP-rewards-among-o",
+            "created_at": "2023-07-11T12:02:20Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Biswap_Dex",
+            "source": {
+                "title": "Biswap Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@biswap_dex"
+            },
+            "title": "\ud83e\udd29Do you remember about #VulkaniaCryptoLeague?\n\n@Biswap_Dex is sponsoring R7 of the @VulkaniaApp event with 6K $BSW!\u2026",
+            "published_at": "2023-07-10T22:00:00Z",
+            "slug": "Do-you-remember-about-VulkaniaCryptoLeague-Biswap_Dex-is-sponsoring-R7-of-the-VulkaniaApp-event-with-6K-BSW",
+            "currencies": [
+                {
+                    "code": "BSW",
+                    "title": "Biswap",
+                    "slug": "biswap",
+                    "url": "https:\/\/cryptopanic.com\/news\/biswap\/"
+                }
+            ],
+            "id": 18754772,
+            "url": "https:\/\/cryptopanic.com\/news\/18754772\/Do-you-remember-about-VulkaniaCryptoLeague-Biswap_Dex-is-sponsoring-R7-of-the-VulkaniaApp-event-with-6K-BSW",
+            "created_at": "2023-07-10T22:00:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Biswap_Dex",
+            "source": {
+                "title": "Biswap Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@biswap_dex"
+            },
+            "title": "Scroll to known how to use #BiswapV3!\n\nCome to TikTok &amp; learn how to:\n\n\nProvide liquidity t\u2026",
+            "published_at": "2023-07-10T13:51:41Z",
+            "slug": "Scroll-to-known-how-to-use-BiswapV3-Come-to-TikTok-amp-learn-how-to-Provide-liquidity-t",
+            "currencies": [
+                {
+                    "code": "BSW",
+                    "title": "Biswap",
+                    "slug": "biswap",
+                    "url": "https:\/\/cryptopanic.com\/news\/biswap\/"
+                }
+            ],
+            "id": 18754773,
+            "url": "https:\/\/cryptopanic.com\/news\/18754773\/Scroll-to-known-how-to-use-BiswapV3-Come-to-TikTok-amp-learn-how-to-Provide-liquidity-t",
+            "created_at": "2023-07-10T13:51:41Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Biswap_Dex",
+            "source": {
+                "title": "Biswap Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@biswap_dex"
+            },
+            "title": "1\/2 \ud83e\udd13How to make a limit order?\n\nIt's a new feature for traders on #BiswapV3:\n\n\n- Buy &amp; sel\u2026",
+            "published_at": "2023-07-10T07:10:30Z",
+            "slug": "12-How-to-make-a-limit-order-Its-a-new-feature-for-traders-on-BiswapV3-Buy-amp-sel",
+            "currencies": [
+                {
+                    "code": "BSW",
+                    "title": "Biswap",
+                    "slug": "biswap",
+                    "url": "https:\/\/cryptopanic.com\/news\/biswap\/"
+                }
+            ],
+            "id": 18754774,
+            "url": "https:\/\/cryptopanic.com\/news\/18754774\/12-How-to-make-a-limit-order-Its-a-new-feature-for-traders-on-BiswapV3-Buy-amp-sel",
+            "created_at": "2023-07-10T07:10:30Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Biswap_Dex",
+            "source": {
+                "title": "Biswap Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@biswap_dex"
+            },
+            "title": "RT @bsc_daily: Most Traded Highlight #DeFi Projects in #BNBChain Last 7 Days\n\n\ud83e\udd47 $BSW @Biswap_Dex\n\ud83e\udd48 $SFP @iSafePal\n\ud83e\udd49 $CHESS @tranchess\n$GVR\u2026",
+            "published_at": "2023-07-10T06:20:57Z",
+            "slug": "RT-bsc_daily-Most-Traded-Highlight-DeFi-Projects-in-BNBChain-Last-7-Days-BSW-Biswap_Dex-SFP-iSafePal-CHESS-tranchess-GVR",
+            "currencies": [
+                {
+                    "code": "BSW",
+                    "title": "Biswap",
+                    "slug": "biswap",
+                    "url": "https:\/\/cryptopanic.com\/news\/biswap\/"
+                }
+            ],
+            "id": 18754775,
+            "url": "https:\/\/cryptopanic.com\/news\/18754775\/RT-bsc_daily-Most-Traded-Highlight-DeFi-Projects-in-BNBChain-Last-7-Days-BSW-Biswap_Dex-SFP-iSafePal-CHESS-tranchess-GVR",
+            "created_at": "2023-07-10T06:20:57Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Biswap_Dex",
+            "source": {
+                "title": "Biswap Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@biswap_dex"
+            },
+            "title": "Sum up the main points of the past week!\n\nAll the crucial info is here:\n\n\nGet new experienc\u2026",
+            "published_at": "2023-07-09T16:00:02Z",
+            "slug": "Sum-up-the-main-points-of-the-past-week-All-the-crucial-info-is-here-Get-new-experienc",
+            "currencies": [
+                {
+                    "code": "BSW",
+                    "title": "Biswap",
+                    "slug": "biswap",
+                    "url": "https:\/\/cryptopanic.com\/news\/biswap\/"
+                }
+            ],
+            "id": 18748955,
+            "url": "https:\/\/cryptopanic.com\/news\/18748955\/Sum-up-the-main-points-of-the-past-week-All-the-crucial-info-is-here-Get-new-experienc",
+            "created_at": "2023-07-09T16:00:02Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Biswap_Dex",
+            "source": {
+                "title": "Biswap Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@biswap_dex"
+            },
+            "title": "GM Biswappers\nHave good week of trading ahead!",
+            "published_at": "2023-07-09T08:00:00Z",
+            "slug": "GM-Biswappers-Have-good-week-of-trading-ahead",
+            "currencies": [
+                {
+                    "code": "BSW",
+                    "title": "Biswap",
+                    "slug": "biswap",
+                    "url": "https:\/\/cryptopanic.com\/news\/biswap\/"
+                }
+            ],
+            "id": 18748956,
+            "url": "https:\/\/cryptopanic.com\/news\/18748956\/GM-Biswappers-Have-good-week-of-trading-ahead",
+            "created_at": "2023-07-09T08:00:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Biswap_Dex",
+            "source": {
+                "title": "Biswap Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@biswap_dex"
+            },
+            "title": "Drop the last #crypto you bought ",
+            "published_at": "2023-07-08T17:00:00Z",
+            "slug": "Drop-the-last-crypto-you-bought",
+            "currencies": [
+                {
+                    "code": "BSW",
+                    "title": "Biswap",
+                    "slug": "biswap",
+                    "url": "https:\/\/cryptopanic.com\/news\/biswap\/"
+                }
+            ],
+            "id": 18744806,
+            "url": "https:\/\/cryptopanic.com\/news\/18744806\/Drop-the-last-crypto-you-bought",
+            "created_at": "2023-07-08T17:00:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Biswap_Dex",
+            "source": {
+                "title": "Biswap Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@biswap_dex"
+            },
+            "title": "\ud83e\uddd0Did you know that @Biswap_Dex supports 14 crypto wallets?\n\nChoose your best for swapping",
+            "published_at": "2023-07-08T07:00:01Z",
+            "slug": "Did-you-know-that-Biswap_Dex-supports-14-crypto-wallets-Choose-your-best-for-swapping",
+            "currencies": [
+                {
+                    "code": "BSW",
+                    "title": "Biswap",
+                    "slug": "biswap",
+                    "url": "https:\/\/cryptopanic.com\/news\/biswap\/"
+                }
+            ],
+            "id": 18744807,
+            "url": "https:\/\/cryptopanic.com\/news\/18744807\/Did-you-know-that-Biswap_Dex-supports-14-crypto-wallets-Choose-your-best-for-swapping",
+            "created_at": "2023-07-08T07:00:01Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Biswap_Dex",
+            "source": {
+                "title": "Biswap Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@biswap_dex"
+            },
+            "title": " @Biswap_Dex x @ApolloX_Finance Perpetual Trading\n\nBenefit from each offer:\n\n\nHedging &amp; ri\u2026",
+            "published_at": "2023-07-07T23:00:01Z",
+            "slug": "Biswap_Dex-x-ApolloX_Finance-Perpetual-Trading-Benefit-from-each-offer-Hedging-amp-ri",
+            "currencies": [
+                {
+                    "code": "BSW",
+                    "title": "Biswap",
+                    "slug": "biswap",
+                    "url": "https:\/\/cryptopanic.com\/news\/biswap\/"
+                }
+            ],
+            "id": 18738997,
+            "url": "https:\/\/cryptopanic.com\/news\/18738997\/Biswap_Dex-x-ApolloX_Finance-Perpetual-Trading-Benefit-from-each-offer-Hedging-amp-ri",
+            "created_at": "2023-07-07T23:00:01Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Biswap_Dex",
+            "source": {
+                "title": "Biswap Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@biswap_dex"
+            },
+            "title": "Dear Biswappers,\n\nOur team values your awareness and wants to keep you informed.\nAs stated earlier, Biswap took res\u2026",
+            "published_at": "2023-07-07T17:20:07Z",
+            "slug": "Dear-Biswappers-Our-team-values-your-awareness-and-wants-to-keep-you-informed-As-stated-earlier-Biswap-took-res",
+            "currencies": [
+                {
+                    "code": "BSW",
+                    "title": "Biswap",
+                    "slug": "biswap",
+                    "url": "https:\/\/cryptopanic.com\/news\/biswap\/"
+                }
+            ],
+            "id": 18738998,
+            "url": "https:\/\/cryptopanic.com\/news\/18738998\/Dear-Biswappers-Our-team-values-your-awareness-and-wants-to-keep-you-informed-As-stated-earlier-Biswap-took-res",
+            "created_at": "2023-07-07T17:20:07Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Biswap_Dex",
+            "source": {
+                "title": "Biswap Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@biswap_dex"
+            },
+            "title": " @Biswap_Dex &amp; @trycarbonio partnership extends to the #AMMV3!\n\nGet over 145% APR on V3 Farms with $CSIX token:\n\u2026",
+            "published_at": "2023-07-07T14:00:41Z",
+            "slug": "Biswap_Dex-amp-trycarbonio-partnership-extends-to-the-AMMV3-Get-over-145-APR-on-V3-Farms-with-CSIX-token",
+            "currencies": [
+                {
+                    "code": "BSW",
+                    "title": "Biswap",
+                    "slug": "biswap",
+                    "url": "https:\/\/cryptopanic.com\/news\/biswap\/"
+                }
+            ],
+            "id": 18738999,
+            "url": "https:\/\/cryptopanic.com\/news\/18738999\/Biswap_Dex-amp-trycarbonio-partnership-extends-to-the-AMMV3-Get-over-145-APR-on-V3-Farms-with-CSIX-token",
+            "created_at": "2023-07-07T14:00:41Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Biswap_Dex",
+            "source": {
+                "title": "Biswap Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@biswap_dex"
+            },
+            "title": "1\/2 What are Fee Tiers on Biswap V3 &amp; How to use them?\n\n@Biswap_Dex introduced a new flexible fee structure allowi\u2026",
+            "published_at": "2023-07-07T11:16:47Z",
+            "slug": "12-What-are-Fee-Tiers-on-Biswap-V3-amp-How-to-use-them-Biswap_Dex-introduced-a-new-flexible-fee-structure-allowi",
+            "currencies": [
+                {
+                    "code": "BSW",
+                    "title": "Biswap",
+                    "slug": "biswap",
+                    "url": "https:\/\/cryptopanic.com\/news\/biswap\/"
+                }
+            ],
+            "id": 18739000,
+            "url": "https:\/\/cryptopanic.com\/news\/18739000\/12-What-are-Fee-Tiers-on-Biswap-V3-amp-How-to-use-them-Biswap_Dex-introduced-a-new-flexible-fee-structure-allowi",
+            "created_at": "2023-07-07T11:16:47Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Biswap_Dex",
+            "source": {
+                "title": "Biswap Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@biswap_dex"
+            },
+            "title": "Welcome to the #BiswapDex community at @DeBox_Social, a well-known #Web3 social platform",
+            "published_at": "2023-07-07T07:33:43Z",
+            "slug": "Welcome-to-the-BiswapDex-community-at-DeBox_Social-a-well-known-Web3-social-platform",
+            "currencies": [
+                {
+                    "code": "BSW",
+                    "title": "Biswap",
+                    "slug": "biswap",
+                    "url": "https:\/\/cryptopanic.com\/news\/biswap\/"
+                }
+            ],
+            "id": 18739001,
+            "url": "https:\/\/cryptopanic.com\/news\/18739001\/Welcome-to-the-BiswapDex-community-at-DeBox_Social-a-well-known-Web3-social-platform",
+            "created_at": "2023-07-07T07:33:43Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Biswap_Dex",
+            "source": {
+                "title": "Biswap Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@biswap_dex"
+            },
+            "title": "DEX V3 &amp; CEX on Biswap Blog\n\nCompare exchange platforms from the new perspective of DEX development:\n\u2026",
+            "published_at": "2023-07-06T12:56:43Z",
+            "slug": "DEX-V3-amp-CEX-on-Biswap-Blog-Compare-exchange-platforms-from-the-new-perspective-of-DEX-development",
+            "currencies": [
+                {
+                    "code": "BSW",
+                    "title": "Biswap",
+                    "slug": "biswap",
+                    "url": "https:\/\/cryptopanic.com\/news\/biswap\/"
+                }
+            ],
+            "id": 18731148,
+            "url": "https:\/\/cryptopanic.com\/news\/18731148\/DEX-V3-amp-CEX-on-Biswap-Blog-Compare-exchange-platforms-from-the-new-perspective-of-DEX-development",
+            "created_at": "2023-07-06T12:56:43Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Biswap_Dex",
+            "source": {
+                "title": "Biswap Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@biswap_dex"
+            },
+            "title": "@Biswap_Dex in the new Metaverse!\n\nDecentraland is a decentralized metaverse with a social world for creating &amp; mo\u2026",
+            "published_at": "2023-07-06T09:00:02Z",
+            "slug": "Biswap_Dex-in-the-new-Metaverse-Decentraland-is-a-decentralized-metaverse-with-a-social-world-for-creating-amp-mo",
+            "currencies": [
+                {
+                    "code": "BSW",
+                    "title": "Biswap",
+                    "slug": "biswap",
+                    "url": "https:\/\/cryptopanic.com\/news\/biswap\/"
+                }
+            ],
+            "id": 18731149,
+            "url": "https:\/\/cryptopanic.com\/news\/18731149\/Biswap_Dex-in-the-new-Metaverse-Decentraland-is-a-decentralized-metaverse-with-a-social-world-for-creating-amp-mo",
+            "created_at": "2023-07-06T09:00:02Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Biswap_Dex",
+            "source": {
+                "title": "Biswap Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@biswap_dex"
+            },
+            "title": "@Biswap_Dex in the new Metaverse!\n\nDecentraland is a decentralized metaverse with a social world for creating &amp; mo\u2026",
+            "published_at": "2023-07-06T04:00:00Z",
+            "slug": "Biswap_Dex-in-the-new-Metaverse-Decentraland-is-a-decentralized-metaverse-with-a-social-world-for-creating-amp-mo",
+            "currencies": [
+                {
+                    "code": "BSW",
+                    "title": "Biswap",
+                    "slug": "biswap",
+                    "url": "https:\/\/cryptopanic.com\/news\/biswap\/"
+                }
+            ],
+            "id": 18722567,
+            "url": "https:\/\/cryptopanic.com\/news\/18722567\/Biswap_Dex-in-the-new-Metaverse-Decentraland-is-a-decentralized-metaverse-with-a-social-world-for-creating-amp-mo",
+            "created_at": "2023-07-06T04:00:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@Biswap_Dex",
+            "source": {
+                "title": "Biswap Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@biswap_dex"
+            },
+            "title": "Pack your liquidity up &amp; move from V2 to V3 via the video guide!\n\nFollow the step-by-step instruction on the Biswa\u2026",
+            "published_at": "2023-07-05T17:00:02Z",
+            "slug": "Pack-your-liquidity-up-amp-move-from-V2-to-V3-via-the-video-guide-Follow-the-step-by-step-instruction-on-the-Biswa",
+            "currencies": [
+                {
+                    "code": "BSW",
+                    "title": "Biswap",
+                    "slug": "biswap",
+                    "url": "https:\/\/cryptopanic.com\/news\/biswap\/"
+                }
+            ],
+            "id": 18722568,
+            "url": "https:\/\/cryptopanic.com\/news\/18722568\/Pack-your-liquidity-up-amp-move-from-V2-to-V3-via-the-video-guide-Follow-the-step-by-step-instruction-on-the-Biswa",
+            "created_at": "2023-07-05T17:00:02Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

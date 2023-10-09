@@ -6,17 +6,9 @@ use Apis\Binance\Data\KeyPairData;
 use Apis\Binance\Exceptions\BinanceRequestException;
 use Apis\Binance\Http\BinanceResponse;
 use Apis\Binance\Http\Client\Concerns\WalletClientInterface;
-use Apis\Binance\Services\BinanceAuthenticator;
-use Illuminate\Http\Client\PendingRequest;
-use Illuminate\Support\Facades\Http;
 
-class WalletClient implements WalletClientInterface
+class WalletClient extends BinanceClient implements WalletClientInterface
 {
-    public function __construct(
-        private readonly BinanceAuthenticator $authenticator,
-    ) {
-    }
-
     public function systemStatus(): BinanceResponse
     {
         $response = $this->request()
@@ -31,7 +23,7 @@ class WalletClient implements WalletClientInterface
 
     public function accountStatus(KeyPairData $keyPair): BinanceResponse
     {
-        $params = $this->authenticator->sign($keyPair, []);
+        $params = $this->signParams($keyPair, []);
 
         $response = $this->authRequest($keyPair)
             ->get('/sapi/v1/account/status', $params);
@@ -45,7 +37,7 @@ class WalletClient implements WalletClientInterface
 
     public function accountSnapshot(KeyPairData $keyPair): BinanceResponse
     {
-        $params = $this->authenticator->sign($keyPair, [
+        $params = $this->signParams($keyPair, [
             'type' => 'SPOT',
             'startTime' => now()->subDay()->startOfDay()->getTimestampMs(),
         ]);
@@ -62,7 +54,7 @@ class WalletClient implements WalletClientInterface
 
     public function assets(KeyPairData $keyPair): BinanceResponse
     {
-        $params = $this->authenticator->sign($keyPair, [
+        $params = $this->signParams($keyPair, [
             'needBtcValuation', // does not work :(
         ]);
 
@@ -78,7 +70,7 @@ class WalletClient implements WalletClientInterface
 
     public function allCoins(KeyPairData $keyPair): BinanceResponse
     {
-        $params = $this->authenticator->sign($keyPair, []);
+        $params = $this->signParams($keyPair, []);
 
         $response = $this->authRequest($keyPair)
             ->get('/sapi/v1/capital/config/getall', $params);
@@ -88,15 +80,5 @@ class WalletClient implements WalletClientInterface
         }
 
         return new BinanceResponse($response);
-    }
-
-    private function request(): PendingRequest
-    {
-        return Http::baseUrl((string) config('binance.url'));
-    }
-
-    private function authRequest(KeyPairData $keyPair): PendingRequest
-    {
-        return $this->authenticator->authenticate($keyPair, $this->request());
     }
 }

@@ -1,0 +1,707 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=API3&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "@API3DAO",
+            "source": {
+                "title": "API3 Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@api3dao"
+            },
+            "title": "We\u2019re thrilled to share that @Kaiko, a leading crypto API provider, has joined the API3 Alliance as a first-party o\u2026",
+            "published_at": "2023-07-11T15:01:35Z",
+            "slug": "Were-thrilled-to-share-that-Kaiko-a-leading-crypto-API-provider-has-joined-the-API3-Alliance-as-a-first-party-o",
+            "currencies": [
+                {
+                    "code": "API3",
+                    "title": "API3",
+                    "slug": "api3",
+                    "url": "https:\/\/cryptopanic.com\/news\/api3\/"
+                }
+            ],
+            "id": 18762357,
+            "url": "https:\/\/cryptopanic.com\/news\/18762357\/Were-thrilled-to-share-that-Kaiko-a-leading-crypto-API-provider-has-joined-the-API3-Alliance-as-a-first-party-o",
+            "created_at": "2023-07-11T15:01:35Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@API3DAO",
+            "source": {
+                "title": "API3 Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@api3dao"
+            },
+            "title": "Join us in one hour with the @zksync Era community.\n\nWe are going to be exploring the future of DeFi and the transf\u2026",
+            "published_at": "2023-07-11T14:07:10Z",
+            "slug": "Join-us-in-one-hour-with-the-zksync-Era-community-We-are-going-to-be-exploring-the-future-of-DeFi-and-the-transf",
+            "currencies": [
+                {
+                    "code": "API3",
+                    "title": "API3",
+                    "slug": "api3",
+                    "url": "https:\/\/cryptopanic.com\/news\/api3\/"
+                }
+            ],
+            "id": 18762358,
+            "url": "https:\/\/cryptopanic.com\/news\/18762358\/Join-us-in-one-hour-with-the-zksync-Era-community-We-are-going-to-be-exploring-the-future-of-DeFi-and-the-transf",
+            "created_at": "2023-07-11T14:07:10Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@API3DAO",
+            "source": {
+                "title": "API3 Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@api3dao"
+            },
+            "title": "Mark your calendars, on Tuesday at 3pm UTC we are sitting down with @zksync Era builders to understand how zero-kno\u2026",
+            "published_at": "2023-07-10T17:12:10Z",
+            "slug": "Mark-your-calendars-on-Tuesday-at-3pm-UTC-we-are-sitting-down-with-zksync-Era-builders-to-understand-how-zero-kno",
+            "currencies": [
+                {
+                    "code": "API3",
+                    "title": "API3",
+                    "slug": "api3",
+                    "url": "https:\/\/cryptopanic.com\/news\/api3\/"
+                }
+            ],
+            "id": 18754222,
+            "url": "https:\/\/cryptopanic.com\/news\/18754222\/Mark-your-calendars-on-Tuesday-at-3pm-UTC-we-are-sitting-down-with-zksync-Era-builders-to-understand-how-zero-kno",
+            "created_at": "2023-07-10T17:12:10Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@API3DAO",
+            "source": {
+                "title": "API3 Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@api3dao"
+            },
+            "title": "Join us for a developers workshop at @eth_barcelona 3pm UTC \/ 5pm CET today!\n\n@wc49358 will walk through how to uti\u2026",
+            "published_at": "2023-07-08T11:33:48Z",
+            "slug": "Join-us-for-a-developers-workshop-at-eth_barcelona-3pm-UTC-5pm-CET-today-wc49358-will-walk-through-how-to-uti",
+            "currencies": [
+                {
+                    "code": "API3",
+                    "title": "API3",
+                    "slug": "api3",
+                    "url": "https:\/\/cryptopanic.com\/news\/api3\/"
+                }
+            ],
+            "id": 18744489,
+            "url": "https:\/\/cryptopanic.com\/news\/18744489\/Join-us-for-a-developers-workshop-at-eth_barcelona-3pm-UTC-5pm-CET-today-wc49358-will-walk-through-how-to-uti",
+            "created_at": "2023-07-08T11:33:48Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@API3DAO",
+            "source": {
+                "title": "API3 Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@api3dao"
+            },
+            "title": "Ready to build? We are looking for developers at #ETHBarcelona to explore solutions using API3 data feeds.\n\nWith a\u2026",
+            "published_at": "2023-07-07T17:00:12Z",
+            "slug": "Ready-to-build-We-are-looking-for-developers-at-ETHBarcelona-to-explore-solutions-using-API3-data-feeds-With-a",
+            "currencies": [
+                {
+                    "code": "API3",
+                    "title": "API3",
+                    "slug": "api3",
+                    "url": "https:\/\/cryptopanic.com\/news\/api3\/"
+                }
+            ],
+            "id": 18738493,
+            "url": "https:\/\/cryptopanic.com\/news\/18738493\/Ready-to-build-We-are-looking-for-developers-at-ETHBarcelona-to-explore-solutions-using-API3-data-feeds-With-a",
+            "created_at": "2023-07-07T17:00:12Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@API3DAO",
+            "source": {
+                "title": "API3 Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@api3dao"
+            },
+            "title": "We are happy to have @TwelveData join our API provider network to scale managed dAPIs.\n\nTwelve Data has been suppor\u2026",
+            "published_at": "2023-07-07T15:00:39Z",
+            "slug": "We-are-happy-to-have-TwelveData-join-our-API-provider-network-to-scale-managed-dAPIs-Twelve-Data-has-been-suppor",
+            "currencies": [
+                {
+                    "code": "API3",
+                    "title": "API3",
+                    "slug": "api3",
+                    "url": "https:\/\/cryptopanic.com\/news\/api3\/"
+                }
+            ],
+            "id": 18738494,
+            "url": "https:\/\/cryptopanic.com\/news\/18738494\/We-are-happy-to-have-TwelveData-join-our-API-provider-network-to-scale-managed-dAPIs-Twelve-Data-has-been-suppor",
+            "created_at": "2023-07-07T15:00:39Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@API3DAO",
+            "source": {
+                "title": "API3 Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@api3dao"
+            },
+            "title": "Join us live now as we discuss the mechanics of on-chain randomness and the possibilities for expanding the reach o\u2026",
+            "published_at": "2023-07-06T16:10:33Z",
+            "slug": "Join-us-live-now-as-we-discuss-the-mechanics-of-on-chain-randomness-and-the-possibilities-for-expanding-the-reach-o",
+            "currencies": [
+                {
+                    "code": "API3",
+                    "title": "API3",
+                    "slug": "api3",
+                    "url": "https:\/\/cryptopanic.com\/news\/api3\/"
+                }
+            ],
+            "id": 18730552,
+            "url": "https:\/\/cryptopanic.com\/news\/18730552\/Join-us-live-now-as-we-discuss-the-mechanics-of-on-chain-randomness-and-the-possibilities-for-expanding-the-reach-o",
+            "created_at": "2023-07-06T16:10:33Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@API3DAO",
+            "source": {
+                "title": "API3 Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@api3dao"
+            },
+            "title": "RT @banklessDAO: What if you could turn an MEV problem into an opportunity? @0xSiddhearta relays the latest on Oracle Extractable Value and\u2026",
+            "published_at": "2023-07-06T13:15:38Z",
+            "slug": "RT-banklessDAO-What-if-you-could-turn-an-MEV-problem-into-an-opportunity-0xSiddhearta-relays-the-latest-on-Oracle-Extractable-Value-and",
+            "currencies": [
+                {
+                    "code": "API3",
+                    "title": "API3",
+                    "slug": "api3",
+                    "url": "https:\/\/cryptopanic.com\/news\/api3\/"
+                }
+            ],
+            "id": 18730553,
+            "url": "https:\/\/cryptopanic.com\/news\/18730553\/RT-banklessDAO-What-if-you-could-turn-an-MEV-problem-into-an-opportunity-0xSiddhearta-relays-the-latest-on-Oracle-Extractable-Value-and",
+            "created_at": "2023-07-06T13:15:38Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@API3DAO",
+            "source": {
+                "title": "API3 Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@api3dao"
+            },
+            "title": "We are excited to announce our partnership with @iexcloud, an innovative API provider dedicated to empowering devel\u2026",
+            "published_at": "2023-07-05T16:02:52Z",
+            "slug": "We-are-excited-to-announce-our-partnership-with-iexcloud-an-innovative-API-provider-dedicated-to-empowering-devel",
+            "currencies": [
+                {
+                    "code": "API3",
+                    "title": "API3",
+                    "slug": "api3",
+                    "url": "https:\/\/cryptopanic.com\/news\/api3\/"
+                }
+            ],
+            "id": 18722035,
+            "url": "https:\/\/cryptopanic.com\/news\/18722035\/We-are-excited-to-announce-our-partnership-with-iexcloud-an-innovative-API-provider-dedicated-to-empowering-devel",
+            "created_at": "2023-07-05T16:02:52Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@API3DAO",
+            "source": {
+                "title": "API3 Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@api3dao"
+            },
+            "title": "The $GNS\/USD price feed is now available on the API3 Market.\n\nStart using this new data feed to build on-chain prod\u2026",
+            "published_at": "2023-07-05T13:02:39Z",
+            "slug": "The-GNSUSD-price-feed-is-now-available-on-the-API3-Market-Start-using-this-new-data-feed-to-build-on-chain-prod",
+            "currencies": [
+                {
+                    "code": "API3",
+                    "title": "API3",
+                    "slug": "api3",
+                    "url": "https:\/\/cryptopanic.com\/news\/api3\/"
+                }
+            ],
+            "id": 18722036,
+            "url": "https:\/\/cryptopanic.com\/news\/18722036\/The-GNSUSD-price-feed-is-now-available-on-the-API3-Market-Start-using-this-new-data-feed-to-build-on-chain-prod",
+            "created_at": "2023-07-05T13:02:39Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@API3DAO",
+            "source": {
+                "title": "API3 Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@api3dao"
+            },
+            "title": "RT @gelatonetwork: By automating tasks &amp; actions in the blockchain ecosystem, Gelato enables @API3DAO to streamline its processes &amp; enhance\u2026",
+            "published_at": "2023-07-05T11:46:34Z",
+            "slug": "RT-gelatonetwork-By-automating-tasks-amp-actions-in-the-blockchain-ecosystem-Gelato-enables-API3DAO-to-streamline-its-processes-amp-enhance",
+            "currencies": [
+                {
+                    "code": "API3",
+                    "title": "API3",
+                    "slug": "api3",
+                    "url": "https:\/\/cryptopanic.com\/news\/api3\/"
+                }
+            ],
+            "id": 18722037,
+            "url": "https:\/\/cryptopanic.com\/news\/18722037\/RT-gelatonetwork-By-automating-tasks-amp-actions-in-the-blockchain-ecosystem-Gelato-enables-API3DAO-to-streamline-its-processes-amp-enhance",
+            "created_at": "2023-07-05T11:46:34Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@API3DAO",
+            "source": {
+                "title": "API3 Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@api3dao"
+            },
+            "title": "Learn more about Web3.\n\nIn this issue of Connecting the Dots, @MarcusAPI3 decodes core concepts and principles of b\u2026",
+            "published_at": "2023-07-04T18:00:48Z",
+            "slug": "Learn-more-about-Web3-In-this-issue-of-Connecting-the-Dots-MarcusAPI3-decodes-core-concepts-and-principles-of-b",
+            "currencies": [
+                {
+                    "code": "API3",
+                    "title": "API3",
+                    "slug": "api3",
+                    "url": "https:\/\/cryptopanic.com\/news\/api3\/"
+                }
+            ],
+            "id": 18714482,
+            "url": "https:\/\/cryptopanic.com\/news\/18714482\/Learn-more-about-Web3-In-this-issue-of-Connecting-the-Dots-MarcusAPI3-decodes-core-concepts-and-principles-of-b",
+            "created_at": "2023-07-04T18:00:48Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@API3DAO",
+            "source": {
+                "title": "API3 Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@api3dao"
+            },
+            "title": "Join us this Thursday for a Twitter Spaces with @gelatonetwork as we discuss the role of randomness in expanding th\u2026",
+            "published_at": "2023-07-03T13:00:40Z",
+            "slug": "Join-us-this-Thursday-for-a-Twitter-Spaces-with-gelatonetwork-as-we-discuss-the-role-of-randomness-in-expanding-th",
+            "currencies": [
+                {
+                    "code": "API3",
+                    "title": "API3",
+                    "slug": "api3",
+                    "url": "https:\/\/cryptopanic.com\/news\/api3\/"
+                }
+            ],
+            "id": 18707096,
+            "url": "https:\/\/cryptopanic.com\/news\/18707096\/Join-us-this-Thursday-for-a-Twitter-Spaces-with-gelatonetwork-as-we-discuss-the-role-of-randomness-in-expanding-th",
+            "created_at": "2023-07-03T13:00:40Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@API3DAO",
+            "source": {
+                "title": "API3 Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@api3dao"
+            },
+            "title": "We are excited to announce our partnership with @mean_fi, a DCA protocol built to protect users against market vola\u2026",
+            "published_at": "2023-06-30T15:42:24Z",
+            "slug": "We-are-excited-to-announce-our-partnership-with-mean_fi-a-DCA-protocol-built-to-protect-users-against-market-vola",
+            "currencies": [
+                {
+                    "code": "API3",
+                    "title": "API3",
+                    "slug": "api3",
+                    "url": "https:\/\/cryptopanic.com\/news\/api3\/"
+                }
+            ],
+            "id": 18691623,
+            "url": "https:\/\/cryptopanic.com\/news\/18691623\/We-are-excited-to-announce-our-partnership-with-mean_fi-a-DCA-protocol-built-to-protect-users-against-market-vola",
+            "created_at": "2023-06-30T15:42:24Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@API3DAO",
+            "source": {
+                "title": "API3 Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@api3dao"
+            },
+            "title": "We are excited to welcome @coinpaprika as a first-party oracle to expand our network of API providers for managed d\u2026",
+            "published_at": "2023-06-30T15:00:18Z",
+            "slug": "We-are-excited-to-welcome-coinpaprika-as-a-first-party-oracle-to-expand-our-network-of-API-providers-for-managed-d",
+            "currencies": [
+                {
+                    "code": "API3",
+                    "title": "API3",
+                    "slug": "api3",
+                    "url": "https:\/\/cryptopanic.com\/news\/api3\/"
+                }
+            ],
+            "id": 18691624,
+            "url": "https:\/\/cryptopanic.com\/news\/18691624\/We-are-excited-to-welcome-coinpaprika-as-a-first-party-oracle-to-expand-our-network-of-API-providers-for-managed-d",
+            "created_at": "2023-06-30T15:00:18Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@API3DAO",
+            "source": {
+                "title": "API3 Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@api3dao"
+            },
+            "title": "The API3 Market now provides BRICS forex data.\n\nBridge the real-world financial markets to your smart contracts wit\u2026",
+            "published_at": "2023-06-29T15:02:14Z",
+            "slug": "The-API3-Market-now-provides-BRICS-forex-data-Bridge-the-real-world-financial-markets-to-your-smart-contracts-wit",
+            "currencies": [
+                {
+                    "code": "API3",
+                    "title": "API3",
+                    "slug": "api3",
+                    "url": "https:\/\/cryptopanic.com\/news\/api3\/"
+                }
+            ],
+            "id": 18683591,
+            "url": "https:\/\/cryptopanic.com\/news\/18683591\/The-API3-Market-now-provides-BRICS-forex-data-Bridge-the-real-world-financial-markets-to-your-smart-contracts-wit",
+            "created_at": "2023-06-29T15:02:14Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@API3DAO",
+            "source": {
+                "title": "API3 Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@api3dao"
+            },
+            "title": "Together with @gelatonetwork we created a step-by-step guide to ensure that you always have sufficient gas to opera\u2026",
+            "published_at": "2023-06-28T18:02:10Z",
+            "slug": "Together-with-gelatonetwork-we-created-a-step-by-step-guide-to-ensure-that-you-always-have-sufficient-gas-to-opera",
+            "currencies": [
+                {
+                    "code": "API3",
+                    "title": "API3",
+                    "slug": "api3",
+                    "url": "https:\/\/cryptopanic.com\/news\/api3\/"
+                }
+            ],
+            "id": 18675504,
+            "url": "https:\/\/cryptopanic.com\/news\/18675504\/Together-with-gelatonetwork-we-created-a-step-by-step-guide-to-ensure-that-you-always-have-sufficient-gas-to-opera",
+            "created_at": "2023-06-28T18:02:10Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@API3DAO",
+            "source": {
+                "title": "API3 Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@api3dao"
+            },
+            "title": "We are joining forces with @Finnhub_io to democratize market data at scale with managed dAPIs through the API3 Alli\u2026",
+            "published_at": "2023-06-27T15:00:52Z",
+            "slug": "We-are-joining-forces-with-Finnhub_io-to-democratize-market-data-at-scale-with-managed-dAPIs-through-the-API3-Alli",
+            "currencies": [
+                {
+                    "code": "API3",
+                    "title": "API3",
+                    "slug": "api3",
+                    "url": "https:\/\/cryptopanic.com\/news\/api3\/"
+                }
+            ],
+            "id": 18667281,
+            "url": "https:\/\/cryptopanic.com\/news\/18667281\/We-are-joining-forces-with-Finnhub_io-to-democratize-market-data-at-scale-with-managed-dAPIs-through-the-API3-Alli",
+            "created_at": "2023-06-27T15:00:52Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@API3DAO",
+            "source": {
+                "title": "API3 Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@api3dao"
+            },
+            "title": "RT @KyberNetwork: 1\/5\nKybertalks | Will ZK-rollups onboard the next 1B Ethereum users?\nWhy ZK-rollups? What is their potential and how do\u2026",
+            "published_at": "2023-06-27T01:16:40Z",
+            "slug": "RT-KyberNetwork-15-Kybertalks-Will-ZK-rollups-onboard-the-next-1B-Ethereum-users-Why-ZK-rollups-What-is-their-potential-and-how-do",
+            "currencies": [
+                {
+                    "code": "API3",
+                    "title": "API3",
+                    "slug": "api3",
+                    "url": "https:\/\/cryptopanic.com\/news\/api3\/"
+                }
+            ],
+            "id": 18658987,
+            "url": "https:\/\/cryptopanic.com\/news\/18658987\/RT-KyberNetwork-15-Kybertalks-Will-ZK-rollups-onboard-the-next-1B-Ethereum-users-Why-ZK-rollups-What-is-their-potential-and-how-do",
+            "created_at": "2023-06-27T01:16:40Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@API3DAO",
+            "source": {
+                "title": "API3 Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@api3dao"
+            },
+            "title": "We\u2019re excited to announce an opportunity for all you blockchain devs to flex your coding muscles.\n\nTake the\u2026",
+            "published_at": "2023-06-26T16:00:12Z",
+            "slug": "Were-excited-to-announce-an-opportunity-for-all-you-blockchain-devs-to-flex-your-coding-muscles-Take-the",
+            "currencies": [
+                {
+                    "code": "API3",
+                    "title": "API3",
+                    "slug": "api3",
+                    "url": "https:\/\/cryptopanic.com\/news\/api3\/"
+                }
+            ],
+            "id": 18658988,
+            "url": "https:\/\/cryptopanic.com\/news\/18658988\/Were-excited-to-announce-an-opportunity-for-all-you-blockchain-devs-to-flex-your-coding-muscles-Take-the",
+            "created_at": "2023-06-26T16:00:12Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

@@ -1,0 +1,1103 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=TUSD&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Huobi (HTX) Troubles Mount: Justin Sun Accused Of $2.4B Shortfall In User Funds",
+            "published_at": "2023-09-26T22:00:22Z",
+            "slug": "Huobi-HTX-Troubles-Mount-Justin-Sun-Accused-Of-24B-Shortfall-In-User-Funds",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "USDT",
+                    "title": "Tether",
+                    "slug": "tether",
+                    "url": "https:\/\/cryptopanic.com\/news\/tether\/"
+                },
+                {
+                    "code": "TRX",
+                    "title": "TRON",
+                    "slug": "tron",
+                    "url": "https:\/\/cryptopanic.com\/news\/tron\/"
+                },
+                {
+                    "code": "TUSD",
+                    "title": "TrueUSD",
+                    "slug": "true-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/true-usd\/"
+                },
+                {
+                    "code": "MKR",
+                    "title": "Maker",
+                    "slug": "maker",
+                    "url": "https:\/\/cryptopanic.com\/news\/maker\/"
+                },
+                {
+                    "code": "HT",
+                    "title": "Huobi",
+                    "slug": "huobi-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/huobi-token\/"
+                }
+            ],
+            "id": 18930399,
+            "url": "https:\/\/cryptopanic.com\/news\/18930399\/Huobi-HTX-Troubles-Mount-Justin-Sun-Accused-Of-24B-Shortfall-In-User-Funds",
+            "created_at": "2023-09-26T22:00:22Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "This Week in Crypto: Big US Debt, Solana Boss on Crypto Rules, and SWIFT Woes",
+            "published_at": "2023-09-22T14:00:00Z",
+            "slug": "This-Week-in-Crypto-Big-US-Debt-Solana-Boss-on-Crypto-Rules-and-SWIFT-Woes",
+            "currencies": [
+                {
+                    "code": "USDT",
+                    "title": "Tether",
+                    "slug": "tether",
+                    "url": "https:\/\/cryptopanic.com\/news\/tether\/"
+                },
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "TRX",
+                    "title": "TRON",
+                    "slug": "tron",
+                    "url": "https:\/\/cryptopanic.com\/news\/tron\/"
+                },
+                {
+                    "code": "LINK",
+                    "title": "Chainlink",
+                    "slug": "chainlink",
+                    "url": "https:\/\/cryptopanic.com\/news\/chainlink\/"
+                },
+                {
+                    "code": "TUSD",
+                    "title": "TrueUSD",
+                    "slug": "true-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/true-usd\/"
+                },
+                {
+                    "code": "HT",
+                    "title": "Huobi",
+                    "slug": "huobi-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/huobi-token\/"
+                }
+            ],
+            "id": 18922029,
+            "url": "https:\/\/cryptopanic.com\/news\/18922029\/This-Week-in-Crypto-Big-US-Debt-Solana-Boss-on-Crypto-Rules-and-SWIFT-Woes",
+            "created_at": "2023-09-22T14:00:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "How Binance drove Bitcoin\u2019s spot volume to a new low",
+            "published_at": "2023-09-21T17:30:26Z",
+            "slug": "How-Binance-drove-Bitcoins-spot-volume-to-a-new-low",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "BNB",
+                    "title": "BNB",
+                    "slug": "binancecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/binancecoin\/"
+                },
+                {
+                    "code": "TUSD",
+                    "title": "TrueUSD",
+                    "slug": "true-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/true-usd\/"
+                }
+            ],
+            "id": 18919897,
+            "url": "https:\/\/cryptopanic.com\/news\/18919897\/How-Binance-drove-Bitcoins-spot-volume-to-a-new-low",
+            "created_at": "2023-09-21T17:30:26Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "u.today",
+            "source": {
+                "title": "U.Today",
+                "region": "en",
+                "domain": "u.today",
+                "path": null
+            },
+            "title": "Quarter Billion TUSD Surprise During Crypto Massacre: BTC, XRP and Others Plummet",
+            "published_at": "2023-09-21T14:50:00Z",
+            "slug": "Quarter-Billion-TUSD-Surprise-During-Crypto-Massacre-BTC-XRP-and-Others-Plummet",
+            "currencies": [
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                },
+                {
+                    "code": "TUSD",
+                    "title": "TrueUSD",
+                    "slug": "true-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/true-usd\/"
+                }
+            ],
+            "id": 18919491,
+            "url": "https:\/\/cryptopanic.com\/news\/18919491\/Quarter-Billion-TUSD-Surprise-During-Crypto-Massacre-BTC-XRP-and-Others-Plummet",
+            "created_at": "2023-09-21T14:50:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "protos.com",
+            "source": {
+                "title": "Protos.com",
+                "region": "en",
+                "domain": "protos.com",
+                "path": null
+            },
+            "title": "Justin \u2018T-Bills\u2019 Sun prints $800M to himself",
+            "published_at": "2023-09-18T16:56:43Z",
+            "slug": "Justin-T-Bills-Sun-prints-800M-to-himself",
+            "currencies": [
+                {
+                    "code": "TUSD",
+                    "title": "TrueUSD",
+                    "slug": "true-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/true-usd\/"
+                }
+            ],
+            "id": 18911494,
+            "url": "https:\/\/cryptopanic.com\/news\/18911494\/Justin-T-Bills-Sun-prints-800M-to-himself",
+            "created_at": "2023-09-18T16:56:43Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "dailycoin.com",
+            "source": {
+                "title": "Dailycoin",
+                "region": "en",
+                "domain": "dailycoin.com",
+                "path": null
+            },
+            "title": "Tron Founder Justin Sun's $815M TUSD Mint Raises Eyebrows",
+            "published_at": "2023-09-16T16:05:00Z",
+            "slug": "Tron-Founder-Justin-Suns-815M-TUSD-Mint-Raises-Eyebrows",
+            "currencies": [
+                {
+                    "code": "TRX",
+                    "title": "TRON",
+                    "slug": "tron",
+                    "url": "https:\/\/cryptopanic.com\/news\/tron\/"
+                },
+                {
+                    "code": "TUSD",
+                    "title": "TrueUSD",
+                    "slug": "true-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/true-usd\/"
+                }
+            ],
+            "id": 18908115,
+            "url": "https:\/\/cryptopanic.com\/news\/18908115\/Tron-Founder-Justin-Suns-815M-TUSD-Mint-Raises-Eyebrows",
+            "created_at": "2023-09-16T16:05:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "TRON Founder Justin Sun Sparks Concerns After $865 Million TUSD Minting",
+            "published_at": "2023-09-16T15:46:55Z",
+            "slug": "TRON-Founder-Justin-Sun-Sparks-Concerns-After-865-Million-TUSD-Minting",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "TRX",
+                    "title": "TRON",
+                    "slug": "tron",
+                    "url": "https:\/\/cryptopanic.com\/news\/tron\/"
+                },
+                {
+                    "code": "TUSD",
+                    "title": "TrueUSD",
+                    "slug": "true-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/true-usd\/"
+                },
+                {
+                    "code": "HT",
+                    "title": "HTX",
+                    "slug": "huobi-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/huobi-token\/"
+                }
+            ],
+            "id": 18908126,
+            "url": "https:\/\/cryptopanic.com\/news\/18908126\/TRON-Founder-Justin-Sun-Sparks-Concerns-After-865-Million-TUSD-Minting",
+            "created_at": "2023-09-16T15:46:55Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinedition.com",
+            "source": {
+                "title": "coinedition",
+                "region": "en",
+                "domain": "coinedition.com",
+                "path": null
+            },
+            "title": "Justin Sun Injects Fresh $815M Worth of TUSD Into Circulation",
+            "published_at": "2023-09-16T14:32:00Z",
+            "slug": "Justin-Sun-Injects-Fresh-815M-Worth-of-TUSD-Into-Circulation",
+            "currencies": [
+                {
+                    "code": "TRX",
+                    "title": "TRON",
+                    "slug": "tron",
+                    "url": "https:\/\/cryptopanic.com\/news\/tron\/"
+                },
+                {
+                    "code": "TUSD",
+                    "title": "TrueUSD",
+                    "slug": "true-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/true-usd\/"
+                },
+                {
+                    "code": "HT",
+                    "title": "HTX",
+                    "slug": "huobi-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/huobi-token\/"
+                }
+            ],
+            "id": 18908017,
+            "url": "https:\/\/cryptopanic.com\/news\/18908017\/Justin-Sun-Injects-Fresh-815M-Worth-of-TUSD-Into-Circulation",
+            "created_at": "2023-09-16T14:32:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "en.bitcoinsistemi.com",
+            "source": {
+                "title": "en bitcoinsistemi",
+                "region": "en",
+                "domain": "en.bitcoinsistemi.com",
+                "path": null
+            },
+            "title": "Justin Sun Printed $815 Million TUSD and Transferred it to His Staking Platform",
+            "published_at": "2023-09-16T12:45:07Z",
+            "slug": "Justin-Sun-Printed-815-Million-TUSD-and-Transferred-it-to-His-Staking-Platform",
+            "currencies": [
+                {
+                    "code": "TUSD",
+                    "title": "TrueUSD",
+                    "slug": "true-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/true-usd\/"
+                }
+            ],
+            "id": 18907855,
+            "url": "https:\/\/cryptopanic.com\/news\/18907855\/Justin-Sun-Printed-815-Million-TUSD-and-Transferred-it-to-His-Staking-Platform",
+            "created_at": "2023-09-16T12:45:07Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "New Reports Shows How Much Capital Was Pulled Out Of Crypto In August",
+            "published_at": "2023-09-15T12:45:19Z",
+            "slug": "New-Reports-Shows-How-Much-Capital-Was-Pulled-Out-Of-Crypto-In-August",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "USDC",
+                    "title": "USD Coin",
+                    "slug": "usd-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/usd-coin\/"
+                },
+                {
+                    "code": "TUSD",
+                    "title": "TrueUSD",
+                    "slug": "true-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/true-usd\/"
+                }
+            ],
+            "id": 18905962,
+            "url": "https:\/\/cryptopanic.com\/news\/18905962\/New-Reports-Shows-How-Much-Capital-Was-Pulled-Out-Of-Crypto-In-August",
+            "created_at": "2023-09-15T12:45:19Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coingape.com",
+            "source": {
+                "title": "CoinGape",
+                "region": "en",
+                "domain": "coingape.com",
+                "path": null
+            },
+            "title": "Data Signals Start Of Bitcoin And Crypto Market Rally",
+            "published_at": "2023-09-15T12:08:57Z",
+            "slug": "Data-Signals-Start-Of-Bitcoin-And-Crypto-Market-Rally",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "USDT",
+                    "title": "Tether",
+                    "slug": "tether",
+                    "url": "https:\/\/cryptopanic.com\/news\/tether\/"
+                },
+                {
+                    "code": "TUSD",
+                    "title": "TrueUSD",
+                    "slug": "true-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/true-usd\/"
+                },
+                {
+                    "code": "BUSD",
+                    "title": "Binance USD",
+                    "slug": "binance-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/binance-usd\/"
+                }
+            ],
+            "id": 18905846,
+            "url": "https:\/\/cryptopanic.com\/news\/18905846\/Data-Signals-Start-Of-Bitcoin-And-Crypto-Market-Rally",
+            "created_at": "2023-09-15T12:08:57Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coingabbar.com",
+            "source": {
+                "title": "coingabbar",
+                "region": "en",
+                "domain": "coingabbar.com",
+                "path": null
+            },
+            "title": "24 Crypto Update, 14 Sep: Crypto market steadily climbs",
+            "published_at": "2023-09-15T01:30:00Z",
+            "slug": "24-Crypto-Update-14-Sep-Crypto-market-steadily-climbs",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                },
+                {
+                    "code": "USDC",
+                    "title": "USD Coin",
+                    "slug": "usd-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/usd-coin\/"
+                },
+                {
+                    "code": "ADA",
+                    "title": "Cardano",
+                    "slug": "cardano",
+                    "url": "https:\/\/cryptopanic.com\/news\/cardano\/"
+                },
+                {
+                    "code": "DOGE",
+                    "title": "Dogecoin",
+                    "slug": "dogecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/dogecoin\/"
+                },
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "DOT",
+                    "title": "Polkadot",
+                    "slug": "polkadot",
+                    "url": "https:\/\/cryptopanic.com\/news\/polkadot\/"
+                },
+                {
+                    "code": "LTC",
+                    "title": "Litecoin",
+                    "slug": "litecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/litecoin\/"
+                },
+                {
+                    "code": "TUSD",
+                    "title": "TrueUSD",
+                    "slug": "true-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/true-usd\/"
+                },
+                {
+                    "code": "BUSD",
+                    "title": "Binance USD",
+                    "slug": "binance-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/binance-usd\/"
+                },
+                {
+                    "code": "NEAR",
+                    "title": "NEAR Protocol",
+                    "slug": "near",
+                    "url": "https:\/\/cryptopanic.com\/news\/near\/"
+                },
+                {
+                    "code": "AXS",
+                    "title": "Axie Infinity",
+                    "slug": "axie-infinity",
+                    "url": "https:\/\/cryptopanic.com\/news\/axie-infinity\/"
+                },
+                {
+                    "code": "APE",
+                    "title": "ApeCoin",
+                    "slug": "apecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/apecoin\/"
+                }
+            ],
+            "id": 18904795,
+            "url": "https:\/\/cryptopanic.com\/news\/18904795\/24-Crypto-Update-14-Sep-Crypto-market-steadily-climbs",
+            "created_at": "2023-09-15T01:30:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "75% Of All Binance Fiat Trading Volume Is In Turkish Lira",
+            "published_at": "2023-09-15T00:00:21Z",
+            "slug": "75-Of-All-Binance-Fiat-Trading-Volume-Is-In-Turkish-Lira",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "USDT",
+                    "title": "Tether",
+                    "slug": "tether",
+                    "url": "https:\/\/cryptopanic.com\/news\/tether\/"
+                },
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                },
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "TRX",
+                    "title": "TRON",
+                    "slug": "tron",
+                    "url": "https:\/\/cryptopanic.com\/news\/tron\/"
+                },
+                {
+                    "code": "TUSD",
+                    "title": "TrueUSD",
+                    "slug": "true-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/true-usd\/"
+                },
+                {
+                    "code": "BUSD",
+                    "title": "Binance USD",
+                    "slug": "binance-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/binance-usd\/"
+                }
+            ],
+            "id": 18904469,
+            "url": "https:\/\/cryptopanic.com\/news\/18904469\/75-Of-All-Binance-Fiat-Trading-Volume-Is-In-Turkish-Lira",
+            "created_at": "2023-09-15T00:00:21Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 1,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 1,
+                "comments": 0
+            },
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "Binance Announces Burn of Idle BUSD Tokens",
+            "published_at": "2023-09-14T16:15:00Z",
+            "slug": "Binance-Announces-Burn-of-Idle-BUSD-Tokens",
+            "currencies": [
+                {
+                    "code": "BNB",
+                    "title": "BNB",
+                    "slug": "binancecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/binancecoin\/"
+                },
+                {
+                    "code": "USDC",
+                    "title": "USD Coin",
+                    "slug": "usd-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/usd-coin\/"
+                },
+                {
+                    "code": "TUSD",
+                    "title": "TrueUSD",
+                    "slug": "true-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/true-usd\/"
+                },
+                {
+                    "code": "BUSD",
+                    "title": "Binance USD",
+                    "slug": "binance-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/binance-usd\/"
+                }
+            ],
+            "id": 18903662,
+            "url": "https:\/\/cryptopanic.com\/news\/18903662\/Binance-Announces-Burn-of-Idle-BUSD-Tokens",
+            "created_at": "2023-09-14T16:15:00Z"
+        },
+        {
+            "kind": "news",
+            "domain": "bitcoin.com",
+            "source": {
+                "title": "Bitcoin.com",
+                "region": "en",
+                "domain": "bitcoin.com",
+                "path": null
+            },
+            "title": "What Are Stablecoins? A Simple Explanation of the Digital Asset Bridging Crypto and Fiat",
+            "published_at": "2023-09-10T04:00:03Z",
+            "slug": "What-Are-Stablecoins-A-Simple-Explanation-of-the-Digital-Asset-Bridging-Crypto-and-Fiat",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "USDT",
+                    "title": "Tether",
+                    "slug": "tether",
+                    "url": "https:\/\/cryptopanic.com\/news\/tether\/"
+                },
+                {
+                    "code": "USDC",
+                    "title": "USD Coin",
+                    "slug": "usd-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/usd-coin\/"
+                },
+                {
+                    "code": "DAI",
+                    "title": "Dai",
+                    "slug": "dai",
+                    "url": "https:\/\/cryptopanic.com\/news\/dai\/"
+                },
+                {
+                    "code": "TUSD",
+                    "title": "TrueUSD",
+                    "slug": "true-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/true-usd\/"
+                },
+                {
+                    "code": "BUSD",
+                    "title": "Binance USD",
+                    "slug": "binance-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/binance-usd\/"
+                },
+                {
+                    "code": "BTS",
+                    "title": "BitShares",
+                    "slug": "bitshares",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitshares\/"
+                }
+            ],
+            "id": 18892135,
+            "url": "https:\/\/cryptopanic.com\/news\/18892135\/What-Are-Stablecoins-A-Simple-Explanation-of-the-Digital-Asset-Bridging-Crypto-and-Fiat",
+            "created_at": "2023-09-10T04:00:03Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptoslate.com",
+            "source": {
+                "title": "CryptoSlate",
+                "region": "en",
+                "domain": "cryptoslate.com",
+                "path": null
+            },
+            "title": "A closer look at the changes in stablecoin supply as TUSD gains on market",
+            "published_at": "2023-09-08T14:30:18Z",
+            "slug": "A-closer-look-at-the-changes-in-stablecoin-supply-as-TUSD-gains-on-market",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "USDT",
+                    "title": "Tether",
+                    "slug": "tether",
+                    "url": "https:\/\/cryptopanic.com\/news\/tether\/"
+                },
+                {
+                    "code": "USDC",
+                    "title": "USD Coin",
+                    "slug": "usd-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/usd-coin\/"
+                },
+                {
+                    "code": "DAI",
+                    "title": "Dai",
+                    "slug": "dai",
+                    "url": "https:\/\/cryptopanic.com\/news\/dai\/"
+                },
+                {
+                    "code": "TUSD",
+                    "title": "TrueUSD",
+                    "slug": "true-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/true-usd\/"
+                },
+                {
+                    "code": "BUSD",
+                    "title": "Binance USD",
+                    "slug": "binance-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/binance-usd\/"
+                }
+            ],
+            "id": 18889387,
+            "url": "https:\/\/cryptopanic.com\/news\/18889387\/A-closer-look-at-the-changes-in-stablecoin-supply-as-TUSD-gains-on-market",
+            "created_at": "2023-09-08T14:30:18Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "B2Binpay V17 Is Live With Major Feature Enhancements and Competitive Prices",
+            "published_at": "2023-09-07T06:26:44Z",
+            "slug": "B2Binpay-V17-Is-Live-With-Major-Feature-Enhancements-and-Competitive-Prices",
+            "currencies": [
+                {
+                    "code": "TUSD",
+                    "title": "TrueUSD",
+                    "slug": "true-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/true-usd\/"
+                }
+            ],
+            "id": 18885592,
+            "url": "https:\/\/cryptopanic.com\/news\/18885592\/B2Binpay-V17-Is-Live-With-Major-Feature-Enhancements-and-Competitive-Prices",
+            "created_at": "2023-09-07T06:26:44Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinedition.com",
+            "source": {
+                "title": "coinedition",
+                "region": "en",
+                "domain": "coinedition.com",
+                "path": null
+            },
+            "title": "TUSD Trumps BUSD in Supply Showdown Amid Binance Regulatory Fallout",
+            "published_at": "2023-09-05T15:00:00Z",
+            "slug": "TUSD-Trumps-BUSD-in-Supply-Showdown-Amid-Binance-Regulatory-Fallout",
+            "currencies": [
+                {
+                    "code": "TUSD",
+                    "title": "TrueUSD",
+                    "slug": "true-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/true-usd\/"
+                },
+                {
+                    "code": "BUSD",
+                    "title": "Binance USD",
+                    "slug": "binance-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/binance-usd\/"
+                }
+            ],
+            "id": 18881105,
+            "url": "https:\/\/cryptopanic.com\/news\/18881105\/TUSD-Trumps-BUSD-in-Supply-Showdown-Amid-Binance-Regulatory-Fallout",
+            "created_at": "2023-09-05T15:00:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "TrueUSD (TUSD) Market Cap Jumps to $3.4B, Overtakes Binance USD (BUSD)",
+            "published_at": "2023-09-04T11:15:00Z",
+            "slug": "TrueUSD-TUSD-Market-Cap-Jumps-to-34B-Overtakes-Binance-USD-BUSD",
+            "currencies": [
+                {
+                    "code": "USDT",
+                    "title": "Tether",
+                    "slug": "tether",
+                    "url": "https:\/\/cryptopanic.com\/news\/tether\/"
+                },
+                {
+                    "code": "TUSD",
+                    "title": "TrueUSD",
+                    "slug": "true-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/true-usd\/"
+                },
+                {
+                    "code": "BUSD",
+                    "title": "Binance USD",
+                    "slug": "binance-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/binance-usd\/"
+                }
+            ],
+            "id": 18878275,
+            "url": "https:\/\/cryptopanic.com\/news\/18878275\/TrueUSD-TUSD-Market-Cap-Jumps-to-34B-Overtakes-Binance-USD-BUSD",
+            "created_at": "2023-09-04T11:15:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "bitcoin.com",
+            "source": {
+                "title": "Bitcoin.com",
+                "region": "en",
+                "domain": "bitcoin.com",
+                "path": null
+            },
+            "title": "BUSD Falls to Fifth Among Stablecoin Leaders; TUSD and FDUSD Supplies Surge in a 3-Day Span",
+            "published_at": "2023-09-03T20:30:59Z",
+            "slug": "BUSD-Falls-to-Fifth-Among-Stablecoin-Leaders-TUSD-and-FDUSD-Supplies-Surge-in-a-3-Day-Span",
+            "currencies": [
+                {
+                    "code": "TUSD",
+                    "title": "TrueUSD",
+                    "slug": "true-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/true-usd\/"
+                },
+                {
+                    "code": "BUSD",
+                    "title": "Binance USD",
+                    "slug": "binance-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/binance-usd\/"
+                },
+                {
+                    "code": "FDUSD",
+                    "title": "First Digital USD",
+                    "slug": "first-digital-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/first-digital-usd\/"
+                }
+            ],
+            "id": 18877202,
+            "url": "https:\/\/cryptopanic.com\/news\/18877202\/BUSD-Falls-to-Fifth-Among-Stablecoin-Leaders-TUSD-and-FDUSD-Supplies-Surge-in-a-3-Day-Span",
+            "created_at": "2023-09-03T20:30:59Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

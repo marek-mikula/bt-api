@@ -1,0 +1,941 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=HBAR&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "5 Altcoins You Should Keep an Eye on in October",
+            "published_at": "2023-10-03T08:13:57Z",
+            "slug": "5-Altcoins-You-Should-Keep-an-Eye-on-in-October",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "HBAR",
+                    "title": "Hedera",
+                    "slug": "hedera-hashgraph",
+                    "url": "https:\/\/cryptopanic.com\/news\/hedera-hashgraph\/"
+                },
+                {
+                    "code": "OP",
+                    "title": "Optimism",
+                    "slug": "optimism",
+                    "url": "https:\/\/cryptopanic.com\/news\/optimism\/"
+                }
+            ],
+            "id": 18943890,
+            "url": "https:\/\/cryptopanic.com\/news\/18943890\/5-Altcoins-You-Should-Keep-an-Eye-on-in-October",
+            "created_at": "2023-10-03T08:13:57Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptodaily.co.uk",
+            "source": {
+                "title": "CryptoDaily",
+                "region": "en",
+                "domain": "cryptodaily.co.uk",
+                "path": null
+            },
+            "title": "Google Bard Picks for Q4 2023: Hedera, Kangamoon, dYdX",
+            "published_at": "2023-09-29T18:05:59Z",
+            "slug": "Google-Bard-Picks-for-Q4-2023-Hedera-Kangamoon-dYdX",
+            "currencies": [
+                {
+                    "code": "HBAR",
+                    "title": "Hedera",
+                    "slug": "hedera-hashgraph",
+                    "url": "https:\/\/cryptopanic.com\/news\/hedera-hashgraph\/"
+                },
+                {
+                    "code": "DYDX",
+                    "title": "dYdX",
+                    "slug": "dydx",
+                    "url": "https:\/\/cryptopanic.com\/news\/dydx\/"
+                }
+            ],
+            "id": 18938050,
+            "url": "https:\/\/cryptopanic.com\/news\/18938050\/Google-Bard-Picks-for-Q4-2023-Hedera-Kangamoon-dYdX",
+            "created_at": "2023-09-29T18:05:59Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinjournal.net",
+            "source": {
+                "title": "CoinJournal",
+                "region": "en",
+                "domain": "coinjournal.net",
+                "path": null
+            },
+            "title": "Hedera (HBAR\/USD) technical analysis as it struggles at support",
+            "published_at": "2023-09-28T09:45:38Z",
+            "slug": "Hedera-HBARUSD-technical-analysis-as-it-struggles-at-support",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "HBAR",
+                    "title": "Hedera",
+                    "slug": "hedera-hashgraph",
+                    "url": "https:\/\/cryptopanic.com\/news\/hedera-hashgraph\/"
+                }
+            ],
+            "id": 18934038,
+            "url": "https:\/\/cryptopanic.com\/news\/18934038\/Hedera-HBARUSD-technical-analysis-as-it-struggles-at-support",
+            "created_at": "2023-09-28T09:45:38Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "HBAR: Is this the perfect time to go long?",
+            "published_at": "2023-09-27T18:30:45Z",
+            "slug": "HBAR-Is-this-the-perfect-time-to-go-long",
+            "currencies": [
+                {
+                    "code": "HBAR",
+                    "title": "Hedera",
+                    "slug": "hedera-hashgraph",
+                    "url": "https:\/\/cryptopanic.com\/news\/hedera-hashgraph\/"
+                }
+            ],
+            "id": 18932802,
+            "url": "https:\/\/cryptopanic.com\/news\/18932802\/HBAR-Is-this-the-perfect-time-to-go-long",
+            "created_at": "2023-09-27T18:30:45Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "votes": {
+                "negative": 1,
+                "positive": 1,
+                "important": 0,
+                "liked": 0,
+                "disliked": 1,
+                "lol": 2,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "Cardano (ADA) Claims Top Spot in Crypto Development Activity",
+            "published_at": "2023-09-25T10:45:00Z",
+            "slug": "Cardano-ADA-Claims-Top-Spot-in-Crypto-Development-Activity",
+            "currencies": [
+                {
+                    "code": "ADA",
+                    "title": "Cardano",
+                    "slug": "cardano",
+                    "url": "https:\/\/cryptopanic.com\/news\/cardano\/"
+                },
+                {
+                    "code": "DOT",
+                    "title": "Polkadot",
+                    "slug": "polkadot",
+                    "url": "https:\/\/cryptopanic.com\/news\/polkadot\/"
+                },
+                {
+                    "code": "LINK",
+                    "title": "Chainlink",
+                    "slug": "chainlink",
+                    "url": "https:\/\/cryptopanic.com\/news\/chainlink\/"
+                },
+                {
+                    "code": "HBAR",
+                    "title": "Hedera",
+                    "slug": "hedera-hashgraph",
+                    "url": "https:\/\/cryptopanic.com\/news\/hedera-hashgraph\/"
+                }
+            ],
+            "id": 18926153,
+            "url": "https:\/\/cryptopanic.com\/news\/18926153\/Cardano-ADA-Claims-Top-Spot-in-Crypto-Development-Activity",
+            "created_at": "2023-09-25T10:45:00Z"
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "HBAR makes a move below $0.0520 \u2014 Should traders short it?",
+            "published_at": "2023-09-23T02:30:31Z",
+            "slug": "HBAR-makes-a-move-below-00520-Should-traders-short-it",
+            "currencies": [
+                {
+                    "code": "HBAR",
+                    "title": "Hedera",
+                    "slug": "hedera-hashgraph",
+                    "url": "https:\/\/cryptopanic.com\/news\/hedera-hashgraph\/"
+                }
+            ],
+            "id": 18923101,
+            "url": "https:\/\/cryptopanic.com\/news\/18923101\/HBAR-makes-a-move-below-00520-Should-traders-short-it",
+            "created_at": "2023-09-23T02:30:31Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "Will HBAR\u2019s short-term act overshadow Hedera\u2019s long-term goals?",
+            "published_at": "2023-09-22T05:30:45Z",
+            "slug": "Will-HBARs-short-term-act-overshadow-Hederas-long-term-goals",
+            "currencies": [
+                {
+                    "code": "HBAR",
+                    "title": "Hedera",
+                    "slug": "hedera-hashgraph",
+                    "url": "https:\/\/cryptopanic.com\/news\/hedera-hashgraph\/"
+                }
+            ],
+            "id": 18920786,
+            "url": "https:\/\/cryptopanic.com\/news\/18920786\/Will-HBARs-short-term-act-overshadow-Hederas-long-term-goals",
+            "created_at": "2023-09-22T05:30:45Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptodaily.co.uk",
+            "source": {
+                "title": "CryptoDaily",
+                "region": "en",
+                "domain": "cryptodaily.co.uk",
+                "path": null
+            },
+            "title": "Why Savvy Investors Are Swapping Chainlink (LINK) and Hedera (HBAR) for Tradecurve Markets (TCRV) \u2013 Find Out Here",
+            "published_at": "2023-09-19T14:54:56Z",
+            "slug": "Why-Savvy-Investors-Are-Swapping-Chainlink-LINK-and-Hedera-HBAR-for-Tradecurve-Markets-TCRV-Find-Out-Here",
+            "currencies": [
+                {
+                    "code": "LINK",
+                    "title": "Chainlink",
+                    "slug": "chainlink",
+                    "url": "https:\/\/cryptopanic.com\/news\/chainlink\/"
+                },
+                {
+                    "code": "HBAR",
+                    "title": "Hedera",
+                    "slug": "hedera-hashgraph",
+                    "url": "https:\/\/cryptopanic.com\/news\/hedera-hashgraph\/"
+                }
+            ],
+            "id": 18913892,
+            "url": "https:\/\/cryptopanic.com\/news\/18913892\/Why-Savvy-Investors-Are-Swapping-Chainlink-LINK-and-Hedera-HBAR-for-Tradecurve-Markets-TCRV-Find-Out-Here",
+            "created_at": "2023-09-19T14:54:56Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptodaily.co.uk",
+            "source": {
+                "title": "CryptoDaily",
+                "region": "en",
+                "domain": "cryptodaily.co.uk",
+                "path": null
+            },
+            "title": "Expert Recommendations for September: Chainlink (LINK), Hedera (HBAR), Pomerdoge (POMD)",
+            "published_at": "2023-09-18T15:34:29Z",
+            "slug": "Expert-Recommendations-for-September-Chainlink-LINK-Hedera-HBAR-Pomerdoge-POMD",
+            "currencies": [
+                {
+                    "code": "LINK",
+                    "title": "Chainlink",
+                    "slug": "chainlink",
+                    "url": "https:\/\/cryptopanic.com\/news\/chainlink\/"
+                },
+                {
+                    "code": "HBAR",
+                    "title": "Hedera",
+                    "slug": "hedera-hashgraph",
+                    "url": "https:\/\/cryptopanic.com\/news\/hedera-hashgraph\/"
+                }
+            ],
+            "id": 18911302,
+            "url": "https:\/\/cryptopanic.com\/news\/18911302\/Expert-Recommendations-for-September-Chainlink-LINK-Hedera-HBAR-Pomerdoge-POMD",
+            "created_at": "2023-09-18T15:34:29Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "dailyhodl.com",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 1,
+                "liked": 2,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 1,
+                "comments": 0
+            },
+            "source": {
+                "title": "The Daily Hodl",
+                "region": "en",
+                "domain": "dailyhodl.com",
+                "path": null
+            },
+            "title": "Second-Largest Stablecoin USDC Launches on Ethereum (ETH) Competitor NEAR Protocol (NEAR)",
+            "published_at": "2023-09-15T18:45:18Z",
+            "slug": "Second-Largest-Stablecoin-USDC-Launches-on-Ethereum-ETH-Competitor-NEAR-Protocol-NEAR",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "USDC",
+                    "title": "USD Coin",
+                    "slug": "usd-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/usd-coin\/"
+                },
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "TRX",
+                    "title": "TRON",
+                    "slug": "tron",
+                    "url": "https:\/\/cryptopanic.com\/news\/tron\/"
+                },
+                {
+                    "code": "AVAX",
+                    "title": "Avalanche",
+                    "slug": "avalanche-2",
+                    "url": "https:\/\/cryptopanic.com\/news\/avalanche-2\/"
+                },
+                {
+                    "code": "XLM",
+                    "title": "Stellar",
+                    "slug": "stellar",
+                    "url": "https:\/\/cryptopanic.com\/news\/stellar\/"
+                },
+                {
+                    "code": "HBAR",
+                    "title": "Hedera",
+                    "slug": "hedera-hashgraph",
+                    "url": "https:\/\/cryptopanic.com\/news\/hedera-hashgraph\/"
+                },
+                {
+                    "code": "OP",
+                    "title": "Optimism",
+                    "slug": "optimism",
+                    "url": "https:\/\/cryptopanic.com\/news\/optimism\/"
+                },
+                {
+                    "code": "NEAR",
+                    "title": "NEAR Protocol",
+                    "slug": "near",
+                    "url": "https:\/\/cryptopanic.com\/news\/near\/"
+                },
+                {
+                    "code": "ARB",
+                    "title": "Arbitrum",
+                    "slug": "arbitrum",
+                    "url": "https:\/\/cryptopanic.com\/news\/arbitrum\/"
+                },
+                {
+                    "code": "ALGO",
+                    "title": "Algorand",
+                    "slug": "algorand",
+                    "url": "https:\/\/cryptopanic.com\/news\/algorand\/"
+                }
+            ],
+            "id": 18906853,
+            "url": "https:\/\/cryptopanic.com\/news\/18906853\/Second-Largest-Stablecoin-USDC-Launches-on-Ethereum-ETH-Competitor-NEAR-Protocol-NEAR",
+            "created_at": "2023-09-15T18:45:18Z"
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "votes": {
+                "negative": 0,
+                "positive": 2,
+                "important": 1,
+                "liked": 2,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 2,
+                "comments": 0
+            },
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "Hedera\u2019s stablecoin launch: Why this can accelerate the network\u2019s growth",
+            "published_at": "2023-09-15T00:30:07Z",
+            "slug": "Hederas-stablecoin-launch-Why-this-can-accelerate-the-networks-growth",
+            "currencies": [
+                {
+                    "code": "HBAR",
+                    "title": "Hedera",
+                    "slug": "hedera-hashgraph",
+                    "url": "https:\/\/cryptopanic.com\/news\/hedera-hashgraph\/"
+                }
+            ],
+            "id": 18904506,
+            "url": "https:\/\/cryptopanic.com\/news\/18904506\/Hederas-stablecoin-launch-Why-this-can-accelerate-the-networks-growth",
+            "created_at": "2023-09-15T00:30:07Z"
+        },
+        {
+            "kind": "news",
+            "domain": "feeds2.benzinga.com",
+            "source": {
+                "title": "Benzinga",
+                "region": "en",
+                "domain": "feeds2.benzinga.com",
+                "path": null
+            },
+            "title": "Ethereum Tops This Key Level Following PPI Data; Hedera Emerges As Top Gainer",
+            "published_at": "2023-09-14T13:48:05Z",
+            "slug": "Ethereum-Tops-This-Key-Level-Following-PPI-Data-Hedera-Emerges-As-Top-Gainer",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "HBAR",
+                    "title": "Hedera",
+                    "slug": "hedera-hashgraph",
+                    "url": "https:\/\/cryptopanic.com\/news\/hedera-hashgraph\/"
+                }
+            ],
+            "id": 18903275,
+            "url": "https:\/\/cryptopanic.com\/news\/18903275\/Ethereum-Tops-This-Key-Level-Following-PPI-Data-Hedera-Emerges-As-Top-Gainer",
+            "created_at": "2023-09-14T13:48:05Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "dailycoin.com",
+            "source": {
+                "title": "Dailycoin",
+                "region": "en",
+                "domain": "dailycoin.com",
+                "path": null
+            },
+            "title": "Hedera's Brand New Stablecoin Studio Propels HBAR\u2019s 9% Surge",
+            "published_at": "2023-09-14T13:35:00Z",
+            "slug": "Hederas-Brand-New-Stablecoin-Studio-Propels-HBARs-9-Surge",
+            "currencies": [
+                {
+                    "code": "HBAR",
+                    "title": "Hedera",
+                    "slug": "hedera-hashgraph",
+                    "url": "https:\/\/cryptopanic.com\/news\/hedera-hashgraph\/"
+                }
+            ],
+            "id": 18903188,
+            "url": "https:\/\/cryptopanic.com\/news\/18903188\/Hederas-Brand-New-Stablecoin-Studio-Propels-HBARs-9-Surge",
+            "created_at": "2023-09-14T13:35:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coindesk.com",
+            "source": {
+                "title": "CoinDesk",
+                "region": "en",
+                "domain": "coindesk.com",
+                "path": null
+            },
+            "title": "First Mover Americas: BTC Holds $26K; Hedera\u2019s HBAR Jumps",
+            "published_at": "2023-09-14T13:02:11Z",
+            "slug": "First-Mover-Americas-BTC-Holds-26K-Hederas-HBAR-Jumps",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "HBAR",
+                    "title": "Hedera",
+                    "slug": "hedera-hashgraph",
+                    "url": "https:\/\/cryptopanic.com\/news\/hedera-hashgraph\/"
+                }
+            ],
+            "id": 18903086,
+            "url": "https:\/\/cryptopanic.com\/news\/18903086\/First-Mover-Americas-BTC-Holds-26K-Hederas-HBAR-Jumps",
+            "created_at": "2023-09-14T13:02:11Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinedition.com",
+            "source": {
+                "title": "coinedition",
+                "region": "en",
+                "domain": "coinedition.com",
+                "path": null
+            },
+            "title": "Top 5 Cryptocurrencies In Terms Of Development Could Surge Soon",
+            "published_at": "2023-09-14T11:58:33Z",
+            "slug": "Top-5-Cryptocurrencies-In-Terms-Of-Development-Could-Surge-Soon",
+            "currencies": [
+                {
+                    "code": "ADA",
+                    "title": "Cardano",
+                    "slug": "cardano",
+                    "url": "https:\/\/cryptopanic.com\/news\/cardano\/"
+                },
+                {
+                    "code": "DOT",
+                    "title": "Polkadot",
+                    "slug": "polkadot",
+                    "url": "https:\/\/cryptopanic.com\/news\/polkadot\/"
+                },
+                {
+                    "code": "LINK",
+                    "title": "Chainlink",
+                    "slug": "chainlink",
+                    "url": "https:\/\/cryptopanic.com\/news\/chainlink\/"
+                },
+                {
+                    "code": "HBAR",
+                    "title": "Hedera",
+                    "slug": "hedera-hashgraph",
+                    "url": "https:\/\/cryptopanic.com\/news\/hedera-hashgraph\/"
+                }
+            ],
+            "id": 18902871,
+            "url": "https:\/\/cryptopanic.com\/news\/18902871\/Top-5-Cryptocurrencies-In-Terms-Of-Development-Could-Surge-Soon",
+            "created_at": "2023-09-14T11:58:33Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinedition.com",
+            "source": {
+                "title": "coinedition",
+                "region": "en",
+                "domain": "coinedition.com",
+                "path": null
+            },
+            "title": "HBAR Rallies Nearly 9% Following Bithumb\u2019s Listing Announcement",
+            "published_at": "2023-09-14T11:42:00Z",
+            "slug": "HBAR-Rallies-Nearly-9-Following-Bithumbs-Listing-Announcement",
+            "currencies": [
+                {
+                    "code": "HBAR",
+                    "title": "Hedera",
+                    "slug": "hedera-hashgraph",
+                    "url": "https:\/\/cryptopanic.com\/news\/hedera-hashgraph\/"
+                }
+            ],
+            "id": 18902835,
+            "url": "https:\/\/cryptopanic.com\/news\/18902835\/HBAR-Rallies-Nearly-9-Following-Bithumbs-Listing-Announcement",
+            "created_at": "2023-09-14T11:42:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "finbold.com",
+            "votes": {
+                "negative": 1,
+                "positive": 1,
+                "important": 1,
+                "liked": 1,
+                "disliked": 1,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 2,
+                "comments": 0
+            },
+            "source": {
+                "title": "Finbold",
+                "region": "en",
+                "domain": "finbold.com",
+                "path": null
+            },
+            "title": "Top 10 cryptocurrencies by GitHub activity in last 30 days",
+            "published_at": "2023-09-14T09:39:54Z",
+            "slug": "Top-10-cryptocurrencies-by-GitHub-activity-in-last-30-days",
+            "currencies": [
+                {
+                    "code": "ADA",
+                    "title": "Cardano",
+                    "slug": "cardano",
+                    "url": "https:\/\/cryptopanic.com\/news\/cardano\/"
+                },
+                {
+                    "code": "DOT",
+                    "title": "Polkadot",
+                    "slug": "polkadot",
+                    "url": "https:\/\/cryptopanic.com\/news\/polkadot\/"
+                },
+                {
+                    "code": "LINK",
+                    "title": "Chainlink",
+                    "slug": "chainlink",
+                    "url": "https:\/\/cryptopanic.com\/news\/chainlink\/"
+                },
+                {
+                    "code": "ATOM",
+                    "title": "Cosmos Hub",
+                    "slug": "cosmos",
+                    "url": "https:\/\/cryptopanic.com\/news\/cosmos\/"
+                },
+                {
+                    "code": "HBAR",
+                    "title": "Hedera",
+                    "slug": "hedera-hashgraph",
+                    "url": "https:\/\/cryptopanic.com\/news\/hedera-hashgraph\/"
+                },
+                {
+                    "code": "FIL",
+                    "title": "Filecoin",
+                    "slug": "filecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/filecoin\/"
+                }
+            ],
+            "id": 18902466,
+            "url": "https:\/\/cryptopanic.com\/news\/18902466\/Top-10-cryptocurrencies-by-GitHub-activity-in-last-30-days",
+            "created_at": "2023-09-14T09:39:54Z"
+        },
+        {
+            "kind": "news",
+            "domain": "coingabbar.com",
+            "source": {
+                "title": "coingabbar",
+                "region": "en",
+                "domain": "coingabbar.com",
+                "path": null
+            },
+            "title": "24 Crypto Update, 13 Sep: Crypto stabilizes after US CPI data release",
+            "published_at": "2023-09-14T01:30:00Z",
+            "slug": "24-Crypto-Update-13-Sep-Crypto-stabilizes-after-US-CPI-data-release",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                },
+                {
+                    "code": "UNI",
+                    "title": "Uniswap",
+                    "slug": "uniswap",
+                    "url": "https:\/\/cryptopanic.com\/news\/uniswap\/"
+                },
+                {
+                    "code": "HBAR",
+                    "title": "Hedera",
+                    "slug": "hedera-hashgraph",
+                    "url": "https:\/\/cryptopanic.com\/news\/hedera-hashgraph\/"
+                }
+            ],
+            "id": 18902077,
+            "url": "https:\/\/cryptopanic.com\/news\/18902077\/24-Crypto-Update-13-Sep-Crypto-stabilizes-after-US-CPI-data-release",
+            "created_at": "2023-09-14T01:30:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coingape.com",
+            "source": {
+                "title": "CoinGape",
+                "region": "en",
+                "domain": "coingape.com",
+                "path": null
+            },
+            "title": "Telegram Unveils Crypto Wallet; TON Price Jumps; Here\u2019s Why",
+            "published_at": "2023-09-13T16:22:25Z",
+            "slug": "Telegram-Unveils-Crypto-Wallet-TON-Price-Jumps-Heres-Why",
+            "currencies": [
+                {
+                    "code": "TON",
+                    "title": "Toncoin",
+                    "slug": "the-open-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/the-open-network\/"
+                },
+                {
+                    "code": "HBAR",
+                    "title": "Hedera",
+                    "slug": "hedera-hashgraph",
+                    "url": "https:\/\/cryptopanic.com\/news\/hedera-hashgraph\/"
+                }
+            ],
+            "id": 18900953,
+            "url": "https:\/\/cryptopanic.com\/news\/18900953\/Telegram-Unveils-Crypto-Wallet-TON-Price-Jumps-Heres-Why",
+            "created_at": "2023-09-13T16:22:25Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinjournal.net",
+            "source": {
+                "title": "CoinJournal",
+                "region": "en",
+                "domain": "coinjournal.net",
+                "path": null
+            },
+            "title": "VeChain, Toncoin, Compound, Maker prices rise as US CPI spikes",
+            "published_at": "2023-09-13T15:13:21Z",
+            "slug": "VeChain-Toncoin-Compound-Maker-prices-rise-as-US-CPI-spikes",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "TON",
+                    "title": "Toncoin",
+                    "slug": "the-open-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/the-open-network\/"
+                },
+                {
+                    "code": "HBAR",
+                    "title": "Hedera",
+                    "slug": "hedera-hashgraph",
+                    "url": "https:\/\/cryptopanic.com\/news\/hedera-hashgraph\/"
+                },
+                {
+                    "code": "APT",
+                    "title": "Aptos",
+                    "slug": "aptos",
+                    "url": "https:\/\/cryptopanic.com\/news\/aptos\/"
+                },
+                {
+                    "code": "MKR",
+                    "title": "Maker",
+                    "slug": "maker",
+                    "url": "https:\/\/cryptopanic.com\/news\/maker\/"
+                }
+            ],
+            "id": 18900777,
+            "url": "https:\/\/cryptopanic.com\/news\/18900777\/VeChain-Toncoin-Compound-Maker-prices-rise-as-US-CPI-spikes",
+            "created_at": "2023-09-13T15:13:21Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

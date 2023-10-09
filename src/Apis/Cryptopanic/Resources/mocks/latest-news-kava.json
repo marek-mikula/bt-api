@@ -1,0 +1,875 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=KAVA&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "cryptoslate.com",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 1,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "CryptoSlate",
+                "region": "en",
+                "domain": "cryptoslate.com",
+                "path": null
+            },
+            "title": "TechCrunch founder Arrington steps down from new Celsius board over constitution disagreement",
+            "published_at": "2023-09-25T11:00:12Z",
+            "slug": "TechCrunch-founder-Arrington-steps-down-from-new-Celsius-board-over-constitution-disagreement",
+            "currencies": [
+                {
+                    "code": "KAVA",
+                    "title": "Kava",
+                    "slug": "kava",
+                    "url": "https:\/\/cryptopanic.com\/news\/kava\/"
+                }
+            ],
+            "id": 18926160,
+            "url": "https:\/\/cryptopanic.com\/news\/18926160\/TechCrunch-founder-Arrington-steps-down-from-new-Celsius-board-over-constitution-disagreement",
+            "created_at": "2023-09-25T11:00:12Z"
+        },
+        {
+            "kind": "news",
+            "domain": "coingabbar.com",
+            "source": {
+                "title": "coingabbar",
+                "region": "en",
+                "domain": "coingabbar.com",
+                "path": null
+            },
+            "title": "24 Crypto Update, 17 Sep: Bitcoin, Ether stable; altcoins rise",
+            "published_at": "2023-09-18T01:30:00Z",
+            "slug": "24-Crypto-Update-17-Sep-Bitcoin-Ether-stable-altcoins-rise",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                },
+                {
+                    "code": "DOGE",
+                    "title": "Dogecoin",
+                    "slug": "dogecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/dogecoin\/"
+                },
+                {
+                    "code": "TON",
+                    "title": "Toncoin",
+                    "slug": "the-open-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/the-open-network\/"
+                },
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "LTC",
+                    "title": "Litecoin",
+                    "slug": "litecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/litecoin\/"
+                },
+                {
+                    "code": "LINK",
+                    "title": "Chainlink",
+                    "slug": "chainlink",
+                    "url": "https:\/\/cryptopanic.com\/news\/chainlink\/"
+                },
+                {
+                    "code": "MKR",
+                    "title": "Maker",
+                    "slug": "maker",
+                    "url": "https:\/\/cryptopanic.com\/news\/maker\/"
+                },
+                {
+                    "code": "KAVA",
+                    "title": "Kava",
+                    "slug": "kava",
+                    "url": "https:\/\/cryptopanic.com\/news\/kava\/"
+                }
+            ],
+            "id": 18909781,
+            "url": "https:\/\/cryptopanic.com\/news\/18909781\/24-Crypto-Update-17-Sep-Bitcoin-Ether-stable-altcoins-rise",
+            "created_at": "2023-09-18T01:30:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Altcoin Watchlist: Analyst Shares What\u2019s Hot In Crypto This Week",
+            "published_at": "2023-09-05T07:00:19Z",
+            "slug": "Altcoin-Watchlist-Analyst-Shares-Whats-Hot-In-Crypto-This-Week",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "USDT",
+                    "title": "Tether",
+                    "slug": "tether",
+                    "url": "https:\/\/cryptopanic.com\/news\/tether\/"
+                },
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "MKR",
+                    "title": "Maker",
+                    "slug": "maker",
+                    "url": "https:\/\/cryptopanic.com\/news\/maker\/"
+                },
+                {
+                    "code": "KAVA",
+                    "title": "Kava",
+                    "slug": "kava",
+                    "url": "https:\/\/cryptopanic.com\/news\/kava\/"
+                },
+                {
+                    "code": "SUI",
+                    "title": "Sui",
+                    "slug": "sui",
+                    "url": "https:\/\/cryptopanic.com\/news\/sui\/"
+                }
+            ],
+            "id": 18879861,
+            "url": "https:\/\/cryptopanic.com\/news\/18879861\/Altcoin-Watchlist-Analyst-Shares-Whats-Hot-In-Crypto-This-Week",
+            "created_at": "2023-09-05T07:00:19Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "Kava Chain Now Live on Fireblocks, Opening Cosmos DeFi to Institutional Investors",
+            "published_at": "2023-09-04T02:35:21Z",
+            "slug": "Kava-Chain-Now-Live-on-Fireblocks-Opening-Cosmos-DeFi-to-Institutional-Investors",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "USDT",
+                    "title": "Tether",
+                    "slug": "tether",
+                    "url": "https:\/\/cryptopanic.com\/news\/tether\/"
+                },
+                {
+                    "code": "KAVA",
+                    "title": "Kava",
+                    "slug": "kava",
+                    "url": "https:\/\/cryptopanic.com\/news\/kava\/"
+                }
+            ],
+            "id": 18877408,
+            "url": "https:\/\/cryptopanic.com\/news\/18877408\/Kava-Chain-Now-Live-on-Fireblocks-Opening-Cosmos-DeFi-to-Institutional-Investors",
+            "created_at": "2023-09-04T02:35:21Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptointelligence.co.uk",
+            "source": {
+                "title": "cryptointelligence",
+                "region": "en",
+                "domain": "cryptointelligence.co.uk",
+                "path": null
+            },
+            "title": "Kava Chain Now Live on Fireblocks, Opening Cosmos DeFi to Institutional Investors",
+            "published_at": "2023-09-01T22:26:54Z",
+            "slug": "Kava-Chain-Now-Live-on-Fireblocks-Opening-Cosmos-DeFi-to-Institutional-Investors",
+            "currencies": [
+                {
+                    "code": "KAVA",
+                    "title": "Kava",
+                    "slug": "kava",
+                    "url": "https:\/\/cryptopanic.com\/news\/kava\/"
+                }
+            ],
+            "id": 18875157,
+            "url": "https:\/\/cryptopanic.com\/news\/18875157\/Kava-Chain-Now-Live-on-Fireblocks-Opening-Cosmos-DeFi-to-Institutional-Investors",
+            "created_at": "2023-09-01T22:26:54Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "dailyhodl.com",
+            "source": {
+                "title": "The Daily Hodl",
+                "region": "en",
+                "domain": "dailyhodl.com",
+                "path": null
+            },
+            "title": "Kava Chain Now Live on Fireblocks, Opening Cosmos DeFi to Institutional Investors",
+            "published_at": "2023-09-01T18:34:47Z",
+            "slug": "Kava-Chain-Now-Live-on-Fireblocks-Opening-Cosmos-DeFi-to-Institutional-Investors",
+            "currencies": [
+                {
+                    "code": "KAVA",
+                    "title": "Kava",
+                    "slug": "kava",
+                    "url": "https:\/\/cryptopanic.com\/news\/kava\/"
+                }
+            ],
+            "id": 18874861,
+            "url": "https:\/\/cryptopanic.com\/news\/18874861\/Kava-Chain-Now-Live-on-Fireblocks-Opening-Cosmos-DeFi-to-Institutional-Investors",
+            "created_at": "2023-09-01T18:34:47Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptodaily.co.uk",
+            "source": {
+                "title": "CryptoDaily",
+                "region": "en",
+                "domain": "cryptodaily.co.uk",
+                "path": null
+            },
+            "title": "Kava Chain Now Live on Fireblocks, Opening Cosmos DeFi to Institutional Investors",
+            "published_at": "2023-09-01T18:15:51Z",
+            "slug": "Kava-Chain-Now-Live-on-Fireblocks-Opening-Cosmos-DeFi-to-Institutional-Investors",
+            "currencies": [
+                {
+                    "code": "KAVA",
+                    "title": "Kava",
+                    "slug": "kava",
+                    "url": "https:\/\/cryptopanic.com\/news\/kava\/"
+                }
+            ],
+            "id": 18874828,
+            "url": "https:\/\/cryptopanic.com\/news\/18874828\/Kava-Chain-Now-Live-on-Fireblocks-Opening-Cosmos-DeFi-to-Institutional-Investors",
+            "created_at": "2023-09-01T18:15:51Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "Core Quickswap Members Launch 50x Leverage on Kava Chain",
+            "published_at": "2023-08-31T06:47:50Z",
+            "slug": "Core-Quickswap-Members-Launch-50x-Leverage-on-Kava-Chain",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "KAVA",
+                    "title": "Kava",
+                    "slug": "kava",
+                    "url": "https:\/\/cryptopanic.com\/news\/kava\/"
+                }
+            ],
+            "id": 18870681,
+            "url": "https:\/\/cryptopanic.com\/news\/18870681\/Core-Quickswap-Members-Launch-50x-Leverage-on-Kava-Chain",
+            "created_at": "2023-08-31T06:47:50Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "Core Quickswap members launch 50x leverage on Kava Chain",
+            "published_at": "2023-08-31T04:45:37Z",
+            "slug": "Core-Quickswap-members-launch-50x-leverage-on-Kava-Chain",
+            "currencies": [
+                {
+                    "code": "KAVA",
+                    "title": "Kava",
+                    "slug": "kava",
+                    "url": "https:\/\/cryptopanic.com\/news\/kava\/"
+                }
+            ],
+            "id": 18870489,
+            "url": "https:\/\/cryptopanic.com\/news\/18870489\/Core-Quickswap-members-launch-50x-leverage-on-Kava-Chain",
+            "created_at": "2023-08-31T04:45:37Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptoslate.com",
+            "source": {
+                "title": "CryptoSlate",
+                "region": "en",
+                "domain": "cryptoslate.com",
+                "path": null
+            },
+            "title": "Kinetix eyes GMX\u2019s path, aims to revolutionize Kava Chain with perpetual swaps",
+            "published_at": "2023-08-31T00:01:26Z",
+            "slug": "Kinetix-eyes-GMXs-path-aims-to-revolutionize-Kava-Chain-with-perpetual-swaps",
+            "currencies": [
+                {
+                    "code": "ARB",
+                    "title": "Arbitrum",
+                    "slug": "arbitrum",
+                    "url": "https:\/\/cryptopanic.com\/news\/arbitrum\/"
+                },
+                {
+                    "code": "KAVA",
+                    "title": "Kava",
+                    "slug": "kava",
+                    "url": "https:\/\/cryptopanic.com\/news\/kava\/"
+                }
+            ],
+            "id": 18870256,
+            "url": "https:\/\/cryptopanic.com\/news\/18870256\/Kinetix-eyes-GMXs-path-aims-to-revolutionize-Kava-Chain-with-perpetual-swaps",
+            "created_at": "2023-08-31T00:01:26Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptointelligence.co.uk",
+            "source": {
+                "title": "cryptointelligence",
+                "region": "en",
+                "domain": "cryptointelligence.co.uk",
+                "path": null
+            },
+            "title": "Core Quickswap Members Launch 50x Leverage on Kava Chain",
+            "published_at": "2023-08-30T16:22:31Z",
+            "slug": "Core-Quickswap-Members-Launch-50x-Leverage-on-Kava-Chain",
+            "currencies": [
+                {
+                    "code": "KAVA",
+                    "title": "Kava",
+                    "slug": "kava",
+                    "url": "https:\/\/cryptopanic.com\/news\/kava\/"
+                }
+            ],
+            "id": 18869566,
+            "url": "https:\/\/cryptopanic.com\/news\/18869566\/Core-Quickswap-Members-Launch-50x-Leverage-on-Kava-Chain",
+            "created_at": "2023-08-30T16:22:31Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptodaily.co.uk",
+            "source": {
+                "title": "CryptoDaily",
+                "region": "en",
+                "domain": "cryptodaily.co.uk",
+                "path": null
+            },
+            "title": "Core Quickswap Members Launch 50x Leverage on Kava Chain",
+            "published_at": "2023-08-30T15:48:51Z",
+            "slug": "Core-Quickswap-Members-Launch-50x-Leverage-on-Kava-Chain",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "KAVA",
+                    "title": "Kava",
+                    "slug": "kava",
+                    "url": "https:\/\/cryptopanic.com\/news\/kava\/"
+                }
+            ],
+            "id": 18869456,
+            "url": "https:\/\/cryptopanic.com\/news\/18869456\/Core-Quickswap-Members-Launch-50x-Leverage-on-Kava-Chain",
+            "created_at": "2023-08-30T15:48:51Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinjournal.net",
+            "source": {
+                "title": "CoinJournal",
+                "region": "en",
+                "domain": "coinjournal.net",
+                "path": null
+            },
+            "title": "Core Quickswap Members Launch 50x Leverage on Kava Chain",
+            "published_at": "2023-08-30T15:36:08Z",
+            "slug": "Core-Quickswap-Members-Launch-50x-Leverage-on-Kava-Chain",
+            "currencies": [
+                {
+                    "code": "KAVA",
+                    "title": "Kava",
+                    "slug": "kava",
+                    "url": "https:\/\/cryptopanic.com\/news\/kava\/"
+                }
+            ],
+            "id": 18869439,
+            "url": "https:\/\/cryptopanic.com\/news\/18869439\/Core-Quickswap-Members-Launch-50x-Leverage-on-Kava-Chain",
+            "created_at": "2023-08-30T15:36:08Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "bravenewcoin.com",
+            "source": {
+                "title": "Brave New Coin",
+                "region": "en",
+                "domain": "bravenewcoin.com",
+                "path": null
+            },
+            "title": "Core Quickswap Members Launch 50x Leverage on Kava Chain",
+            "published_at": "2023-08-30T12:00:00Z",
+            "slug": "Core-Quickswap-Members-Launch-50x-Leverage-on-Kava-Chain",
+            "currencies": [
+                {
+                    "code": "KAVA",
+                    "title": "Kava",
+                    "slug": "kava",
+                    "url": "https:\/\/cryptopanic.com\/news\/kava\/"
+                }
+            ],
+            "id": 18870362,
+            "url": "https:\/\/cryptopanic.com\/news\/18870362\/Core-Quickswap-Members-Launch-50x-Leverage-on-Kava-Chain",
+            "created_at": "2023-08-30T12:00:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "Stargate Deploys to Kava Chain Unifying Cosmos-Ethereum Liquidity",
+            "published_at": "2023-08-29T09:34:51Z",
+            "slug": "Stargate-Deploys-to-Kava-Chain-Unifying-Cosmos-Ethereum-Liquidity",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "USDT",
+                    "title": "Tether",
+                    "slug": "tether",
+                    "url": "https:\/\/cryptopanic.com\/news\/tether\/"
+                },
+                {
+                    "code": "KAVA",
+                    "title": "Kava",
+                    "slug": "kava",
+                    "url": "https:\/\/cryptopanic.com\/news\/kava\/"
+                }
+            ],
+            "id": 18865851,
+            "url": "https:\/\/cryptopanic.com\/news\/18865851\/Stargate-Deploys-to-Kava-Chain-Unifying-Cosmos-Ethereum-Liquidity",
+            "created_at": "2023-08-29T09:34:51Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptointelligence.co.uk",
+            "source": {
+                "title": "cryptointelligence",
+                "region": "en",
+                "domain": "cryptointelligence.co.uk",
+                "path": null
+            },
+            "title": "Stargate Deploys to Kava Chain Unifying Cosmos-Ethereum Liquidity",
+            "published_at": "2023-08-29T09:31:45Z",
+            "slug": "Stargate-Deploys-to-Kava-Chain-Unifying-Cosmos-Ethereum-Liquidity",
+            "currencies": [
+                {
+                    "code": "KAVA",
+                    "title": "Kava",
+                    "slug": "kava",
+                    "url": "https:\/\/cryptopanic.com\/news\/kava\/"
+                }
+            ],
+            "id": 18865741,
+            "url": "https:\/\/cryptopanic.com\/news\/18865741\/Stargate-Deploys-to-Kava-Chain-Unifying-Cosmos-Ethereum-Liquidity",
+            "created_at": "2023-08-29T09:31:45Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "dailyhodl.com",
+            "source": {
+                "title": "The Daily Hodl",
+                "region": "en",
+                "domain": "dailyhodl.com",
+                "path": null
+            },
+            "title": "Stargate Deploys to Kava Chain Unifying Cosmos-Ethereum Liquidity",
+            "published_at": "2023-08-28T19:27:56Z",
+            "slug": "Stargate-Deploys-to-Kava-Chain-Unifying-Cosmos-Ethereum-Liquidity",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "KAVA",
+                    "title": "Kava",
+                    "slug": "kava",
+                    "url": "https:\/\/cryptopanic.com\/news\/kava\/"
+                }
+            ],
+            "id": 18864705,
+            "url": "https:\/\/cryptopanic.com\/news\/18864705\/Stargate-Deploys-to-Kava-Chain-Unifying-Cosmos-Ethereum-Liquidity",
+            "created_at": "2023-08-28T19:27:56Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptodaily.co.uk",
+            "source": {
+                "title": "CryptoDaily",
+                "region": "en",
+                "domain": "cryptodaily.co.uk",
+                "path": null
+            },
+            "title": "Stargate Deploys to Kava Chain Unifying Cosmos-Ethereum Liquidity",
+            "published_at": "2023-08-28T19:01:27Z",
+            "slug": "Stargate-Deploys-to-Kava-Chain-Unifying-Cosmos-Ethereum-Liquidity",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "USDT",
+                    "title": "Tether",
+                    "slug": "tether",
+                    "url": "https:\/\/cryptopanic.com\/news\/tether\/"
+                },
+                {
+                    "code": "KAVA",
+                    "title": "Kava",
+                    "slug": "kava",
+                    "url": "https:\/\/cryptopanic.com\/news\/kava\/"
+                }
+            ],
+            "id": 18864672,
+            "url": "https:\/\/cryptopanic.com\/news\/18864672\/Stargate-Deploys-to-Kava-Chain-Unifying-Cosmos-Ethereum-Liquidity",
+            "created_at": "2023-08-28T19:01:27Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptodaily.co.uk",
+            "source": {
+                "title": "CryptoDaily",
+                "region": "en",
+                "domain": "cryptodaily.co.uk",
+                "path": null
+            },
+            "title": "Stargate Deploys to Kava Chain Unifying Cosmos-Ethereum Liquidity",
+            "published_at": "2023-08-28T19:01:27Z",
+            "slug": "Stargate-Deploys-to-Kava-Chain-Unifying-Cosmos-Ethereum-Liquidity",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "USDT",
+                    "title": "Tether",
+                    "slug": "tether",
+                    "url": "https:\/\/cryptopanic.com\/news\/tether\/"
+                },
+                {
+                    "code": "KAVA",
+                    "title": "Kava",
+                    "slug": "kava",
+                    "url": "https:\/\/cryptopanic.com\/news\/kava\/"
+                }
+            ],
+            "id": 18866258,
+            "url": "https:\/\/cryptopanic.com\/news\/18866258\/Stargate-Deploys-to-Kava-Chain-Unifying-Cosmos-Ethereum-Liquidity",
+            "created_at": "2023-08-28T19:01:27Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinjournal.net",
+            "source": {
+                "title": "CoinJournal",
+                "region": "en",
+                "domain": "coinjournal.net",
+                "path": null
+            },
+            "title": "Stargate Deploys to Kava Chain Unifying Cosmos-Ethereum Liquidity",
+            "published_at": "2023-08-28T18:50:20Z",
+            "slug": "Stargate-Deploys-to-Kava-Chain-Unifying-Cosmos-Ethereum-Liquidity",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "KAVA",
+                    "title": "Kava",
+                    "slug": "kava",
+                    "url": "https:\/\/cryptopanic.com\/news\/kava\/"
+                }
+            ],
+            "id": 18864651,
+            "url": "https:\/\/cryptopanic.com\/news\/18864651\/Stargate-Deploys-to-Kava-Chain-Unifying-Cosmos-Ethereum-Liquidity",
+            "created_at": "2023-08-28T18:50:20Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

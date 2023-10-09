@@ -1,0 +1,935 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=SOL&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "dailycoin.com",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 1,
+                "comments": 0
+            },
+            "source": {
+                "title": "Dailycoin",
+                "region": "en",
+                "domain": "dailycoin.com",
+                "path": null
+            },
+            "title": "Solana Dethrones DOGE, ADA, as SOL Price Nears Key Hurdle",
+            "published_at": "2023-10-03T12:05:00Z",
+            "slug": "Solana-Dethrones-DOGE-ADA-as-SOL-Price-Nears-Key-Hurdle",
+            "currencies": [
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "DOGE",
+                    "title": "Dogecoin",
+                    "slug": "dogecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/dogecoin\/"
+                }
+            ],
+            "id": 18944393,
+            "url": "https:\/\/cryptopanic.com\/news\/18944393\/Solana-Dethrones-DOGE-ADA-as-SOL-Price-Nears-Key-Hurdle",
+            "created_at": "2023-10-03T12:05:00Z"
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Crypto Watchlist For October: Altcoins To Keep On Your Radar",
+            "published_at": "2023-10-03T12:00:36Z",
+            "slug": "Crypto-Watchlist-For-October-Altcoins-To-Keep-On-Your-Radar",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "DAI",
+                    "title": "Dai",
+                    "slug": "dai",
+                    "url": "https:\/\/cryptopanic.com\/news\/dai\/"
+                },
+                {
+                    "code": "MKR",
+                    "title": "Maker",
+                    "slug": "maker",
+                    "url": "https:\/\/cryptopanic.com\/news\/maker\/"
+                },
+                {
+                    "code": "ARB",
+                    "title": "Arbitrum",
+                    "slug": "arbitrum",
+                    "url": "https:\/\/cryptopanic.com\/news\/arbitrum\/"
+                }
+            ],
+            "id": 18944397,
+            "url": "https:\/\/cryptopanic.com\/news\/18944397\/Crypto-Watchlist-For-October-Altcoins-To-Keep-On-Your-Radar",
+            "created_at": "2023-10-03T12:00:36Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptopotato.com",
+            "source": {
+                "title": "Feed - Cryptopotato.Com",
+                "region": "en",
+                "domain": "cryptopotato.com",
+                "path": null
+            },
+            "title": "SOL Exploded by 25% Weekly, Here are the Key Targets (Solana Price Analysis)",
+            "published_at": "2023-10-03T10:45:09Z",
+            "slug": "SOL-Exploded-by-25-Weekly-Here-are-the-Key-Targets-Solana-Price-Analysis",
+            "currencies": [
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                }
+            ],
+            "id": 18944195,
+            "url": "https:\/\/cryptopanic.com\/news\/18944195\/SOL-Exploded-by-25-Weekly-Here-are-the-Key-Targets-Solana-Price-Analysis",
+            "created_at": "2023-10-03T10:45:09Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "finbold.com",
+            "votes": {
+                "negative": 4,
+                "positive": 3,
+                "important": 2,
+                "liked": 4,
+                "disliked": 3,
+                "lol": 2,
+                "toxic": 0,
+                "saved": 3,
+                "comments": 0
+            },
+            "source": {
+                "title": "Finbold",
+                "region": "en",
+                "domain": "finbold.com",
+                "path": null
+            },
+            "title": "AI forecasts Solana price for the end of 2023",
+            "published_at": "2023-10-03T09:13:42Z",
+            "slug": "AI-forecasts-Solana-price-for-the-end-of-2023",
+            "currencies": [
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                }
+            ],
+            "id": 18943972,
+            "url": "https:\/\/cryptopanic.com\/news\/18943972\/AI-forecasts-Solana-price-for-the-end-of-2023",
+            "created_at": "2023-10-03T09:13:42Z"
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "votes": {
+                "negative": 0,
+                "positive": 2,
+                "important": 0,
+                "liked": 3,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 1,
+                "comments": 0
+            },
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Solana Outperforms 2 Top Altcoins \u2013 Its Ripple Effect On Prices",
+            "published_at": "2023-10-03T09:09:24Z",
+            "slug": "Solana-Outperforms-2-Top-Altcoins-Its-Ripple-Effect-On-Prices",
+            "currencies": [
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "ADA",
+                    "title": "Cardano",
+                    "slug": "cardano",
+                    "url": "https:\/\/cryptopanic.com\/news\/cardano\/"
+                },
+                {
+                    "code": "DOGE",
+                    "title": "Dogecoin",
+                    "slug": "dogecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/dogecoin\/"
+                },
+                {
+                    "code": "OP",
+                    "title": "Optimism",
+                    "slug": "optimism",
+                    "url": "https:\/\/cryptopanic.com\/news\/optimism\/"
+                }
+            ],
+            "id": 18943946,
+            "url": "https:\/\/cryptopanic.com\/news\/18943946\/Solana-Outperforms-2-Top-Altcoins-Its-Ripple-Effect-On-Prices",
+            "created_at": "2023-10-03T09:09:24Z"
+        },
+        {
+            "kind": "news",
+            "domain": "coinedition.com",
+            "source": {
+                "title": "coinedition",
+                "region": "en",
+                "domain": "coinedition.com",
+                "path": null
+            },
+            "title": "Crypto Prices Today: BTC, SOL, CRV, PEPE All Record 24H Losses",
+            "published_at": "2023-10-03T08:55:00Z",
+            "slug": "Crypto-Prices-Today-BTC-SOL-CRV-PEPE-All-Record-24H-Losses",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "CRV",
+                    "title": "Curve DAO",
+                    "slug": "curve-dao-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/curve-dao-token\/"
+                }
+            ],
+            "id": 18943948,
+            "url": "https:\/\/cryptopanic.com\/news\/18943948\/Crypto-Prices-Today-BTC-SOL-CRV-PEPE-All-Record-24H-Losses",
+            "created_at": "2023-10-03T08:55:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coingabbar.com",
+            "source": {
+                "title": "coingabbar",
+                "region": "en",
+                "domain": "coingabbar.com",
+                "path": null
+            },
+            "title": "Crypto Daily Roundup, 03 Oct: Could October's Bull Run Boost Crypto?",
+            "published_at": "2023-10-03T08:30:00Z",
+            "slug": "Crypto-Daily-Roundup-03-Oct-Could-Octobers-Bull-Run-Boost-Crypto",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "AVAX",
+                    "title": "Avalanche",
+                    "slug": "avalanche-2",
+                    "url": "https:\/\/cryptopanic.com\/news\/avalanche-2\/"
+                },
+                {
+                    "code": "ATOM",
+                    "title": "Cosmos Hub",
+                    "slug": "cosmos",
+                    "url": "https:\/\/cryptopanic.com\/news\/cosmos\/"
+                },
+                {
+                    "code": "APT",
+                    "title": "Aptos",
+                    "slug": "aptos",
+                    "url": "https:\/\/cryptopanic.com\/news\/aptos\/"
+                },
+                {
+                    "code": "OP",
+                    "title": "Optimism",
+                    "slug": "optimism",
+                    "url": "https:\/\/cryptopanic.com\/news\/optimism\/"
+                },
+                {
+                    "code": "IMX",
+                    "title": "ImmutableX",
+                    "slug": "immutable-x",
+                    "url": "https:\/\/cryptopanic.com\/news\/immutable-x\/"
+                },
+                {
+                    "code": "AXS",
+                    "title": "Axie Infinity",
+                    "slug": "axie-infinity",
+                    "url": "https:\/\/cryptopanic.com\/news\/axie-infinity\/"
+                },
+                {
+                    "code": "APE",
+                    "title": "ApeCoin",
+                    "slug": "apecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/apecoin\/"
+                },
+                {
+                    "code": "SUI",
+                    "title": "Sui",
+                    "slug": "sui",
+                    "url": "https:\/\/cryptopanic.com\/news\/sui\/"
+                }
+            ],
+            "id": 18943929,
+            "url": "https:\/\/cryptopanic.com\/news\/18943929\/Crypto-Daily-Roundup-03-Oct-Could-Octobers-Bull-Run-Boost-Crypto",
+            "created_at": "2023-10-03T08:30:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coingape.com",
+            "source": {
+                "title": "CoinGape",
+                "region": "en",
+                "domain": "coingape.com",
+                "path": null
+            },
+            "title": "Solana Co-Founder Lashes Out At Ethereum In War of Words",
+            "published_at": "2023-10-03T04:59:02Z",
+            "slug": "Solana-Co-Founder-Lashes-Out-At-Ethereum-In-War-of-Words",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                }
+            ],
+            "id": 18943553,
+            "url": "https:\/\/cryptopanic.com\/news\/18943553\/Solana-Co-Founder-Lashes-Out-At-Ethereum-In-War-of-Words",
+            "created_at": "2023-10-03T04:59:02Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "thedefiant.io",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "DeFi News",
+                "region": "en",
+                "domain": "thedefiant.io",
+                "path": null
+            },
+            "title": "Millions Of Compressed NFTs Are Being Minted Weekly On Solana",
+            "published_at": "2023-10-03T02:52:03Z",
+            "slug": "Millions-Of-Compressed-NFTs-Are-Being-Minted-Weekly-On-Solana",
+            "currencies": [
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                }
+            ],
+            "id": 18943449,
+            "url": "https:\/\/cryptopanic.com\/news\/18943449\/Millions-Of-Compressed-NFTs-Are-Being-Minted-Weekly-On-Solana",
+            "created_at": "2023-10-03T02:52:03Z"
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 1,
+                "comments": 0
+            },
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "Solana flips Cardano and Dogecoin: What\u2019s next?",
+            "published_at": "2023-10-03T01:30:46Z",
+            "slug": "Solana-flips-Cardano-and-Dogecoin-Whats-next",
+            "currencies": [
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "ADA",
+                    "title": "Cardano",
+                    "slug": "cardano",
+                    "url": "https:\/\/cryptopanic.com\/news\/cardano\/"
+                }
+            ],
+            "id": 18943401,
+            "url": "https:\/\/cryptopanic.com\/news\/18943401\/Solana-flips-Cardano-and-Dogecoin-Whats-next",
+            "created_at": "2023-10-03T01:30:46Z"
+        },
+        {
+            "kind": "news",
+            "domain": "coingabbar.com",
+            "source": {
+                "title": "coingabbar",
+                "region": "en",
+                "domain": "coingabbar.com",
+                "path": null
+            },
+            "title": "24 Crypto Update, 02 Oct: Crypto Market Plunges as Bears Take Control",
+            "published_at": "2023-10-03T01:30:00Z",
+            "slug": "24-Crypto-Update-02-Oct-Crypto-Market-Plunges-as-Bears-Take-Control",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "LTC",
+                    "title": "Litecoin",
+                    "slug": "litecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/litecoin\/"
+                },
+                {
+                    "code": "BSV",
+                    "title": "Bitcoin SV",
+                    "slug": "bitcoin-cash-sv",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin-cash-sv\/"
+                }
+            ],
+            "id": 18943697,
+            "url": "https:\/\/cryptopanic.com\/news\/18943697\/24-Crypto-Update-02-Oct-Crypto-Market-Plunges-as-Bears-Take-Control",
+            "created_at": "2023-10-03T01:30:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "decrypt.co",
+            "votes": {
+                "negative": 2,
+                "positive": 3,
+                "important": 1,
+                "liked": 3,
+                "disliked": 2,
+                "lol": 1,
+                "toxic": 0,
+                "saved": 2,
+                "comments": 5
+            },
+            "source": {
+                "title": "Decrypt",
+                "region": "en",
+                "domain": "decrypt.co",
+                "path": null
+            },
+            "title": "Solana Extends Investment Streak to 27 Weeks of Inflows: CoinShares",
+            "published_at": "2023-10-03T01:10:34Z",
+            "slug": "Solana-Extends-Investment-Streak-to-27-Weeks-of-Inflows-CoinShares",
+            "currencies": [
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                }
+            ],
+            "id": 18943390,
+            "url": "https:\/\/cryptopanic.com\/news\/18943390\/Solana-Extends-Investment-Streak-to-27-Weeks-of-Inflows-CoinShares",
+            "created_at": "2023-10-03T01:10:34Z"
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Crypto Fund Flows: Bitcoin Leads As Solana Follows, But Why\u2019s Ethereum Left Behind?",
+            "published_at": "2023-10-03T00:00:57Z",
+            "slug": "Crypto-Fund-Flows-Bitcoin-Leads-As-Solana-Follows-But-Whys-Ethereum-Left-Behind",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                },
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                }
+            ],
+            "id": 18943335,
+            "url": "https:\/\/cryptopanic.com\/news\/18943335\/Crypto-Fund-Flows-Bitcoin-Leads-As-Solana-Follows-But-Whys-Ethereum-Left-Behind",
+            "created_at": "2023-10-03T00:00:57Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "dailyhodl.com",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 1,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "The Daily Hodl",
+                "region": "en",
+                "domain": "dailyhodl.com",
+                "path": null
+            },
+            "title": "Crypto Trader Outlines Massive Price Target for Solana, Says SOL in Midst of Generational Opportunity for Bulls",
+            "published_at": "2023-10-03T00:00:40Z",
+            "slug": "Crypto-Trader-Outlines-Massive-Price-Target-for-Solana-Says-SOL-in-Midst-of-Generational-Opportunity-for-Bulls",
+            "currencies": [
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                }
+            ],
+            "id": 18943336,
+            "url": "https:\/\/cryptopanic.com\/news\/18943336\/Crypto-Trader-Outlines-Massive-Price-Target-for-Solana-Says-SOL-in-Midst-of-Generational-Opportunity-for-Bulls",
+            "created_at": "2023-10-03T00:00:40Z"
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "Solana reverses some Q3 losses: Will it go all the way?",
+            "published_at": "2023-10-02T20:30:00Z",
+            "slug": "Solana-reverses-some-Q3-losses-Will-it-go-all-the-way",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                }
+            ],
+            "id": 18943074,
+            "url": "https:\/\/cryptopanic.com\/news\/18943074\/Solana-reverses-some-Q3-losses-Will-it-go-all-the-way",
+            "created_at": "2023-10-02T20:30:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "bitcoinist.com",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 1,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 2,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 1
+            },
+            "source": {
+                "title": "Bitcoinist",
+                "region": "en",
+                "domain": "bitcoinist.com",
+                "path": null
+            },
+            "title": "Ethereum News: Solana Co-Founder Accuses ETH Of \u2018Bourgeois Digital Tyranny\u2019",
+            "published_at": "2023-10-02T20:00:35Z",
+            "slug": "Ethereum-News-Solana-Co-Founder-Accuses-ETH-Of-Bourgeois-Digital-Tyranny",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                }
+            ],
+            "id": 18943039,
+            "url": "https:\/\/cryptopanic.com\/news\/18943039\/Ethereum-News-Solana-Co-Founder-Accuses-ETH-Of-Bourgeois-Digital-Tyranny",
+            "created_at": "2023-10-02T20:00:35Z"
+        },
+        {
+            "kind": "news",
+            "domain": "coingape.com",
+            "source": {
+                "title": "CoinGape",
+                "region": "en",
+                "domain": "coingape.com",
+                "path": null
+            },
+            "title": "Solana Price Leads Altcoin Rally As Ethereum Futures ETFs Debut In The US \u2013 Time To Buy SOL?",
+            "published_at": "2023-10-02T16:58:20Z",
+            "slug": "Solana-Price-Leads-Altcoin-Rally-As-Ethereum-Futures-ETFs-Debut-In-The-US-Time-To-Buy-SOL",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                }
+            ],
+            "id": 18942676,
+            "url": "https:\/\/cryptopanic.com\/news\/18942676\/Solana-Price-Leads-Altcoin-Rally-As-Ethereum-Futures-ETFs-Debut-In-The-US-Time-To-Buy-SOL",
+            "created_at": "2023-10-02T16:58:20Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "tokenist.com",
+            "source": {
+                "title": "tokenist",
+                "region": "en",
+                "domain": "tokenist.com",
+                "path": null
+            },
+            "title": "Crypto Stocks Gain as Bitcoin Breaches $28,000",
+            "published_at": "2023-10-02T16:30:06Z",
+            "slug": "Crypto-Stocks-Gain-as-Bitcoin-Breaches-28000",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                }
+            ],
+            "id": 18942668,
+            "url": "https:\/\/cryptopanic.com\/news\/18942668\/Crypto-Stocks-Gain-as-Bitcoin-Breaches-28000",
+            "created_at": "2023-10-02T16:30:06Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinedition.com",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 1,
+                "comments": 0
+            },
+            "source": {
+                "title": "coinedition",
+                "region": "en",
+                "domain": "coinedition.com",
+                "path": null
+            },
+            "title": "Tokens with Big Chains May Increase by 10X If Market Cycle is Validated",
+            "published_at": "2023-10-02T16:25:00Z",
+            "slug": "Tokens-with-Big-Chains-May-Increase-by-10X-If-Market-Cycle-is-Validated",
+            "currencies": [
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "DOT",
+                    "title": "Polkadot",
+                    "slug": "polkadot",
+                    "url": "https:\/\/cryptopanic.com\/news\/polkadot\/"
+                },
+                {
+                    "code": "AVAX",
+                    "title": "Avalanche",
+                    "slug": "avalanche-2",
+                    "url": "https:\/\/cryptopanic.com\/news\/avalanche-2\/"
+                },
+                {
+                    "code": "ARB",
+                    "title": "Arbitrum",
+                    "slug": "arbitrum",
+                    "url": "https:\/\/cryptopanic.com\/news\/arbitrum\/"
+                }
+            ],
+            "id": 18942612,
+            "url": "https:\/\/cryptopanic.com\/news\/18942612\/Tokens-with-Big-Chains-May-Increase-by-10X-If-Market-Cycle-is-Validated",
+            "created_at": "2023-10-02T16:25:00Z"
+        },
+        {
+            "kind": "news",
+            "domain": "en.bitcoinsistemi.com",
+            "source": {
+                "title": "en bitcoinsistemi",
+                "region": "en",
+                "domain": "en.bitcoinsistemi.com",
+                "path": null
+            },
+            "title": "This Altcoin Followed the Rise in Bitcoin the Most! Is Trust in the Network Increasing?",
+            "published_at": "2023-10-02T15:52:05Z",
+            "slug": "This-Altcoin-Followed-the-Rise-in-Bitcoin-the-Most-Is-Trust-in-the-Network-Increasing",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                }
+            ],
+            "id": 18942534,
+            "url": "https:\/\/cryptopanic.com\/news\/18942534\/This-Altcoin-Followed-the-Rise-in-Bitcoin-the-Most-Is-Trust-in-the-Network-Increasing",
+            "created_at": "2023-10-02T15:52:05Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

@@ -1,0 +1,827 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=JST&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "@DeFi_JUST",
+            "source": {
+                "title": "JUST Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@defi_just"
+            },
+            "title": "#JustLendDAO is now offering supply APY over 15% for $JST\n\n",
+            "published_at": "2023-07-11T08:40:51Z",
+            "slug": "JustLendDAO-is-now-offering-supply-APY-over-15-for-JST",
+            "currencies": [
+                {
+                    "code": "JST",
+                    "title": "JUST",
+                    "slug": "just",
+                    "url": "https:\/\/cryptopanic.com\/news\/just\/"
+                },
+                {
+                    "code": "STRX",
+                    "title": "Staked TRX",
+                    "slug": "staked-trx",
+                    "url": "https:\/\/cryptopanic.com\/news\/staked-trx\/"
+                }
+            ],
+            "id": 18765056,
+            "url": "https:\/\/cryptopanic.com\/news\/18765056\/JustLendDAO-is-now-offering-supply-APY-over-15-for-JST",
+            "created_at": "2023-07-11T08:40:51Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@DeFi_JUST",
+            "source": {
+                "title": "JUST Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@defi_just"
+            },
+            "title": "Take a glance at the #JustLendDAO weekly top APY ranking\n\n\ud83e\udd47 $BTT supply APY over 19%\n\ud83e\udd48 $JST supply APY over 15%\n\ud83e\udd49\u2026",
+            "published_at": "2023-07-11T07:18:55Z",
+            "slug": "Take-a-glance-at-the-JustLendDAO-weekly-top-APY-ranking-BTT-supply-APY-over-19-JST-supply-APY-over-15",
+            "currencies": [
+                {
+                    "code": "JST",
+                    "title": "JUST",
+                    "slug": "just",
+                    "url": "https:\/\/cryptopanic.com\/news\/just\/"
+                },
+                {
+                    "code": "STRX",
+                    "title": "Staked TRX",
+                    "slug": "staked-trx",
+                    "url": "https:\/\/cryptopanic.com\/news\/staked-trx\/"
+                }
+            ],
+            "id": 18756880,
+            "url": "https:\/\/cryptopanic.com\/news\/18756880\/Take-a-glance-at-the-JustLendDAO-weekly-top-APY-ranking-BTT-supply-APY-over-19-JST-supply-APY-over-15",
+            "created_at": "2023-07-11T07:18:55Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@DeFi_JUST",
+            "source": {
+                "title": "JUST Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@defi_just"
+            },
+            "title": "Cast your vote for adding ETH (new) Market and offboarding ETHOLD Market on #JustLendDAO\n\n\u23f0Don\u2019t miss out, voting\u2026",
+            "published_at": "2023-07-10T11:50:33Z",
+            "slug": "Cast-your-vote-for-adding-ETH-new-Market-and-offboarding-ETHOLD-Market-on-JustLendDAO-Dont-miss-out-voting",
+            "currencies": [
+                {
+                    "code": "JST",
+                    "title": "JUST",
+                    "slug": "just",
+                    "url": "https:\/\/cryptopanic.com\/news\/just\/"
+                },
+                {
+                    "code": "STRX",
+                    "title": "Staked TRX",
+                    "slug": "staked-trx",
+                    "url": "https:\/\/cryptopanic.com\/news\/staked-trx\/"
+                }
+            ],
+            "id": 18756881,
+            "url": "https:\/\/cryptopanic.com\/news\/18756881\/Cast-your-vote-for-adding-ETH-new-Market-and-offboarding-ETHOLD-Market-on-JustLendDAO-Dont-miss-out-voting",
+            "created_at": "2023-07-10T11:50:33Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@DeFi_JUST",
+            "source": {
+                "title": "JUST Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@defi_just"
+            },
+            "title": "RT @CML_Crypto: TOP10 Most Voted #Defi Ranking Projects - Week 27 \n\n\ud83e\udd47 $GTR @GhostTraderETH\n\ud83e\udd48 $DFI @defichain\n\ud83e\udd49 $TTT #TheTransferToken\n4\ufe0f\u20e3\u2026",
+            "published_at": "2023-07-10T11:32:41Z",
+            "slug": "RT-CML_Crypto-TOP10-Most-Voted-Defi-Ranking-Projects-Week-27-GTR-GhostTraderETH-DFI-defichain-TTT-TheTransferToken-4",
+            "currencies": [
+                {
+                    "code": "JST",
+                    "title": "JUST",
+                    "slug": "just",
+                    "url": "https:\/\/cryptopanic.com\/news\/just\/"
+                },
+                {
+                    "code": "STRX",
+                    "title": "Staked TRX",
+                    "slug": "staked-trx",
+                    "url": "https:\/\/cryptopanic.com\/news\/staked-trx\/"
+                }
+            ],
+            "id": 18756882,
+            "url": "https:\/\/cryptopanic.com\/news\/18756882\/RT-CML_Crypto-TOP10-Most-Voted-Defi-Ranking-Projects-Week-27-GTR-GhostTraderETH-DFI-defichain-TTT-TheTransferToken-4",
+            "created_at": "2023-07-10T11:32:41Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@DeFi_JUST",
+            "source": {
+                "title": "JUST Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@defi_just"
+            },
+            "title": "#JustlendDAO in the last 24 Hours\n\nUAW         133         +19.82%\nTransactions 265\u2026",
+            "published_at": "2023-07-10T07:56:38Z",
+            "slug": "JustlendDAO-in-the-last-24-Hours-UAW-133-1982-Transactions-265",
+            "currencies": [
+                {
+                    "code": "JST",
+                    "title": "JUST",
+                    "slug": "just",
+                    "url": "https:\/\/cryptopanic.com\/news\/just\/"
+                },
+                {
+                    "code": "STRX",
+                    "title": "Staked TRX",
+                    "slug": "staked-trx",
+                    "url": "https:\/\/cryptopanic.com\/news\/staked-trx\/"
+                }
+            ],
+            "id": 18756883,
+            "url": "https:\/\/cryptopanic.com\/news\/18756883\/JustlendDAO-in-the-last-24-Hours-UAW-133-1982-Transactions-265",
+            "created_at": "2023-07-10T07:56:38Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@DeFi_JUST",
+            "source": {
+                "title": "JUST Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@defi_just"
+            },
+            "title": "Overview of the Current Market on #JustLendDAO\n\nSupply Market\n\ud83e\udd47#BTC  $3.07 Billion\n\ud83e\udd48#USDT $298.75 Million\n\ud83e\udd49#USDD\u2026",
+            "published_at": "2023-07-10T07:46:55Z",
+            "slug": "Overview-of-the-Current-Market-on-JustLendDAO-Supply-Market-BTC-307-Billion-USDT-29875-Million-USDD",
+            "currencies": [
+                {
+                    "code": "JST",
+                    "title": "JUST",
+                    "slug": "just",
+                    "url": "https:\/\/cryptopanic.com\/news\/just\/"
+                },
+                {
+                    "code": "STRX",
+                    "title": "Staked TRX",
+                    "slug": "staked-trx",
+                    "url": "https:\/\/cryptopanic.com\/news\/staked-trx\/"
+                }
+            ],
+            "id": 18750106,
+            "url": "https:\/\/cryptopanic.com\/news\/18750106\/Overview-of-the-Current-Market-on-JustLendDAO-Supply-Market-BTC-307-Billion-USDT-29875-Million-USDD",
+            "created_at": "2023-07-10T07:46:55Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@DeFi_JUST",
+            "source": {
+                "title": "JUST Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@defi_just"
+            },
+            "title": "(1\/2)Excited to announce that #JustLendDAO Supply Mining Phase 28th will be launched today\n\nJuly 7th, 21:00:00 -\u2026",
+            "published_at": "2023-07-07T09:55:25Z",
+            "slug": "12Excited-to-announce-that-JustLendDAO-Supply-Mining-Phase-28th-will-be-launched-today-July-7th-210000-",
+            "currencies": [
+                {
+                    "code": "JST",
+                    "title": "JUST",
+                    "slug": "just",
+                    "url": "https:\/\/cryptopanic.com\/news\/just\/"
+                },
+                {
+                    "code": "STRX",
+                    "title": "Staked TRX",
+                    "slug": "staked-trx",
+                    "url": "https:\/\/cryptopanic.com\/news\/staked-trx\/"
+                }
+            ],
+            "id": 18740765,
+            "url": "https:\/\/cryptopanic.com\/news\/18740765\/12Excited-to-announce-that-JustLendDAO-Supply-Mining-Phase-28th-will-be-launched-today-July-7th-210000-",
+            "created_at": "2023-07-07T09:55:25Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@DeFi_JUST",
+            "source": {
+                "title": "JUST Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@defi_just"
+            },
+            "title": "\u200dTake a look at the current data of #JustStable\n\n#USDJ Total Supply over 273.29 Million\n#TRX Total Collateraliz\u2026",
+            "published_at": "2023-07-07T07:27:16Z",
+            "slug": "Take-a-look-at-the-current-data-of-JustStable-USDJ-Total-Supply-over-27329-Million-TRX-Total-Collateraliz",
+            "currencies": [
+                {
+                    "code": "JST",
+                    "title": "JUST",
+                    "slug": "just",
+                    "url": "https:\/\/cryptopanic.com\/news\/just\/"
+                },
+                {
+                    "code": "STRX",
+                    "title": "Staked TRX",
+                    "slug": "staked-trx",
+                    "url": "https:\/\/cryptopanic.com\/news\/staked-trx\/"
+                }
+            ],
+            "id": 18733177,
+            "url": "https:\/\/cryptopanic.com\/news\/18733177\/Take-a-look-at-the-current-data-of-JustStable-USDJ-Total-Supply-over-27329-Million-TRX-Total-Collateraliz",
+            "created_at": "2023-07-07T07:27:16Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@DeFi_JUST",
+            "source": {
+                "title": "JUST Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@defi_just"
+            },
+            "title": "\ufe0f\ud835\udde0\ud835\uddee\ud835\uddff\ud835\uddf8\ud835\uddf2\ud835\ude01 \ud835\udde6\ud835\uddf6\ud835\ude07\ud835\uddf2 \ud835\uddd5\ud835\uddff\ud835\uddfc\ud835\uddee\ud835\uddf1\ud835\uddf0\ud835\uddee\ud835\ude00\ud835\ude01\n\n#JustLendDAO market size now breaking 4.0 billion!\n\nTotal Supply over $3.8 billion\nTota\u2026",
+            "published_at": "2023-07-06T07:26:38Z",
+            "slug": "Market-Size-Broadcast-JustLendDAO-market-size-now-breaking-40-billion-Total-Supply-over-38-billion-Tota",
+            "currencies": [
+                {
+                    "code": "JST",
+                    "title": "JUST",
+                    "slug": "just",
+                    "url": "https:\/\/cryptopanic.com\/news\/just\/"
+                },
+                {
+                    "code": "STRX",
+                    "title": "Staked TRX",
+                    "slug": "staked-trx",
+                    "url": "https:\/\/cryptopanic.com\/news\/staked-trx\/"
+                }
+            ],
+            "id": 18724721,
+            "url": "https:\/\/cryptopanic.com\/news\/18724721\/Market-Size-Broadcast-JustLendDAO-market-size-now-breaking-40-billion-Total-Supply-over-38-billion-Tota",
+            "created_at": "2023-07-06T07:26:38Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@DeFi_JUST",
+            "source": {
+                "title": "JUST Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@defi_just"
+            },
+            "title": "RT @rodeo_crypto: The Most Socially Mentioned #DeFi Projects\n\n\ud83e\udd47@CruizeFinance|973 Mentions\n\ud83e\udd48@DEXToolsApp|787 Mentions\n\ud83e\udd49@Orion_protocol|188\u2026",
+            "published_at": "2023-07-05T10:11:48Z",
+            "slug": "RT-rodeo_crypto-The-Most-Socially-Mentioned-DeFi-Projects-CruizeFinance973-Mentions-DEXToolsApp787-Mentions-Orion_protocol188",
+            "currencies": [
+                {
+                    "code": "JST",
+                    "title": "JUST",
+                    "slug": "just",
+                    "url": "https:\/\/cryptopanic.com\/news\/just\/"
+                },
+                {
+                    "code": "STRX",
+                    "title": "Staked TRX",
+                    "slug": "staked-trx",
+                    "url": "https:\/\/cryptopanic.com\/news\/staked-trx\/"
+                }
+            ],
+            "id": 18724722,
+            "url": "https:\/\/cryptopanic.com\/news\/18724722\/RT-rodeo_crypto-The-Most-Socially-Mentioned-DeFi-Projects-CruizeFinance973-Mentions-DEXToolsApp787-Mentions-Orion_protocol188",
+            "created_at": "2023-07-05T10:11:48Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@DeFi_JUST",
+            "source": {
+                "title": "JUST Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@defi_just"
+            },
+            "title": "Announcement on the Strategic Partnership between JustLend DAO and RWA DAO\n\nThe partnership with RWA DAO will pro\u2026",
+            "published_at": "2023-07-04T08:21:20Z",
+            "slug": "Announcement-on-the-Strategic-Partnership-between-JustLend-DAO-and-RWA-DAO-The-partnership-with-RWA-DAO-will-pro",
+            "currencies": [
+                {
+                    "code": "JST",
+                    "title": "JUST",
+                    "slug": "just",
+                    "url": "https:\/\/cryptopanic.com\/news\/just\/"
+                },
+                {
+                    "code": "STRX",
+                    "title": "Staked TRX",
+                    "slug": "staked-trx",
+                    "url": "https:\/\/cryptopanic.com\/news\/staked-trx\/"
+                }
+            ],
+            "id": 18716894,
+            "url": "https:\/\/cryptopanic.com\/news\/18716894\/Announcement-on-the-Strategic-Partnership-between-JustLend-DAO-and-RWA-DAO-The-partnership-with-RWA-DAO-will-pro",
+            "created_at": "2023-07-04T08:21:20Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@DeFi_JUST",
+            "source": {
+                "title": "JUST Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@defi_just"
+            },
+            "title": "#JustLendDAO is now offering supply APY over 15% for $JST\n\n",
+            "published_at": "2023-07-04T07:58:42Z",
+            "slug": "JustLendDAO-is-now-offering-supply-APY-over-15-for-JST",
+            "currencies": [
+                {
+                    "code": "JST",
+                    "title": "JUST",
+                    "slug": "just",
+                    "url": "https:\/\/cryptopanic.com\/news\/just\/"
+                },
+                {
+                    "code": "STRX",
+                    "title": "Staked TRX",
+                    "slug": "staked-trx",
+                    "url": "https:\/\/cryptopanic.com\/news\/staked-trx\/"
+                }
+            ],
+            "id": 18716895,
+            "url": "https:\/\/cryptopanic.com\/news\/18716895\/JustLendDAO-is-now-offering-supply-APY-over-15-for-JST",
+            "created_at": "2023-07-04T07:58:42Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@DeFi_JUST",
+            "source": {
+                "title": "JUST Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@defi_just"
+            },
+            "title": "As the first Real World Asset (RWA) product, @stusdt is operated by #JustLendDAO under the custody agreement betw\u2026",
+            "published_at": "2023-07-04T07:09:44Z",
+            "slug": "As-the-first-Real-World-Asset-RWA-product-stusdt-is-operated-by-JustLendDAO-under-the-custody-agreement-betw",
+            "currencies": [
+                {
+                    "code": "JST",
+                    "title": "JUST",
+                    "slug": "just",
+                    "url": "https:\/\/cryptopanic.com\/news\/just\/"
+                },
+                {
+                    "code": "STRX",
+                    "title": "Staked TRX",
+                    "slug": "staked-trx",
+                    "url": "https:\/\/cryptopanic.com\/news\/staked-trx\/"
+                }
+            ],
+            "id": 18709702,
+            "url": "https:\/\/cryptopanic.com\/news\/18709702\/As-the-first-Real-World-Asset-RWA-product-stusdt-is-operated-by-JustLendDAO-under-the-custody-agreement-betw",
+            "created_at": "2023-07-04T07:09:44Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@DeFi_JUST",
+            "source": {
+                "title": "JUST Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@defi_just"
+            },
+            "title": "Take a glance at the #JustLendDAO weekly top APY ranking\n\n\ud83e\udd47 $BTT supply APY over 20%\n\ud83e\udd48 $JST supply APY over 15%\n\ud83e\udd49\u2026",
+            "published_at": "2023-07-04T06:48:25Z",
+            "slug": "Take-a-glance-at-the-JustLendDAO-weekly-top-APY-ranking-BTT-supply-APY-over-20-JST-supply-APY-over-15",
+            "currencies": [
+                {
+                    "code": "JST",
+                    "title": "JUST",
+                    "slug": "just",
+                    "url": "https:\/\/cryptopanic.com\/news\/just\/"
+                },
+                {
+                    "code": "STRX",
+                    "title": "Staked TRX",
+                    "slug": "staked-trx",
+                    "url": "https:\/\/cryptopanic.com\/news\/staked-trx\/"
+                }
+            ],
+            "id": 18709703,
+            "url": "https:\/\/cryptopanic.com\/news\/18709703\/Take-a-glance-at-the-JustLendDAO-weekly-top-APY-ranking-BTT-supply-APY-over-20-JST-supply-APY-over-15",
+            "created_at": "2023-07-04T06:48:25Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@DeFi_JUST",
+            "source": {
+                "title": "JUST Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@defi_just"
+            },
+            "title": "RT @CML_Crypto: TOP10 Most Voted #Tron Ranking Projects - Week 26 \n\n\ud83e\udd47 $ICR @IntercroneWorld\n\ud83e\udd48 $NOLE @NoleCoinNOLE\n\ud83e\udd49 $JM @JustMoneyIO\n4\ufe0f\u20e3 $\u2026",
+            "published_at": "2023-07-04T03:49:24Z",
+            "slug": "RT-CML_Crypto-TOP10-Most-Voted-Tron-Ranking-Projects-Week-26-ICR-IntercroneWorld-NOLE-NoleCoinNOLE-JM-JustMoneyIO-4",
+            "currencies": [
+                {
+                    "code": "JST",
+                    "title": "JUST",
+                    "slug": "just",
+                    "url": "https:\/\/cryptopanic.com\/news\/just\/"
+                },
+                {
+                    "code": "STRX",
+                    "title": "Staked TRX",
+                    "slug": "staked-trx",
+                    "url": "https:\/\/cryptopanic.com\/news\/staked-trx\/"
+                }
+            ],
+            "id": 18709704,
+            "url": "https:\/\/cryptopanic.com\/news\/18709704\/RT-CML_Crypto-TOP10-Most-Voted-Tron-Ranking-Projects-Week-26-ICR-IntercroneWorld-NOLE-NoleCoinNOLE-JM-JustMoneyIO-4",
+            "created_at": "2023-07-04T03:49:24Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@DeFi_JUST",
+            "source": {
+                "title": "JUST Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@defi_just"
+            },
+            "title": "Overview of the Current Market on #JustLendDAO\n\nSupply Market\n\ud83e\udd47#BTC  $3.12 Billion\n\ud83e\udd48#USDT $300.94 Million\n\ud83e\udd49#USDD\u2026",
+            "published_at": "2023-07-03T05:58:08Z",
+            "slug": "Overview-of-the-Current-Market-on-JustLendDAO-Supply-Market-BTC-312-Billion-USDT-30094-Million-USDD",
+            "currencies": [
+                {
+                    "code": "JST",
+                    "title": "JUST",
+                    "slug": "just",
+                    "url": "https:\/\/cryptopanic.com\/news\/just\/"
+                },
+                {
+                    "code": "STRX",
+                    "title": "Staked TRX",
+                    "slug": "staked-trx",
+                    "url": "https:\/\/cryptopanic.com\/news\/staked-trx\/"
+                }
+            ],
+            "id": 18703195,
+            "url": "https:\/\/cryptopanic.com\/news\/18703195\/Overview-of-the-Current-Market-on-JustLendDAO-Supply-Market-BTC-312-Billion-USDT-30094-Million-USDD",
+            "created_at": "2023-07-03T05:58:08Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@DeFi_JUST",
+            "source": {
+                "title": "JUST Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@defi_just"
+            },
+            "title": "\ufe0fVote for establishing a strategic partnership between #JustLendDAO and RWA DAO has passed!\n\nThank you all for j\u2026",
+            "published_at": "2023-07-01T12:15:00Z",
+            "slug": "Vote-for-establishing-a-strategic-partnership-between-JustLendDAO-and-RWA-DAO-has-passed-Thank-you-all-for-j",
+            "currencies": [
+                {
+                    "code": "JST",
+                    "title": "JUST",
+                    "slug": "just",
+                    "url": "https:\/\/cryptopanic.com\/news\/just\/"
+                },
+                {
+                    "code": "STRX",
+                    "title": "Staked TRX",
+                    "slug": "staked-trx",
+                    "url": "https:\/\/cryptopanic.com\/news\/staked-trx\/"
+                }
+            ],
+            "id": 18699050,
+            "url": "https:\/\/cryptopanic.com\/news\/18699050\/Vote-for-establishing-a-strategic-partnership-between-JustLendDAO-and-RWA-DAO-has-passed-Thank-you-all-for-j",
+            "created_at": "2023-07-01T12:15:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@DeFi_JUST",
+            "source": {
+                "title": "JUST Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@defi_just"
+            },
+            "title": "We are excited to announce our new partnership with RWA DAO\n\nRWA DAO is a decentralized autonomous community focu\u2026",
+            "published_at": "2023-07-01T10:40:00Z",
+            "slug": "We-are-excited-to-announce-our-new-partnership-with-RWA-DAO-RWA-DAO-is-a-decentralized-autonomous-community-focu",
+            "currencies": [
+                {
+                    "code": "JST",
+                    "title": "JUST",
+                    "slug": "just",
+                    "url": "https:\/\/cryptopanic.com\/news\/just\/"
+                },
+                {
+                    "code": "STRX",
+                    "title": "Staked TRX",
+                    "slug": "staked-trx",
+                    "url": "https:\/\/cryptopanic.com\/news\/staked-trx\/"
+                }
+            ],
+            "id": 18699051,
+            "url": "https:\/\/cryptopanic.com\/news\/18699051\/We-are-excited-to-announce-our-new-partnership-with-RWA-DAO-RWA-DAO-is-a-decentralized-autonomous-community-focu",
+            "created_at": "2023-07-01T10:40:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@DeFi_JUST",
+            "source": {
+                "title": "JUST Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@defi_just"
+            },
+            "title": "RT @justinsuntron: Exciting news! Get ready for the launch of stusdt, the world's first 5% stable staking product on July 3rd! Don't miss o\u2026",
+            "published_at": "2023-06-30T09:10:03Z",
+            "slug": "RT-justinsuntron-Exciting-news-Get-ready-for-the-launch-of-stusdt-the-worlds-first-5-stable-staking-product-on-July-3rd-Dont-miss-o",
+            "currencies": [
+                {
+                    "code": "JST",
+                    "title": "JUST",
+                    "slug": "just",
+                    "url": "https:\/\/cryptopanic.com\/news\/just\/"
+                },
+                {
+                    "code": "STRX",
+                    "title": "Staked TRX",
+                    "slug": "staked-trx",
+                    "url": "https:\/\/cryptopanic.com\/news\/staked-trx\/"
+                }
+            ],
+            "id": 18694054,
+            "url": "https:\/\/cryptopanic.com\/news\/18694054\/RT-justinsuntron-Exciting-news-Get-ready-for-the-launch-of-stusdt-the-worlds-first-5-stable-staking-product-on-July-3rd-Dont-miss-o",
+            "created_at": "2023-06-30T09:10:03Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@DeFi_JUST",
+            "source": {
+                "title": "JUST Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@defi_just"
+            },
+            "title": "\u200dTake a look at the current data of #JustStable\n\n#USDJ Total Supply over 273.29 Million\n#TRX Total Collateraliz\u2026",
+            "published_at": "2023-06-30T04:17:59Z",
+            "slug": "Take-a-look-at-the-current-data-of-JustStable-USDJ-Total-Supply-over-27329-Million-TRX-Total-Collateraliz",
+            "currencies": [
+                {
+                    "code": "JST",
+                    "title": "JUST",
+                    "slug": "just",
+                    "url": "https:\/\/cryptopanic.com\/news\/just\/"
+                },
+                {
+                    "code": "STRX",
+                    "title": "Staked TRX",
+                    "slug": "staked-trx",
+                    "url": "https:\/\/cryptopanic.com\/news\/staked-trx\/"
+                }
+            ],
+            "id": 18686272,
+            "url": "https:\/\/cryptopanic.com\/news\/18686272\/Take-a-look-at-the-current-data-of-JustStable-USDJ-Total-Supply-over-27329-Million-TRX-Total-Collateraliz",
+            "created_at": "2023-06-30T04:17:59Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

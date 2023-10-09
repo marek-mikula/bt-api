@@ -1,0 +1,965 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=BUSD&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "cryptopotato.com",
+            "source": {
+                "title": "Feed - Cryptopotato.Com",
+                "region": "en",
+                "domain": "cryptopotato.com",
+                "path": null
+            },
+            "title": "Circle Claims Stablecoins are Not Securities in Binance Lawsuit",
+            "published_at": "2023-09-29T19:04:49Z",
+            "slug": "Circle-Claims-Stablecoins-are-Not-Securities-in-Binance-Lawsuit",
+            "currencies": [
+                {
+                    "code": "USDC",
+                    "title": "USDC",
+                    "slug": "usd-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/usd-coin\/"
+                },
+                {
+                    "code": "BUSD",
+                    "title": "BUSD",
+                    "slug": "binance-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/binance-usd\/"
+                }
+            ],
+            "id": 18938154,
+            "url": "https:\/\/cryptopanic.com\/news\/18938154\/Circle-Claims-Stablecoins-are-Not-Securities-in-Binance-Lawsuit",
+            "created_at": "2023-09-29T19:04:49Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "decrypt.co",
+            "source": {
+                "title": "Decrypt",
+                "region": "en",
+                "domain": "decrypt.co",
+                "path": null
+            },
+            "title": "Stablecoins Aren't Securities, Says Circle in SEC Lawsuits Against Binance",
+            "published_at": "2023-09-29T16:03:59Z",
+            "slug": "Stablecoins-Arent-Securities-Says-Circle-in-SEC-Lawsuits-Against-Binance",
+            "currencies": [
+                {
+                    "code": "USDC",
+                    "title": "USDC",
+                    "slug": "usd-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/usd-coin\/"
+                },
+                {
+                    "code": "BUSD",
+                    "title": "BUSD",
+                    "slug": "binance-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/binance-usd\/"
+                }
+            ],
+            "id": 18937810,
+            "url": "https:\/\/cryptopanic.com\/news\/18937810\/Stablecoins-Arent-Securities-Says-Circle-in-SEC-Lawsuits-Against-Binance",
+            "created_at": "2023-09-29T16:03:59Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "u.today",
+            "source": {
+                "title": "U.Today",
+                "region": "en",
+                "domain": "u.today",
+                "path": null
+            },
+            "title": "Binance to Delist 25 BUSD Trading Pairs: Details",
+            "published_at": "2023-09-29T15:00:00Z",
+            "slug": "Binance-to-Delist-25-BUSD-Trading-Pairs-Details",
+            "currencies": [
+                {
+                    "code": "BUSD",
+                    "title": "BUSD",
+                    "slug": "binance-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/binance-usd\/"
+                }
+            ],
+            "id": 18937653,
+            "url": "https:\/\/cryptopanic.com\/news\/18937653\/Binance-to-Delist-25-BUSD-Trading-Pairs-Details",
+            "created_at": "2023-09-29T15:00:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptoslate.com",
+            "source": {
+                "title": "CryptoSlate",
+                "region": "en",
+                "domain": "cryptoslate.com",
+                "path": null
+            },
+            "title": "Circle steps in with amicus brief in Binance SEC battle over stablecoin classification",
+            "published_at": "2023-09-29T12:30:29Z",
+            "slug": "Circle-steps-in-with-amicus-brief-in-Binance-SEC-battle-over-stablecoin-classification",
+            "currencies": [
+                {
+                    "code": "USDC",
+                    "title": "USDC",
+                    "slug": "usd-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/usd-coin\/"
+                },
+                {
+                    "code": "BUSD",
+                    "title": "BUSD",
+                    "slug": "binance-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/binance-usd\/"
+                }
+            ],
+            "id": 18937205,
+            "url": "https:\/\/cryptopanic.com\/news\/18937205\/Circle-steps-in-with-amicus-brief-in-Binance-SEC-battle-over-stablecoin-classification",
+            "created_at": "2023-09-29T12:30:29Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinspeaker.com",
+            "source": {
+                "title": "Coinspeaker",
+                "region": "en",
+                "domain": "coinspeaker.com",
+                "path": null
+            },
+            "title": "Circle Intervenes in SEC Case against Binance, Defends Stablecoins\u2019 Regulatory Status",
+            "published_at": "2023-09-29T11:42:42Z",
+            "slug": "Circle-Intervenes-in-SEC-Case-against-Binance-Defends-Stablecoins-Regulatory-Status",
+            "currencies": [
+                {
+                    "code": "BUSD",
+                    "title": "BUSD",
+                    "slug": "binance-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/binance-usd\/"
+                }
+            ],
+            "id": 18937069,
+            "url": "https:\/\/cryptopanic.com\/news\/18937069\/Circle-Intervenes-in-SEC-Case-against-Binance-Defends-Stablecoins-Regulatory-Status",
+            "created_at": "2023-09-29T11:42:42Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "theblock.co",
+            "source": {
+                "title": "The Block",
+                "region": "en",
+                "domain": "theblock.co",
+                "path": null
+            },
+            "title": "Stablecoin issuer Circle weighs in on SEC case against Binance",
+            "published_at": "2023-09-29T07:48:58Z",
+            "slug": "Stablecoin-issuer-Circle-weighs-in-on-SEC-case-against-Binance",
+            "currencies": [
+                {
+                    "code": "USDC",
+                    "title": "USDC",
+                    "slug": "usd-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/usd-coin\/"
+                },
+                {
+                    "code": "BUSD",
+                    "title": "BUSD",
+                    "slug": "binance-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/binance-usd\/"
+                }
+            ],
+            "id": 18936459,
+            "url": "https:\/\/cryptopanic.com\/news\/18936459\/Stablecoin-issuer-Circle-weighs-in-on-SEC-case-against-Binance",
+            "created_at": "2023-09-29T07:48:58Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "Binance reopens services in Belgium after regulatory hiatus",
+            "published_at": "2023-09-26T09:00:05Z",
+            "slug": "Binance-reopens-services-in-Belgium-after-regulatory-hiatus",
+            "currencies": [
+                {
+                    "code": "BUSD",
+                    "title": "BUSD",
+                    "slug": "binance-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/binance-usd\/"
+                }
+            ],
+            "id": 18928457,
+            "url": "https:\/\/cryptopanic.com\/news\/18928457\/Binance-reopens-services-in-Belgium-after-regulatory-hiatus",
+            "created_at": "2023-09-26T09:00:05Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "Japan\u2019s Largest Bank Taps Binance to Issue Yen-Backed Stablecoins",
+            "published_at": "2023-09-25T16:01:27Z",
+            "slug": "Japans-Largest-Bank-Taps-Binance-to-Issue-Yen-Backed-Stablecoins",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "MATIC",
+                    "title": "Polygon",
+                    "slug": "matic-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-network\/"
+                },
+                {
+                    "code": "BUSD",
+                    "title": "BUSD",
+                    "slug": "binance-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/binance-usd\/"
+                }
+            ],
+            "id": 18927094,
+            "url": "https:\/\/cryptopanic.com\/news\/18927094\/Japans-Largest-Bank-Taps-Binance-to-Issue-Yen-Backed-Stablecoins",
+            "created_at": "2023-09-25T16:01:27Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "Stablecoin Market Cap Declines for 18th Consecutive Month",
+            "published_at": "2023-09-22T17:15:00Z",
+            "slug": "Stablecoin-Market-Cap-Declines-for-18th-Consecutive-Month",
+            "currencies": [
+                {
+                    "code": "BUSD",
+                    "title": "Binance USD",
+                    "slug": "binance-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/binance-usd\/"
+                },
+                {
+                    "code": "FRAX",
+                    "title": "Frax",
+                    "slug": "frax",
+                    "url": "https:\/\/cryptopanic.com\/news\/frax\/"
+                },
+                {
+                    "code": "HT",
+                    "title": "Huobi",
+                    "slug": "huobi-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/huobi-token\/"
+                }
+            ],
+            "id": 18922514,
+            "url": "https:\/\/cryptopanic.com\/news\/18922514\/Stablecoin-Market-Cap-Declines-for-18th-Consecutive-Month",
+            "created_at": "2023-09-22T17:15:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "Changing stablecoin dynamics pique investor interest",
+            "published_at": "2023-09-22T10:30:42Z",
+            "slug": "Changing-stablecoin-dynamics-pique-investor-interest",
+            "currencies": [
+                {
+                    "code": "USDT",
+                    "title": "Tether",
+                    "slug": "tether",
+                    "url": "https:\/\/cryptopanic.com\/news\/tether\/"
+                },
+                {
+                    "code": "BUSD",
+                    "title": "Binance USD",
+                    "slug": "binance-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/binance-usd\/"
+                }
+            ],
+            "id": 18921378,
+            "url": "https:\/\/cryptopanic.com\/news\/18921378\/Changing-stablecoin-dynamics-pique-investor-interest",
+            "created_at": "2023-09-22T10:30:42Z"
+        },
+        {
+            "kind": "news",
+            "domain": "cryptoglobe.com",
+            "source": {
+                "title": "CryptoGlobe",
+                "region": "en",
+                "domain": "cryptoglobe.com",
+                "path": null
+            },
+            "title": "Stablecoin Shake-Up: Binance Drops BUSD as New Contenders Rise, Reveals CCData Research",
+            "published_at": "2023-09-22T08:51:24Z",
+            "slug": "Stablecoin-Shake-Up-Binance-Drops-BUSD-as-New-Contenders-Rise-Reveals-CCData-Research",
+            "currencies": [
+                {
+                    "code": "BUSD",
+                    "title": "Binance USD",
+                    "slug": "binance-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/binance-usd\/"
+                }
+            ],
+            "id": 18921108,
+            "url": "https:\/\/cryptopanic.com\/news\/18921108\/Stablecoin-Shake-Up-Binance-Drops-BUSD-as-New-Contenders-Rise-Reveals-CCData-Research",
+            "created_at": "2023-09-22T08:51:24Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptoslate.com",
+            "source": {
+                "title": "CryptoSlate",
+                "region": "en",
+                "domain": "cryptoslate.com",
+                "path": null
+            },
+            "title": "SEC Lawsuit \u2018A Year Too Late\u2019 Binance Claims As It Seeks To Dismiss",
+            "published_at": "2023-09-22T06:40:33Z",
+            "slug": "SEC-Lawsuit-A-Year-Too-Late-Binance-Claims-As-It-Seeks-To-Dismiss",
+            "currencies": [
+                {
+                    "code": "BUSD",
+                    "title": "Binance USD",
+                    "slug": "binance-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/binance-usd\/"
+                }
+            ],
+            "id": 18920870,
+            "url": "https:\/\/cryptopanic.com\/news\/18920870\/SEC-Lawsuit-A-Year-Too-Late-Binance-Claims-As-It-Seeks-To-Dismiss",
+            "created_at": "2023-09-22T06:40:33Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Jordan Peterson Sparks Debate On How Bitcoin Can Solve Major Banking Problem",
+            "published_at": "2023-09-18T07:42:52Z",
+            "slug": "Jordan-Peterson-Sparks-Debate-On-How-Bitcoin-Can-Solve-Major-Banking-Problem",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                },
+                {
+                    "code": "BCH",
+                    "title": "Bitcoin Cash",
+                    "slug": "bitcoin-cash",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin-cash\/"
+                },
+                {
+                    "code": "BUSD",
+                    "title": "Binance USD",
+                    "slug": "binance-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/binance-usd\/"
+                }
+            ],
+            "id": 18909898,
+            "url": "https:\/\/cryptopanic.com\/news\/18909898\/Jordan-Peterson-Sparks-Debate-On-How-Bitcoin-Can-Solve-Major-Banking-Problem",
+            "created_at": "2023-09-18T07:42:52Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Glassnode Co-Founders Weigh In On Bitcoin (BTC) Path To $30,000",
+            "published_at": "2023-09-16T14:20:07Z",
+            "slug": "Glassnode-Co-Founders-Weigh-In-On-Bitcoin-BTC-Path-To-30000",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "BUSD",
+                    "title": "Binance USD",
+                    "slug": "binance-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/binance-usd\/"
+                }
+            ],
+            "id": 18907993,
+            "url": "https:\/\/cryptopanic.com\/news\/18907993\/Glassnode-Co-Founders-Weigh-In-On-Bitcoin-BTC-Path-To-30000",
+            "created_at": "2023-09-16T14:20:07Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "u.today",
+            "source": {
+                "title": "U.Today",
+                "region": "en",
+                "domain": "u.today",
+                "path": null
+            },
+            "title": "Ethereum (ETH), BUSD Historic Dormant Movement Sparks Speculation",
+            "published_at": "2023-09-16T14:15:00Z",
+            "slug": "Ethereum-ETH-BUSD-Historic-Dormant-Movement-Sparks-Speculation",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "BUSD",
+                    "title": "Binance USD",
+                    "slug": "binance-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/binance-usd\/"
+                }
+            ],
+            "id": 18907995,
+            "url": "https:\/\/cryptopanic.com\/news\/18907995\/Ethereum-ETH-BUSD-Historic-Dormant-Movement-Sparks-Speculation",
+            "created_at": "2023-09-16T14:15:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Bye Bye Birdie: Binance Begins Process Of Axing BUSD Stablecoin",
+            "published_at": "2023-09-15T22:00:07Z",
+            "slug": "Bye-Bye-Birdie-Binance-Begins-Process-Of-Axing-BUSD-Stablecoin",
+            "currencies": [
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                },
+                {
+                    "code": "TRX",
+                    "title": "TRON",
+                    "slug": "tron",
+                    "url": "https:\/\/cryptopanic.com\/news\/tron\/"
+                },
+                {
+                    "code": "MATIC",
+                    "title": "Polygon",
+                    "slug": "matic-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-network\/"
+                },
+                {
+                    "code": "BUSD",
+                    "title": "Binance USD",
+                    "slug": "binance-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/binance-usd\/"
+                }
+            ],
+            "id": 18907128,
+            "url": "https:\/\/cryptopanic.com\/news\/18907128\/Bye-Bye-Birdie-Binance-Begins-Process-Of-Axing-BUSD-Stablecoin",
+            "created_at": "2023-09-15T22:00:07Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coingape.com",
+            "source": {
+                "title": "CoinGape",
+                "region": "en",
+                "domain": "coingape.com",
+                "path": null
+            },
+            "title": "Data Signals Start Of Bitcoin And Crypto Market Rally",
+            "published_at": "2023-09-15T12:08:57Z",
+            "slug": "Data-Signals-Start-Of-Bitcoin-And-Crypto-Market-Rally",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "USDT",
+                    "title": "Tether",
+                    "slug": "tether",
+                    "url": "https:\/\/cryptopanic.com\/news\/tether\/"
+                },
+                {
+                    "code": "TUSD",
+                    "title": "TrueUSD",
+                    "slug": "true-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/true-usd\/"
+                },
+                {
+                    "code": "BUSD",
+                    "title": "Binance USD",
+                    "slug": "binance-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/binance-usd\/"
+                }
+            ],
+            "id": 18905846,
+            "url": "https:\/\/cryptopanic.com\/news\/18905846\/Data-Signals-Start-Of-Bitcoin-And-Crypto-Market-Rally",
+            "created_at": "2023-09-15T12:08:57Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cointelegraph.com",
+            "source": {
+                "title": "CoinTelegraph",
+                "region": "en",
+                "domain": "cointelegraph.com",
+                "path": null
+            },
+            "title": "Binance.US not cooperating with investigation, US SEC says in filing",
+            "published_at": "2023-09-15T08:17:16Z",
+            "slug": "BinanceUS-not-cooperating-with-investigation-US-SEC-says-in-filing",
+            "currencies": [
+                {
+                    "code": "BUSD",
+                    "title": "Binance USD",
+                    "slug": "binance-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/binance-usd\/"
+                },
+                {
+                    "code": "BNB",
+                    "title": "OEC Binance Coin",
+                    "slug": "oec-binance-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/oec-binance-coin\/"
+                }
+            ],
+            "id": 18905011,
+            "url": "https:\/\/cryptopanic.com\/news\/18905011\/BinanceUS-not-cooperating-with-investigation-US-SEC-says-in-filing",
+            "created_at": "2023-09-15T08:17:16Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coingabbar.com",
+            "source": {
+                "title": "coingabbar",
+                "region": "en",
+                "domain": "coingabbar.com",
+                "path": null
+            },
+            "title": "24 Crypto Update, 14 Sep: Crypto market steadily climbs",
+            "published_at": "2023-09-15T01:30:00Z",
+            "slug": "24-Crypto-Update-14-Sep-Crypto-market-steadily-climbs",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                },
+                {
+                    "code": "USDC",
+                    "title": "USD Coin",
+                    "slug": "usd-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/usd-coin\/"
+                },
+                {
+                    "code": "ADA",
+                    "title": "Cardano",
+                    "slug": "cardano",
+                    "url": "https:\/\/cryptopanic.com\/news\/cardano\/"
+                },
+                {
+                    "code": "DOGE",
+                    "title": "Dogecoin",
+                    "slug": "dogecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/dogecoin\/"
+                },
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "DOT",
+                    "title": "Polkadot",
+                    "slug": "polkadot",
+                    "url": "https:\/\/cryptopanic.com\/news\/polkadot\/"
+                },
+                {
+                    "code": "LTC",
+                    "title": "Litecoin",
+                    "slug": "litecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/litecoin\/"
+                },
+                {
+                    "code": "TUSD",
+                    "title": "TrueUSD",
+                    "slug": "true-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/true-usd\/"
+                },
+                {
+                    "code": "BUSD",
+                    "title": "Binance USD",
+                    "slug": "binance-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/binance-usd\/"
+                },
+                {
+                    "code": "NEAR",
+                    "title": "NEAR Protocol",
+                    "slug": "near",
+                    "url": "https:\/\/cryptopanic.com\/news\/near\/"
+                },
+                {
+                    "code": "AXS",
+                    "title": "Axie Infinity",
+                    "slug": "axie-infinity",
+                    "url": "https:\/\/cryptopanic.com\/news\/axie-infinity\/"
+                },
+                {
+                    "code": "APE",
+                    "title": "ApeCoin",
+                    "slug": "apecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/apecoin\/"
+                }
+            ],
+            "id": 18904795,
+            "url": "https:\/\/cryptopanic.com\/news\/18904795\/24-Crypto-Update-14-Sep-Crypto-market-steadily-climbs",
+            "created_at": "2023-09-15T01:30:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "75% Of All Binance Fiat Trading Volume Is In Turkish Lira",
+            "published_at": "2023-09-15T00:00:21Z",
+            "slug": "75-Of-All-Binance-Fiat-Trading-Volume-Is-In-Turkish-Lira",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "USDT",
+                    "title": "Tether",
+                    "slug": "tether",
+                    "url": "https:\/\/cryptopanic.com\/news\/tether\/"
+                },
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                },
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "TRX",
+                    "title": "TRON",
+                    "slug": "tron",
+                    "url": "https:\/\/cryptopanic.com\/news\/tron\/"
+                },
+                {
+                    "code": "TUSD",
+                    "title": "TrueUSD",
+                    "slug": "true-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/true-usd\/"
+                },
+                {
+                    "code": "BUSD",
+                    "title": "Binance USD",
+                    "slug": "binance-usd",
+                    "url": "https:\/\/cryptopanic.com\/news\/binance-usd\/"
+                }
+            ],
+            "id": 18904469,
+            "url": "https:\/\/cryptopanic.com\/news\/18904469\/75-Of-All-Binance-Fiat-Trading-Volume-Is-In-Turkish-Lira",
+            "created_at": "2023-09-15T00:00:21Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

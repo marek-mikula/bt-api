@@ -1,6 +1,10 @@
 # Coinmarketcap API
 
-This domain provides client to call Coinmarketcap API.
+This domain provides a client to call the Coinmarketcap API.
+
+## Docs
+
+[https://coinmarketcap.com/api/documentation/v1/](https://coinmarketcap.com/api/documentation/v1/)
 
 ## List of used calls
 

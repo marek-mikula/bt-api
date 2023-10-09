@@ -1,0 +1,797 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=GALA&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "coinedition.com",
+            "source": {
+                "title": "coinedition",
+                "region": "en",
+                "domain": "coinedition.com",
+                "path": null
+            },
+            "title": "Gala\u2019s Price Continues to Rise and May Soon Overcome Resistance",
+            "published_at": "2023-10-03T11:52:00Z",
+            "slug": "Galas-Price-Continues-to-Rise-and-May-Soon-Overcome-Resistance",
+            "currencies": [
+                {
+                    "code": "GALA",
+                    "title": "GALA",
+                    "slug": "gala",
+                    "url": "https:\/\/cryptopanic.com\/news\/gala\/"
+                }
+            ],
+            "id": 18944374,
+            "url": "https:\/\/cryptopanic.com\/news\/18944374\/Galas-Price-Continues-to-Rise-and-May-Soon-Overcome-Resistance",
+            "created_at": "2023-10-03T11:52:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "GALA Price Indecision Could Be Determined With This Indicator \u2013 Will It Bounce or Drop?",
+            "published_at": "2023-10-03T11:45:00Z",
+            "slug": "GALA-Price-Indecision-Could-Be-Determined-With-This-Indicator-Will-It-Bounce-or-Drop",
+            "currencies": [
+                {
+                    "code": "GALA",
+                    "title": "GALA",
+                    "slug": "gala",
+                    "url": "https:\/\/cryptopanic.com\/news\/gala\/"
+                }
+            ],
+            "id": 18944434,
+            "url": "https:\/\/cryptopanic.com\/news\/18944434\/GALA-Price-Indecision-Could-Be-Determined-With-This-Indicator-Will-It-Bounce-or-Drop",
+            "created_at": "2023-10-03T11:45:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coingabbar.com",
+            "source": {
+                "title": "coingabbar",
+                "region": "en",
+                "domain": "coingabbar.com",
+                "path": null
+            },
+            "title": "24 Crypto Update, 29 Sep: Crypto market remained relatively stable",
+            "published_at": "2023-09-30T01:30:00Z",
+            "slug": "24-Crypto-Update-29-Sep-Crypto-market-remained-relatively-stable",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "USDC",
+                    "title": "USDC",
+                    "slug": "usd-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/usd-coin\/"
+                },
+                {
+                    "code": "MATIC",
+                    "title": "Polygon",
+                    "slug": "matic-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/matic-network\/"
+                },
+                {
+                    "code": "LTC",
+                    "title": "Litecoin",
+                    "slug": "litecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/litecoin\/"
+                },
+                {
+                    "code": "MKR",
+                    "title": "Maker",
+                    "slug": "maker",
+                    "url": "https:\/\/cryptopanic.com\/news\/maker\/"
+                },
+                {
+                    "code": "FLOW",
+                    "title": "Flow",
+                    "slug": "flow",
+                    "url": "https:\/\/cryptopanic.com\/news\/flow\/"
+                },
+                {
+                    "code": "GALA",
+                    "title": "GALA",
+                    "slug": "gala",
+                    "url": "https:\/\/cryptopanic.com\/news\/gala\/"
+                }
+            ],
+            "id": 18938693,
+            "url": "https:\/\/cryptopanic.com\/news\/18938693\/24-Crypto-Update-29-Sep-Crypto-market-remained-relatively-stable",
+            "created_at": "2023-09-30T01:30:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Back To BlockShine \ufe0f",
+            "published_at": "2023-09-28T19:27:39Z",
+            "slug": "Back-To-BlockShine",
+            "currencies": [
+                {
+                    "code": "RNDR",
+                    "title": "Render",
+                    "slug": "render-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/render-token\/"
+                },
+                {
+                    "code": "GALA",
+                    "title": "GALA",
+                    "slug": "gala",
+                    "url": "https:\/\/cryptopanic.com\/news\/gala\/"
+                }
+            ],
+            "id": 18935604,
+            "url": "https:\/\/cryptopanic.com\/news\/18935604\/Back-To-BlockShine",
+            "created_at": "2023-09-28T19:27:39Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinedition.com",
+            "source": {
+                "title": "coinedition",
+                "region": "en",
+                "domain": "coinedition.com",
+                "path": null
+            },
+            "title": "Why APE and GALA\u2019s Downtrend Could Turn Profitable Soon",
+            "published_at": "2023-09-27T13:45:00Z",
+            "slug": "Why-APE-and-GALAs-Downtrend-Could-Turn-Profitable-Soon",
+            "currencies": [
+                {
+                    "code": "APE",
+                    "title": "ApeCoin",
+                    "slug": "apecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/apecoin\/"
+                },
+                {
+                    "code": "GALA",
+                    "title": "GALA",
+                    "slug": "gala",
+                    "url": "https:\/\/cryptopanic.com\/news\/gala\/"
+                }
+            ],
+            "id": 18932061,
+            "url": "https:\/\/cryptopanic.com\/news\/18932061\/Why-APE-and-GALAs-Downtrend-Could-Turn-Profitable-Soon",
+            "created_at": "2023-09-27T13:45:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinjournal.net",
+            "source": {
+                "title": "CoinJournal",
+                "region": "en",
+                "domain": "coinjournal.net",
+                "path": null
+            },
+            "title": "3 reasons the Gala crypto price has plunged to record low",
+            "published_at": "2023-09-21T15:36:55Z",
+            "slug": "3-reasons-the-Gala-crypto-price-has-plunged-to-record-low",
+            "currencies": [
+                {
+                    "code": "GALA",
+                    "title": "GALA",
+                    "slug": "gala",
+                    "url": "https:\/\/cryptopanic.com\/news\/gala\/"
+                }
+            ],
+            "id": 18919629,
+            "url": "https:\/\/cryptopanic.com\/news\/18919629\/3-reasons-the-Gala-crypto-price-has-plunged-to-record-low",
+            "created_at": "2023-09-21T15:36:55Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "feeds2.benzinga.com",
+            "source": {
+                "title": "Benzinga",
+                "region": "en",
+                "domain": "feeds2.benzinga.com",
+                "path": null
+            },
+            "title": "Ethereum Edges Lower Ahead Of Fed Decision; Litecoin, Gala Among Top Losers",
+            "published_at": "2023-09-20T14:01:14Z",
+            "slug": "Ethereum-Edges-Lower-Ahead-Of-Fed-Decision-Litecoin-Gala-Among-Top-Losers",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "GALA",
+                    "title": "GALA",
+                    "slug": "gala",
+                    "url": "https:\/\/cryptopanic.com\/news\/gala\/"
+                }
+            ],
+            "id": 18916506,
+            "url": "https:\/\/cryptopanic.com\/news\/18916506\/Ethereum-Edges-Lower-Ahead-Of-Fed-Decision-Litecoin-Gala-Among-Top-Losers",
+            "created_at": "2023-09-20T14:01:14Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "livebitcoinnews.com",
+            "source": {
+                "title": "Live Bitcoin News",
+                "region": "en",
+                "domain": "livebitcoinnews.com",
+                "path": null
+            },
+            "title": "A Whole New String of Blockchain Games is Available to Players",
+            "published_at": "2023-09-18T17:00:03Z",
+            "slug": "A-Whole-New-String-of-Blockchain-Games-is-Available-to-Players",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "GALA",
+                    "title": "GALA",
+                    "slug": "gala",
+                    "url": "https:\/\/cryptopanic.com\/news\/gala\/"
+                }
+            ],
+            "id": 18911492,
+            "url": "https:\/\/cryptopanic.com\/news\/18911492\/A-Whole-New-String-of-Blockchain-Games-is-Available-to-Players",
+            "created_at": "2023-09-18T17:00:03Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cointelegraph.com",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 1
+            },
+            "source": {
+                "title": "CoinTelegraph",
+                "region": "en",
+                "domain": "cointelegraph.com",
+                "path": null
+            },
+            "title": "What is Gala Games and how to buy GALA coin?",
+            "published_at": "2023-09-18T16:15:05Z",
+            "slug": "What-is-Gala-Games-and-how-to-buy-GALA-coin",
+            "currencies": [
+                {
+                    "code": "GALA",
+                    "title": "GALA",
+                    "slug": "gala",
+                    "url": "https:\/\/cryptopanic.com\/news\/gala\/"
+                }
+            ],
+            "id": 18911403,
+            "url": "https:\/\/cryptopanic.com\/news\/18911403\/What-is-Gala-Games-and-how-to-buy-GALA-coin",
+            "created_at": "2023-09-18T16:15:05Z"
+        },
+        {
+            "kind": "news",
+            "domain": "decrypt.co",
+            "source": {
+                "title": "Decrypt",
+                "region": "en",
+                "domain": "decrypt.co",
+                "path": null
+            },
+            "title": "Champions Arena Beginner's Guide: How to Start Playing the NFT Fantasy Game",
+            "published_at": "2023-09-12T22:22:29Z",
+            "slug": "Champions-Arena-Beginners-Guide-How-to-Start-Playing-the-NFT-Fantasy-Game",
+            "currencies": [
+                {
+                    "code": "GALA",
+                    "title": "GALA",
+                    "slug": "gala",
+                    "url": "https:\/\/cryptopanic.com\/news\/gala\/"
+                }
+            ],
+            "id": 18898770,
+            "url": "https:\/\/cryptopanic.com\/news\/18898770\/Champions-Arena-Beginners-Guide-How-to-Start-Playing-the-NFT-Fantasy-Game",
+            "created_at": "2023-09-12T22:22:29Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "This Week in Crypto:\u00a0Millionaires, Game Play and Will Exchanges Disappear?",
+            "published_at": "2023-09-08T16:00:55Z",
+            "slug": "This-Week-in-Crypto-Millionaires-Game-Play-and-Will-Exchanges-Disappear",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "GALA",
+                    "title": "GALA",
+                    "slug": "gala",
+                    "url": "https:\/\/cryptopanic.com\/news\/gala\/"
+                },
+                {
+                    "code": "KCS",
+                    "title": "KuCoin",
+                    "slug": "kucoin-shares",
+                    "url": "https:\/\/cryptopanic.com\/news\/kucoin-shares\/"
+                }
+            ],
+            "id": 18889670,
+            "url": "https:\/\/cryptopanic.com\/news\/18889670\/This-Week-in-Crypto-Millionaires-Game-Play-and-Will-Exchanges-Disappear",
+            "created_at": "2023-09-08T16:00:55Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinedition.com",
+            "source": {
+                "title": "coinedition",
+                "region": "en",
+                "domain": "coinedition.com",
+                "path": null
+            },
+            "title": "MASK, MAGIC, DODO, SRM, GALA Show Historic Buy Signals: Report",
+            "published_at": "2023-09-06T12:44:55Z",
+            "slug": "MASK-MAGIC-DODO-SRM-GALA-Show-Historic-Buy-Signals-Report",
+            "currencies": [
+                {
+                    "code": "GALA",
+                    "title": "GALA",
+                    "slug": "gala",
+                    "url": "https:\/\/cryptopanic.com\/news\/gala\/"
+                }
+            ],
+            "id": 18883715,
+            "url": "https:\/\/cryptopanic.com\/news\/18883715\/MASK-MAGIC-DODO-SRM-GALA-Show-Historic-Buy-Signals-Report",
+            "created_at": "2023-09-06T12:44:55Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinedition.com",
+            "source": {
+                "title": "coinedition",
+                "region": "en",
+                "domain": "coinedition.com",
+                "path": null
+            },
+            "title": "Is Gala Games (GALA) Founders\u2019 Fight an Opportunity to Buy Lower?",
+            "published_at": "2023-09-05T11:55:00Z",
+            "slug": "Is-Gala-Games-GALA-Founders-Fight-an-Opportunity-to-Buy-Lower",
+            "currencies": [
+                {
+                    "code": "GALA",
+                    "title": "GALA",
+                    "slug": "gala",
+                    "url": "https:\/\/cryptopanic.com\/news\/gala\/"
+                }
+            ],
+            "id": 18880593,
+            "url": "https:\/\/cryptopanic.com\/news\/18880593\/Is-Gala-Games-GALA-Founders-Fight-an-Opportunity-to-Buy-Lower",
+            "created_at": "2023-09-05T11:55:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptopotato.com",
+            "source": {
+                "title": "Feed - Cryptopotato.Com",
+                "region": "en",
+                "domain": "cryptopotato.com",
+                "path": null
+            },
+            "title": "Bitcoin Flatlines Below $26K But These Altcoins Have it Worse (Market Watch)",
+            "published_at": "2023-09-05T08:54:16Z",
+            "slug": "Bitcoin-Flatlines-Below-26K-But-These-Altcoins-Have-it-Worse-Market-Watch",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "GALA",
+                    "title": "GALA",
+                    "slug": "gala",
+                    "url": "https:\/\/cryptopanic.com\/news\/gala\/"
+                }
+            ],
+            "id": 18880115,
+            "url": "https:\/\/cryptopanic.com\/news\/18880115\/Bitcoin-Flatlines-Below-26K-But-These-Altcoins-Have-it-Worse-Market-Watch",
+            "created_at": "2023-09-05T08:54:16Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptoslate.com",
+            "source": {
+                "title": "CryptoSlate",
+                "region": "en",
+                "domain": "cryptoslate.com",
+                "path": null
+            },
+            "title": "Gala Games co-founders clash in opposing lawsuits seeking $130M, $600M in damages",
+            "published_at": "2023-09-04T22:30:57Z",
+            "slug": "Gala-Games-co-founders-clash-in-opposing-lawsuits-seeking-130M-600M-in-damages",
+            "currencies": [
+                {
+                    "code": "GALA",
+                    "title": "GALA",
+                    "slug": "gala",
+                    "url": "https:\/\/cryptopanic.com\/news\/gala\/"
+                }
+            ],
+            "id": 18879423,
+            "url": "https:\/\/cryptopanic.com\/news\/18879423\/Gala-Games-co-founders-clash-in-opposing-lawsuits-seeking-130M-600M-in-damages",
+            "created_at": "2023-09-04T22:30:57Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "bitcoinist.com",
+            "source": {
+                "title": "Bitcoinist",
+                "region": "en",
+                "domain": "bitcoinist.com",
+                "path": null
+            },
+            "title": "Gala Games Scandal: CEO Claims Co-Founder Brains Behind $130-M Token Theft",
+            "published_at": "2023-09-04T20:00:18Z",
+            "slug": "Gala-Games-Scandal-CEO-Claims-Co-Founder-Brains-Behind-130-M-Token-Theft",
+            "currencies": [
+                {
+                    "code": "GALA",
+                    "title": "GALA",
+                    "slug": "gala",
+                    "url": "https:\/\/cryptopanic.com\/news\/gala\/"
+                }
+            ],
+            "id": 18879270,
+            "url": "https:\/\/cryptopanic.com\/news\/18879270\/Gala-Games-Scandal-CEO-Claims-Co-Founder-Brains-Behind-130-M-Token-Theft",
+            "created_at": "2023-09-04T20:00:18Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptopotato.com",
+            "source": {
+                "title": "Feed - Cryptopotato.Com",
+                "region": "en",
+                "domain": "cryptopotato.com",
+                "path": null
+            },
+            "title": "Gala Games Founders Feud Over Millions of Dollars Worth of Misused Tokens",
+            "published_at": "2023-09-04T19:37:21Z",
+            "slug": "Gala-Games-Founders-Feud-Over-Millions-of-Dollars-Worth-of-Misused-Tokens",
+            "currencies": [
+                {
+                    "code": "GALA",
+                    "title": "GALA",
+                    "slug": "gala",
+                    "url": "https:\/\/cryptopanic.com\/news\/gala\/"
+                }
+            ],
+            "id": 18879239,
+            "url": "https:\/\/cryptopanic.com\/news\/18879239\/Gala-Games-Founders-Feud-Over-Millions-of-Dollars-Worth-of-Misused-Tokens",
+            "created_at": "2023-09-04T19:37:21Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "tokenist.com",
+            "source": {
+                "title": "tokenist",
+                "region": "en",
+                "domain": "tokenist.com",
+                "path": null
+            },
+            "title": "GALA Token Down 20% as Co-Founders Sue Each Other",
+            "published_at": "2023-09-04T16:53:46Z",
+            "slug": "GALA-Token-Down-20-as-Co-Founders-Sue-Each-Other",
+            "currencies": [
+                {
+                    "code": "GALA",
+                    "title": "GALA",
+                    "slug": "gala",
+                    "url": "https:\/\/cryptopanic.com\/news\/gala\/"
+                }
+            ],
+            "id": 18879080,
+            "url": "https:\/\/cryptopanic.com\/news\/18879080\/GALA-Token-Down-20-as-Co-Founders-Sue-Each-Other",
+            "created_at": "2023-09-04T16:53:46Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinedition.com",
+            "votes": {
+                "negative": 1,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 1,
+                "lol": 1,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 1
+            },
+            "source": {
+                "title": "coinedition",
+                "region": "en",
+                "domain": "coinedition.com",
+                "path": null
+            },
+            "title": "GALA Drops 98% in 18 Months Amid Company\u2019s Internal Troubles",
+            "published_at": "2023-09-04T14:01:00Z",
+            "slug": "GALA-Drops-98-in-18-Months-Amid-Companys-Internal-Troubles",
+            "currencies": [
+                {
+                    "code": "GALA",
+                    "title": "GALA",
+                    "slug": "gala",
+                    "url": "https:\/\/cryptopanic.com\/news\/gala\/"
+                }
+            ],
+            "id": 18878616,
+            "url": "https:\/\/cryptopanic.com\/news\/18878616\/GALA-Drops-98-in-18-Months-Amid-Companys-Internal-Troubles",
+            "created_at": "2023-09-04T14:01:00Z"
+        },
+        {
+            "kind": "news",
+            "domain": "blockworks.co",
+            "source": {
+                "title": "Blockworks",
+                "region": "en",
+                "domain": "blockworks.co",
+                "path": null
+            },
+            "title": "Gala Games\u2019 founders engulfed in legal feud",
+            "published_at": "2023-09-04T11:51:06Z",
+            "slug": "Gala-Games-founders-engulfed-in-legal-feud",
+            "currencies": [
+                {
+                    "code": "GALA",
+                    "title": "GALA",
+                    "slug": "gala",
+                    "url": "https:\/\/cryptopanic.com\/news\/gala\/"
+                }
+            ],
+            "id": 18878280,
+            "url": "https:\/\/cryptopanic.com\/news\/18878280\/Gala-Games-founders-engulfed-in-legal-feud",
+            "created_at": "2023-09-04T11:51:06Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

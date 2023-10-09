@@ -1,0 +1,833 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=LOOM&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "@loomnetwork",
+            "source": {
+                "title": "Loom Network Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@loomnetwork"
+            },
+            "title": " We've just rolled out an update to the Basechain Validator &amp; Staking Dashboard to add support for @WalletConnect\u2026",
+            "published_at": "2023-07-04T10:24:23Z",
+            "slug": "Weve-just-rolled-out-an-update-to-the-Basechain-Validator-amp-Staking-Dashboard-to-add-support-for-WalletConnect",
+            "currencies": [
+                {
+                    "code": "LOOMOLD",
+                    "title": "Loom Network (OLD)",
+                    "slug": "loom-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/loom-network\/"
+                },
+                {
+                    "code": "LOOM",
+                    "title": "Loom Network (NEW)",
+                    "slug": "loom-network-new",
+                    "url": "https:\/\/cryptopanic.com\/news\/loom-network-new\/"
+                }
+            ],
+            "id": 18717246,
+            "url": "https:\/\/cryptopanic.com\/news\/18717246\/Weve-just-rolled-out-an-update-to-the-Basechain-Validator-amp-Staking-Dashboard-to-add-support-for-WalletConnect",
+            "created_at": "2023-07-04T10:24:23Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@loomnetwork",
+            "source": {
+                "title": "Loom Network Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@loomnetwork"
+            },
+            "title": " Loom JS SDK v1.91.0 is out now.\n\nWe've upgraded from ethers v4 to v5 for better compatibility with modern tools,\u2026",
+            "published_at": "2023-06-30T14:05:54Z",
+            "slug": "Loom-JS-SDK-v1910-is-out-now-Weve-upgraded-from-ethers-v4-to-v5-for-better-compatibility-with-modern-tools",
+            "currencies": [
+                {
+                    "code": "LOOMOLD",
+                    "title": "Loom Network (OLD)",
+                    "slug": "loom-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/loom-network\/"
+                },
+                {
+                    "code": "LOOM",
+                    "title": "Loom Network (NEW)",
+                    "slug": "loom-network-new",
+                    "url": "https:\/\/cryptopanic.com\/news\/loom-network-new\/"
+                }
+            ],
+            "id": 18694379,
+            "url": "https:\/\/cryptopanic.com\/news\/18694379\/Loom-JS-SDK-v1910-is-out-now-Weve-upgraded-from-ethers-v4-to-v5-for-better-compatibility-with-modern-tools",
+            "created_at": "2023-06-30T14:05:54Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@loomnetwork",
+            "source": {
+                "title": "Loom Network Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@loomnetwork"
+            },
+            "title": "RT @CryptoZombiesHQ:  Hey peeps! Today, we're diving into Ethereum Account Abstraction, making crypto onboarding a breeze! Plus, we\u2019ll spi\u2026",
+            "published_at": "2023-06-30T12:57:37Z",
+            "slug": "RT-CryptoZombiesHQ-Hey-peeps-Today-were-diving-into-Ethereum-Account-Abstraction-making-crypto-onboarding-a-breeze-Plus-well-spi",
+            "currencies": [
+                {
+                    "code": "LOOMOLD",
+                    "title": "Loom Network (OLD)",
+                    "slug": "loom-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/loom-network\/"
+                },
+                {
+                    "code": "LOOM",
+                    "title": "Loom Network (NEW)",
+                    "slug": "loom-network-new",
+                    "url": "https:\/\/cryptopanic.com\/news\/loom-network-new\/"
+                }
+            ],
+            "id": 18694380,
+            "url": "https:\/\/cryptopanic.com\/news\/18694380\/RT-CryptoZombiesHQ-Hey-peeps-Today-were-diving-into-Ethereum-Account-Abstraction-making-crypto-onboarding-a-breeze-Plus-well-spi",
+            "created_at": "2023-06-30T12:57:37Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@loomnetwork",
+            "source": {
+                "title": "Loom Network Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@loomnetwork"
+            },
+            "title": "Many of you have been eagerly waiting for the launch of the zkLoom Testnet...\n\nThat day has finally arrived!\n\nOur z\u2026",
+            "published_at": "2023-06-20T20:55:10Z",
+            "slug": "Many-of-you-have-been-eagerly-waiting-for-the-launch-of-the-zkLoom-Testnet-That-day-has-finally-arrived-Our-z",
+            "currencies": [
+                {
+                    "code": "LOOMOLD",
+                    "title": "Loom Network (OLD)",
+                    "slug": "loom-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/loom-network\/"
+                },
+                {
+                    "code": "LOOM",
+                    "title": "Loom Network (NEW)",
+                    "slug": "loom-network-new",
+                    "url": "https:\/\/cryptopanic.com\/news\/loom-network-new\/"
+                }
+            ],
+            "id": 18621349,
+            "url": "https:\/\/cryptopanic.com\/news\/18621349\/Many-of-you-have-been-eagerly-waiting-for-the-launch-of-the-zkLoom-Testnet-That-day-has-finally-arrived-Our-z",
+            "created_at": "2023-06-20T20:55:10Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@loomnetwork",
+            "source": {
+                "title": "Loom Network Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@loomnetwork"
+            },
+            "title": "RT @CryptoZombiesHQ: Explore the captivating world of decentralized domain name services and dive into @Neo_Blockchain's Name Service! \n\nBe\u2026",
+            "published_at": "2023-06-20T20:13:39Z",
+            "slug": "RT-CryptoZombiesHQ-Explore-the-captivating-world-of-decentralized-domain-name-services-and-dive-into-Neo_Blockchains-Name-Service-Be",
+            "currencies": [
+                {
+                    "code": "LOOMOLD",
+                    "title": "Loom Network (OLD)",
+                    "slug": "loom-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/loom-network\/"
+                },
+                {
+                    "code": "LOOM",
+                    "title": "Loom Network (NEW)",
+                    "slug": "loom-network-new",
+                    "url": "https:\/\/cryptopanic.com\/news\/loom-network-new\/"
+                }
+            ],
+            "id": 18621351,
+            "url": "https:\/\/cryptopanic.com\/news\/18621351\/RT-CryptoZombiesHQ-Explore-the-captivating-world-of-decentralized-domain-name-services-and-dive-into-Neo_Blockchains-Name-Service-Be",
+            "created_at": "2023-06-20T20:13:39Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@loomnetwork",
+            "source": {
+                "title": "Loom Network Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@loomnetwork"
+            },
+            "title": "RT @CryptoZombiesHQ: Calling all CryptoZombies! \ud83e\udddf\u200d\ufe0f\ud83e\udddf\u200d\ufe0f Time for this week's crypto extravaganza!  \nClick the link below to watch our lat\u2026",
+            "published_at": "2023-06-08T23:54:42Z",
+            "slug": "RT-CryptoZombiesHQ-Calling-all-CryptoZombies-Time-for-this-weeks-crypto-extravaganza-Click-the-link-below-to-watch-our-lat",
+            "currencies": [
+                {
+                    "code": "LOOMOLD",
+                    "title": "Loom Network (OLD)",
+                    "slug": "loom-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/loom-network\/"
+                },
+                {
+                    "code": "LOOM",
+                    "title": "Loom Network (NEW)",
+                    "slug": "loom-network-new",
+                    "url": "https:\/\/cryptopanic.com\/news\/loom-network-new\/"
+                }
+            ],
+            "id": 18538176,
+            "url": "https:\/\/cryptopanic.com\/news\/18538176\/RT-CryptoZombiesHQ-Calling-all-CryptoZombies-Time-for-this-weeks-crypto-extravaganza-Click-the-link-below-to-watch-our-lat",
+            "created_at": "2023-06-08T23:54:42Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@loomnetwork",
+            "source": {
+                "title": "Loom Network Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@loomnetwork"
+            },
+            "title": "RT @CryptoZombiesHQ: Hey there, CryptoZombies Fam! \ud83e\udddf\u200d\ufe0f\ud83e\udddf\u200d\ufe0f Get ready for this week's adrenaline-pumping dose of crypto news! \n\nCheck out t\u2026",
+            "published_at": "2023-06-02T23:49:27Z",
+            "slug": "RT-CryptoZombiesHQ-Hey-there-CryptoZombies-Fam-Get-ready-for-this-weeks-adrenaline-pumping-dose-of-crypto-news-Check-out-t",
+            "currencies": [
+                {
+                    "code": "LOOMOLD",
+                    "title": "Loom Network (OLD)",
+                    "slug": "loom-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/loom-network\/"
+                },
+                {
+                    "code": "LOOM",
+                    "title": "Loom Network (NEW)",
+                    "slug": "loom-network-new",
+                    "url": "https:\/\/cryptopanic.com\/news\/loom-network-new\/"
+                }
+            ],
+            "id": 18493750,
+            "url": "https:\/\/cryptopanic.com\/news\/18493750\/RT-CryptoZombiesHQ-Hey-there-CryptoZombies-Fam-Get-ready-for-this-weeks-adrenaline-pumping-dose-of-crypto-news-Check-out-t",
+            "created_at": "2023-06-02T23:49:27Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@loomnetwork",
+            "source": {
+                "title": "Loom Network Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@loomnetwork"
+            },
+            "title": "\u23f0 A reminder for any dapp developers using WalletConnect. There are only four weeks left to complete the WalletConn\u2026",
+            "published_at": "2023-05-29T12:56:14Z",
+            "slug": "A-reminder-for-any-dapp-developers-using-WalletConnect-There-are-only-four-weeks-left-to-complete-the-WalletConn",
+            "currencies": [
+                {
+                    "code": "LOOMOLD",
+                    "title": "Loom Network (OLD)",
+                    "slug": "loom-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/loom-network\/"
+                },
+                {
+                    "code": "LOOM",
+                    "title": "Loom Network (NEW)",
+                    "slug": "loom-network-new",
+                    "url": "https:\/\/cryptopanic.com\/news\/loom-network-new\/"
+                }
+            ],
+            "id": 18459873,
+            "url": "https:\/\/cryptopanic.com\/news\/18459873\/A-reminder-for-any-dapp-developers-using-WalletConnect-There-are-only-four-weeks-left-to-complete-the-WalletConn",
+            "created_at": "2023-05-29T12:56:14Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@loomnetwork",
+            "source": {
+                "title": "Loom Network Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@loomnetwork"
+            },
+            "title": "RT @CryptoZombiesHQ:  We have some exciting news for developers! In collaboration with @MultiversX, we've published a new course on writin\u2026",
+            "published_at": "2023-05-08T04:09:44Z",
+            "slug": "RT-CryptoZombiesHQ-We-have-some-exciting-news-for-developers-In-collaboration-with-MultiversX-weve-published-a-new-course-on-writin",
+            "currencies": [
+                {
+                    "code": "LOOMOLD",
+                    "title": "Loom Network (OLD)",
+                    "slug": "loom-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/loom-network\/"
+                },
+                {
+                    "code": "LOOM",
+                    "title": "Loom Network (NEW)",
+                    "slug": "loom-network-new",
+                    "url": "https:\/\/cryptopanic.com\/news\/loom-network-new\/"
+                }
+            ],
+            "id": 18288259,
+            "url": "https:\/\/cryptopanic.com\/news\/18288259\/RT-CryptoZombiesHQ-We-have-some-exciting-news-for-developers-In-collaboration-with-MultiversX-weve-published-a-new-course-on-writin",
+            "created_at": "2023-05-08T04:09:44Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@loomnetwork",
+            "source": {
+                "title": "Loom Network Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@loomnetwork"
+            },
+            "title": " Want to know what we're working on this year? Read our latest company update to find out, it's a big one!\n\n",
+            "published_at": "2023-03-24T08:34:29Z",
+            "slug": "Want-to-know-what-were-working-on-this-year-Read-our-latest-company-update-to-find-out-its-a-big-one",
+            "currencies": [
+                {
+                    "code": "LOOMOLD",
+                    "title": "Loom Network (OLD)",
+                    "slug": "loom-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/loom-network\/"
+                },
+                {
+                    "code": "LOOM",
+                    "title": "Loom Network (NEW)",
+                    "slug": "loom-network-new",
+                    "url": "https:\/\/cryptopanic.com\/news\/loom-network-new\/"
+                }
+            ],
+            "id": 17961468,
+            "url": "https:\/\/cryptopanic.com\/news\/17961468\/Want-to-know-what-were-working-on-this-year-Read-our-latest-company-update-to-find-out-its-a-big-one",
+            "created_at": "2023-03-24T08:34:29Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@loomnetwork",
+            "source": {
+                "title": "Loom Network Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@loomnetwork"
+            },
+            "title": "Wondering what we've been up to this year? \ud83e\udd14\n\nYou won't have to wonder much longer!\n\nWe'll be publishing a developm\u2026",
+            "published_at": "2023-03-21T04:44:15Z",
+            "slug": "Wondering-what-weve-been-up-to-this-year-You-wont-have-to-wonder-much-longer-Well-be-publishing-a-developm",
+            "currencies": [
+                {
+                    "code": "LOOMOLD",
+                    "title": "Loom Network (OLD)",
+                    "slug": "loom-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/loom-network\/"
+                },
+                {
+                    "code": "LOOM",
+                    "title": "Loom Network (NEW)",
+                    "slug": "loom-network-new",
+                    "url": "https:\/\/cryptopanic.com\/news\/loom-network-new\/"
+                }
+            ],
+            "id": 17925979,
+            "url": "https:\/\/cryptopanic.com\/news\/17925979\/Wondering-what-weve-been-up-to-this-year-You-wont-have-to-wonder-much-longer-Well-be-publishing-a-developm",
+            "created_at": "2023-03-21T04:44:15Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@loomnetwork",
+            "source": {
+                "title": "Loom Network Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@loomnetwork"
+            },
+            "title": "Kudos to the CryptoZombies team for improving the UX of the online coding school. Long lived code bases can be diff\u2026",
+            "published_at": "2023-03-20T11:13:14Z",
+            "slug": "Kudos-to-the-CryptoZombies-team-for-improving-the-UX-of-the-online-coding-school-Long-lived-code-bases-can-be-diff",
+            "currencies": [
+                {
+                    "code": "LOOMOLD",
+                    "title": "Loom Network (OLD)",
+                    "slug": "loom-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/loom-network\/"
+                },
+                {
+                    "code": "LOOM",
+                    "title": "Loom Network (NEW)",
+                    "slug": "loom-network-new",
+                    "url": "https:\/\/cryptopanic.com\/news\/loom-network-new\/"
+                }
+            ],
+            "id": 17925981,
+            "url": "https:\/\/cryptopanic.com\/news\/17925981\/Kudos-to-the-CryptoZombies-team-for-improving-the-UX-of-the-online-coding-school-Long-lived-code-bases-can-be-diff",
+            "created_at": "2023-03-20T11:13:14Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@loomnetwork",
+            "source": {
+                "title": "Loom Network Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@loomnetwork"
+            },
+            "title": " This February our friends at Binance are giving you a chance to earn Trading Fee Rebate Vouchers and a Gift Card\u2026",
+            "published_at": "2023-02-13T05:41:21Z",
+            "slug": "This-February-our-friends-at-Binance-are-giving-you-a-chance-to-earn-Trading-Fee-Rebate-Vouchers-and-a-Gift-Card",
+            "currencies": [
+                {
+                    "code": "LOOMOLD",
+                    "title": "Loom Network (OLD)",
+                    "slug": "loom-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/loom-network\/"
+                },
+                {
+                    "code": "LOOM",
+                    "title": "Loom Network (NEW)",
+                    "slug": "loom-network-new",
+                    "url": "https:\/\/cryptopanic.com\/news\/loom-network-new\/"
+                }
+            ],
+            "id": 17623954,
+            "url": "https:\/\/cryptopanic.com\/news\/17623954\/This-February-our-friends-at-Binance-are-giving-you-a-chance-to-earn-Trading-Fee-Rebate-Vouchers-and-a-Gift-Card",
+            "created_at": "2023-02-13T05:41:21Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@loomnetwork",
+            "source": {
+                "title": "Loom Network Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@loomnetwork"
+            },
+            "title": " Binance US recently introduced the LOOM\/USD and LOOM\/USDT trading pairs, so trading LOOM is now easier than ever!",
+            "published_at": "2023-02-08T07:09:55Z",
+            "slug": "Binance-US-recently-introduced-the-LOOMUSD-and-LOOMUSDT-trading-pairs-so-trading-LOOM-is-now-easier-than-ever",
+            "currencies": [
+                {
+                    "code": "LOOMOLD",
+                    "title": "Loom Network (OLD)",
+                    "slug": "loom-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/loom-network\/"
+                },
+                {
+                    "code": "LOOM",
+                    "title": "Loom Network (NEW)",
+                    "slug": "loom-network-new",
+                    "url": "https:\/\/cryptopanic.com\/news\/loom-network-new\/"
+                }
+            ],
+            "id": 17582447,
+            "url": "https:\/\/cryptopanic.com\/news\/17582447\/Binance-US-recently-introduced-the-LOOMUSD-and-LOOMUSDT-trading-pairs-so-trading-LOOM-is-now-easier-than-ever",
+            "created_at": "2023-02-08T07:09:55Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@loomnetwork",
+            "source": {
+                "title": "Loom Network Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@loomnetwork"
+            },
+            "title": "Head over to our blog for the latest company update, in which we recap recent events as 2022 nears its end, and pro\u2026",
+            "published_at": "2022-12-07T09:40:19Z",
+            "slug": "Head-over-to-our-blog-for-the-latest-company-update-in-which-we-recap-recent-events-as-2022-nears-its-end-and-pro",
+            "currencies": [
+                {
+                    "code": "LOOMOLD",
+                    "title": "Loom Network (OLD)",
+                    "slug": "loom-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/loom-network\/"
+                },
+                {
+                    "code": "LOOM",
+                    "title": "Loom Network (NEW)",
+                    "slug": "loom-network-new",
+                    "url": "https:\/\/cryptopanic.com\/news\/loom-network-new\/"
+                }
+            ],
+            "id": 17099207,
+            "url": "https:\/\/cryptopanic.com\/news\/17099207\/Head-over-to-our-blog-for-the-latest-company-update-in-which-we-recap-recent-events-as-2022-nears-its-end-and-pro",
+            "created_at": "2022-12-07T09:40:19Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@loomnetwork",
+            "source": {
+                "title": "Loom Network Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@loomnetwork"
+            },
+            "title": "CryptoZombies just released a new TRON course \ud83e\udd2f\n\nIf you've got some free time this weekend you should check it out!",
+            "published_at": "2022-11-18T13:39:55Z",
+            "slug": "CryptoZombies-just-released-a-new-TRON-course-If-youve-got-some-free-time-this-weekend-you-should-check-it-out",
+            "currencies": [
+                {
+                    "code": "LOOMOLD",
+                    "title": "Loom Network (OLD)",
+                    "slug": "loom-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/loom-network\/"
+                },
+                {
+                    "code": "LOOM",
+                    "title": "Loom Network (NEW)",
+                    "slug": "loom-network-new",
+                    "url": "https:\/\/cryptopanic.com\/news\/loom-network-new\/"
+                },
+                {
+                    "code": "TRX",
+                    "title": "TRON",
+                    "slug": "tron",
+                    "url": "https:\/\/cryptopanic.com\/news\/tron\/"
+                }
+            ],
+            "id": 16939558,
+            "url": "https:\/\/cryptopanic.com\/news\/16939558\/CryptoZombies-just-released-a-new-TRON-course-If-youve-got-some-free-time-this-weekend-you-should-check-it-out",
+            "created_at": "2022-11-18T13:39:55Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@loomnetwork",
+            "source": {
+                "title": "Loom Network Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@loomnetwork"
+            },
+            "title": " The Ethereum Merge is now complete \ud83e\udd73\n\nLOOM deposit\/withdrawal via Ethereum has been re-enabled on the Basechain S\u2026",
+            "published_at": "2022-09-15T20:03:24Z",
+            "slug": "The-Ethereum-Merge-is-now-complete-LOOM-depositwithdrawal-via-Ethereum-has-been-re-enabled-on-the-Basechain-S",
+            "currencies": [
+                {
+                    "code": "LOOMOLD",
+                    "title": "Loom Network (OLD)",
+                    "slug": "loom-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/loom-network\/"
+                },
+                {
+                    "code": "LOOM",
+                    "title": "Loom Network (NEW)",
+                    "slug": "loom-network-new",
+                    "url": "https:\/\/cryptopanic.com\/news\/loom-network-new\/"
+                }
+            ],
+            "id": 16346337,
+            "url": "https:\/\/cryptopanic.com\/news\/16346337\/The-Ethereum-Merge-is-now-complete-LOOM-depositwithdrawal-via-Ethereum-has-been-re-enabled-on-the-Basechain-S",
+            "created_at": "2022-09-15T20:03:24Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@loomnetwork",
+            "source": {
+                "title": "Loom Network Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@loomnetwork"
+            },
+            "title": " The Ethereum Merge is just around the corner!\n\nAs a precautionary measure LOOM deposit\/withdrawal via Ethereum wi\u2026",
+            "published_at": "2022-09-14T14:19:22Z",
+            "slug": "The-Ethereum-Merge-is-just-around-the-corner-As-a-precautionary-measure-LOOM-depositwithdrawal-via-Ethereum-wi",
+            "currencies": [
+                {
+                    "code": "LOOMOLD",
+                    "title": "Loom Network (OLD)",
+                    "slug": "loom-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/loom-network\/"
+                },
+                {
+                    "code": "LOOM",
+                    "title": "Loom Network (NEW)",
+                    "slug": "loom-network-new",
+                    "url": "https:\/\/cryptopanic.com\/news\/loom-network-new\/"
+                }
+            ],
+            "id": 16334672,
+            "url": "https:\/\/cryptopanic.com\/news\/16334672\/The-Ethereum-Merge-is-just-around-the-corner-As-a-precautionary-measure-LOOM-depositwithdrawal-via-Ethereum-wi",
+            "created_at": "2022-09-14T14:19:22Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@loomnetwork",
+            "source": {
+                "title": "Loom Network Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@loomnetwork"
+            },
+            "title": "Hi CryptoZombies fans \n\nFollow @CryptoZombiesHQ to get the latest announcements of new features, courses, and even\u2026",
+            "published_at": "2022-09-02T07:07:58Z",
+            "slug": "Hi-CryptoZombies-fans-Follow-CryptoZombiesHQ-to-get-the-latest-announcements-of-new-features-courses-and-even",
+            "currencies": [
+                {
+                    "code": "LOOMOLD",
+                    "title": "Loom Network (OLD)",
+                    "slug": "loom-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/loom-network\/"
+                },
+                {
+                    "code": "LOOM",
+                    "title": "Loom Network (NEW)",
+                    "slug": "loom-network-new",
+                    "url": "https:\/\/cryptopanic.com\/news\/loom-network-new\/"
+                }
+            ],
+            "id": 16218150,
+            "url": "https:\/\/cryptopanic.com\/news\/16218150\/Hi-CryptoZombies-fans-Follow-CryptoZombiesHQ-to-get-the-latest-announcements-of-new-features-courses-and-even",
+            "created_at": "2022-09-02T07:07:58Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@loomnetwork",
+            "source": {
+                "title": "Loom Network Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@loomnetwork"
+            },
+            "title": "RT @CryptoZombiesHQ: Huge news! #CryptoZombies is merging with Happen Space to create the world\u2019s first social web3 learning platform. The\u2026",
+            "published_at": "2022-08-31T16:16:37Z",
+            "slug": "RT-CryptoZombiesHQ-Huge-news-CryptoZombies-is-merging-with-Happen-Space-to-create-the-worlds-first-social-web3-learning-platform-The",
+            "currencies": [
+                {
+                    "code": "LOOMOLD",
+                    "title": "Loom Network (OLD)",
+                    "slug": "loom-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/loom-network\/"
+                },
+                {
+                    "code": "LOOM",
+                    "title": "Loom Network (NEW)",
+                    "slug": "loom-network-new",
+                    "url": "https:\/\/cryptopanic.com\/news\/loom-network-new\/"
+                }
+            ],
+            "id": 16207814,
+            "url": "https:\/\/cryptopanic.com\/news\/16207814\/RT-CryptoZombiesHQ-Huge-news-CryptoZombies-is-merging-with-Happen-Space-to-create-the-worlds-first-social-web3-learning-platform-The",
+            "created_at": "2022-08-31T16:16:37Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

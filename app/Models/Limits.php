@@ -2,11 +2,13 @@
 
 namespace App\Models;
 
+use App\Models\Query\LimitsQuery;
 use Carbon\Carbon;
 use Domain\Limits\Enums\LimitsNotificationPeriodEnum;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\BelongsTo;
+use Illuminate\Database\Query\Builder;
 
 /**
  * @property-read int $id
@@ -35,6 +37,8 @@ use Illuminate\Database\Eloquent\Relations\BelongsTo;
  * @property Carbon $created_at
  * @property Carbon $updated_at
  * @property-read User $user
+ *
+ * @method static LimitsQuery query()
  */
 class Limits extends Model
 {
@@ -123,5 +127,15 @@ class Limits extends Model
     public function user(): BelongsTo
     {
         return $this->belongsTo(User::class, 'user_id', 'id');
+    }
+
+    /**
+     * @param  Builder  $query
+     *
+     * @see Limits::query()
+     */
+    public function newEloquentBuilder($query): LimitsQuery
+    {
+        return new LimitsQuery($query);
     }
 }

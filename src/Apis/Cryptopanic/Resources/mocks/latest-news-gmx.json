@@ -1,0 +1,863 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=GMX&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "Weekend Winners: These 3 Altcoins Led the Market in Price Increase",
+            "published_at": "2023-10-02T08:30:00Z",
+            "slug": "Weekend-Winners-These-3-Altcoins-Led-the-Market-in-Price-Increase",
+            "currencies": [
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "RNDR",
+                    "title": "Render",
+                    "slug": "render-token",
+                    "url": "https:\/\/cryptopanic.com\/news\/render-token\/"
+                },
+                {
+                    "code": "GMX",
+                    "title": "GMX",
+                    "slug": "gmx",
+                    "url": "https:\/\/cryptopanic.com\/news\/gmx\/"
+                }
+            ],
+            "id": 18941372,
+            "url": "https:\/\/cryptopanic.com\/news\/18941372\/Weekend-Winners-These-3-Altcoins-Led-the-Market-in-Price-Increase",
+            "created_at": "2023-10-02T08:30:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "What\u2019s behind GMX\u2019s rising V2 traction?",
+            "published_at": "2023-09-30T14:30:12Z",
+            "slug": "Whats-behind-GMXs-rising-V2-traction",
+            "currencies": [
+                {
+                    "code": "AVAX",
+                    "title": "Avalanche",
+                    "slug": "avalanche-2",
+                    "url": "https:\/\/cryptopanic.com\/news\/avalanche-2\/"
+                },
+                {
+                    "code": "GMX",
+                    "title": "GMX",
+                    "slug": "gmx",
+                    "url": "https:\/\/cryptopanic.com\/news\/gmx\/"
+                }
+            ],
+            "id": 18939252,
+            "url": "https:\/\/cryptopanic.com\/news\/18939252\/Whats-behind-GMXs-rising-V2-traction",
+            "created_at": "2023-09-30T14:30:12Z"
+        },
+        {
+            "kind": "news",
+            "domain": "bitcoinist.com",
+            "source": {
+                "title": "Bitcoinist",
+                "region": "en",
+                "domain": "bitcoinist.com",
+                "path": null
+            },
+            "title": "GMX Paid A Hefty Prize Because Of This Flaw",
+            "published_at": "2023-09-30T00:00:10Z",
+            "slug": "GMX-Paid-A-Hefty-Prize-Because-Of-This-Flaw",
+            "currencies": [
+                {
+                    "code": "AVAX",
+                    "title": "Avalanche",
+                    "slug": "avalanche-2",
+                    "url": "https:\/\/cryptopanic.com\/news\/avalanche-2\/"
+                },
+                {
+                    "code": "GMX",
+                    "title": "GMX",
+                    "slug": "gmx",
+                    "url": "https:\/\/cryptopanic.com\/news\/gmx\/"
+                }
+            ],
+            "id": 18938505,
+            "url": "https:\/\/cryptopanic.com\/news\/18938505\/GMX-Paid-A-Hefty-Prize-Because-Of-This-Flaw",
+            "created_at": "2023-09-30T00:00:10Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "theblock.co",
+            "source": {
+                "title": "The Block",
+                "region": "en",
+                "domain": "theblock.co",
+                "path": null
+            },
+            "title": "GMX granted $1 million bug bounty to Collider\u2019s research arm",
+            "published_at": "2023-09-28T15:05:05Z",
+            "slug": "GMX-granted-1-million-bug-bounty-to-Colliders-research-arm",
+            "currencies": [
+                {
+                    "code": "GMX",
+                    "title": "GMX",
+                    "slug": "gmx",
+                    "url": "https:\/\/cryptopanic.com\/news\/gmx\/"
+                }
+            ],
+            "id": 18935024,
+            "url": "https:\/\/cryptopanic.com\/news\/18935024\/GMX-granted-1-million-bug-bounty-to-Colliders-research-arm",
+            "created_at": "2023-09-28T15:05:05Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coingabbar.com",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "coingabbar",
+                "region": "en",
+                "domain": "coingabbar.com",
+                "path": null
+            },
+            "title": "Crypto Daily Roundup, 27 Sep: Crypto Volatility and Key Developments",
+            "published_at": "2023-09-27T08:30:00Z",
+            "slug": "Crypto-Daily-Roundup-27-Sep-Crypto-Volatility-and-Key-Developments",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "USDT",
+                    "title": "Tether",
+                    "slug": "tether",
+                    "url": "https:\/\/cryptopanic.com\/news\/tether\/"
+                },
+                {
+                    "code": "DOGE",
+                    "title": "Dogecoin",
+                    "slug": "dogecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/dogecoin\/"
+                },
+                {
+                    "code": "SHIB",
+                    "title": "Shiba Inu",
+                    "slug": "shiba-inu",
+                    "url": "https:\/\/cryptopanic.com\/news\/shiba-inu\/"
+                },
+                {
+                    "code": "MKR",
+                    "title": "Maker",
+                    "slug": "maker",
+                    "url": "https:\/\/cryptopanic.com\/news\/maker\/"
+                },
+                {
+                    "code": "APT",
+                    "title": "Aptos",
+                    "slug": "aptos",
+                    "url": "https:\/\/cryptopanic.com\/news\/aptos\/"
+                },
+                {
+                    "code": "GMX",
+                    "title": "GMX",
+                    "slug": "gmx",
+                    "url": "https:\/\/cryptopanic.com\/news\/gmx\/"
+                }
+            ],
+            "id": 18931134,
+            "url": "https:\/\/cryptopanic.com\/news\/18931134\/Crypto-Daily-Roundup-27-Sep-Crypto-Volatility-and-Key-Developments",
+            "created_at": "2023-09-27T08:30:00Z"
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 1,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 1,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Crypto Thunderstruck: THORChain (RUNE) 21% Charge Emerges As Top Weekly Gainer",
+            "published_at": "2023-08-12T14:50:44Z",
+            "slug": "Crypto-Thunderstruck-THORChain-RUNE-21-Charge-Emerges-As-Top-Weekly-Gainer",
+            "currencies": [
+                {
+                    "code": "SHIB",
+                    "title": "Shiba Inu",
+                    "slug": "shiba-inu",
+                    "url": "https:\/\/cryptopanic.com\/news\/shiba-inu\/"
+                },
+                {
+                    "code": "GMX",
+                    "title": "GMX",
+                    "slug": "gmx",
+                    "url": "https:\/\/cryptopanic.com\/news\/gmx\/"
+                }
+            ],
+            "id": 18833777,
+            "url": "https:\/\/cryptopanic.com\/news\/18833777\/Crypto-Thunderstruck-THORChain-RUNE-21-Charge-Emerges-As-Top-Weekly-Gainer",
+            "created_at": "2023-08-12T14:50:44Z"
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "GMX Drops 24% in 1 Month, Whales Rapidly Selling: What\u2019s Going On?",
+            "published_at": "2023-08-12T01:00:01Z",
+            "slug": "GMX-Drops-24-in-1-Month-Whales-Rapidly-Selling-Whats-Going-On",
+            "currencies": [
+                {
+                    "code": "XRP",
+                    "title": "XRP",
+                    "slug": "ripple",
+                    "url": "https:\/\/cryptopanic.com\/news\/ripple\/"
+                },
+                {
+                    "code": "AVAX",
+                    "title": "Avalanche",
+                    "slug": "avalanche-2",
+                    "url": "https:\/\/cryptopanic.com\/news\/avalanche-2\/"
+                },
+                {
+                    "code": "ARB",
+                    "title": "Arbitrum",
+                    "slug": "arbitrum",
+                    "url": "https:\/\/cryptopanic.com\/news\/arbitrum\/"
+                },
+                {
+                    "code": "GMX",
+                    "title": "GMX",
+                    "slug": "gmx",
+                    "url": "https:\/\/cryptopanic.com\/news\/gmx\/"
+                }
+            ],
+            "id": 18833151,
+            "url": "https:\/\/cryptopanic.com\/news\/18833151\/GMX-Drops-24-in-1-Month-Whales-Rapidly-Selling-Whats-Going-On",
+            "created_at": "2023-08-12T01:00:01Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "feeds2.benzinga.com",
+            "source": {
+                "title": "Benzinga",
+                "region": "en",
+                "domain": "feeds2.benzinga.com",
+                "path": null
+            },
+            "title": "Bitcoin, Ethereum Edge Lower Following PPI Data; GMX Becomes Top Loser",
+            "published_at": "2023-08-11T13:37:14Z",
+            "slug": "Bitcoin-Ethereum-Edge-Lower-Following-PPI-Data-GMX-Becomes-Top-Loser",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "GMX",
+                    "title": "GMX",
+                    "slug": "gmx",
+                    "url": "https:\/\/cryptopanic.com\/news\/gmx\/"
+                }
+            ],
+            "id": 18832122,
+            "url": "https:\/\/cryptopanic.com\/news\/18832122\/Bitcoin-Ethereum-Edge-Lower-Following-PPI-Data-GMX-Becomes-Top-Loser",
+            "created_at": "2023-08-11T13:37:14Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "theblock.co",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 1,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 1
+            },
+            "source": {
+                "title": "The Block",
+                "region": "en",
+                "domain": "theblock.co",
+                "path": null
+            },
+            "title": "Crypto user burns $8 million in tokens and NFTs as mystery continues",
+            "published_at": "2023-08-10T17:36:54Z",
+            "slug": "Crypto-user-burns-8-million-in-tokens-and-NFTs-as-mystery-continues",
+            "currencies": [
+                {
+                    "code": "GMX",
+                    "title": "GMX",
+                    "slug": "gmx",
+                    "url": "https:\/\/cryptopanic.com\/news\/gmx\/"
+                }
+            ],
+            "id": 18830404,
+            "url": "https:\/\/cryptopanic.com\/news\/18830404\/Crypto-user-burns-8-million-in-tokens-and-NFTs-as-mystery-continues",
+            "created_at": "2023-08-10T17:36:54Z"
+        },
+        {
+            "kind": "news",
+            "domain": "coinedition.com",
+            "source": {
+                "title": "coinedition",
+                "region": "en",
+                "domain": "coinedition.com",
+                "path": null
+            },
+            "title": "LINK, MKR, GMX Poised for a Breakout? Whale Activity Suggests So",
+            "published_at": "2023-08-09T08:11:13Z",
+            "slug": "LINK-MKR-GMX-Poised-for-a-Breakout-Whale-Activity-Suggests-So",
+            "currencies": [
+                {
+                    "code": "MKR",
+                    "title": "Maker",
+                    "slug": "maker",
+                    "url": "https:\/\/cryptopanic.com\/news\/maker\/"
+                },
+                {
+                    "code": "GMX",
+                    "title": "GMX",
+                    "slug": "gmx",
+                    "url": "https:\/\/cryptopanic.com\/news\/gmx\/"
+                }
+            ],
+            "id": 18826410,
+            "url": "https:\/\/cryptopanic.com\/news\/18826410\/LINK-MKR-GMX-Poised-for-a-Breakout-Whale-Activity-Suggests-So",
+            "created_at": "2023-08-09T08:11:13Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Ethereum Whale $4.5 Million Burn Shocks ETH Community, What\u2019s Going On?",
+            "published_at": "2023-08-07T20:00:56Z",
+            "slug": "Ethereum-Whale-45-Million-Burn-Shocks-ETH-Community-Whats-Going-On",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "DAI",
+                    "title": "Dai",
+                    "slug": "dai",
+                    "url": "https:\/\/cryptopanic.com\/news\/dai\/"
+                },
+                {
+                    "code": "GMX",
+                    "title": "GMX",
+                    "slug": "gmx",
+                    "url": "https:\/\/cryptopanic.com\/news\/gmx\/"
+                }
+            ],
+            "id": 18823149,
+            "url": "https:\/\/cryptopanic.com\/news\/18823149\/Ethereum-Whale-45-Million-Burn-Shocks-ETH-Community-Whats-Going-On",
+            "created_at": "2023-08-07T20:00:56Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coindesk.com",
+            "source": {
+                "title": "CoinDesk",
+                "region": "en",
+                "domain": "coindesk.com",
+                "path": null
+            },
+            "title": "Arbitrum's Most Popular DEX Goes Live With New Version Offering DOGE Pools at 40%",
+            "published_at": "2023-08-04T12:01:55Z",
+            "slug": "Arbitrums-Most-Popular-DEX-Goes-Live-With-New-Version-Offering-DOGE-Pools-at-40",
+            "currencies": [
+                {
+                    "code": "DOGE",
+                    "title": "Dogecoin",
+                    "slug": "dogecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/dogecoin\/"
+                },
+                {
+                    "code": "GMX",
+                    "title": "GMX",
+                    "slug": "gmx",
+                    "url": "https:\/\/cryptopanic.com\/news\/gmx\/"
+                }
+            ],
+            "id": 18817469,
+            "url": "https:\/\/cryptopanic.com\/news\/18817469\/Arbitrums-Most-Popular-DEX-Goes-Live-With-New-Version-Offering-DOGE-Pools-at-40",
+            "created_at": "2023-08-04T12:01:55Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "dailyhodl.com",
+            "source": {
+                "title": "The Daily Hodl",
+                "region": "en",
+                "domain": "dailyhodl.com",
+                "path": null
+            },
+            "title": "Trader Warns of Steep Decline for One DEX Altcoin, Updates Outlook on Bitcoin and Four Other Crypto Assets",
+            "published_at": "2023-07-22T11:45:33Z",
+            "slug": "Trader-Warns-of-Steep-Decline-for-One-DEX-Altcoin-Updates-Outlook-on-Bitcoin-and-Four-Other-Crypto-Assets",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "GMX",
+                    "title": "GMX",
+                    "slug": "gmx",
+                    "url": "https:\/\/cryptopanic.com\/news\/gmx\/"
+                }
+            ],
+            "id": 18789847,
+            "url": "https:\/\/cryptopanic.com\/news\/18789847\/Trader-Warns-of-Steep-Decline-for-One-DEX-Altcoin-Updates-Outlook-on-Bitcoin-and-Four-Other-Crypto-Assets",
+            "created_at": "2023-07-22T11:45:33Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptonews.com",
+            "source": {
+                "title": "Cryptonews",
+                "region": "en",
+                "domain": "cryptonews.com",
+                "path": null
+            },
+            "title": "GMX Price Prediction as GMX Slumps 6.5% - Here\u2019s Where the DEX Token Could Be Headed Next",
+            "published_at": "2023-07-21T22:26:00Z",
+            "slug": "GMX-Price-Prediction-as-GMX-Slumps-65-Heres-Where-the-DEX-Token-Could-Be-Headed-Next",
+            "currencies": [
+                {
+                    "code": "GMX",
+                    "title": "GMX",
+                    "slug": "gmx",
+                    "url": "https:\/\/cryptopanic.com\/news\/gmx\/"
+                }
+            ],
+            "id": 18789348,
+            "url": "https:\/\/cryptopanic.com\/news\/18789348\/GMX-Price-Prediction-as-GMX-Slumps-65-Heres-Where-the-DEX-Token-Could-Be-Headed-Next",
+            "created_at": "2023-07-21T22:26:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@single_finance",
+            "source": {
+                "title": "Single Finance Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@single_finance"
+            },
+            "title": "Yields are looking exceptionally good for $VELA $GMX $PENDLE on @single_finance !!!\n\n@vela_exchange @GMX_IO\u2026",
+            "published_at": "2023-07-11T17:23:00Z",
+            "slug": "Yields-are-looking-exceptionally-good-for-VELA-GMX-PENDLE-on-single_finance-vela_exchange-GMX_IO",
+            "currencies": [
+                {
+                    "code": "SINGLE",
+                    "title": "Single Finance",
+                    "slug": "single-finance",
+                    "url": "https:\/\/cryptopanic.com\/news\/single-finance\/"
+                },
+                {
+                    "code": "AUTOS",
+                    "title": "AutoSingle",
+                    "slug": "autosingle",
+                    "url": "https:\/\/cryptopanic.com\/news\/autosingle\/"
+                },
+                {
+                    "code": "GMX",
+                    "title": "GMX",
+                    "slug": "gmx",
+                    "url": "https:\/\/cryptopanic.com\/news\/gmx\/"
+                }
+            ],
+            "id": 18767083,
+            "url": "https:\/\/cryptopanic.com\/news\/18767083\/Yields-are-looking-exceptionally-good-for-VELA-GMX-PENDLE-on-single_finance-vela_exchange-GMX_IO",
+            "created_at": "2023-07-11T17:23:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GMX_IO",
+            "source": {
+                "title": "GMX Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gmx_io"
+            },
+            "title": "RT @IntractBuzz: 1\/ We\u2019re bringing together some of the best *DeFi growth leaders* in web3! \n\nThe Intract Community\u2019s Roundtable this time\u2026",
+            "published_at": "2023-07-11T15:54:41Z",
+            "slug": "RT-IntractBuzz-1-Were-bringing-together-some-of-the-best-DeFi-growth-leaders-in-web3-The-Intract-Communitys-Roundtable-this-time",
+            "currencies": [
+                {
+                    "code": "GMX",
+                    "title": "GMX",
+                    "slug": "gmx",
+                    "url": "https:\/\/cryptopanic.com\/news\/gmx\/"
+                }
+            ],
+            "id": 18764452,
+            "url": "https:\/\/cryptopanic.com\/news\/18764452\/RT-IntractBuzz-1-Were-bringing-together-some-of-the-best-DeFi-growth-leaders-in-web3-The-Intract-Communitys-Roundtable-this-time",
+            "created_at": "2023-07-11T15:54:41Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GMX_IO",
+            "source": {
+                "title": "GMX Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gmx_io"
+            },
+            "title": "RT @kunjitweets: Hey there, crypto enthusiasts!\n\nExciting news is on the horizon! Kunji Finance is taking things to the next level with the\u2026",
+            "published_at": "2023-07-11T15:54:33Z",
+            "slug": "RT-kunjitweets-Hey-there-crypto-enthusiasts-Exciting-news-is-on-the-horizon-Kunji-Finance-is-taking-things-to-the-next-level-with-the",
+            "currencies": [
+                {
+                    "code": "GMX",
+                    "title": "GMX",
+                    "slug": "gmx",
+                    "url": "https:\/\/cryptopanic.com\/news\/gmx\/"
+                }
+            ],
+            "id": 18764453,
+            "url": "https:\/\/cryptopanic.com\/news\/18764453\/RT-kunjitweets-Hey-there-crypto-enthusiasts-Exciting-news-is-on-the-horizon-Kunji-Finance-is-taking-things-to-the-next-level-with-the",
+            "created_at": "2023-07-11T15:54:33Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GMX_IO",
+            "source": {
+                "title": "GMX Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gmx_io"
+            },
+            "title": "RT @stellaxyz_: Liven up your Tuesday with Stella AMA with @Jonas_ALA, Communications Contributor of @GMX_IO on July 11 at 2:00 pm UTC\n\nTun\u2026",
+            "published_at": "2023-07-10T17:14:55Z",
+            "slug": "RT-stellaxyz_-Liven-up-your-Tuesday-with-Stella-AMA-with-Jonas_ALA-Communications-Contributor-of-GMX_IO-on-July-11-at-200-pm-UTC-Tun",
+            "currencies": [
+                {
+                    "code": "GMX",
+                    "title": "GMX",
+                    "slug": "gmx",
+                    "url": "https:\/\/cryptopanic.com\/news\/gmx\/"
+                }
+            ],
+            "id": 18756320,
+            "url": "https:\/\/cryptopanic.com\/news\/18756320\/RT-stellaxyz_-Liven-up-your-Tuesday-with-Stella-AMA-with-Jonas_ALA-Communications-Contributor-of-GMX_IO-on-July-11-at-200-pm-UTC-Tun",
+            "created_at": "2023-07-10T17:14:55Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@FactorDAO",
+            "source": {
+                "title": "FactorDAO Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@factordao"
+            },
+            "title": "The goal of the pxGMX Maximized Yield Vault is to accumulate $GMX by utilizing Pirex, a product developed by\u2026",
+            "published_at": "2023-07-10T17:00:06Z",
+            "slug": "The-goal-of-the-pxGMX-Maximized-Yield-Vault-is-to-accumulate-GMX-by-utilizing-Pirex-a-product-developed-by",
+            "currencies": [
+                {
+                    "code": "FCTR",
+                    "title": "FactorDAO",
+                    "slug": "factor",
+                    "url": "https:\/\/cryptopanic.com\/news\/factor\/"
+                },
+                {
+                    "code": "GMX",
+                    "title": "GMX",
+                    "slug": "gmx",
+                    "url": "https:\/\/cryptopanic.com\/news\/gmx\/"
+                }
+            ],
+            "id": 18756120,
+            "url": "https:\/\/cryptopanic.com\/news\/18756120\/The-goal-of-the-pxGMX-Maximized-Yield-Vault-is-to-accumulate-GMX-by-utilizing-Pirex-a-product-developed-by",
+            "created_at": "2023-07-10T17:00:06Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@GMX_IO",
+            "source": {
+                "title": "GMX Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@gmx_io"
+            },
+            "title": "RT @OctaviaToken:  We're excited to announce a strategic relationship with @GMX_IO to bring perpetual trading to Octavia.\n\nThanks to this\u2026",
+            "published_at": "2023-07-07T14:00:55Z",
+            "slug": "RT-OctaviaToken-Were-excited-to-announce-a-strategic-relationship-with-GMX_IO-to-bring-perpetual-trading-to-Octavia-Thanks-to-this",
+            "currencies": [
+                {
+                    "code": "GMX",
+                    "title": "GMX",
+                    "slug": "gmx",
+                    "url": "https:\/\/cryptopanic.com\/news\/gmx\/"
+                }
+            ],
+            "id": 18740283,
+            "url": "https:\/\/cryptopanic.com\/news\/18740283\/RT-OctaviaToken-Were-excited-to-announce-a-strategic-relationship-with-GMX_IO-to-bring-perpetual-trading-to-Octavia-Thanks-to-this",
+            "created_at": "2023-07-07T14:00:55Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

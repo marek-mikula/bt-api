@@ -1,0 +1,707 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=POLS&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "@polkastarter",
+            "source": {
+                "title": "Polkastarter Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@polkastarter"
+            },
+            "title": "RT @PoolsideCo: 2 days to go for our #DemoDay \u231b \n\n\ufe0f \n July 13, 2 PM UTC",
+            "published_at": "2023-07-11T18:44:54Z",
+            "slug": "RT-PoolsideCo-2-days-to-go-for-our-DemoDay-July-13-2-PM-UTC",
+            "currencies": [
+                {
+                    "code": "POLS",
+                    "title": "Polkastarter",
+                    "slug": "polkastarter",
+                    "url": "https:\/\/cryptopanic.com\/news\/polkastarter\/"
+                }
+            ],
+            "id": 18766550,
+            "url": "https:\/\/cryptopanic.com\/news\/18766550\/RT-PoolsideCo-2-days-to-go-for-our-DemoDay-July-13-2-PM-UTC",
+            "created_at": "2023-07-11T18:44:54Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@polkastarter",
+            "source": {
+                "title": "Polkastarter Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@polkastarter"
+            },
+            "title": "Discover #Polkastarter's future as told by our founders in the latest AMA!\n\nUnveil our strategies, upcoming feature\u2026",
+            "published_at": "2023-07-11T17:40:02Z",
+            "slug": "Discover-Polkastarters-future-as-told-by-our-founders-in-the-latest-AMA-Unveil-our-strategies-upcoming-feature",
+            "currencies": [
+                {
+                    "code": "POLS",
+                    "title": "Polkastarter",
+                    "slug": "polkastarter",
+                    "url": "https:\/\/cryptopanic.com\/news\/polkastarter\/"
+                }
+            ],
+            "id": 18766551,
+            "url": "https:\/\/cryptopanic.com\/news\/18766551\/Discover-Polkastarters-future-as-told-by-our-founders-in-the-latest-AMA-Unveil-our-strategies-upcoming-feature",
+            "created_at": "2023-07-11T17:40:02Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@polkastarter",
+            "source": {
+                "title": "Polkastarter Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@polkastarter"
+            },
+            "title": "RT @PoolsideCo: Investors, builders, #Web3 curious!\n\nDiscover how @portals_fi, @theblockless, @AetherGamesInc &amp; @OwnYourSaga tackle the key\u2026",
+            "published_at": "2023-07-10T17:08:42Z",
+            "slug": "RT-PoolsideCo-Investors-builders-Web3-curious-Discover-how-portals_fi-theblockless-AetherGamesInc-amp-OwnYourSaga-tackle-the-key",
+            "currencies": [
+                {
+                    "code": "POLS",
+                    "title": "Polkastarter",
+                    "slug": "polkastarter",
+                    "url": "https:\/\/cryptopanic.com\/news\/polkastarter\/"
+                }
+            ],
+            "id": 18758376,
+            "url": "https:\/\/cryptopanic.com\/news\/18758376\/RT-PoolsideCo-Investors-builders-Web3-curious-Discover-how-portals_fi-theblockless-AetherGamesInc-amp-OwnYourSaga-tackle-the-key",
+            "created_at": "2023-07-10T17:08:42Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@polkastarter",
+            "source": {
+                "title": "Polkastarter Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@polkastarter"
+            },
+            "title": "A true crypto investor won't miss this.\n\nRegister for Poolside Web3 Accelerator's first Demo Day now at\u2026",
+            "published_at": "2023-07-10T14:55:08Z",
+            "slug": "A-true-crypto-investor-wont-miss-this-Register-for-Poolside-Web3-Accelerators-first-Demo-Day-now-at",
+            "currencies": [
+                {
+                    "code": "POLS",
+                    "title": "Polkastarter",
+                    "slug": "polkastarter",
+                    "url": "https:\/\/cryptopanic.com\/news\/polkastarter\/"
+                }
+            ],
+            "id": 18758377,
+            "url": "https:\/\/cryptopanic.com\/news\/18758377\/A-true-crypto-investor-wont-miss-this-Register-for-Poolside-Web3-Accelerators-first-Demo-Day-now-at",
+            "created_at": "2023-07-10T14:55:08Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@polkastarter",
+            "source": {
+                "title": "Polkastarter Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@polkastarter"
+            },
+            "title": "RT @BlockDownConf:  We are excited to announce Jo\u00e3o Leite, Head of Business Development at @polkastarter , as a speaker at #Blockdown23!\u2026",
+            "published_at": "2023-07-10T12:37:07Z",
+            "slug": "RT-BlockDownConf-We-are-excited-to-announce-Joao-Leite-Head-of-Business-Development-at-polkastarter-as-a-speaker-at-Blockdown23",
+            "currencies": [
+                {
+                    "code": "POLS",
+                    "title": "Polkastarter",
+                    "slug": "polkastarter",
+                    "url": "https:\/\/cryptopanic.com\/news\/polkastarter\/"
+                }
+            ],
+            "id": 18758378,
+            "url": "https:\/\/cryptopanic.com\/news\/18758378\/RT-BlockDownConf-We-are-excited-to-announce-Joao-Leite-Head-of-Business-Development-at-polkastarter-as-a-speaker-at-Blockdown23",
+            "created_at": "2023-07-10T12:37:07Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@polkastarter",
+            "source": {
+                "title": "Polkastarter Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@polkastarter"
+            },
+            "title": "Join us at the #PoolsideAccelerator Demo Day!\n\nDon't miss the progress of exceptional @PoolsideCo cohortees.\n\nExper\u2026",
+            "published_at": "2023-07-08T12:20:15Z",
+            "slug": "Join-us-at-the-PoolsideAccelerator-Demo-Day-Dont-miss-the-progress-of-exceptional-PoolsideCo-cohortees-Exper",
+            "currencies": [
+                {
+                    "code": "POLS",
+                    "title": "Polkastarter",
+                    "slug": "polkastarter",
+                    "url": "https:\/\/cryptopanic.com\/news\/polkastarter\/"
+                }
+            ],
+            "id": 18746641,
+            "url": "https:\/\/cryptopanic.com\/news\/18746641\/Join-us-at-the-PoolsideAccelerator-Demo-Day-Dont-miss-the-progress-of-exceptional-PoolsideCo-cohortees-Exper",
+            "created_at": "2023-07-08T12:20:15Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@polkastarter",
+            "source": {
+                "title": "Polkastarter Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@polkastarter"
+            },
+            "title": "RT @PoolsideCo: Up next at #PoolsideAccelerator: our inaugural #DemoDay! \n\n Tune in on July 13 for a firsthand experience. Prep to be ins\u2026",
+            "published_at": "2023-07-07T17:07:43Z",
+            "slug": "RT-PoolsideCo-Up-next-at-PoolsideAccelerator-our-inaugural-DemoDay-Tune-in-on-July-13-for-a-firsthand-experience-Prep-to-be-ins",
+            "currencies": [
+                {
+                    "code": "POLS",
+                    "title": "Polkastarter",
+                    "slug": "polkastarter",
+                    "url": "https:\/\/cryptopanic.com\/news\/polkastarter\/"
+                }
+            ],
+            "id": 18742012,
+            "url": "https:\/\/cryptopanic.com\/news\/18742012\/RT-PoolsideCo-Up-next-at-PoolsideAccelerator-our-inaugural-DemoDay-Tune-in-on-July-13-for-a-firsthand-experience-Prep-to-be-ins",
+            "created_at": "2023-07-07T17:07:43Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@polkastarter",
+            "source": {
+                "title": "Polkastarter Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@polkastarter"
+            },
+            "title": "Is this summer too quiet for you?\n\nEmbrace peace of mind by shifting your focus from chasing the next catalyst. Ins\u2026",
+            "published_at": "2023-07-07T11:58:02Z",
+            "slug": "Is-this-summer-too-quiet-for-you-Embrace-peace-of-mind-by-shifting-your-focus-from-chasing-the-next-catalyst-Ins",
+            "currencies": [
+                {
+                    "code": "POLS",
+                    "title": "Polkastarter",
+                    "slug": "polkastarter",
+                    "url": "https:\/\/cryptopanic.com\/news\/polkastarter\/"
+                }
+            ],
+            "id": 18742013,
+            "url": "https:\/\/cryptopanic.com\/news\/18742013\/Is-this-summer-too-quiet-for-you-Embrace-peace-of-mind-by-shifting-your-focus-from-chasing-the-next-catalyst-Ins",
+            "created_at": "2023-07-07T11:58:02Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@polkastarter",
+            "source": {
+                "title": "Polkastarter Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@polkastarter"
+            },
+            "title": "Elon Musk's recent changes on #Twitter sparked a heated debate on data access &amp; user control.\n\nIt's a bold reminde\u2026",
+            "published_at": "2023-07-06T15:20:00Z",
+            "slug": "Elon-Musks-recent-changes-on-Twitter-sparked-a-heated-debate-on-data-access-amp-user-control-Its-a-bold-reminde",
+            "currencies": [
+                {
+                    "code": "POLS",
+                    "title": "Polkastarter",
+                    "slug": "polkastarter",
+                    "url": "https:\/\/cryptopanic.com\/news\/polkastarter\/"
+                }
+            ],
+            "id": 18734685,
+            "url": "https:\/\/cryptopanic.com\/news\/18734685\/Elon-Musks-recent-changes-on-Twitter-sparked-a-heated-debate-on-data-access-amp-user-control-Its-a-bold-reminde",
+            "created_at": "2023-07-06T15:20:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@polkastarter",
+            "source": {
+                "title": "Polkastarter Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@polkastarter"
+            },
+            "title": " Final call! Join our survey &amp; enter to win $100 in POLS! \n\nShare your thoughts on our brands to help us improve!\u2026",
+            "published_at": "2023-07-05T11:13:00Z",
+            "slug": "Final-call-Join-our-survey-amp-enter-to-win-100-in-POLS-Share-your-thoughts-on-our-brands-to-help-us-improve",
+            "currencies": [
+                {
+                    "code": "POLS",
+                    "title": "Polkastarter",
+                    "slug": "polkastarter",
+                    "url": "https:\/\/cryptopanic.com\/news\/polkastarter\/"
+                }
+            ],
+            "id": 18726179,
+            "url": "https:\/\/cryptopanic.com\/news\/18726179\/Final-call-Join-our-survey-amp-enter-to-win-100-in-POLS-Share-your-thoughts-on-our-brands-to-help-us-improve",
+            "created_at": "2023-07-05T11:13:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@polkastarter",
+            "source": {
+                "title": "Polkastarter Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@polkastarter"
+            },
+            "title": "RT @PoolsideCo: Poolside Web3 Accelerator's first Demo Day is almost here!\n\nRegister at \nTune in: July 13, 2-3pm U\u2026",
+            "published_at": "2023-07-05T07:31:57Z",
+            "slug": "RT-PoolsideCo-Poolside-Web3-Accelerators-first-Demo-Day-is-almost-here-Register-at-Tune-in-July-13-2-3pm-U",
+            "currencies": [
+                {
+                    "code": "POLS",
+                    "title": "Polkastarter",
+                    "slug": "polkastarter",
+                    "url": "https:\/\/cryptopanic.com\/news\/polkastarter\/"
+                }
+            ],
+            "id": 18718261,
+            "url": "https:\/\/cryptopanic.com\/news\/18718261\/RT-PoolsideCo-Poolside-Web3-Accelerators-first-Demo-Day-is-almost-here-Register-at-Tune-in-July-13-2-3pm-U",
+            "created_at": "2023-07-05T07:31:57Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@polkastarter",
+            "source": {
+                "title": "Polkastarter Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@polkastarter"
+            },
+            "title": "Backlash in #cryptotwitter over Twitter's rate limit \n\nConsidering #Web3 social networks like @lensprotocol? We've\u2026",
+            "published_at": "2023-07-04T16:46:06Z",
+            "slug": "Backlash-in-cryptotwitter-over-Twitters-rate-limit-Considering-Web3-social-networks-like-lensprotocol-Weve",
+            "currencies": [
+                {
+                    "code": "POLS",
+                    "title": "Polkastarter",
+                    "slug": "polkastarter",
+                    "url": "https:\/\/cryptopanic.com\/news\/polkastarter\/"
+                }
+            ],
+            "id": 18718262,
+            "url": "https:\/\/cryptopanic.com\/news\/18718262\/Backlash-in-cryptotwitter-over-Twitters-rate-limit-Considering-Web3-social-networks-like-lensprotocol-Weve",
+            "created_at": "2023-07-04T16:46:06Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@polkastarter",
+            "source": {
+                "title": "Polkastarter Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@polkastarter"
+            },
+            "title": "Thank you to everyone who tuned into Our Community #AMA last week!\n\nWith our founders, @mikegameiro &amp; @dstockhaus,\u2026",
+            "published_at": "2023-07-03T17:45:45Z",
+            "slug": "Thank-you-to-everyone-who-tuned-into-Our-Community-AMA-last-week-With-our-founders-mikegameiro-amp-dstockhaus",
+            "currencies": [
+                {
+                    "code": "POLS",
+                    "title": "Polkastarter",
+                    "slug": "polkastarter",
+                    "url": "https:\/\/cryptopanic.com\/news\/polkastarter\/"
+                }
+            ],
+            "id": 18711134,
+            "url": "https:\/\/cryptopanic.com\/news\/18711134\/Thank-you-to-everyone-who-tuned-into-Our-Community-AMA-last-week-With-our-founders-mikegameiro-amp-dstockhaus",
+            "created_at": "2023-07-03T17:45:45Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@polkastarter",
+            "source": {
+                "title": "Polkastarter Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@polkastarter"
+            },
+            "title": "We've just crossed a 1000-day milestone with $POLS this week!\n\nA hearty thank you to each one of you for accompanyi\u2026",
+            "published_at": "2023-07-02T12:04:05Z",
+            "slug": "Weve-just-crossed-a-1000-day-milestone-with-POLS-this-week-A-hearty-thank-you-to-each-one-of-you-for-accompanyi",
+            "currencies": [
+                {
+                    "code": "POLS",
+                    "title": "Polkastarter",
+                    "slug": "polkastarter",
+                    "url": "https:\/\/cryptopanic.com\/news\/polkastarter\/"
+                }
+            ],
+            "id": 18704120,
+            "url": "https:\/\/cryptopanic.com\/news\/18704120\/Weve-just-crossed-a-1000-day-milestone-with-POLS-this-week-A-hearty-thank-you-to-each-one-of-you-for-accompanyi",
+            "created_at": "2023-07-02T12:04:05Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@polkastarter",
+            "source": {
+                "title": "Polkastarter Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@polkastarter"
+            },
+            "title": "Participate in shaping the future of the $POLS ecosystem!\n\nAllocate 5 minutes to our survey, share your insights, a\u2026",
+            "published_at": "2023-07-01T17:57:05Z",
+            "slug": "Participate-in-shaping-the-future-of-the-POLS-ecosystem-Allocate-5-minutes-to-our-survey-share-your-insights-a",
+            "currencies": [
+                {
+                    "code": "POLS",
+                    "title": "Polkastarter",
+                    "slug": "polkastarter",
+                    "url": "https:\/\/cryptopanic.com\/news\/polkastarter\/"
+                }
+            ],
+            "id": 18699793,
+            "url": "https:\/\/cryptopanic.com\/news\/18699793\/Participate-in-shaping-the-future-of-the-POLS-ecosystem-Allocate-5-minutes-to-our-survey-share-your-insights-a",
+            "created_at": "2023-07-01T17:57:05Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@polkastarter",
+            "source": {
+                "title": "Polkastarter Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@polkastarter"
+            },
+            "title": " Witness our remarkable progress across the Launchpad, Acceleration, Hub, and Gaming pillars in our action-packed,\u2026",
+            "published_at": "2023-06-30T11:56:21Z",
+            "slug": "Witness-our-remarkable-progress-across-the-Launchpad-Acceleration-Hub-and-Gaming-pillars-in-our-action-packed",
+            "currencies": [
+                {
+                    "code": "POLS",
+                    "title": "Polkastarter",
+                    "slug": "polkastarter",
+                    "url": "https:\/\/cryptopanic.com\/news\/polkastarter\/"
+                }
+            ],
+            "id": 18695267,
+            "url": "https:\/\/cryptopanic.com\/news\/18695267\/Witness-our-remarkable-progress-across-the-Launchpad-Acceleration-Hub-and-Gaming-pillars-in-our-action-packed",
+            "created_at": "2023-06-30T11:56:21Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@polkastarter",
+            "source": {
+                "title": "Polkastarter Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@polkastarter"
+            },
+            "title": "Calling all crypto enthusiasts, web3 startups, and investors!\n\nDon't miss the @PoolsideCo Accelerator Demo Day.\n\nCo\u2026",
+            "published_at": "2023-06-29T15:36:52Z",
+            "slug": "Calling-all-crypto-enthusiasts-web3-startups-and-investors-Dont-miss-the-PoolsideCo-Accelerator-Demo-Day-Co",
+            "currencies": [
+                {
+                    "code": "POLS",
+                    "title": "Polkastarter",
+                    "slug": "polkastarter",
+                    "url": "https:\/\/cryptopanic.com\/news\/polkastarter\/"
+                }
+            ],
+            "id": 18687741,
+            "url": "https:\/\/cryptopanic.com\/news\/18687741\/Calling-all-crypto-enthusiasts-web3-startups-and-investors-Dont-miss-the-PoolsideCo-Accelerator-Demo-Day-Co",
+            "created_at": "2023-06-29T15:36:52Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@polkastarter",
+            "source": {
+                "title": "Polkastarter Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@polkastarter"
+            },
+            "title": "Join @CryptoverseVIP's thrilling LIVE Summer Playtest until June 30 \ufe0f\n\nImmerse yourself in the mind-blowing\u2026",
+            "published_at": "2023-06-28T20:42:08Z",
+            "slug": "Join-CryptoverseVIPs-thrilling-LIVE-Summer-Playtest-until-June-30-Immerse-yourself-in-the-mind-blowing",
+            "currencies": [
+                {
+                    "code": "POLS",
+                    "title": "Polkastarter",
+                    "slug": "polkastarter",
+                    "url": "https:\/\/cryptopanic.com\/news\/polkastarter\/"
+                }
+            ],
+            "id": 18679792,
+            "url": "https:\/\/cryptopanic.com\/news\/18679792\/Join-CryptoverseVIPs-thrilling-LIVE-Summer-Playtest-until-June-30-Immerse-yourself-in-the-mind-blowing",
+            "created_at": "2023-06-28T20:42:08Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@polkastarter",
+            "source": {
+                "title": "Polkastarter Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@polkastarter"
+            },
+            "title": "RT @PoolsideCo: What sets us apart from other #web3 accelerators?\n\nAt #PoolsideAccelerator we don't just advise, we partner. Our team is yo\u2026",
+            "published_at": "2023-06-28T19:37:01Z",
+            "slug": "RT-PoolsideCo-What-sets-us-apart-from-other-web3-accelerators-At-PoolsideAccelerator-we-dont-just-advise-we-partner-Our-team-is-yo",
+            "currencies": [
+                {
+                    "code": "POLS",
+                    "title": "Polkastarter",
+                    "slug": "polkastarter",
+                    "url": "https:\/\/cryptopanic.com\/news\/polkastarter\/"
+                }
+            ],
+            "id": 18679793,
+            "url": "https:\/\/cryptopanic.com\/news\/18679793\/RT-PoolsideCo-What-sets-us-apart-from-other-web3-accelerators-At-PoolsideAccelerator-we-dont-just-advise-we-partner-Our-team-is-yo",
+            "created_at": "2023-06-28T19:37:01Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "@polkastarter",
+            "source": {
+                "title": "Polkastarter Twitter",
+                "region": "en",
+                "domain": "twitter.com",
+                "path": "@polkastarter"
+            },
+            "title": "Don't miss the Polkastarter Community AMA today!\n\n Join co-founders Miguel Leite &amp; Daniel Stockhaus on Twitter Sp\u2026",
+            "published_at": "2023-06-28T12:00:13Z",
+            "slug": "Dont-miss-the-Polkastarter-Community-AMA-today-Join-co-founders-Miguel-Leite-amp-Daniel-Stockhaus-on-Twitter-Sp",
+            "currencies": [
+                {
+                    "code": "POLS",
+                    "title": "Polkastarter",
+                    "slug": "polkastarter",
+                    "url": "https:\/\/cryptopanic.com\/news\/polkastarter\/"
+                }
+            ],
+            "id": 18679794,
+            "url": "https:\/\/cryptopanic.com\/news\/18679794\/Dont-miss-the-Polkastarter-Community-AMA-today-Join-co-founders-Miguel-Leite-amp-Daniel-Stockhaus-on-Twitter-Sp",
+            "created_at": "2023-06-28T12:00:13Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

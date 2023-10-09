@@ -1,0 +1,917 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=STX&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "cryptodaily.co.uk",
+            "source": {
+                "title": "CryptoDaily",
+                "region": "en",
+                "domain": "cryptodaily.co.uk",
+                "path": null
+            },
+            "title": "\"Hidden Under $1 Gems: Stacks (STX), Everlodge (ELDG), and Immutable (IMX) - Affordable Tokens with Strong Fundamentals!\"",
+            "published_at": "2023-10-02T14:00:58Z",
+            "slug": "Hidden-Under-1-Gems-Stacks-STX-Everlodge-ELDG-and-Immutable-IMX-Affordable-Tokens-with-Strong-Fundamentals",
+            "currencies": [
+                {
+                    "code": "STX",
+                    "title": "Stacks",
+                    "slug": "blockstack",
+                    "url": "https:\/\/cryptopanic.com\/news\/blockstack\/"
+                }
+            ],
+            "id": 18942214,
+            "url": "https:\/\/cryptopanic.com\/news\/18942214\/Hidden-Under-1-Gems-Stacks-STX-Everlodge-ELDG-and-Immutable-IMX-Affordable-Tokens-with-Strong-Fundamentals",
+            "created_at": "2023-10-02T14:00:58Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptodaily.co.uk",
+            "source": {
+                "title": "CryptoDaily",
+                "region": "en",
+                "domain": "cryptodaily.co.uk",
+                "path": null
+            },
+            "title": "Amid Bearish Decline in Dogecoin (DOGE) and Stacks (STX), Investors Find Haven in Kangamoon (KANG)",
+            "published_at": "2023-09-28T15:04:32Z",
+            "slug": "Amid-Bearish-Decline-in-Dogecoin-DOGE-and-Stacks-STX-Investors-Find-Haven-in-Kangamoon-KANG",
+            "currencies": [
+                {
+                    "code": "DOGE",
+                    "title": "Dogecoin",
+                    "slug": "dogecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/dogecoin\/"
+                },
+                {
+                    "code": "STX",
+                    "title": "Stacks",
+                    "slug": "blockstack",
+                    "url": "https:\/\/cryptopanic.com\/news\/blockstack\/"
+                }
+            ],
+            "id": 18935018,
+            "url": "https:\/\/cryptopanic.com\/news\/18935018\/Amid-Bearish-Decline-in-Dogecoin-DOGE-and-Stacks-STX-Investors-Find-Haven-in-Kangamoon-KANG",
+            "created_at": "2023-09-28T15:04:32Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptodaily.co.uk",
+            "source": {
+                "title": "CryptoDaily",
+                "region": "en",
+                "domain": "cryptodaily.co.uk",
+                "path": null
+            },
+            "title": "Three Reasons Traders Are Adding Stacks (STX), Kangamoon (KANG) Filecoin (FIL) and to Their Crypto Portfolio",
+            "published_at": "2023-09-28T14:58:55Z",
+            "slug": "Three-Reasons-Traders-Are-Adding-Stacks-STX-Kangamoon-KANG-Filecoin-FIL-and-to-Their-Crypto-Portfolio",
+            "currencies": [
+                {
+                    "code": "FIL",
+                    "title": "Filecoin",
+                    "slug": "filecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/filecoin\/"
+                },
+                {
+                    "code": "STX",
+                    "title": "Stacks",
+                    "slug": "blockstack",
+                    "url": "https:\/\/cryptopanic.com\/news\/blockstack\/"
+                }
+            ],
+            "id": 18934960,
+            "url": "https:\/\/cryptopanic.com\/news\/18934960\/Three-Reasons-Traders-Are-Adding-Stacks-STX-Kangamoon-KANG-Filecoin-FIL-and-to-Their-Crypto-Portfolio",
+            "created_at": "2023-09-28T14:58:55Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coindesk.com",
+            "source": {
+                "title": "CoinDesk",
+                "region": "en",
+                "domain": "coindesk.com",
+                "path": null
+            },
+            "title": "How Ethereum Staking Stacks Up in the Proof-of-Stake Landscape",
+            "published_at": "2023-09-27T18:06:52Z",
+            "slug": "How-Ethereum-Staking-Stacks-Up-in-the-Proof-of-Stake-Landscape",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "STX",
+                    "title": "Stacks",
+                    "slug": "blockstack",
+                    "url": "https:\/\/cryptopanic.com\/news\/blockstack\/"
+                }
+            ],
+            "id": 18932759,
+            "url": "https:\/\/cryptopanic.com\/news\/18932759\/How-Ethereum-Staking-Stacks-Up-in-the-Proof-of-Stake-Landscape",
+            "created_at": "2023-09-27T18:06:52Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinjournal.net",
+            "source": {
+                "title": "CoinJournal",
+                "region": "en",
+                "domain": "coinjournal.net",
+                "path": null
+            },
+            "title": "Stacks price spikes as BTC soars above $27k: Is it a buy now?",
+            "published_at": "2023-09-18T14:08:42Z",
+            "slug": "Stacks-price-spikes-as-BTC-soars-above-27k-Is-it-a-buy-now",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "STX",
+                    "title": "Stacks",
+                    "slug": "blockstack",
+                    "url": "https:\/\/cryptopanic.com\/news\/blockstack\/"
+                }
+            ],
+            "id": 18911023,
+            "url": "https:\/\/cryptopanic.com\/news\/18911023\/Stacks-price-spikes-as-BTC-soars-above-27k-Is-it-a-buy-now",
+            "created_at": "2023-09-18T14:08:42Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptodaily.co.uk",
+            "source": {
+                "title": "CryptoDaily",
+                "region": "en",
+                "domain": "cryptodaily.co.uk",
+                "path": null
+            },
+            "title": "Elon Musk Pumping Dogecoin Again, Stacks Enters Green Zone, Everlodge To Enter Stage 3 Next Week",
+            "published_at": "2023-09-15T15:53:03Z",
+            "slug": "Elon-Musk-Pumping-Dogecoin-Again-Stacks-Enters-Green-Zone-Everlodge-To-Enter-Stage-3-Next-Week",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "DOGE",
+                    "title": "Dogecoin",
+                    "slug": "dogecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/dogecoin\/"
+                },
+                {
+                    "code": "STX",
+                    "title": "Stacks",
+                    "slug": "blockstack",
+                    "url": "https:\/\/cryptopanic.com\/news\/blockstack\/"
+                }
+            ],
+            "id": 18906493,
+            "url": "https:\/\/cryptopanic.com\/news\/18906493\/Elon-Musk-Pumping-Dogecoin-Again-Stacks-Enters-Green-Zone-Everlodge-To-Enter-Stage-3-Next-Week",
+            "created_at": "2023-09-15T15:53:03Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptodaily.co.uk",
+            "source": {
+                "title": "CryptoDaily",
+                "region": "en",
+                "domain": "cryptodaily.co.uk",
+                "path": null
+            },
+            "title": "Tradecurve Markets (TCRV)'s Soaring 150% Rally Offers Respite for Stacks (STX) and Litecoin (LTC) Holders",
+            "published_at": "2023-09-13T19:54:03Z",
+            "slug": "Tradecurve-Markets-TCRVs-Soaring-150-Rally-Offers-Respite-for-Stacks-STX-and-Litecoin-LTC-Holders",
+            "currencies": [
+                {
+                    "code": "LTC",
+                    "title": "Litecoin",
+                    "slug": "litecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/litecoin\/"
+                },
+                {
+                    "code": "STX",
+                    "title": "Stacks",
+                    "slug": "blockstack",
+                    "url": "https:\/\/cryptopanic.com\/news\/blockstack\/"
+                }
+            ],
+            "id": 18901400,
+            "url": "https:\/\/cryptopanic.com\/news\/18901400\/Tradecurve-Markets-TCRVs-Soaring-150-Rally-Offers-Respite-for-Stacks-STX-and-Litecoin-LTC-Holders",
+            "created_at": "2023-09-13T19:54:03Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "Stacks Founder: \u2018I Don\u2019t Know Why More Than 60% of Trading Volume Comes From Korea\u2019",
+            "published_at": "2023-09-11T13:00:00Z",
+            "slug": "Stacks-Founder-I-Dont-Know-Why-More-Than-60-of-Trading-Volume-Comes-From-Korea",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "ARB",
+                    "title": "Arbitrum",
+                    "slug": "arbitrum",
+                    "url": "https:\/\/cryptopanic.com\/news\/arbitrum\/"
+                },
+                {
+                    "code": "OP",
+                    "title": "Optimism",
+                    "slug": "optimism",
+                    "url": "https:\/\/cryptopanic.com\/news\/optimism\/"
+                },
+                {
+                    "code": "STX",
+                    "title": "Stacks",
+                    "slug": "blockstack",
+                    "url": "https:\/\/cryptopanic.com\/news\/blockstack\/"
+                }
+            ],
+            "id": 18894385,
+            "url": "https:\/\/cryptopanic.com\/news\/18894385\/Stacks-Founder-I-Dont-Know-Why-More-Than-60-of-Trading-Volume-Comes-From-Korea",
+            "created_at": "2023-09-11T13:00:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinedition.com",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 0,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            },
+            "source": {
+                "title": "coinedition",
+                "region": "en",
+                "domain": "coinedition.com",
+                "path": null
+            },
+            "title": "Can Stacks (STX) Keep Riding on the Bitcoin (BTC) Wave?",
+            "published_at": "2023-08-31T15:26:00Z",
+            "slug": "Can-Stacks-STX-Keep-Riding-on-the-Bitcoin-BTC-Wave",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "BCH",
+                    "title": "Bitcoin Cash",
+                    "slug": "bitcoin-cash",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin-cash\/"
+                },
+                {
+                    "code": "STX",
+                    "title": "Stacks",
+                    "slug": "blockstack",
+                    "url": "https:\/\/cryptopanic.com\/news\/blockstack\/"
+                }
+            ],
+            "id": 18872002,
+            "url": "https:\/\/cryptopanic.com\/news\/18872002\/Can-Stacks-STX-Keep-Riding-on-the-Bitcoin-BTC-Wave",
+            "created_at": "2023-08-31T15:26:00Z"
+        },
+        {
+            "kind": "news",
+            "domain": "coinedition.com",
+            "source": {
+                "title": "coinedition",
+                "region": "en",
+                "domain": "coinedition.com",
+                "path": null
+            },
+            "title": "PEPE, SOL, STX Steal Spotlight from BTC Amid Grayscale Court Victory",
+            "published_at": "2023-08-30T22:11:00Z",
+            "slug": "PEPE-SOL-STX-Steal-Spotlight-from-BTC-Amid-Grayscale-Court-Victory",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "STX",
+                    "title": "Stacks",
+                    "slug": "blockstack",
+                    "url": "https:\/\/cryptopanic.com\/news\/blockstack\/"
+                }
+            ],
+            "id": 18870172,
+            "url": "https:\/\/cryptopanic.com\/news\/18870172\/PEPE-SOL-STX-Steal-Spotlight-from-BTC-Amid-Grayscale-Court-Victory",
+            "created_at": "2023-08-30T22:11:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coinjournal.net",
+            "source": {
+                "title": "CoinJournal",
+                "region": "en",
+                "domain": "coinjournal.net",
+                "path": null
+            },
+            "title": "Stacks and Toncoin lead the bull cycle as global crypto market cap surge",
+            "published_at": "2023-08-30T14:09:19Z",
+            "slug": "Stacks-and-Toncoin-lead-the-bull-cycle-as-global-crypto-market-cap-surge",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "TON",
+                    "title": "Toncoin",
+                    "slug": "the-open-network",
+                    "url": "https:\/\/cryptopanic.com\/news\/the-open-network\/"
+                },
+                {
+                    "code": "BCH",
+                    "title": "Bitcoin Cash",
+                    "slug": "bitcoin-cash",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin-cash\/"
+                },
+                {
+                    "code": "STX",
+                    "title": "Stacks",
+                    "slug": "blockstack",
+                    "url": "https:\/\/cryptopanic.com\/news\/blockstack\/"
+                }
+            ],
+            "id": 18869180,
+            "url": "https:\/\/cryptopanic.com\/news\/18869180\/Stacks-and-Toncoin-lead-the-bull-cycle-as-global-crypto-market-cap-surge",
+            "created_at": "2023-08-30T14:09:19Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "feeds2.benzinga.com",
+            "source": {
+                "title": "Benzinga",
+                "region": "en",
+                "domain": "feeds2.benzinga.com",
+                "path": null
+            },
+            "title": "Ethereum Tops $1,700 Following Economic Data; Stacks Emerges As Top Gainer",
+            "published_at": "2023-08-30T13:38:51Z",
+            "slug": "Ethereum-Tops-1700-Following-Economic-Data-Stacks-Emerges-As-Top-Gainer",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "STX",
+                    "title": "Stacks",
+                    "slug": "blockstack",
+                    "url": "https:\/\/cryptopanic.com\/news\/blockstack\/"
+                }
+            ],
+            "id": 18869135,
+            "url": "https:\/\/cryptopanic.com\/news\/18869135\/Ethereum-Tops-1700-Following-Economic-Data-Stacks-Emerges-As-Top-Gainer",
+            "created_at": "2023-08-30T13:38:51Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "decrypt.co",
+            "source": {
+                "title": "Decrypt",
+                "region": "en",
+                "domain": "decrypt.co",
+                "path": null
+            },
+            "title": "Bitcoin Cash Up 17% After Grayscale Prevails Over SEC in ETF Case",
+            "published_at": "2023-08-29T19:17:45Z",
+            "slug": "Bitcoin-Cash-Up-17-After-Grayscale-Prevails-Over-SEC-in-ETF-Case",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "BCH",
+                    "title": "Bitcoin Cash",
+                    "slug": "bitcoin-cash",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin-cash\/"
+                },
+                {
+                    "code": "STX",
+                    "title": "Stacks",
+                    "slug": "blockstack",
+                    "url": "https:\/\/cryptopanic.com\/news\/blockstack\/"
+                }
+            ],
+            "id": 18867349,
+            "url": "https:\/\/cryptopanic.com\/news\/18867349\/Bitcoin-Cash-Up-17-After-Grayscale-Prevails-Over-SEC-in-ETF-Case",
+            "created_at": "2023-08-29T19:17:45Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptobriefing.com",
+            "source": {
+                "title": "CryptoBriefing",
+                "region": "en",
+                "domain": "cryptobriefing.com",
+                "path": null
+            },
+            "title": "Bitcoin\u2019s DeFi Ecosystem Continues To Grow: Pyth Networks Integrates with Stacks",
+            "published_at": "2023-08-23T12:58:23Z",
+            "slug": "Bitcoins-DeFi-Ecosystem-Continues-To-Grow-Pyth-Networks-Integrates-with-Stacks",
+            "currencies": [
+                {
+                    "code": "STX",
+                    "title": "Stacks",
+                    "slug": "blockstack",
+                    "url": "https:\/\/cryptopanic.com\/news\/blockstack\/"
+                }
+            ],
+            "id": 18854564,
+            "url": "https:\/\/cryptopanic.com\/news\/18854564\/Bitcoins-DeFi-Ecosystem-Continues-To-Grow-Pyth-Networks-Integrates-with-Stacks",
+            "created_at": "2023-08-23T12:58:23Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "dailyhodl.com",
+            "source": {
+                "title": "The Daily Hodl",
+                "region": "en",
+                "domain": "dailyhodl.com",
+                "path": null
+            },
+            "title": "Bankrupt Crypto Lender Voyager Abruptly Moves Nearly $13,000,000 in Ethereum to Coinbase: On-Chain Data",
+            "published_at": "2023-08-15T18:45:36Z",
+            "slug": "Bankrupt-Crypto-Lender-Voyager-Abruptly-Moves-Nearly-13000000-in-Ethereum-to-Coinbase-On-Chain-Data",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "STX",
+                    "title": "Stacks",
+                    "slug": "blockstack",
+                    "url": "https:\/\/cryptopanic.com\/news\/blockstack\/"
+                }
+            ],
+            "id": 18839047,
+            "url": "https:\/\/cryptopanic.com\/news\/18839047\/Bankrupt-Crypto-Lender-Voyager-Abruptly-Moves-Nearly-13000000-in-Ethereum-to-Coinbase-On-Chain-Data",
+            "created_at": "2023-08-15T18:45:36Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptodaily.co.uk",
+            "source": {
+                "title": "CryptoDaily",
+                "region": "en",
+                "domain": "cryptodaily.co.uk",
+                "path": null
+            },
+            "title": "Bitcoin and Ethereum Dwindle While Tradecurve Goes For 50x Presale Growth",
+            "published_at": "2023-08-10T12:15:00Z",
+            "slug": "Bitcoin-and-Ethereum-Dwindle-While-Tradecurve-Goes-For-50x-Presale-Growth",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "STX",
+                    "title": "Stacks",
+                    "slug": "blockstack",
+                    "url": "https:\/\/cryptopanic.com\/news\/blockstack\/"
+                }
+            ],
+            "id": 18829592,
+            "url": "https:\/\/cryptopanic.com\/news\/18829592\/Bitcoin-and-Ethereum-Dwindle-While-Tradecurve-Goes-For-50x-Presale-Growth",
+            "created_at": "2023-08-10T12:15:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "dailyhodl.com",
+            "source": {
+                "title": "The Daily Hodl",
+                "region": "en",
+                "domain": "dailyhodl.com",
+                "path": null
+            },
+            "title": "Big Players Gear Up To Unload Bags of Ethereum Gaming Altcoin That Rose 316% in Less Than a Week: On-Chain Data",
+            "published_at": "2023-08-08T20:00:06Z",
+            "slug": "Big-Players-Gear-Up-To-Unload-Bags-of-Ethereum-Gaming-Altcoin-That-Rose-316-in-Less-Than-a-Week-On-Chain-Data",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "STX",
+                    "title": "Stacks",
+                    "slug": "blockstack",
+                    "url": "https:\/\/cryptopanic.com\/news\/blockstack\/"
+                }
+            ],
+            "id": 18825568,
+            "url": "https:\/\/cryptopanic.com\/news\/18825568\/Big-Players-Gear-Up-To-Unload-Bags-of-Ethereum-Gaming-Altcoin-That-Rose-316-in-Less-Than-a-Week-On-Chain-Data",
+            "created_at": "2023-08-08T20:00:06Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coingabbar.com",
+            "source": {
+                "title": "coingabbar",
+                "region": "en",
+                "domain": "coingabbar.com",
+                "path": null
+            },
+            "title": "Bitcoin Halving: Miners & Holders Await the Impact",
+            "published_at": "2023-08-06T08:30:00Z",
+            "slug": "Bitcoin-Halving-Miners-Holders-Await-the-Impact",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "STX",
+                    "title": "Stacks",
+                    "slug": "blockstack",
+                    "url": "https:\/\/cryptopanic.com\/news\/blockstack\/"
+                }
+            ],
+            "id": 18820187,
+            "url": "https:\/\/cryptopanic.com\/news\/18820187\/Bitcoin-Halving-Miners-Holders-Await-the-Impact",
+            "created_at": "2023-08-06T08:30:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coingabbar.com",
+            "source": {
+                "title": "coingabbar",
+                "region": "en",
+                "domain": "coingabbar.com",
+                "path": null
+            },
+            "title": "24 Hrs Crypto, 02 Aug: Crypto Market Witnesses Roller Coaster Ride",
+            "published_at": "2023-08-03T01:30:00Z",
+            "slug": "24-Hrs-Crypto-02-Aug-Crypto-Market-Witnesses-Roller-Coaster-Ride",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "UNI",
+                    "title": "Uniswap",
+                    "slug": "uniswap",
+                    "url": "https:\/\/cryptopanic.com\/news\/uniswap\/"
+                },
+                {
+                    "code": "XDC",
+                    "title": "XDC Network",
+                    "slug": "xdce-crowd-sale",
+                    "url": "https:\/\/cryptopanic.com\/news\/xdce-crowd-sale\/"
+                },
+                {
+                    "code": "STX",
+                    "title": "Stacks",
+                    "slug": "blockstack",
+                    "url": "https:\/\/cryptopanic.com\/news\/blockstack\/"
+                }
+            ],
+            "id": 18814060,
+            "url": "https:\/\/cryptopanic.com\/news\/18814060\/24-Hrs-Crypto-02-Aug-Crypto-Market-Witnesses-Roller-Coaster-Ride",
+            "created_at": "2023-08-03T01:30:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coingabbar.com",
+            "source": {
+                "title": "coingabbar",
+                "region": "en",
+                "domain": "coingabbar.com",
+                "path": null
+            },
+            "title": "24 Hrs Crypto, 02 Aug: Crypto Market Witnesses Roller Coaster Ride",
+            "published_at": "2023-08-03T01:30:00Z",
+            "slug": "24-Hrs-Crypto-02-Aug-Crypto-Market-Witnesses-Roller-Coaster-Ride",
+            "currencies": [
+                {
+                    "code": "BTC",
+                    "title": "Bitcoin",
+                    "slug": "bitcoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/bitcoin\/"
+                },
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "UNI",
+                    "title": "Uniswap",
+                    "slug": "uniswap",
+                    "url": "https:\/\/cryptopanic.com\/news\/uniswap\/"
+                },
+                {
+                    "code": "XDC",
+                    "title": "XDC Network",
+                    "slug": "xdce-crowd-sale",
+                    "url": "https:\/\/cryptopanic.com\/news\/xdce-crowd-sale\/"
+                },
+                {
+                    "code": "STX",
+                    "title": "Stacks",
+                    "slug": "blockstack",
+                    "url": "https:\/\/cryptopanic.com\/news\/blockstack\/"
+                }
+            ],
+            "id": 18815236,
+            "url": "https:\/\/cryptopanic.com\/news\/18815236\/24-Hrs-Crypto-02-Aug-Crypto-Market-Witnesses-Roller-Coaster-Ride",
+            "created_at": "2023-08-03T01:30:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}

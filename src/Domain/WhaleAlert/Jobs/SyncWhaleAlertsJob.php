@@ -10,7 +10,6 @@ use App\Models\WhaleAlert;
 use Carbon\Carbon;
 use Illuminate\Support\Arr;
 use Illuminate\Support\Collection;
-use Illuminate\Support\Str;
 
 class SyncWhaleAlertsJob extends BaseBatchJob
 {
@@ -96,7 +95,7 @@ class SyncWhaleAlertsJob extends BaseBatchJob
 
         /** @var Currency $model */
         $model = Currency::query()
-            ->where('symbol', '=', Str::upper($this->currency))
+            ->ofSymbol($this->currency)
             ->firstOrFail();
 
         /** @var array $transaction */

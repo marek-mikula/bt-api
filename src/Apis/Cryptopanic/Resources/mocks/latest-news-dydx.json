@@ -1,0 +1,803 @@
+{
+    "count": 200,
+    "next": "https:\/\/cryptopanic.com\/api\/v1\/posts\/?auth_token=01c356e89ffc1b8eba2127c81fc8c66ee0eace75&kind=news&currencies=DYDX&page=2",
+    "previous": null,
+    "results": [
+        {
+            "kind": "news",
+            "domain": "ambcrypto.com",
+            "source": {
+                "title": "AMBCrypto",
+                "region": "en",
+                "domain": "ambcrypto.com",
+                "path": null
+            },
+            "title": "Assessing how SUI, DYDX will react to their upcoming token unlocks",
+            "published_at": "2023-10-03T11:30:23Z",
+            "slug": "Assessing-how-SUI-DYDX-will-react-to-their-upcoming-token-unlocks",
+            "currencies": [
+                {
+                    "code": "DYDX",
+                    "title": "dYdX",
+                    "slug": "dydx",
+                    "url": "https:\/\/cryptopanic.com\/news\/dydx\/"
+                }
+            ],
+            "id": 18944321,
+            "url": "https:\/\/cryptopanic.com\/news\/18944321\/Assessing-how-SUI-DYDX-will-react-to-their-upcoming-token-unlocks",
+            "created_at": "2023-10-03T11:30:23Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptodaily.co.uk",
+            "source": {
+                "title": "CryptoDaily",
+                "region": "en",
+                "domain": "cryptodaily.co.uk",
+                "path": null
+            },
+            "title": "Google Bard Picks for Q4 2023: Hedera, Kangamoon, dYdX",
+            "published_at": "2023-09-29T18:05:59Z",
+            "slug": "Google-Bard-Picks-for-Q4-2023-Hedera-Kangamoon-dYdX",
+            "currencies": [
+                {
+                    "code": "HBAR",
+                    "title": "Hedera",
+                    "slug": "hedera-hashgraph",
+                    "url": "https:\/\/cryptopanic.com\/news\/hedera-hashgraph\/"
+                },
+                {
+                    "code": "DYDX",
+                    "title": "dYdX",
+                    "slug": "dydx",
+                    "url": "https:\/\/cryptopanic.com\/news\/dydx\/"
+                }
+            ],
+            "id": 18938050,
+            "url": "https:\/\/cryptopanic.com\/news\/18938050\/Google-Bard-Picks-for-Q4-2023-Hedera-Kangamoon-dYdX",
+            "created_at": "2023-09-29T18:05:59Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coindesk.com",
+            "source": {
+                "title": "CoinDesk",
+                "region": "en",
+                "domain": "coindesk.com",
+                "path": null
+            },
+            "title": "Examining dYdX\u2019s Path to Profitable DeFi",
+            "published_at": "2023-09-28T15:28:17Z",
+            "slug": "Examining-dYdXs-Path-to-Profitable-DeFi",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "ATOM",
+                    "title": "Cosmos Hub",
+                    "slug": "cosmos",
+                    "url": "https:\/\/cryptopanic.com\/news\/cosmos\/"
+                },
+                {
+                    "code": "DYDX",
+                    "title": "dYdX",
+                    "slug": "dydx",
+                    "url": "https:\/\/cryptopanic.com\/news\/dydx\/"
+                }
+            ],
+            "id": 18935130,
+            "url": "https:\/\/cryptopanic.com\/news\/18935130\/Examining-dYdXs-Path-to-Profitable-DeFi",
+            "created_at": "2023-09-28T15:28:17Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "decrypt.co",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 1,
+                "comments": 0
+            },
+            "source": {
+                "title": "Decrypt",
+                "region": "en",
+                "domain": "decrypt.co",
+                "path": null
+            },
+            "title": "Decentralize Derivatives Trading with Custom Blockchain",
+            "published_at": "2023-09-26T10:37:37Z",
+            "slug": "Decentralize-Derivatives-Trading-with-Custom-Blockchain",
+            "currencies": [
+                {
+                    "code": "DYDX",
+                    "title": "dYdX",
+                    "slug": "dydx",
+                    "url": "https:\/\/cryptopanic.com\/news\/dydx\/"
+                }
+            ],
+            "id": 18928806,
+            "url": "https:\/\/cryptopanic.com\/news\/18928806\/Decentralize-Derivatives-Trading-with-Custom-Blockchain",
+            "created_at": "2023-09-26T10:37:37Z"
+        },
+        {
+            "kind": "news",
+            "domain": "decrypt.co",
+            "source": {
+                "title": "Decrypt",
+                "region": "en",
+                "domain": "decrypt.co",
+                "path": null
+            },
+            "title": "Decentralize Derivatives Trading with Custom Blockchain",
+            "published_at": "2023-09-26T10:37:37Z",
+            "slug": "Decentralize-Derivatives-Trading-with-Custom-Blockchain",
+            "currencies": [
+                {
+                    "code": "DYDX",
+                    "title": "dYdX",
+                    "slug": "dydx",
+                    "url": "https:\/\/cryptopanic.com\/news\/dydx\/"
+                }
+            ],
+            "id": 18935054,
+            "url": "https:\/\/cryptopanic.com\/news\/18935054\/Decentralize-Derivatives-Trading-with-Custom-Blockchain",
+            "created_at": "2023-09-26T10:37:37Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptodaily.co.uk",
+            "source": {
+                "title": "CryptoDaily",
+                "region": "en",
+                "domain": "cryptodaily.co.uk",
+                "path": null
+            },
+            "title": "dYdX v4 Enables 1-Click Onboarding With Squid & Axelar",
+            "published_at": "2023-09-20T18:00:18Z",
+            "slug": "dYdX-v4-Enables-1-Click-Onboarding-With-Squid-Axelar",
+            "currencies": [
+                {
+                    "code": "DYDX",
+                    "title": "dYdX",
+                    "slug": "dydx",
+                    "url": "https:\/\/cryptopanic.com\/news\/dydx\/"
+                }
+            ],
+            "id": 18917100,
+            "url": "https:\/\/cryptopanic.com\/news\/18917100\/dYdX-v4-Enables-1-Click-Onboarding-With-Squid-Axelar",
+            "created_at": "2023-09-20T18:00:18Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "theblock.co",
+            "source": {
+                "title": "The Block",
+                "region": "en",
+                "domain": "theblock.co",
+                "path": null
+            },
+            "title": "DYdX v4 integrates Squid and Axelar for Cosmos appchain onboarding",
+            "published_at": "2023-09-20T17:08:06Z",
+            "slug": "DYdX-v4-integrates-Squid-and-Axelar-for-Cosmos-appchain-onboarding",
+            "currencies": [
+                {
+                    "code": "DYDX",
+                    "title": "dYdX",
+                    "slug": "dydx",
+                    "url": "https:\/\/cryptopanic.com\/news\/dydx\/"
+                }
+            ],
+            "id": 18916995,
+            "url": "https:\/\/cryptopanic.com\/news\/18916995\/DYdX-v4-integrates-Squid-and-Axelar-for-Cosmos-appchain-onboarding",
+            "created_at": "2023-09-20T17:08:06Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "coindesk.com",
+            "source": {
+                "title": "CoinDesk",
+                "region": "en",
+                "domain": "coindesk.com",
+                "path": null
+            },
+            "title": "'We Can't Build Something Like This on Ethereum,' Says DYdX Founder as Mainnet Nears",
+            "published_at": "2023-09-20T15:00:00Z",
+            "slug": "We-Cant-Build-Something-Like-This-on-Ethereum-Says-DYdX-Founder-as-Mainnet-Nears",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "ATOM",
+                    "title": "Cosmos Hub",
+                    "slug": "cosmos",
+                    "url": "https:\/\/cryptopanic.com\/news\/cosmos\/"
+                },
+                {
+                    "code": "DYDX",
+                    "title": "dYdX",
+                    "slug": "dydx",
+                    "url": "https:\/\/cryptopanic.com\/news\/dydx\/"
+                }
+            ],
+            "id": 18916640,
+            "url": "https:\/\/cryptopanic.com\/news\/18916640\/We-Cant-Build-Something-Like-This-on-Ethereum-Says-DYdX-Founder-as-Mainnet-Nears",
+            "created_at": "2023-09-20T15:00:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "Cosmoverse Comes to Istanbul as Interchain Innovation Continues to Grow",
+            "published_at": "2023-09-18T20:36:00Z",
+            "slug": "Cosmoverse-Comes-to-Istanbul-as-Interchain-Innovation-Continues-to-Grow",
+            "currencies": [
+                {
+                    "code": "ATOM",
+                    "title": "Cosmos Hub",
+                    "slug": "cosmos",
+                    "url": "https:\/\/cryptopanic.com\/news\/cosmos\/"
+                },
+                {
+                    "code": "DYDX",
+                    "title": "dYdX",
+                    "slug": "dydx",
+                    "url": "https:\/\/cryptopanic.com\/news\/dydx\/"
+                }
+            ],
+            "id": 18911966,
+            "url": "https:\/\/cryptopanic.com\/news\/18911966\/Cosmoverse-Comes-to-Istanbul-as-Interchain-Innovation-Continues-to-Grow",
+            "created_at": "2023-09-18T20:36:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "u.today",
+            "source": {
+                "title": "U.Today",
+                "region": "en",
+                "domain": "u.today",
+                "path": null
+            },
+            "title": "Friend.tech Smashes Ethereum (ETH) in Daily Fees",
+            "published_at": "2023-09-16T17:10:00Z",
+            "slug": "Friendtech-Smashes-Ethereum-ETH-in-Daily-Fees",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "DYDX",
+                    "title": "dYdX",
+                    "slug": "dydx",
+                    "url": "https:\/\/cryptopanic.com\/news\/dydx\/"
+                }
+            ],
+            "id": 18908191,
+            "url": "https:\/\/cryptopanic.com\/news\/18908191\/Friendtech-Smashes-Ethereum-ETH-in-Daily-Fees",
+            "created_at": "2023-09-16T17:10:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "cryptopotato.com",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 1,
+                "comments": 0
+            },
+            "source": {
+                "title": "Feed - Cryptopotato.Com",
+                "region": "en",
+                "domain": "cryptopotato.com",
+                "path": null
+            },
+            "title": "dYdX Foundation Releases Semi-Annual Report, Reveals Ecosystem Growth in 2023",
+            "published_at": "2023-09-10T21:25:06Z",
+            "slug": "dYdX-Foundation-Releases-Semi-Annual-Report-Reveals-Ecosystem-Growth-in-2023",
+            "currencies": [
+                {
+                    "code": "DYDX",
+                    "title": "dYdX",
+                    "slug": "dydx",
+                    "url": "https:\/\/cryptopanic.com\/news\/dydx\/"
+                }
+            ],
+            "id": 18892984,
+            "url": "https:\/\/cryptopanic.com\/news\/18892984\/dYdX-Foundation-Releases-Semi-Annual-Report-Reveals-Ecosystem-Growth-in-2023",
+            "created_at": "2023-09-10T21:25:06Z"
+        },
+        {
+            "kind": "news",
+            "domain": "finbold.com",
+            "votes": {
+                "negative": 0,
+                "positive": 1,
+                "important": 1,
+                "liked": 1,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 2,
+                "comments": 0
+            },
+            "source": {
+                "title": "Finbold",
+                "region": "en",
+                "domain": "finbold.com",
+                "path": null
+            },
+            "title": "dYdX Foundation publishes semi-annual report tracking ecosystem growth",
+            "published_at": "2023-09-07T11:01:39Z",
+            "slug": "dYdX-Foundation-publishes-semi-annual-report-tracking-ecosystem-growth",
+            "currencies": [
+                {
+                    "code": "DYDX",
+                    "title": "dYdX",
+                    "slug": "dydx",
+                    "url": "https:\/\/cryptopanic.com\/news\/dydx\/"
+                }
+            ],
+            "id": 18886130,
+            "url": "https:\/\/cryptopanic.com\/news\/18886130\/dYdX-Foundation-publishes-semi-annual-report-tracking-ecosystem-growth",
+            "created_at": "2023-09-07T11:01:39Z"
+        },
+        {
+            "kind": "news",
+            "domain": "cointelegraph.com",
+            "source": {
+                "title": "CoinTelegraph",
+                "region": "en",
+                "domain": "cointelegraph.com",
+                "path": null
+            },
+            "title": "DYdX to launch decentralized order book exchange on Cosmos: KBW 2023",
+            "published_at": "2023-09-06T08:15:04Z",
+            "slug": "DYdX-to-launch-decentralized-order-book-exchange-on-Cosmos-KBW-2023",
+            "currencies": [
+                {
+                    "code": "DYDX",
+                    "title": "dYdX",
+                    "slug": "dydx",
+                    "url": "https:\/\/cryptopanic.com\/news\/dydx\/"
+                }
+            ],
+            "id": 18882646,
+            "url": "https:\/\/cryptopanic.com\/news\/18882646\/DYdX-to-launch-decentralized-order-book-exchange-on-Cosmos-KBW-2023",
+            "created_at": "2023-09-06T08:15:04Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "newsbtc.com",
+            "source": {
+                "title": "NewsBTC",
+                "region": "en",
+                "domain": "newsbtc.com",
+                "path": null
+            },
+            "title": "Crypto Alert: Solana, Aptos, APE And More Token Unlocks Coming This September",
+            "published_at": "2023-09-06T07:30:22Z",
+            "slug": "Crypto-Alert-Solana-Aptos-APE-And-More-Token-Unlocks-Coming-This-September",
+            "currencies": [
+                {
+                    "code": "USDC",
+                    "title": "USD Coin",
+                    "slug": "usd-coin",
+                    "url": "https:\/\/cryptopanic.com\/news\/usd-coin\/"
+                },
+                {
+                    "code": "SOL",
+                    "title": "Solana",
+                    "slug": "solana",
+                    "url": "https:\/\/cryptopanic.com\/news\/solana\/"
+                },
+                {
+                    "code": "APT",
+                    "title": "Aptos",
+                    "slug": "aptos",
+                    "url": "https:\/\/cryptopanic.com\/news\/aptos\/"
+                },
+                {
+                    "code": "OP",
+                    "title": "Optimism",
+                    "slug": "optimism",
+                    "url": "https:\/\/cryptopanic.com\/news\/optimism\/"
+                },
+                {
+                    "code": "APE",
+                    "title": "ApeCoin",
+                    "slug": "apecoin",
+                    "url": "https:\/\/cryptopanic.com\/news\/apecoin\/"
+                },
+                {
+                    "code": "DYDX",
+                    "title": "dYdX",
+                    "slug": "dydx",
+                    "url": "https:\/\/cryptopanic.com\/news\/dydx\/"
+                }
+            ],
+            "id": 18882565,
+            "url": "https:\/\/cryptopanic.com\/news\/18882565\/Crypto-Alert-Solana-Aptos-APE-And-More-Token-Unlocks-Coming-This-September",
+            "created_at": "2023-09-06T07:30:22Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "dailyhodl.com",
+            "source": {
+                "title": "The Daily Hodl",
+                "region": "en",
+                "domain": "dailyhodl.com",
+                "path": null
+            },
+            "title": "DYDX Token Slated To Be Native Asset for New Standalone Blockchain After Unanimous Vote",
+            "published_at": "2023-09-04T18:41:33Z",
+            "slug": "DYDX-Token-Slated-To-Be-Native-Asset-for-New-Standalone-Blockchain-After-Unanimous-Vote",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "MKR",
+                    "title": "Maker",
+                    "slug": "maker",
+                    "url": "https:\/\/cryptopanic.com\/news\/maker\/"
+                },
+                {
+                    "code": "DYDX",
+                    "title": "dYdX",
+                    "slug": "dydx",
+                    "url": "https:\/\/cryptopanic.com\/news\/dydx\/"
+                }
+            ],
+            "id": 18879183,
+            "url": "https:\/\/cryptopanic.com\/news\/18879183\/DYDX-Token-Slated-To-Be-Native-Asset-for-New-Standalone-Blockchain-After-Unanimous-Vote",
+            "created_at": "2023-09-04T18:41:33Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "en.bitcoinsistemi.com",
+            "source": {
+                "title": "en bitcoinsistemi",
+                "region": "en",
+                "domain": "en.bitcoinsistemi.com",
+                "path": null
+            },
+            "title": "Developers of the dYdX Protocol Shared the Latest Changes on the Chain! Here are the Details!",
+            "published_at": "2023-09-04T14:11:07Z",
+            "slug": "Developers-of-the-dYdX-Protocol-Shared-the-Latest-Changes-on-the-Chain-Here-are-the-Details",
+            "currencies": [
+                {
+                    "code": "DYDX",
+                    "title": "dYdX",
+                    "slug": "dydx",
+                    "url": "https:\/\/cryptopanic.com\/news\/dydx\/"
+                }
+            ],
+            "id": 18878682,
+            "url": "https:\/\/cryptopanic.com\/news\/18878682\/Developers-of-the-dYdX-Protocol-Shared-the-Latest-Changes-on-the-Chain-Here-are-the-Details",
+            "created_at": "2023-09-04T14:11:07Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "theblock.co",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 1
+            },
+            "source": {
+                "title": "The Block",
+                "region": "en",
+                "domain": "theblock.co",
+                "path": null
+            },
+            "title": "DYDX token approved to become native asset of upcoming dYdX Chain",
+            "published_at": "2023-09-04T10:45:09Z",
+            "slug": "DYDX-token-approved-to-become-native-asset-of-upcoming-dYdX-Chain",
+            "currencies": [
+                {
+                    "code": "ATOM",
+                    "title": "Cosmos Hub",
+                    "slug": "cosmos",
+                    "url": "https:\/\/cryptopanic.com\/news\/cosmos\/"
+                },
+                {
+                    "code": "DYDX",
+                    "title": "dYdX",
+                    "slug": "dydx",
+                    "url": "https:\/\/cryptopanic.com\/news\/dydx\/"
+                }
+            ],
+            "id": 18878112,
+            "url": "https:\/\/cryptopanic.com\/news\/18878112\/DYDX-token-approved-to-become-native-asset-of-upcoming-dYdX-Chain",
+            "created_at": "2023-09-04T10:45:09Z"
+        },
+        {
+            "kind": "news",
+            "domain": "cryptointelligence.co.uk",
+            "source": {
+                "title": "cryptointelligence",
+                "region": "en",
+                "domain": "cryptointelligence.co.uk",
+                "path": null
+            },
+            "title": "dYdX Unlocks $14.02 Million in DYDK Tokens for Community and Trader Rewards",
+            "published_at": "2023-08-30T20:15:59Z",
+            "slug": "dYdX-Unlocks-1402-Million-in-DYDK-Tokens-for-Community-and-Trader-Rewards",
+            "currencies": [
+                {
+                    "code": "DYDX",
+                    "title": "dYdX",
+                    "slug": "dydx",
+                    "url": "https:\/\/cryptopanic.com\/news\/dydx\/"
+                }
+            ],
+            "id": 18870006,
+            "url": "https:\/\/cryptopanic.com\/news\/18870006\/dYdX-Unlocks-1402-Million-in-DYDK-Tokens-for-Community-and-Trader-Rewards",
+            "created_at": "2023-08-30T20:15:59Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "thedefiant.io",
+            "source": {
+                "title": "DeFi News",
+                "region": "en",
+                "domain": "thedefiant.io",
+                "path": null
+            },
+            "title": "dYdX Community Votes On Appchain Migration and V4 Deployment",
+            "published_at": "2023-08-29T19:51:01Z",
+            "slug": "dYdX-Community-Votes-On-Appchain-Migration-and-V4-Deployment",
+            "currencies": [
+                {
+                    "code": "DYDX",
+                    "title": "dYdX",
+                    "slug": "dydx",
+                    "url": "https:\/\/cryptopanic.com\/news\/dydx\/"
+                }
+            ],
+            "id": 18867396,
+            "url": "https:\/\/cryptopanic.com\/news\/18867396\/dYdX-Community-Votes-On-Appchain-Migration-and-V4-Deployment",
+            "created_at": "2023-08-29T19:51:01Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        },
+        {
+            "kind": "news",
+            "domain": "beincrypto.com",
+            "source": {
+                "title": "BeInCrypto",
+                "region": "en",
+                "domain": "beincrypto.com",
+                "path": null
+            },
+            "title": "dYdX Community Votes on V4 Upgrade Proposal as $14 Million Worth of Tokens Unlock",
+            "published_at": "2023-08-29T16:00:00Z",
+            "slug": "dYdX-Community-Votes-on-V4-Upgrade-Proposal-as-14-Million-Worth-of-Tokens-Unlock",
+            "currencies": [
+                {
+                    "code": "ETH",
+                    "title": "Ethereum",
+                    "slug": "ethereum",
+                    "url": "https:\/\/cryptopanic.com\/news\/ethereum\/"
+                },
+                {
+                    "code": "DYDX",
+                    "title": "dYdX",
+                    "slug": "dydx",
+                    "url": "https:\/\/cryptopanic.com\/news\/dydx\/"
+                }
+            ],
+            "id": 18866904,
+            "url": "https:\/\/cryptopanic.com\/news\/18866904\/dYdX-Community-Votes-on-V4-Upgrade-Proposal-as-14-Million-Worth-of-Tokens-Unlock",
+            "created_at": "2023-08-29T16:00:00Z",
+            "votes": {
+                "negative": 0,
+                "positive": 0,
+                "important": 0,
+                "liked": 0,
+                "disliked": 0,
+                "lol": 0,
+                "toxic": 0,
+                "saved": 0,
+                "comments": 0
+            }
+        }
+    ]
+}
