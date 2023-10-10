@@ -2,9 +2,11 @@
 
 namespace Domain\Cryptocurrency\Services;
 
+use Apis\Binance\Http\BinanceApi;
 use Apis\Coinmarketcap\Http\CoinmarketcapApi;
 use Apis\Cryptopanic\Http\CryptopanicApi;
 use App\Models\Currency;
+use App\Models\CurrencyPair;
 use App\Models\User;
 use App\Repositories\Asset\AssetRepositoryInterface;
 use App\Repositories\Currency\CurrencyRepositoryInterface;
@@ -25,6 +27,7 @@ class CryptocurrencyService
         private readonly AssetRepositoryInterface $assetRepository,
         private readonly CoinmarketcapApi $coinmarketcapApi,
         private readonly CryptopanicApi $cryptopanicApi,
+        private readonly BinanceApi $binanceApi,
     ) {
     }
 
@@ -180,5 +183,21 @@ class CryptocurrencyService
             'volume24h' => floatval($quote['quote'][$quoteCurrency]['volume_24h']),
             'volumeChange24h' => floatval($quote['quote'][$quoteCurrency]['volume_change_24h']) / 100,
         ]);
+    }
+
+    public function getSymbolPrice(CurrencyPair $pair): float
+    {
+        $response = $this->binanceApi->marketData->symbolPrice($pair->symbol);
+
+        /** @var array $data */
+        $data = $response->collect()->first();
+
+        // change price a little if we are using mocked
+        // data, so we can simulate price changes over time
+        if (config('binance.mock')) {
+            $data['price'] = $data['price'] * (rand(90, 110) / 100);
+        }
+
+        return floatval($data['price']);
     }
 }

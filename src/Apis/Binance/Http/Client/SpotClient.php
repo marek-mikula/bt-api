@@ -17,10 +17,12 @@ class SpotClient extends BinanceClient implements SpotClientInterface
 
         $response = $this->authRequest($keyPair)->get('/api/v3/account', $params);
 
+        $response = new BinanceResponse($response);
+
         if ($response->failed()) {
-            throw new BinanceRequestException(new BinanceResponse($response));
+            throw new BinanceRequestException($response);
         }
 
-        return new BinanceResponse($response);
+        return $response;
     }
 }

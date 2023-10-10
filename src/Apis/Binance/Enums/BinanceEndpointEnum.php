@@ -15,6 +15,7 @@ enum BinanceEndpointEnum: string
 
     // market data endpoints
     case MD_EXCHANGE_INFO = 'md@exchange-info';
+    case MD_SYMBOL_PRICE = 'md@symbol-price';
 
     // spot endpoints
     case S_ACCOUNT = 's@account';
@@ -41,6 +42,7 @@ enum BinanceEndpointEnum: string
                     ),
                 ],
                 self::S_ACCOUNT,
+                self::MD_SYMBOL_PRICE,
                 self::MD_EXCHANGE_INFO => [
                     new LimitData(
                         period: BinanceLimitPeriodEnum::MINUTE,

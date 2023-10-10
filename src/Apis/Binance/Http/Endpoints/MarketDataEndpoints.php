@@ -9,6 +9,8 @@ use Apis\Binance\Exceptions\BinanceRequestException;
 use Apis\Binance\Http\BinanceResponse;
 use Apis\Binance\Http\Client\Concerns\MarketDataClientInterface;
 use Apis\Binance\Services\BinanceLimiter;
+use Illuminate\Support\Arr;
+use InvalidArgumentException;
 
 class MarketDataEndpoints
 {
@@ -26,5 +28,23 @@ class MarketDataEndpoints
     public function exchangeInfo(): BinanceResponse
     {
         return $this->limiter->limit(2, BinanceEndpointEnum::MD_EXCHANGE_INFO, [$this->marketDataClient, 'exchangeInfo'], null);
+    }
+
+    /**
+     * @throws BinanceLimitException
+     * @throws BinanceBanException
+     * @throws BinanceRequestException
+     */
+    public function symbolPrice(string|array $symbols): BinanceResponse
+    {
+        $symbols = collect(Arr::wrap($symbols));
+
+        if ($symbols->isEmpty()) {
+            throw new InvalidArgumentException('Symbols collection cannot be empty.');
+        }
+
+        $weight = $symbols->count() === 1 ? 2 : 4;
+
+        return $this->limiter->limit($weight, BinanceEndpointEnum::MD_SYMBOL_PRICE, [$this->marketDataClient, 'symbolPrice'], null, $symbols);
     }
 }

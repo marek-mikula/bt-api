@@ -1,0 +1,5898 @@
+[
+    {
+        "symbol": "ETHBTC",
+        "price": "0.05728000"
+    },
+    {
+        "symbol": "LTCBTC",
+        "price": "0.00227300"
+    },
+    {
+        "symbol": "BNBBTC",
+        "price": "0.00746500"
+    },
+    {
+        "symbol": "NEOBTC",
+        "price": "0.00024680"
+    },
+    {
+        "symbol": "QTUMETH",
+        "price": "0.00134500"
+    },
+    {
+        "symbol": "EOSETH",
+        "price": "0.00034240"
+    },
+    {
+        "symbol": "SNTETH",
+        "price": "0.00001498"
+    },
+    {
+        "symbol": "BNTETH",
+        "price": "0.00032550"
+    },
+    {
+        "symbol": "GASBTC",
+        "price": "0.00008270"
+    },
+    {
+        "symbol": "BNBETH",
+        "price": "0.13030000"
+    },
+    {
+        "symbol": "BTCUSDT",
+        "price": "27423.78000000"
+    },
+    {
+        "symbol": "ETHUSDT",
+        "price": "1570.78000000"
+    },
+    {
+        "symbol": "OAXETH",
+        "price": "0.00017780"
+    },
+    {
+        "symbol": "WTCBTC",
+        "price": "0.00000484"
+    },
+    {
+        "symbol": "WTCETH",
+        "price": "0.00023700"
+    },
+    {
+        "symbol": "LRCBTC",
+        "price": "0.00000616"
+    },
+    {
+        "symbol": "LRCETH",
+        "price": "0.00010714"
+    },
+    {
+        "symbol": "QTUMBTC",
+        "price": "0.00007680"
+    },
+    {
+        "symbol": "OMGBTC",
+        "price": "0.00003080"
+    },
+    {
+        "symbol": "OMGETH",
+        "price": "0.00079100"
+    },
+    {
+        "symbol": "ZRXBTC",
+        "price": "0.00000708"
+    },
+    {
+        "symbol": "ZRXETH",
+        "price": "0.00009940"
+    },
+    {
+        "symbol": "KNCBTC",
+        "price": "0.00002426"
+    },
+    {
+        "symbol": "KNCETH",
+        "price": "0.00039410"
+    },
+    {
+        "symbol": "FUNBTC",
+        "price": "0.00000029"
+    },
+    {
+        "symbol": "FUNETH",
+        "price": "0.00000271"
+    },
+    {
+        "symbol": "SNMBTC",
+        "price": "0.00000057"
+    },
+    {
+        "symbol": "SNMETH",
+        "price": "0.00004986"
+    },
+    {
+        "symbol": "NEOETH",
+        "price": "0.00430800"
+    },
+    {
+        "symbol": "LINKBTC",
+        "price": "0.00026460"
+    },
+    {
+        "symbol": "LINKETH",
+        "price": "0.00461900"
+    },
+    {
+        "symbol": "EOSBTC",
+        "price": "0.00001959"
+    },
+    {
+        "symbol": "SNTBTC",
+        "price": "0.00000085"
+    },
+    {
+        "symbol": "BNTBTC",
+        "price": "0.00001861"
+    },
+    {
+        "symbol": "OAXBTC",
+        "price": "0.00000536"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "price": "204.70000000"
+    },
+    {
+        "symbol": "WTCBNB",
+        "price": "0.00180500"
+    },
+    {
+        "symbol": "NEOUSDT",
+        "price": "6.77000000"
+    },
+    {
+        "symbol": "NEOBNB",
+        "price": "0.03299000"
+    },
+    {
+        "symbol": "LTCETH",
+        "price": "0.03973000"
+    },
+    {
+        "symbol": "LTCUSDT",
+        "price": "62.36000000"
+    },
+    {
+        "symbol": "LTCBNB",
+        "price": "0.30440000"
+    },
+    {
+        "symbol": "QTUMBNB",
+        "price": "0.09597000"
+    },
+    {
+        "symbol": "QTUMUSDT",
+        "price": "2.11100000"
+    },
+    {
+        "symbol": "BTCTUSD",
+        "price": "27457.27000000"
+    },
+    {
+        "symbol": "ETHTUSD",
+        "price": "1572.75000000"
+    },
+    {
+        "symbol": "EOSUSDT",
+        "price": "0.53700000"
+    },
+    {
+        "symbol": "EOSBNB",
+        "price": "0.00263700"
+    },
+    {
+        "symbol": "BNBTUSD",
+        "price": "204.90000000"
+    },
+    {
+        "symbol": "EOSTUSD",
+        "price": "4.11590000"
+    },
+    {
+        "symbol": "BNBUSDC",
+        "price": "204.70000000"
+    },
+    {
+        "symbol": "BTCUSDC",
+        "price": "27430.59000000"
+    },
+    {
+        "symbol": "ETHUSDC",
+        "price": "1571.08000000"
+    },
+    {
+        "symbol": "EOSUSDC",
+        "price": "1.15300000"
+    },
+    {
+        "symbol": "NEOTUSD",
+        "price": "11.81800000"
+    },
+    {
+        "symbol": "LINKTUSD",
+        "price": "7.22400000"
+    },
+    {
+        "symbol": "LTCTUSD",
+        "price": "62.39000000"
+    },
+    {
+        "symbol": "LTCUSDC",
+        "price": "53.22000000"
+    },
+    {
+        "symbol": "ZRXBNB",
+        "price": "0.01045000"
+    },
+    {
+        "symbol": "ZRXUSDT",
+        "price": "0.19420000"
+    },
+    {
+        "symbol": "NEOUSDC",
+        "price": "28.27000000"
+    },
+    {
+        "symbol": "OMGBNB",
+        "price": "0.03938000"
+    },
+    {
+        "symbol": "OMGUSDT",
+        "price": "0.44000000"
+    },
+    {
+        "symbol": "FUNUSDT",
+        "price": "0.00418900"
+    },
+    {
+        "symbol": "BNBBUSD",
+        "price": "204.80000000"
+    },
+    {
+        "symbol": "BTCBUSD",
+        "price": "27427.06000000"
+    },
+    {
+        "symbol": "ETHBUSD",
+        "price": "1570.97000000"
+    },
+    {
+        "symbol": "LTCBUSD",
+        "price": "62.38000000"
+    },
+    {
+        "symbol": "LINKBUSD",
+        "price": "7.25900000"
+    },
+    {
+        "symbol": "EOSBUSD",
+        "price": "0.53700000"
+    },
+    {
+        "symbol": "QTUMBUSD",
+        "price": "2.53700000"
+    },
+    {
+        "symbol": "BNTUSDT",
+        "price": "0.51060000"
+    },
+    {
+        "symbol": "BNTBUSD",
+        "price": "0.35990000"
+    },
+    {
+        "symbol": "NEOBUSD",
+        "price": "6.77000000"
+    },
+    {
+        "symbol": "WTCUSDT",
+        "price": "0.13300000"
+    },
+    {
+        "symbol": "KNCBUSD",
+        "price": "0.66700000"
+    },
+    {
+        "symbol": "KNCUSDT",
+        "price": "0.66800000"
+    },
+    {
+        "symbol": "LRCBUSD",
+        "price": "0.17280000"
+    },
+    {
+        "symbol": "LRCUSDT",
+        "price": "0.16900000"
+    },
+    {
+        "symbol": "ZRXBUSD",
+        "price": "0.16890000"
+    },
+    {
+        "symbol": "BTCDAI",
+        "price": "27408.51000000"
+    },
+    {
+        "symbol": "ETHDAI",
+        "price": "1569.98000000"
+    },
+    {
+        "symbol": "BNBDAI",
+        "price": "204.50000000"
+    },
+    {
+        "symbol": "OMGBUSD",
+        "price": "0.46600000"
+    },
+    {
+        "symbol": "BTCUSDP",
+        "price": "19435.03000000"
+    },
+    {
+        "symbol": "ETHUSDP",
+        "price": "1344.37000000"
+    },
+    {
+        "symbol": "BNBUSDP",
+        "price": "282.09000000"
+    },
+    {
+        "symbol": "LINKBNB",
+        "price": "0.03535000"
+    },
+    {
+        "symbol": "LRCBNB",
+        "price": "0.00083900"
+    },
+    {
+        "symbol": "FUNBNB",
+        "price": "0.00002050"
+    },
+    {
+        "symbol": "KNCBNB",
+        "price": "0.00255000"
+    },
+    {
+        "symbol": "SNMBUSD",
+        "price": "0.01470000"
+    },
+    {
+        "symbol": "GASBUSD",
+        "price": "2.27200000"
+    },
+    {
+        "symbol": "SNTBUSD",
+        "price": "0.02283000"
+    },
+    {
+        "symbol": "GASUSDT",
+        "price": "2.26500000"
+    },
+    {
+        "symbol": "OAXUSDT",
+        "price": "0.14670000"
+    },
+    {
+        "symbol": "SNTUSDT",
+        "price": "0.02335000"
+    },
+    {
+        "symbol": "BNBFDUSD",
+        "price": "204.70000000"
+    },
+    {
+        "symbol": "BTCFDUSD",
+        "price": "27447.16000000"
+    },
+    {
+        "symbol": "ETHFDUSD",
+        "price": "1571.43000000"
+    },
+    {
+        "symbol": "XVGBTC",
+        "price": "0.00000015"
+    },
+    {
+        "symbol": "XVGETH",
+        "price": "0.00000206"
+    },
+    {
+        "symbol": "MTLBTC",
+        "price": "0.00004295"
+    },
+    {
+        "symbol": "MTLETH",
+        "price": "0.00068340"
+    },
+    {
+        "symbol": "ETCETH",
+        "price": "0.00947000"
+    },
+    {
+        "symbol": "ETCBTC",
+        "price": "0.00054200"
+    },
+    {
+        "symbol": "ZECBTC",
+        "price": "0.00092100"
+    },
+    {
+        "symbol": "ZECETH",
+        "price": "0.01609000"
+    },
+    {
+        "symbol": "ASTBTC",
+        "price": "0.00000302"
+    },
+    {
+        "symbol": "ASTETH",
+        "price": "0.00006960"
+    },
+    {
+        "symbol": "DASHBTC",
+        "price": "0.00093400"
+    },
+    {
+        "symbol": "DASHETH",
+        "price": "0.01628000"
+    },
+    {
+        "symbol": "EVXBTC",
+        "price": "0.00000274"
+    },
+    {
+        "symbol": "EVXETH",
+        "price": "0.00062490"
+    },
+    {
+        "symbol": "REQBTC",
+        "price": "0.00000224"
+    },
+    {
+        "symbol": "REQETH",
+        "price": "0.00004995"
+    },
+    {
+        "symbol": "VIBBTC",
+        "price": "0.00000160"
+    },
+    {
+        "symbol": "VIBETH",
+        "price": "0.00003450"
+    },
+    {
+        "symbol": "TRXBTC",
+        "price": "0.00000314"
+    },
+    {
+        "symbol": "TRXETH",
+        "price": "0.00005468"
+    },
+    {
+        "symbol": "POWRBTC",
+        "price": "0.00000553"
+    },
+    {
+        "symbol": "POWRETH",
+        "price": "0.00009660"
+    },
+    {
+        "symbol": "ARKBTC",
+        "price": "0.00001679"
+    },
+    {
+        "symbol": "ARKETH",
+        "price": "0.00104600"
+    },
+    {
+        "symbol": "XRPBTC",
+        "price": "0.00001816"
+    },
+    {
+        "symbol": "XRPETH",
+        "price": "0.00031720"
+    },
+    {
+        "symbol": "ENJBTC",
+        "price": "0.00000798"
+    },
+    {
+        "symbol": "ENJETH",
+        "price": "0.00013930"
+    },
+    {
+        "symbol": "STORJBTC",
+        "price": "0.00001852"
+    },
+    {
+        "symbol": "STORJETH",
+        "price": "0.00029910"
+    },
+    {
+        "symbol": "POWRBNB",
+        "price": "0.00385000"
+    },
+    {
+        "symbol": "KMDBTC",
+        "price": "0.00000764"
+    },
+    {
+        "symbol": "KMDETH",
+        "price": "0.00020970"
+    },
+    {
+        "symbol": "NULSBNB",
+        "price": "0.01257000"
+    },
+    {
+        "symbol": "RCNBTC",
+        "price": "0.00000074"
+    },
+    {
+        "symbol": "RCNETH",
+        "price": "0.00037604"
+    },
+    {
+        "symbol": "RCNBNB",
+        "price": "0.00347300"
+    },
+    {
+        "symbol": "NULSBTC",
+        "price": "0.00000623"
+    },
+    {
+        "symbol": "NULSETH",
+        "price": "0.00051926"
+    },
+    {
+        "symbol": "XMRBTC",
+        "price": "0.00558400"
+    },
+    {
+        "symbol": "XMRETH",
+        "price": "0.09762000"
+    },
+    {
+        "symbol": "AMBBTC",
+        "price": "0.00000034"
+    },
+    {
+        "symbol": "AMBETH",
+        "price": "0.00004100"
+    },
+    {
+        "symbol": "AMBBNB",
+        "price": "0.00068500"
+    },
+    {
+        "symbol": "BATBNB",
+        "price": "0.00183100"
+    },
+    {
+        "symbol": "XRPUSDT",
+        "price": "0.49830000"
+    },
+    {
+        "symbol": "XRPBNB",
+        "price": "0.00243300"
+    },
+    {
+        "symbol": "ENJBNB",
+        "price": "0.00136800"
+    },
+    {
+        "symbol": "TRXBNB",
+        "price": "0.00041990"
+    },
+    {
+        "symbol": "TRXUSDT",
+        "price": "0.08590000"
+    },
+    {
+        "symbol": "ETCUSDT",
+        "price": "14.89000000"
+    },
+    {
+        "symbol": "ETCBNB",
+        "price": "0.07270000"
+    },
+    {
+        "symbol": "NULSUSDT",
+        "price": "0.17050000"
+    },
+    {
+        "symbol": "XRPTUSD",
+        "price": "0.49830000"
+    },
+    {
+        "symbol": "XRPUSDC",
+        "price": "0.44090000"
+    },
+    {
+        "symbol": "TRXTUSD",
+        "price": "0.05986000"
+    },
+    {
+        "symbol": "TRXXRP",
+        "price": "0.17249000"
+    },
+    {
+        "symbol": "LINKUSDT",
+        "price": "7.25800000"
+    },
+    {
+        "symbol": "LINKUSDC",
+        "price": "7.77900000"
+    },
+    {
+        "symbol": "TRXUSDC",
+        "price": "0.05982000"
+    },
+    {
+        "symbol": "XMRBNB",
+        "price": "0.74890000"
+    },
+    {
+        "symbol": "XMRUSDT",
+        "price": "153.10000000"
+    },
+    {
+        "symbol": "ZECBNB",
+        "price": "0.10260000"
+    },
+    {
+        "symbol": "ZECUSDT",
+        "price": "25.19000000"
+    },
+    {
+        "symbol": "ZECTUSD",
+        "price": "51.48000000"
+    },
+    {
+        "symbol": "ZECUSDC",
+        "price": "55.80000000"
+    },
+    {
+        "symbol": "DASHBNB",
+        "price": "0.11830000"
+    },
+    {
+        "symbol": "DASHUSDT",
+        "price": "25.64000000"
+    },
+    {
+        "symbol": "ENJUSDT",
+        "price": "0.21890000"
+    },
+    {
+        "symbol": "ETCUSDC",
+        "price": "4.71000000"
+    },
+    {
+        "symbol": "ETCTUSD",
+        "price": "3.79500000"
+    },
+    {
+        "symbol": "BATTUSD",
+        "price": "0.22220000"
+    },
+    {
+        "symbol": "MTLUSDT",
+        "price": "1.17800000"
+    },
+    {
+        "symbol": "XRPBUSD",
+        "price": "0.49820000"
+    },
+    {
+        "symbol": "ETCBUSD",
+        "price": "14.85000000"
+    },
+    {
+        "symbol": "TRXBUSD",
+        "price": "0.08592000"
+    },
+    {
+        "symbol": "DASHBUSD",
+        "price": "25.83000000"
+    },
+    {
+        "symbol": "ENJBUSD",
+        "price": "0.21840000"
+    },
+    {
+        "symbol": "XMRBUSD",
+        "price": "153.00000000"
+    },
+    {
+        "symbol": "ZECBUSD",
+        "price": "25.24000000"
+    },
+    {
+        "symbol": "STORJBUSD",
+        "price": "0.23710000"
+    },
+    {
+        "symbol": "STORJUSDT",
+        "price": "0.50840000"
+    },
+    {
+        "symbol": "KMDBUSD",
+        "price": "0.46760000"
+    },
+    {
+        "symbol": "KMDUSDT",
+        "price": "0.21030000"
+    },
+    {
+        "symbol": "XVGBUSD",
+        "price": "0.00324100"
+    },
+    {
+        "symbol": "XVGUSDT",
+        "price": "0.00323900"
+    },
+    {
+        "symbol": "REQUSDT",
+        "price": "0.06150000"
+    },
+    {
+        "symbol": "MTLBUSD",
+        "price": "1.17700000"
+    },
+    {
+        "symbol": "POWRUSDT",
+        "price": "0.15190000"
+    },
+    {
+        "symbol": "POWRBUSD",
+        "price": "0.15040000"
+    },
+    {
+        "symbol": "REQBUSD",
+        "price": "0.06330000"
+    },
+    {
+        "symbol": "NULSBUSD",
+        "price": "0.17850000"
+    },
+    {
+        "symbol": "ARKBUSD",
+        "price": "0.53560000"
+    },
+    {
+        "symbol": "AMBBUSD",
+        "price": "0.00796000"
+    },
+    {
+        "symbol": "VIBBUSD",
+        "price": "0.04364000"
+    },
+    {
+        "symbol": "VIBUSDT",
+        "price": "0.04395000"
+    },
+    {
+        "symbol": "AMBUSDT",
+        "price": "0.00918000"
+    },
+    {
+        "symbol": "ASTUSDT",
+        "price": "0.08280000"
+    },
+    {
+        "symbol": "XVGTUSD",
+        "price": "0.00323300"
+    },
+    {
+        "symbol": "XRPFDUSD",
+        "price": "0.49850000"
+    },
+    {
+        "symbol": "BATBTC",
+        "price": "0.00000624"
+    },
+    {
+        "symbol": "BATETH",
+        "price": "0.00010630"
+    },
+    {
+        "symbol": "BTSBTC",
+        "price": "0.00000043"
+    },
+    {
+        "symbol": "BTSETH",
+        "price": "0.00009498"
+    },
+    {
+        "symbol": "BTSBNB",
+        "price": "0.00144800"
+    },
+    {
+        "symbol": "LSKBTC",
+        "price": "0.00002688"
+    },
+    {
+        "symbol": "LSKETH",
+        "price": "0.00047300"
+    },
+    {
+        "symbol": "LSKBNB",
+        "price": "0.06494000"
+    },
+    {
+        "symbol": "MANABTC",
+        "price": "0.00001017"
+    },
+    {
+        "symbol": "MANAETH",
+        "price": "0.00017840"
+    },
+    {
+        "symbol": "ADXBTC",
+        "price": "0.00000489"
+    },
+    {
+        "symbol": "ADXETH",
+        "price": "0.00008540"
+    },
+    {
+        "symbol": "ADXBNB",
+        "price": "0.00492900"
+    },
+    {
+        "symbol": "ADABTC",
+        "price": "0.00000910"
+    },
+    {
+        "symbol": "ADAETH",
+        "price": "0.00015890"
+    },
+    {
+        "symbol": "XLMBTC",
+        "price": "0.00000384"
+    },
+    {
+        "symbol": "XLMETH",
+        "price": "0.00006700"
+    },
+    {
+        "symbol": "XLMBNB",
+        "price": "0.00051340"
+    },
+    {
+        "symbol": "WAVESBTC",
+        "price": "0.00005270"
+    },
+    {
+        "symbol": "WAVESETH",
+        "price": "0.00091900"
+    },
+    {
+        "symbol": "WAVESBNB",
+        "price": "0.00513000"
+    },
+    {
+        "symbol": "ICXBTC",
+        "price": "0.00000613"
+    },
+    {
+        "symbol": "ICXETH",
+        "price": "0.00011790"
+    },
+    {
+        "symbol": "ICXBNB",
+        "price": "0.00465400"
+    },
+    {
+        "symbol": "ELFBTC",
+        "price": "0.00001215"
+    },
+    {
+        "symbol": "ELFETH",
+        "price": "0.00021190"
+    },
+    {
+        "symbol": "RLCBTC",
+        "price": "0.00003491"
+    },
+    {
+        "symbol": "RLCETH",
+        "price": "0.00061000"
+    },
+    {
+        "symbol": "RLCBNB",
+        "price": "0.03344000"
+    },
+    {
+        "symbol": "PIVXBTC",
+        "price": "0.00000671"
+    },
+    {
+        "symbol": "PIVXBNB",
+        "price": "0.01660000"
+    },
+    {
+        "symbol": "IOSTBTC",
+        "price": "0.00000025"
+    },
+    {
+        "symbol": "IOSTETH",
+        "price": "0.00000431"
+    },
+    {
+        "symbol": "STEEMBTC",
+        "price": "0.00000627"
+    },
+    {
+        "symbol": "STEEMETH",
+        "price": "0.00010920"
+    },
+    {
+        "symbol": "STEEMBNB",
+        "price": "0.00448000"
+    },
+    {
+        "symbol": "BLZBTC",
+        "price": "0.00000472"
+    },
+    {
+        "symbol": "BLZETH",
+        "price": "0.00004159"
+    },
+    {
+        "symbol": "BLZBNB",
+        "price": "0.00062190"
+    },
+    {
+        "symbol": "ZILBTC",
+        "price": "0.00000058"
+    },
+    {
+        "symbol": "ZILETH",
+        "price": "0.00001015"
+    },
+    {
+        "symbol": "ZILBNB",
+        "price": "0.00007788"
+    },
+    {
+        "symbol": "ONTBTC",
+        "price": "0.00000584"
+    },
+    {
+        "symbol": "ONTETH",
+        "price": "0.00012530"
+    },
+    {
+        "symbol": "ONTBNB",
+        "price": "0.00246200"
+    },
+    {
+        "symbol": "XEMBTC",
+        "price": "0.00000192"
+    },
+    {
+        "symbol": "XEMETH",
+        "price": "0.00003593"
+    },
+    {
+        "symbol": "XEMBNB",
+        "price": "0.00244100"
+    },
+    {
+        "symbol": "WANBTC",
+        "price": "0.00000627"
+    },
+    {
+        "symbol": "WANETH",
+        "price": "0.00010960"
+    },
+    {
+        "symbol": "WANBNB",
+        "price": "0.00181000"
+    },
+    {
+        "symbol": "SYSBTC",
+        "price": "0.00000296"
+    },
+    {
+        "symbol": "SYSETH",
+        "price": "0.00011047"
+    },
+    {
+        "symbol": "SYSBNB",
+        "price": "0.00163500"
+    },
+    {
+        "symbol": "ADAUSDT",
+        "price": "0.24960000"
+    },
+    {
+        "symbol": "ADABNB",
+        "price": "0.00121900"
+    },
+    {
+        "symbol": "XLMUSDT",
+        "price": "0.10520000"
+    },
+    {
+        "symbol": "ONTUSDT",
+        "price": "0.16010000"
+    },
+    {
+        "symbol": "ICXUSDT",
+        "price": "0.16800000"
+    },
+    {
+        "symbol": "XLMTUSD",
+        "price": "0.06833000"
+    },
+    {
+        "symbol": "XLMUSDC",
+        "price": "0.04970000"
+    },
+    {
+        "symbol": "ADATUSD",
+        "price": "0.25010000"
+    },
+    {
+        "symbol": "WAVESUSDT",
+        "price": "1.44400000"
+    },
+    {
+        "symbol": "WAVESTUSD",
+        "price": "1.07200000"
+    },
+    {
+        "symbol": "WAVESUSDC",
+        "price": "1.20360000"
+    },
+    {
+        "symbol": "ZILUSDT",
+        "price": "0.01595000"
+    },
+    {
+        "symbol": "BATUSDT",
+        "price": "0.17060000"
+    },
+    {
+        "symbol": "IOSTUSDT",
+        "price": "0.00677000"
+    },
+    {
+        "symbol": "ADAUSDC",
+        "price": "0.43520000"
+    },
+    {
+        "symbol": "BATUSDC",
+        "price": "0.63130000"
+    },
+    {
+        "symbol": "ONTUSDC",
+        "price": "0.57080000"
+    },
+    {
+        "symbol": "WANUSDT",
+        "price": "0.17210000"
+    },
+    {
+        "symbol": "RLCUSDT",
+        "price": "0.95800000"
+    },
+    {
+        "symbol": "XLMBUSD",
+        "price": "0.10520000"
+    },
+    {
+        "symbol": "ADABUSD",
+        "price": "0.24980000"
+    },
+    {
+        "symbol": "ICXBUSD",
+        "price": "0.16800000"
+    },
+    {
+        "symbol": "BTSUSDT",
+        "price": "0.00883000"
+    },
+    {
+        "symbol": "BTSBUSD",
+        "price": "0.01930000"
+    },
+    {
+        "symbol": "LSKUSDT",
+        "price": "0.73500000"
+    },
+    {
+        "symbol": "WAVESBUSD",
+        "price": "1.44500000"
+    },
+    {
+        "symbol": "BATBUSD",
+        "price": "0.17090000"
+    },
+    {
+        "symbol": "ONTBUSD",
+        "price": "0.15990000"
+    },
+    {
+        "symbol": "ZILBUSD",
+        "price": "0.01589000"
+    },
+    {
+        "symbol": "MANABUSD",
+        "price": "0.27880000"
+    },
+    {
+        "symbol": "MANAUSDT",
+        "price": "0.27870000"
+    },
+    {
+        "symbol": "BLZBUSD",
+        "price": "0.05530000"
+    },
+    {
+        "symbol": "BLZUSDT",
+        "price": "0.12950000"
+    },
+    {
+        "symbol": "SYSBUSD",
+        "price": "0.08140000"
+    },
+    {
+        "symbol": "XEMUSDT",
+        "price": "0.02467000"
+    },
+    {
+        "symbol": "IOSTBUSD",
+        "price": "0.00700000"
+    },
+    {
+        "symbol": "RLCBUSD",
+        "price": "1.78300000"
+    },
+    {
+        "symbol": "XEMBUSD",
+        "price": "0.09630000"
+    },
+    {
+        "symbol": "ADXBUSD",
+        "price": "0.13460000"
+    },
+    {
+        "symbol": "ELFUSDT",
+        "price": "0.33270000"
+    },
+    {
+        "symbol": "ELFBUSD",
+        "price": "0.33120000"
+    },
+    {
+        "symbol": "LSKBUSD",
+        "price": "0.84400000"
+    },
+    {
+        "symbol": "ADXUSDT",
+        "price": "0.13400000"
+    },
+    {
+        "symbol": "MANABNB",
+        "price": "0.00155000"
+    },
+    {
+        "symbol": "STEEMUSDT",
+        "price": "0.17140000"
+    },
+    {
+        "symbol": "STEEMBUSD",
+        "price": "0.18470000"
+    },
+    {
+        "symbol": "LOOMBTC",
+        "price": "0.00000691"
+    },
+    {
+        "symbol": "LOOMETH",
+        "price": "0.00003231"
+    },
+    {
+        "symbol": "LOOMBNB",
+        "price": "0.00088500"
+    },
+    {
+        "symbol": "TUSDBTC",
+        "price": "0.00025971"
+    },
+    {
+        "symbol": "TUSDETH",
+        "price": "0.00762097"
+    },
+    {
+        "symbol": "TUSDBNB",
+        "price": "0.06777000"
+    },
+    {
+        "symbol": "ZENBTC",
+        "price": "0.00027520"
+    },
+    {
+        "symbol": "ZENETH",
+        "price": "0.00480800"
+    },
+    {
+        "symbol": "ZENBNB",
+        "price": "0.03290000"
+    },
+    {
+        "symbol": "CVCBTC",
+        "price": "0.00000566"
+    },
+    {
+        "symbol": "CVCETH",
+        "price": "0.00009930"
+    },
+    {
+        "symbol": "CVCBNB",
+        "price": "0.00211200"
+    },
+    {
+        "symbol": "THETABTC",
+        "price": "0.00002149"
+    },
+    {
+        "symbol": "THETAETH",
+        "price": "0.00037470"
+    },
+    {
+        "symbol": "THETABNB",
+        "price": "0.00289100"
+    },
+    {
+        "symbol": "TUSDUSDT",
+        "price": "0.99870000"
+    },
+    {
+        "symbol": "IOTXBTC",
+        "price": "0.00000062"
+    },
+    {
+        "symbol": "IOTXETH",
+        "price": "0.00001079"
+    },
+    {
+        "symbol": "QKCBTC",
+        "price": "0.00000028"
+    },
+    {
+        "symbol": "QKCETH",
+        "price": "0.00000490"
+    },
+    {
+        "symbol": "DATABTC",
+        "price": "0.00000088"
+    },
+    {
+        "symbol": "DATAETH",
+        "price": "0.00002034"
+    },
+    {
+        "symbol": "SCBTC",
+        "price": "0.00000017"
+    },
+    {
+        "symbol": "SCETH",
+        "price": "0.00000185"
+    },
+    {
+        "symbol": "KEYBTC",
+        "price": "0.00000013"
+    },
+    {
+        "symbol": "KEYETH",
+        "price": "0.00000227"
+    },
+    {
+        "symbol": "DENTBTC",
+        "price": "0.00000004"
+    },
+    {
+        "symbol": "DENTETH",
+        "price": "0.00000037"
+    },
+    {
+        "symbol": "ARDRBTC",
+        "price": "0.00000243"
+    },
+    {
+        "symbol": "ARDRETH",
+        "price": "0.00018870"
+    },
+    {
+        "symbol": "ARDRBNB",
+        "price": "0.00316800"
+    },
+    {
+        "symbol": "HOTBTC",
+        "price": "0.00000002"
+    },
+    {
+        "symbol": "HOTETH",
+        "price": "0.00000063"
+    },
+    {
+        "symbol": "VETBTC",
+        "price": "0.00000059"
+    },
+    {
+        "symbol": "VETETH",
+        "price": "0.00001035"
+    },
+    {
+        "symbol": "VETUSDT",
+        "price": "0.01626000"
+    },
+    {
+        "symbol": "VETBNB",
+        "price": "0.00007940"
+    },
+    {
+        "symbol": "DOCKBTC",
+        "price": "0.00000053"
+    },
+    {
+        "symbol": "DOCKETH",
+        "price": "0.00003283"
+    },
+    {
+        "symbol": "RVNBTC",
+        "price": "0.00000051"
+    },
+    {
+        "symbol": "DCRBTC",
+        "price": "0.00047000"
+    },
+    {
+        "symbol": "DCRBNB",
+        "price": "0.78100000"
+    },
+    {
+        "symbol": "USDCBNB",
+        "price": "0.21755000"
+    },
+    {
+        "symbol": "RENBTC",
+        "price": "0.00000164"
+    },
+    {
+        "symbol": "RENBNB",
+        "price": "0.00458500"
+    },
+    {
+        "symbol": "USDCUSDT",
+        "price": "0.99980000"
+    },
+    {
+        "symbol": "USDCTUSD",
+        "price": "1.00000000"
+    },
+    {
+        "symbol": "ONGBNB",
+        "price": "0.00545000"
+    },
+    {
+        "symbol": "ONGBTC",
+        "price": "0.00000805"
+    },
+    {
+        "symbol": "ONGUSDT",
+        "price": "0.21960000"
+    },
+    {
+        "symbol": "HOTBNB",
+        "price": "0.00000862"
+    },
+    {
+        "symbol": "HOTUSDT",
+        "price": "0.00097600"
+    },
+    {
+        "symbol": "FETBNB",
+        "price": "0.00100100"
+    },
+    {
+        "symbol": "FETBTC",
+        "price": "0.00000747"
+    },
+    {
+        "symbol": "FETUSDT",
+        "price": "0.20510000"
+    },
+    {
+        "symbol": "CELRBNB",
+        "price": "0.00005294"
+    },
+    {
+        "symbol": "CELRBTC",
+        "price": "0.00000042"
+    },
+    {
+        "symbol": "CELRUSDT",
+        "price": "0.01159000"
+    },
+    {
+        "symbol": "THETAUSDT",
+        "price": "0.58900000"
+    },
+    {
+        "symbol": "MATICBNB",
+        "price": "0.00256800"
+    },
+    {
+        "symbol": "MATICBTC",
+        "price": "0.00001917"
+    },
+    {
+        "symbol": "DENTUSDT",
+        "price": "0.00058200"
+    },
+    {
+        "symbol": "KEYUSDT",
+        "price": "0.00525700"
+    },
+    {
+        "symbol": "DOCKUSDT",
+        "price": "0.01435000"
+    },
+    {
+        "symbol": "CVCUSDT",
+        "price": "0.07310000"
+    },
+    {
+        "symbol": "RENUSDT",
+        "price": "0.04521600"
+    },
+    {
+        "symbol": "RVNUSDT",
+        "price": "0.01405000"
+    },
+    {
+        "symbol": "IOTXUSDT",
+        "price": "0.01694000"
+    },
+    {
+        "symbol": "VETBUSD",
+        "price": "0.01623000"
+    },
+    {
+        "symbol": "RVNBUSD",
+        "price": "0.01525000"
+    },
+    {
+        "symbol": "DATABUSD",
+        "price": "0.02344000"
+    },
+    {
+        "symbol": "DATAUSDT",
+        "price": "0.02416000"
+    },
+    {
+        "symbol": "ARDRUSDT",
+        "price": "0.06650000"
+    },
+    {
+        "symbol": "MATICBUSD",
+        "price": "0.52570000"
+    },
+    {
+        "symbol": "SCUSDT",
+        "price": "0.00290300"
+    },
+    {
+        "symbol": "ZENUSDT",
+        "price": "7.55000000"
+    },
+    {
+        "symbol": "DCRBUSD",
+        "price": "16.03500000"
+    },
+    {
+        "symbol": "DCRUSDT",
+        "price": "12.86000000"
+    },
+    {
+        "symbol": "USDCBUSD",
+        "price": "0.99990000"
+    },
+    {
+        "symbol": "TUSDBUSD",
+        "price": "0.99890000"
+    },
+    {
+        "symbol": "HOTBUSD",
+        "price": "0.00105800"
+    },
+    {
+        "symbol": "CELRBUSD",
+        "price": "0.01158000"
+    },
+    {
+        "symbol": "ZENBUSD",
+        "price": "7.19000000"
+    },
+    {
+        "symbol": "THETABUSD",
+        "price": "0.61600000"
+    },
+    {
+        "symbol": "SCBUSD",
+        "price": "0.00366400"
+    },
+    {
+        "symbol": "DOCKBUSD",
+        "price": "0.01527000"
+    },
+    {
+        "symbol": "IOTXBUSD",
+        "price": "0.01695000"
+    },
+    {
+        "symbol": "RENBUSD",
+        "price": "0.04539800"
+    },
+    {
+        "symbol": "SYSUSDT",
+        "price": "0.08140000"
+    },
+    {
+        "symbol": "FETBUSD",
+        "price": "0.20470000"
+    },
+    {
+        "symbol": "DENTBUSD",
+        "price": "0.00070700"
+    },
+    {
+        "symbol": "MATICETH",
+        "price": "0.00033470"
+    },
+    {
+        "symbol": "CELRETH",
+        "price": "0.00000789"
+    },
+    {
+        "symbol": "CVCBUSD",
+        "price": "0.06880000"
+    },
+    {
+        "symbol": "KEYBUSD",
+        "price": "0.00525300"
+    },
+    {
+        "symbol": "LOOMBUSD",
+        "price": "0.04003000"
+    },
+    {
+        "symbol": "QKCBUSD",
+        "price": "0.00869500"
+    },
+    {
+        "symbol": "QKCUSDT",
+        "price": "0.00768200"
+    },
+    {
+        "symbol": "LOOMUSDT",
+        "price": "0.18960000"
+    },
+    {
+        "symbol": "MATICTUSD",
+        "price": "0.52540000"
+    },
+    {
+        "symbol": "MATICUSDT",
+        "price": "0.52560000"
+    },
+    {
+        "symbol": "ATOMBNB",
+        "price": "0.03247000"
+    },
+    {
+        "symbol": "ATOMBTC",
+        "price": "0.00024260"
+    },
+    {
+        "symbol": "ATOMUSDT",
+        "price": "6.65000000"
+    },
+    {
+        "symbol": "ATOMUSDC",
+        "price": "12.91200000"
+    },
+    {
+        "symbol": "ATOMTUSD",
+        "price": "2.59800000"
+    },
+    {
+        "symbol": "PHBBNB",
+        "price": "0.00013700"
+    },
+    {
+        "symbol": "PHBBTC",
+        "price": "0.00002042"
+    },
+    {
+        "symbol": "PHBUSDC",
+        "price": "0.00587000"
+    },
+    {
+        "symbol": "PHBTUSD",
+        "price": "0.22900000"
+    },
+    {
+        "symbol": "TFUELBNB",
+        "price": "0.00012590"
+    },
+    {
+        "symbol": "TFUELBTC",
+        "price": "0.00000117"
+    },
+    {
+        "symbol": "TFUELUSDT",
+        "price": "0.03213000"
+    },
+    {
+        "symbol": "TFUELUSDC",
+        "price": "0.00356500"
+    },
+    {
+        "symbol": "TFUELTUSD",
+        "price": "0.00307700"
+    },
+    {
+        "symbol": "ONEBNB",
+        "price": "0.00004361"
+    },
+    {
+        "symbol": "ONEBTC",
+        "price": "0.00000032"
+    },
+    {
+        "symbol": "ONEUSDT",
+        "price": "0.00893000"
+    },
+    {
+        "symbol": "ONETUSD",
+        "price": "0.00472000"
+    },
+    {
+        "symbol": "ONEUSDC",
+        "price": "0.00520000"
+    },
+    {
+        "symbol": "FTMBNB",
+        "price": "0.00088440"
+    },
+    {
+        "symbol": "FTMBTC",
+        "price": "0.00000659"
+    },
+    {
+        "symbol": "FTMUSDT",
+        "price": "0.18080000"
+    },
+    {
+        "symbol": "FTMTUSD",
+        "price": "0.01095000"
+    },
+    {
+        "symbol": "FTMUSDC",
+        "price": "0.01107000"
+    },
+    {
+        "symbol": "ALGOBNB",
+        "price": "0.00047000"
+    },
+    {
+        "symbol": "ALGOBTC",
+        "price": "0.00000350"
+    },
+    {
+        "symbol": "ALGOUSDT",
+        "price": "0.09590000"
+    },
+    {
+        "symbol": "ALGOTUSD",
+        "price": "1.01700000"
+    },
+    {
+        "symbol": "ALGOUSDC",
+        "price": "0.23800000"
+    },
+    {
+        "symbol": "DOGEBNB",
+        "price": "0.00015270"
+    },
+    {
+        "symbol": "DOGEBTC",
+        "price": "0.00000214"
+    },
+    {
+        "symbol": "DOGEUSDT",
+        "price": "0.05847000"
+    },
+    {
+        "symbol": "DOGEUSDC",
+        "price": "0.00212770"
+    },
+    {
+        "symbol": "DUSKBNB",
+        "price": "0.00118000"
+    },
+    {
+        "symbol": "DUSKBTC",
+        "price": "0.00000401"
+    },
+    {
+        "symbol": "DUSKUSDT",
+        "price": "0.10990000"
+    },
+    {
+        "symbol": "DUSKUSDC",
+        "price": "0.01790000"
+    },
+    {
+        "symbol": "BGBPUSDC",
+        "price": "1.39000000"
+    },
+    {
+        "symbol": "ANKRBNB",
+        "price": "0.00008560"
+    },
+    {
+        "symbol": "ANKRBTC",
+        "price": "0.00000069"
+    },
+    {
+        "symbol": "ANKRUSDT",
+        "price": "0.01893000"
+    },
+    {
+        "symbol": "ANKRTUSD",
+        "price": "0.00212800"
+    },
+    {
+        "symbol": "ANKRUSDC",
+        "price": "0.00209700"
+    },
+    {
+        "symbol": "WINBNB",
+        "price": "0.00000029"
+    },
+    {
+        "symbol": "WINBTC",
+        "price": "0.00000001"
+    },
+    {
+        "symbol": "WINUSDT",
+        "price": "0.00005920"
+    },
+    {
+        "symbol": "WINUSDC",
+        "price": "0.00009730"
+    },
+    {
+        "symbol": "COSBNB",
+        "price": "0.00002109"
+    },
+    {
+        "symbol": "COSBTC",
+        "price": "0.00000015"
+    },
+    {
+        "symbol": "COSUSDT",
+        "price": "0.00430000"
+    },
+    {
+        "symbol": "TOMOBNB",
+        "price": "0.03255000"
+    },
+    {
+        "symbol": "TOMOBTC",
+        "price": "0.00004880"
+    },
+    {
+        "symbol": "TOMOUSDT",
+        "price": "1.33960000"
+    },
+    {
+        "symbol": "TOMOUSDC",
+        "price": "0.36700000"
+    },
+    {
+        "symbol": "PERLBNB",
+        "price": "0.00007180"
+    },
+    {
+        "symbol": "PERLBTC",
+        "price": "0.00000113"
+    },
+    {
+        "symbol": "PERLUSDC",
+        "price": "0.02447000"
+    },
+    {
+        "symbol": "PERLUSDT",
+        "price": "0.01573000"
+    },
+    {
+        "symbol": "WINTRX",
+        "price": "0.00069100"
+    },
+    {
+        "symbol": "CHZBNB",
+        "price": "0.00027210"
+    },
+    {
+        "symbol": "CHZBTC",
+        "price": "0.00000203"
+    },
+    {
+        "symbol": "CHZUSDT",
+        "price": "0.05570000"
+    },
+    {
+        "symbol": "BANDBNB",
+        "price": "0.02248000"
+    },
+    {
+        "symbol": "BANDBTC",
+        "price": "0.00003830"
+    },
+    {
+        "symbol": "BANDUSDT",
+        "price": "1.04700000"
+    },
+    {
+        "symbol": "BUSDUSDT",
+        "price": "0.99970000"
+    },
+    {
+        "symbol": "XTZBNB",
+        "price": "0.00288300"
+    },
+    {
+        "symbol": "XTZBTC",
+        "price": "0.00002344"
+    },
+    {
+        "symbol": "XTZUSDT",
+        "price": "0.64200000"
+    },
+    {
+        "symbol": "HBARBNB",
+        "price": "0.00022480"
+    },
+    {
+        "symbol": "HBARBTC",
+        "price": "0.00000168"
+    },
+    {
+        "symbol": "HBARUSDT",
+        "price": "0.04600000"
+    },
+    {
+        "symbol": "NKNBNB",
+        "price": "0.00074700"
+    },
+    {
+        "symbol": "ATOMBUSD",
+        "price": "6.65200000"
+    },
+    {
+        "symbol": "XTZBUSD",
+        "price": "0.67100000"
+    },
+    {
+        "symbol": "ALGOBUSD",
+        "price": "0.09590000"
+    },
+    {
+        "symbol": "TOMOBUSD",
+        "price": "1.33500000"
+    },
+    {
+        "symbol": "HBARBUSD",
+        "price": "0.04600000"
+    },
+    {
+        "symbol": "DOGEBUSD",
+        "price": "0.05847000"
+    },
+    {
+        "symbol": "BUSDDAI",
+        "price": "0.99990000"
+    },
+    {
+        "symbol": "ONEBUSD",
+        "price": "0.00893000"
+    },
+    {
+        "symbol": "BANDBUSD",
+        "price": "1.04700000"
+    },
+    {
+        "symbol": "CHZBUSD",
+        "price": "0.05570000"
+    },
+    {
+        "symbol": "FTMBUSD",
+        "price": "0.18090000"
+    },
+    {
+        "symbol": "WINBUSD",
+        "price": "0.00006940"
+    },
+    {
+        "symbol": "FTMETH",
+        "price": "0.00011520"
+    },
+    {
+        "symbol": "ANKRBUSD",
+        "price": "0.01906000"
+    },
+    {
+        "symbol": "COSBUSD",
+        "price": "0.00517000"
+    },
+    {
+        "symbol": "ATOMETH",
+        "price": "0.00423200"
+    },
+    {
+        "symbol": "DUSKBUSD",
+        "price": "0.10980000"
+    },
+    {
+        "symbol": "ONEETH",
+        "price": "0.00000617"
+    },
+    {
+        "symbol": "XTZETH",
+        "price": "0.00044000"
+    },
+    {
+        "symbol": "TFUELBUSD",
+        "price": "0.04390000"
+    },
+    {
+        "symbol": "ALGOETH",
+        "price": "0.00006130"
+    },
+    {
+        "symbol": "NKNBUSD",
+        "price": "0.09720000"
+    },
+    {
+        "symbol": "PHBBUSD",
+        "price": "0.56080000"
+    },
+    {
+        "symbol": "PHBUSDT",
+        "price": "0.56010000"
+    },
+    {
+        "symbol": "DOGETUSD",
+        "price": "0.05850000"
+    },
+    {
+        "symbol": "DOGEFDUSD",
+        "price": "0.05850000"
+    },
+    {
+        "symbol": "NKNBTC",
+        "price": "0.00000295"
+    },
+    {
+        "symbol": "NKNUSDT",
+        "price": "0.08060000"
+    },
+    {
+        "symbol": "STXBNB",
+        "price": "0.00236100"
+    },
+    {
+        "symbol": "STXBTC",
+        "price": "0.00001764"
+    },
+    {
+        "symbol": "STXUSDT",
+        "price": "0.48390000"
+    },
+    {
+        "symbol": "KAVABNB",
+        "price": "0.00285100"
+    },
+    {
+        "symbol": "KAVABTC",
+        "price": "0.00002123"
+    },
+    {
+        "symbol": "KAVAUSDT",
+        "price": "0.58300000"
+    },
+    {
+        "symbol": "ARPABNB",
+        "price": "0.00019470"
+    },
+    {
+        "symbol": "ARPABTC",
+        "price": "0.00000146"
+    },
+    {
+        "symbol": "ARPAUSDT",
+        "price": "0.03987000"
+    },
+    {
+        "symbol": "CTXCBNB",
+        "price": "0.00412200"
+    },
+    {
+        "symbol": "CTXCBTC",
+        "price": "0.00000429"
+    },
+    {
+        "symbol": "CTXCUSDT",
+        "price": "0.11760000"
+    },
+    {
+        "symbol": "BCHBNB",
+        "price": "1.05000000"
+    },
+    {
+        "symbol": "BCHBTC",
+        "price": "0.00783000"
+    },
+    {
+        "symbol": "BCHUSDT",
+        "price": "214.80000000"
+    },
+    {
+        "symbol": "BCHUSDC",
+        "price": "114.80000000"
+    },
+    {
+        "symbol": "BCHTUSD",
+        "price": "214.70000000"
+    },
+    {
+        "symbol": "BCHBUSD",
+        "price": "215.00000000"
+    },
+    {
+        "symbol": "TROYBNB",
+        "price": "0.00001060"
+    },
+    {
+        "symbol": "TROYBTC",
+        "price": "0.00000018"
+    },
+    {
+        "symbol": "TROYUSDT",
+        "price": "0.00214400"
+    },
+    {
+        "symbol": "VITEBNB",
+        "price": "0.00070700"
+    },
+    {
+        "symbol": "VITEBTC",
+        "price": "0.00000040"
+    },
+    {
+        "symbol": "VITEUSDT",
+        "price": "0.01093000"
+    },
+    {
+        "symbol": "FTTBNB",
+        "price": "0.00513000"
+    },
+    {
+        "symbol": "FTTBTC",
+        "price": "0.00008560"
+    },
+    {
+        "symbol": "FTTUSDT",
+        "price": "1.08180000"
+    },
+    {
+        "symbol": "OGNBNB",
+        "price": "0.00038300"
+    },
+    {
+        "symbol": "OGNBTC",
+        "price": "0.00000412"
+    },
+    {
+        "symbol": "OGNUSDT",
+        "price": "0.11280000"
+    },
+    {
+        "symbol": "DREPBNB",
+        "price": "0.00009380"
+    },
+    {
+        "symbol": "DREPBTC",
+        "price": "0.00000837"
+    },
+    {
+        "symbol": "DREPUSDT",
+        "price": "0.22990000"
+    },
+    {
+        "symbol": "TCTBNB",
+        "price": "0.00041860"
+    },
+    {
+        "symbol": "TCTBTC",
+        "price": "0.00000016"
+    },
+    {
+        "symbol": "TCTUSDT",
+        "price": "0.00312000"
+    },
+    {
+        "symbol": "WRXBNB",
+        "price": "0.00039800"
+    },
+    {
+        "symbol": "WRXBTC",
+        "price": "0.00000455"
+    },
+    {
+        "symbol": "WRXUSDT",
+        "price": "0.08980000"
+    },
+    {
+        "symbol": "LTOBNB",
+        "price": "0.00248000"
+    },
+    {
+        "symbol": "LTOBTC",
+        "price": "0.00000194"
+    },
+    {
+        "symbol": "LTOUSDT",
+        "price": "0.05300000"
+    },
+    {
+        "symbol": "MBLBNB",
+        "price": "0.00001202"
+    },
+    {
+        "symbol": "MBLBTC",
+        "price": "0.00000005"
+    },
+    {
+        "symbol": "MBLUSDT",
+        "price": "0.00292400"
+    },
+    {
+        "symbol": "COTIBNB",
+        "price": "0.00019150"
+    },
+    {
+        "symbol": "COTIBTC",
+        "price": "0.00000144"
+    },
+    {
+        "symbol": "COTIUSDT",
+        "price": "0.03940000"
+    },
+    {
+        "symbol": "STPTBNB",
+        "price": "0.00067000"
+    },
+    {
+        "symbol": "STPTBTC",
+        "price": "0.00000219"
+    },
+    {
+        "symbol": "STPTUSDT",
+        "price": "0.06039000"
+    },
+    {
+        "symbol": "SOLBNB",
+        "price": "0.10750000"
+    },
+    {
+        "symbol": "SOLBTC",
+        "price": "0.00080210"
+    },
+    {
+        "symbol": "SOLUSDT",
+        "price": "21.99000000"
+    },
+    {
+        "symbol": "SOLBUSD",
+        "price": "22.00000000"
+    },
+    {
+        "symbol": "CTSIBTC",
+        "price": "0.00000456"
+    },
+    {
+        "symbol": "CTSIUSDT",
+        "price": "0.12500000"
+    },
+    {
+        "symbol": "CTSIBNB",
+        "price": "0.00060900"
+    },
+    {
+        "symbol": "CTSIBUSD",
+        "price": "0.12500000"
+    },
+    {
+        "symbol": "HIVEBNB",
+        "price": "0.00429000"
+    },
+    {
+        "symbol": "HIVEBTC",
+        "price": "0.00001085"
+    },
+    {
+        "symbol": "HIVEUSDT",
+        "price": "0.29740000"
+    },
+    {
+        "symbol": "CHRBNB",
+        "price": "0.00043200"
+    },
+    {
+        "symbol": "CHRBTC",
+        "price": "0.00000322"
+    },
+    {
+        "symbol": "CHRUSDT",
+        "price": "0.08840000"
+    },
+    {
+        "symbol": "WRXBUSD",
+        "price": "0.08970000"
+    },
+    {
+        "symbol": "MDTBNB",
+        "price": "0.00073720"
+    },
+    {
+        "symbol": "MDTBTC",
+        "price": "0.00000154"
+    },
+    {
+        "symbol": "MDTUSDT",
+        "price": "0.04223000"
+    },
+    {
+        "symbol": "STMXBTC",
+        "price": "0.00000016"
+    },
+    {
+        "symbol": "STMXETH",
+        "price": "0.00000292"
+    },
+    {
+        "symbol": "STMXUSDT",
+        "price": "0.00637000"
+    },
+    {
+        "symbol": "USDTDAI",
+        "price": "1.00010000"
+    },
+    {
+        "symbol": "KAVABUSD",
+        "price": "0.58200000"
+    },
+    {
+        "symbol": "COTIBUSD",
+        "price": "0.03930000"
+    },
+    {
+        "symbol": "CHRBUSD",
+        "price": "0.08850000"
+    },
+    {
+        "symbol": "STMXBUSD",
+        "price": "0.00585100"
+    },
+    {
+        "symbol": "FTTBUSD",
+        "price": "1.13000000"
+    },
+    {
+        "symbol": "LTOBUSD",
+        "price": "0.05590000"
+    },
+    {
+        "symbol": "OGNBUSD",
+        "price": "0.11290000"
+    },
+    {
+        "symbol": "STXBUSD",
+        "price": "0.48340000"
+    },
+    {
+        "symbol": "SOLUSDC",
+        "price": "33.68000000"
+    },
+    {
+        "symbol": "ARPABUSD",
+        "price": "0.03983000"
+    },
+    {
+        "symbol": "HIVEBUSD",
+        "price": "0.27580000"
+    },
+    {
+        "symbol": "STPTBUSD",
+        "price": "0.04185000"
+    },
+    {
+        "symbol": "TROYBUSD",
+        "price": "0.00226900"
+    },
+    {
+        "symbol": "SOLETH",
+        "price": "0.01400000"
+    },
+    {
+        "symbol": "CHRETH",
+        "price": "0.00005650"
+    },
+    {
+        "symbol": "CTXCBUSD",
+        "price": "0.11680000"
+    },
+    {
+        "symbol": "MDTBUSD",
+        "price": "0.04578000"
+    },
+    {
+        "symbol": "KAVAETH",
+        "price": "0.00037100"
+    },
+    {
+        "symbol": "FTTETH",
+        "price": "0.00114100"
+    },
+    {
+        "symbol": "MBLBUSD",
+        "price": "0.00265800"
+    },
+    {
+        "symbol": "DREPBUSD",
+        "price": "0.22990000"
+    },
+    {
+        "symbol": "ARPAETH",
+        "price": "0.00002561"
+    },
+    {
+        "symbol": "VITEBUSD",
+        "price": "0.01726000"
+    },
+    {
+        "symbol": "SOLTUSD",
+        "price": "22.01000000"
+    },
+    {
+        "symbol": "SOLFDUSD",
+        "price": "22.00000000"
+    },
+    {
+        "symbol": "IQBNB",
+        "price": "0.00002243"
+    },
+    {
+        "symbol": "IQBUSD",
+        "price": "0.00502000"
+    },
+    {
+        "symbol": "PNTBTC",
+        "price": "0.00000864"
+    },
+    {
+        "symbol": "PNTUSDT",
+        "price": "0.11180000"
+    },
+    {
+        "symbol": "DGBBTC",
+        "price": "0.00000022"
+    },
+    {
+        "symbol": "DGBBUSD",
+        "price": "0.00632000"
+    },
+    {
+        "symbol": "COMPBTC",
+        "price": "0.00149300"
+    },
+    {
+        "symbol": "COMPBNB",
+        "price": "5.71900000"
+    },
+    {
+        "symbol": "COMPBUSD",
+        "price": "40.98000000"
+    },
+    {
+        "symbol": "COMPUSDT",
+        "price": "41.00000000"
+    },
+    {
+        "symbol": "SXPBTC",
+        "price": "0.00000984"
+    },
+    {
+        "symbol": "SXPBNB",
+        "price": "0.00131500"
+    },
+    {
+        "symbol": "SXPBUSD",
+        "price": "0.27020000"
+    },
+    {
+        "symbol": "SNXBTC",
+        "price": "0.00006950"
+    },
+    {
+        "symbol": "SNXBNB",
+        "price": "0.00922000"
+    },
+    {
+        "symbol": "SNXBUSD",
+        "price": "1.90300000"
+    },
+    {
+        "symbol": "SNXUSDT",
+        "price": "1.90900000"
+    },
+    {
+        "symbol": "VTHOBNB",
+        "price": "0.00000673"
+    },
+    {
+        "symbol": "VTHOBUSD",
+        "price": "0.00071800"
+    },
+    {
+        "symbol": "VTHOUSDT",
+        "price": "0.00111200"
+    },
+    {
+        "symbol": "DGBUSDT",
+        "price": "0.00609000"
+    },
+    {
+        "symbol": "SXPUSDT",
+        "price": "0.27040000"
+    },
+    {
+        "symbol": "IRISBNB",
+        "price": "0.00166200"
+    },
+    {
+        "symbol": "IRISBTC",
+        "price": "0.00000064"
+    },
+    {
+        "symbol": "IRISBUSD",
+        "price": "0.06080000"
+    },
+    {
+        "symbol": "MKRBNB",
+        "price": "6.90300000"
+    },
+    {
+        "symbol": "MKRBTC",
+        "price": "0.04923000"
+    },
+    {
+        "symbol": "MKRUSDT",
+        "price": "1351.00000000"
+    },
+    {
+        "symbol": "MKRBUSD",
+        "price": "1354.00000000"
+    },
+    {
+        "symbol": "DAIBNB",
+        "price": "0.04876000"
+    },
+    {
+        "symbol": "DAIBTC",
+        "price": "0.00008966"
+    },
+    {
+        "symbol": "DAIUSDT",
+        "price": "1.01890000"
+    },
+    {
+        "symbol": "DAIBUSD",
+        "price": "1.01810000"
+    },
+    {
+        "symbol": "RUNEBNB",
+        "price": "0.00787200"
+    },
+    {
+        "symbol": "RUNEBTC",
+        "price": "0.00005879"
+    },
+    {
+        "symbol": "RUNEBUSD",
+        "price": "1.61200000"
+    },
+    {
+        "symbol": "FIOBNB",
+        "price": "0.00017080"
+    },
+    {
+        "symbol": "FIOBTC",
+        "price": "0.00000066"
+    },
+    {
+        "symbol": "FIOBUSD",
+        "price": "0.01922000"
+    },
+    {
+        "symbol": "AVABNB",
+        "price": "0.00218800"
+    },
+    {
+        "symbol": "AVABTC",
+        "price": "0.00001539"
+    },
+    {
+        "symbol": "AVABUSD",
+        "price": "0.47000000"
+    },
+    {
+        "symbol": "BALBNB",
+        "price": "0.42580000"
+    },
+    {
+        "symbol": "BALBTC",
+        "price": "0.00011080"
+    },
+    {
+        "symbol": "BALBUSD",
+        "price": "3.15000000"
+    },
+    {
+        "symbol": "YFIBNB",
+        "price": "82.19000000"
+    },
+    {
+        "symbol": "YFIBTC",
+        "price": "0.18800000"
+    },
+    {
+        "symbol": "YFIBUSD",
+        "price": "5325.00000000"
+    },
+    {
+        "symbol": "YFIUSDT",
+        "price": "5164.00000000"
+    },
+    {
+        "symbol": "BALUSDT",
+        "price": "3.03800000"
+    },
+    {
+        "symbol": "IRISUSDT",
+        "price": "0.01756000"
+    },
+    {
+        "symbol": "JSTBNB",
+        "price": "0.00021850"
+    },
+    {
+        "symbol": "JSTBTC",
+        "price": "0.00000079"
+    },
+    {
+        "symbol": "JSTBUSD",
+        "price": "0.02103000"
+    },
+    {
+        "symbol": "JSTUSDT",
+        "price": "0.02190000"
+    },
+    {
+        "symbol": "SRMBNB",
+        "price": "0.00084000"
+    },
+    {
+        "symbol": "SRMBTC",
+        "price": "0.00001523"
+    },
+    {
+        "symbol": "SRMBUSD",
+        "price": "0.03530000"
+    },
+    {
+        "symbol": "SRMUSDT",
+        "price": "0.24442000"
+    },
+    {
+        "symbol": "ANTBNB",
+        "price": "0.02240000"
+    },
+    {
+        "symbol": "ANTBTC",
+        "price": "0.00016794"
+    },
+    {
+        "symbol": "ANTBUSD",
+        "price": "4.30300000"
+    },
+    {
+        "symbol": "ANTUSDT",
+        "price": "4.60000000"
+    },
+    {
+        "symbol": "CRVBNB",
+        "price": "0.00687000"
+    },
+    {
+        "symbol": "CRVBTC",
+        "price": "0.00001630"
+    },
+    {
+        "symbol": "CRVBUSD",
+        "price": "0.44510000"
+    },
+    {
+        "symbol": "CRVUSDT",
+        "price": "0.44740000"
+    },
+    {
+        "symbol": "SANDBNB",
+        "price": "0.00137800"
+    },
+    {
+        "symbol": "SANDBTC",
+        "price": "0.00001028"
+    },
+    {
+        "symbol": "SANDUSDT",
+        "price": "0.28230000"
+    },
+    {
+        "symbol": "SANDBUSD",
+        "price": "0.28220000"
+    },
+    {
+        "symbol": "OCEANBNB",
+        "price": "0.00135600"
+    },
+    {
+        "symbol": "OCEANBTC",
+        "price": "0.00001012"
+    },
+    {
+        "symbol": "OCEANBUSD",
+        "price": "0.27800000"
+    },
+    {
+        "symbol": "OCEANUSDT",
+        "price": "0.27810000"
+    },
+    {
+        "symbol": "NMRBTC",
+        "price": "0.00044100"
+    },
+    {
+        "symbol": "NMRBUSD",
+        "price": "11.43000000"
+    },
+    {
+        "symbol": "NMRUSDT",
+        "price": "12.10000000"
+    },
+    {
+        "symbol": "DOTBNB",
+        "price": "0.01863000"
+    },
+    {
+        "symbol": "DOTBTC",
+        "price": "0.00013910"
+    },
+    {
+        "symbol": "DOTBUSD",
+        "price": "3.81600000"
+    },
+    {
+        "symbol": "DOTUSDT",
+        "price": "3.81600000"
+    },
+    {
+        "symbol": "LUNABNB",
+        "price": "0.00000019"
+    },
+    {
+        "symbol": "LUNABTC",
+        "price": "0.00000001"
+    },
+    {
+        "symbol": "LUNABUSD",
+        "price": "0.40000000"
+    },
+    {
+        "symbol": "LUNAUSDT",
+        "price": "0.40040000"
+    },
+    {
+        "symbol": "IDEXBTC",
+        "price": "0.00000164"
+    },
+    {
+        "symbol": "IDEXBUSD",
+        "price": "0.04492000"
+    },
+    {
+        "symbol": "RUNEUSDT",
+        "price": "1.61200000"
+    },
+    {
+        "symbol": "FIOUSDT",
+        "price": "0.01835000"
+    },
+    {
+        "symbol": "AVAUSDT",
+        "price": "0.42100000"
+    },
+    {
+        "symbol": "IDEXUSDT",
+        "price": "0.04503000"
+    },
+    {
+        "symbol": "SANDETH",
+        "price": "0.00017970"
+    },
+    {
+        "symbol": "DOTETH",
+        "price": "0.00243000"
+    },
+    {
+        "symbol": "LUNAETH",
+        "price": "0.00000003"
+    },
+    {
+        "symbol": "CRVETH",
+        "price": "0.00028480"
+    },
+    {
+        "symbol": "IDEXBNB",
+        "price": "0.00021980"
+    },
+    {
+        "symbol": "RUNEETH",
+        "price": "0.00102450"
+    },
+    {
+        "symbol": "SNXETH",
+        "price": "0.00121500"
+    },
+    {
+        "symbol": "COMPTUSD",
+        "price": "40.96000000"
+    },
+    {
+        "symbol": "RSRBNB",
+        "price": "0.00000836"
+    },
+    {
+        "symbol": "RSRBTC",
+        "price": "0.00000016"
+    },
+    {
+        "symbol": "RSRBUSD",
+        "price": "0.00184000"
+    },
+    {
+        "symbol": "RSRUSDT",
+        "price": "0.00170200"
+    },
+    {
+        "symbol": "PAXGBNB",
+        "price": "9.07800000"
+    },
+    {
+        "symbol": "PAXGBTC",
+        "price": "0.06796000"
+    },
+    {
+        "symbol": "PAXGBUSD",
+        "price": "1860.00000000"
+    },
+    {
+        "symbol": "PAXGUSDT",
+        "price": "1859.00000000"
+    },
+    {
+        "symbol": "WNXMBNB",
+        "price": "0.17350000"
+    },
+    {
+        "symbol": "WNXMBTC",
+        "price": "0.00067200"
+    },
+    {
+        "symbol": "WNXMBUSD",
+        "price": "22.16500000"
+    },
+    {
+        "symbol": "WNXMUSDT",
+        "price": "29.26000000"
+    },
+    {
+        "symbol": "TRBBNB",
+        "price": "0.51700000"
+    },
+    {
+        "symbol": "TRBBTC",
+        "price": "0.00173620"
+    },
+    {
+        "symbol": "TRBBUSD",
+        "price": "47.63000000"
+    },
+    {
+        "symbol": "TRBUSDT",
+        "price": "47.63000000"
+    },
+    {
+        "symbol": "WBTCBTC",
+        "price": "0.99930000"
+    },
+    {
+        "symbol": "WBTCETH",
+        "price": "17.46000000"
+    },
+    {
+        "symbol": "SUSHIBNB",
+        "price": "0.00265100"
+    },
+    {
+        "symbol": "SUSHIBTC",
+        "price": "0.00001973"
+    },
+    {
+        "symbol": "SUSHIBUSD",
+        "price": "0.56600000"
+    },
+    {
+        "symbol": "SUSHIUSDT",
+        "price": "0.54100000"
+    },
+    {
+        "symbol": "YFIIBNB",
+        "price": "4.42000000"
+    },
+    {
+        "symbol": "YFIIBTC",
+        "price": "0.07249000"
+    },
+    {
+        "symbol": "YFIIBUSD",
+        "price": "1192.00000000"
+    },
+    {
+        "symbol": "YFIIUSDT",
+        "price": "435.50000000"
+    },
+    {
+        "symbol": "KSMBNB",
+        "price": "0.09080000"
+    },
+    {
+        "symbol": "KSMBTC",
+        "price": "0.00061800"
+    },
+    {
+        "symbol": "KSMBUSD",
+        "price": "18.87000000"
+    },
+    {
+        "symbol": "KSMUSDT",
+        "price": "16.96000000"
+    },
+    {
+        "symbol": "EGLDBNB",
+        "price": "0.11260000"
+    },
+    {
+        "symbol": "EGLDBTC",
+        "price": "0.00083900"
+    },
+    {
+        "symbol": "EGLDBUSD",
+        "price": "23.01000000"
+    },
+    {
+        "symbol": "EGLDUSDT",
+        "price": "23.01000000"
+    },
+    {
+        "symbol": "DIABNB",
+        "price": "0.00381300"
+    },
+    {
+        "symbol": "DIABTC",
+        "price": "0.00000818"
+    },
+    {
+        "symbol": "DIABUSD",
+        "price": "0.23840000"
+    },
+    {
+        "symbol": "DIAUSDT",
+        "price": "0.22440000"
+    },
+    {
+        "symbol": "UMABTC",
+        "price": "0.00004720"
+    },
+    {
+        "symbol": "UMAUSDT",
+        "price": "1.29000000"
+    },
+    {
+        "symbol": "BELBNB",
+        "price": "0.00267400"
+    },
+    {
+        "symbol": "BELBTC",
+        "price": "0.00002001"
+    },
+    {
+        "symbol": "BELBUSD",
+        "price": "0.54820000"
+    },
+    {
+        "symbol": "BELUSDT",
+        "price": "0.54870000"
+    },
+    {
+        "symbol": "WINGBNB",
+        "price": "0.04865000"
+    },
+    {
+        "symbol": "WINGBTC",
+        "price": "0.00018560"
+    },
+    {
+        "symbol": "WINGBUSD",
+        "price": "5.15000000"
+    },
+    {
+        "symbol": "WINGUSDT",
+        "price": "5.10000000"
+    },
+    {
+        "symbol": "CREAMBNB",
+        "price": "0.07230000"
+    },
+    {
+        "symbol": "CREAMBUSD",
+        "price": "19.86000000"
+    },
+    {
+        "symbol": "UNIBNB",
+        "price": "0.02004000"
+    },
+    {
+        "symbol": "UNIBTC",
+        "price": "0.00014970"
+    },
+    {
+        "symbol": "UNIBUSD",
+        "price": "4.09400000"
+    },
+    {
+        "symbol": "UNIUSDT",
+        "price": "4.10500000"
+    },
+    {
+        "symbol": "OXTBTC",
+        "price": "0.00000228"
+    },
+    {
+        "symbol": "OXTUSDT",
+        "price": "0.06270000"
+    },
+    {
+        "symbol": "SUNBTC",
+        "price": "0.00071100"
+    },
+    {
+        "symbol": "SUNUSDT",
+        "price": "0.00539000"
+    },
+    {
+        "symbol": "AVAXBNB",
+        "price": "0.04603000"
+    },
+    {
+        "symbol": "AVAXBTC",
+        "price": "0.00034280"
+    },
+    {
+        "symbol": "AVAXBUSD",
+        "price": "9.41000000"
+    },
+    {
+        "symbol": "AVAXUSDT",
+        "price": "9.41000000"
+    },
+    {
+        "symbol": "BAKEBNB",
+        "price": "0.00068070"
+    },
+    {
+        "symbol": "BURGERBNB",
+        "price": "0.00153600"
+    },
+    {
+        "symbol": "FLMBNB",
+        "price": "0.00333000"
+    },
+    {
+        "symbol": "FLMBTC",
+        "price": "0.00000247"
+    },
+    {
+        "symbol": "FLMBUSD",
+        "price": "0.23210000"
+    },
+    {
+        "symbol": "FLMUSDT",
+        "price": "0.06790000"
+    },
+    {
+        "symbol": "SCRTBTC",
+        "price": "0.00000898"
+    },
+    {
+        "symbol": "SCRTETH",
+        "price": "0.00015640"
+    },
+    {
+        "symbol": "CAKEBNB",
+        "price": "0.00560000"
+    },
+    {
+        "symbol": "CAKEBUSD",
+        "price": "1.14500000"
+    },
+    {
+        "symbol": "ORNBTC",
+        "price": "0.00001739"
+    },
+    {
+        "symbol": "ORNUSDT",
+        "price": "0.47750000"
+    },
+    {
+        "symbol": "UTKBTC",
+        "price": "0.00000188"
+    },
+    {
+        "symbol": "UTKUSDT",
+        "price": "0.05160000"
+    },
+    {
+        "symbol": "CAKEBTC",
+        "price": "0.00004170"
+    },
+    {
+        "symbol": "CAKEUSDT",
+        "price": "1.14500000"
+    },
+    {
+        "symbol": "BAKEBUSD",
+        "price": "0.13940000"
+    },
+    {
+        "symbol": "BAKEUSDT",
+        "price": "0.13940000"
+    },
+    {
+        "symbol": "BURGERBUSD",
+        "price": "0.31510000"
+    },
+    {
+        "symbol": "BURGERUSDT",
+        "price": "0.31520000"
+    },
+    {
+        "symbol": "BAKEBTC",
+        "price": "0.00000508"
+    },
+    {
+        "symbol": "UTKBUSD",
+        "price": "0.05610000"
+    },
+    {
+        "symbol": "ORNBUSD",
+        "price": "0.55190000"
+    },
+    {
+        "symbol": "SUNBUSD",
+        "price": "0.00544000"
+    },
+    {
+        "symbol": "SCRTBUSD",
+        "price": "0.26290000"
+    },
+    {
+        "symbol": "OXTBUSD",
+        "price": "0.05130000"
+    },
+    {
+        "symbol": "AVAXETH",
+        "price": "0.00600000"
+    },
+    {
+        "symbol": "EGLDETH",
+        "price": "0.01467000"
+    },
+    {
+        "symbol": "UMABUSD",
+        "price": "1.32700000"
+    },
+    {
+        "symbol": "UNIETH",
+        "price": "0.00262000"
+    },
+    {
+        "symbol": "SCRTUSDT",
+        "price": "0.24610000"
+    },
+    {
+        "symbol": "KSMETH",
+        "price": "0.02114000"
+    },
+    {
+        "symbol": "WBTCBUSD",
+        "price": "27360.70000000"
+    },
+    {
+        "symbol": "BELETH",
+        "price": "0.00041170"
+    },
+    {
+        "symbol": "BURGERETH",
+        "price": "0.00045000"
+    },
+    {
+        "symbol": "WINGETH",
+        "price": "0.00352100"
+    },
+    {
+        "symbol": "WBTCUSDT",
+        "price": "27352.69000000"
+    },
+    {
+        "symbol": "AVAXTUSD",
+        "price": "9.40000000"
+    },
+    {
+        "symbol": "XVSBNB",
+        "price": "0.02441000"
+    },
+    {
+        "symbol": "XVSBTC",
+        "price": "0.00018240"
+    },
+    {
+        "symbol": "XVSBUSD",
+        "price": "5.01000000"
+    },
+    {
+        "symbol": "XVSUSDT",
+        "price": "5.02000000"
+    },
+    {
+        "symbol": "ALPHABNB",
+        "price": "0.00029900"
+    },
+    {
+        "symbol": "ALPHABTC",
+        "price": "0.00000252"
+    },
+    {
+        "symbol": "ALPHABUSD",
+        "price": "0.07710000"
+    },
+    {
+        "symbol": "ALPHAUSDT",
+        "price": "0.06900000"
+    },
+    {
+        "symbol": "VIDTBTC",
+        "price": "0.00000063"
+    },
+    {
+        "symbol": "VIDTBUSD",
+        "price": "0.01721000"
+    },
+    {
+        "symbol": "AAVEBNB",
+        "price": "0.30820000"
+    },
+    {
+        "symbol": "AAVEBTC",
+        "price": "0.00230000"
+    },
+    {
+        "symbol": "AAVEETH",
+        "price": "0.04015000"
+    },
+    {
+        "symbol": "AAVEBUSD",
+        "price": "63.10000000"
+    },
+    {
+        "symbol": "AAVEUSDT",
+        "price": "63.11000000"
+    },
+    {
+        "symbol": "NEARBNB",
+        "price": "0.00503500"
+    },
+    {
+        "symbol": "NEARBTC",
+        "price": "0.00003760"
+    },
+    {
+        "symbol": "NEARBUSD",
+        "price": "1.03100000"
+    },
+    {
+        "symbol": "NEARUSDT",
+        "price": "1.03100000"
+    },
+    {
+        "symbol": "FILBNB",
+        "price": "0.01564000"
+    },
+    {
+        "symbol": "FILBTC",
+        "price": "0.00011730"
+    },
+    {
+        "symbol": "FILBUSD",
+        "price": "3.21400000"
+    },
+    {
+        "symbol": "FILUSDT",
+        "price": "3.21400000"
+    },
+    {
+        "symbol": "INJBNB",
+        "price": "0.03608000"
+    },
+    {
+        "symbol": "INJBTC",
+        "price": "0.00026930"
+    },
+    {
+        "symbol": "INJBUSD",
+        "price": "7.38200000"
+    },
+    {
+        "symbol": "INJUSDT",
+        "price": "7.38700000"
+    },
+    {
+        "symbol": "AERGOBTC",
+        "price": "0.00000365"
+    },
+    {
+        "symbol": "AERGOBUSD",
+        "price": "0.10030000"
+    },
+    {
+        "symbol": "AUDIOBTC",
+        "price": "0.00000504"
+    },
+    {
+        "symbol": "AUDIOBUSD",
+        "price": "0.15270000"
+    },
+    {
+        "symbol": "AUDIOUSDT",
+        "price": "0.13810000"
+    },
+    {
+        "symbol": "CTKBNB",
+        "price": "0.00210000"
+    },
+    {
+        "symbol": "CTKBTC",
+        "price": "0.00001567"
+    },
+    {
+        "symbol": "CTKBUSD",
+        "price": "0.53400000"
+    },
+    {
+        "symbol": "CTKUSDT",
+        "price": "0.43000000"
+    },
+    {
+        "symbol": "AKROBTC",
+        "price": "0.00000013"
+    },
+    {
+        "symbol": "AKROUSDT",
+        "price": "0.00663000"
+    },
+    {
+        "symbol": "KP3RBNB",
+        "price": "0.20250000"
+    },
+    {
+        "symbol": "KP3RBUSD",
+        "price": "45.39000000"
+    },
+    {
+        "symbol": "AXSBNB",
+        "price": "0.02062000"
+    },
+    {
+        "symbol": "AXSBTC",
+        "price": "0.00015420"
+    },
+    {
+        "symbol": "AXSBUSD",
+        "price": "4.23000000"
+    },
+    {
+        "symbol": "AXSUSDT",
+        "price": "4.23000000"
+    },
+    {
+        "symbol": "HARDBNB",
+        "price": "0.00052700"
+    },
+    {
+        "symbol": "HARDBTC",
+        "price": "0.00000387"
+    },
+    {
+        "symbol": "HARDBUSD",
+        "price": "0.10660000"
+    },
+    {
+        "symbol": "HARDUSDT",
+        "price": "0.10600000"
+    },
+    {
+        "symbol": "SLPETH",
+        "price": "0.00000088"
+    },
+    {
+        "symbol": "CVPETH",
+        "price": "0.00032000"
+    },
+    {
+        "symbol": "CVPBUSD",
+        "price": "0.31620000"
+    },
+    {
+        "symbol": "STRAXBTC",
+        "price": "0.00002347"
+    },
+    {
+        "symbol": "STRAXETH",
+        "price": "0.00031880"
+    },
+    {
+        "symbol": "STRAXBUSD",
+        "price": "0.47100000"
+    },
+    {
+        "symbol": "STRAXUSDT",
+        "price": "0.64300000"
+    },
+    {
+        "symbol": "FORBTC",
+        "price": "0.00000064"
+    },
+    {
+        "symbol": "FORBUSD",
+        "price": "0.01703000"
+    },
+    {
+        "symbol": "UNFIBNB",
+        "price": "0.02654000"
+    },
+    {
+        "symbol": "UNFIBTC",
+        "price": "0.00024250"
+    },
+    {
+        "symbol": "UNFIBUSD",
+        "price": "6.62500000"
+    },
+    {
+        "symbol": "UNFIUSDT",
+        "price": "6.65500000"
+    },
+    {
+        "symbol": "FRONTETH",
+        "price": "0.00033040"
+    },
+    {
+        "symbol": "FRONTBUSD",
+        "price": "0.29610000"
+    },
+    {
+        "symbol": "ROSEBTC",
+        "price": "0.00000144"
+    },
+    {
+        "symbol": "ROSEBUSD",
+        "price": "0.03960000"
+    },
+    {
+        "symbol": "ROSEUSDT",
+        "price": "0.03964000"
+    },
+    {
+        "symbol": "PROMBNB",
+        "price": "0.01443000"
+    },
+    {
+        "symbol": "PROMBUSD",
+        "price": "4.04000000"
+    },
+    {
+        "symbol": "SKLBTC",
+        "price": "0.00000075"
+    },
+    {
+        "symbol": "SKLBUSD",
+        "price": "0.02150000"
+    },
+    {
+        "symbol": "SKLUSDT",
+        "price": "0.02070000"
+    },
+    {
+        "symbol": "GLMBTC",
+        "price": "0.00000651"
+    },
+    {
+        "symbol": "GLMETH",
+        "price": "0.00015020"
+    },
+    {
+        "symbol": "GHSTETH",
+        "price": "0.00081750"
+    },
+    {
+        "symbol": "GHSTBUSD",
+        "price": "0.95700000"
+    },
+    {
+        "symbol": "DFETH",
+        "price": "0.00007020"
+    },
+    {
+        "symbol": "DFBUSD",
+        "price": "0.03600000"
+    },
+    {
+        "symbol": "FRONTBTC",
+        "price": "0.00001080"
+    },
+    {
+        "symbol": "SLPBUSD",
+        "price": "0.00148700"
+    },
+    {
+        "symbol": "SLPUSDT",
+        "price": "0.00137100"
+    },
+    {
+        "symbol": "FORUSDT",
+        "price": "0.01749000"
+    },
+    {
+        "symbol": "GHSTUSDT",
+        "price": "0.76200000"
+    },
+    {
+        "symbol": "PROMBTC",
+        "price": "0.00014790"
+    },
+    {
+        "symbol": "VIDTUSDT",
+        "price": "0.01720000"
+    },
+    {
+        "symbol": "FRONTUSDT",
+        "price": "0.29650000"
+    },
+    {
+        "symbol": "CVPUSDT",
+        "price": "0.31500000"
+    },
+    {
+        "symbol": "AXSETH",
+        "price": "0.00270600"
+    },
+    {
+        "symbol": "KP3RUSDT",
+        "price": "42.39000000"
+    },
+    {
+        "symbol": "NEARETH",
+        "price": "0.00065700"
+    },
+    {
+        "symbol": "ROSEBNB",
+        "price": "0.00015340"
+    },
+    {
+        "symbol": "FORBNB",
+        "price": "0.00009710"
+    },
+    {
+        "symbol": "ROSEETH",
+        "price": "0.00002539"
+    },
+    {
+        "symbol": "SLPBNB",
+        "price": "0.00000884"
+    },
+    {
+        "symbol": "AKROBUSD",
+        "price": "0.00665000"
+    },
+    {
+        "symbol": "UNFIETH",
+        "price": "0.00224100"
+    },
+    {
+        "symbol": "FILETH",
+        "price": "0.00204500"
+    },
+    {
+        "symbol": "GLMBUSD",
+        "price": "0.17860000"
+    },
+    {
+        "symbol": "GLMUSDT",
+        "price": "0.17860000"
+    },
+    {
+        "symbol": "PROMUSDT",
+        "price": "4.03400000"
+    },
+    {
+        "symbol": "AERGOUSDT",
+        "price": "0.10030000"
+    },
+    {
+        "symbol": "GRTBTC",
+        "price": "0.00000294"
+    },
+    {
+        "symbol": "GRTETH",
+        "price": "0.00005140"
+    },
+    {
+        "symbol": "GRTUSDT",
+        "price": "0.08070000"
+    },
+    {
+        "symbol": "JUVBTC",
+        "price": "0.00013770"
+    },
+    {
+        "symbol": "JUVBUSD",
+        "price": "2.06500000"
+    },
+    {
+        "symbol": "JUVUSDT",
+        "price": "1.89100000"
+    },
+    {
+        "symbol": "PSGBTC",
+        "price": "0.00010350"
+    },
+    {
+        "symbol": "PSGBUSD",
+        "price": "3.01900000"
+    },
+    {
+        "symbol": "PSGUSDT",
+        "price": "2.82900000"
+    },
+    {
+        "symbol": "1INCHBTC",
+        "price": "0.00000895"
+    },
+    {
+        "symbol": "1INCHUSDT",
+        "price": "0.24560000"
+    },
+    {
+        "symbol": "REEFBTC",
+        "price": "0.00000014"
+    },
+    {
+        "symbol": "REEFUSDT",
+        "price": "0.00123300"
+    },
+    {
+        "symbol": "OGBTC",
+        "price": "0.00015450"
+    },
+    {
+        "symbol": "OGUSDT",
+        "price": "4.23900000"
+    },
+    {
+        "symbol": "ATMBTC",
+        "price": "0.00009440"
+    },
+    {
+        "symbol": "ATMUSDT",
+        "price": "2.27000000"
+    },
+    {
+        "symbol": "ASRBTC",
+        "price": "0.00013390"
+    },
+    {
+        "symbol": "ASRUSDT",
+        "price": "2.13700000"
+    },
+    {
+        "symbol": "CELOBTC",
+        "price": "0.00001515"
+    },
+    {
+        "symbol": "CELOUSDT",
+        "price": "0.41600000"
+    },
+    {
+        "symbol": "RIFBTC",
+        "price": "0.00000234"
+    },
+    {
+        "symbol": "RIFUSDT",
+        "price": "0.06420000"
+    },
+    {
+        "symbol": "TRUBTC",
+        "price": "0.00000129"
+    },
+    {
+        "symbol": "TRUBUSD",
+        "price": "0.53570000"
+    },
+    {
+        "symbol": "TRUUSDT",
+        "price": "0.03540000"
+    },
+    {
+        "symbol": "DEXEETH",
+        "price": "0.00136600"
+    },
+    {
+        "symbol": "DEXEBUSD",
+        "price": "2.13800000"
+    },
+    {
+        "symbol": "CKBBTC",
+        "price": "0.00000015"
+    },
+    {
+        "symbol": "CKBBUSD",
+        "price": "0.00265000"
+    },
+    {
+        "symbol": "CKBUSDT",
+        "price": "0.00260800"
+    },
+    {
+        "symbol": "TWTBTC",
+        "price": "0.00003508"
+    },
+    {
+        "symbol": "TWTBUSD",
+        "price": "0.79240000"
+    },
+    {
+        "symbol": "TWTUSDT",
+        "price": "0.96180000"
+    },
+    {
+        "symbol": "FIROBTC",
+        "price": "0.00005300"
+    },
+    {
+        "symbol": "FIROETH",
+        "price": "0.00133300"
+    },
+    {
+        "symbol": "FIROUSDT",
+        "price": "1.45400000"
+    },
+    {
+        "symbol": "BETHETH",
+        "price": "0.99930000"
+    },
+    {
+        "symbol": "PROSETH",
+        "price": "0.00021600"
+    },
+    {
+        "symbol": "LITBTC",
+        "price": "0.00002401"
+    },
+    {
+        "symbol": "LITBUSD",
+        "price": "0.65800000"
+    },
+    {
+        "symbol": "LITUSDT",
+        "price": "0.65800000"
+    },
+    {
+        "symbol": "SFPBTC",
+        "price": "0.00002182"
+    },
+    {
+        "symbol": "SFPBUSD",
+        "price": "0.59860000"
+    },
+    {
+        "symbol": "SFPUSDT",
+        "price": "0.59800000"
+    },
+    {
+        "symbol": "FXSBTC",
+        "price": "0.00019030"
+    },
+    {
+        "symbol": "FXSBUSD",
+        "price": "5.22000000"
+    },
+    {
+        "symbol": "DODOBTC",
+        "price": "0.00000356"
+    },
+    {
+        "symbol": "DODOBUSD",
+        "price": "0.09780000"
+    },
+    {
+        "symbol": "DODOUSDT",
+        "price": "0.09770000"
+    },
+    {
+        "symbol": "UFTETH",
+        "price": "0.00016460"
+    },
+    {
+        "symbol": "UFTBUSD",
+        "price": "0.20610000"
+    },
+    {
+        "symbol": "1INCHBUSD",
+        "price": "0.25190000"
+    },
+    {
+        "symbol": "GRTBUSD",
+        "price": "0.08060000"
+    },
+    {
+        "symbol": "REEFBUSD",
+        "price": "0.00123200"
+    },
+    {
+        "symbol": "ACMBTC",
+        "price": "0.00009050"
+    },
+    {
+        "symbol": "ACMBUSD",
+        "price": "2.07300000"
+    },
+    {
+        "symbol": "ACMUSDT",
+        "price": "1.72900000"
+    },
+    {
+        "symbol": "AUCTIONBTC",
+        "price": "0.00018720"
+    },
+    {
+        "symbol": "AUCTIONBUSD",
+        "price": "5.13000000"
+    },
+    {
+        "symbol": "PHABTC",
+        "price": "0.00000332"
+    },
+    {
+        "symbol": "PHABUSD",
+        "price": "0.09050000"
+    },
+    {
+        "symbol": "TVKBTC",
+        "price": "0.00000070"
+    },
+    {
+        "symbol": "TVKBUSD",
+        "price": "0.02043000"
+    },
+    {
+        "symbol": "BADGERBTC",
+        "price": "0.00007380"
+    },
+    {
+        "symbol": "BADGERBUSD",
+        "price": "2.01900000"
+    },
+    {
+        "symbol": "BADGERUSDT",
+        "price": "2.01700000"
+    },
+    {
+        "symbol": "FISBTC",
+        "price": "0.00000927"
+    },
+    {
+        "symbol": "FISBUSD",
+        "price": "0.25380000"
+    },
+    {
+        "symbol": "FISUSDT",
+        "price": "0.25440000"
+    },
+    {
+        "symbol": "OMBTC",
+        "price": "0.00000065"
+    },
+    {
+        "symbol": "OMBUSD",
+        "price": "0.01891000"
+    },
+    {
+        "symbol": "OMUSDT",
+        "price": "0.01787000"
+    },
+    {
+        "symbol": "PONDBTC",
+        "price": "0.00000028"
+    },
+    {
+        "symbol": "PONDBUSD",
+        "price": "0.00787000"
+    },
+    {
+        "symbol": "PONDUSDT",
+        "price": "0.00788000"
+    },
+    {
+        "symbol": "DEGOBTC",
+        "price": "0.00004590"
+    },
+    {
+        "symbol": "DEGOBUSD",
+        "price": "1.34700000"
+    },
+    {
+        "symbol": "DEGOUSDT",
+        "price": "1.25100000"
+    },
+    {
+        "symbol": "ALICEBTC",
+        "price": "0.00002483"
+    },
+    {
+        "symbol": "ALICEBUSD",
+        "price": "0.72600000"
+    },
+    {
+        "symbol": "ALICEUSDT",
+        "price": "0.68200000"
+    },
+    {
+        "symbol": "ATMBUSD",
+        "price": "2.42000000"
+    },
+    {
+        "symbol": "PHAUSDT",
+        "price": "0.09080000"
+    },
+    {
+        "symbol": "DEXEUSDT",
+        "price": "2.14300000"
+    },
+    {
+        "symbol": "TVKUSDT",
+        "price": "0.01929000"
+    },
+    {
+        "symbol": "DFUSDT",
+        "price": "0.03241000"
+    },
+    {
+        "symbol": "AUCTIONUSDT",
+        "price": "5.13000000"
+    },
+    {
+        "symbol": "CELOBUSD",
+        "price": "0.41500000"
+    },
+    {
+        "symbol": "FXSUSDT",
+        "price": "5.22600000"
+    },
+    {
+        "symbol": "ALICEBNB",
+        "price": "0.00524000"
+    },
+    {
+        "symbol": "OGBUSD",
+        "price": "4.24800000"
+    },
+    {
+        "symbol": "ASRBUSD",
+        "price": "2.15900000"
+    },
+    {
+        "symbol": "FIROBUSD",
+        "price": "1.44100000"
+    },
+    {
+        "symbol": "LITETH",
+        "price": "0.00035510"
+    },
+    {
+        "symbol": "BETHBUSD",
+        "price": "1568.02000000"
+    },
+    {
+        "symbol": "PROSBUSD",
+        "price": "0.24090000"
+    },
+    {
+        "symbol": "PROSUSDT",
+        "price": "0.24100000"
+    },
+    {
+        "symbol": "BETHUSDT",
+        "price": "1569.12000000"
+    },
+    {
+        "symbol": "UFTUSDT",
+        "price": "0.25930000"
+    },
+    {
+        "symbol": "BIFIBNB",
+        "price": "2.77700000"
+    },
+    {
+        "symbol": "BIFIBUSD",
+        "price": "359.60000000"
+    },
+    {
+        "symbol": "LINABTC",
+        "price": "0.00000034"
+    },
+    {
+        "symbol": "LINABUSD",
+        "price": "0.00938500"
+    },
+    {
+        "symbol": "LINAUSDT",
+        "price": "0.00940300"
+    },
+    {
+        "symbol": "PERPBTC",
+        "price": "0.00001984"
+    },
+    {
+        "symbol": "PERPBUSD",
+        "price": "0.54356000"
+    },
+    {
+        "symbol": "PERPUSDT",
+        "price": "0.54283000"
+    },
+    {
+        "symbol": "SUPERBTC",
+        "price": "0.00000266"
+    },
+    {
+        "symbol": "SUPERBUSD",
+        "price": "0.07300000"
+    },
+    {
+        "symbol": "SUPERUSDT",
+        "price": "0.07280000"
+    },
+    {
+        "symbol": "CFXBTC",
+        "price": "0.00000425"
+    },
+    {
+        "symbol": "CFXBUSD",
+        "price": "0.11650000"
+    },
+    {
+        "symbol": "CFXUSDT",
+        "price": "0.11660000"
+    },
+    {
+        "symbol": "EPSBTC",
+        "price": "0.00000499"
+    },
+    {
+        "symbol": "EPSBUSD",
+        "price": "0.16790000"
+    },
+    {
+        "symbol": "EPSUSDT",
+        "price": "0.16790000"
+    },
+    {
+        "symbol": "TKOBTC",
+        "price": "0.00000758"
+    },
+    {
+        "symbol": "TKOBUSD",
+        "price": "0.20820000"
+    },
+    {
+        "symbol": "TKOUSDT",
+        "price": "0.20820000"
+    },
+    {
+        "symbol": "PUNDIXETH",
+        "price": "0.00022130"
+    },
+    {
+        "symbol": "PUNDIXUSDT",
+        "price": "0.34730000"
+    },
+    {
+        "symbol": "TLMBTC",
+        "price": "0.00000034"
+    },
+    {
+        "symbol": "TLMBUSD",
+        "price": "0.00939000"
+    },
+    {
+        "symbol": "TLMUSDT",
+        "price": "0.00936000"
+    },
+    {
+        "symbol": "BARBTC",
+        "price": "0.00014100"
+    },
+    {
+        "symbol": "BARBUSD",
+        "price": "2.53300000"
+    },
+    {
+        "symbol": "BARUSDT",
+        "price": "2.08400000"
+    },
+    {
+        "symbol": "FORTHBTC",
+        "price": "0.00009590"
+    },
+    {
+        "symbol": "FORTHBUSD",
+        "price": "3.02700000"
+    },
+    {
+        "symbol": "FORTHUSDT",
+        "price": "2.63800000"
+    },
+    {
+        "symbol": "SHIBUSDT",
+        "price": "0.00000687"
+    },
+    {
+        "symbol": "SHIBBUSD",
+        "price": "0.00000686"
+    },
+    {
+        "symbol": "ICPBTC",
+        "price": "0.00010640"
+    },
+    {
+        "symbol": "ICPBNB",
+        "price": "0.01425000"
+    },
+    {
+        "symbol": "ICPBUSD",
+        "price": "2.91900000"
+    },
+    {
+        "symbol": "ICPUSDT",
+        "price": "2.92100000"
+    },
+    {
+        "symbol": "ARBTC",
+        "price": "0.00014010"
+    },
+    {
+        "symbol": "ARBNB",
+        "price": "0.02183000"
+    },
+    {
+        "symbol": "ARBUSD",
+        "price": "3.84000000"
+    },
+    {
+        "symbol": "ARUSDT",
+        "price": "3.83000000"
+    },
+    {
+        "symbol": "POLSBTC",
+        "price": "0.00000961"
+    },
+    {
+        "symbol": "POLSBNB",
+        "price": "0.00127900"
+    },
+    {
+        "symbol": "POLSBUSD",
+        "price": "0.25670000"
+    },
+    {
+        "symbol": "POLSUSDT",
+        "price": "0.26270000"
+    },
+    {
+        "symbol": "MDXBTC",
+        "price": "0.00000225"
+    },
+    {
+        "symbol": "MDXBNB",
+        "price": "0.00061900"
+    },
+    {
+        "symbol": "MDXBUSD",
+        "price": "0.06440000"
+    },
+    {
+        "symbol": "MDXUSDT",
+        "price": "0.06190000"
+    },
+    {
+        "symbol": "MASKBNB",
+        "price": "0.01272000"
+    },
+    {
+        "symbol": "MASKBUSD",
+        "price": "2.59500000"
+    },
+    {
+        "symbol": "MASKUSDT",
+        "price": "2.59600000"
+    },
+    {
+        "symbol": "LPTBTC",
+        "price": "0.00020790"
+    },
+    {
+        "symbol": "LPTBNB",
+        "price": "0.02799000"
+    },
+    {
+        "symbol": "LPTBUSD",
+        "price": "5.72000000"
+    },
+    {
+        "symbol": "LPTUSDT",
+        "price": "5.73000000"
+    },
+    {
+        "symbol": "AGIXBTC",
+        "price": "0.00000614"
+    },
+    {
+        "symbol": "ATABTC",
+        "price": "0.00000285"
+    },
+    {
+        "symbol": "ATABNB",
+        "price": "0.00036900"
+    },
+    {
+        "symbol": "ATABUSD",
+        "price": "0.07920000"
+    },
+    {
+        "symbol": "ATAUSDT",
+        "price": "0.07790000"
+    },
+    {
+        "symbol": "GTCBTC",
+        "price": "0.00003160"
+    },
+    {
+        "symbol": "GTCBNB",
+        "price": "0.01860000"
+    },
+    {
+        "symbol": "GTCBUSD",
+        "price": "0.86700000"
+    },
+    {
+        "symbol": "GTCUSDT",
+        "price": "0.86800000"
+    },
+    {
+        "symbol": "TORNBTC",
+        "price": "0.00023980"
+    },
+    {
+        "symbol": "TORNBNB",
+        "price": "0.09058000"
+    },
+    {
+        "symbol": "TORNBUSD",
+        "price": "2.73000000"
+    },
+    {
+        "symbol": "TORNUSDT",
+        "price": "4.06000000"
+    },
+    {
+        "symbol": "ERNBNB",
+        "price": "0.00669000"
+    },
+    {
+        "symbol": "ERNBUSD",
+        "price": "1.47100000"
+    },
+    {
+        "symbol": "ERNUSDT",
+        "price": "1.39700000"
+    },
+    {
+        "symbol": "KLAYBTC",
+        "price": "0.00000423"
+    },
+    {
+        "symbol": "KLAYBNB",
+        "price": "0.00061800"
+    },
+    {
+        "symbol": "KLAYBUSD",
+        "price": "0.13540000"
+    },
+    {
+        "symbol": "KLAYUSDT",
+        "price": "0.11580000"
+    },
+    {
+        "symbol": "BONDBTC",
+        "price": "0.00006490"
+    },
+    {
+        "symbol": "BONDBNB",
+        "price": "0.02969000"
+    },
+    {
+        "symbol": "BONDBUSD",
+        "price": "1.77800000"
+    },
+    {
+        "symbol": "BONDUSDT",
+        "price": "1.78200000"
+    },
+    {
+        "symbol": "MLNBTC",
+        "price": "0.00051100"
+    },
+    {
+        "symbol": "MLNBNB",
+        "price": "0.09880000"
+    },
+    {
+        "symbol": "MLNBUSD",
+        "price": "15.73000000"
+    },
+    {
+        "symbol": "MLNUSDT",
+        "price": "13.99000000"
+    },
+    {
+        "symbol": "QUICKBTC",
+        "price": "0.00000150"
+    },
+    {
+        "symbol": "QUICKBNB",
+        "price": "0.42200000"
+    },
+    {
+        "symbol": "QUICKBUSD",
+        "price": "74.10000000"
+    },
+    {
+        "symbol": "C98BNB",
+        "price": "0.00080500"
+    },
+    {
+        "symbol": "QUICKUSDT",
+        "price": "0.04093000"
+    },
+    {
+        "symbol": "SHIBDOGE",
+        "price": "0.00011730"
+    },
+    {
+        "symbol": "ICPETH",
+        "price": "0.00186200"
+    },
+    {
+        "symbol": "LINABNB",
+        "price": "0.00007811"
+    },
+    {
+        "symbol": "TLMBNB",
+        "price": "0.00010990"
+    },
+    {
+        "symbol": "BIFIUSDT",
+        "price": "363.80000000"
+    },
+    {
+        "symbol": "PUNDIXBUSD",
+        "price": "0.33360000"
+    },
+    {
+        "symbol": "BONDETH",
+        "price": "0.00266500"
+    },
+    {
+        "symbol": "AGIXBUSD",
+        "price": "0.16831000"
+    },
+    {
+        "symbol": "AGIXUSDT",
+        "price": "0.16838000"
+    },
+    {
+        "symbol": "CFXTUSD",
+        "price": "0.11660000"
+    },
+    {
+        "symbol": "QUICKTUSD",
+        "price": "0.04090000"
+    },
+    {
+        "symbol": "C98USDT",
+        "price": "0.13650000"
+    },
+    {
+        "symbol": "C98BUSD",
+        "price": "0.13600000"
+    },
+    {
+        "symbol": "C98BTC",
+        "price": "0.00000497"
+    },
+    {
+        "symbol": "CLVBTC",
+        "price": "0.00000109"
+    },
+    {
+        "symbol": "CLVBNB",
+        "price": "0.00026430"
+    },
+    {
+        "symbol": "CLVBUSD",
+        "price": "0.03282000"
+    },
+    {
+        "symbol": "CLVUSDT",
+        "price": "0.02978000"
+    },
+    {
+        "symbol": "QNTBTC",
+        "price": "0.00316200"
+    },
+    {
+        "symbol": "QNTBNB",
+        "price": "0.40150000"
+    },
+    {
+        "symbol": "QNTBUSD",
+        "price": "86.70000000"
+    },
+    {
+        "symbol": "QNTUSDT",
+        "price": "86.70000000"
+    },
+    {
+        "symbol": "FLOWBTC",
+        "price": "0.00001514"
+    },
+    {
+        "symbol": "FLOWBNB",
+        "price": "0.00202600"
+    },
+    {
+        "symbol": "FLOWBUSD",
+        "price": "0.41500000"
+    },
+    {
+        "symbol": "FLOWUSDT",
+        "price": "0.41500000"
+    },
+    {
+        "symbol": "XECBUSD",
+        "price": "0.00002337"
+    },
+    {
+        "symbol": "MINABTC",
+        "price": "0.00001321"
+    },
+    {
+        "symbol": "MINABNB",
+        "price": "0.00166600"
+    },
+    {
+        "symbol": "MINABUSD",
+        "price": "0.36300000"
+    },
+    {
+        "symbol": "MINAUSDT",
+        "price": "0.36400000"
+    },
+    {
+        "symbol": "RAYBNB",
+        "price": "0.00079000"
+    },
+    {
+        "symbol": "RAYBUSD",
+        "price": "0.17010000"
+    },
+    {
+        "symbol": "RAYUSDT",
+        "price": "0.16390000"
+    },
+    {
+        "symbol": "FARMBTC",
+        "price": "0.00082600"
+    },
+    {
+        "symbol": "FARMBNB",
+        "price": "0.15150000"
+    },
+    {
+        "symbol": "FARMBUSD",
+        "price": "21.12000000"
+    },
+    {
+        "symbol": "FARMUSDT",
+        "price": "22.54000000"
+    },
+    {
+        "symbol": "ALPACABTC",
+        "price": "0.00000569"
+    },
+    {
+        "symbol": "ALPACABNB",
+        "price": "0.00094400"
+    },
+    {
+        "symbol": "ALPACABUSD",
+        "price": "0.14390000"
+    },
+    {
+        "symbol": "ALPACAUSDT",
+        "price": "0.15650000"
+    },
+    {
+        "symbol": "MBOXBTC",
+        "price": "0.00000785"
+    },
+    {
+        "symbol": "MBOXBNB",
+        "price": "0.00105600"
+    },
+    {
+        "symbol": "MBOXBUSD",
+        "price": "0.21540000"
+    },
+    {
+        "symbol": "MBOXUSDT",
+        "price": "0.21530000"
+    },
+    {
+        "symbol": "VGXBTC",
+        "price": "0.00002524"
+    },
+    {
+        "symbol": "VGXETH",
+        "price": "0.00034800"
+    },
+    {
+        "symbol": "WAXPUSDT",
+        "price": "0.04360000"
+    },
+    {
+        "symbol": "WAXPBUSD",
+        "price": "0.04170000"
+    },
+    {
+        "symbol": "WAXPBNB",
+        "price": "0.00017060"
+    },
+    {
+        "symbol": "WAXPBTC",
+        "price": "0.00000159"
+    },
+    {
+        "symbol": "GNOUSDT",
+        "price": "93.20000000"
+    },
+    {
+        "symbol": "GNOBUSD",
+        "price": "304.10000000"
+    },
+    {
+        "symbol": "GNOBNB",
+        "price": "0.86500000"
+    },
+    {
+        "symbol": "GNOBTC",
+        "price": "0.00562400"
+    },
+    {
+        "symbol": "XECUSDT",
+        "price": "0.00002342"
+    },
+    {
+        "symbol": "DYDXUSDT",
+        "price": "2.04000000"
+    },
+    {
+        "symbol": "DYDXBUSD",
+        "price": "2.03500000"
+    },
+    {
+        "symbol": "DYDXBNB",
+        "price": "0.00997400"
+    },
+    {
+        "symbol": "DYDXBTC",
+        "price": "0.00007436"
+    },
+    {
+        "symbol": "USDPBUSD",
+        "price": "1.00000000"
+    },
+    {
+        "symbol": "USDPUSDT",
+        "price": "0.99960000"
+    },
+    {
+        "symbol": "GALAUSDT",
+        "price": "0.01336000"
+    },
+    {
+        "symbol": "GALABUSD",
+        "price": "0.01335000"
+    },
+    {
+        "symbol": "GALABNB",
+        "price": "0.00006485"
+    },
+    {
+        "symbol": "GALABTC",
+        "price": "0.00000049"
+    },
+    {
+        "symbol": "ILVUSDT",
+        "price": "38.25000000"
+    },
+    {
+        "symbol": "ILVBUSD",
+        "price": "38.26000000"
+    },
+    {
+        "symbol": "ILVBNB",
+        "price": "0.17900000"
+    },
+    {
+        "symbol": "ILVBTC",
+        "price": "0.00139700"
+    },
+    {
+        "symbol": "YGGUSDT",
+        "price": "0.23200000"
+    },
+    {
+        "symbol": "YGGBUSD",
+        "price": "0.23140000"
+    },
+    {
+        "symbol": "YGGBNB",
+        "price": "0.00068700"
+    },
+    {
+        "symbol": "YGGBTC",
+        "price": "0.00000845"
+    },
+    {
+        "symbol": "FIDAUSDT",
+        "price": "0.15310000"
+    },
+    {
+        "symbol": "FIDABUSD",
+        "price": "0.15290000"
+    },
+    {
+        "symbol": "FIDABNB",
+        "price": "0.00543000"
+    },
+    {
+        "symbol": "FIDABTC",
+        "price": "0.00000556"
+    },
+    {
+        "symbol": "AGLDBTC",
+        "price": "0.00002026"
+    },
+    {
+        "symbol": "AGLDBNB",
+        "price": "0.00190000"
+    },
+    {
+        "symbol": "AGLDBUSD",
+        "price": "0.55400000"
+    },
+    {
+        "symbol": "AGLDUSDT",
+        "price": "0.55600000"
+    },
+    {
+        "symbol": "RADBTC",
+        "price": "0.00004670"
+    },
+    {
+        "symbol": "RADBNB",
+        "price": "0.01032000"
+    },
+    {
+        "symbol": "RADBUSD",
+        "price": "1.32100000"
+    },
+    {
+        "symbol": "RADUSDT",
+        "price": "1.27500000"
+    },
+    {
+        "symbol": "BETABTC",
+        "price": "0.00000206"
+    },
+    {
+        "symbol": "BETABNB",
+        "price": "0.00033500"
+    },
+    {
+        "symbol": "BETABUSD",
+        "price": "0.05642000"
+    },
+    {
+        "symbol": "BETAUSDT",
+        "price": "0.05645000"
+    },
+    {
+        "symbol": "RAREBTC",
+        "price": "0.00000213"
+    },
+    {
+        "symbol": "RAREBNB",
+        "price": "0.00069100"
+    },
+    {
+        "symbol": "RAREBUSD",
+        "price": "0.05960000"
+    },
+    {
+        "symbol": "RAREUSDT",
+        "price": "0.05830000"
+    },
+    {
+        "symbol": "SSVBTC",
+        "price": "0.00053830"
+    },
+    {
+        "symbol": "SSVETH",
+        "price": "0.00939900"
+    },
+    {
+        "symbol": "LAZIOBTC",
+        "price": "0.00006116"
+    },
+    {
+        "symbol": "LAZIOUSDT",
+        "price": "1.67800000"
+    },
+    {
+        "symbol": "CHESSBTC",
+        "price": "0.00000422"
+    },
+    {
+        "symbol": "CHESSBNB",
+        "price": "0.00188500"
+    },
+    {
+        "symbol": "CHESSBUSD",
+        "price": "0.11550000"
+    },
+    {
+        "symbol": "LAZIOBUSD",
+        "price": "1.67800000"
+    },
+    {
+        "symbol": "VGXUSDT",
+        "price": "0.10740000"
+    },
+    {
+        "symbol": "GALAETH",
+        "price": "0.00000846"
+    },
+    {
+        "symbol": "DYDXETH",
+        "price": "0.00159100"
+    },
+    {
+        "symbol": "FARMETH",
+        "price": "0.03152000"
+    },
+    {
+        "symbol": "BETAETH",
+        "price": "0.00003588"
+    },
+    {
+        "symbol": "SSVBUSD",
+        "price": "15.74000000"
+    },
+    {
+        "symbol": "SSVUSDT",
+        "price": "14.78000000"
+    },
+    {
+        "symbol": "SSVTUSD",
+        "price": "14.80000000"
+    },
+    {
+        "symbol": "CHESSUSDT",
+        "price": "0.11530000"
+    },
+    {
+        "symbol": "DARUSDT",
+        "price": "0.08086000"
+    },
+    {
+        "symbol": "DARBUSD",
+        "price": "0.08070000"
+    },
+    {
+        "symbol": "DARBNB",
+        "price": "0.00039271"
+    },
+    {
+        "symbol": "DARBTC",
+        "price": "0.00000294"
+    },
+    {
+        "symbol": "BNXBTC",
+        "price": "0.00000857"
+    },
+    {
+        "symbol": "BNXBNB",
+        "price": "0.00116000"
+    },
+    {
+        "symbol": "BNXBUSD",
+        "price": "0.23530000"
+    },
+    {
+        "symbol": "BNXUSDT",
+        "price": "0.23500000"
+    },
+    {
+        "symbol": "MOVRBTC",
+        "price": "0.00013840"
+    },
+    {
+        "symbol": "MOVRBNB",
+        "price": "0.15520000"
+    },
+    {
+        "symbol": "MOVRBUSD",
+        "price": "3.80000000"
+    },
+    {
+        "symbol": "MOVRUSDT",
+        "price": "3.79000000"
+    },
+    {
+        "symbol": "CITYBTC",
+        "price": "0.00009780"
+    },
+    {
+        "symbol": "CITYBNB",
+        "price": "0.01454000"
+    },
+    {
+        "symbol": "CITYBUSD",
+        "price": "2.96400000"
+    },
+    {
+        "symbol": "CITYUSDT",
+        "price": "2.67800000"
+    },
+    {
+        "symbol": "ENSBTC",
+        "price": "0.00025800"
+    },
+    {
+        "symbol": "ENSBNB",
+        "price": "0.03456000"
+    },
+    {
+        "symbol": "ENSBUSD",
+        "price": "7.07000000"
+    },
+    {
+        "symbol": "ENSUSDT",
+        "price": "7.09000000"
+    },
+    {
+        "symbol": "QIUSDT",
+        "price": "0.00502000"
+    },
+    {
+        "symbol": "QIBUSD",
+        "price": "0.00501000"
+    },
+    {
+        "symbol": "QIBNB",
+        "price": "0.00009910"
+    },
+    {
+        "symbol": "QIBTC",
+        "price": "0.00000019"
+    },
+    {
+        "symbol": "PORTOBTC",
+        "price": "0.00005878"
+    },
+    {
+        "symbol": "PORTOUSDT",
+        "price": "1.61900000"
+    },
+    {
+        "symbol": "JASMYUSDT",
+        "price": "0.00316200"
+    },
+    {
+        "symbol": "JASMYBUSD",
+        "price": "0.00316200"
+    },
+    {
+        "symbol": "JASMYBNB",
+        "price": "0.00001767"
+    },
+    {
+        "symbol": "JASMYBTC",
+        "price": "0.00000017"
+    },
+    {
+        "symbol": "AMPBTC",
+        "price": "0.00000010"
+    },
+    {
+        "symbol": "AMPBNB",
+        "price": "0.00003999"
+    },
+    {
+        "symbol": "AMPBUSD",
+        "price": "0.00150100"
+    },
+    {
+        "symbol": "AMPUSDT",
+        "price": "0.00149900"
+    },
+    {
+        "symbol": "PLABTC",
+        "price": "0.00000549"
+    },
+    {
+        "symbol": "PLABNB",
+        "price": "0.00069680"
+    },
+    {
+        "symbol": "PLABUSD",
+        "price": "0.14770000"
+    },
+    {
+        "symbol": "PLAUSDT",
+        "price": "0.15040000"
+    },
+    {
+        "symbol": "PYRBTC",
+        "price": "0.00010380"
+    },
+    {
+        "symbol": "PYRBUSD",
+        "price": "2.83500000"
+    },
+    {
+        "symbol": "PYRUSDT",
+        "price": "2.83200000"
+    },
+    {
+        "symbol": "RNDRBTC",
+        "price": "0.00006410"
+    },
+    {
+        "symbol": "RNDRUSDT",
+        "price": "1.75800000"
+    },
+    {
+        "symbol": "RNDRBUSD",
+        "price": "1.74900000"
+    },
+    {
+        "symbol": "ALCXBTC",
+        "price": "0.00041570"
+    },
+    {
+        "symbol": "ALCXBUSD",
+        "price": "10.73000000"
+    },
+    {
+        "symbol": "ALCXUSDT",
+        "price": "11.43000000"
+    },
+    {
+        "symbol": "SANTOSBTC",
+        "price": "0.00009608"
+    },
+    {
+        "symbol": "SANTOSUSDT",
+        "price": "2.63800000"
+    },
+    {
+        "symbol": "MCBTC",
+        "price": "0.00001114"
+    },
+    {
+        "symbol": "MCBUSD",
+        "price": "0.26570000"
+    },
+    {
+        "symbol": "MCUSDT",
+        "price": "0.30500000"
+    },
+    {
+        "symbol": "BICOBTC",
+        "price": "0.00000765"
+    },
+    {
+        "symbol": "BICOBUSD",
+        "price": "0.25140000"
+    },
+    {
+        "symbol": "BICOUSDT",
+        "price": "0.20960000"
+    },
+    {
+        "symbol": "FLUXBTC",
+        "price": "0.00001209"
+    },
+    {
+        "symbol": "FLUXBUSD",
+        "price": "0.33050000"
+    },
+    {
+        "symbol": "FLUXUSDT",
+        "price": "0.33270000"
+    },
+    {
+        "symbol": "VOXELBTC",
+        "price": "0.00000473"
+    },
+    {
+        "symbol": "VOXELBNB",
+        "price": "0.00069340"
+    },
+    {
+        "symbol": "VOXELBUSD",
+        "price": "0.13020000"
+    },
+    {
+        "symbol": "VOXELUSDT",
+        "price": "0.13000000"
+    },
+    {
+        "symbol": "HIGHBTC",
+        "price": "0.00004098"
+    },
+    {
+        "symbol": "HIGHBUSD",
+        "price": "1.12100000"
+    },
+    {
+        "symbol": "HIGHUSDT",
+        "price": "1.12500000"
+    },
+    {
+        "symbol": "CVXBTC",
+        "price": "0.00009890"
+    },
+    {
+        "symbol": "CVXBUSD",
+        "price": "2.59700000"
+    },
+    {
+        "symbol": "CVXUSDT",
+        "price": "2.70400000"
+    },
+    {
+        "symbol": "PEOPLEBTC",
+        "price": "0.00000032"
+    },
+    {
+        "symbol": "PEOPLEBUSD",
+        "price": "0.00950000"
+    },
+    {
+        "symbol": "PEOPLEUSDT",
+        "price": "0.00897000"
+    },
+    {
+        "symbol": "OOKIBUSD",
+        "price": "0.00162900"
+    },
+    {
+        "symbol": "OOKIUSDT",
+        "price": "0.00154900"
+    },
+    {
+        "symbol": "SPELLBTC",
+        "price": "0.00000012"
+    },
+    {
+        "symbol": "SPELLUSDT",
+        "price": "0.00046140"
+    },
+    {
+        "symbol": "SPELLBUSD",
+        "price": "0.00039730"
+    },
+    {
+        "symbol": "JOEBTC",
+        "price": "0.00000866"
+    },
+    {
+        "symbol": "JOEBUSD",
+        "price": "0.23620000"
+    },
+    {
+        "symbol": "JOEUSDT",
+        "price": "0.23670000"
+    },
+    {
+        "symbol": "VOXELETH",
+        "price": "0.00020220"
+    },
+    {
+        "symbol": "OOKIBNB",
+        "price": "0.00001491"
+    },
+    {
+        "symbol": "ACHBTC",
+        "price": "0.00000048"
+    },
+    {
+        "symbol": "ACHBUSD",
+        "price": "0.01341000"
+    },
+    {
+        "symbol": "ACHUSDT",
+        "price": "0.01342000"
+    },
+    {
+        "symbol": "IMXBTC",
+        "price": "0.00001942"
+    },
+    {
+        "symbol": "IMXBUSD",
+        "price": "0.53250000"
+    },
+    {
+        "symbol": "IMXUSDT",
+        "price": "0.53250000"
+    },
+    {
+        "symbol": "JASMYETH",
+        "price": "0.00000302"
+    },
+    {
+        "symbol": "OOKIETH",
+        "price": "0.00000251"
+    },
+    {
+        "symbol": "HIGHBNB",
+        "price": "0.00552600"
+    },
+    {
+        "symbol": "MCBNB",
+        "price": "0.00069800"
+    },
+    {
+        "symbol": "PEOPLEBNB",
+        "price": "0.00004675"
+    },
+    {
+        "symbol": "SPELLBNB",
+        "price": "0.00000404"
+    },
+    {
+        "symbol": "GLMRBNB",
+        "price": "0.00102100"
+    },
+    {
+        "symbol": "SANTOSBUSD",
+        "price": "2.63800000"
+    },
+    {
+        "symbol": "IMXBNB",
+        "price": "0.00236200"
+    },
+    {
+        "symbol": "PORTOBUSD",
+        "price": "1.75700000"
+    },
+    {
+        "symbol": "DARETH",
+        "price": "0.00010140"
+    },
+    {
+        "symbol": "PEOPLEETH",
+        "price": "0.00000668"
+    },
+    {
+        "symbol": "GLMRBTC",
+        "price": "0.00000688"
+    },
+    {
+        "symbol": "GLMRBUSD",
+        "price": "0.18900000"
+    },
+    {
+        "symbol": "GLMRUSDT",
+        "price": "0.18940000"
+    },
+    {
+        "symbol": "LOKABTC",
+        "price": "0.00000645"
+    },
+    {
+        "symbol": "LOKABNB",
+        "price": "0.00086020"
+    },
+    {
+        "symbol": "LOKABUSD",
+        "price": "0.18490000"
+    },
+    {
+        "symbol": "LOKAUSDT",
+        "price": "0.17610000"
+    },
+    {
+        "symbol": "API3BTC",
+        "price": "0.00003761"
+    },
+    {
+        "symbol": "API3BUSD",
+        "price": "1.00000000"
+    },
+    {
+        "symbol": "API3USDT",
+        "price": "1.03200000"
+    },
+    {
+        "symbol": "ACABTC",
+        "price": "0.00000165"
+    },
+    {
+        "symbol": "ACABUSD",
+        "price": "0.04640000"
+    },
+    {
+        "symbol": "ACAUSDT",
+        "price": "0.04540000"
+    },
+    {
+        "symbol": "BDOTDOT",
+        "price": "0.98800000"
+    },
+    {
+        "symbol": "XNOBTC",
+        "price": "0.00002287"
+    },
+    {
+        "symbol": "XNOETH",
+        "price": "0.00050170"
+    },
+    {
+        "symbol": "XNOBUSD",
+        "price": "0.66300000"
+    },
+    {
+        "symbol": "XNOUSDT",
+        "price": "0.62800000"
+    },
+    {
+        "symbol": "WOOBTC",
+        "price": "0.00000626"
+    },
+    {
+        "symbol": "WOOBNB",
+        "price": "0.00084000"
+    },
+    {
+        "symbol": "WOOBUSD",
+        "price": "0.16450000"
+    },
+    {
+        "symbol": "WOOUSDT",
+        "price": "0.17210000"
+    },
+    {
+        "symbol": "ALPINEUSDT",
+        "price": "1.62500000"
+    },
+    {
+        "symbol": "ALPINEBTC",
+        "price": "0.00005939"
+    },
+    {
+        "symbol": "TUSDT",
+        "price": "0.01823000"
+    },
+    {
+        "symbol": "TBUSD",
+        "price": "0.01825000"
+    },
+    {
+        "symbol": "API3BNB",
+        "price": "0.00533000"
+    },
+    {
+        "symbol": "ASTRBUSD",
+        "price": "0.05000000"
+    },
+    {
+        "symbol": "ASTRUSDT",
+        "price": "0.04320000"
+    },
+    {
+        "symbol": "GMTBTC",
+        "price": "0.00000522"
+    },
+    {
+        "symbol": "GMTBNB",
+        "price": "0.00069900"
+    },
+    {
+        "symbol": "GMTBUSD",
+        "price": "0.14340000"
+    },
+    {
+        "symbol": "GMTUSDT",
+        "price": "0.14340000"
+    },
+    {
+        "symbol": "KDABTC",
+        "price": "0.00001550"
+    },
+    {
+        "symbol": "KDABUSD",
+        "price": "0.42500000"
+    },
+    {
+        "symbol": "KDAUSDT",
+        "price": "0.42500000"
+    },
+    {
+        "symbol": "APEUSDT",
+        "price": "1.02000000"
+    },
+    {
+        "symbol": "APEBUSD",
+        "price": "1.01800000"
+    },
+    {
+        "symbol": "APEBTC",
+        "price": "0.00003708"
+    },
+    {
+        "symbol": "ALPINEBUSD",
+        "price": "1.74900000"
+    },
+    {
+        "symbol": "BSWUSDT",
+        "price": "0.06010000"
+    },
+    {
+        "symbol": "BSWBUSD",
+        "price": "0.06700000"
+    },
+    {
+        "symbol": "BSWBNB",
+        "price": "0.00029300"
+    },
+    {
+        "symbol": "APEBNB",
+        "price": "0.00497000"
+    },
+    {
+        "symbol": "GMTETH",
+        "price": "0.00009120"
+    },
+    {
+        "symbol": "MULTIBTC",
+        "price": "0.00008257"
+    },
+    {
+        "symbol": "MULTIBUSD",
+        "price": "2.26200000"
+    },
+    {
+        "symbol": "MULTIUSDT",
+        "price": "2.26400000"
+    },
+    {
+        "symbol": "APEETH",
+        "price": "0.00064800"
+    },
+    {
+        "symbol": "BSWETH",
+        "price": "0.00013660"
+    },
+    {
+        "symbol": "ASTRBTC",
+        "price": "0.00000158"
+    },
+    {
+        "symbol": "ASTRETH",
+        "price": "0.00003108"
+    },
+    {
+        "symbol": "MOBUSDT",
+        "price": "0.47000000"
+    },
+    {
+        "symbol": "MOBBUSD",
+        "price": "0.55000000"
+    },
+    {
+        "symbol": "MOBBTC",
+        "price": "0.00001715"
+    },
+    {
+        "symbol": "NEXOUSDT",
+        "price": "0.53800000"
+    },
+    {
+        "symbol": "NEXOBUSD",
+        "price": "0.62700000"
+    },
+    {
+        "symbol": "NEXOBTC",
+        "price": "0.00001958"
+    },
+    {
+        "symbol": "REIUSDT",
+        "price": "0.02655000"
+    },
+    {
+        "symbol": "REIBNB",
+        "price": "0.00008210"
+    },
+    {
+        "symbol": "REIETH",
+        "price": "0.00001928"
+    },
+    {
+        "symbol": "GALUSDT",
+        "price": "1.14700000"
+    },
+    {
+        "symbol": "GALBUSD",
+        "price": "1.35100000"
+    },
+    {
+        "symbol": "GALBNB",
+        "price": "0.00489300"
+    },
+    {
+        "symbol": "GALBTC",
+        "price": "0.00004174"
+    },
+    {
+        "symbol": "LDOBUSD",
+        "price": "1.50000000"
+    },
+    {
+        "symbol": "LDOUSDT",
+        "price": "1.50000000"
+    },
+    {
+        "symbol": "LDOBTC",
+        "price": "0.00005463"
+    },
+    {
+        "symbol": "GALETH",
+        "price": "0.00076200"
+    },
+    {
+        "symbol": "EPXUSDT",
+        "price": "0.00017210"
+    },
+    {
+        "symbol": "EPXBUSD",
+        "price": "0.00016980"
+    },
+    {
+        "symbol": "REIBUSD",
+        "price": "0.03079000"
+    },
+    {
+        "symbol": "LUNCBUSD",
+        "price": "0.00005576"
+    },
+    {
+        "symbol": "USTCBUSD",
+        "price": "0.01111420"
+    },
+    {
+        "symbol": "OPBTC",
+        "price": "0.00004451"
+    },
+    {
+        "symbol": "OPBUSD",
+        "price": "1.22100000"
+    },
+    {
+        "symbol": "OPUSDT",
+        "price": "1.22100000"
+    },
+    {
+        "symbol": "OPBNB",
+        "price": "0.00595000"
+    },
+    {
+        "symbol": "LEVERUSDT",
+        "price": "0.00133800"
+    },
+    {
+        "symbol": "LEVERBUSD",
+        "price": "0.00133300"
+    },
+    {
+        "symbol": "OPETH",
+        "price": "0.00077700"
+    },
+    {
+        "symbol": "STGBTC",
+        "price": "0.00001533"
+    },
+    {
+        "symbol": "STGBUSD",
+        "price": "0.42120000"
+    },
+    {
+        "symbol": "STGUSDT",
+        "price": "0.42100000"
+    },
+    {
+        "symbol": "LUNCUSDT",
+        "price": "0.00005573"
+    },
+    {
+        "symbol": "GMXBTC",
+        "price": "0.00130000"
+    },
+    {
+        "symbol": "GMXBUSD",
+        "price": "31.67000000"
+    },
+    {
+        "symbol": "GMXUSDT",
+        "price": "35.62000000"
+    },
+    {
+        "symbol": "POLYXBTC",
+        "price": "0.00000446"
+    },
+    {
+        "symbol": "POLYXBUSD",
+        "price": "0.12170000"
+    },
+    {
+        "symbol": "POLYXUSDT",
+        "price": "0.12240000"
+    },
+    {
+        "symbol": "APTBTC",
+        "price": "0.00017982"
+    },
+    {
+        "symbol": "APTUSDT",
+        "price": "4.93430000"
+    },
+    {
+        "symbol": "APTBUSD",
+        "price": "4.91610000"
+    },
+    {
+        "symbol": "OSMOBTC",
+        "price": "0.00000975"
+    },
+    {
+        "symbol": "OSMOBUSD",
+        "price": "0.46400000"
+    },
+    {
+        "symbol": "APTETH",
+        "price": "0.00313700"
+    },
+    {
+        "symbol": "USTCUSDT",
+        "price": "0.01111390"
+    },
+    {
+        "symbol": "LDOTUSD",
+        "price": "1.50000000"
+    },
+    {
+        "symbol": "OPTUSD",
+        "price": "1.22200000"
+    },
+    {
+        "symbol": "OSMOUSDT",
+        "price": "0.26800000"
+    },
+    {
+        "symbol": "HFTBTC",
+        "price": "0.00001121"
+    },
+    {
+        "symbol": "HFTBUSD",
+        "price": "0.30700000"
+    },
+    {
+        "symbol": "HFTUSDT",
+        "price": "0.30740000"
+    },
+    {
+        "symbol": "HOOKBTC",
+        "price": "0.00002699"
+    },
+    {
+        "symbol": "HOOKUSDT",
+        "price": "0.74090000"
+    },
+    {
+        "symbol": "HOOKBUSD",
+        "price": "0.74050000"
+    },
+    {
+        "symbol": "HOOKBNB",
+        "price": "0.00359660"
+    },
+    {
+        "symbol": "MAGICBTC",
+        "price": "0.00001872"
+    },
+    {
+        "symbol": "MAGICBUSD",
+        "price": "0.51280000"
+    },
+    {
+        "symbol": "MAGICUSDT",
+        "price": "0.51380000"
+    },
+    {
+        "symbol": "HIFIETH",
+        "price": "0.00039110"
+    },
+    {
+        "symbol": "HIFIUSDT",
+        "price": "0.61190000"
+    },
+    {
+        "symbol": "RPLBTC",
+        "price": "0.00070400"
+    },
+    {
+        "symbol": "RPLBUSD",
+        "price": "19.33000000"
+    },
+    {
+        "symbol": "RPLUSDT",
+        "price": "19.39000000"
+    },
+    {
+        "symbol": "GFTBUSD",
+        "price": "0.02911000"
+    },
+    {
+        "symbol": "GNSUSDT",
+        "price": "3.13100000"
+    },
+    {
+        "symbol": "GNSBTC",
+        "price": "0.00011370"
+    },
+    {
+        "symbol": "SYNBTC",
+        "price": "0.00000977"
+    },
+    {
+        "symbol": "SYNUSDT",
+        "price": "0.26900000"
+    },
+    {
+        "symbol": "LQTYUSDT",
+        "price": "1.37900000"
+    },
+    {
+        "symbol": "LQTYBTC",
+        "price": "0.00005023"
+    },
+    {
+        "symbol": "IDBTC",
+        "price": "0.00000653"
+    },
+    {
+        "symbol": "IDBNB",
+        "price": "0.00087060"
+    },
+    {
+        "symbol": "IDUSDT",
+        "price": "0.17906000"
+    },
+    {
+        "symbol": "ARBBTC",
+        "price": "0.00002935"
+    },
+    {
+        "symbol": "ARBUSDT",
+        "price": "0.80530000"
+    },
+    {
+        "symbol": "ARBTUSD",
+        "price": "0.80600000"
+    },
+    {
+        "symbol": "IDTUSD",
+        "price": "0.17852000"
+    },
+    {
+        "symbol": "RDNTBTC",
+        "price": "0.00000803"
+    },
+    {
+        "symbol": "RDNTUSDT",
+        "price": "0.22080000"
+    },
+    {
+        "symbol": "RDNTTUSD",
+        "price": "0.22060000"
+    },
+    {
+        "symbol": "EDUUSDT",
+        "price": "0.40860000"
+    },
+    {
+        "symbol": "EDUTUSD",
+        "price": "0.40682000"
+    },
+    {
+        "symbol": "EDUBNB",
+        "price": "0.00198720"
+    },
+    {
+        "symbol": "EDUBTC",
+        "price": "0.00001487"
+    },
+    {
+        "symbol": "SUIUSDT",
+        "price": "0.41000000"
+    },
+    {
+        "symbol": "SUITUSD",
+        "price": "0.40840000"
+    },
+    {
+        "symbol": "SUIBTC",
+        "price": "0.00001495"
+    },
+    {
+        "symbol": "SUIBNB",
+        "price": "0.00200400"
+    },
+    {
+        "symbol": "PEPEUSDT",
+        "price": "0.00000066"
+    },
+    {
+        "symbol": "PEPETUSD",
+        "price": "0.00000066"
+    },
+    {
+        "symbol": "FLOKIUSDT",
+        "price": "0.00001695"
+    },
+    {
+        "symbol": "FLOKITUSD",
+        "price": "0.00001687"
+    },
+    {
+        "symbol": "WBETHETH",
+        "price": "1.01810000"
+    },
+    {
+        "symbol": "COMBOUSDT",
+        "price": "0.54700000"
+    },
+    {
+        "symbol": "COMBOBNB",
+        "price": "0.00266600"
+    },
+    {
+        "symbol": "MAVBTC",
+        "price": "0.00000808"
+    },
+    {
+        "symbol": "MAVUSDT",
+        "price": "0.22160000"
+    },
+    {
+        "symbol": "MAVTUSD",
+        "price": "0.22190000"
+    },
+    {
+        "symbol": "PENDLEBTC",
+        "price": "0.00002356"
+    },
+    {
+        "symbol": "PENDLEUSDT",
+        "price": "0.64820000"
+    },
+    {
+        "symbol": "PENDLETUSD",
+        "price": "0.64790000"
+    },
+    {
+        "symbol": "ARBETH",
+        "price": "0.00051120"
+    },
+    {
+        "symbol": "ARKMUSDT",
+        "price": "0.34610000"
+    },
+    {
+        "symbol": "ARKMTUSD",
+        "price": "0.34560000"
+    },
+    {
+        "symbol": "ARKMBNB",
+        "price": "0.00169100"
+    },
+    {
+        "symbol": "ARKMBTC",
+        "price": "0.00001261"
+    },
+    {
+        "symbol": "WBETHUSDT",
+        "price": "1598.25000000"
+    },
+    {
+        "symbol": "WLDUSDT",
+        "price": "1.52300000"
+    },
+    {
+        "symbol": "WLDBTC",
+        "price": "0.00005551"
+    },
+    {
+        "symbol": "FDUSDBUSD",
+        "price": "0.99930000"
+    },
+    {
+        "symbol": "FDUSDUSDT",
+        "price": "0.99910000"
+    },
+    {
+        "symbol": "SEIBNB",
+        "price": "0.00052630"
+    },
+    {
+        "symbol": "SEIBTC",
+        "price": "0.00000393"
+    },
+    {
+        "symbol": "SEIFDUSD",
+        "price": "0.10770000"
+    },
+    {
+        "symbol": "SEIUSDT",
+        "price": "0.10780000"
+    },
+    {
+        "symbol": "CYBERBNB",
+        "price": "0.02251100"
+    },
+    {
+        "symbol": "CYBERBTC",
+        "price": "0.00016877"
+    },
+    {
+        "symbol": "CYBERFDUSD",
+        "price": "4.61800000"
+    },
+    {
+        "symbol": "CYBERUSDT",
+        "price": "4.63500000"
+    },
+    {
+        "symbol": "CYBERTUSD",
+        "price": "4.62000000"
+    },
+    {
+        "symbol": "SEITUSD",
+        "price": "0.10750000"
+    }
+]

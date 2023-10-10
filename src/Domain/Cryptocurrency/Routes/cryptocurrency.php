@@ -14,4 +14,12 @@ Route::group(['middleware' => ['auth:sanctum']], static function (): void {
     Route::get('/{cryptocurrency}/quote', [CryptocurrencyController::class, 'quote'])
         ->whereNumber('cryptocurrency')
         ->name('quote');
+
+    Route::get('/{cryptocurrency}/trade', [CryptocurrencyController::class, 'trade'])
+        ->whereNumber('cryptocurrency')
+        ->name('trade');
+
+    Route::get('/{pair}/price', [CryptocurrencyController::class, 'symbolPrice'])
+        ->where('pair', '[A-Z]+')
+        ->name('symbol_price');
 });

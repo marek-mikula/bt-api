@@ -23,7 +23,6 @@ use Illuminate\Support\Collection;
  * @property Carbon $updated_at
  * @property-read Collection<Asset> $assets
  * @property-read Collection<Currency> $quoteCurrencies
- * @property-read Collection<Currency> $baseCurrencies
  *
  * @method static CurrencyQuery query()
  */
@@ -75,21 +74,6 @@ class Currency extends Model
             table: 'currency_pairs',
             foreignPivotKey: 'base_currency_id',
             relatedPivotKey: 'quote_currency_id',
-            parentKey: 'id',
-            relatedKey: 'id',
-        )->withPivot('symbol');
-    }
-
-    /**
-     * @see Currency::$baseCurrencies
-     */
-    public function baseCurrencies(): BelongsToMany
-    {
-        return $this->belongsToMany(
-            related: Currency::class,
-            table: 'currency_pairs',
-            foreignPivotKey: 'quote_currency_id',
-            relatedPivotKey: 'base_currency_id',
             parentKey: 'id',
             relatedKey: 'id',
         )->withPivot('symbol');
