@@ -1,0 +1,26 @@
+{
+    "symbol": "REPLACE",
+    "orderId": 385618,
+    "orderListId": -1,
+    "clientOrderId": "REPLACE",
+    "transactTime": 0,
+    "price": "0.00000000",
+    "origQty": "REPLACE",
+    "executedQty": "REPLACE",
+    "cummulativeQuoteQty": "27.11730000",
+    "status": "FILLED",
+    "timeInForce": "GTC",
+    "type": "MARKET",
+    "side": "REPLACE",
+    "workingTime": 0,
+    "fills": [
+        {
+            "price": "27117.30000000",
+            "qty": "REPLACE",
+            "commission": "0.00000000",
+            "commissionAsset": "BTC",
+            "tradeId": 24177
+        }
+    ],
+    "selfTradePreventionMode": "NONE"
+}

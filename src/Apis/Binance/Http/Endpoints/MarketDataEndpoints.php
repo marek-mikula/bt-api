@@ -27,7 +27,7 @@ class MarketDataEndpoints
      */
     public function exchangeInfo(): BinanceResponse
     {
-        return $this->limiter->limit(2, BinanceEndpointEnum::MD_EXCHANGE_INFO, [$this->marketDataClient, 'exchangeInfo'], null);
+        return $this->limiter->limit(2, BinanceEndpointEnum::MARKET_DATA_EXCHANGE_INFO, [$this->marketDataClient, 'exchangeInfo'], null);
     }
 
     /**
@@ -45,6 +45,6 @@ class MarketDataEndpoints
 
         $weight = $symbols->count() === 1 ? 2 : 4;
 
-        return $this->limiter->limit($weight, BinanceEndpointEnum::MD_SYMBOL_PRICE, [$this->marketDataClient, 'symbolPrice'], null, $symbols);
+        return $this->limiter->limit($weight, BinanceEndpointEnum::MARKET_DATA_SYMBOL_PRICE, [$this->marketDataClient, 'symbolPrice'], null, $symbols);
     }
 }
