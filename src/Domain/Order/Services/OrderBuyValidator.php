@@ -181,11 +181,11 @@ class OrderBuyValidator
             ]);
         }
 
-        $availableFunds = $this->orderRepository->sumWaitingOrderQuotes($user, $pair) + $asset->balance;
+        $funds = $this->orderRepository->sumWaitingOrderQuotes($user, $pair) + $asset->balance;
 
-        if ($availableFunds < $notionalValue) {
+        if ($funds < $notionalValue) {
             throw new OrderValidationException(OrderErrorEnum::NO_FUNDS, [
-                'funds' => $availableFunds,
+                'funds' => round($funds, 2),
             ]);
         }
     }
