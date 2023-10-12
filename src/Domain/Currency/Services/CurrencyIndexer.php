@@ -9,6 +9,7 @@ use App\Models\Currency;
 use App\Models\CurrencyPair;
 use Domain\Currency\Data\BinanceCurrencyData;
 use Domain\Currency\Data\BinancePairData;
+use Domain\Currency\Enums\MarketCapCategoryEnum;
 use Illuminate\Support\Arr;
 use Illuminate\Support\Collection;
 use Illuminate\Support\Str;
@@ -164,16 +165,23 @@ class CurrencyIndexer
 
         $symbols = $cryptos->pluck('symbol');
 
-        // Retrieve mappings of given symbols
+        // Retrieve mappings of given symbols,
+        // filter untracked coins
 
         /** @var Collection<array> $mappings */
         $mappings = $this->coinmarketcapApi->map(symbols: $symbols)
             ->collect('data')
+            ->filter(static fn (array $mapping): bool => $mapping['status'] === 'active')
             ->keyBy('id');
 
         // Retrieve IDs of given symbols
 
         $ids = $mappings->pluck('id')->all();
+
+        // Retrieve quotes for each given ID
+
+        $quotes = $this->coinmarketcapApi->quotes(id: $ids)
+            ->collect('data');
 
         // Retrieve metadata for each given ID
 
@@ -213,6 +221,11 @@ class CurrencyIndexer
             /** @var array $mapping */
             $mapping = $mappings->get((int) $meta['id']);
 
+            /** @var array $quote */
+            $quote = $quotes->get((int) $meta['id']);
+
+            $quoteCurrency = (string) collect($quote['quote'])->keys()->first();
+
             /** @var Currency $model */
             $model = Currency::query()->updateOrCreate([
                 'symbol' => Str::upper($crypto->symbol),
@@ -221,6 +234,7 @@ class CurrencyIndexer
                 'is_fiat' => 0,
                 'cmc_id' => (int) $meta['id'],
                 'cmc_rank' => empty($mapping['rank']) ? 99_999 : (int) $mapping['rank'],
+                'market_cap_category' => MarketCapCategoryEnum::createFromValue($quote['quote'][$quoteCurrency]['market_cap'] ?? 0.0),
                 'meta' => Arr::except($meta, [
                     'id',
                     'name',

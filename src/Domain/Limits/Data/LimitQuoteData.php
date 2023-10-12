@@ -3,7 +3,7 @@
 namespace Domain\Limits\Data;
 
 use App\Data\BaseData;
-use Domain\Limits\Enums\MarketCapCategoryEnum;
+use Domain\Currency\Enums\MarketCapCategoryEnum;
 
 class LimitQuoteData extends BaseData
 {

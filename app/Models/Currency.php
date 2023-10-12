@@ -4,6 +4,7 @@ namespace App\Models;
 
 use App\Models\Query\CurrencyQuery;
 use Carbon\Carbon;
+use Domain\Currency\Enums\MarketCapCategoryEnum;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\BelongsToMany;
@@ -18,6 +19,7 @@ use Illuminate\Support\Collection;
  * @property bool $is_fiat
  * @property int $cmc_id
  * @property int|null $cmc_rank
+ * @property MarketCapCategoryEnum|null $market_cap_category
  * @property array $meta
  * @property Carbon $created_at
  * @property Carbon $updated_at
@@ -40,6 +42,7 @@ class Currency extends Model
         'is_fiat',
         'cmc_id',
         'cmc_rank',
+        'market_cap_category',
         'meta',
     ];
 
@@ -53,6 +56,7 @@ class Currency extends Model
         'is_fiat' => 'boolean',
         'cmc_id' => 'integer',
         'cmc_rank' => 'integer',
+        'market_cap_category' => MarketCapCategoryEnum::class,
         'meta' => 'array',
     ];
 

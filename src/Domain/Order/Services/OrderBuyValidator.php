@@ -11,7 +11,7 @@ use App\Models\Limits;
 use App\Models\User;
 use App\Repositories\Limits\LimitsRepositoryInterface;
 use App\Repositories\Order\OrderRepositoryInterface;
-use Domain\Limits\Enums\MarketCapCategoryEnum;
+use Domain\Currency\Enums\MarketCapCategoryEnum;
 use Domain\Order\Enums\OrderErrorEnum;
 use Domain\Order\Exceptions\OrderValidationException;
 use Exception;

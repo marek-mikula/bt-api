@@ -15,6 +15,7 @@ return new class extends Migration
             $table->boolean('is_fiat')->default(false);
             $table->unsignedBigInteger('cmc_id');
             $table->unsignedBigInteger('cmc_rank')->nullable();
+            $table->string('market_cap_category')->nullable();
             $table->json('meta');
             $table->timestamps();
         });
