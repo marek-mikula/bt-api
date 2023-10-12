@@ -5,6 +5,7 @@ namespace Domain\Cryptocurrency\Services;
 use Apis\Binance\Http\BinanceApi;
 use Apis\Coinmarketcap\Http\CoinmarketcapApi;
 use Apis\Cryptopanic\Http\CryptopanicApi;
+use App\Models\Asset;
 use App\Models\Currency;
 use App\Models\CurrencyPair;
 use App\Models\User;
@@ -31,13 +32,14 @@ class CryptocurrencyService
     ) {
     }
 
-    public function getDataForIndex(int $page, int $perPage = 50): LengthAwarePaginator
+    public function getDataForIndex(User $user, int $page, int $perPage = 50): LengthAwarePaginator
     {
         if ($page < 1) {
             $page = 1;
         }
 
         $cryptocurrencies = $this->currencyRepository->cryptocurrenciesIndex(
+            user: $user,
             page: $page,
             perPage: $perPage
         );
@@ -56,6 +58,11 @@ class CryptocurrencyService
                 }
 
                 $quoteCurrency = (string) collect($quote['quote'])->keys()->first();
+
+                // get user's asset if any
+
+                /** @var Asset|null $userAsset */
+                $userAsset = $currency->assets->first();
 
                 return CryptocurrencyListData::from([
                     'currency' => $currency,
@@ -76,6 +83,7 @@ class CryptocurrencyService
                         'volume24h' => floatval($quote['quote'][$quoteCurrency]['volume_24h']),
                         'volumeChange24h' => floatval($quote['quote'][$quoteCurrency]['volume_change_24h']) / 100,
                     ],
+                    'userAsset' => $userAsset,
                 ]);
             });
     }

@@ -22,9 +22,11 @@ class CryptocurrencyController extends ApiController
 
     public function index(AuthRequest $request): JsonResponse
     {
+        $user = $request->user('api');
+
         $page = $request->integer('page', 1);
 
-        $data = $this->service->getDataForIndex(page: $page);
+        $data = $this->service->getDataForIndex(user: $user, page: $page);
 
         return $this->sendJsonResponse(code: ResponseCodeEnum::OK, data: [
             'cryptocurrencies' => new DataPaginatedResourceCollection($data),
