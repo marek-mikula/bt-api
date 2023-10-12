@@ -21,6 +21,10 @@ class OrderRequest extends AuthRequest
                 'required',
                 'numeric',
             ],
+            'ignoreLimitsValidation' => [
+                'nullable',
+                'boolean',
+            ],
         ];
     }
 
@@ -38,6 +42,7 @@ class OrderRequest extends AuthRequest
         return OrderRequestData::from([
             'pair' => $pair,
             'quantity' => $this->float('quantity'),
+            'ignoreLimitsValidation' => $this->boolean('ignoreLimitsValidation'),
         ]);
     }
 }

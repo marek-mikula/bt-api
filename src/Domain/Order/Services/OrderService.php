@@ -32,7 +32,12 @@ class OrderService
             'quantityPrecision' => $data->pair->base_currency_precision,
         ]);
 
-        $this->orderValidator->validate($user, $data->pair, $order);
+        $this->orderValidator->validate(
+            user: $user,
+            pair: $data->pair,
+            order: $order,
+            ignoreLimitsValidation: $data->ignoreLimitsValidation
+        );
 
         $response = $this->binanceApi->spot->placeOrder($user->getKeyPair(), $order);
 

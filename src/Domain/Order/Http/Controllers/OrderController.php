@@ -36,7 +36,11 @@ class OrderController extends ApiController
     {
         $user = $request->user('api');
 
-        $order = $this->service->sell($user, $request->toData());
+        try {
+            $order = $this->service->sell($user, $request->toData());
+        } catch (OrderValidationException $e) {
+            $e->toValidationException();
+        }
 
         return $this->sendJsonResponse(code: ResponseCodeEnum::OK, data: [
             'order' => new OrderResource($order),

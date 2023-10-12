@@ -30,7 +30,7 @@ class OrderBuyValidator
     /**
      * @throws OrderValidationException
      */
-    public function validate(User $user, CurrencyPair $pair, OrderData $order): void
+    public function validate(User $user, CurrencyPair $pair, OrderData $order, bool $ignoreLimitsValidation = false): void
     {
         $pair->loadMissing([
             'baseCurrency',
@@ -85,6 +85,10 @@ class OrderBuyValidator
 
         // validate available funds (count in waiting orders)
         $this->validateFunds($user, $pair, $notionalValue);
+
+        if ($ignoreLimitsValidation) {
+            return;
+        }
 
         // validate number of trades (daily, weekly, monthly)
         $this->validateNumberOfTrades($user, $limits);
