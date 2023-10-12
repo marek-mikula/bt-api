@@ -42,6 +42,7 @@ class CurrencyResource extends JsonResource
             'symbol' => $this->resource->symbol,
             'name' => $this->resource->name,
             'isFiat' => $this->resource->is_fiat,
+            'marketCapCategory' => $this->resource->market_cap_category?->value,
             'meta' => $meta,
             'pivot' => $this->when(! empty($pivot), $pivot),
             'quotes' => new CurrencyResourceCollection($this->whenLoaded('quoteCurrencies')),

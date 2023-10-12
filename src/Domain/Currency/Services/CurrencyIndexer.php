@@ -135,11 +135,11 @@ class CurrencyIndexer
 
             /** @var Currency $model */
             $model = Currency::query()->updateOrCreate([
-                'symbol' => Str::upper($fiat->symbol),
+                'cmc_id' => (int) $meta['id'],
             ], [
+                'symbol' => Str::upper($fiat->symbol),
                 'name' => (string) $meta['name'],
                 'is_fiat' => 1,
-                'cmc_id' => (int) $meta['id'],
                 'meta' => Arr::only($meta, [
                     'sign',
                 ]),
@@ -228,11 +228,11 @@ class CurrencyIndexer
 
             /** @var Currency $model */
             $model = Currency::query()->updateOrCreate([
-                'symbol' => Str::upper($crypto->symbol),
+                'cmc_id' => (int) $meta['id'],
             ], [
+                'symbol' => Str::upper($crypto->symbol),
                 'name' => $crypto->name,
                 'is_fiat' => 0,
-                'cmc_id' => (int) $meta['id'],
                 'cmc_rank' => empty($mapping['rank']) ? 99_999 : (int) $mapping['rank'],
                 'market_cap_category' => MarketCapCategoryEnum::createFromValue($quote['quote'][$quoteCurrency]['market_cap'] ?? 0.0),
                 'meta' => Arr::except($meta, [
