@@ -22,8 +22,4 @@ Route::group(['middleware' => ['auth:sanctum']], static function (): void {
     Route::get('/{pair}/price', [CryptocurrencyController::class, 'symbolPrice'])
         ->where('pair', '[A-Z]+')
         ->name('symbol_price');
-
-    Route::post('/{pair}/buy', [CryptocurrencyController::class, 'buy'])
-        ->where('pair', '[A-Z]+')
-        ->name('symbol_buy');
 });

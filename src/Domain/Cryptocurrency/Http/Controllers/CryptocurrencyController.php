@@ -8,10 +8,8 @@ use App\Http\Requests\AuthRequest;
 use App\Http\Resources\CurrencyResource;
 use App\Http\Resources\DataPaginatedResourceCollection;
 use App\Http\Resources\DataResource;
-use App\Http\Resources\OrderResource;
 use App\Models\Currency;
 use App\Models\CurrencyPair;
-use Domain\Cryptocurrency\Http\Requests\BuyRequest;
 use Domain\Cryptocurrency\Services\CryptocurrencyService;
 use Illuminate\Http\JsonResponse;
 
@@ -68,17 +66,6 @@ class CryptocurrencyController extends ApiController
 
         return $this->sendJsonResponse(code: ResponseCodeEnum::OK, data: [
             'price' => $price,
-        ]);
-    }
-
-    public function buy(BuyRequest $request, CurrencyPair $pair): JsonResponse
-    {
-        $user = $request->user('api');
-
-        $order = $this->service->buy($user, $pair, $request->getQuantity());
-
-        return $this->sendJsonResponse(code: ResponseCodeEnum::OK, data: [
-            'order' => new OrderResource($order),
         ]);
     }
 }

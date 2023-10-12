@@ -12,6 +12,7 @@ class OrderData extends Data
         public readonly string $symbol,
         public readonly OrderTypeEnum $type,
         public readonly float $quantity,
+        public readonly int $quantityPrecision,
     ) {
     }
 }

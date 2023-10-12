@@ -2,23 +2,19 @@
 
 namespace Domain\Cryptocurrency\Services;
 
-use Apis\Binance\Data\OrderData;
 use Apis\Binance\Http\BinanceApi;
 use Apis\Coinmarketcap\Http\CoinmarketcapApi;
 use Apis\Cryptopanic\Http\CryptopanicApi;
 use App\Models\Currency;
 use App\Models\CurrencyPair;
-use App\Models\Order;
 use App\Models\User;
 use App\Repositories\Asset\AssetRepositoryInterface;
 use App\Repositories\Currency\CurrencyRepositoryInterface;
-use App\Repositories\Order\OrderRepositoryInterface;
 use App\Repositories\WhaleAlert\WhaleAlertRepositoryInterface;
 use Domain\Cryptocurrency\Data\CryptocurrencyListData;
 use Domain\Cryptocurrency\Data\CryptocurrencyShowData;
 use Domain\Cryptocurrency\Data\NewsData;
 use Domain\Cryptocurrency\Data\QuoteData;
-use Domain\Cryptocurrency\Enums\OrderTypeEnum;
 use Exception;
 use Illuminate\Pagination\LengthAwarePaginator;
 use Illuminate\Support\Str;
@@ -29,7 +25,6 @@ class CryptocurrencyService
         private readonly WhaleAlertRepositoryInterface $whaleAlertRepository,
         private readonly CurrencyRepositoryInterface $currencyRepository,
         private readonly AssetRepositoryInterface $assetRepository,
-        private readonly OrderRepositoryInterface $orderRepository,
         private readonly CoinmarketcapApi $coinmarketcapApi,
         private readonly CryptopanicApi $cryptopanicApi,
         private readonly BinanceApi $binanceApi,
@@ -194,44 +189,14 @@ class CryptocurrencyService
     {
         $response = $this->binanceApi->marketData->symbolPrice($pair->symbol);
 
-        /** @var array $data */
-        $data = $response->collect()->first();
+        $price = floatval($response->json('price'));
 
         // change price a little if we are using mocked
         // data, so we can simulate price changes over time
         if (config('binance.mock')) {
-            $data['price'] = $data['price'] * (rand(90, 110) / 100);
+            $price = $price * (rand(90, 110) / 100);
         }
 
-        return floatval($data['price']);
-    }
-
-    public function buy(User $user, CurrencyPair $pair, float $quantity): Order
-    {
-        $uuid = Str::uuid()->toString();
-
-        $order = OrderData::from([
-            'uuid' => $uuid,
-            'symbol' => $pair->symbol,
-            'type' => OrderTypeEnum::BUY,
-            'quantity' => $quantity,
-        ]);
-
-        $response = $this->binanceApi->spot->placeOrder($user->getKeyPair(), $order);
-
-        $order = $this->orderRepository->create([
-            'binance_uuid' => $uuid,
-            'user_id' => $user->id,
-            'pair_id' => $pair->id,
-            'type' => OrderTypeEnum::BUY,
-            'status' => $response->json('status'),
-            'quantity' => floatval($response->json('executedQty')),
-        ]);
-
-        $order->loadMissing([
-            'pair',
-        ]);
-
-        return $order;
+        return floatval($price);
     }
 }

@@ -16,6 +16,8 @@ return new class extends Migration
             $table->string('type');
             $table->string('status');
             $table->double('quantity');
+            $table->double('quote_quantity');
+            $table->double('price');
             $table->timestamps();
 
             $table->foreign('pair_id')

@@ -19,6 +19,8 @@ use Illuminate\Database\Query\Builder;
  * @property OrderTypeEnum $type
  * @property OrderStatusEnum $status
  * @property float $quantity
+ * @property float $quote_quantity
+ * @property float $price
  * @property Carbon $created_at
  * @property Carbon $updated_at
  * @property-read User $user
@@ -41,6 +43,8 @@ class Order extends Model
         'type',
         'status',
         'quantity',
+        'quote_quantity',
+        'price',
     ];
 
     protected $casts = [
@@ -50,6 +54,8 @@ class Order extends Model
         'type' => OrderTypeEnum::class,
         'status' => OrderStatusEnum::class,
         'quantity' => 'float',
+        'quote_quantity' => 'float',
+        'price' => 'float',
     ];
 
     /**

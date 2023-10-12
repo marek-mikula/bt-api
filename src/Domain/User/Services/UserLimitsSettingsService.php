@@ -18,28 +18,12 @@ class UserLimitsSettingsService
 
     public function show(User $user): Limits
     {
-        /** @var Limits|null $limits */
-        $limits = $user->limits()->first();
-
-        if (! $limits) {
-            $limits = $this->limitsRepository->create([
-                'user_id' => $user->id,
-            ]);
-        }
-
-        return $limits;
+        return $this->limitsRepository->findOrCreate($user);
     }
 
     public function update(User $user, UpdateLimitsSettingsRequestData $data): Limits
     {
-        /** @var Limits|null $limits */
-        $limits = $user->limits()->first();
-
-        if (! $limits) {
-            $limits = $this->limitsRepository->create([
-                'user_id' => $user->id,
-            ]);
-        }
+        $limits = $this->limitsRepository->findOrCreate($user);
 
         // limits can be updated only once in couple days
         if (! $limits->canBeUpdated()) {

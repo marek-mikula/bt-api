@@ -23,8 +23,13 @@ class MarketDataClientMock implements MarketDataClientInterface
         $data = collect($this->mockData('Binance', 'market-data/symbol-price.json'))
             ->filter(static function (array $item) use ($symbols): bool {
                 return $symbols->contains($item['symbol']);
-            })
-            ->all();
+            });
+
+        // take only first item if number of
+        // symbols is 1
+        if ($symbols->count() === 1) {
+            $data = $data->first();
+        }
 
         $response = response_from_client(data: $data);
 

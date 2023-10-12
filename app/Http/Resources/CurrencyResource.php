@@ -30,6 +30,9 @@ class CurrencyResource extends JsonResource
         if ($this->resource->pivot) {
             $pivot = [
                 'symbol' => $this->resource->pivot->symbol,
+                'minQuantity' => $this->resource->pivot->min_quantity,
+                'maxQuantity' => $this->resource->pivot->max_quantity,
+                'stepSize' => $this->resource->pivot->step_size,
             ];
         }
 

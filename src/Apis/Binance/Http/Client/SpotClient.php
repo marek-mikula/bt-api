@@ -33,7 +33,7 @@ class SpotClient extends BinanceClient implements SpotClientInterface
             'symbol' => $order->symbol,
             'side' => $order->type->name,
             'type' => 'MARKET',
-            'quantity' => $order->quantity,
+            'quantity' => sprintf("%.{$order->quantityPrecision}f", $order->quantity), // transform float to formatted number
             'newClientOrderId' => $order->uuid,
         ]);
 

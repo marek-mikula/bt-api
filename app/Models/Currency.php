@@ -76,7 +76,12 @@ class Currency extends Model
             relatedPivotKey: 'quote_currency_id',
             parentKey: 'id',
             relatedKey: 'id',
-        )->withPivot('symbol');
+        )->withPivot([
+            'symbol',
+            'min_quantity',
+            'max_quantity',
+            'step_size',
+        ]);
     }
 
     /**
