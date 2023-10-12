@@ -41,9 +41,9 @@ class CheckMarketCapLimitJob extends BaseBatchJob
         User::query()
             ->with([
                 'limits',
-                'assets' => function (HasMany $query): void {
+                'assets' => static function (HasMany $query): void {
                     // take only fiat currency
-                    $query->whereHas('currency', function (Builder $query): void {
+                    $query->whereHas('currency', static function (Builder $query): void {
                         $query->where('is_fiat', '=', 0);
                     });
                 },
@@ -76,23 +76,24 @@ class CheckMarketCapLimitJob extends BaseBatchJob
         // each market cap category in
         // user's wallet
 
-        foreach ($user->loadMissing('assets')->assets as $asset) {
-            $currency = $asset->loadMissing('currency')->currency;
-
+        foreach ($user->assets as $asset) {
             // check if is fiat just to be sure
 
-            if ($currency->is_fiat) {
+            if ($asset->currency->is_fiat) {
                 continue;
             }
 
             /** @var LimitQuoteData|null $quote */
-            $quote = $quotes->get($currency->cmc_id);
+            $quote = $quotes->get($asset->currency->cmc_id);
 
             if (! $quote) {
-                throw new Exception("Missing cached quotes for currency {$currency->symbol}.");
+                throw new Exception("Missing cached quotes for currency {$asset->currency->symbol}.");
             }
 
-            $percentages[$quote->getMarketCapCategory()->value] += ($asset->balance * $quote->price);
+            /** @var MarketCapCategoryEnum $category */
+            $category = $asset->currency->market_cap_category;
+
+            $percentages[$category->value] += ($asset->balance * $quote->price);
         }
 
         $totalBalance = collect($percentages)->sum();

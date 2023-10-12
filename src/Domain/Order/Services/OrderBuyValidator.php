@@ -274,64 +274,65 @@ class OrderBuyValidator
         // add base currency value to
         // the percentages array
 
-        /** @var array|null $quote */
-        $quote = $quotes->get($baseCurrency->cmc_id);
+        /** @var array|null $baseQuote */
+        $baseQuote = $quotes->get($baseCurrency->cmc_id);
 
-        if (! $quote) {
+        if (! $baseQuote) {
             throw new Exception("Missing quotes for base currency {$baseCurrency->symbol}.");
         }
 
-        $currency = (string) collect($quote['quote'])->keys()->first();
+        $currency = (string) collect($baseQuote['quote'])->keys()->first();
 
-        $enum = MarketCapCategoryEnum::createFromValue($quote['quote'][$currency]['market_cap']);
+        /** @var MarketCapCategoryEnum $baseCategory */
+        $baseCategory = $baseCurrency->market_cap_category;
 
-        $orderCategories[] = $enum->value;
+        $orderCategories[] = $baseCategory->value;
 
-        $percentages[$enum->value] += ($order->quantity * $quote['quote'][$currency]['price']);
+        $percentages[$baseCategory->value] += ($order->quantity * $baseQuote['quote'][$currency]['price']);
 
         // add quote currency value to
         // the percentages array
 
-        /** @var array|null $quote */
-        $quote = $quotes->get($quoteCurrency->cmc_id);
+        /** @var array|null $quoteQuote */
+        $quoteQuote = $quotes->get($quoteCurrency->cmc_id);
 
-        if (! $quote) {
+        if (! $quoteQuote) {
             throw new Exception("Missing quotes for quote currency {$quoteCurrency->symbol}.");
         }
 
-        $currency = (string) collect($quote['quote'])->keys()->first();
+        $currency = (string) collect($quoteQuote['quote'])->keys()->first();
 
-        $enum = MarketCapCategoryEnum::createFromValue($quote['quote'][$currency]['market_cap']);
+        /** @var MarketCapCategoryEnum $quoteCategory */
+        $quoteCategory = $quoteCurrency->market_cap_category;
 
-        $orderCategories[] = $enum->value;
+        $orderCategories[] = $quoteCategory->value;
 
-        $percentages[$enum->value] -= ($notionalValue * $quote['quote'][$currency]['price']);
+        $percentages[$quoteCategory->value] -= ($notionalValue * $quoteQuote['quote'][$currency]['price']);
 
         // count the percentages for existing
         // users assets
 
         /** @var Asset $asset */
         foreach ($assets as $asset) {
-            $currency = $asset->currency;
-
             // check if is fiat just to be sure
 
-            if ($currency->is_fiat) {
+            if ($asset->currency->is_fiat) {
                 continue;
             }
 
             /** @var array|null $quote */
-            $quote = $quotes->get($currency->cmc_id);
+            $quote = $quotes->get($asset->currency->cmc_id);
 
             if (! $quote) {
-                throw new Exception("Missing quotes for currency {$currency->symbol}.");
+                throw new Exception("Missing quotes for currency {$asset->currency->symbol}.");
             }
 
             $quoteCurrency = (string) collect($quote['quote'])->keys()->first();
 
-            $enum = MarketCapCategoryEnum::createFromValue($quote['quote'][$quoteCurrency]['market_cap']);
+            /** @var MarketCapCategoryEnum $category */
+            $category = $asset->currency->market_cap_category;
 
-            $percentages[$enum->value] += ($asset->balance * $quote['quote'][$quoteCurrency]['price']);
+            $percentages[$category->value] += ($asset->balance * $quote['quote'][$quoteCurrency]['price']);
         }
 
         // sum total balance in $
