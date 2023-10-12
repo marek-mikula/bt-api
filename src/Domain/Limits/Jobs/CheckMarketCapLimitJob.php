@@ -123,7 +123,7 @@ class CheckMarketCapLimitJob extends BaseBatchJob
             if ($percentage < $between[0] || $percentage > $between[1]) {
                 $user->notify(new LimitsMarketCapNotification(
                     category: MarketCapCategoryEnum::from($category),
-                    percentage: $percentage,
+                    percentage: round($percentage, 2),
                     limitFrom: $between[0],
                     limitTo: $between[1],
                 ));
