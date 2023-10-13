@@ -58,6 +58,7 @@ class OrderRepository implements OrderRepositoryInterface
             ->ofUser($user)
             ->ofCurrencyPair($pair)
             ->waiting()
+            ->buy()
             ->sum('quote_quantity');
 
         $buyOrders = floatval($buyOrders);
@@ -66,6 +67,7 @@ class OrderRepository implements OrderRepositoryInterface
             ->ofUser($user)
             ->ofCurrencyPair($pair)
             ->waiting()
+            ->sell()
             ->sum('quote_quantity');
 
         $sellOrders = floatval($sellOrders);
