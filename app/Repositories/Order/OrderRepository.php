@@ -2,10 +2,14 @@
 
 namespace App\Repositories\Order;
 
+use App\Models\Currency;
 use App\Models\CurrencyPair;
 use App\Models\Order;
+use App\Models\Query\CurrencyPairQuery;
+use App\Models\Query\OrderQuery;
 use App\Models\User;
 use Illuminate\Pagination\LengthAwarePaginator;
+use Illuminate\Support\Collection;
 
 class OrderRepository implements OrderRepositoryInterface
 {
@@ -23,6 +27,26 @@ class OrderRepository implements OrderRepositoryInterface
                 perPage: $perPage,
                 page: $page
             );
+    }
+
+    public function latest(User $user, int $count = 10, Currency $currency = null): Collection
+    {
+        return Order::query()
+            ->with([
+                'pair',
+                'pair.baseCurrency',
+                'pair.quoteCurrency',
+            ])
+            ->when($currency !== null, static function (OrderQuery $query) use ($currency): void {
+                $query->whereHas('pair', static function (CurrencyPairQuery $query) use ($currency): void {
+                    $query
+                        ->where('base_currency_id', '=', $currency->id)
+                        ->orWhere('quote_currency_id', '=', $currency->id);
+                });
+            })
+            ->latest('id')
+            ->limit($count)
+            ->get();
     }
 
     public function create(array $data): Order

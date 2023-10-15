@@ -11,6 +11,7 @@ use App\Models\CurrencyPair;
 use App\Models\User;
 use App\Repositories\Asset\AssetRepositoryInterface;
 use App\Repositories\Currency\CurrencyRepositoryInterface;
+use App\Repositories\Order\OrderRepositoryInterface;
 use App\Repositories\WhaleAlert\WhaleAlertRepositoryInterface;
 use Domain\Cryptocurrency\Data\CryptocurrencyListData;
 use Domain\Cryptocurrency\Data\CryptocurrencyShowData;
@@ -25,6 +26,7 @@ class CryptocurrencyService
     public function __construct(
         private readonly WhaleAlertRepositoryInterface $whaleAlertRepository,
         private readonly CurrencyRepositoryInterface $currencyRepository,
+        private readonly OrderRepositoryInterface $orderRepository,
         private readonly AssetRepositoryInterface $assetRepository,
         private readonly CoinmarketcapApi $coinmarketcapApi,
         private readonly CryptopanicApi $cryptopanicApi,
@@ -93,6 +95,7 @@ class CryptocurrencyService
         Currency $cryptocurrency,
         int $whaleAlertsCount = 5,
         int $newsCount = 5,
+        int $ordersCount = 5,
     ): CryptocurrencyShowData {
         // load needed relationships
         $cryptocurrency->loadMissing('quoteCurrencies');
@@ -128,6 +131,8 @@ class CryptocurrencyService
                 'sourceUrl' => "https://www.{$item['source']['domain']}",
             ]));
 
+        $orders = $this->orderRepository->latest($user, count: $ordersCount, currency: $cryptocurrency);
+
         $userAsset = $this->assetRepository->findByUserAndCurrency($user, $cryptocurrency);
 
         return CryptocurrencyShowData::from([
@@ -150,6 +155,7 @@ class CryptocurrencyService
                 'volumeChange24h' => floatval($quote['quote'][$quoteCurrency]['volume_change_24h']) / 100,
             ],
             'news' => $news,
+            'orders' => $orders,
             'userAsset' => $userAsset,
             'whaleAlerts' => $whaleAlerts,
         ]);
