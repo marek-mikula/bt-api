@@ -15,10 +15,7 @@ class OrderValidationException extends Exception
         parent::__construct('Order is invalid.');
     }
 
-    /**
-     * @throws ValidationException
-     */
-    public function toValidationException(): void
+    public function toValidationException(): ValidationException
     {
         $fields = match ($this->enum) {
             OrderErrorEnum::MIN_QUANTITY_EXCEEDED => [
@@ -86,6 +83,6 @@ class OrderValidationException extends Exception
             ],
         };
 
-        throw ValidationException::withMessages($fields);
+        return ValidationException::withMessages($fields);
     }
 }

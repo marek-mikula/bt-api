@@ -17,29 +17,14 @@ class OrderController extends ApiController
     ) {
     }
 
-    public function buy(OrderRequest $request): JsonResponse
+    public function place(OrderRequest $request): JsonResponse
     {
         $user = $request->user('api');
 
         try {
-            $order = $this->service->buy($user, $request->toData());
+            $order = $this->service->placeOrder($user, $request->toData());
         } catch (OrderValidationException $e) {
-            $e->toValidationException();
-        }
-
-        return $this->sendJsonResponse(code: ResponseCodeEnum::OK, data: [
-            'order' => new OrderResource($order),
-        ]);
-    }
-
-    public function sell(OrderRequest $request): JsonResponse
-    {
-        $user = $request->user('api');
-
-        try {
-            $order = $this->service->sell($user, $request->toData());
-        } catch (OrderValidationException $e) {
-            $e->toValidationException();
+            throw $e->toValidationException();
         }
 
         return $this->sendJsonResponse(code: ResponseCodeEnum::OK, data: [

@@ -2,8 +2,8 @@
 
 namespace Domain\Order\Providers;
 
-use Domain\Order\Services\OrderBuyValidator;
 use Domain\Order\Services\OrderService;
+use Domain\Order\Services\OrderValidator;
 use Illuminate\Contracts\Support\DeferrableProvider;
 use Illuminate\Support\ServiceProvider;
 
@@ -14,7 +14,7 @@ class OrderDeferredServiceProvider extends ServiceProvider implements Deferrable
      */
     private array $services = [
         OrderService::class,
-        OrderBuyValidator::class,
+        OrderValidator::class,
     ];
 
     public function register(): void

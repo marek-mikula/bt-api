@@ -10,13 +10,14 @@ use App\Models\Limits;
 use App\Models\User;
 use App\Repositories\Limits\LimitsRepositoryInterface;
 use App\Repositories\Order\OrderRepositoryInterface;
+use Domain\Cryptocurrency\Enums\OrderSideEnum;
 use Domain\Currency\Enums\MarketCapCategoryEnum;
 use Domain\Order\Enums\OrderErrorEnum;
 use Domain\Order\Exceptions\OrderValidationException;
 use Exception;
 use Illuminate\Database\Eloquent\Builder;
 
-class OrderBuyValidator
+class OrderValidator
 {
     public function __construct(
         private readonly LimitsRepositoryInterface $limitsRepository,
@@ -221,9 +222,11 @@ class OrderBuyValidator
         // because no new asset will be added
         // to his wallet
 
+        $buyCurrencyId = $order->side === OrderSideEnum::BUY ? $order->pair->base_currency_id : $order->pair->quote_currency_id;
+
         $userHasAsset = $user
             ->assets()
-            ->where('currency_id', '=', $order->pair->base_currency_id)
+            ->where('currency_id', '=', $buyCurrencyId)
             ->exists();
 
         if (! $userHasAsset && ! empty($limits->cryptocurrency_max) && ($numberOfAssets + 1) > $limits->cryptocurrency_max) {
@@ -232,13 +235,15 @@ class OrderBuyValidator
             ]);
         }
 
+        $sellCurrencyId = $order->side === OrderSideEnum::BUY ? $order->pair->quote_currency_id : $order->pair->base_currency_id;
+
         /** @var Asset $quoteAsset */
         $quoteAsset = $user
             ->assets()
-            ->where('currency_id', '=', $order->pair->quote_currency_id)
+            ->where('currency_id', '=', $sellCurrencyId)
             ->first();
 
-        if (($quoteAsset->balance - $notionalValue) === 0.0 && ! empty($limits->cryptocurrency_min) && ($numberOfAssets - 1) < $limits->cryptocurrency_min) {
+        if (($quoteAsset->balance - $notionalValue) <= 0.0 && ! empty($limits->cryptocurrency_min) && ($numberOfAssets - 1) < $limits->cryptocurrency_min) {
             throw new OrderValidationException(OrderErrorEnum::MIN_ASSETS_EXCEEDED, [
                 'min' => $limits->cryptocurrency_max,
             ]);
@@ -250,10 +255,12 @@ class OrderBuyValidator
      */
     private function validateFunds(User $user, OrderData $order, float $notionalValue): void
     {
+        $sellCurrencyId = $order->side === OrderSideEnum::BUY ? $order->pair->quote_currency_id : $order->pair->base_currency_id;
+
         /** @var Asset|null $asset */
         $asset = $user
             ->assets()
-            ->where('currency_id', '=', $order->pair->quote_currency_id)
+            ->where('currency_id', '=', $sellCurrencyId)
             ->first();
 
         // user does not own the quote asset
@@ -264,9 +271,25 @@ class OrderBuyValidator
             ]);
         }
 
-        $funds = $this->orderRepository->sumWaitingOrderQuote($user, $order->pair) + $asset->balance;
+        if ($order->side === OrderSideEnum::BUY) {
+            $funds = $this->orderRepository->sumWaitingOrderQuote($user, $order->pair) + $asset->balance;
+        } else {
+            $funds = $this->orderRepository->sumWaitingOrderBase($user, $order->pair) + $asset->balance;
+        }
 
-        if ($funds < $notionalValue) {
+        // if we are selling => check quantity
+        // of base currency
+
+        if ($order->side === OrderSideEnum::SELL && $funds < $order->quantity) {
+            throw new OrderValidationException(OrderErrorEnum::NO_FUNDS, [
+                'funds' => round($funds, 2),
+            ]);
+        }
+
+        // if we are buying => check notional value
+        // of quote currency
+
+        if ($order->side === OrderSideEnum::BUY && $funds < $notionalValue) {
             throw new OrderValidationException(OrderErrorEnum::NO_FUNDS, [
                 'funds' => round($funds, 2),
             ]);
@@ -294,10 +317,13 @@ class OrderBuyValidator
 
         // load base and quote currency of the order
         //
+        // BUY:
         // we are buying the base currency for quote
-        // currency -> that means we have to check
-        // both of these market cap categories
-        // because both categories will be changing
+        // currency
+        //
+        // SELL:
+        // we are selling the base currency for quote
+        // currency
 
         $baseCurrency = $order->pair->loadMissing('baseCurrency')->baseCurrency;
         $quoteCurrency = $order->pair->loadMissing('quoteCurrency')->quoteCurrency;
@@ -346,7 +372,11 @@ class OrderBuyValidator
 
         $orderCategories[] = $baseCategory->value;
 
-        $percentages[$baseCategory->value] += ($order->quantity * $baseQuote['quote'][$currency]['price']);
+        if ($order->side === OrderSideEnum::BUY) {
+            $percentages[$baseCategory->value] += ($order->quantity * $baseQuote['quote'][$currency]['price']);
+        } else {
+            $percentages[$baseCategory->value] -= ($order->quantity * $baseQuote['quote'][$currency]['price']);
+        }
 
         // add quote currency value to
         // the percentages array
@@ -365,7 +395,11 @@ class OrderBuyValidator
 
         $orderCategories[] = $quoteCategory->value;
 
-        $percentages[$quoteCategory->value] -= ($notionalValue * $quoteQuote['quote'][$currency]['price']);
+        if ($order->side === OrderSideEnum::BUY) {
+            $percentages[$quoteCategory->value] -= ($notionalValue * $quoteQuote['quote'][$currency]['price']);
+        } else {
+            $percentages[$quoteCategory->value] += ($notionalValue * $quoteQuote['quote'][$currency]['price']);
+        }
 
         // count the percentages for existing
         // users assets

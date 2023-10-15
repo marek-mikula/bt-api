@@ -2,8 +2,8 @@
 
 namespace Domain\Cryptocurrency\Enums;
 
-enum OrderSideEnum
+enum OrderSideEnum: string
 {
-    case BUY;
-    case SELL;
+    case BUY = 'BUY';
+    case SELL = 'SELL';
 }

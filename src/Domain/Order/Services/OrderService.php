@@ -3,13 +3,16 @@
 namespace Domain\Order\Services;
 
 use Apis\Binance\Data\OrderData;
+use Apis\Binance\Exceptions\BinanceBanException;
+use Apis\Binance\Exceptions\BinanceLimitException;
+use Apis\Binance\Exceptions\BinanceRequestException;
 use Apis\Binance\Http\BinanceApi;
 use App\Models\Order;
 use App\Models\User;
 use App\Repositories\Asset\AssetRepositoryInterface;
 use App\Repositories\Order\OrderRepositoryInterface;
-use Domain\Cryptocurrency\Enums\OrderSideEnum;
 use Domain\Cryptocurrency\Enums\OrderStatusEnum;
+use Domain\Order\Exceptions\OrderValidationException;
 use Domain\Order\Http\Requests\Data\OrderRequestData;
 use Illuminate\Support\Str;
 
@@ -18,23 +21,27 @@ class OrderService
     public function __construct(
         private readonly OrderRepositoryInterface $orderRepository,
         private readonly AssetRepositoryInterface $assetRepository,
-        private readonly OrderBuyValidator $buyValidator,
+        private readonly OrderValidator $validator,
         private readonly BinanceApi $binanceApi,
     ) {
     }
 
-    public function buy(User $user, OrderRequestData $data): Order
+    /**
+     * @throws BinanceBanException
+     * @throws BinanceLimitException
+     * @throws BinanceRequestException
+     * @throws OrderValidationException
+     */
+    public function placeOrder(User $user, OrderRequestData $data): Order
     {
-        $uuid = Str::uuid()->toString();
-
         $order = OrderData::from([
-            'uuid' => $uuid,
+            'uuid' => Str::uuid()->toString(),
             'quantity' => $data->quantity,
             'pair' => $data->pair,
-            'side' => OrderSideEnum::BUY,
+            'side' => $data->side,
         ]);
 
-        $this->buyValidator->validate(
+        $this->validator->validate(
             user: $user,
             order: $order,
             ignoreLimitsValidation: $data->ignoreLimitsValidation
@@ -66,10 +73,5 @@ class OrderService
         }
 
         return $order;
-    }
-
-    public function sell(User $user, OrderRequestData $data): Order
-    {
-        // todo
     }
 }

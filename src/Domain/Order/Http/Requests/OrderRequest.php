@@ -4,7 +4,9 @@ namespace Domain\Order\Http\Requests;
 
 use App\Http\Requests\AuthRequest;
 use App\Models\CurrencyPair;
+use Domain\Cryptocurrency\Enums\OrderSideEnum;
 use Domain\Order\Http\Requests\Data\OrderRequestData;
+use Illuminate\Validation\Rules\Enum;
 use Illuminate\Validation\Rules\Exists;
 
 class OrderRequest extends AuthRequest
@@ -20,6 +22,11 @@ class OrderRequest extends AuthRequest
             'quantity' => [
                 'required',
                 'numeric',
+            ],
+            'side' => [
+                'required',
+                'string',
+                new Enum(OrderSideEnum::class),
             ],
             'ignoreLimitsValidation' => [
                 'nullable',
@@ -41,6 +48,7 @@ class OrderRequest extends AuthRequest
 
         return OrderRequestData::from([
             'pair' => $pair,
+            'side' => $this->enum('side', OrderSideEnum::class),
             'quantity' => $this->float('quantity'),
             'ignoreLimitsValidation' => $this->boolean('ignoreLimitsValidation'),
         ]);

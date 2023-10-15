@@ -19,20 +19,20 @@ class OrderQuery extends BaseQuery
     public function waiting(): self
     {
         return $this->whereIn('status', [
-            OrderStatusEnum::NEW->name,
-            OrderStatusEnum::PARTIALLY_FILLED->name,
-            OrderStatusEnum::PENDING_CANCEL->name,
+            OrderStatusEnum::NEW->value,
+            OrderStatusEnum::PARTIALLY_FILLED->value,
+            OrderStatusEnum::PENDING_CANCEL->value,
         ]);
     }
 
     public function buy(): self
     {
-        return $this->where('side', '=', OrderSideEnum::BUY->name);
+        return $this->where('side', '=', OrderSideEnum::BUY->value);
     }
 
     public function sell(): self
     {
-        return $this->where('side', '=', OrderSideEnum::SELL->name);
+        return $this->where('side', '=', OrderSideEnum::SELL->value);
     }
 
     public function ofBinanceUuid(string $uuid): self
