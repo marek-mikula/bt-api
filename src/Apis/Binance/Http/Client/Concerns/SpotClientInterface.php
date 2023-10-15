@@ -22,5 +22,5 @@ interface SpotClientInterface
     /**
      * @throws BinanceRequestException
      */
-    public function order(KeyPairData $keyPair, OrderData $order): BinanceResponse;
+    public function order(KeyPairData $keyPair, string $symbol, string $uuid): BinanceResponse;
 }

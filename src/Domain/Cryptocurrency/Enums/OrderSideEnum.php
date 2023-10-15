@@ -2,7 +2,7 @@
 
 namespace Domain\Cryptocurrency\Enums;
 
-enum OrderTypeEnum
+enum OrderSideEnum
 {
     case BUY;
     case SELL;

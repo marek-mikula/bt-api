@@ -4,8 +4,8 @@ namespace App\Models;
 
 use App\Models\Query\OrderQuery;
 use Carbon\Carbon;
+use Domain\Cryptocurrency\Enums\OrderSideEnum;
 use Domain\Cryptocurrency\Enums\OrderStatusEnum;
-use Domain\Cryptocurrency\Enums\OrderTypeEnum;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\BelongsTo;
@@ -14,11 +14,12 @@ use Illuminate\Database\Query\Builder;
 /**
  * @property-read int $id
  * @property string $binance_uuid
+ * @property int $binance_id
  * @property int $user_id
  * @property int $pair_id
- * @property OrderTypeEnum $type
+ * @property OrderSideEnum $side
  * @property OrderStatusEnum $status
- * @property float $quantity
+ * @property float $base_quantity
  * @property float $quote_quantity
  * @property float $price
  * @property Carbon $created_at
@@ -38,22 +39,24 @@ class Order extends Model
 
     protected $fillable = [
         'binance_uuid',
+        'binance_id',
         'user_id',
         'pair_id',
-        'type',
+        'side',
         'status',
-        'quantity',
+        'base_quantity',
         'quote_quantity',
         'price',
     ];
 
     protected $casts = [
         'binance_uuid' => 'string',
+        'binance_id' => 'integer',
         'user_id' => 'integer',
         'pair_id' => 'integer',
-        'type' => OrderTypeEnum::class,
+        'side' => OrderSideEnum::class,
         'status' => OrderStatusEnum::class,
-        'quantity' => 'float',
+        'base_quantity' => 'float',
         'quote_quantity' => 'float',
         'price' => 'float',
     ];

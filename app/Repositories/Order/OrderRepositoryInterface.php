@@ -16,5 +16,7 @@ interface OrderRepositoryInterface
 
     public function getMonthlyOrderCount(User $user): int;
 
-    public function sumWaitingOrderQuotes(User $user, CurrencyPair $pair): float;
+    public function sumWaitingOrderQuote(User $user, CurrencyPair $pair): float;
+
+    public function sumWaitingOrderBase(User $user, CurrencyPair $pair): float;
 }

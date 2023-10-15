@@ -52,7 +52,7 @@ class OrderRepository implements OrderRepositoryInterface
             ->count();
     }
 
-    public function sumWaitingOrderQuotes(User $user, CurrencyPair $pair): float
+    public function sumWaitingOrderQuote(User $user, CurrencyPair $pair): float
     {
         $buyOrders = Order::query()
             ->ofUser($user)
@@ -73,5 +73,28 @@ class OrderRepository implements OrderRepositoryInterface
         $sellOrders = floatval($sellOrders);
 
         return $sellOrders - $buyOrders;
+    }
+
+    public function sumWaitingOrderBase(User $user, CurrencyPair $pair): float
+    {
+        $buyOrders = Order::query()
+            ->ofUser($user)
+            ->ofCurrencyPair($pair)
+            ->waiting()
+            ->buy()
+            ->sum('base_quantity');
+
+        $buyOrders = floatval($buyOrders);
+
+        $sellOrders = Order::query()
+            ->ofUser($user)
+            ->ofCurrencyPair($pair)
+            ->waiting()
+            ->sell()
+            ->sum('base_quantity');
+
+        $sellOrders = floatval($sellOrders);
+
+        return $buyOrders - $sellOrders;
     }
 }

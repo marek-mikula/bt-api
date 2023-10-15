@@ -2,17 +2,17 @@
 
 namespace Apis\Binance\Data;
 
-use Domain\Cryptocurrency\Enums\OrderTypeEnum;
+use App\Models\CurrencyPair;
+use Domain\Cryptocurrency\Enums\OrderSideEnum;
 use Spatie\LaravelData\Data;
 
 class OrderData extends Data
 {
     public function __construct(
         public readonly string $uuid,
-        public readonly string $symbol,
-        public readonly OrderTypeEnum $type,
         public readonly float $quantity,
-        public readonly int $quantityPrecision,
+        public readonly CurrencyPair $pair,
+        public readonly OrderSideEnum $side,
     ) {
     }
 }

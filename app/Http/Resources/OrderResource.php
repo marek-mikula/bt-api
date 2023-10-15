@@ -16,12 +16,17 @@ class OrderResource extends JsonResource
         return [
             'id' => $this->resource->id,
             'binanceUuid' => $this->resource->binance_uuid,
+            'binanceId' => $this->resource->binance_id,
             'userId' => $this->resource->user_id,
             'pairId' => $this->resource->pair_id,
-            'type' => $this->resource->type->name,
+            'side' => $this->resource->side->name,
             'status' => $this->resource->status->name,
-            'quantity' => $this->resource->quantity,
+            'baseQuantity' => $this->resource->base_quantity,
+            'quoteQuantity' => $this->resource->quote_quantity,
+            'price' => $this->resource->price,
             'pair' => new CurrencyPairResource($this->whenLoaded('pair')),
+            'createdAt' => $this->resource->created_at->toIso8601String(),
+            'updatedAt' => $this->resource->updated_at->toIso8601String(),
         ];
     }
 }

@@ -5,8 +5,8 @@ namespace App\Models\Query;
 use App\Models\Order;
 use App\Models\Query\Traits\BelongsToCurrencyPair;
 use App\Models\Query\Traits\BelongsToUser;
+use Domain\Cryptocurrency\Enums\OrderSideEnum;
 use Domain\Cryptocurrency\Enums\OrderStatusEnum;
-use Domain\Cryptocurrency\Enums\OrderTypeEnum;
 
 /**
  * @see Order
@@ -27,11 +27,21 @@ class OrderQuery extends BaseQuery
 
     public function buy(): self
     {
-        return $this->where('type', '=', OrderTypeEnum::BUY->name);
+        return $this->where('side', '=', OrderSideEnum::BUY->name);
     }
 
     public function sell(): self
     {
-        return $this->where('type', '=', OrderTypeEnum::SELL->name);
+        return $this->where('side', '=', OrderSideEnum::SELL->name);
+    }
+
+    public function ofBinanceUuid(string $uuid): self
+    {
+        return $this->where('binance_uuid', '=', $uuid);
+    }
+
+    public function ofBinanceId(int $id): self
+    {
+        return $this->where('binance_id', '=', $id);
     }
 }

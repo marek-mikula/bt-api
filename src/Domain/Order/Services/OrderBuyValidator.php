@@ -6,7 +6,6 @@ use Apis\Binance\Data\OrderData;
 use Apis\Binance\Http\BinanceApi;
 use Apis\Coinmarketcap\Http\CoinmarketcapApi;
 use App\Models\Asset;
-use App\Models\CurrencyPair;
 use App\Models\Limits;
 use App\Models\User;
 use App\Repositories\Limits\LimitsRepositoryInterface;
@@ -30,74 +29,144 @@ class OrderBuyValidator
     /**
      * @throws OrderValidationException
      */
-    public function validate(User $user, CurrencyPair $pair, OrderData $order, bool $ignoreLimitsValidation = false): void
+    public function validate(User $user, OrderData $order, bool $ignoreLimitsValidation = false): void
     {
-        $pair->loadMissing([
+        // load needed relationships
+        // for currency pair
+
+        $order->pair->loadMissing([
             'baseCurrency',
             'quoteCurrency',
         ]);
 
         // fetch current price from binance API
 
-        $pairPrice = $this->binanceApi->marketData->symbolPrice($pair->symbol)
-            ->json('price');
-
-        $pairPrice = floatval($pairPrice);
+        $symbolPrice = $this->fetchSymbolPrice($order);
 
         // calculate notional value
+        // => this is the number of
+        // quote asset we will need
+        // to buy $quantity of base
+        // asset
 
-        $notionalValue = $pairPrice * $order->quantity;
+        $notionalValue = $symbolPrice * $order->quantity;
 
-        // fetch user current limits
+        // validate order's quantity
 
-        $limits = $this->limitsRepository->findOrCreate($user);
+        $this->validateQuantity($order);
 
-        // validate min quantity
-        if (! empty($pair->min_quantity) && $pair->min_quantity > $order->quantity) {
-            throw new OrderValidationException(OrderErrorEnum::MIN_QUANTITY_EXCEEDED, [
-                'min' => $pair->min_quantity,
-            ]);
-        }
+        // validate order's quantity step size
 
-        // validate max quantity
-        if (! empty($pair->max_quantity) && $pair->max_quantity < $order->quantity) {
-            throw new OrderValidationException(OrderErrorEnum::MAX_QUANTITY_EXCEEDED, [
-                'max' => $pair->max_quantity,
-            ]);
-        }
+        $this->validateStepSize($order);
 
-        // validate step size
-        $this->validateStepSize($pair, $order);
+        // validate order's notional value
 
-        // validate min notional value
-        if (! empty($pair->min_notional) && $pair->min_notional > $notionalValue) {
-            throw new OrderValidationException(OrderErrorEnum::MIN_NOTIONAL_EXCEEDED, [
-                'min' => $pair->min_notional,
-            ]);
-        }
-
-        // validate max notional value
-        if (! empty($pair->max_notional) && $pair->max_notional < $notionalValue) {
-            throw new OrderValidationException(OrderErrorEnum::MAX_NOTIONAL_EXCEEDED, [
-                'max' => $pair->max_notional,
-            ]);
-        }
+        $this->validateNotionalValue($order, $notionalValue);
 
         // validate available funds (count in waiting orders)
-        $this->validateFunds($user, $pair, $notionalValue);
+
+        $this->validateFunds($user, $order, $notionalValue);
+
+        // user wants to ignore the limits'
+        // validation
+        // => skip other validations
 
         if ($ignoreLimitsValidation) {
             return;
         }
 
+        // fetch user's current limits
+
+        $limits = $this->limitsRepository->findOrCreate($user);
+
         // validate number of trades (daily, weekly, monthly)
         $this->validateNumberOfTrades($user, $limits);
 
         // validate number of cryptocurrencies
-        $this->validateNumberOfAssets($user, $limits, $pair);
+        $this->validateNumberOfAssets($user, $limits, $order, $notionalValue);
 
         // validate market cap limits
-        $this->validateMarketCap($user, $limits, $pair, $order, $notionalValue);
+        $this->validateMarketCap($user, $limits, $order, $notionalValue);
+    }
+
+    private function fetchSymbolPrice(OrderData $order): float
+    {
+        $response = $this->binanceApi->marketData->symbolPrice($order->pair->symbol);
+
+        return floatval($response->json('price'));
+    }
+
+    /**
+     * @throws OrderValidationException
+     */
+    public function validateQuantity(OrderData $order): void
+    {
+        $minQuantity = $order->pair->min_quantity;
+
+        // validate min quantity
+        if (! empty($minQuantity) && $minQuantity > $order->quantity) {
+            throw new OrderValidationException(OrderErrorEnum::MIN_QUANTITY_EXCEEDED, [
+                'min' => $minQuantity,
+            ]);
+        }
+
+        $maxQuantity = $order->pair->max_quantity;
+
+        // validate max quantity
+        if (! empty($maxQuantity) && $maxQuantity < $order->quantity) {
+            throw new OrderValidationException(OrderErrorEnum::MAX_QUANTITY_EXCEEDED, [
+                'max' => $maxQuantity,
+            ]);
+        }
+    }
+
+    /**
+     * @throws OrderValidationException
+     */
+    public function validateStepSize(OrderData $order): void
+    {
+        // modulo between two tiny
+        // float numbers is kinda tricky,
+        // so we have to use something
+        // else than fmod
+
+        if (empty($order->pair->step_size)) {
+            return;
+        }
+
+        $quantityAsString = sprintf("%.{$order->pair->base_currency_precision}f", $order->quantity);
+        $stepSiteAsString = sprintf("%.{$order->pair->base_currency_precision}f", $order->pair->step_size);
+
+        // validate step size
+        if (bcmod($quantityAsString, $stepSiteAsString) !== '0') {
+            throw new OrderValidationException(OrderErrorEnum::STEP_SIZE_INVALID, [
+                'step' => $order->pair->step_size,
+            ]);
+        }
+    }
+
+    /**
+     * @throws OrderValidationException
+     */
+    private function validateNotionalValue(OrderData $order, float $notionalValue): void
+    {
+        $minNotional = $order->pair->min_notional;
+
+        // validate min notional value
+        if (! empty($minNotional) && $minNotional > $notionalValue) {
+            throw new OrderValidationException(OrderErrorEnum::MIN_NOTIONAL_EXCEEDED, [
+                'min' => $minNotional,
+            ]);
+        }
+
+        $maxNotional = $order->pair->max_notional;
+
+        // validate max notional value
+        if (! empty($maxNotional) && $maxNotional < $notionalValue) {
+            throw new OrderValidationException(OrderErrorEnum::MAX_NOTIONAL_EXCEEDED, [
+                'max' => $maxNotional,
+            ]);
+        }
     }
 
     /**
@@ -111,21 +180,21 @@ class OrderBuyValidator
         }
 
         // check number of daily trades
-        if (! empty($limits->trade_daily) && (($val = $this->orderRepository->getDailyOrderCount($user)) + 1) > $limits->trade_daily) {
+        if (! empty($limits->trade_daily) && ($this->orderRepository->getDailyOrderCount($user) + 1) > $limits->trade_daily) {
             throw new OrderValidationException(OrderErrorEnum::DAILY_TRADES_EXCEEDED, [
                 'max' => $limits->trade_daily,
             ]);
         }
 
         // check number of weekly trades
-        if (! empty($limits->trade_weekly) && (($val = $this->orderRepository->getWeeklyOrderCount($user)) + 1) > $limits->trade_weekly) {
+        if (! empty($limits->trade_weekly) && ($this->orderRepository->getWeeklyOrderCount($user) + 1) > $limits->trade_weekly) {
             throw new OrderValidationException(OrderErrorEnum::WEEKLY_TRADES_EXCEEDED, [
                 'max' => $limits->trade_weekly,
             ]);
         }
 
         // check number of monthly trades
-        if (! empty($limits->trade_monthly) && (($val = $this->orderRepository->getMonthlyOrderCount($user)) + 1) > $limits->trade_monthly) {
+        if (! empty($limits->trade_monthly) && ($this->orderRepository->getMonthlyOrderCount($user) + 1) > $limits->trade_monthly) {
             throw new OrderValidationException(OrderErrorEnum::MONTHLY_TRADES_EXCEEDED, [
                 'max' => $limits->trade_monthly,
             ]);
@@ -135,12 +204,16 @@ class OrderBuyValidator
     /**
      * @throws OrderValidationException
      */
-    private function validateNumberOfAssets(User $user, Limits $limits, CurrencyPair $pair): void
+    private function validateNumberOfAssets(User $user, Limits $limits, OrderData $order, float $notionalValue): void
     {
         // limits are turned off
         if (! $limits->cryptocurrency_enabled) {
             return;
         }
+
+        // count the total number of assets
+
+        $numberOfAssets = $user->assets()->count();
 
         // if user has already the asset
         // he is trying to buy, we don't
@@ -150,18 +223,24 @@ class OrderBuyValidator
 
         $userHasAsset = $user
             ->assets()
-            ->where('currency_id', '=', $pair->base_currency_id)
+            ->where('currency_id', '=', $order->pair->base_currency_id)
             ->exists();
 
-        if ($userHasAsset) {
-            return;
-        }
-
-        $numberOfAssets = $user->assets()->count();
-
-        if (! empty($limits->cryptocurrency_max) && ($numberOfAssets + 1) > $limits->cryptocurrency_max) {
+        if (! $userHasAsset && ! empty($limits->cryptocurrency_max) && ($numberOfAssets + 1) > $limits->cryptocurrency_max) {
             throw new OrderValidationException(OrderErrorEnum::MAX_ASSETS_EXCEEDED, [
                 'max' => $limits->cryptocurrency_max,
+            ]);
+        }
+
+        /** @var Asset $quoteAsset */
+        $quoteAsset = $user
+            ->assets()
+            ->where('currency_id', '=', $order->pair->quote_currency_id)
+            ->first();
+
+        if (($quoteAsset->balance - $notionalValue) === 0.0 && ! empty($limits->cryptocurrency_min) && ($numberOfAssets - 1) < $limits->cryptocurrency_min) {
+            throw new OrderValidationException(OrderErrorEnum::MIN_ASSETS_EXCEEDED, [
+                'min' => $limits->cryptocurrency_max,
             ]);
         }
     }
@@ -169,12 +248,12 @@ class OrderBuyValidator
     /**
      * @throws OrderValidationException
      */
-    private function validateFunds(User $user, CurrencyPair $pair, float $notionalValue): void
+    private function validateFunds(User $user, OrderData $order, float $notionalValue): void
     {
         /** @var Asset|null $asset */
         $asset = $user
             ->assets()
-            ->where('currency_id', '=', $pair->quote_currency_id)
+            ->where('currency_id', '=', $order->pair->quote_currency_id)
             ->first();
 
         // user does not own the quote asset
@@ -185,7 +264,7 @@ class OrderBuyValidator
             ]);
         }
 
-        $funds = $this->orderRepository->sumWaitingOrderQuotes($user, $pair) + $asset->balance;
+        $funds = $this->orderRepository->sumWaitingOrderQuote($user, $order->pair) + $asset->balance;
 
         if ($funds < $notionalValue) {
             throw new OrderValidationException(OrderErrorEnum::NO_FUNDS, [
@@ -197,32 +276,7 @@ class OrderBuyValidator
     /**
      * @throws OrderValidationException
      */
-    public function validateStepSize(CurrencyPair $pair, OrderData $order): void
-    {
-        // modulo between two tiny
-        // float numbers is kinda tricky,
-        // though we have to use something
-        // else than fmod
-
-        if (empty($pair->step_size)) {
-            return;
-        }
-
-        $quantityAsString = sprintf("%.{$pair->base_currency_precision}f", $order->quantity);
-        $stepSiteAsString = sprintf("%.{$pair->base_currency_precision}f", $pair->step_size);
-
-        // validate step size
-        if (bcmod($quantityAsString, $stepSiteAsString) !== '0') {
-            throw new OrderValidationException(OrderErrorEnum::STEP_SIZE_INVALID, [
-                'step' => $pair->step_size,
-            ]);
-        }
-    }
-
-    /**
-     * @throws OrderValidationException
-     */
-    public function validateMarketCap(User $user, Limits $limits, CurrencyPair $pair, OrderData $order, float $notionalValue): void
+    public function validateMarketCap(User $user, Limits $limits, OrderData $order, float $notionalValue): void
     {
         if (! $limits->market_cap_enabled) {
             return;
@@ -245,8 +299,8 @@ class OrderBuyValidator
         // both of these market cap categories
         // because both categories will be changing
 
-        $baseCurrency = $pair->loadMissing('baseCurrency')->baseCurrency;
-        $quoteCurrency = $pair->loadMissing('quoteCurrency')->quoteCurrency;
+        $baseCurrency = $order->pair->loadMissing('baseCurrency')->baseCurrency;
+        $quoteCurrency = $order->pair->loadMissing('quoteCurrency')->quoteCurrency;
 
         // retrieve all users assets,
         // scope them only for cryptocurrencies

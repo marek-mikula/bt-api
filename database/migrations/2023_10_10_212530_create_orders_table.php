@@ -11,11 +11,12 @@ return new class extends Migration
         Schema::create('orders', function (Blueprint $table) {
             $table->id();
             $table->uuid('binance_uuid');
+            $table->unsignedBigInteger('binance_id');
             $table->foreignId('user_id');
-            $table->foreignId('pair_id')->nullable();
-            $table->string('type');
+            $table->foreignId('pair_id');
+            $table->string('side');
             $table->string('status');
-            $table->double('quantity');
+            $table->double('base_quantity');
             $table->double('quote_quantity');
             $table->double('price');
             $table->timestamps();

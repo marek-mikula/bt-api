@@ -29,15 +29,19 @@ class SpotClient extends BinanceClient implements SpotClientInterface
 
     public function placeOrder(KeyPairData $keyPair, OrderData $order): BinanceResponse
     {
+        $precision = $order->pair->base_currency_precision;
+
         $params = $this->signParams($keyPair, [
-            'symbol' => $order->symbol,
-            'side' => $order->type->name,
+            'symbol' => $order->pair->symbol,
+            'side' => $order->side->name,
             'type' => 'MARKET',
-            'quantity' => sprintf("%.{$order->quantityPrecision}f", $order->quantity), // transform float to formatted number
+            'quantity' => sprintf("%.{$precision}f", $order->quantity), // transform float to formatted number
             'newClientOrderId' => $order->uuid,
         ]);
 
-        $response = $this->authRequest($keyPair)->asForm()->post('/api/v3/order', $params);
+        $response = $this->authRequest($keyPair)
+            ->asForm()
+            ->post('/api/v3/order', $params);
 
         $response = new BinanceResponse($response);
 
@@ -48,11 +52,11 @@ class SpotClient extends BinanceClient implements SpotClientInterface
         return $response;
     }
 
-    public function order(KeyPairData $keyPair, OrderData $order): BinanceResponse
+    public function order(KeyPairData $keyPair, string $symbol, string $uuid): BinanceResponse
     {
         $params = $this->signParams($keyPair, [
-            'symbol' => $order->symbol,
-            'origClientOrderId' => $order->uuid,
+            'symbol' => $symbol,
+            'origClientOrderId' => $uuid,
         ]);
 
         $response = $this->authRequest($keyPair)->get('/api/v3/order', $params);
