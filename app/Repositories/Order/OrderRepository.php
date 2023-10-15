@@ -5,9 +5,26 @@ namespace App\Repositories\Order;
 use App\Models\CurrencyPair;
 use App\Models\Order;
 use App\Models\User;
+use Illuminate\Pagination\LengthAwarePaginator;
 
 class OrderRepository implements OrderRepositoryInterface
 {
+    public function index(User $user, int $page, int $perPage = 50): LengthAwarePaginator
+    {
+        return Order::query()
+            ->with([
+                'pair',
+                'pair.baseCurrency',
+                'pair.quoteCurrency',
+            ])
+            ->ofUser($user)
+            ->latest('id')
+            ->paginate(
+                perPage: $perPage,
+                page: $page
+            );
+    }
+
     public function create(array $data): Order
     {
         /** @var Order $order */
