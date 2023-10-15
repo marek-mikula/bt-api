@@ -8,6 +8,7 @@ use Domain\Cryptocurrency\Providers\CryptocurrencyServiceProvider;
 use Domain\Currency\Providers\CurrencyServiceProvider;
 use Domain\Dashboard\Providers\DashboardServiceProvider;
 use Domain\Limits\Providers\LimitsServiceProvider;
+use Domain\Order\Providers\OrderServiceProvider;
 use Domain\Quiz\Providers\QuizServiceProvider;
 use Domain\Search\Providers\SearchServiceProvider;
 use Domain\User\Providers\UserServiceProvider;
@@ -28,6 +29,7 @@ class DomainServiceProvider extends ServiceProvider
         $this->app->register(LimitsServiceProvider::class);
         $this->app->register(CurrencyServiceProvider::class);
         $this->app->register(WhaleAlertServiceProvider::class);
+        $this->app->register(OrderServiceProvider::class);
     }
 
     public function boot(): void

@@ -1,0 +1,26 @@
+{
+    "symbol": "BTCDAI",
+    "orderId": 385620,
+    "orderListId": -1,
+    "clientOrderId": "7fa16372-0199-4f56-8608-eaa81fefd399",
+    "transactTime": 1697052836294,
+    "price": "0.00000000",
+    "origQty": "0.00019000",
+    "executedQty": "0.00019000",
+    "cummulativeQuoteQty": "5.15228700",
+    "status": "FILLED",
+    "timeInForce": "GTC",
+    "type": "MARKET",
+    "side": "BUY",
+    "workingTime": 1697052836294,
+    "fills": [
+        {
+            "price": "27117.30000000",
+            "qty": "0.00019000",
+            "commission": "0.00000000",
+            "commissionAsset": "BTC",
+            "tradeId": 24179
+        }
+    ],
+    "selfTradePreventionMode": "NONE"
+}

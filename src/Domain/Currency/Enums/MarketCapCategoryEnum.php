@@ -1,6 +1,6 @@
 <?php
 
-namespace Domain\Limits\Enums;
+namespace Domain\Currency\Enums;
 
 enum MarketCapCategoryEnum: string
 {

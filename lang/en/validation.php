@@ -212,6 +212,20 @@ return [
                 'limits_market_cap_value' => 'The total number of percentage must be max. 100%.',
             ],
         ],
+        'order' => [
+            'min_quantity_exceeded' => 'The minimum quantity is :min.',
+            'max_quantity_exceeded' => 'The maximum quantity is :max.',
+            'step_size_invalid' => 'The quantity must be a multiple of :step.',
+            'min_notional_exceeded' => 'The minimum notional value is :min.',
+            'max_notional_exceeded' => 'The maximum notional value is :max.',
+            'no_funds' => 'You do not have enough funds to create this order. Available funds: :funds.',
+            'daily_trades_exceeded' => 'Maximum number of daily trades (:max) have been exceeded. Please wait to another day.',
+            'weekly_trades_exceeded' => 'Maximum number of weekly trades (:max) have been exceeded. Please wait to another week.',
+            'monthly_trades_exceeded' => 'Maximum number of monthly trades (:max) have been exceeded. Please wait to another month.',
+            'max_assets_exceeded' => 'Maximum number of assets (:max) in your wallet has been exceeded.',
+            'min_assets_exceeded' => 'Minimum number of assets (:min) in your wallet has been exceeded.',
+            'market_cap_exceeded' => 'Your set limit between :from % and :to % for :category market cap has been exceeded by :value %.',
+        ],
     ],
 
     /*

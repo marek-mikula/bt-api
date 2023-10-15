@@ -6,7 +6,7 @@ use App\Data\Notification\DatabaseNotification;
 use App\Enums\NotificationTypeEnum;
 use App\Models\User;
 use App\Notifications\BaseNotification;
-use Domain\Limits\Enums\MarketCapCategoryEnum;
+use Domain\Currency\Enums\MarketCapCategoryEnum;
 
 class LimitsMarketCapNotification extends BaseNotification
 {

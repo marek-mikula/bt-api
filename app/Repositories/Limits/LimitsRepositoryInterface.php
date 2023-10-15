@@ -3,9 +3,12 @@
 namespace App\Repositories\Limits;
 
 use App\Models\Limits;
+use App\Models\User;
 
 interface LimitsRepositoryInterface
 {
+    public function findOrCreate(User $user): Limits;
+
     public function create(array $data): Limits;
 
     /**

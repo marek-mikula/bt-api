@@ -3,6 +3,7 @@
 namespace Domain\Cryptocurrency\Providers;
 
 use App\Models\Currency;
+use App\Models\CurrencyPair;
 use App\Providers\RouteServiceProvider;
 use Illuminate\Support\Facades\Route;
 
@@ -29,6 +30,15 @@ class CryptocurrencyRouteServiceProvider extends RouteServiceProvider
                 ->findOrFail((int) $value);
 
             return $cryptocurrency;
+        });
+
+        Route::bind('pair', static function (string $value): CurrencyPair {
+            /** @var CurrencyPair $pair */
+            $pair = CurrencyPair::query()
+                ->ofSymbol($value)
+                ->firstOrFail();
+
+            return $pair;
         });
     }
 }

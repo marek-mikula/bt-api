@@ -1,6 +1,6 @@
 <?php
 
-use Domain\Limits\Enums\MarketCapCategoryEnum;
+use Domain\Currency\Enums\MarketCapCategoryEnum;
 
 return [
     'market_cap' => [

@@ -4,6 +4,7 @@ namespace App\Models;
 
 use App\Models\Query\CurrencyQuery;
 use Carbon\Carbon;
+use Domain\Currency\Enums\MarketCapCategoryEnum;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\BelongsToMany;
@@ -18,12 +19,12 @@ use Illuminate\Support\Collection;
  * @property bool $is_fiat
  * @property int $cmc_id
  * @property int|null $cmc_rank
+ * @property MarketCapCategoryEnum|null $market_cap_category
  * @property array $meta
  * @property Carbon $created_at
  * @property Carbon $updated_at
  * @property-read Collection<Asset> $assets
  * @property-read Collection<Currency> $quoteCurrencies
- * @property-read Collection<Currency> $baseCurrencies
  *
  * @method static CurrencyQuery query()
  */
@@ -41,6 +42,7 @@ class Currency extends Model
         'is_fiat',
         'cmc_id',
         'cmc_rank',
+        'market_cap_category',
         'meta',
     ];
 
@@ -54,6 +56,7 @@ class Currency extends Model
         'is_fiat' => 'boolean',
         'cmc_id' => 'integer',
         'cmc_rank' => 'integer',
+        'market_cap_category' => MarketCapCategoryEnum::class,
         'meta' => 'array',
     ];
 
@@ -77,22 +80,12 @@ class Currency extends Model
             relatedPivotKey: 'quote_currency_id',
             parentKey: 'id',
             relatedKey: 'id',
-        )->withPivot('symbol');
-    }
-
-    /**
-     * @see Currency::$baseCurrencies
-     */
-    public function baseCurrencies(): BelongsToMany
-    {
-        return $this->belongsToMany(
-            related: Currency::class,
-            table: 'currency_pairs',
-            foreignPivotKey: 'quote_currency_id',
-            relatedPivotKey: 'base_currency_id',
-            parentKey: 'id',
-            relatedKey: 'id',
-        )->withPivot('symbol');
+        )->withPivot([
+            'symbol',
+            'min_quantity',
+            'max_quantity',
+            'step_size',
+        ]);
     }
 
     /**

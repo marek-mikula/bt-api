@@ -2,6 +2,7 @@
 
 namespace App\Models;
 
+use Apis\Binance\Data\KeyPairData;
 use App\Casts\EncryptCast;
 use App\Models\Query\UserQuery;
 use App\Models\Traits\Notifiable;
@@ -90,6 +91,11 @@ class User extends Authenticatable
         'email_verified_at' => 'datetime:Y-m-d H:i:s',
         'quiz_finished_at' => 'datetime:Y-m-d H:i:s',
     ];
+
+    public function getKeyPair(): KeyPairData
+    {
+        return once(fn (): KeyPairData => KeyPairData::fromUser($this));
+    }
 
     /**
      * @see User::$password

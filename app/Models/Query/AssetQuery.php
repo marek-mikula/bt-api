@@ -3,6 +3,7 @@
 namespace App\Models\Query;
 
 use App\Models\Asset;
+use App\Models\Query\Traits\BelongsToCurrency;
 use App\Models\Query\Traits\BelongsToUser;
 
 /**
@@ -11,4 +12,5 @@ use App\Models\Query\Traits\BelongsToUser;
 class AssetQuery extends BaseQuery
 {
     use BelongsToUser;
+    use BelongsToCurrency;
 }

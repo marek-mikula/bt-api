@@ -30,6 +30,9 @@ class CurrencyResource extends JsonResource
         if ($this->resource->pivot) {
             $pivot = [
                 'symbol' => $this->resource->pivot->symbol,
+                'minQuantity' => $this->resource->pivot->min_quantity,
+                'maxQuantity' => $this->resource->pivot->max_quantity,
+                'stepSize' => $this->resource->pivot->step_size,
             ];
         }
 
@@ -39,6 +42,7 @@ class CurrencyResource extends JsonResource
             'symbol' => $this->resource->symbol,
             'name' => $this->resource->name,
             'isFiat' => $this->resource->is_fiat,
+            'marketCapCategory' => $this->resource->market_cap_category?->value,
             'meta' => $meta,
             'pivot' => $this->when(! empty($pivot), $pivot),
             'quotes' => new CurrencyResourceCollection($this->whenLoaded('quoteCurrencies')),

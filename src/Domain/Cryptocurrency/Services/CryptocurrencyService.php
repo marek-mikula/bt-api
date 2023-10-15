@@ -2,12 +2,16 @@
 
 namespace Domain\Cryptocurrency\Services;
 
+use Apis\Binance\Http\BinanceApi;
 use Apis\Coinmarketcap\Http\CoinmarketcapApi;
 use Apis\Cryptopanic\Http\CryptopanicApi;
+use App\Models\Asset;
 use App\Models\Currency;
+use App\Models\CurrencyPair;
 use App\Models\User;
 use App\Repositories\Asset\AssetRepositoryInterface;
 use App\Repositories\Currency\CurrencyRepositoryInterface;
+use App\Repositories\Order\OrderRepositoryInterface;
 use App\Repositories\WhaleAlert\WhaleAlertRepositoryInterface;
 use Domain\Cryptocurrency\Data\CryptocurrencyListData;
 use Domain\Cryptocurrency\Data\CryptocurrencyShowData;
@@ -22,19 +26,22 @@ class CryptocurrencyService
     public function __construct(
         private readonly WhaleAlertRepositoryInterface $whaleAlertRepository,
         private readonly CurrencyRepositoryInterface $currencyRepository,
+        private readonly OrderRepositoryInterface $orderRepository,
         private readonly AssetRepositoryInterface $assetRepository,
         private readonly CoinmarketcapApi $coinmarketcapApi,
         private readonly CryptopanicApi $cryptopanicApi,
+        private readonly BinanceApi $binanceApi,
     ) {
     }
 
-    public function getDataForIndex(int $page, int $perPage = 50): LengthAwarePaginator
+    public function getDataForIndex(User $user, int $page, int $perPage = 50): LengthAwarePaginator
     {
         if ($page < 1) {
             $page = 1;
         }
 
         $cryptocurrencies = $this->currencyRepository->cryptocurrenciesIndex(
+            user: $user,
             page: $page,
             perPage: $perPage
         );
@@ -53,6 +60,11 @@ class CryptocurrencyService
                 }
 
                 $quoteCurrency = (string) collect($quote['quote'])->keys()->first();
+
+                // get user's asset if any
+
+                /** @var Asset|null $userAsset */
+                $userAsset = $currency->assets->first();
 
                 return CryptocurrencyListData::from([
                     'currency' => $currency,
@@ -73,6 +85,7 @@ class CryptocurrencyService
                         'volume24h' => floatval($quote['quote'][$quoteCurrency]['volume_24h']),
                         'volumeChange24h' => floatval($quote['quote'][$quoteCurrency]['volume_change_24h']) / 100,
                     ],
+                    'userAsset' => $userAsset,
                 ]);
             });
     }
@@ -82,6 +95,7 @@ class CryptocurrencyService
         Currency $cryptocurrency,
         int $whaleAlertsCount = 5,
         int $newsCount = 5,
+        int $ordersCount = 5,
     ): CryptocurrencyShowData {
         // load needed relationships
         $cryptocurrency->loadMissing('quoteCurrencies');
@@ -117,6 +131,8 @@ class CryptocurrencyService
                 'sourceUrl' => "https://www.{$item['source']['domain']}",
             ]));
 
+        $orders = $this->orderRepository->latest($user, count: $ordersCount, currency: $cryptocurrency);
+
         $userAsset = $this->assetRepository->findByUserAndCurrency($user, $cryptocurrency);
 
         return CryptocurrencyShowData::from([
@@ -139,6 +155,7 @@ class CryptocurrencyService
                 'volumeChange24h' => floatval($quote['quote'][$quoteCurrency]['volume_change_24h']) / 100,
             ],
             'news' => $news,
+            'orders' => $orders,
             'userAsset' => $userAsset,
             'whaleAlerts' => $whaleAlerts,
         ]);
@@ -180,5 +197,20 @@ class CryptocurrencyService
             'volume24h' => floatval($quote['quote'][$quoteCurrency]['volume_24h']),
             'volumeChange24h' => floatval($quote['quote'][$quoteCurrency]['volume_change_24h']) / 100,
         ]);
+    }
+
+    public function getSymbolPrice(CurrencyPair $pair): float
+    {
+        $response = $this->binanceApi->marketData->symbolPrice($pair->symbol);
+
+        $price = floatval($response->json('price'));
+
+        // change price a little if we are using mocked
+        // data, so we can simulate price changes over time
+        if (config('binance.mock')) {
+            $price = $price * (rand(90, 110) / 100);
+        }
+
+        return floatval($price);
     }
 }

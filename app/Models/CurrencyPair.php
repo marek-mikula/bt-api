@@ -13,6 +13,13 @@ use Illuminate\Database\Query\Builder;
  * @property int $base_currency_id
  * @property int $quote_currency_id
  * @property string $symbol
+ * @property float|null $min_quantity
+ * @property float|null $max_quantity
+ * @property float|null $step_size
+ * @property float|null $min_notional
+ * @property float|null $max_notional
+ * @property int $base_currency_precision
+ * @property int $quote_currency_precision
  * @property-read Currency $baseCurrency
  * @property-read Currency $quoteCurrency
  *
@@ -32,12 +39,26 @@ class CurrencyPair extends Model
         'base_currency_id',
         'quote_currency_id',
         'symbol',
+        'min_quantity',
+        'max_quantity',
+        'step_size',
+        'min_notional',
+        'max_notional',
+        'base_currency_precision',
+        'quote_currency_precision',
     ];
 
     protected $casts = [
         'base_currency_id' => 'integer',
         'quote_currency_id' => 'integer',
         'symbol' => 'string',
+        'min_quantity' => 'double',
+        'max_quantity' => 'double',
+        'step_size' => 'double',
+        'min_notional' => 'double',
+        'max_notional' => 'double',
+        'base_currency_precision' => 'integer',
+        'quote_currency_precision' => 'integer',
     ];
 
     /**

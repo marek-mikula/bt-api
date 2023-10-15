@@ -9,6 +9,7 @@ use App\Models\Currency;
 use App\Models\CurrencyPair;
 use Domain\Currency\Data\BinanceCurrencyData;
 use Domain\Currency\Data\BinancePairData;
+use Domain\Currency\Enums\MarketCapCategoryEnum;
 use Illuminate\Support\Arr;
 use Illuminate\Support\Collection;
 use Illuminate\Support\Str;
@@ -134,11 +135,11 @@ class CurrencyIndexer
 
             /** @var Currency $model */
             $model = Currency::query()->updateOrCreate([
-                'symbol' => Str::upper($fiat->symbol),
+                'cmc_id' => (int) $meta['id'],
             ], [
+                'symbol' => Str::upper($fiat->symbol),
                 'name' => (string) $meta['name'],
                 'is_fiat' => 1,
-                'cmc_id' => (int) $meta['id'],
                 'meta' => Arr::only($meta, [
                     'sign',
                 ]),
@@ -164,16 +165,23 @@ class CurrencyIndexer
 
         $symbols = $cryptos->pluck('symbol');
 
-        // Retrieve mappings of given symbols
+        // Retrieve mappings of given symbols,
+        // filter untracked coins
 
         /** @var Collection<array> $mappings */
         $mappings = $this->coinmarketcapApi->map(symbols: $symbols)
             ->collect('data')
+            ->filter(static fn (array $mapping): bool => $mapping['status'] === 'active')
             ->keyBy('id');
 
         // Retrieve IDs of given symbols
 
         $ids = $mappings->pluck('id')->all();
+
+        // Retrieve quotes for each given ID
+
+        $quotes = $this->coinmarketcapApi->quotes(id: $ids)
+            ->collect('data');
 
         // Retrieve metadata for each given ID
 
@@ -213,14 +221,20 @@ class CurrencyIndexer
             /** @var array $mapping */
             $mapping = $mappings->get((int) $meta['id']);
 
+            /** @var array $quote */
+            $quote = $quotes->get((int) $meta['id']);
+
+            $quoteCurrency = (string) collect($quote['quote'])->keys()->first();
+
             /** @var Currency $model */
             $model = Currency::query()->updateOrCreate([
-                'symbol' => Str::upper($crypto->symbol),
+                'cmc_id' => (int) $meta['id'],
             ], [
+                'symbol' => Str::upper($crypto->symbol),
                 'name' => $crypto->name,
                 'is_fiat' => 0,
-                'cmc_id' => (int) $meta['id'],
                 'cmc_rank' => empty($mapping['rank']) ? 99_999 : (int) $mapping['rank'],
+                'market_cap_category' => MarketCapCategoryEnum::createFromValue($quote['quote'][$quoteCurrency]['market_cap'] ?? 0.0),
                 'meta' => Arr::except($meta, [
                     'id',
                     'name',
@@ -257,50 +271,87 @@ class CurrencyIndexer
         /** @var Collection<Collection<BinancePairData>> $symbolGroups */
         $symbolGroups = $this->binanceApi->marketData->exchangeInfo()
             ->collect('symbols')
-            ->map(static fn (array $item): BinancePairData => BinancePairData::from([
-                'symbol' => (string) $item['symbol'],
-                'baseAsset' => (string) $item['baseAsset'],
-                'quoteAsset' => (string) $item['quoteAsset'],
-            ]))
+            ->map(static function (array $item): BinancePairData {
+                $filters = collect(Arr::get($item, 'filters', []));
+
+                /** @var array|null $lotSizeFilter */
+                $lotSizeFilter = $filters->first(
+                    static fn (array $filter): bool => $filter['filterType'] === 'LOT_SIZE'
+                );
+
+                /** @var array|null $notionalFilter */
+                $notionalFilter = $filters->first(
+                    static fn (array $filter): bool => $filter['filterType'] === 'NOTIONAL'
+                );
+
+                return BinancePairData::from([
+                    'symbol' => (string) $item['symbol'],
+                    'baseAsset' => (string) $item['baseAsset'],
+                    'quoteAsset' => (string) $item['quoteAsset'],
+                    'minQuantity' => $lotSizeFilter ? floatval($lotSizeFilter['minQty']) : null,
+                    'maxQuantity' => $lotSizeFilter ? floatval($lotSizeFilter['maxQty']) : null,
+                    'stepSize' => $lotSizeFilter ? floatval($lotSizeFilter['stepSize']) : null,
+                    'minNotional' => $notionalFilter && $notionalFilter['applyMinToMarket'] ? floatval($notionalFilter['minNotional']) : null,
+                    'maxNotional' => $notionalFilter && $notionalFilter['applyMaxToMarket'] ? floatval($notionalFilter['maxNotional']) : null,
+                    'baseCurrencyPrecision' => (int) $item['baseAssetPrecision'],
+                    'quoteCurrencyPrecision' => (int) $item['quoteAssetPrecision'],
+                ]);
+            })
             ->groupBy('baseAsset');
 
+        /**
+         * @var string $baseAsset
+         * @var Collection<BinancePairData> $quoteAssets
+         */
         foreach ($symbolGroups as $baseAsset => $quoteAssets) {
-            /** @var Currency|null $baseAsset */
-            $baseAsset = Currency::query()
+            /** @var Currency|null $baseCurrency */
+            $baseCurrency = Currency::query()
                 ->crypto()
-                ->ofSymbol($baseAsset)->first();
+                ->ofSymbol($baseAsset)
+                ->first();
 
             // asset is probably not supported
 
-            if (! $baseAsset) {
+            if (! $baseCurrency) {
                 continue;
             }
 
-            /** @var Collection<Currency> $quoteAssets */
-            $quoteAssets = Currency::query()
+            /** @var Collection<Currency> $quoteCurrencies */
+            $quoteCurrencies = Currency::query()
                 ->crypto()
                 ->ofSymbols($quoteAssets->pluck('quoteAsset'))
                 ->get();
 
             // none of any quote asset is supported
 
-            if ($quoteAssets->isEmpty()) {
+            if ($quoteCurrencies->isEmpty()) {
                 continue;
             }
 
-            foreach ($quoteAssets as $quoteAsset) {
+            foreach ($quoteCurrencies as $quoteCurrency) {
+                /** @var BinancePairData $quoteAsset */
+                $quoteAsset = $quoteAssets
+                    ->first(static fn (BinancePairData $item): bool => $item->quoteAsset === $quoteCurrency->symbol);
+
                 /** @var CurrencyPair $model */
                 $model = CurrencyPair::query()->updateOrCreate([
-                    'base_currency_id' => $baseAsset->id,
-                    'quote_currency_id' => $quoteAsset->id,
+                    'base_currency_id' => $baseCurrency->id,
+                    'quote_currency_id' => $quoteCurrency->id,
                 ], [
-                    'symbol' => $baseAsset->symbol.$quoteAsset->symbol,
+                    'symbol' => $baseCurrency->symbol.$quoteCurrency->symbol,
+                    'min_quantity' => $quoteAsset->minQuantity,
+                    'max_quantity' => $quoteAsset->maxQuantity,
+                    'step_size' => $quoteAsset->stepSize,
+                    'min_notional' => $quoteAsset->minNotional,
+                    'max_notional' => $quoteAsset->maxNotional,
+                    'base_currency_precision' => $quoteAsset->baseCurrencyPrecision,
+                    'quote_currency_precision' => $quoteAsset->quoteCurrencyPrecision,
                 ]);
 
                 $ids->push($model->id);
             }
 
-            $baseCurrencyIds->push($baseAsset->id);
+            $baseCurrencyIds->push($baseCurrency->id);
         }
 
         // delete not updated pairs from DB

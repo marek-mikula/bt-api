@@ -2,7 +2,6 @@
 
 namespace Domain\User\Jobs;
 
-use Apis\Binance\Data\KeyPairData;
 use Apis\Binance\Exceptions\BinanceBanException;
 use Apis\Binance\Exceptions\BinanceLimitException;
 use Apis\Binance\Http\BinanceApi;
@@ -27,7 +26,7 @@ class SyncAssetsJob extends BaseJob
     public function handle(BinanceApi $binanceApi): void
     {
         try {
-            $response = $binanceApi->spot->account(KeyPairData::fromUser($this->user));
+            $response = $binanceApi->spot->account($this->user->getKeyPair());
         } catch (BinanceBanException $e) {
             $this->release(now()->addMilliseconds($e->ban->waitMs));
 

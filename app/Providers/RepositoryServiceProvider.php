@@ -14,6 +14,8 @@ use App\Repositories\MfaToken\MfaTokenRepository;
 use App\Repositories\MfaToken\MfaTokenRepositoryInterface;
 use App\Repositories\Notification\NotificationRepository;
 use App\Repositories\Notification\NotificationRepositoryInterface;
+use App\Repositories\Order\OrderRepository;
+use App\Repositories\Order\OrderRepositoryInterface;
 use App\Repositories\QuizResult\QuizResultRepository;
 use App\Repositories\QuizResult\QuizResultRepositoryInterface;
 use App\Repositories\User\UserRepository;
@@ -38,6 +40,7 @@ class RepositoryServiceProvider extends ServiceProvider implements DeferrablePro
         AssetRepositoryInterface::class => AssetRepository::class,
         WhaleAlertRepositoryInterface::class => WhaleAlertRepository::class,
         CurrencyRepositoryInterface::class => CurrencyRepository::class,
+        OrderRepositoryInterface::class => OrderRepository::class,
     ];
 
     public function register(): void

@@ -4,7 +4,9 @@ namespace App\Repositories\Asset;
 
 use App\Models\Asset;
 use App\Models\Currency;
+use App\Models\Order;
 use App\Models\User;
+use Domain\Cryptocurrency\Enums\OrderSideEnum;
 use Illuminate\Support\Collection;
 use Illuminate\Support\Facades\DB;
 
@@ -28,5 +30,32 @@ class AssetRepository implements AssetRepositoryInterface
             ->first();
 
         return $asset;
+    }
+
+    public function updateBalanceByOrder(Order $order): void
+    {
+        $pair = $order->loadMissing('pair')->pair;
+
+        if ($order->side === OrderSideEnum::BUY) {
+            Asset::query()
+                ->ofUserId($order->user_id)
+                ->ofCurrencyId($pair->base_currency_id)
+                ->increment('balance', $order->base_quantity);
+
+            Asset::query()
+                ->ofUserId($order->user_id)
+                ->ofCurrencyId($pair->quote_currency_id)
+                ->decrement('balance', $order->quote_quantity);
+        } else {
+            Asset::query()
+                ->ofUserId($order->user_id)
+                ->ofCurrencyId($pair->base_currency_id)
+                ->decrement('balance', $order->base_quantity);
+
+            Asset::query()
+                ->ofUserId($order->user_id)
+                ->ofCurrencyId($pair->quote_currency_id)
+                ->increment('balance', $order->quote_quantity);
+        }
     }
 }
