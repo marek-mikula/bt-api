@@ -11,7 +11,7 @@ use App\Models\Order;
 use App\Models\User;
 use App\Repositories\Asset\AssetRepositoryInterface;
 use App\Repositories\Order\OrderRepositoryInterface;
-use Domain\Cryptocurrency\Enums\OrderStatusEnum;
+use Domain\Order\Enums\OrderStatusEnum;
 use Domain\Order\Exceptions\OrderValidationException;
 use Domain\Order\Http\Requests\Data\OrderRequestData;
 use Illuminate\Support\Str;

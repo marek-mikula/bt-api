@@ -1,6 +1,6 @@
 <?php
 
-namespace Domain\Cryptocurrency\Enums;
+namespace Domain\Order\Enums;
 
 enum OrderSideEnum: string
 {

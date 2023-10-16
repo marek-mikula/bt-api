@@ -5,8 +5,8 @@ namespace App\Models\Query;
 use App\Models\Order;
 use App\Models\Query\Traits\BelongsToCurrencyPair;
 use App\Models\Query\Traits\BelongsToUser;
-use Domain\Cryptocurrency\Enums\OrderSideEnum;
-use Domain\Cryptocurrency\Enums\OrderStatusEnum;
+use Domain\Order\Enums\OrderSideEnum;
+use Domain\Order\Enums\OrderStatusEnum;
 
 /**
  * @see Order

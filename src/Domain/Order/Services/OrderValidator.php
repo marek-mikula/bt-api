@@ -10,7 +10,7 @@ use App\Models\Limits;
 use App\Models\User;
 use App\Repositories\Limits\LimitsRepositoryInterface;
 use App\Repositories\Order\OrderRepositoryInterface;
-use Domain\Cryptocurrency\Enums\OrderSideEnum;
+use Domain\Order\Enums\OrderSideEnum;
 use Domain\Currency\Enums\MarketCapCategoryEnum;
 use Domain\Order\Enums\OrderErrorEnum;
 use Domain\Order\Exceptions\OrderValidationException;

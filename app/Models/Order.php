@@ -4,8 +4,8 @@ namespace App\Models;
 
 use App\Models\Query\OrderQuery;
 use Carbon\Carbon;
-use Domain\Cryptocurrency\Enums\OrderSideEnum;
-use Domain\Cryptocurrency\Enums\OrderStatusEnum;
+use Domain\Order\Enums\OrderSideEnum;
+use Domain\Order\Enums\OrderStatusEnum;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\BelongsTo;

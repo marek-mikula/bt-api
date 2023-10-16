@@ -6,7 +6,7 @@ use App\Models\Asset;
 use App\Models\Currency;
 use App\Models\Order;
 use App\Models\User;
-use Domain\Cryptocurrency\Enums\OrderSideEnum;
+use Domain\Order\Enums\OrderSideEnum;
 use Illuminate\Support\Collection;
 use Illuminate\Support\Facades\DB;
 

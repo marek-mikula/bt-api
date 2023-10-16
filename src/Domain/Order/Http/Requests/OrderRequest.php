@@ -4,7 +4,7 @@ namespace Domain\Order\Http\Requests;
 
 use App\Http\Requests\AuthRequest;
 use App\Models\CurrencyPair;
-use Domain\Cryptocurrency\Enums\OrderSideEnum;
+use Domain\Order\Enums\OrderSideEnum;
 use Domain\Order\Http\Requests\Data\OrderRequestData;
 use Illuminate\Validation\Rules\Enum;
 use Illuminate\Validation\Rules\Exists;

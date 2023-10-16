@@ -3,7 +3,7 @@
 namespace Domain\Order\Http\Requests\Data;
 
 use App\Models\CurrencyPair;
-use Domain\Cryptocurrency\Enums\OrderSideEnum;
+use Domain\Order\Enums\OrderSideEnum;
 use Spatie\LaravelData\Data;
 
 class OrderRequestData extends Data
