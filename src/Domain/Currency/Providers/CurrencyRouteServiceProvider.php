@@ -1,13 +1,13 @@
 <?php
 
-namespace Domain\Cryptocurrency\Providers;
+namespace Domain\Currency\Providers;
 
 use App\Models\Currency;
 use App\Models\CurrencyPair;
 use App\Providers\RouteServiceProvider;
 use Illuminate\Support\Facades\Route;
 
-class CryptocurrencyRouteServiceProvider extends RouteServiceProvider
+class CurrencyRouteServiceProvider extends RouteServiceProvider
 {
     public function boot(): void
     {
@@ -15,9 +15,9 @@ class CryptocurrencyRouteServiceProvider extends RouteServiceProvider
 
         $this->routes(static function (): void {
             Route::middleware('api')
-                ->prefix('/api/cryptocurrencies')
-                ->as('api.cryptocurrency.')
-                ->group(__DIR__.'/../Routes/cryptocurrency.php');
+                ->prefix('/api/currencies')
+                ->as('api.currencies.')
+                ->group(__DIR__.'/../Routes/currency.php');
         });
     }
 

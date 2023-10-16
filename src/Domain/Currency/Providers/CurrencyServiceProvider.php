@@ -12,6 +12,7 @@ class CurrencyServiceProvider extends ServiceProvider
     public function register(): void
     {
         $this->app->registerDeferredProvider(CurrencyDeferredServiceProvider::class);
+        $this->app->register(CurrencyRouteServiceProvider::class);
     }
 
     public function boot(): void

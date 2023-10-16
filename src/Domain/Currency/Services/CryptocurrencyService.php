@@ -1,22 +1,20 @@
 <?php
 
-namespace Domain\Cryptocurrency\Services;
+namespace Domain\Currency\Services;
 
-use Apis\Binance\Http\BinanceApi;
 use Apis\Coinmarketcap\Http\CoinmarketcapApi;
 use Apis\Cryptopanic\Http\CryptopanicApi;
 use App\Models\Asset;
 use App\Models\Currency;
-use App\Models\CurrencyPair;
 use App\Models\User;
 use App\Repositories\Asset\AssetRepositoryInterface;
 use App\Repositories\Currency\CurrencyRepositoryInterface;
 use App\Repositories\Order\OrderRepositoryInterface;
 use App\Repositories\WhaleAlert\WhaleAlertRepositoryInterface;
-use Domain\Cryptocurrency\Data\CryptocurrencyListData;
-use Domain\Cryptocurrency\Data\CryptocurrencyShowData;
-use Domain\Cryptocurrency\Data\NewsData;
-use Domain\Cryptocurrency\Data\QuoteData;
+use Domain\Currency\Data\CryptocurrencyListData;
+use Domain\Currency\Data\CryptocurrencyShowData;
+use Domain\Currency\Data\NewsData;
+use Domain\Currency\Data\QuoteData;
 use Exception;
 use Illuminate\Pagination\LengthAwarePaginator;
 use Illuminate\Support\Str;
@@ -30,7 +28,6 @@ class CryptocurrencyService
         private readonly AssetRepositoryInterface $assetRepository,
         private readonly CoinmarketcapApi $coinmarketcapApi,
         private readonly CryptopanicApi $cryptopanicApi,
-        private readonly BinanceApi $binanceApi,
     ) {
     }
 
@@ -197,20 +194,5 @@ class CryptocurrencyService
             'volume24h' => floatval($quote['quote'][$quoteCurrency]['volume_24h']),
             'volumeChange24h' => floatval($quote['quote'][$quoteCurrency]['volume_change_24h']) / 100,
         ]);
-    }
-
-    public function getSymbolPrice(CurrencyPair $pair): float
-    {
-        $response = $this->binanceApi->marketData->symbolPrice($pair->symbol);
-
-        $price = floatval($response->json('price'));
-
-        // change price a little if we are using mocked
-        // data, so we can simulate price changes over time
-        if (config('binance.mock')) {
-            $price = $price * (rand(90, 110) / 100);
-        }
-
-        return floatval($price);
     }
 }

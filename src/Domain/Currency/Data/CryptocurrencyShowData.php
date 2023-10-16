@@ -1,6 +1,6 @@
 <?php
 
-namespace Domain\Cryptocurrency\Data;
+namespace Domain\Currency\Data;
 
 use App\Data\BaseData;
 use App\Http\Resources\AssetResource;

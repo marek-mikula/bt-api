@@ -15,8 +15,8 @@ class UserRouteServiceProvider extends RouteServiceProvider
     {
         $this->routes(static function (): void {
             Route::middleware('api')
-                ->prefix('/api/user')
-                ->as('api.user.')
+                ->prefix('/api/users')
+                ->as('api.users.')
                 ->group(__DIR__.'/../Routes/user.php');
         });
 

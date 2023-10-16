@@ -7,7 +7,7 @@ use Laravel\Sanctum\Http\Controllers\CsrfCookieController;
 Route::get('/csrf-cookie', [CsrfCookieController::class, 'show'])
     ->name('csrf_cookie');
 
-Route::group(['middleware' => 'guest:sanctum'], static function (): void {
+Route::group(['middleware' => ['guest:sanctum']], static function (): void {
     Route::post('/register', [AuthController::class, 'register'])
         ->name('register');
 
@@ -15,7 +15,7 @@ Route::group(['middleware' => 'guest:sanctum'], static function (): void {
         ->name('login');
 });
 
-Route::group(['middleware' => 'auth:sanctum'], static function (): void {
+Route::group(['middleware' => ['auth:sanctum']], static function (): void {
     Route::post('/logout', [AuthController::class, 'logout'])
         ->name('logout');
 

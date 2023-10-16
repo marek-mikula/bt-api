@@ -22,8 +22,8 @@ class AuthRouteServiceProvider extends RouteServiceProvider
                 ->group(domain_path('Auth', 'Routes/mfa.php'));
 
             Route::middleware('api')
-                ->prefix('/api/password-reset')
-                ->as('api.password_reset.')
+                ->prefix('/api/password-resets')
+                ->as('api.password_resets.')
                 ->group(domain_path('Auth', 'Routes/password-reset.php'));
         });
 

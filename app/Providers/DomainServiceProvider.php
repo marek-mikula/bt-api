@@ -4,7 +4,6 @@ namespace App\Providers;
 
 use Domain\Alert\Providers\AlertServiceProvider;
 use Domain\Auth\Providers\AuthServiceProvider;
-use Domain\Cryptocurrency\Providers\CryptocurrencyServiceProvider;
 use Domain\Currency\Providers\CurrencyServiceProvider;
 use Domain\Dashboard\Providers\DashboardServiceProvider;
 use Domain\Limits\Providers\LimitsServiceProvider;
@@ -24,7 +23,6 @@ class DomainServiceProvider extends ServiceProvider
         $this->app->register(UserServiceProvider::class);
         $this->app->register(DashboardServiceProvider::class);
         $this->app->register(SearchServiceProvider::class);
-        $this->app->register(CryptocurrencyServiceProvider::class);
         $this->app->register(AlertServiceProvider::class);
         $this->app->register(LimitsServiceProvider::class);
         $this->app->register(CurrencyServiceProvider::class);

@@ -5,7 +5,7 @@ use Domain\Auth\Http\Controllers\MfaController;
 use Domain\Auth\Http\Middleware\MfaTokenMiddleware;
 use Illuminate\Support\Facades\Route;
 
-Route::group(['middleware' => 'guest:sanctum'], static function (): void {
+Route::group(['middleware' => ['guest:sanctum']], static function (): void {
     Route::post('/verify-email', [MfaController::class, 'verifyEmail'])
         ->middleware(MfaTokenMiddleware::apply(MfaTokenTypeEnum::VERIFY_EMAIL))
         ->name('verify_email');
