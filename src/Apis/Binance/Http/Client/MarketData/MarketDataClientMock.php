@@ -1,6 +1,6 @@
 <?php
 
-namespace Apis\Binance\Http\Client;
+namespace Apis\Binance\Http\Client\MarketData;
 
 use Apis\Binance\Http\BinanceResponse;
 use Apis\Binance\Http\Client\Concerns\MarketDataClientInterface;

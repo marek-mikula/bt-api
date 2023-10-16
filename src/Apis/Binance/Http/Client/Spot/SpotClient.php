@@ -1,11 +1,12 @@
 <?php
 
-namespace Apis\Binance\Http\Client;
+namespace Apis\Binance\Http\Client\Spot;
 
 use Apis\Binance\Data\KeyPairData;
 use Apis\Binance\Data\OrderData;
 use Apis\Binance\Exceptions\BinanceRequestException;
 use Apis\Binance\Http\BinanceResponse;
+use Apis\Binance\Http\Client\BinanceClient;
 use Apis\Binance\Http\Client\Concerns\SpotClientInterface;
 
 class SpotClient extends BinanceClient implements SpotClientInterface

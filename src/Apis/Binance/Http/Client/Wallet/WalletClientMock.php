@@ -1,6 +1,6 @@
 <?php
 
-namespace Apis\Binance\Http\Client;
+namespace Apis\Binance\Http\Client\Wallet;
 
 use Apis\Binance\Data\KeyPairData;
 use Apis\Binance\Http\BinanceResponse;

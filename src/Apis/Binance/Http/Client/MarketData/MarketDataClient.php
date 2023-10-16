@@ -1,9 +1,10 @@
 <?php
 
-namespace Apis\Binance\Http\Client;
+namespace Apis\Binance\Http\Client\MarketData;
 
 use Apis\Binance\Exceptions\BinanceRequestException;
 use Apis\Binance\Http\BinanceResponse;
+use Apis\Binance\Http\Client\BinanceClient;
 use Apis\Binance\Http\Client\Concerns\MarketDataClientInterface;
 use Illuminate\Support\Collection;
 

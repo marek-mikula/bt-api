@@ -1,10 +1,11 @@
 <?php
 
-namespace Apis\Binance\Http\Client;
+namespace Apis\Binance\Http\Client\Wallet;
 
 use Apis\Binance\Data\KeyPairData;
 use Apis\Binance\Exceptions\BinanceRequestException;
 use Apis\Binance\Http\BinanceResponse;
+use Apis\Binance\Http\Client\BinanceClient;
 use Apis\Binance\Http\Client\Concerns\WalletClientInterface;
 
 class WalletClient extends BinanceClient implements WalletClientInterface
