@@ -13,7 +13,7 @@ interface CryptopanicClientInterface
      * parameter is passed, the news are filtered
      * by those currencies.
      *
-     * Maximum number of currencies if 50.
+     * Maximum number of currencies is 50.
      *
      * @param  Collection<string>|null  $currencies
      *
