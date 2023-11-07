@@ -3,12 +3,16 @@
 use Domain\User\Http\Controllers\UserAccountSettingsController;
 use Domain\User\Http\Controllers\UserAlertsSettingsController;
 use Domain\User\Http\Controllers\UserAssetsController;
+use Domain\User\Http\Controllers\UserController;
 use Domain\User\Http\Controllers\UserLimitsSettingsController;
 use Domain\User\Http\Controllers\UserNotificationController;
 use Domain\User\Http\Controllers\UserNotificationsSettingsController;
 use Illuminate\Support\Facades\Route;
 
 Route::group(['middleware' => ['auth:sanctum']], static function (): void {
+    Route::delete('/', [UserController::class, 'delete'])
+        ->name('delete');
+
     Route::group(['prefix' => '/notifications', 'as' => 'notifications.'], static function (): void {
         Route::get('/', [UserNotificationController::class, 'index'])
             ->name('index');

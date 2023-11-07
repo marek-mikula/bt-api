@@ -2,6 +2,7 @@
 
 namespace Domain\Auth\Services;
 
+use App\Http\Requests\AuthRequest;
 use App\Models\MfaToken;
 use App\Models\User;
 use App\Repositories\MfaToken\MfaTokenRepositoryInterface;
@@ -85,5 +86,14 @@ class AuthService
     public function loginWithModel(User $user, bool $rememberMe = false): void
     {
         auth('api')->login($user, $rememberMe);
+    }
+
+    public function logout(AuthRequest $request): void
+    {
+        auth('api')->logout();
+
+        $request->session()->invalidate();
+
+        $request->session()->regenerateToken();
     }
 }
